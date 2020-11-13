@@ -508,16 +508,19 @@ public class AzurLaneScraper {
                             continue;
                         if (img.attr("src").toLowerCase().contains(ship.getName().toLowerCase().replace(" ", "_")) &&
                                 img.attr("src").toLowerCase().contains("chibi")) {
-                            skin.setChibiUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4));
+                            skin.setChibiUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4).replace("thumb/", ""));
                         } else if (img.attr("src").toLowerCase().contains(ship.getName().toLowerCase().replace(" ", "_")) &&
                                 img.attr("src").toLowerCase().contains("withoutbg")) {
-                            skin.setSpriteNoBackgroundUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4));
+                            skin.setSpriteNoBackgroundUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4).replace("thumb/", ""));
                         } else if (img.attr("src").toLowerCase().contains(ship.getName().toLowerCase().replace(" ", "_")) &&
                                 img.attr("src").contains("CN")) {
-                            skin.setSpriteCNUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4));
+                            skin.setSpriteCNUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4).replace("thumb/", ""));
                         } else if (img.attr("src").toLowerCase().contains(ship.getName().toLowerCase().replace(" ", "_")) &&
                                 img.attr("src").toLowerCase().contains("censored")) {
-                            skin.setSpriteCensoredUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4));
+                            skin.setSpriteCensoredUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4).replace("thumb/", ""));
+                        } else if (img.attr("src").toLowerCase().contains(ship.getName().toLowerCase().replace(" ", "_")) &&
+                                img.attr("src").toLowerCase().contains("old version")) {
+                            skin.setSpriteCensoredUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4).replace("thumb/", ""));
                         } else if (img.attr("src").toLowerCase().contains(ship.getName().toLowerCase().replace(" ", "_"))) {
                             skin.setSpriteUrl(azurLaneKoumakanJp + img.attr("src").substring(0, img.attr("src").indexOf(".png") + 4));
                         }

@@ -1148,7 +1148,7 @@
       "obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 4 bonus",
       "l2dModel": false,
       "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1a/AyanamiBluray.png",
-      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d9/AyanamiBlurayWithoutBG.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/d/d9/AyanamiBlurayWithoutBG.png",
       "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/AyanamiBlurayChibi.png",
       "shipDescription": [
         "这里是柚，成功潜入指挥室。…啊，被指挥官发现了， 作战失败…的说",
@@ -1383,7 +1383,7 @@
       "cost": "Gem 1100",
       "l2dModel": true,
       "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/16/AyanamiParty.png",
-      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/24/AyanamiPartyWithoutBG.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/2/24/AyanamiPartyWithoutBG.png",
       "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/17/AyanamiPartyChibi.png",
       "shipDescription": [
         "指挥官，谢谢你能来参加宴会。柚在这里等了很久了。……有点可怕？柚不大明白…的说。",
