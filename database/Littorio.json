@@ -1,0 +1,654 @@
+{
+  "name": "Littorio",
+  "constructionTime": "05:15:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Littorio",
+  "ID": "410",
+  "faction": "Sardegna Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "股间少女",
+  "pixiv": "https://www.pixiv.net/member.php?id=12834728",
+  "twitter": "https://twitter.com/gujianshaonv",
+  "link": "https://www.weibo.com/u/5205759948",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/2/2a/Littorio_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      8367,
+      154,
+      79,
+      421,
+      0,
+      35,
+      30,
+      243,
+      0,
+      15,
+      58,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      7182,
+      134,
+      79,
+      379,
+      0,
+      21,
+      30,
+      211,
+      0,
+      15,
+      49,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1389,
+      57,
+      79,
+      80,
+      0,
+      8,
+      30,
+      45,
+      0,
+      5,
+      19,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 40,
+  "maxLimitBreakTechPoints": 80,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 60,
+  "enhancementValue": [
+    67,
+    0,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    10
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Rosa Bombardamento; CN: Rose Bombardamento JP: ローザ・ボンバルダメント",
+  "skill1Description": "When firing main gun: 35% (65%) chance to fire a special barrage (damage is based on skill level). If equipped with the : improves the barrage and increases its proc chance by 10%. ,",
+  "skill2Name": "Sardegnian Discipline; CN: 撒丁的矜持 JP: サディアの矜持",
+  "skill2Description": "After battle starts, deploys 2 shields that can each block up to 1 (2) enemy torpedoes around this ship and the Lead Ship of the Escort Fleet. Additionally, increases own Firepower by 4% (20%) for her first 3 battles of each sortie.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/36/Littorio.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/52/LittorioChibi.png",
+      "shipDescription": [
+        "维托里奥·维内托级战列舰—利托里奥",
+        "ヴィットリオ・ヴェネト級戦艦・リットリオ",
+        "Rejoice, Commander! For you have gained an indomitable ally in Littorio, but more importantly... let's put a smile on that cute face of yours."
+      ],
+      "selfIntroduction": [
+        "地中海最强大的的战舰之一，维托里奥·维内托级二号舰，利托里奥，现在就站在你的面前。曾经，地中海是我午后漫步的花园，现在，这片蔚蓝大海也不会例外。让我们的敌人大吃一惊吧，指挥官",
+        "地中海最強の戦艦の一隻、ヴィットリオ・ヴェネト級の二番艦、リットリオはここだ。かの大戦で海を我が庭の如く練り歩いた、今も変わらない。さあ指揮官、敵の度肝を抜きに行こうではないか",
+        "I am Littorio, Vittorio Veneto-class battleship number two; the Mediterranean's mightiest battleship. During the war, I strutted about the ocean as if it was my garden, and that shall not change even now. Now, let us strike fear into the hearts of our enemies, Commander!"
+      ],
+      "acquisition": [
+        "露出笑容吧，指挥官。因为你可是获得了无敌的利托里奥哦，不过更重要的是——还是笑容更加适合这张可爱的脸呢~",
+        "さあ指揮官、笑うがいい！貴方はこの無敵なるリットリオを手に入れた、そしてなによりも――その可愛い顔には、笑顔こそが似合ってるよ",
+        "Rejoice, Commander! For you have gained an indomitable ally in Littorio, but more importantly... let's put a smile on that cute face of yours."
+      ],
+      "login": [
+        "等待虽然无趣，但等待你并不无趣，指挥官",
+        "待つのは退屈だが、貴方を待つとなれば退屈はしないよ？指揮官",
+        "Waiting is tedious, but waiting for you is anything but, Commander."
+      ],
+      "details": [
+        "维内托在总旗舰这个位置上还是做得挺不错的…不过，想要更进一步的话，还是需要向我学习呢，哈哈哈哈",
+        "ヴェネトめ、総旗艦としては中々やるな…ま、その先に進むというのなら、私を見習わないといかんな。はははは",
+        "That Veneto, she's not half bad for a fleet flagship... However, if she wants to move forward, she must learn from me. Hahahaha!"
+      ],
+      "secretaryIdle1": [
+        "这个世界上存在两种舰船，一种是我利托里奥，一种是利托里奥以外的舰船",
+        "この世には二種類の艦船が存在する。このリットリオと、このリットリオじゃない奴らだ",
+        "There are two kinds of people in the world: those who are Littorio, and those who are not."
+      ],
+      "secretaryIdle2": [
+        "指挥官，你不觉得可惜吗？因为，世界上有那么多需要照亮的地方，却只有一个利托里奥",
+        "指揮官、惜しいとは思わないかな？世界で光を求める場所は多くあるというのに、このリットリオは一人しかいないのだ",
+        "Isn't it lamentable, Commander? There are so many places in the world that yearn for light, but there is but one Littorio."
+      ],
+      "secretaryIdle3": [
+        "没错，飞机它们确实拉开了新时代的帷幕，但是，战舰曾是海上霸主这一点永远不会改变。即使是我，也不认为世上有永恒的辉煌哦，指挥官",
+        "なに、戦艦が海を制した時代があっても、艦載機が新しい時代の始まりを告げたのは否定のしようがないことだ。いくら私でもそれを認めないわけにはいかないよ",
+        "There is no denying that, though battleships once ruled the seas, aircraft have ushered in the beginning of a new era. This is a fact that not even I can refute."
+      ],
+      "secretaryTouch": [
+        "主动追求，也是种不一样的有趣体验，不是吗？",
+        "こちらから人を追い求めるのは、新鮮で面白い体験だ。違うか？",
+        "Chasing after others is a novel and interesting experience, is it not?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，我理解我的魅力让你无法自拔，不过，这种事不是现在在这种场合应该做的吧~?",
+        "指揮官、私の魅力に惹かれたのはわかるが…まあ…今はこんなことをしている場合じゃないだろ？",
+        "Commander, it's understandable that you would fall for me... but... this is not the time nor place for debauchery."
+      ],
+      "task": [
+        "指挥官，每一个任务，都有它独一无二的存在价值，你应当认真对待它们才对，不是吗？",
+        "指揮官、すべての任務にはそれ相応の価値がある、つまり真面目にこなしておくべきだ。違うか？",
+        "Commander, there is value to be found in all missions, so they should be carried out in earnest. Am I wrong?"
+      ],
+      "taskComplete": [
+        "下次应该告诉军部，这样的奖励，可无法满足利托里奥",
+        "次は上層部に連絡してくれよ？この程度の報酬じゃ、このリットリオを満足させるには程遠い、とな",
+        "Contact your superiors for me. Tell them these paltry rewards do not satisfy me."
+      ],
+      "mail": [
+        "唔…似乎我的粉丝来信比指挥官的信更多呢…",
+        "……私への手紙が指揮官宛のより多いんだな",
+        "It appears there are more letters addressed to me than to you."
+      ],
+      "returnFromMission": [
+        "高兴一点，指挥官，因为出征回来后，还有利托里奥在等着你呢",
+        "喜ぶがいい。指揮官、貴方の帰還にこのリットリオの出迎えがあるのだ",
+        "Rejoice, Commander, for I am here to bid your return welcome."
+      ],
+      "commission": [
+        "指挥官，别担心，有我在，委托组这一次也会是丰收",
+        "なに指揮官、心配するな。私がいれば委託の報酬は上々に決まっている",
+        "You need not worry, Commander. For as long as I am here, your commission rewards will be superb."
+      ],
+      "strengthening": [
+        "能发现利托里奥的实力，正是你眼光的证明",
+        "このリットリオの真の力を見通せたなら、貴方のセンスが高い証明になるよ",
+        "Your ability to see my true potential proves that your perception is superb."
+      ],
+      "startingMission": [
+        "敌人迷路了吗？真没办法",
+        "敵はこちらに迷い込んだのかな？しょうがないな",
+        "Did the enemy wander here by mistake? That's too bad for them."
+      ],
+      "mvp": [
+        "你们最大的失误，就是选择了站在利托里奥的对立面",
+        "貴方達の最大の間違いは、このリットリオに立ち向かおうとしたことだ",
+        "Trying to oppose me was your greatest mistake."
+      ],
+      "defeat": [
+        "输了？不，我们只是还没有赢而已",
+        "負けた？違う、まだ勝っていないだけよ",
+        "Defeated? No, we are simply not victorious yet."
+      ],
+      "skillActivation": [
+        "Arrivederci！",
+        "アリーヴェデルチ！",
+        "Arrivederci!"
+      ],
+      "lowHP": [
+        "普列赛，再努力一下",
+        "プリエーゼ、もう少しだ！",
+        "Don't give in yet, Pugliese system!"
+      ],
+      "affinityDisappointed": [
+        "抱歉，指挥官。原本，我以为我的存在能成为你前进的动力，没想到，却成为了让你停滞的理由…",
+        "すまない、指揮官。貴方を推し進めるつもりでいたが、どうやら私の存在がかえって貴方の邁進を止めることになったな……",
+        "I apologize, Commander. I only wanted to push you in the right direction, but it seems that all I did was impede your progress..."
+      ],
+      "affinityStranger": [
+        "指挥官，想要我的签名吗？如果是你的话，特别给你免费吧，哈哈，开玩笑的",
+        "私のサインがほしいのかな？ほかならぬ指揮官の頼みだ、特別に無料でくれてやろう――なんてな、ははは",
+        "You want my autograph? I will give you it for free, as a special favor... Just kidding. Hahaha!"
+      ],
+      "affinityFriendly": [
+        "指挥官，你应该自信一点。因为，我信任着身为我的指挥官的你，也就是说，你可是被世界上最闪耀的舰船信任着，不是吗？",
+        "指揮官はもっと自信をもったほうがいい。なに、このリットリオの指揮官を務めるのはつまり、世界で一番輝かしい艦の信を得ているということだ。誇らしいとは思わないか？",
+        "Be more confident in yourself, Commander. To serve as the commander of Littorio means that have earned the trust of the most glorious ship in all the world. Aren't you proud?"
+      ],
+      "affinityLike": [
+        "不得不说，指挥官，你有成为像我这样光芒万丈的人的潜质——哈哈，我很高兴哦，有一个能够切磋琢磨，齐同并进的人可是求之不得的呢",
+        "指揮官にはこのリットリオのように輝かしい存在になれる素質があると、認めざるを得ないな。これは喜ばしいことだ、なにせ私とともに歩める存在は求めても得られないものだったからな",
+        "Commander, I must admit that you have the qualities to become as glorious as me. That is a wonderful thing, for though I have always wanted a partner to journey with, none were capable of it until now."
+      ],
+      "affinityLove": [
+        "你怎样看待这个世界，世界就会怎样回馈你。所以别气馁，别灰心，喜欢的东西就去争取，想要的东西就去得到。你可是利托里奥唯一认同的人啊",
+        "貴方が周りと接している分だけ、周りが貴方のことを分かってくれて、報いてくれる。だから心配するな。好きなものは追い求め、奪い取るがいい。私が、このリットリオが貴方を認めるから",
+        "When you give to the world, the world gives back to you. So put your mind at ease. Pursue the object of your desire and grab hold of it. Because I, Littorio, deem you worthy."
+      ],
+      "pledge": [
+        "真不可思议，曾经，我以为我永远不会遇到能为我戴上指环的人。而现在，这个人就站在我的面前，而且他是如此的可爱……我的指挥官，告诉我，为什么你会让我如此心动？",
+        "まったく不思議なことだ。このリットリオに誓いの指輪を差し出す人なんているはずがないと思いきや、こうして貴方が目の前に現れて、そして私の心まで奪ったとは……教えてくれ、貴方はどうやって私を攻略したのだ？",
+        "I simply cannot understand. I was convinced that nobody would be worthy of placing this ring upon me, yet here you are before my eyes, having captured my very heart... Tell me, Commander, how did you successfully win me over?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Felice San Valentino. Commander, accepting chocolate from me is the same as declaring that you're the second most radiant existence around this place, you know. Ahaha, so this is what it's like to be surrounded by charisma. I'll be looking forward to your return gift on White Day, okay?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Littorio_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Littorio_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Littorio_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Littorio_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Littorio_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Littorio_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Littorio_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Littorio_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Littorio_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Littorio_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Littorio_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Littorio_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Littorio_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Littorio_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Littorio_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Littorio_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Littorio_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Littorio_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Littorio_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Littorio_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Littorio_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Littorio_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Littorio_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Littorio_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Littorio_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Littorio_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Littorio_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Littorio_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Littorio_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Littorio_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Littorio_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Littorio_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Littorio_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Littorio_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Littorio_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Littorio_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Littorio_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Littorio_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Littorio_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Littorio_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Littorio_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Littorio_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Littorio_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Littorio_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Littorio_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Littorio_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Littorio_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Littorio_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Littorio_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Littorio_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Littorio_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Littorio_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Littorio_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Littorio_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Littorio_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Littorio_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Littorio_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Littorio_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Littorio_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Littorio_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Littorio_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Littorio_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Littorio_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Littorio_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Littorio_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Littorio_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Littorio_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Littorio_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Littorio_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Littorio_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Littorio_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Littorio_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Littorio_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Littorio_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Littorio_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Littorio_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Littorio_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Littorio_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Glory of Naples",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "那不勒斯之光",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ナポリに輝け",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/39/LittorioSummer.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0d/LittorioSummerWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7d/LittorioSummerChibi.png",
+      "shipDescription": [
+        "要和我一起去沙滩？呵呵，指挥官，那你可要努力一点。否则，我可要夺去沙滩上其他舰船们的目光了~",
+        "私とともに海辺に行きたいか？なら少し目立つように頑張れよ？でないとみんなの目はこのリットリオが独占してしまうからな",
+        "A visit to the beach with me? Then you must try your hardest to stand out. Otherwise the eyes of the world will be on me alone."
+      ],
+      "acquisition": [
+        "要和我一起去沙滩？呵呵，指挥官，那你可要努力一点。否则，我可要夺去沙滩上其他舰船们的目光了~",
+        "私とともに海辺に行きたいか？なら少し目立つように頑張れよ？でないとみんなの目はこのリットリオが独占してしまうからな",
+        "A visit to the beach with me? Then you must try your hardest to stand out. Otherwise the eyes of the world will be on me alone."
+      ],
+      "login": [
+        "指挥官，你来了，今天的我，可是比阳光还要耀眼呢",
+        "指揮官、来たか。ふん、今日の私は太陽よりも輝かしい存在だ",
+        "I see you've returned, Commander. Hmph, today my glory shines brighter than even the sun."
+      ],
+      "details": [
+        "维内托？指挥官，奉劝你不要太过期待——不，我并不是说她的泳装，而是，她可是会花一整天在用沙子堆角斗场的天才",
+        "ヴェネト？あまりあいつに期待しないほうがいい――いや、水着のことじゃない。あいつ丸一日使って砂のコロッセオを作っちゃうタイプだよ？",
+        "Veneto? Don't expect much from her... No, I don't mean her swimsuit. She's the type that would spend the entire day building a sand Colosseum."
+      ],
+      "secretaryIdle1": [
+        "这个世界上，存在两种人，一种是被我的泳装迷倒的人，一种呢，是将要被我泳装迷倒的人。你是哪种呢，指挥官？",
+        "この世には二種類の人が存在する。このリットリオの水着姿に心奪われる者、そして今にも心奪われそうになっている者だ。指揮官、貴方はどっちだ？",
+        "There are two kinds of people in the world: those who are bewitched by Littorio's swimsuit, and those who are not. Which one are you, Commander?"
+      ],
+      "secretaryIdle2": [
+        "地中海的夏天虽然美丽，但却没有这里热闹。对我来说，当然更喜欢这片能让更多人感受到我利托里奥魅力的港区沙滩",
+        "地中海の夏は美しいものだが、喧騒さならこの海のほうが勝っている。なに、私の魅力をより多くの子に気づかせられる、こっちの方がお気に入りだ",
+        "The Mediterranean Sea is thing of beauty in summer, but this sea surpasses it in sheer bustle. I prefer this one; it lets my glamor reach the hearts and minds of many more."
+      ],
+      "secretaryIdle3": [
+        "嗯？维内托要参加沙滩排球大会？……她那样可是要给我们阵营丢脸的，没办法，我去帮她一把吧",
+        "なに？ヴェネトのやつ、ビーチバレーに参戦するだと！？……サディアの威光に泥を塗らないよう助けてあげなければ……",
+        "What? That damned Veneto is going to play beach volleyball?! ... I must help her, to ensure the Sardegna Empire's glory remains unsullied..."
+      ],
+      "secretaryTouch": [
+        "穿上泳装将自己最有魅力的一面展现出来，这可是一件棒到不行的事呢，你说是吧，指挥官？",
+        "水着姿で自分の魅力を最大限に表現する――最高だと思わないか？指揮官？",
+        "Donning swimwear to display one's glamor for all to see – isn't it fantastic, Commander?"
+      ],
+      "returnFromMission": [
+        "呵呵，就给你一点“杀必死”吧，指挥官，怎么样~?",
+        "ふふ、「サービス」とやらをくれてやろう。指揮官、どうだ？",
+        "Heheh, I say you deserve some \"eye candy.\" Interested, Commander?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Littorio_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Littorio_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Littorio_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Littorio_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Littorio_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Littorio_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Littorio_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Littorio_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Littorio_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Littorio_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Littorio_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Littorio_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Littorio_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Littorio_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Littorio_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Littorio_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Littorio_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Littorio_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Littorio_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Littorio_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Littorio_Sec1Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Littorio_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Littorio_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Littorio_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Calabria Aurea",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "Calabria Aurea",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "カラブリア・アウレア",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1d/LittorioParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9a/LittorioPartyChibi.png",
+      "shipDescription": [
+        "欢迎来到利托里奥的宴会场地——指挥官，要比一比谁能夺得更多女孩儿的芳心吗？哈哈哈，开玩笑的，必胜的赌局又有什么意义呢~",
+        "リットリオのスイートルームへようこそ――指揮官、さては見惚れさせた女の子の数でも競いに来たのかな？ははは、冗談だ。私が100％勝つ勝負なんて面白くもないしな",
+        "Welcome to Littorio's personal suite. Are you here to issue me a challenge of who can romance the most girls? Hahahah, I'm joking of course! There'd be no fun in a game I would win every single time."
+      ],
+      "acquisition": [
+        "欢迎来到利托里奥的宴会场地——指挥官，要比一比谁能夺得更多女孩儿的芳心吗？哈哈哈，开玩笑的，必胜的赌局又有什么意义呢~",
+        "リットリオのスイートルームへようこそ――指揮官、さては見惚れさせた女の子の数でも競いに来たのかな？ははは、冗談だ。私が100％勝つ勝負なんて面白くもないしな",
+        "Welcome to Littorio's personal suite. Are you here to issue me a challenge of who can romance the most girls? Hahahah, I'm joking of course! There'd be no fun in a game I would win every single time."
+      ],
+      "login": [
+        "能让我等待的也只有你了，指挥官",
+        "この私を待たせられるのは貴方だけよ。指揮官",
+        "None but you are permitted to keep me waiting, Commander."
+      ],
+      "details": [
+        "反正维内托那个家伙只会想到和其他人一起泡澡这种可爱的方式。外交这种事还是应该交给适合的人来做，不是吗？",
+        "いくら素晴らしく、我らの自慢とはいえ、サディア・テルマエに入りながら外交するとはヴェネトらしい――可愛らしいが、やっぱり外交はプロに任せるべきだ――と、貴方もそう思わないか？",
+        "As proud as we are of our wonderful Sardegnian thermae, and as befittingly charming it is when Veneto conducts foreign relations from them, the fact remains that diplomacy should be left to the pros. Wouldn't you agree?"
+      ],
+      "secretaryIdle1": [
+        "那么，今天会是哪个幸运的女孩儿会收到我的玫瑰呢……当然，指挥官，你想要一束也可以哦~？",
+        "さて、このリットリオのバラを幸運にも手にすることができる子は誰かな？……ああ指揮官、貴方も欲しいなら特別にあげられなくもないよ？",
+        "Now, who will be the lucky recipient of Littorio's rose this time? Oh, but of course, Commander. If you want it, maybe you'll get it?"
+      ],
+      "secretaryIdle2": [
+        "这个世界上，存在两种宴会，一种是有我在的宴会，一种是没有我的宴会，好好享受此刻吧，指挥官",
+        "この世には二種類のパーティーがある。このリットリオが参加するもの、そして欠席するものだ",
+        "There are two kinds of parties in the world: those with Littorio in attendance, and those without."
+      ],
+      "secretaryIdle3": [
+        "这里的每一件家具都是我亲自挑选、亲自摆放的。就算说这个房间就是“the·利托里奥”也不为过，喜欢吗，指挥官？",
+        "ここの調度品の数々は全てこのリットリオのチョイスだ。いわばこのスイートルーム、「ザ・リットリオ」と言っていい――指揮官、気に入ってくれるかな？",
+        "I personally picked out all the various furnishings in here. It is no exaggeration to call this suite \"La Littorio\" itself. How do you like the sound of that, Commander?"
+      ],
+      "secretaryTouch": [
+        "老实说，因为太过习惯宴会我正感到有些无聊呢，指挥官，让我们来做些有趣的事吧",
+        "正直、こういう場には馴染みすぎて少し退屈だった。指揮官、どれ、なにか面白いチャレンジでもしてみないか？",
+        "To be frank, I've been to so many parties that I've grown a bit tired of them. Let's do something interesting for a change, shall we, Commander?"
+      ],
+      "returnFromMission": [
+        "迎接归来的勇士，当然要用最好的美酒——Alla salute！",
+        "凱旋した勇者に最高の祝杯を捧げよう――Alla salute！",
+        "Let us have a grand toast to the triumphant return of our hero. Alla salute!"
+      ],
+      "affinityLove": [
+        "你就像一瓶没有标签的顶级红酒，看起来貌不惊人，打开瓶塞却香味扑鼻，喝一口味道甘醇，令人急不可耐地想将你一饮而尽……激起了我的占有欲，这是你的过错哦，Tesoro Mio",
+        "指揮官…そうね、貴方は銘柄が隠されたリゼルヴァ、その見た目以上に魅力に富んでいて、人を酔わせ、狂わせ、独占したくなる――このリットリオも例外なく、ね？Tesoro Mio",
+        "Commander... you are an unlabeled bottle of fine riserva with more charm than meets the eye – your taste enchanting, maddening, and making one possessive over you. And I – Littorio – am no exception, tesoro mio."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Littorio_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Littorio_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Littorio_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Littorio_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Littorio_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Littorio_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Littorio_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Littorio_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Littorio_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Littorio_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Littorio_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Littorio_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Littorio_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Littorio_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Littorio_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Littorio_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Littorio_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Littorio_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Littorio_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Littorio_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Littorio_Sec1Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Littorio_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Littorio_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Littorio_MissionFinSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Littorio_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Littorio_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Littorio_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

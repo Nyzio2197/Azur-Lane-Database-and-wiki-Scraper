@@ -1,0 +1,599 @@
+{
+  "name": "Naka",
+  "constructionTime": "01:20:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Sendai",
+  "ID": "310",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "卑しい人间",
+  "pixiv": "https://www.pixiv.net/member.php?id=1584611",
+  "link": "https://weibo.com/u/1847715713",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/4/46/Naka_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2540,
+      185,
+      53,
+      151,
+      337,
+      108,
+      35,
+      286,
+      0,
+      9,
+      151,
+      104,
+      0,
+      0
+    ],
+    "Level 100": [
+      2243,
+      161,
+      53,
+      131,
+      308,
+      75,
+      35,
+      251,
+      0,
+      9,
+      135,
+      91,
+      0,
+      0
+    ],
+    "Base Stats": [
+      434,
+      68,
+      53,
+      28,
+      65,
+      29,
+      35,
+      54,
+      0,
+      2,
+      52,
+      25,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "115% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 165%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "115% → 115%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 11,
+  "level120StatBonus": "Light cruiser (CL) Torpedo  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    12,
+    22,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Torpedo Squadron; CN: 水雷战队 JP: 水雷戦隊",
+  "skill1Description": "While alive in fleet, increases Reload and Torpedo for all Light Cruisers and Destroyers in the same fleet by 3% (15%).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-川内型",
+  "skill2Description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Sendai Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b2/Naka.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/74/NakaChibi.png",
+      "shipDescription": [
+        "川内级轻巡洋舰三番舰—那珂",
+        "川内型軽巡洋艦三番艦・那珂",
+        "Sendai-class light cruiser number three – Naka."
+      ],
+      "selfIntroduction": [
+        "我是川内型的三号舰那珂，因为地震的关系，比姐姐们晚降生许多，而且经历也比较坎坷，作为第四水雷战队的旗舰也没什么成绩……不过没关系，我会以姐姐们为目标继续努力，直到超过她们！",
+        "川内型三番艦の那珂です！とある理由から姉さんたちより遅れて建造され、色んな配置を転々して、四水戦の旗艦としての戦績はぱっとしなかったけど……大丈夫！那珂、姉さんたちを越えるよう頑張っちゃいますよ！",
+        "I'm Naka, Sendai-class light cruiser number three! Due to certain circumstances, my construction was delayed, I was redeployed to place after place, and my service record as the flagship of Desron 4 isn't much to brag about... but that's okay! I'll still work my butt off to try to surpass my sisters!"
+      ],
+      "acquisition": [
+        "指挥官，初次见面！我是轻巡洋舰那珂，虽然没有两个姐姐那么有名，不过总有一天我会超过她们的！",
+        "指揮官、はじめまして！軽巡洋艦の那珂です！お姉さん二人ほど有名じゃないけど、いつか絶対に超えてみせますよ！",
+        "Nice to meet you, Commander! I'm the light cruiser Naka! My sisters are better known than me, but I swear that one day I'll be even more famous than them!"
+      ],
+      "login": [
+        "指挥官，欢迎回来，今天我也会努力加油的！",
+        "指揮官、おかえりなさい！今日も頑張っちゃいますよ！",
+        "Welcome back, Commander! I'll try to be the best secretary you've ever had!"
+      ],
+      "details": [
+        "指挥官，来开学习会吗？",
+        "指揮官、お勉強会でもしちゃってみます？",
+        "Commander, would you like to study together with me?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，暂时用不到我的话，我能做些自己的训练吗？不会打扰到你的~",
+        "指揮官、那珂に手伝えることがなさそうなら、少しの間だけ自主練しちゃっても大丈夫ですか？指揮官の仕事の邪魔はしませんよ",
+        "If it looks like there's nothing for me to do, would you mind if I did a little training on my own? I won't get in the way of your work!"
+      ],
+      "secretaryIdle2": [
+        "神通姐是文，川内姐是武，那我那珂就要做到文武双全！……啊哈哈，虽然不知道能不能做到就是了",
+        "知の神通姉さんに、力の川内姉さん…那珂は文武両道で行っちゃいます！…あはは、できるかどうかはわかりませんけどねっ",
+        "Jintsuu is wise, Sendai is strong... but I'll work my way towards both brains and brawn! ...Ahahah, though I'm not sure if I can actually do it."
+      ],
+      "secretaryIdle3": [
+        "指挥官，累了的话，要不要我教你一些放松的办法？我知道很多哦~",
+        "指揮官、疲れてたらいいリラックスの仕方を教えましょうか？実は那珂、結構知っているんですよ～",
+        "If you're tired, would you like me to give you a good relaxation tip? I actually know quite a lot about it~"
+      ],
+      "secretaryTouch": [
+        "哼~哼~哼哼~♪啊，不好意思，指挥官，没有吵到你吧？",
+        "♪～あ、すみません指揮官、仕事の邪魔になったのですか…？",
+        "Hum hum~♪ Oh, sorry, am I disturbing you in the middle of work...?"
+      ],
+      "secretarySpecialTouch": [
+        "呀！……真是的，指挥官，工作的时候请做该做的事！",
+        "きゃっ！……もう、指揮官？勤務中はお仕事に集中してください！",
+        "Eek! ...Please, Commander, try to stay focused on your work while in the office!"
+      ],
+      "task": [
+        "指挥官，任务书整理好了，来，请选一份吧！",
+        "指揮官、任務のリストを整理しました！はい、一つ選んでください！",
+        "I reorganized the mission list for you! Here, please choose one!"
+      ],
+      "taskComplete": [
+        "又完成了一件任务，不愧是指挥官呢，我也要加油！",
+        "また一つ、任務がクリアされました！さすがは指揮官です！那珂も頑張らないと！",
+        "You've cleared another mission! You're so brilliant, Commander! I'll need to work just as hard!"
+      ],
+      "mail": [
+        "指挥官，有你的邮件，我锻炼回来的路上看到的",
+        "指揮官、メールですよ。自主練から帰ってくる途中についでに取ってきました",
+        "Commander, I have mail for you. I picked it up on the way back from my training."
+      ],
+      "returnFromMission": [
+        "回家的感觉真好，指挥官也这么觉得吧？",
+        "やっぱり母港に帰れるのはいいですよね。指揮官もそう思うでしょう？",
+        "There's nothing better than getting to come back home. Wouldn't you agree, Commander?"
+      ],
+      "commission": [
+        "军事委托好像完成了，去打个招呼吧！",
+        "軍事委託が完了したようですよ？帰ってくる皆を労いに行きましょう！",
+        "I think a commission has been completed. We should go and say thanks to the returning team!"
+      ],
+      "strengthening": [
+        "有指挥官的支持，我一定会更努力的！",
+        "指揮官のサポートがあれば、もっと頑張っちゃいます！",
+        "With your support I can work even harder!"
+      ],
+      "startingMission": [
+        "姐姐们，请期待我的活跃吧！",
+        "姉さんたち、那珂の活躍を期待しててね！",
+        "My sisters, please look forward to my performance in battle!"
+      ],
+      "mvp": [
+        "我的目标是超越姐姐们，这点程度可还不够呢！",
+        "姉さんたちを越えるのが目標なんだから、これぐらいなんてことないんだからっ！",
+        "Compared to my goal of surpassing my sisters, this is no big deal at all!"
+      ],
+      "defeat": [
+        "呼，指挥官，撤退吧，神通姐说过，无谓的牺牲是不必要的",
+        "わわ、指揮官、早く撤退しましょう！神通姉さんは無駄な犧牲は必要ないって言ってましたし！",
+        "Oh no! Commander, we should retreat immediately! Jintsuu said we shouldn't make meaningless sacrifices!"
+      ],
+      "skillActivation": [
+        "那珂我可是很厉害的！",
+        "那珂はすごいんだからねっ！",
+        "I'm really powerful, you know!"
+      ],
+      "lowHP": [
+        "各位，不要慌张，改变策略！",
+        "みんな、落ち着いて、やり方を変えよう！",
+        "Everyone, stay calm! Let's change our strategy!"
+      ],
+      "affinityDisappointed": [
+        "姐姐们之所以会选择指挥官，难道只是因为指挥官什么都不会，正好能让她们可以自由发挥……？真奇怪…",
+        "姉さんたちはとやかく言われずのびのびできるから、指揮官を選んだのですか？変ですね……",
+        "My sisters chose you because you just let them mess around without being scolded? How strange..."
+      ],
+      "affinityStranger": [
+        "休息日在做什么吗？早上起来先晨练一小时，接着读一小时的书，再进行两小时的炮术训练，然后……唔，总之排的挺满啦，为了变强这是必须的哦？",
+        "休日ですか？ええと、起きてから朝練一時間に読書一時間、砲術訓練二時間、そして……とにかくテキパキと過ごしています！あ、強くなるためには必須な努力ですよ？",
+        "What I do on my days off? Well, I get up and do morning training, I read for an hour, I do target practice for 2 hours, and then... Basically, I make full use of my vacation days! I have to work really hard to become stronger, you know?"
+      ],
+      "affinityFriendly": [
+        "欸？爱好啊……我倒是没想过呢，对我来说，读书和训练都挺开心哦，指挥官也来一起努力怎么样，嘻嘻？",
+        "趣味ですか？……特に考えたことないですね。読書も訓練も楽しいですし…あ、指揮官も那珂と一緒に努力しちゃってみます？へへへ",
+        "What are my hobbies? ...I don't really have one in particular. But I enjoy reading and training... Oh, would you like to train together with me? Heheheh~"
+      ],
+      "affinityLike": [
+        "唔，让指挥官总是陪着我也不太好意思呢，指挥官有什么想做的事吗，我也可以陪你哦？",
+        "うーん、指揮官にいつもご一緒いただくのはやはりちょっと申し訳ないですね…指揮官もやりたいこととかありますか？那珂もご一緒しますよ？",
+        "Hmm, I feel a little guilty over always making you come with me... Is there anything you'd like to do? We'll do it together, of course!"
+      ],
+      "affinityLove": [
+        "什么呀，指挥官也一直想要约我而找不到机会吗，那我们不就是想到一起去了？嘻嘻，那，指挥官，我们一起去约会吧~",
+        "あれ、指揮官も那珂と同じ、デートのチャンスを伺っていたというのですか？えへへ、じゃあ指揮官～デート、しちゃいましょうか？",
+        "Huh? Are you saying you've been waiting for a chance to go on a date too? Heheh, in that case~ Why don't we do it, Commander?"
+      ],
+      "pledge": [
+        "指挥官，再多注视着我一点也没关系哦，因为这样你会收获一个文武双全，还全心全意喜欢着你的那珂的~",
+        "那珂のことをもっとじっと見つめても大丈夫ですよ？えへへ～これからは文武両道で指揮官のことが大好きな那珂があなたのもとに来ちゃいますからねっ！",
+        "You can stare as much as you'd like. Hehehe~ From now on I will use my brains and brawn to serve you, my sweetheart whom I love so much!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Sendai, Jintsuu) 我也要绽放和姐姐们一样的光芒！",
+        "(Sortie with Sendai, Jintsuu) 姉さんたちみたいに輝いちゃいます！",
+        "(Sortie with Sendai, Jintsuu) I want to shine as gloriously as you, my sisters!"
+      ],
+      "giftDescriptionValentines2019": [
+        "川内姐姐是直截了当地送，神通姐姐则是准备了精致的包装啊…嗯！送巧克力这方面我也不会输给姐姐们的！……啊，当然啦，不是为了和姐姐们比较才送给指挥官的哦？",
+        "川内姉さんは直球で渡すし、神通姉さんならすごく凝ってる箱にするし…うん！那珂は真心勝負で行っちゃいます！指揮官、那珂の手作りチョコ、受け取ってくれますか？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "To convey your feelings to the recipient, one ceaselessly studies the techniques at hand, for the art of making delicious chocolate is not a martial or cultural matter. Rather, it is a function of one's heart and skill! This is the chocolate that Naka poured her heart and mind into for the Commander. Please take it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Naka_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Naka_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Naka_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Naka_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Naka_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Naka_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Naka_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Naka_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Naka_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Naka_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Naka_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Naka_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Naka_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Naka_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Naka_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Naka_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Naka_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Naka_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Naka_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Naka_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Naka_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Naka_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Naka_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Naka_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Naka_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Naka_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Naka_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Naka_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Naka_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Naka_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Naka_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Naka_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Naka_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Naka_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Naka_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Naka_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Naka_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Naka_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Naka_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Naka_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Naka_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Naka_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Naka_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Naka_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Naka_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Naka_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Naka_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Naka_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Naka_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Naka_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Naka_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Naka_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Naka_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Naka_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Naka_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Naka_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Naka_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Naka_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Naka_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Naka_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Naka_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Naka_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Naka_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Naka_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Naka_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Naka_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Naka_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Naka_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Naka_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Naka_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Naka_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Naka_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Naka_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Naka_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Naka_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Naka_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Naka_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Naka_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Naka_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Naka_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Naka_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Foxy Summer Surfer",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "激浪之夏！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "浪華サマーフォクシー",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/66/NakaSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d6/NakaSummerChibi.png",
+      "shipDescription": [
+        "啊哈哈哈，海浪要拍过来啦！呼~凉爽的感觉！嘿嘿，指挥官要来一起感受夏日的海浪吗？",
+        "ははは！また波が来ちゃいますよ～ふぅーー気持ちいい～！あ、指揮官も一緒にやっちゃいませんか？",
+        "Ahaha! Another big one's coming~! Phew~ that felt amazing~! Ah, Commander, let's hit the waves together, shall we?"
+      ],
+      "acquisition": [
+        "啊哈哈哈，海浪要拍过来啦！呼~凉爽的感觉！嘿嘿，指挥官要来一起感受夏日的海浪吗？",
+        "ははは！また波が来ちゃいますよ～ふぅーー気持ちいい～！あ、指揮官も一緒にやっちゃいませんか？",
+        "Ahaha! Another big one's coming~! Phew~ that felt amazing~! Ah, Commander, let's hit the waves together, shall we?"
+      ],
+      "login": [
+        "指挥官！在开始感受海浪之前，来一起做热身运动怎样？",
+        "波に挑む前にウォーミングアップ！指揮官、一緒にやっちゃいましょう！",
+        "We've gotta warm up before hitting the waves! C'mon, Commander, don't keep me waiting!"
+      ],
+      "details": [
+        "听说冲浪不仅可以锻炼运动神经，还能增强平衡感呢！要不试试看好了~",
+        "サーフィンって運動神経、特にバランス感覚を鍛えられると聞いちゃいました！うん、今度やっちゃいましょう！",
+        "I heard that surfing is a great way to sharpen your motor skills, especially your sense of balance! C'mon, let's give it a try!"
+      ],
+      "secretaryIdle1": [
+        "川内姐蒙着眼把带来的西瓜打成了碎片？！真、真厉害啊……",
+        "川内姉さん、目隠しでスイカを割れた…？！す、凄い……！",
+        "Sendai, how'd you split that watermelon blindfolded...?! Th-that was so cool...!"
+      ],
+      "secretaryIdle2": [
+        "如果是神通姐的话，说不定已经在做《关于海浪规律的总结报告》了吧，嘿嘿~",
+        "神通姉さんなら、きっと休暇がてらに『海域の水文調査レポート』を書いちゃっていますね。へへへ",
+        "I'm sure Jintsuu will be writing some report like \"The Status of the Waves and Water in this Sea Region\" after our vacation is over. Hahaha!"
+      ],
+      "secretaryIdle3": [
+        "如果能躺在救生圈上，让自己随波逐流感觉也不错呢~",
+        "浮き輪に身を任せちゃって、波に流されちゃってもきっといい気持ちですね～",
+        "It sure feels nice to just float around and let the waves sweep you away~"
+      ],
+      "secretaryTouch": [
+        "嘿嘿，指挥官是要帮那珂做放松按摩吗？",
+        "へへ、指揮官？もしかして今、那珂にマッサージしちゃおうとしてました？",
+        "Hehe, Commander~ Did you just offer to give me a massage~?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官…在海边做这种事可是要被女孩子嫌弃的哦！",
+        "指揮官…海辺でこんな事したら、女の子に嫌われちゃいますよ？",
+        "Commander... if you do this kind of stuff on the beach, all the girls will hate you, you know?"
+      ],
+      "task": [
+        "欸？神通姐把任务书也拿过来了吗？",
+        "あれ？神通姉さん、任務の書類まで持ってきちゃったの？",
+        "Eh? Jintsuu, you even brought the mission documents along?"
+      ],
+      "mail": [
+        "指、指挥官？！有个装着信的漂流瓶被海浪冲过来了！",
+        "し、指揮官？！ボトルメールを拾っちゃいました！",
+        "C-Commander?! We just got a message in a bottle!"
+      ],
+      "returnFromMission": [
+        "唔，有没有办法在游泳的时候克服这个大尾巴带来的阻力呢……啊，对了，擅长运动的川内姐一定是知道的吧！",
+        "しっぽはどうしても泳ぐ時に変になっちゃうよね……そうだ！川内姉さんならきっといい泳ぎ方を知ってるはず！",
+        "There's no way to keep this tail from getting in the way when I'm swimming, huh... Wait! I'm sure Sendai knows a way around it!"
+      ],
+      "affinityLove": [
+        null,
+        "コツさえ掴めれば、サーフィンも結構楽しいですね！指揮官、どうですか？那珂とサーフィンデート、しちゃいます？",
+        "Surfing is pretty fun once you get the hang of it, right? What do you think, Commander? Wanna go on a surf date with me?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Naka_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Naka_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Naka_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Naka_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Naka_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Naka_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Naka_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Naka_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Naka_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Naka_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Naka_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Naka_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Naka_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Naka_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Naka_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Naka_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Naka_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Naka_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Naka_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Naka_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Naka_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Naka_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Naka_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Naka_Sec2Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Naka_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Naka_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Naka_TaskSkin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Naka_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Naka_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Naka_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Naka_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Naka_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Naka_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        null,
+        "https://azurlane.koumakan.jp/w/images/3/3f/Naka_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Naka_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,580 @@
+{
+  "name": "Victorious",
+  "constructionTime": "04:30:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Illustrious",
+  "ID": "146",
+  "faction": "Royal Navy",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Eriko_Nakamura",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      6262,
+      104,
+      82,
+      0,
+      0,
+      53,
+      30,
+      289,
+      410,
+      13,
+      90,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5445,
+      90,
+      82,
+      0,
+      0,
+      33,
+      30,
+      253,
+      368,
+      13,
+      80,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1053,
+      38,
+      82,
+      0,
+      0,
+      13,
+      30,
+      54,
+      78,
+      4,
+      31,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +2",
+  "collectionTechPoints": 17,
+  "maxLimitBreakTechPoints": 35,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Anti-air  +1",
+  "level120TechPoints": 26,
+  "enhancementValue": [
+    0,
+    0,
+    64,
+    7
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / All Plane Efficiency +2%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 / All Plane Efficiency +3%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +5%",
+  "skill1Name": "Victorious Song; CN: 胜利之歌 JP: 勝利の歌",
+  "skill1Description": "Increases own damage dealt to Battleships by 10% (20%) and decreases damage taken from plunging shots () by 10% (20%).",
+  "skill2Name": "Assault Carrier; CN: 强袭空母 JP: 強襲空母",
+  "skill2Description": "When launching an airstrike: 15% (25%) chance to deal double damage for 10 seconds.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e1/Victorious.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d8/VictoriousChibi.png",
+      "shipDescription": [
+        "光辉级航空母舰—胜利，舷号38",
+        "イラストリアス航空母艦・ヴィクトリアス (HMS Victorious）",
+        "Illustrious-class aircraft carrier – Victorious."
+      ],
+      "selfIntroduction": [
+        "光辉级航空母舰二号舰胜利号，从大西洋、印度洋到太平洋，我随着海风一路航行——",
+        "イラストリアス型航空母艦二番艦、ヴィクトリアスよ！大西洋からインド洋、太平洋…このヴィクトリアス、海風と共にあるわ！",
+        "I'm Victorious, Illustrious-class aircraft carrier number two! From the Atlantic Ocean to the Indian Ocean, and even the Pacific... where the ocean breeze goes, I follow!"
+      ],
+      "acquisition": [
+        "皇家海军、胜利号，为我的到来尽情高歌吧，只要有象征胜利的我加入，无论什么肯定都能顺风顺水，随心所愿！",
+        "ロイヤルネイビー所属、航空母艦ヴィクトリアス――さあ、私の着任に賛歌を捧げなさい！勝利の象徴である私さえいれば、何もかもうまくいくはずだわ！",
+        "I am the one called Victorious, Aircraft Carrier of the Royal Navy. Yes, sing my name as you herald the coming of the symbol of victory. As long as I am here, our endeavours shall be smooth!"
+      ],
+      "login": [
+        "碧海的波纹、风中的清香、还有…——世界真的每时每刻都有新的美丽诞生呢",
+        "穏やかな波、爽やかな潮風…今この瞬間にも新しい美の生誕が祝福されているわ",
+        "The quiet sea, the cool sea breeze... Even in this moment, the birth of new, beautiful things blesses us."
+      ],
+      "details": [
+        "恋爱也好，战斗也好，更勇敢大胆一点啦～放心，关键的时候我会支援你的",
+        "恋も戦いも、より大胆になっていいわ～ほら、いざとなったら私も応援してあげるから！",
+        "In both love and war, one should be brave~ So, be brave, and if you need support, I shall be there!"
+      ],
+      "secretaryIdle1": [
+        "丑陋是战争的代名词，与之相对，我头顶的橄榄花环正是和平与美丽的交织——",
+        "戦争とは醜いものよ。そしてこのオリーブの冠こそ平和と美の象徴。",
+        "War is ugly. And this olive wreath is the symbol of peace and beauty."
+      ],
+      "secretaryIdle2": [
+        "提尔比茨，如果你还不出来陪我玩，我只好再炸一遍你的家啰",
+        "ティルピッツ、私と遊んでくれないと、また部屋を爆撃しちゃうわよ？",
+        "Tirpitz, if you won't come out and have fun with me then I'll bomb your room again!"
+      ],
+      "secretaryIdle3": [
+        "虽然我不喜欢暴力，但使用暴力往往是解决麻烦最简捷的手段…",
+        "暴力は好きではないけど、困ったことを解決するには暴力が一番手っ取り早い時が多いわね……",
+        "I don't like violence, but using it is often the quickest solution to many problems..."
+      ],
+      "secretaryTouch": [
+        "如果你露出消沉的表情，我也会跟着消沉的，有如此美丽的我在你身边，开心一点啦~",
+        "指揮官が落ち込むと私も落ち込んじゃうわ。こんなに美しい私がそばにいるんだから、ほら、楽しくやっていこ？",
+        "When you feel down, I also do. Come on, you have someone as beautiful as me beside you, so why not be happy?"
+      ],
+      "secretarySpecialTouch": [
+        "你、你刚刚绝对做了吧！做了…那个…",
+        "い、いまアレをやったのね！あ、あの…アレって…",
+        "Y-you just did \"that,\" didn't you?! B-by \"that,\" I mean..."
+      ],
+      "task": [
+        "恣意妄为是美丽的我的特权，可不要想着能把任务推给我——",
+        "ワガママは美しい私の特権よ。任務を任せるなんて考えないことだわ。",
+        "Only I have the privilege of being selfish. Don't even think about pushing missions onto me."
+      ],
+      "taskComplete": [
+        "真是的，仅此一次下不为例，可不要妄想我会帮你第二次！",
+        "もう、今回だけよ！二度と任務を手伝わないからねっ！",
+        "Fine, but just this one time! I won't help you with your missions a second time!"
+      ],
+      "mail": [
+        "比起冷冰冰的印刷字体，我更喜欢亲笔手书。指挥官，你想知道如何从笔迹中窥探写者的内心吗？",
+        "活字よりやっぱり手書きのほうが好きだわ。指揮官、どうやって筆跡から書き手の心境を知るか、気にならない？",
+        "Handwritten letters are so much better than typed ones. Don't you think it's interesting how you can deduce the author's emotions based on their handwriting, Commander?"
+      ],
+      "returnFromMission": [
+        "庆贺作战胜利，戴上这顶月桂花环怎么样？说不定很适合你哦",
+        "勝利のお祝いに、このオリーブの冠をかぶってみてはどう？きっと似合うわ",
+        "To celebrate your victory, why not wear this olive wreath? I'm certain it'll suit you."
+      ],
+      "commission": [
+        "不要再磨磨蹭蹭的啦，我和执行委托的孩子们约好了，要用飞机上的相机拍下她们进港的瞬间",
+        "ぐずぐずしないの！艦載機で入港した瞬間を写真にするって、委託に行った子たちと約束したんだから！",
+        "Stop loafing around! I promised the commission team that I'd use my planes to photograph the moment they entered the port!"
+      ],
+      "strengthening": [
+        "赞美我不必苦思什么妙语，最能打动心灵的永远是真情挚意！",
+        "私を褒めるには言葉はいらないわ！心を動かすのはいつも言葉じゃなくて行動だもの！",
+        "Words are not needed to praise me! It's not people's words that touch the heart, it's their actions!"
+      ],
+      "startingMission": [
+        "真是的，大炮与炸弹只会使丑陋的东西变得更加丑陋…",
+        "もう、大砲と火薬はこの戦争をより醜くしかできないというのに……",
+        "Sigh, all that cannons and gunpowder can do is make is war even uglier..."
+      ],
+      "mvp": [
+        "真是的，看到了这么凄惨的败相，胜利的我也高兴不起来呀…",
+        "ここまでボッコボコにしてしまったら…流石に勝利の象徴である私も思いっきり喜べないわ",
+        "When my foes have been this thoroughly defeated... not even I, the symbol of victory, can truly be glad."
+      ],
+      "defeat": [
+        "失败时保持美丽的身姿，乃败者的礼仪",
+        "負けても気品を失うことなくーーこれぞ敗者の流儀よ！",
+        "Remaining dignified even in defeat: this is how one should lose a battle!"
+      ],
+      "skillActivation": [
+        "为我高声歌唱吧，美丽的世界！",
+        "美しき世界よ、この私のために歌を捧げなさい！",
+        "O beautiful world, sing to me a song!"
+      ],
+      "lowHP": [
+        "哎呀哎呀，有点大意了呢",
+        "あらら、油断したわ",
+        "Oh dear, I've let my guard down."
+      ],
+      "affinityDisappointed": [
+        "揍你啰——！",
+        "もう～ボッコボコにするわよ！",
+        "I'm fed up~! I'll knock you out stone cold!"
+      ],
+      "affinityStranger": [
+        "从特拉法尔加海战知道了我的名字——？不、名字不一样啦。对我来说，那位是别人家的孩子般的存在呢……",
+        "トラファルガーの海戦で私を――？えっと、人違いではなくて？もう～私にとって、あの方はただのよその子なのよ？",
+        "You know about me from the Battle of Trafalgar? Umm, aren't you thinking of somebody else? Please, Commander~ Who you're thinking of is totally unrelated to me."
+      ],
+      "affinityFriendly": [
+        "围剿俾斯麦和钨作战？我只是一时兴起帮了点忙啦，可没有什么成为武勋舰的打算…",
+        "ビスマルク追撃戦とタングステン作戦？あの時はノリで手伝ってあげただけで、別に武勲艦になるつもりなんてないわ",
+        "My part in the pursuit of Bismarck and Operation Tungsten? I was just in the mood to help, I wasn't at all trying to earn any honours."
+      ],
+      "affinityLike": [
+        "喂，我心情不太好，你现在很闲吧，我来帮你打扮得漂漂亮亮吧，看到漂亮的东西我的心情也会变好～",
+        "あまり気分が良くないわ…指揮官は暇？よし！じゃあこの私がきっちりコーディネートしてあげるわ！美しいものを見ると気分もよくなるからね～！",
+        "I'm not in such a great mood... Are you free, Commander? Great! Then let me dress you in something fabulous! Seeing beautiful things makes me feel better, you see!"
+      ],
+      "affinityLove": [
+        "不自觉地期待起未来你会变成什么模样了，明明现在就已经足够讨我喜欢了……哎呀，满脸通红的指挥官真可爱呢~",
+        "指揮官が将来どうなるか気になるわね～もちろん今の指揮官も十分好きになれるけど。……あら、顔が真っ赤。指揮官、本当に可愛いわ～",
+        "I wonder what the future you will be like, Commander~ Of course, I already quite like the way you are right now. ...Goodness, you're blushing ear to ear. How utterly adorable you are~"
+      ],
+      "pledge": [
+        "不必那么绞尽脑汁啦，按照自己的方式与我交往就好…好啦，难得这么具有纪念意义的日子，不要这么紧张嘛~未来就以我每时每刻都心情愉快为目标，好好努力吧！",
+        "そんなに考え込まないの。あなた自身のペースで私と付き合っていいわ。…さあ、せっかくの記念日だから、緊張しない～これからは私をいつも楽しませるよう、努力しなさいな！",
+        "Don't think too hard about it. Just follow my lead at your own pace. ...Come on, this is a day to celebrate, don't be so nervous~ From this day on, you'd better work hard to always please me!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Saratoga) 这次也多多指教了，比我还平的“航空母舰”~",
+        "(Sortie with Saratoga) よろしくてよ。私より平たい『正規空母』さん",
+        "(Sortie with Saratoga) Pleasure to meet again, little Ms. Flat-As-A-Pancake."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Illustrious) 姐姐，你应该丰满的地方过于丰满了！",
+        "(Sortie with Illustrious) 姉さん、た、たゆんとしすぎてるってば！",
+        "(Sortie with Illustrious) Illustrious, y-your bust is just too busty!"
+      ],
+      "giftDescriptionValentines2019": [
+        "能收到如此美丽的我亲手制作的美丽巧克力，指挥官真是万中选一的幸运儿呢~嘻嘻，节日快乐哦，指挥官",
+        "この美しいヴィクトリアスからのチョコレートをもらえるなんて、指揮官は本当に幸せ者ね！ふふん、というわけで、ハッピーバレンタイン！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, happy Valentine's Day! This here is an Iron Blood chocolate cake Tirpitz taught me to make! Hehe, there's some lovely decorations on top I made with my own two hands. I think it's delightful just to look at!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Victorious_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Victorious_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Victorious_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Victorious_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Victorious_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Victorious_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Victorious_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Victorious_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Victorious_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Victorious_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Victorious_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Victorious_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Victorious_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Victorious_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Victorious_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Victorious_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Victorious_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Victorious_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Victorious_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Victorious_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Victorious_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Victorious_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Victorious_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Victorious_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Victorious_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Victorious_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Victorious_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Victorious_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Victorious_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Victorious_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Victorious_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Victorious_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Victorious_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Victorious_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Victorious_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Victorious_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Victorious_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Victorious_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Victorious_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Victorious_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Victorious_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Victorious_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Victorious_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Victorious_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Victorious_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Victorious_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Victorious_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Victorious_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Victorious_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Victorious_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Victorious_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Victorious_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Victorious_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Victorious_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Victorious_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Victorious_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Victorious_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Victorious_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Victorious_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Victorious_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Victorious_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Victorious_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Victorious_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Victorious_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Victorious_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Victorious_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Victorious_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Victorious_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Victorious_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Victorious_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Victorious_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Victorious_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Victorious_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Victorious_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Victorious_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Victorious_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Victorious_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Victorious_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Victorious_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Victorious_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Victorious_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Victorious_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Victorious_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Victorious_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Goddess' Day Off",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "女神的休憩日",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "女神の休日",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/70/VictoriousCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f8/VictoriousCasualChibi.png",
+      "shipDescription": [
+        "哼～哼哼♪～着装完毕，发型完美！我准备好咯，马上出发吧，指挥官，假日的时间可不等人呢～",
+        "♪～お着替えよし！髪型よし！指揮官、私のほうは準備できてるから、早く出発しましょうよ！休日は人を待ってくれないわよ～",
+        "Hum~ dee dum♪~ I'm all dressed up, and my hair is perfect! Commander, I'm ready to go! Don't keep me waiting on a holiday!"
+      ],
+      "acquisition": [
+        "哼～哼哼♪～着装完毕，发型完美！我准备好咯，马上出发吧，指挥官，假日的时间可不等人呢～",
+        "♪～お着替えよし！髪型よし！指揮官、私のほうは準備できてるから、早く出発しましょうよ！休日は人を待ってくれないわよ～",
+        "Hum~ dee dum♪~ I'm all dressed up, and my hair is perfect! Commander, I'm ready to go! Don't keep me waiting on a holiday!"
+      ],
+      "login": [
+        "太、慢、了！指挥官，今天有哪些任务？快点完成掉，然后陪我去逛街吧",
+        "お・そ・い・わ・よ！もう、指揮官、今日のやることは何？ちゃっちゃと片付けて、ショッピングに付き合いなさいな",
+        "Way! Too! Slow! Commander, what does your schedule look like today? Hurry up and finish so you can take me shopping!"
+      ],
+      "details": [
+        "需要美丽的胜利给你建言吗？无论是时尚打扮还是恋爱烦恼哦，都可以跟我说，我会好好回答你的～",
+        "美しい私からのアドバイスがほしい？おしゃれも恋も、全部私に相談しなさいな。このヴィクトリアスがきっちり答えてあげる！",
+        "Do you need advice from the beautiful Victorious? Whether it's fashion tips or relationship trouble, you can ask me anything~!"
+      ],
+      "secretaryIdle1": [
+        "休息是为了更好的工作！所以，指挥官，稍微放下手上的工作，跟我出去走走嘛～",
+        "仕事の能率向上には休憩が必要よ！というわけで、指揮官、仕事は一旦置いといて私と遊びに行きましょうよ～",
+        "Rest is for the sake of being able to work better! Therefore, set aside that work and come play with me~!"
+      ],
+      "secretaryIdle2": [
+        "提尔比茨，出来一起玩嘛～我不会对你做什么的啦～",
+        "ティルピッツ～私と遊びに行きましょう～なにも悪いことしないから～",
+        "Tirpitz, come and play with me~ I won't do anything to you~!"
+      ],
+      "secretaryIdle3": [
+        "无论作战还是休息，都要保持最佳状态全力以赴，这是我的信条哦～",
+        "作戦も休憩も、最高のコンディションで全力で挑む。これこそ私の流儀よ",
+        "Stay in tip-top condition so you can work hard and play hard! That's my motto~!"
+      ],
+      "secretaryTouch": [
+        "这身衣服意外地非常保暖呢…就算是在严冬的户外也一点都不会冷",
+        "この服は意外と暖かいわよね……厳しい冬でも全然寒く感じないわ",
+        "This outfit is surprisingly warm... Even in this kind of weather, I don't feel cold at all!"
+      ],
+      "returnFromMission": [
+        "呼～终于作战结束了吗？按照说好的，我们出去玩吧",
+        "ふぅ…作戦が終わった？じゃあ約束通り、遊びに行きましょう？",
+        "Phew, is the battle finally over? As I said, let's go out and have some fun!"
+      ],
+      "startingMission": [
+        "难得的休息日心情都被搞糟了…要给你们一点惩罚才行呢！",
+        "せっかくの休日なのに人の気持ちを台無しにして……ちょっとお仕置きしないとね！",
+        "Since you messed up the day off I was so looking forward to, I'm going to have to punish you!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Victorious_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Victorious_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Victorious_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Victorious_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Victorious_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Victorious_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Victorious_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Victorious_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Victorious_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Victorious_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Victorious_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Victorious_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Victorious_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Victorious_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Victorious_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Victorious_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Victorious_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Victorious_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Victorious_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Victorious_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Victorious_Sec1Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Victorious_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Victorious_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Victorious_MissionFinSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Victorious_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Victorious_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Victorious_MissionStartSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

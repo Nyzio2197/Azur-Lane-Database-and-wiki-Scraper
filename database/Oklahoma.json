@@ -1,0 +1,724 @@
+{
+  "name": "Oklahoma",
+  "constructionTime": "04:00:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Normal",
+  "shipClass": "Nevada",
+  "ID": "053",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": true,
+  "artist": "八才提督",
+  "pixiv": "https://www.pixiv.net/member.php?id=1393609",
+  "twitter": "https://twitter.com/haorabbit",
+  "link": "http://weibo.com/vihao",
+  "voiceActor": "https://en.wikipedia.org/wiki/Yumi_Uchiyama",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      6956,
+      132,
+      38,
+      378,
+      0,
+      26,
+      20,
+      202,
+      0,
+      12,
+      68,
+      0,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      7196,
+      152,
+      38,
+      388,
+      0,
+      26,
+      20,
+      247,
+      0,
+      12,
+      78,
+      0,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      6200,
+      135,
+      38,
+      348,
+      0,
+      11,
+      20,
+      220,
+      0,
+      12,
+      62,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5960,
+      115,
+      38,
+      338,
+      0,
+      11,
+      20,
+      175,
+      0,
+      12,
+      52,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1153,
+      49,
+      38,
+      72,
+      0,
+      4,
+      20,
+      38,
+      0,
+      4,
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130% → 135%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200% → 215%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Reload  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    59,
+    0,
+    0,
+    9
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    0
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Vice Defense; CN: 重点防护 JP: All or Nothing",
+  "skill1Description": "When taking damage, 3.5% (8.0%) chance to decrease said damage by 50%.",
+  "skill2Name": "(Retrofit) Focused Assault; CN: 重点打击 JP: 集中攻撃",
+  "skill2Description": "When firing main gun: 15% (30%) chance to inflict double damage.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/14/Oklahoma.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b9/OklahomaChibi.png",
+      "shipDescription": [
+        "内华达级战列舰—俄克拉荷马，舷号BB-37",
+        "ネバダ級戦艦・オクラホマ（BB-37)",
+        "Nevada-class battleship – Oklahoma, Hull Number BB-37!"
+      ],
+      "selfIntroduction": [
+        "我是内华达级的俄克拉荷马，曾经在大西洋和太平洋舰队服役过…我可是肩负着“友好”外交的使命呢！",
+        "ネバダ級のオクラホマよ。大西洋、太平洋艦隊の両方に参加したの……かの国の「友好」外交の使命を背負ったこともあるのよ！",
+        "I'm Oklahoma of the Nevada class. I served in both the Atlantic and Pacific fleets... I even bore the duty of engaging in 'friendly' diplomacy!"
+      ],
+      "acquisition": [
+        "指挥官……欸，啊，不好意思！我看指挥官看入迷……啊不对不对，初次见面，我是俄克拉荷马！",
+        "指揮官さん……え、あっ、ごめんなさい！私つい見惚れちゃってて……ああ違う違う、はじめまして、オクラホマと言います！",
+        "Commander... eh, ah... I'm sorry! I was stunned just by looking at you... Ah, no, no... Nice to meet you! I'm Oklahoma!"
+      ],
+      "login": [
+        "指挥官~今天也和俄克拉荷马一起努力吧~",
+        "指揮官さん~今日もオクラホマと一緒に頑張ろー！",
+        "Commander~ Please work hard with me today as well~"
+      ],
+      "details": [
+        "咦？在看什么呢？我的脸上有什么吗？",
+        "うん？何見てるの？私の顔に何かついてるの？",
+        "Huh? What are you looking at? Is there something on my face?"
+      ],
+      "secretaryIdle1": [
+        "再不做点什么，人家又要被笑“班特里湾中队”了！",
+        "早く何かしないと、また「バントリー・ベイ中隊」って笑われちゃう！",
+        "If I don't do something soon, everyone will laugh about the 'Bantry Bay Squadron' again!"
+      ],
+      "secretaryIdle2": [
+        "再过两年…不，一年，我一定会超越姐姐的！",
+        "あと二年…いいえ、あと一年、かならず姉さんを越えてみせる！",
+        "In two years... no, one year, I will surpass my sister for sure!"
+      ],
+      "secretaryIdle3": [
+        "指挥官，如果有什么烦恼的话，我都会倾听的哦~",
+        "指揮官さん、困ったことがあったら、いつでも聞いてね？",
+        "Commander, I will always listen to your troubles if you have any, you hear?"
+      ],
+      "secretaryTouch": [
+        "指挥官的手，让人觉得很安心呢……",
+        "指揮官さんの手、なんだか安心する……",
+        "Commander, your hand feels comforting to me..."
+      ],
+      "secretarySpecialTouch": [
+        "呀！真是的……都没做好心理准备呢~",
+        "きゃっ！もう……心の準備がまだなのに~",
+        "Whaa?! Geez... My heart wasn't ready for this..."
+      ],
+      "task": [
+        "快点麻利的把任务完成吧！",
+        "てきぱきとやっちゃいましょ！",
+        "Let's finish the missions like a speedy swifty!"
+      ],
+      "taskComplete": [
+        "别忘了领取奖励哦",
+        "ボーナスのことを忘れないでね",
+        "Don't forget to claim your rewards!"
+      ],
+      "mail": [
+        "你的信我放在桌上咯~",
+        "指揮官さんのメールなら机の上に置いたよ~",
+        "I've put your mail on the table, Commander~"
+      ],
+      "returnFromMission": [
+        "麻烦指挥官帮忙转达给姐姐，让她请放心",
+        "指揮官さん、姉さんに私のことは安心していいよって伝えてね",
+        "Commander, please tell big sis not to worry about me."
+      ],
+      "commission": [
+        "有委托完成啦~要是这能带来和平就好了",
+        "委託が完了したよ。これで平和になればいいなぁ",
+        "The commissions have been completed. It would be nice if this brings peace."
+      ],
+      "strengthening": [
+        "指挥官，这样我能多帮你一点了吗？",
+        "指揮官さん、これでもっとお役に立てるかな？",
+        "Commander, is there any way i can help you with this?"
+      ],
+      "startingMission": [
+        "大家听我指挥，摆好阵型",
+        "私の指揮に従って、ちゃんと陣形を組んでね",
+        "Everyone, listen to my orders and get into formation!"
+      ],
+      "mvp": [
+        "这样姐姐也不会担心我了吧",
+        "これで姉さんも私の心配をしなくなるよね？",
+        "With this, big sis won't have to worry about me! I think."
+      ],
+      "defeat": [
+        "呜……我要更加努力才行！",
+        "うう……もっと頑張らないと！",
+        "*Cries*... I need to work even harder!"
+      ],
+      "skillActivation": [
+        "射击~！",
+        "撃てぇ~！",
+        "Fire~!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "我看走眼了呢……",
+        "私、見間違えたのかしら……",
+        "I wonder if my eyes are lying..."
+      ],
+      "affinityStranger": [
+        "指挥官在看我吗？欸嘿嘿，我好开心呀",
+        "指揮官さん、私のこと見てたの？えへへ、嬉しい♪",
+        "Is the Commander looking at me? Ehehe, I'm so happy!"
+      ],
+      "affinityFriendly": [
+        "指挥官指挥官，要和我去约会吗~我有收藏不少好店哦！",
+        "指揮官さん、私とデートしない？いい店いっぱい知ってるよ？",
+        "Commander, want to go on a date with me? I know a lot of good shops around~"
+      ],
+      "affinityLike": [
+        "我对指挥官可是一见钟情哦~嘿嘿，没什么特别的理由啦，喜欢上了就是喜欢上了啊",
+        "指揮官さんには一目惚れだったのよ～えへへ、特に理由なんてないの。好きなものは好きだからね",
+        "Commander, I was smitten at first sight~ Ehehe. There's no particular reason for love. I just like what I like."
+      ],
+      "affinityLove": [
+        "嗯？啊，指挥官，不用管我也没关系哦，我只要看着指挥官就很开心啦~",
+        "うん？あ、指揮官さん、私のことは気にしないで。だってこうして指揮官さんを見ているだけでも楽しいよ♪",
+        "Hmm? Ah, Commander. No need to worry about me. I'll be happy as long as I can keep looking at you like this~"
+      ],
+      "pledge": [
+        "嘿嘿，指挥官，和我一起跟姐姐报告我们的事情吧~",
+        "えへへ、指揮官さん、今度は一緒に姉さんに報告しに行こうね～",
+        "Ehehe~ Commander, let's go and report to big sis about us right now~"
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，请收下这个！那个……味道我没什么自信，不过外形什么的下了很大功夫！怎么样？",
+        "指揮官さん、どうぞ受け取ってください！あの…味はちょっと自信がないですけど、形とか色とかすごく頑張りました！どう…かな…",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，情人节快乐！我想了好多好多，到底用哪个食谱，做什么形状比较好之类的，最后决定的是做小小的香槟巧克力！你喜欢的话我会很开心……的吧？",
+        "指揮官さん、ハッピーバレンタインです！レシピとか形とかどうするか色々考えましたけど、結局コンパクトなサイズのシャンパンチョコにしました！気に入ってくれたら嬉しい…かな…？",
+        "Commander, please take this! Umm, I... I'm not very confident about the flavor, but I worked hard to make sure it looks and feels right! I hope... it's decent..."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's day, Commander! I made you a slightly bigger piece of chocolate than last year. It has two layers, and each layer tastes a bit different. I hope you'll like it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Oklahoma_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Oklahoma_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Oklahoma_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Oklahoma_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Oklahoma_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Oklahoma_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Oklahoma_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Oklahoma_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Oklahoma_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Oklahoma_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Oklahoma_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Oklahoma_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Oklahoma_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Oklahoma_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Oklahoma_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Oklahoma_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Oklahoma_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Oklahoma_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Oklahoma_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Oklahoma_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Oklahoma_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Oklahoma_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Oklahoma_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Oklahoma_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Oklahoma_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Oklahoma_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Oklahoma_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Oklahoma_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Oklahoma_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Oklahoma_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Oklahoma_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Oklahoma_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Oklahoma_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Oklahoma_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Oklahoma_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Oklahoma_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Oklahoma_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Oklahoma_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Oklahoma_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Oklahoma_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Oklahoma_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Oklahoma_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Oklahoma_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Oklahoma_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Oklahoma_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Oklahoma_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Oklahoma_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Oklahoma_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Oklahoma_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Oklahoma_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Oklahoma_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Oklahoma_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Oklahoma_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Oklahoma_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Oklahoma_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Oklahoma_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Oklahoma_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Oklahoma_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Oklahoma_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Oklahoma_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Oklahoma_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Oklahoma_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Oklahoma_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Oklahoma_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Oklahoma_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Oklahoma_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Oklahoma_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Oklahoma_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Oklahoma_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Oklahoma_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Oklahoma_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Oklahoma_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Oklahoma_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Oklahoma_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Oklahoma_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/79/OklahomaKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0b/OklahomaKaiChibi.png",
+      "shipDescription": [
+        "多亏指挥官，我变得更强了呢！不知道有没有稍微接近姐姐了呢…诶嘿嘿，为了指挥官，我会加油的！",
+        "指揮官さんありがとう！私とっても強くなった！これで姉さんにちょっと近づけたのかな？えへへ、指揮官さんのために、もっと頑張るよ！",
+        "Thanks a ton, Commander. With my new strength, do you think I've managed to catch up to my sister a little? Ehehe, for your sake, I'll work even harder!"
+      ],
+      "acquisition": [
+        "多亏指挥官，我变得更强了呢！不知道有没有稍微接近姐姐了呢…诶嘿嘿，为了指挥官，我会加油的！",
+        "指揮官さんありがとう！私とっても強くなった！これで姉さんにちょっと近づけたのかな？えへへ、指揮官さんのために、もっと頑張るよ！",
+        "Thanks a ton, Commander. With my new strength, do you think I've managed to catch up to my sister a little? Ehehe, for your sake, I'll work even harder!"
+      ],
+      "login": [
+        "howdy~指挥官，精神还好吗？",
+        "howdy~指揮官さん、元気？",
+        "Howdy, Commander~ Are you doin' well?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，我们来搞“舰队问题”演习吧，我很拿手的~",
+        "指揮官さん、「フリートプロブレム」でもやってみない？私、すごく得意なんだから！",
+        "Commander, how about we hold a Fleet Problem? I'm pretty good at those~"
+      ],
+      "secretaryIdle2": [
+        "指挥官，和我一起去骑马吗？我们同骑一匹，嘿嘿~",
+        "指揮官さん、ライディングでもどう？このお馬さん二人乗りできるよ、えへへ～",
+        "Commander, wanna go riding with me? We can both ride the same horse, hehe~"
+      ],
+      "secretaryIdle3": [
+        "指挥官你听我说，我刚才赢了姐姐一回合耶，嘿嘿，yeah~",
+        "指揮官さん聞いて！今姉さんに勝ってたの！えへへ～イエー☆",
+        "Hey Commander, you gotta hear this! I just scored a win against my sister! Yaaay~!"
+      ],
+      "secretaryTouch": [
+        "嗯？指挥官，怎么啦，要我帮忙吗，好呀好呀，交给我吧~",
+        "うん？指揮官さんどうしたの？助けてほしい？いいよ、私に任せてー",
+        "Hmm? What's up, Commander? Do you need my help? Sure~ just leave it to me!"
+      ],
+      "returnFromMission": [
+        "姐姐说我已经可以独当一面照顾指挥官了，嘿嘿~",
+        "私が一人前になったから、指揮官さんのお世話もちゃんと出来るよって姉さんが褒めてくれた！えへへ～",
+        "I've already become more independent, so my sister told me that I'll be able to take care of you now! Ehehe~"
+      ],
+      "mvp": [
+        "指挥官，是我们赢了，V~",
+        "指揮官さん、私たちの勝ちだね！V～",
+        "Commander, it's our victory! V~!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Oklahoma_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Oklahoma_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Oklahoma_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Oklahoma_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Oklahoma_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Oklahoma_LogSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Oklahoma_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Oklahoma_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Oklahoma_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Oklahoma_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Oklahoma_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Oklahoma_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Oklahoma_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Oklahoma_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Oklahoma_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Oklahoma_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Oklahoma_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Oklahoma_Sec1Skin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Oklahoma_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Oklahoma_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Oklahoma_MissionFinSkin9JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Oklahoma_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Oklahoma_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Oklahoma_MVPSkin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +70 ",
+      "materials": "1x BattleshipT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x BattleshipT1BP ",
+      "coinCost": 300,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "2x BattleshipT1BP ",
+      "coinCost": 400,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "2x BattleshipT1BP ",
+      "coinCost": 500,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Auxiliary Gun Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "3x BattleshipT1BP ",
+      "coinCost": 600,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +10 ",
+      "materials": "3x BattleshipT1BP ",
+      "coinCost": 800,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +70 / Health +100 ",
+      "materials": "1 / 1x BattleshipT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Focused Assault\" ",
+      "materials": "3x BattleshipT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Auxiliary Gun Improvement Ⅱ",
+      "attributes": "Equip 2 Efficiency +5.0% / Equip 2 Efficiency +5.0% ",
+      "materials": "1 / 2x BattleshipT2BP ",
+      "coinCost": 1400,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Reload Enhancement Ⅱ",
+      "attributes": "Reload +5 / Reload +10 ",
+      "materials": "2 / 2x BattleshipT2BP ",
+      "coinCost": 1600,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +35, Accuracy +10 ",
+      "materials": "6x BattleshipT2BP and 1x Oklahoma or Universal Bulin ",
+      "coinCost": 2000,
+      "levelRequired": 80,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

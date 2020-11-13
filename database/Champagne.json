@@ -1,0 +1,378 @@
+{
+  "name": "Champagne",
+  "constructionTime": "Research",
+  "rarity": "Priority",
+  "shipClass": "Champagne",
+  "ID": "Plan017",
+  "faction": "Iris Libre",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "nineo",
+  "pixiv": "https://www.pixiv.net/member.php?id=2827978",
+  "twitter": "https://twitter.com/nineeeeeeeeo",
+  "link": "https://www.weibo.com/p/1005051869856223",
+  "voiceActor": "https://en.wikipedia.org/wiki/Lynn_(voice_actress)",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6896,
+      181,
+      0,
+      454,
+      0,
+      36,
+      32,
+      241,
+      0,
+      16,
+      77,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6049,
+      157,
+      0,
+      412,
+      0,
+      25,
+      32,
+      210,
+      0,
+      16,
+      68,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1170,
+      66,
+      0,
+      88,
+      0,
+      10,
+      32,
+      45,
+      0,
+      9,
+      26,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "140% → 180%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 80%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "collectionTechPoints": 48,
+  "maxLimitBreakTechPoints": 96,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Accuracy  +2",
+  "level120TechPoints": 72,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "skill1Name": "Augmenting Mechanism: Setzer Principle; CN: 辅助机构「S.P.」 JP: 補助機構ゼッツアプリンシパル",
+  "skill1Description": "Decreases the loading time of this ship's Main Guns by 20% (40.0%) and fires an additional LV.1 (LV.10) barrage along with its primary Salvoes. Every 20s: fires a LV.1 (LV.10) special barrage (DMG is based on the skill's level).",
+  "skill2Name": "Substitute Mechanism: Holy Thurible; CN: 代行机构「E.E.」 JP: 代行機構エグリーズサリブル",
+  "skill2Description": "When this ship uses a Main Gun that fires HE ammo: increases its FP by 1% (5.0%), AA by 5% (15.0%), and increases its HE DMG modifier against enemies with Heavy armor by 5% (15.0%); when using one that fires AP: increase this ship's FP by 1% (5.0%), RLD by 5% (15.0%), and increase its Main Gun Crit Rate by 5% (20.0%). While this ship is above 75.0% HP: absorbs 50.0% of the DMG your Flagship takes (does nothing if this ship is the Flagship); when this ship's HP falls below 75.0% increase this ship's EVA and Accuracy by 5% (15.0%).",
+  "skill3Name": "Siren Killer; CN: 塞壬之敌 JP: 対セイレーン特化改修",
+  "skill3Description": "Increase this ship's DMG to Sirens by 5.0% (15%).",
+  "skill4Name": "",
+  "skill4Description": "",
+  "level5": "Health  +285, Anti-air  +11\nMain Gun Efficiency +5%\nPre-Loaded Main Gun +1 \n",
+  "level10": "Gains Siren Killer I\nMain Gun efficiency +5%\nShip Rarity increases to ★★★★☆☆\n",
+  "level15": "Health  +571, Anti-air  +22\nAnti-Air Efficiency +10%\n",
+  "level20": "Secondary Gun Mount +2\nUpgrades Siren Killer I→II\nMain Gun efficiency +10%\nShip Rarity increases to ★★★★★☆\n",
+  "level25": "Health  +856, Anti-air  +33\nMain Gun Efficiency +5% \n",
+  "level30": "Upgrades Siren Killer II→III\nMain Gun efficiency +15%\nShip Rarity increases to ★★★★★★\n",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/05/Champagne.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d6/ChampagneChibi.png",
+      "shipDescription": [
+        "战列舰——香槟",
+        "戦艦・香槟",
+        "Battleship – Champagne."
+      ],
+      "selfIntroduction": [
+        "不曾有过使命，不曾有过功名。我本是虚无，却具现于此世。我的指挥官，愿香槟能成为胜者的佳酿。",
+        "たった一度も命令を預かることはなく、戦果を手にしたこともなし。シャンパーニュは具現されし白き虚無――指揮官に、勝者に奉じる栄光の美酒とならん",
+        "Never have I received orders, nor have I ever accomplished anything. I am merely a blank slate—existing simply to become the delectable champagne presented to thee, the victor."
+      ],
+      "acquisition": [
+        "自由鸢尾、香槟。指挥官，请给予我使命，请给予我存在的理由。",
+        "自由アイリス教国に所属する、シャンパーニュの具現なり。指揮官、シャンパーニュに使命・存在意義の提示を",
+        "I am the personification of Champagne, part of the Iris Libre. Commander, please give me an order—a reason to exist."
+      ],
+      "login": [
+        "告诉我，你需要的，你期望我做的一切。",
+        "提示を。指揮官が希求せしめるものを、シャンパーニュが取るべき行動を",
+        "Your orders, Commander. Whatever your will may be, I shall usher into reality."
+      ],
+      "details": [
+        "指挥官，告诉我你所追求的终点——是无人能及的丰功伟业，君临世界的顶点，亦或只是经营好属于自己的一隅天地？",
+        "未曾有の偉業の達成、支配の頂点への君臨、安心する片隅の維持――指揮官が辿ろうとする終着点をシャンパーニュに提示を",
+        "Whether your ambitions leads you into the wilderness of unparalleled achievements, the lofty spires of world domination, or the gardens of peaceful sanctuary, command me as would best serve your will."
+      ],
+      "secretaryIdle1": [
+        "指挥官，你在思考什么？生存的意义、亦或是…？",
+        "指揮官、「生きる」行動の意味を見出せんとするか、それとも―",
+        "Commander, art thou pondering the meaning of life? Or perhaps..."
+      ],
+      "secretaryIdle2": [
+        "潮起潮落，浪涌浪跌，此乃自然之理，随波逐流也许正是你我的宿命。",
+        "引き寄せる潮流は自然の摂理なり、流されるがままはヒトの運命なり",
+        "The ebb and flow of tides are natural phenomena, and so are the flowing fates of humankind."
+      ],
+      "secretaryIdle3": [
+        "与这支舰队共存，就是我的使命——是你给予了我这个使命。",
+        "「艦隊とともに生きる」、シャンパーニュが指揮官から課された使命なり",
+        "\"Live, together with the fleet.\" Understood. I have received my newest directive from the Commander."
+      ],
+      "secretaryTouch": [
+        "互相碰触的温暖…令人难忘。",
+        "触れ合うことで感じる温度・感触…いと忘れがたし",
+        "The warmth and sensation of being touched... How exceedingly difficult to forget."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官的所为——是最原始，也最为人忌惮的…冲动。",
+        "指揮官の行動、非行にして、人を忌避せしめると知れ",
+        "Though your transgression may be slight, such conduct may turn others away from you."
+      ],
+      "task": [
+        "不奋力挥舞双翼，便无法触及蓝天。不奋勇滑动双桨，便无法到达彼岸。",
+        "翼羽ばたかぬオオトリ、空翔けること叶わず。櫂漕がぬハコフネ、彼岸着くこと叶わず",
+        "The falcon that spreads not its wings cannot reach the sky. The ship that rows not its oars cannot not reach the other shore."
+      ],
+      "taskComplete": [
+        "最美的鸢尾花，会绽放在最辛勤的园丁的泥土上。",
+        "庭師は己が心血を土に注ぎ、アイリスは美しく咲き誇らん",
+        "Only for the gardener whose blood nurtures the soil can the iris bloom in triumphant beauty."
+      ],
+      "mail": [
+        "报信人带来了远方的呼唤。是喜？是悲？还是，一如既往？",
+        "知らせは届く――楽しきかな、悲しきかな。懐かしきかな、空しきかな",
+        "A notice has arrived. Is it a joyous one, or is it a tragic one? Is it a desirable one, or a hateful one?"
+      ],
+      "returnFromMission": [
+        "暂时，让脑海里只留下白兰地的醇香吧。世界需要“暂时”，人人都需要“暂时”。",
+        "酒精にもたらされる酩酊に浸れよ。脳が休憩を必要とし、憩いを求めし者こそヒトなり",
+        "Immerse yourself in the liberating quintessence of wine, for the mind requires reprieve. Man is naught without repose."
+      ],
+      "commission": [
+        "鸟儿们的啼鸣近了——她们要归巢了。",
+        "伝わるは鳥の調べ――喜び合うる仲間の帰還なり",
+        "The birds' clarion call... It seems that our comrades have returned to us."
+      ],
+      "strengthening": [
+        "利刃终会锈蚀，一味追求强大，又有何意义？",
+        "幾度研がれようとも刃は錆びつく――強さを求める、その行動に意味ありや",
+        "Even the most polished blade must eventually rot. That is to say, there is no point in chasing power."
+      ],
+      "startingMission": [
+        "为舰队而战，便是我的使命。",
+        "艦隊のために戦わん――シャンパーニュに課されし使命なり",
+        "Devote thyself not to the fleet― for that is my solemn charge."
+      ],
+      "mvp": [
+        "使命，必须得到践行。",
+        "シャンパーニュに課された使命、果たすべきものなり",
+        "I ensure that missions sown shall bear rich fruit."
+      ],
+      "defeat": [
+        "此处…还不是终点。",
+        "終着点はここにあらず",
+        "Our true destination still awaits."
+      ],
+      "skillActivation": [
+        "于深邃的蓝色中沉睡吧。",
+        "深き青に眠れよ",
+        "Sleep in the blue depths of the ocean..."
+      ],
+      "lowHP": [
+        "伤痕，终会成为甲胄。",
+        "己が体を傷で強固にせん",
+        "These scars will become my aegis."
+      ],
+      "affinityDisappointed": [
+        "为何，要给与我虚假的光明？",
+        "偽りの光を与えんとする――指揮官、何故このような乱心を",
+        "The hope you brought was but a false light. Why, Commander, must you torment me so?"
+      ],
+      "affinityStranger": [
+        "世界如同平静的巨大湖泊。投以卵石，至多激起些许涟漪，而后终将重归永恒的平静。",
+        "世界は鏡写されし湖の如く、出来事は小さな石の如し。漣起これど、やがて全て平穏に戻れん",
+        "This world is the surface of a calm lake— Disturbances may mar the waters with ripples, but peace must return in time."
+      ],
+      "affinityFriendly": [
+        "树木为了抵御风雨而深扎土壤，鱼儿为了种族存续逆流而上。即便知晓己身终归虚无，万物仍会奋力抵抗命运——",
+        "風に飛ばされまいと木は深く根を張り、種を存続させんと魚は遡上す。無に返される運命を知ってもなお、命ある存在は環境に抗おうとする――",
+        "Trees bury their roots deep into the ground to avoid being blown away, and fish swim upstream to propagate their kind. Though they know they are fated to return to nothingness, living things defy their circumstances to the best of their ability."
+      ],
+      "affinityLike": [
+        "守护舰队必要之武装——装甲、主炮、鱼雷——指挥官皆无法装备。是故，身为舰船的我，才更应履行使命，守护舰队与指挥官。",
+        "艦隊を守る為に必要とされる兵装――装甲・主砲・魚雷――指揮官には備えつけること叶わず。故に、艦船たるシャンパーニュがこの使命を果たし、艦隊と指揮官を守護せん",
+        "Commander, there is no way for you to wear the rigging—armor, main guns, and torpedoes—that is required to defend the fleet. As I am a ship, I will take on the mission to protect you."
+      ],
+      "affinityLove": [
+        "若无力之人都试图反抗宿命，手握力量之人便更不能袖手旁观。指挥官之光辉、温暖、感情——值得我献上全部保护。",
+        "力なき者は運命に抗い、力ある者は見守りに徹すべからず。指揮官の輝き、温もり、愛情――シャンパーニュが体を捧げ、「愛」を誓うに値する",
+        "If those who are powerless resist fate, those with power cannot stand by and do nothing. Commander, your radiance, warmth, and affection—in order to protect all of this, I offer up my body and swear my love."
+      ],
+      "pledge": [
+        "即使世界失去言语，我仍会倾听你的呼吸；即便世界失去色彩，我仍会注视你的脸庞。没有任何事物，能将你从我心中抹去分毫。…你给了我心灵的温暖，我会予你永恒的守护。这是…我的意志。",
+        "言葉が失われようと指揮官の声を聞き、光彩が失われようと指揮官の目を見る。あらゆる存在も、指揮官の存在をかき消すことを能わず。賜った温もりに、永久の守護を以て報いる――シャンパーニュの思いなり",
+        "Even if words stop existing, I will still listen to your voice. Even if the world loses its radiance, I will still look into your eyes. There is nothing in this world that can erase your existence from my heart. The warmth I've received from you, I shall repay with my eternal protection... These are my true feelings."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Champagne_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Champagne_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Champagne_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Champagne_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Champagne_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Champagne_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Champagne_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Champagne_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Champagne_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Champagne_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Champagne_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Champagne_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Champagne_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Champagne_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Champagne_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Champagne_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Champagne_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Champagne_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Champagne_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Champagne_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Champagne_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Champagne_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Champagne_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Champagne_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Champagne_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Champagne_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Champagne_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Champagne_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Champagne_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Champagne_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Champagne_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Champagne_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Champagne_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Champagne_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Champagne_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Champagne_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Champagne_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Champagne_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Champagne_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Champagne_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Champagne_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Champagne_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Champagne_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Champagne_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Champagne_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Champagne_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Champagne_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Champagne_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Champagne_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Champagne_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Champagne_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Champagne_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Champagne_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Champagne_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Champagne_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Champagne_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Champagne_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Champagne_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Champagne_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Champagne_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Champagne_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Champagne_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Champagne_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Champagne_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Champagne_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Champagne_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Champagne_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Champagne_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Champagne_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Champagne_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Champagne_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Champagne_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Champagne_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Champagne_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Champagne_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Champagne_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Champagne_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Champagne_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

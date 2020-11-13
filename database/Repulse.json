@@ -1,0 +1,451 @@
+{
+  "name": "Repulse",
+  "constructionTime": "04:10:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Renown",
+  "ID": "128",
+  "faction": "Royal Navy",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "artist": "SA",
+  "pixiv": "https://www.pixiv.net/member.php?id=5529284",
+  "link": "https://weibo.com/u/3405529060",
+  "voiceActor": "https://twitter.com/gatashi_",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6032,
+      152,
+      28,
+      354,
+      0,
+      35,
+      31,
+      268,
+      0,
+      12,
+      68,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5133,
+      133,
+      28,
+      315,
+      0,
+      21,
+      31,
+      234,
+      0,
+      12,
+      56,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      993,
+      56,
+      28,
+      67,
+      0,
+      8,
+      31,
+      50,
+      0,
+      4,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "150% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 70%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 9,
+  "maxLimitBreakTechPoints": 19,
+  "level120StatBonus": "Battlecruiser (BC) Evasion  +1",
+  "level120TechPoints": 14,
+  "enhancementValue": [
+    44,
+    0,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    10,
+    3,
+    1
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Z's Counterattack; CN: “Z的反击” JP: 「逆襲のZ」",
+  "skill1Description": "Upon taking an attack, increases own Reload by 30% (50%) for 8 seconds. Effect does not stack with itself.",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/91/Repulse.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e2/RepulseChibi.png",
+      "shipDescription": [
+        "声望级战列巡洋舰—反击",
+        "レナウン級巡洋戦艦・レパルス (HMS Repulse)",
+        "Renown-class battlecruiser - Repulse"
+      ],
+      "selfIntroduction": [
+        "我是声望级战列巡洋舰——反击。别看我这样，我可是跟着大人物们到处去过很多地方的！虽然我更喜欢自己到处跑就是了！ “修理号”？啊哈哈，希望指挥官别天天把我关在家里就好了……",
+        "私はレナウン級巡洋戦艦ーーレパルスだ。こんなナリでもお偉いさんたちと色々回ってたんだぜ！まあ自分で動いたほうが好きだけどね！ 「リペアー」？あははは、指揮官には毎日家に閉じ込めないでほしいねぇ…",
+        "I'm Repulse, a Renown-class battlecruiser. I may not look like much, but I've been tons of places with the higher-ups! Though I prefer going out on my own! \"Repairs\"? Ahahaha, I'm hoping you won't keep me locked up indoors every day, Commander..."
+      ],
+      "acquisition": [
+        "我是声望级战列巡洋舰——反击。参与追捕过波斯猫，可惜没有遇上。至于Z舰队……我觉得我以后都不想再看到鱼雷了……",
+        "私はレナウン級巡洋戦艦、レパルス。ビスマルクの追撃に参加したけど、追いつけなかったんだ。それからはずっとZ部隊…もう魚雷は二度と見たくない…",
+        "I'm Repulse, a Renown-class battlecruiser. I participated in the pursuit of Bismarck, but we couldn't catch up to her. Ever since then I've been a part of Force Z... I don't ever want to see a torpedo again..."
+      ],
+      "login": [
+        "Hello！指挥官，今天一起去“修理”下对面的吧？",
+        "ハロー指揮官！一緒に敵をボッコボコにしちゃおう！",
+        "Hello, Commander! Let's go beat the heck out of our enemies!"
+      ],
+      "details": [
+        "Hi！指挥官！为了方便行动我就少穿一些啦~",
+        "ハーイ！指揮官！動きやすいように薄着しちゃったんだ~",
+        "Hi, Commander! I changed into something a little easier to move around in~"
+      ],
+      "secretaryIdle1": [
+        "Hey！指，挥，官~！运-动-起-来-指—挥—官~！",
+        "ヘイ！指ー揮ー官！体を動かそう～！",
+        "Hey! Com~man~der~! Let's get some exercise~!"
+      ],
+      "secretaryIdle2": [
+        "指挥官看上去很强啊，我们找个机会来比试一下吧？",
+        "指揮官は強そうだな、いつか手合わせしてみる？",
+        "You look strong, Commander. Want to spar sometime?"
+      ],
+      "secretaryIdle3": [
+        "欸？指挥官觉得人家是急性子吗？",
+        "え？指揮官、私がせっかちだって？",
+        "Huh? You think I'm impatient?"
+      ],
+      "secretaryTouch": [
+        "欸？我以为指挥官会喜欢柔软一点的女孩子呢……",
+        "え？指揮官はもっとぷにっとする女の子が好きだと思ってたよ…",
+        "Huh? I thought you'd be into softer girls than me..."
+      ],
+      "secretarySpecialTouch": [
+        "唔哇啊！喂……好过分啊！我好歹是个女孩子啊！",
+        "うわあ！ちょ、ちょっと…ひどい！私だって一応女の子なんだからね！",
+        "Whoah! S-stop… You're awful! I'm a girl, you know!"
+      ],
+      "task": [
+        "任务！任务！还有任务！",
+        "ミッション！ミッション！ミッション！",
+        "Missions! Missions! More missions!"
+      ],
+      "taskComplete": [
+        "Yes！我们的任务奖励送来了！",
+        "Yes！ミッションボーナスが届いたわ！",
+        "Yes! Our rewards are here!"
+      ],
+      "mail": [
+        "邮差反击，带来了指挥官的信件！",
+        "配達担当レパルス、メールを届けに参りました！",
+        "Deliverygirl Repulse has arrived with your mail!"
+      ],
+      "returnFromMission": [
+        "一回港就休息可不行，再来运动一下吧！",
+        "帰還したばかりで休んじゃダメよ！もう少し運動しよう！",
+        "You can't rest right after reaching port! Go exercise more!"
+      ],
+      "commission": [
+        "作为让热爱户外的反击小姐在房间里陪你的代价，就罚你和我一起去检查姐妹们完成委托的成果好了，Let's go！",
+        "アウトドア派のレパルスを部屋に引きこもらせて~罰としてあの娘たちが持ってきた委託の成果を視察しに行くわよ！Let's go！",
+        "You've made me stay with you inside, so, as your punishment, you'll have to accompany me to check up on the completed commissions. Let's go!"
+      ],
+      "strengthening": [
+        "指挥官，要和我一起出海散步吗，我会保护你的~",
+        "指揮官、一緒に海辺に散歩しに行かない？守ってあげるから~",
+        "Commander, want to go take a stroll out to sea? I'll protect you!"
+      ],
+      "startingMission": [
+        "看见会动的东西就把它炸成炮灰！",
+        "動くもの全てを討ち滅ぼせ！なんてね☆",
+        "Vaporize anything that moves into ash!"
+      ],
+      "mvp": [
+        "Hooray！我赢了！速战速决才是真理，嘿嘿",
+        "ヤッホー！勝ったぞ！速戦即決こそが勝利の決め手！",
+        "Hooray! We won! Quick, decisive victories are my favourite."
+      ],
+      "defeat": [
+        "拖这么久，我肚子都饿了，怎么可能赢嘛……",
+        "ああ～敵がいつまでもしつこいから、もうお腹がぺこぺこだよ…こんなの勝てるわけない…",
+        "Ahh, the enemy was so persistent that I'm starving now... There's no way we could've won like this..."
+      ],
+      "skillActivation": [
+        "瞄准……呯！（狙い……ポン！）",
+        "狙って…ポン！",
+        "Ready... fire!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官身边一点也不好玩，我要出门了！",
+        "指揮官と一緒だとなんだか退屈…ちょっと出かけてくる！",
+        "It's kinda boring being here with you... I'm heading out for a while!"
+      ],
+      "affinityStranger": [
+        "在室内无聊死了，还是室外好，指挥官整天坐着也很难受吧，来一起感受新鲜空气吧！",
+        "部屋にこもってるとつまんないし、やっぱ外はいいよね～指揮官も毎日座ってばっかで気分悪くなるでしょ？一緒に新鮮な空気を吸いに行こうよ",
+        "It's so boring indoors! Being outdoors is so much better... Commander, don't you feel bad sitting around all day? Let's go out and get some fresh air!"
+      ],
+      "affinityFriendly": [
+        "姐姐老批评我太冲动，不过对我来说动脑子太麻烦了，而且现在有指挥官在，动脑的事都交给你就好啦！",
+        "姉からよくせっかちって言われるけど、まあ私にとっては考えるほうがめんどくさい感じよ。それに指揮官もいるし、頭脳労働はもう任せちゃお☆",
+        "My sister always says I'm too impatient, but I can't be bothered thinking everything through. Besides, you're always around, so I'll leave all the thinking to you, Commander!"
+      ],
+      "affinityLike": [
+        "指——挥——官！嘿呀！嗯？贴得太紧了？欸……没关系啦，比起这个，来玩来玩",
+        "しーきーかーん！えい！…うん？べったりしすぎるって？ええ～まあいいじゃん～それより、遊びにいこうよ～",
+        "Com~man~der! Gotcha! Hmm? I'm too close? Hey, what's the problem with that~ Anyway, come and play with me~!"
+      ],
+      "affinityLove": [
+        "我说指挥官啊，我好歹也算是女孩子，也没有粗神经到能天天毫无防备地贴着不喜欢的人缠着他玩，你也差不多该注意到了吧……",
+        "指揮官さあ、私も女の子だし、いくら大雑把でも無防備に好きじゃない人にべったりしないでしょ？そろそろ気づいてくれるかな……",
+        "You know, Commander, I am a girl after all. I'm not so crazy I'd defencelessly cling to someone I don't like. It's about time you noticed..."
+      ],
+      "pledge": [
+        "欸？！我真的可以吗？我没有皇家其他姐姐们那么优雅，身材也不好……不过对指挥官的心意是绝不会输给其他人的！",
+        "ええ！？私でいいの？だってロイヤルの他の姉たちほど気品がないし、スタイルもよくないし頭悪いし……で、でも指揮官への気持ちだけは誰にも負けないよ！",
+        "Huh?! You're happy with me? I'm not as elegant as some other royal girls, and I don't dress all that great... But when it comes to my feelings for you, I rank second to none!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、ハッピー・バレンタイン！姉さんと一緒に作ったチョコレートをあげる！義理？本命？えへへ～どっちだろう？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，情人节快乐！今年也送你情人节巧克力哦！按姐姐的“本命巧克力”意思来说确实是本命巧克力，不过对我自己而言也算是“本命巧克力”……的吧？嗯，就是这样！",
+        "ハッピーバレンタイン、指揮官！今年もバレンタインチョコをあげる！姉さんが言ってる「本命チョコ」といえば本命チョコだけど、私的にも本命チョコとも言えちゃう…かな？うん、つまりそういう感じ！",
+        "Commander, Happy Valentine's Day! Here's some chocolate that my sister and I made for you! Romantic, or platonic? Ehehe~ I'll leave that to your imagination~"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's Day, Commander! My sister made her so-called \"chocolate of one's heart and efforts\" that she really did work super hard on... But there's a special meaning in my chocolates here that also took a lot of my heart and effort! Here you go, Commander!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Repulse_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Repulse_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Repulse_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Repulse_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Repulse_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Repulse_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Repulse_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Repulse_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Repulse_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Repulse_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Repulse_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Repulse_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Repulse_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Repulse_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Repulse_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Repulse_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Repulse_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Repulse_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Repulse_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Repulse_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Repulse_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Repulse_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Repulse_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Repulse_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Repulse_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Repulse_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Repulse_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Repulse_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Repulse_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Repulse_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Repulse_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Repulse_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Repulse_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Repulse_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Repulse_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Repulse_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Repulse_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Repulse_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Repulse_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Repulse_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Repulse_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Repulse_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Repulse_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Repulse_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Repulse_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Repulse_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Repulse_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Repulse_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Repulse_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Repulse_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Repulse_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Repulse_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Repulse_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Repulse_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Repulse_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Repulse_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Repulse_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Repulse_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Repulse_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Repulse_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Repulse_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Repulse_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Repulse_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Repulse_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Repulse_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Repulse_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Repulse_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Repulse_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Repulse_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Repulse_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Repulse_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Repulse_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Repulse_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Repulse_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Repulse_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

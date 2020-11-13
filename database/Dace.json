@@ -1,0 +1,453 @@
+{
+  "name": "Dace",
+  "constructionTime": "00:24:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Gato",
+  "ID": "342",
+  "faction": "Eagle Union",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/7/73/Dace_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1692,
+      90,
+      68,
+      71,
+      503,
+      41,
+      16,
+      0,
+      0,
+      6,
+      178,
+      0,
+      243,
+      2
+    ],
+    "Level 100": [
+      1410,
+      78,
+      68,
+      62,
+      457,
+      22,
+      16,
+      0,
+      0,
+      6,
+      159,
+      0,
+      243,
+      2
+    ],
+    "Base Stats": [
+      273,
+      33,
+      68,
+      13,
+      97,
+      9,
+      16,
+      0,
+      0,
+      2,
+      61,
+      0,
+      243,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "105% → 120%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "90% → 90%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Health  +2",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    1,
+    38,
+    0,
+    6
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Heavy Cruiser Hunter; CN: 重巡猎手 JP: 重巡ハンター",
+  "skill1Description": "Increases damage dealt to Heavy Cruisers by 5% (15%).",
+  "skill2Name": "Extra Oxygen; CN: 额外供氧 JP: 酸素生成装置",
+  "skill2Description": "Increases own Oxygen stat by 4 (40).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射",
+  "skill3Description": "When entering battle, trigger Full Barrage - Gato-Class I （II）",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/23/Dace.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png",
+      "shipDescription": [
+        "猫鲨级潜艇鲦鱼，舷号SS-247",
+        "ガトー級潜水艦デイス・SS-247",
+        "Gato-class submarine - Dace (SS-247)"
+      ],
+      "selfIntroduction": [
+        "我叫鲦鱼！喜欢的东西是鱼雷、鱼雷还有鱼雷！猫鲨级？哦对，我好像是猫鲨级来着！战绩？让我想想…击沉过摩耶！她也在这边吗？",
+        "わたしはデイス！好きなものはトルピーユ、トルピード、あと魚雷だよ！ガトー級？あ、そうそう！そういえばわたしガトー級なんだ！戦績は…ええと…あの大戦では摩耶を沈めたことがあるよ！もしかしてここにいるの！？",
+        "The name's Dace! My three favorite things are torpedoes, torpedo launchers, and uh, more torpedoes! My class? Oh right, I'm a Gato-class... If I remember properly, one of my achievements included taking out that Maya fellow... wonder if she's around."
+      ],
+      "acquisition": [
+        "嗨～你就是指挥官吗？白鹰潜艇鲦鱼前来报到～那么，先来几发问候的鱼雷吧～",
+        "Hi～キミが指揮官？ユニオン潜水艦デイス、着任～じゃ、挨拶の魚雷、何本か撃ってもいい？",
+        "Hi~ are you my new commander? I'm Dace from the Eagle Union, reporting for duty. I believe in shooting torpedoes first, and asking questions later~"
+      ],
+      "login": [
+        "啊，指挥官，来的正好。麻烦帮我捡一下你脚边的鱼雷～",
+        "あー指揮官、いいタイミングに来てくれた！足元の魚雷を拾うのちょっと手伝って～",
+        "Ah, Commander, good timing! Mind helping me pick up those torpedoes next to your feet~?"
+      ],
+      "details": [
+        "金属的色泽，冰凉的触感，还有水花和爆炸……指挥官，你不觉得鱼雷是最棒的吗！",
+        "触るとヒヤヒヤ、見るとピカピカ、撃つとドカーンと爆発してプシャーっと水しぶきが吹き上がる……指揮官、魚雷ってサイコーだと思わない？",
+        "The gleam of the metal, the coolness to the touch, the distinctive splash, and of course, the explosion... Ahh, Commander, torpedoes are simply the best!"
+      ],
+      "secretaryIdle1": [
+        "我的梦想之一就是在大海里实现属于我的鲦鱼马戏！",
+        "「デイスの魚雷サーカス」、いつかやってみるのが夢なんだ～",
+        "\"Dace's Torpedo Circus.\" It's always been a dream of mine to make that happen one day!"
+      ],
+      "secretaryIdle2": [
+        "指挥官，我给你讲解一下鱼雷的知识吧，其实很有意思的！",
+        "指揮官、魚雷の基本を教えてあげる！すごく面白いよ！",
+        "Commander, I'm going to give you a crash course on torpedoes! Trust me, you'll be fascinated!"
+      ],
+      "secretaryIdle3": [
+        "指挥官，要吃鱼雷巧克力吗，还有鱼雷面包什么的，都是我亲手做的！",
+        "指揮官、魚雷チョコとか魚雷パンとか食べてみない？わたしが作ったの！はい！",
+        "Commander, wanna have some torpedo chocolate or torpedo bread? Here, have some, I made 'em myself!"
+      ],
+      "secretaryTouch": [
+        "指挥官，你说，几十发鱼雷一起爆炸，场面会不会很壮观啊？",
+        "指揮官、何十本もの魚雷が一斉に爆発したら…すっごくいい光景になるって思わない？",
+        "Commander, have you ever seen a dozen torpedoes go off at once? Don't you think it'd make for an awesome light show?"
+      ],
+      "secretarySpecialTouch": [
+        "鱼雷齐射！目标，指挥官！",
+        "魚雷斉射！指揮官を狙って～",
+        "Torpedo volley! Locked on to Commander~!"
+      ],
+      "task": [
+        "指挥官，就是，有没有，那种，能让人尽情发射鱼雷的任务啊？",
+        "指揮官～あの、ええと、あれ！魚雷打ち放題の任務とか、ないの？",
+        "Commander! Ah, um, do you have any missions that require some serious torpedo launching?"
+      ],
+      "taskComplete": [
+        "鱼雷With任务奖励发射～没接好我可不管哦，指挥官",
+        "魚雷with任務報酬、発射～！指揮官、受け取れなくても知らないぞー！",
+        "Mission rewards-attached torpedoes, laaaaunch~! Commander, I'm not sure you'll be able to catch this one~!"
+      ],
+      "mail": [
+        "指挥官有你的信～不知道附件里会不会有鱼雷呢",
+        "指揮官！メールだよ！魚雷とかあるかな～",
+        "Commander! Mail's here! Check if my torpedoes are here~!"
+      ],
+      "returnFromMission": [
+        "指挥官辛苦了～分你一根鱼雷！欸？累了抱着鱼雷睡觉最舒服呀",
+        "指揮官お疲れ様！はい魚雷あげる！どういうことって？疲れたら魚雷を抱きながら寝るのがいっちばん気持ちいいってことだよ！",
+        "Good work out there, Commander! Here's a torpedo for you! Huh, what's it for? For hugging of course - it'll help you sleep comfortably when you're tired!"
+      ],
+      "commission": [
+        "大家完成委托回来啦，真好啊，我也想去射……啊不，委托，指挥官，指~挥~官~",
+        "委託に出かけたみんなが戻ってきたよ！いいな～わたしも魚雷を……あ、いやいや、委託だよ委託！指揮官？おーい指揮官～！",
+        "The commission fleet has returned! How nice, I'd love to go out and shoot some... Ah, no no, this is commissions that we're talking about! Commander? Heey~ Commander!"
+      ],
+      "strengthening": [
+        "指挥官，你没忘记优先强化雷击吧～？",
+        "指揮官、雷撃強化を優先するの忘れてない？",
+        "Commander, did you remember to prioritize upgrading the torpedoes first?"
+      ],
+      "startingMission": [
+        "鱼雷准备就绪～我来啦～",
+        "魚雷準備完了～いっくよー！",
+        "Torpedoes locked, loaded, and ready to go~!"
+      ],
+      "mvp": [
+        "哼哼～这就是鱼雷的威力啦！",
+        "ふっふん～これが魚雷の威力だ！",
+        "Heheh~ how do ya like them torpedoes!"
+      ],
+      "defeat": [
+        "至、至少让我多射几发鱼雷！",
+        "ぎょ、魚雷だけもっと撃たせて～",
+        "Let... Lemme shoot off a few more at least!"
+      ],
+      "skillActivation": [
+        "鱼雷齐射～去吧！",
+        "魚雷斉射！いっけー！",
+        "Torpedoes, laaaunch! Let 'em have it!"
+      ],
+      "lowHP": [
+        "唔，我们的位置暴露了吗…",
+        "えっ、こっちの場所がバレてるの……？",
+        "Um... did they find our hiding place...?"
+      ],
+      "affinityDisappointed": [
+        "你被开除鱼雷爱好者籍啦！",
+        "魚雷愛好家失格、待ったなし！",
+        "You're banned from the Torpedo Lovers Club!"
+      ],
+      "affinityStranger": [
+        "今天也是适合发射鱼雷的一天呢！",
+        "今日も魚雷を撃つのに最適な日だね！",
+        "Today's a good day to shoot a bunch of torpedoes!"
+      ],
+      "affinityFriendly": [
+        "实际上摩耶真的很强呢…果然那时候只是大意了吧。不过，毕竟偷袭才是我们潜艇的强项嘛～",
+        "摩耶って本当は強いよね…やっぱりあの時はうっかりしてただけなのかな。まあ、そういう不意を突くのが潜水艦の強みなんだけどね",
+        "Maya really packs a punch... I suppose she just got careless that time. Well, it is the job of a submarine to catch people off guard."
+      ],
+      "affinityLike": [
+        "指挥官，要不要来看我的鱼雷秀？总觉得指挥官你不在，我的状态就会变差……所以一定要来哦！",
+        "指揮官、今度わたしの魚雷ショーを見てみない？指揮官がいないとなんだか調子出ないよ……だから絶対見に来てねっ！",
+        "Commander, won't you come see my torpedo show next time? If you're not there, I can't get hyped at all... so, promise you'll be there!"
+      ],
+      "affinityLove": [
+        "是指挥官重要还是鱼雷重要呢……唔，指挥官只有一个，鱼雷有很多，所以应该还是指挥官更重要！嗯，就是这样！",
+        "指揮官と魚雷、どっちが大事かな……むっ、魚雷はたくさんあるけど指揮官は一人いかいないから、指揮官のほうが大事だよね！うん、きっとそうだよ！",
+        "Hmm... if I had to choose between Commander and my torpedoes... Urgh, there are a lot of torpedoes out there but only one Commander, so I suppose I'll pick Commander! Mmhmm, that's right!"
+      ],
+      "pledge": [
+        "这个是给我的吗？真的吗？嘿嘿，太棒了～指挥官，我向你保证，以后让我往东边射鱼雷，我就绝不往西边射！",
+        "これをわたしに？本当？えへへ～グッジョブ！指揮官、保証するよ？今度「こっちに魚雷を撃て」って指示してくれたら、絶対にあっちに撃ったりなんてしないから！",
+        "This is for me? Really? Ehehe~ I'm so happy! Commander, it's a promise, okay? In return, I promise that if you order me to shoot a torpedo in one direction, I won't also shoot them in every other direction!"
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，吃我一记情人节鱼雷！……啊哈哈，其实是鱼雷型巧克力！还挺好吃哦，你喜欢的话我还有不少~",
+        "指揮官に魚雷型チョコをプレゼント！だけど、この中に一つだけ本物の魚雷があるよ。気を付けて食べてね！って冗談だよ。うーーん、私でも見分けがつかないくらいうまく作れたね！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I've got a gift for you in the form of torpedo chocolate! Wait, I mean chocolate torpedoes! Oh shoot, wait again! Out of these 5 torpedoes, I think only 1 of them is made of chocolate...! Commander, you need to have faith in your torpedo knowledge and pick out the right one!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Dace_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Dace_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Dace_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Dace_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Dace_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Dace_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Dace_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Dace_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Dace_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Dace_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Dace_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Dace_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Dace_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Dace_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Dace_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Dace_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Dace_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Dace_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Dace_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Dace_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Dace_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Dace_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Dace_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Dace_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Dace_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Dace_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Dace_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Dace_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Dace_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Dace_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Dace_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Dace_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Dace_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Dace_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Dace_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Dace_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Dace_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Dace_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Dace_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Dace_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Dace_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Dace_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Dace_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Dace_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Dace_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Dace_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Dace_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Dace_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Dace_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Dace_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Dace_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Dace_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Dace_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Dace_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Dace_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Dace_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Dace_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Dace_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Dace_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Dace_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Dace_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Dace_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Dace_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Dace_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Dace_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Dace_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Dace_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Dace_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Dace_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Dace_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Dace_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Dace_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Dace_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Dace_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Dace_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Dace_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Dace_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Dace_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,566 @@
+{
+  "name": "Kii",
+  "constructionTime": "04:20:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Kii",
+  "ID": "214",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/0f/Kii_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7945,
+      145,
+      39,
+      421,
+      283,
+      37,
+      28,
+      367,
+      0,
+      15,
+      71,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6808,
+      126,
+      39,
+      379,
+      248,
+      18,
+      28,
+      327,
+      0,
+      15,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1317,
+      53,
+      39,
+      80,
+      53,
+      7,
+      28,
+      70,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 22,
+  "maxLimitBreakTechPoints": 44,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +2",
+  "level120TechPoints": 33,
+  "enhancementValue": [
+    67,
+    5,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    10
+  ],
+  "limitBreak1": "Main gun base +1 / Main gun efficiency +5%",
+  "limitBreak2": "Auxiliary gun base +2 / Main gun efficiency +10%",
+  "limitBreak3": "Main gun base +1 / Main gun efficiency +15%",
+  "skill1Name": "Kii Fleet Strategy; CN: 战术解放·纪伊",
+  "skill1Description": "Every 20 seconds after the start of the battle, 45.0% (75.0%) chance to fire a special barrage (barrage damage scales with skill level).",
+  "skill2Name": "Stalwart Advance; CN: 英勇奋进",
+  "skill2Description": "As long as this ship is afloat, increase the AA stat of each of your main fleet ships by 5.0% (15.0%). If there are three or more Sakura Empire ships in your fleet (including this ship), increase this ship's FP by 1.0% (10.0%) and increase the TRP of each vanguard ship in your fleet by 1.0% (10.0%).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4a/Kii.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/ff/KiiChibi.png",
+      "shipDescription": [
+        "鲣级战列舰—鲣",
+        "紀伊型戦艦・紀伊",
+        "Kii-class battleship – Kii."
+      ],
+      "selfIntroduction": [
+        "我是鲣级战列舰的首舰·鲣。因为一些原因最终没能实现在大战中大展身手的抱负……如今，我终于有机会展示自己的实力了！指挥官，不要有所拘束，照你的想法驱使我就行！",
+        "八八艦隊計画、紀伊型戦艦の一番艦、紀伊よ。かの大戦では色々あって活躍できなかったけど……ふふん、ここでなら思いっきり暴れられるわ！指揮官、遠慮せず私をうまく使いこなして！",
+        "I am part of the Eighty-Eight Fleet Program: first ship of the Kii-class battleships, Kii. In short, I never got a chance to shine during the war because reasons... But now I have, and I'm going to use it to its fullest! If you have anything that needs doing, just say the word, Commander!"
+      ],
+      "acquisition": [
+        "战舰鲣，参上！听说在这里可以毫无顾忌的施展拳脚？哼哼，很好！我很期待之后的日子，你也尽管期待我的表现吧！",
+        "戦艦紀伊、参上だ！さて、ここでは派手に動けると聞いたんだけど？そっか、それはいいわね！ふふん、私の獅子奮迅の活躍を期待してて！",
+        "Battleship Kii, reporting for duty! Is it true that I'd be able to fight without holding back over here? Heh, good stuff! I look forward to what the future has in store, and you should keep your eyes on me as well!"
+      ],
+      "login": [
+        "终于来啦？我的火炮都已经寂寞难耐了哦，是时候让它们热热身了！",
+        "ようやくご出勤ね。ははは、こっちは主砲をぶっ放したくてウズウズしてたところよ。そろそろ出撃しようじゃない！",
+        "Look who's finally clocked in, hahahah! My trigger finger's gotten itchy, so let's get on with a sortie already!"
+      ],
+      "details": [
+        "无论是刀剑，还是火炮，果然武器还是得够“大”才好啊，光是气势上就有种“赢了！”的感觉，你说是吧，指挥官！",
+        "兵装は大きくて、目立っているほうがいいに決まっているわ。性能はともかく、これだけ大きければ「勝ったな！」って、余裕も威勢も生まれる――指揮官もそう思わない？",
+        "Obviously I like being on the center stage with my massive cannons. Performance aside, their size alone boosts morale while intimidating the enemy. You get what I mean, Commander?"
+      ],
+      "secretaryIdle1": [
+        "要是谁欺负你了，尽管告诉我，我帮你揍回去！…嗯？我是认真的哦，没开玩笑的。",
+        "いじめられたら私に言って。この紀伊が身の程を思い知らせてきてやるわ！―ー割と本気だからね？私",
+        "Tell me if anyone starts picking on you. I'll put them in their place! And I mean it, for the most part, you hear?"
+      ],
+      "secretaryIdle2": [
+        "嗯~~一直待着感觉身体都要变僵硬了…怎么了，一脸局促的样子。唔，衣服哪里松开了？",
+        "んんん～突っ立っているだけだと体が硬くなるわね…どうした指揮官？顔を真っ赤にして…さらしがズレている？",
+        "Mmghh! I'm feeling stiff after standing up for so long... What's up, Commander? Why are you blushing? ...My bra's coming off?"
+      ],
+      "secretaryIdle3": [
+        "鲪～今天忙完之后，和鳌她们一起去喝一杯嘛？哎别这么没人情味嘛…都说好要去就一起去了！",
+        "駿河～仕事から上がったら、伊勢たちと飲みに行かない？もうつれないわね…行くってときは一緒に行こうね！",
+        "Hey, Suruga! What do you say to going drinking with me and the gang once work is done? Figures, always so antisocial... When people invite you, you should go with it!"
+      ],
+      "secretaryTouch": [
+        "遇到什么困难了？尽管说出来吧。",
+        "困っていることでもあるの？私に相談してくれていいんだよ？",
+        "Something on your mind? I might be able to help you with it."
+      ],
+      "secretarySpecialTouch": [
+        "增进彼此感情的亲密接触啊…也不错！",
+        "仲良しのスキンシップ……んーアリかな？",
+        "\"Friendly friskiness,\" is it? Hmm... Sure, I guess?"
+      ],
+      "task": [
+        "有新任务？是要去哪个海域清剿敌人的话，就尽管交给我吧！",
+        "新しい任務？敵の掃討なら私に任せて！",
+        "A new mission? If it's about turning hostiles to scrap, I'll get it done!"
+      ],
+      "taskComplete": [
+        "干净利落地把任务都完成了啊，很好！",
+        "テキパキ任務を片付けてきたわね！よし！",
+        "We're wrapping up these missions nicely! Great!"
+      ],
+      "mail": [
+        "有信件…难道是谁寄来的挑战书？好，我接了！……啊，原来不是吗…",
+        "手紙……果し合いならこの紀伊、受けて立つわ！…なんだ…違うのか…",
+        "A letter, eh? If it's an open duel, then I accept their challenge! Oh, no duel, huh..."
+      ],
+      "returnFromMission": [
+        "比起驻守港区，还是上战场歼敌更令人瞩目啊，不是吗？",
+        "母港でじっと待っているより、戦場で活躍した方が目立つと思わない？",
+        "I reckon we'll garner more fame by winning battles than by wasting time in port, don't you agree?"
+      ],
+      "commission": [
+        "虽然我对委托这种单纯枯燥的工作没什么兴趣，不过可不能亏待了归来的同伴们，一起去迎接她们吧！",
+        "軍事委託、ちょっと地味ね……まあ、頑張った仲間たちを目立たせないとだし、一緒に出迎えに行こう？",
+        "That last commission was kinda mediocre... Still, they deserve a congratulatory moment. Want to come with me?"
+      ],
+      "strengthening": [
+        "好，马上用实战检验一下强化的成果吧！",
+        "どこまで強化されたか、実戦で確認―ーね？",
+        "Let's see how strong I've really gotten. Send me into battle!"
+      ],
+      "startingMission": [
+        "堂堂正正地一决胜负吧！",
+        "正々堂々、派手に勝負と行こうじゃない！",
+        "Let's duke it out, fair and square!"
+      ],
+      "mvp": [
+        "不错！是一场爽快的战斗！",
+        "勝ったわね。ふふん、スッキリした勝利だったわ",
+        "Victory's ours. Heheh, now that was refreshing all right."
+      ],
+      "defeat": [
+        "咕…果然是火力还不够吗……",
+        "くっ…火力が足りなかったか……",
+        "Dammit... Not enough firepower for the job, huh?"
+      ],
+      "skillActivation": [
+        "好！来大闹一场吧！",
+        "ド派手に行くわよ！",
+        "Let's give 'em a dazzling show!"
+      ],
+      "lowHP": [
+        "哈，对面也有两下子嘛！",
+        "向こうもやるわね…！",
+        "These guys are tougher than I expected!"
+      ],
+      "affinityDisappointed": [
+        "嘁，当你的手下真没意思……",
+        "……部下を使いこなせない上司はしんどいわね",
+        "I'm so tired of bosses that can't handle their subordinates, like you."
+      ],
+      "affinityStranger": [
+        "你啊，动不动就脸红气喘，是不是有点太缺乏锻炼了？就和鲪一样啊",
+        "指揮官大丈夫？さっきから疲れてそうな顔だけど……駿河と同じく鍛錬不足かな？",
+        "You okay, Commander? You've had this tired, stiff look on you for a while now... You're not getting rusty like Suruga, are you?"
+      ],
+      "affinityFriendly": [
+        "嗯——好！就让我鲣来陪你锻炼锻炼！别老在室内待着，多出来动动吧，挥挥木刀什么的也好！",
+        "というわけで…トレーニングに付き合ってあげるわ！ささ、部屋から出て新鮮な空気を吸ってジョギング！あと素振りでもやってみなさい！",
+        "Thought as much. I'll help you with your training, then! Come on, out of your room and into the fresh outdoors for some jogging! And later, we'll do some sparring!"
+      ],
+      "affinityLike": [
+        "在战斗中大放异彩，也得有能关注你的伙伴才有意思啊~好！等忙完再去跟螯比划比划，然后再跟她一起去找鳌喝几杯！当然你和鲪也要一起！",
+        "戦闘で華麗な大活躍をしても、見てくれる仲間がいないと楽しくないわね～よし、仕事から上がったら日向と練習して、そのあと駿河と指揮官も連れて伊勢たちと一杯飲んで…んーいい感じ！",
+        "There's no fun in knocking a battle out of the park if nobody's there to witness it. Anyway, once this work is done, I'll go train with Hyuuga. After that, you, I, and Suruga will go for a drink with Ise! Sound good to you?"
+      ],
+      "affinityLove": [
+        "有想要守护的事物，会让人变得更加强大。现在的我有港区的伙伴们，有你在，自然是最强的啦，哈哈！",
+        "守るべき人がいたほうがより頑張れるって言うじゃない？戦艦紀伊、仲間たちと指揮官のために最強になる―ーなんてね♪はははは",
+        "People say you can push yourself harder if it's to protect someone. Then for everyone's sake, I, Kii, shall become the strongest battleship... Pfft, yeah right! Hahahahah!"
+      ],
+      "pledge": [
+        "都说“伙伴之间本就亲密无间”嘛，所以不用这种形式的东西——不是那个意思？你知道我并不擅长表达这个嘛…好吧，既然是你的心意我就接收了！放心吧，无论是过去、现在还是将来，我都会好好保护你的！",
+        "まあ、そんなことしないでも、私達はもうお互い大切なパートナーじゃない？……大丈夫、これはちゃんと受け取るから！今までと同じようにずっと守るから安心して！",
+        "I mean, we don't need to go that far. We're already dearly important to one another, aren't we? ...Don't worry, I'll still accept it! And of course, I'll keep on keeping you safe, just like I always have!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Amagi) 战略交给你，战斗交给我！",
+        "(Sortie with Amagi) 考えるのはそっち、戦うのはこっち！",
+        "(Sortie with Amagi) You're the brains, I'm the brawn!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Suruga) 别害羞，要华丽地上咯！",
+        "(Sortie with Suruga) 今は目立つ時！ド派手に暴れるわよ！",
+        "(Sortie with Suruga) Don't be shy! Let's do this with flair!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 1 of: Ise, Hyuuga) 打赢以后回去喝一杯！",
+        "(Sortie with at least 1 of: Ise, Hyuuga) 勝ったら一杯やろうね！",
+        "(Sortie with at least 1 of: Ise, Hyuuga) Let's celebrate with a glass after we get back!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Kii_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Kii_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Kii_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kii_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kii_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kii_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kii_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kii_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kii_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Kii_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Kii_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Kii_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kii_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kii_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kii_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Kii_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Kii_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Kii_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Kii_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Kii_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Kii_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Kii_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Kii_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Kii_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Kii_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Kii_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Kii_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Kii_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kii_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kii_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Kii_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Kii_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Kii_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Kii_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Kii_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Kii_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Kii_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Kii_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Kii_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kii_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kii_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kii_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Kii_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Kii_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Kii_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Kii_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Kii_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Kii_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kii_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kii_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kii_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kii_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kii_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kii_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Kii_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Kii_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Kii_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Kii_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Kii_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Kii_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Kii_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Kii_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Kii_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kii_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kii_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kii_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Kii_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Kii_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Kii_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kii_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kii_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kii_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Kii_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Kii_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Kii_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Kii_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Kii_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Kii_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kii_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kii_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kii_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Kii_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Kii_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Kii_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kii_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kii_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kii_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Poolside Persuasion",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "水边的诱惑",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "水辺への誘い",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/40/KiiSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/51/KiiSummerChibi.png",
+      "shipDescription": [
+        "(嘶嘶)清凉的饮品，美味的食物，热情的阳光…还有避暑的泳池？呼呼，是不是挺有股“夏天”的感觉出来了？",
+        "冷たい飲み物に軽食、眩しい太陽に……プール？まあ、これでも夏って感じはそこそこあるんじゃない？",
+        "Refreshing drinks, delicious food, warm sunshine... and a pool to beat the heat? Heh, isn't this the essence of summer?"
+      ],
+      "acquisition": [
+        "(嘶嘶)清凉的饮品，美味的食物，热情的阳光…还有避暑的泳池？呼呼，是不是挺有股“夏天”的感觉出来了？",
+        "冷たい飲み物に軽食、眩しい太陽に……プール？まあ、これでも夏って感じはそこそこあるんじゃない？",
+        "Refreshing drinks, delicious food, warm sunshine... and a pool to beat the heat? Heh, isn't this the essence of summer?"
+      ],
+      "login": [
+        "来了吗？肚子饿了的话就随便吃吧，寿司和团子都有。",
+        "ようやく来たわね。お腹が減ってるならまず何か食べない？お団子とかおにぎりとか",
+        "There you are, at last. Want to get something to eat, if you're hungry? Like dumplings, or a rice ball, or something."
+      ],
+      "details": [
+        "鲪又不见了啊，肯定是说着“我是低调的室内派，才不要在这种引人注目的地方待着”什么的又躲哪个角落去了吧。难得的夏天，放开点不好吗？",
+        "駿河、またどっか行っちゃって…「インドア派だしぃ、目立ちたくないしぃ」とか、せっかく夏でみんなはしゃいでいるのにもったいなくない？",
+        "Hey Suruga, let's go somewhere– Come on, don't be all \"I like it indoors\" and \"I'd rather not draw attention,\" just come out and enjoy the summer with us!"
+      ],
+      "secretaryIdle1": [
+        "饮料机，夏日限定露天商店…茗那家伙，在这方面还真是比谁都机灵啊",
+        "あの自販機とか売店、急に設置したわね……明石、こういうときだけは本当に機敏なんだから…",
+        "Akashi sure got that vending machine and stall set up quick... She's ingenious, but only when there's money to be made..."
+      ],
+      "secretaryIdle2": [
+        "下泳池泡泡有什么好害羞的…和女生一起游泳而已，也没什么好在意的吧？",
+        "プールなのになに恥ずかしがっているの？女の子と泳ぐからって別にそんなに気にすることないでしょう？",
+        "Why the hesitation? It's just a pool. Nothing wrong with just swimming together with me, is there?"
+      ],
+      "secretaryIdle3": [
+        "鳐和凰她们玩得挺开心的嘛…这也是你的功劳，稍微自豪些也没什么啦",
+        "あの天城も赤城たちと楽しく過ごせているみたいね…指揮官のおかげよ。誇らしく思ってもいいと思うわ",
+        "Really looks like Amagi, Akagi, and all the rest are enjoying the summer. All thanks to you, Commander. You should be proud."
+      ],
+      "secretaryTouch": [
+        "想去深水区游泳？那我陪你过去吧。",
+        "あっちのエリアに行きたい？付き合ってあげるわ",
+        "Want to head to that other area? I'll come with you."
+      ],
+      "returnFromMission": [
+        "(嘶嘶)这个冻水果茶喝起来还是很棒的，你也来吸一口吧，喏——",
+        "あ、この飲み物美味しいわよ。指揮官も一口どうかしら？ふふふ",
+        "Whoa, this drink is really good. Want a taste, Commander? Hehehe~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kii_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kii_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kii_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Kii_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Kii_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Kii_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Kii_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Kii_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Kii_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kii_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kii_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kii_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Kii_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Kii_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Kii_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kii_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kii_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kii_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Kii_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Kii_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Kii_Sec1Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kii_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kii_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kii_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

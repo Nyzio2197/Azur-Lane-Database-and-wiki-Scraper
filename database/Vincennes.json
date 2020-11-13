@@ -1,0 +1,658 @@
+{
+  "name": "Vincennes",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "New Orleans",
+  "ID": "048",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "Sky-FreeDom",
+  "pixiv": "https://www.pixiv.net/member.php?id=1017056",
+  "twitter": "https://twitter.com/sky_freedom_",
+  "link": "https://weibo.com/skyfreedom",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/b/bf/Vincennes_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4015,
+      161,
+      12,
+      218,
+      0,
+      57,
+      26,
+      230,
+      0,
+      11,
+      122,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3585,
+      140,
+      12,
+      190,
+      0,
+      24,
+      26,
+      200,
+      0,
+      11,
+      104,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      693,
+      59,
+      12,
+      40,
+      0,
+      9,
+      26,
+      43,
+      0,
+      3,
+      40,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "105% → 115%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "55% → 65%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 21,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Anti-air  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    22,
+    0,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Main Gun Mount +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill2Name": "Protective Armor; CN: 防护装甲 JP: 防護装甲",
+  "skill2Description": "Reduce gun-based damage from enemy destroyers and light cruisers by 5% (20%).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ニューオーリンズ級",
+  "skill3Description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - New Orleans-Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0c/Vincennes.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3f/VincennesChibi.png",
+      "shipDescription": [
+        "新奥尔良级重巡洋舰——文森斯，舷号CA-44",
+        "ニューオリンズ級重巡洋艦――ヴィンセンス（CA-44）",
+        "New Orleans-class heavy cruiser – Vincennes, hull number CA-44."
+      ],
+      "selfIntroduction": [
+        "新奥尔良级重巡洋舰七号舰文森斯，去过很多地方…并且在许多战役中都努力过…最后在萨沃岛迎来了自己的结局——",
+        "ニューオリンズ級重巡洋艦七番艦ヴィンセンス。昔は色んなとこに行ってたよ。たくさん戦闘に参加したけど、最後は…サボ島だったかな……",
+        "I'm Vincennes, New Orleans-class heavy cruiser number 7. I've been to lots of places and given it my all in many battles... The last one I remember was at Savo Island..."
+      ],
+      "acquisition": [
+        "新奥尔良级文森斯…指挥官，能把我抱回家吗？",
+        "ニューオリンズ級ヴィンセンスよ…指揮官、ヴィンセンスを連れて帰ってね…？",
+        "I'm Vincennes of the New Orleans-class... Commander, don't you want to take me home?"
+      ],
+      "login": [
+        "指挥官的睡脸，很可爱…",
+        "指揮官、寝顔、カワイイ…",
+        "Commander's sleeping face... cute..."
+      ],
+      "details": [
+        "指挥官，要一起对着天上的云发会呆吗？",
+        "雲を見てぼーっとしない？",
+        "Wanna space out and stare at the clouds?"
+      ],
+      "secretaryIdle1": [
+        "因为姐姐们都很喜欢照顾我，所以大部分时候我只要负责发呆就好了…",
+        "姉ちゃんたちは世話担当、ヴィンセンスはほぼボケ担当……",
+        "Because my sisters like to take care of everything for me, my primary responsibility is spacing out."
+      ],
+      "secretaryIdle2": [
+        "姐姐们塞给了我很多零食，指挥官……一起吃…？",
+        "姉ちゃんたちからおやつ、たくさん貰った。指揮官……一緒に食べる？",
+        "My sisters gave me way too many snacks... Commander, wanna help me out?"
+      ],
+      "secretaryIdle3": [
+        "好无聊…指挥官一起来玩—玩什么？嗯…发呆？",
+        "つまらない…指揮官、なんか一緒にやってみない？ええと…いっしょにぼーっとする？",
+        "So bored... Commander, let's do something together... like spacing out..."
+      ],
+      "secretaryTouch": [
+        "指挥官……知道我在想些什么吗？",
+        "指揮官……ヴィンセンスが何を考えているか分かる？",
+        "Commander... can you guess what I'm thinking right now?"
+      ],
+      "secretarySpecialTouch": [
+        "咿喵！指挥官想干什么！？",
+        "ふにゃ！何をするの！？",
+        "Woah?! Commander, what are you doing?!"
+      ],
+      "task": [
+        "任务……也不是都得完成的吧…",
+        "任務……全部こなさなくてもいいよね…",
+        "Surely... it wouldn't hurt to skip a few of these missions..."
+      ],
+      "taskComplete": [
+        "指挥官，我来替你休息吧…？",
+        "指揮官、代わりにヴィンセンスが休んであげよ？",
+        "Commander, why don't you let me take a nap as a reward instead...?"
+      ],
+      "mail": [
+        "新的邮件出现了……好远，不想去拿……",
+        "新手のメールが現れたー遠い…取りに行きたくない……",
+        "Looks like there's new mail... but it's too far away... Don't wanna go..."
+      ],
+      "returnFromMission": [
+        "欢迎回来，指挥官，今天天上云朵的形状很罕见呢…",
+        "指揮官おかえりー。今日は珍しい雲を見た…",
+        "Welcome back, Commander. There are some interesting-looking clouds in the sky today..."
+      ],
+      "commission": [
+        "委托队们回来了…发呆时间结束了…",
+        "委託チームおかえり～ボケタイムおわり～",
+        "The commission fleet's back... Looks like spacing out time is over..."
+      ],
+      "strengthening": [
+        "变强…好像也没什么好处呢…",
+        "強くなるって…別にいいとこなさそう……",
+        "What's the point... of getting stronger anyway?"
+      ],
+      "startingMission": [
+        "一起游泳吧…？",
+        "一緒に泳ご？",
+        "Wanna go swim together?"
+      ],
+      "mvp": [
+        "胜利的V！",
+        "勝利のV～",
+        "V is for victory!"
+      ],
+      "defeat": [
+        "指挥官，要准备跑了…",
+        "指揮官、エスケープ……",
+        "Commander, we should run..."
+      ],
+      "skillActivation": [
+        "要认真了…！",
+        "本気だすよ…にゃ！",
+        "It's time to get serioush...!"
+      ],
+      "lowHP": [
+        "还、还能战斗！大概…",
+        "ま、まだ戦える！かも…",
+        "I... I can still keep fighting! Probably..."
+      ],
+      "affinityDisappointed": [
+        "指挥官？！好危险……",
+        "指揮官！？危なかった……",
+        "Commander?! How dangerous..."
+      ],
+      "affinityStranger": [
+        "昆西姐姐一直在帮各种各样的人忙，都没时间陪我发呆了……",
+        "クインシー姉ちゃんはほかの人の手伝いで忙しいから、あまりヴィンセンスと一緒にぼーっとしなくなった……",
+        "Quincy is always busy helping other people, so she never has time to space out with me..."
+      ],
+      "affinityFriendly": [
+        "指挥官……不论对谁都很温柔…",
+        "指揮官……誰にでも優しいね…",
+        "Commander... you're sure nice to everyone..."
+      ],
+      "affinityLike": [
+        "不是对谁都一样喵？但是只要一看着我，指挥官的脸就变得十分温柔呢……这是为什么？",
+        "みんな同じじゃない？でもヴィンセンスを見る指揮官の顔は優しいね……なんでだろう…",
+        "You don't act the same towards everyone? Then how come whenever you look at me, your face is always so gentle... Why is that?"
+      ],
+      "affinityLove": [
+        "比起观察云彩和大海，现在我更喜欢观察指挥官了……指挥官的笑容、焦虑、喜悦、无奈都好有趣……",
+        "海と空を見ることより、指揮官の顔を見るのが好き……楽しい顔も慌てる顔も、焦る顔も呆れる顔も、みんな面白いの……",
+        "Now I like to observe your expressions instead of watching the clouds... Commander, your face when you're having fun, when you're worried, when you're in a pinch, or when you're surprised... they're all so interesting..."
+      ],
+      "pledge": [
+        "虽然只和姐姐们一起也能玩得很快乐…但如果有指挥官的陪伴，一定会比现在更加有趣。所以，接下来也请多指教！",
+        "姉ちゃんたちと一緒に遊ぶのもいいけど…指揮官がいてくれたらもっと面白くなるよね…？うん、これからもよろしくー",
+        "Even though being with my sisters is already a lot of fun, as long as you're with me, I feel like we'll have even more fun! So, let's continue getting along!"
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给……虽然是昆西姐姐帮忙做的，不过我也难得努力过了哦……毕竟是给指挥官做的……",
+        "指揮官、ほい。最後クインシー姉ちゃんが作ったけど、私も途中まで頑張ったよ。指揮官へのプレゼントだからね…",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I put a lot of work into making this chocolate. First tell me I did good, then I'll give you your present. Well, you don't *have* to praise me, since I made it for you in the first place..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Vincennes_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Vincennes_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Vincennes_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Vincennes_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Vincennes_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Vincennes_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Vincennes_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Vincennes_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Vincennes_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Vincennes_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Vincennes_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Vincennes_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Vincennes_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Vincennes_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Vincennes_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Vincennes_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Vincennes_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Vincennes_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Vincennes_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Vincennes_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Vincennes_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Vincennes_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Vincennes_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Vincennes_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Vincennes_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Vincennes_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Vincennes_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Vincennes_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Vincennes_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Vincennes_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Vincennes_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Vincennes_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Vincennes_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Vincennes_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Vincennes_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Vincennes_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Vincennes_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Vincennes_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Vincennes_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Vincennes_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Vincennes_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Vincennes_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Vincennes_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Vincennes_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Vincennes_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Vincennes_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Vincennes_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Vincennes_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Vincennes_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Vincennes_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Vincennes_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Vincennes_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Vincennes_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Vincennes_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Vincennes_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Vincennes_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Vincennes_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Vincennes_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Vincennes_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Vincennes_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Vincennes_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Vincennes_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Vincennes_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Vincennes_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Vincennes_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Vincennes_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Vincennes_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Vincennes_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Vincennes_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Vincennes_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Vincennes_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Vincennes_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Vincennes_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Vincennes_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Vincennes_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Vincennes_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Vincennes_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Vincennes_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Sweet Dreams",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "喵喵的美梦",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "スイートドリーム",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/53/VincennesSleepy.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/08/VincennesSleepyChibi.png",
+      "shipDescription": [
+        "呼呼……好舒服……嗯？是，是指挥官…喵？",
+        "ふにゃ……ぐったり……うん？指揮官だ…ふにゃ？",
+        "Zzz... sho comfy... Huh? Commyander...?"
+      ],
+      "acquisition": [
+        "呼呼……好舒服……嗯？是，是指挥官…喵？",
+        "ふにゃ……ぐったり……うん？指揮官だ…ふにゃ？",
+        "Zzz... sho comfy... Huh? Commyander...?"
+      ],
+      "login": [
+        "好舒服，不想起来…",
+        "起きたくない……",
+        "Don't wanna get up..."
+      ],
+      "details": [
+        "我喜欢做梦。梦里面什么都不用做……不用战斗，也不用悲伤……",
+        "夢を見るのが好き。夢の中では何もしなくていいから……戦うことも、悲しむことも……",
+        "I like dreaming. There are no missions... or fighting... or sorrows..."
+      ],
+      "secretaryIdle1": [
+        "在梦里面，大家都开开心心地在一起玩…",
+        "夢の中ではみんなが楽しく遊んでた…",
+        "In my dreams, everyone can play together happily..."
+      ],
+      "secretaryIdle2": [
+        "呼呼……甜甜圈怪人…追上来了…",
+        "ふにゃ……ドーナツ怪人…追ってきた…",
+        "Zzz... the donut monster... is gonna catch me... zzz..."
+      ],
+      "secretaryIdle3": [
+        "喵喵…变得好大…呼呼……",
+        "ニャンニャン…巨大化した……ふにゃ……",
+        "Mr. Meowy got so big... zzz..."
+      ],
+      "secretaryTouch": [
+        "阿斯托利亚姐姐……不要摇我……呼呼……",
+        "アストリア姉ちゃん……揺らさないで……ふにゃ……",
+        "Astoria... don't shake me please... Zzz..."
+      ],
+      "secretarySpecialTouch": [
+        "唔唔……甜甜圈怪人……不要摸那里……指挥官快救我……",
+        "ふにゃ……ドーナツ怪人……そこは……指揮官、助けて……",
+        "Zzz... Ahh... donut monster... not right there... Commander, save meee... zzz...."
+      ],
+      "returnFromMission": [
+        "呼呼……呼呼……",
+        "Zzzzz……Zzzz……",
+        "Zzzzz... Zzzz..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Vincennes_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Vincennes_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Vincennes_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Vincennes_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Vincennes_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Vincennes_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Vincennes_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Vincennes_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Vincennes_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Vincennes_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Vincennes_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Vincennes_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Vincennes_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Vincennes_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Vincennes_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Vincennes_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Vincennes_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Vincennes_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Vincennes_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Vincennes_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Vincennes_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Vincennes_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Vincennes_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Vincennes_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Vincennes_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Vincennes_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Vincennes_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Leisurely ABC's",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "悠哉进行曲",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "イージースクール",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b7/VincennesSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2d/VincennesSchoolChibi.png",
+      "shipDescription": [
+        "新奥尔良级文森斯…指挥官，能把我抱回家吗？",
+        "学校にしゅっぱーつ。時間を守るヴィンセンス、いい子～",
+        "Off to school we go~ Being punctual makes me a good girl~"
+      ],
+      "acquisition": [
+        "出发上学咯，准时的文森斯是个好孩子~",
+        "学校にしゅっぱーつ。時間を守るヴィンセンス、いい子～",
+        "Off to school we go~ Being punctual makes me a good girl~"
+      ],
+      "details": [
+        "要拍照吗？那我摆个pose喵~",
+        "写真？じゃあ…ポーズ～",
+        "A photo op? Sure... Lemme make a pose~"
+      ],
+      "secretaryIdle1": [
+        "课上讲了什么？不知道…但是窗外的云很有意思…",
+        "授業では何を教えられたかって？わからない…お外の雲が面白かった…",
+        "What did I learn in class? Dunno... the clouds outside looked really neat..."
+      ],
+      "secretaryIdle2": [
+        "今天在路上见到了黑色的喵喵…会不会是幸运的象征？",
+        "朝黒いニャンニャンを見た。…幸運の証？",
+        "I saw a black cat on the way to school this morning... Wonder if it's some kind of omen?"
+      ],
+      "secretaryIdle3": [
+        "为什么学校没有只要发呆就可以了的课…",
+        "ぼーっとしてればいいだけの授業、なんでないの…",
+        "Why isn't there some class just for spacing out..."
+      ],
+      "secretaryTouch": [
+        "指挥官也要来听课吗？",
+        "指揮官も授業？",
+        "Are you here to sit in, Commander?"
+      ],
+      "secretarySpecialTouch": [
+        "咿喵！这，这可是违反风纪的！",
+        "ふにゃ！ふ、風紀違反だよ！",
+        "Nyahh! Th-this is a violation of school rules!"
+      ],
+      "returnFromMission": [
+        "下一节课要开始了？",
+        "次の授業が始まるの？",
+        "Is the next class starting?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Vincennes_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Vincennes_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Vincennes_IntroSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Vincennes_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Vincennes_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Vincennes_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Vincennes_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Vincennes_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Vincennes_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Vincennes_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Vincennes_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Vincennes_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Vincennes_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Vincennes_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Vincennes_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Vincennes_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Vincennes_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Vincennes_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Vincennes_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Vincennes_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Vincennes_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Vincennes_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Vincennes_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Vincennes_MissionFinSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,570 @@
+{
+  "name": "Bluegill",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Gato",
+  "ID": "446",
+  "faction": "Eagle Union",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "团子",
+  "pixiv": "https://www.pixiv.net/member.php?id=7703737",
+  "twitter": "https://twitter.com/Tsundere_dango",
+  "link": "http://weibo.com/soramiao",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/04/Bluegill_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1692,
+      87,
+      65,
+      71,
+      499,
+      41,
+      16,
+      0,
+      0,
+      6,
+      175,
+      0,
+      243,
+      2
+    ],
+    "Level 100": [
+      1410,
+      76,
+      65,
+      62,
+      454,
+      22,
+      16,
+      0,
+      0,
+      6,
+      156,
+      0,
+      243,
+      2
+    ],
+    "Base Stats": [
+      273,
+      32,
+      65,
+      13,
+      96,
+      9,
+      16,
+      0,
+      0,
+      2,
+      60,
+      0,
+      243,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "105% → 120%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "90% → 90%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Health  +2",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    1,
+    38,
+    0,
+    6
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Unlock All Out Assault Ⅰ/Torpedo efficiency +5%",
+  "limitBreak2": "Torpedo base +1/Improve Hunting range",
+  "limitBreak3": "Improve All Out Assault/Torpedo efficiency +10%",
+  "skill1Name": "Blue Hunter; CN: 无情的猎食者 JP: ブルーハンター",
+  "skill1Description": "Increases this boat's DMG against enemy DDs and CLs by 5.0% (15.0%).",
+  "skill2Name": "Extra Oxygen; CN: 额外供氧 JP: 酸素生成装置",
+  "skill2Description": "Increases this ship's OXY by 4 (40).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射",
+  "skill3Description": "Immediately Activates All Out Assault Ⅱ: Gato Class when entering battle.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a2/Bluegill.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/99/BluegillChibi.png",
+      "shipDescription": [
+        "猫鲨级潜艇蓝鳃鱼，舷号SS-242",
+        "ガトー級潜水艦「ブルーギル」・SS-242",
+        "Gato-class submarine – Bluegill, Hull Number SS-242."
+      ],
+      "selfIntroduction": [
+        "作为猫鲨级的一份子，我曾经在海上叱咤风云，给敌人带来了很多很多的烦恼哦！嘿嘿~在这个港区，蓝鳃鱼之名也将大放异彩！",
+        "ガトー級の一隻にして、色んな海で活躍しかの大戦で敵を大いに悩ませた潜水艦ブルーギル――へへ、この母港でも輝いてみせる！",
+        "I'm Bluegill, Gato-class submarine. I saw action all over the sea and gave my enemies a real scare. Hehe, I'll shine on at this port, too!"
+      ],
+      "acquisition": [
+        "噢噢，发现了！蓝鳃鱼的指挥官！……欸嘿嘿，从今天起，你就是蓝鳃鱼的指挥官了！",
+        "ついに見つけた！ブルーギルの指揮官！……えへへ、今日から君がブルーギルの指揮官だ！",
+        "I've finally found one! My own commander! ...Hehehe, from now on, you're Bluegill's commander!"
+      ],
+      "login": [
+        "指挥官，欢迎回来！把窗帘这样拉开的话——嘿嘿，办公室里一下子充满了阳光！",
+        "指揮官、おかえり！カーテンをこう…パーっと――へへ、部屋の中まで太陽の匂いだ！",
+        "Welcome back, Commander! Let's part these curtains, like... This! Hehe, now the sun's gleam reaches in here too!"
+      ],
+      "details": [
+        "总是窝在研究室里的重樱的科学宅夕张小姐……有没有什么办法能把她拉出来一起玩呢？",
+        "科学部の部室にこもる重桜の夕張さん…仲良く遊べる方法ないかな…",
+        "I wonder if there's a way to become friends with Yuubari, that girl cooped up in the science department..."
+      ],
+      "secretaryIdle1": [
+        "阳光灿烂的晴天，正是适合游泳的日子！",
+        "晴れな日は泳ぎにいい日！",
+        "Sunny days are always good swimming days!"
+      ],
+      "secretaryIdle2": [
+        "啊，那张不是废纸！那是新的蓝鳃鱼文件！上面的东西都是我写的！",
+        "あ、指揮官それ裏紙じゃなくてブルーギルのファイルだ！ほら、全部ブルーギルが書いたよ！",
+        "Hey, that's not a blank sheet, that's Bluegill's personal file on the back! Look! I wrote the whole thing myself!"
+      ],
+      "secretaryIdle3": [
+        "喂，指挥官，你已经盯着你的桌子好久了！不休息一下吗？",
+        "指揮官、いつまで机とにらめっこしてるの？一回休憩しようよ！",
+        "How long are you gonna have a staredown with your desk, Commander? C'mon, let's catch a break!"
+      ],
+      "secretaryTouch": [
+        "这是要和我玩格斗游戏吗？来吧！看招，蓝鳃鱼之拳！",
+        "ブルーギルと戦う気か？よぉし、喰らえ！ブルーフラッシュ！",
+        "You want a fight with me? You asked for it! Take *this*! Blue knockout punch!"
+      ],
+      "secretarySpecialTouch": [
+        "呜哇！指挥官，你太过热情了！",
+        "わわ！指揮官！ちょっとやりすぎだってば！",
+        "Whoa, whoa! Commander! You've kinda crossed a line here!"
+      ],
+      "task": [
+        "任务？巡逻任务的话，我说不定能帮上指挥官哦？",
+        "指揮官、パトロールならブルーギルを連れて行ってもいいよ？役に立てるかも！",
+        "Commander, if you're heading out for a patrol, why not take Bluegill with you? It might be good to have me!"
+      ],
+      "taskComplete": [
+        "任务完成了！去游泳咯——现在还不行吗？为什么啊？",
+        "任務完了！さあ泳ぎに――あれ？まだだめ？なんで？",
+        "Mission complete! Now it's time for a swim! ...Huh? Too early for a swim? But why?"
+      ],
+      "mail": [
+        "是蓝鳃鱼的信！欸，原来是给指挥官的吗。",
+        "ブルーギルへのメール？え、指揮官宛？",
+        "Is this mail for Bluegill? Oh, it's addressed to the Commander..."
+      ],
+      "returnFromMission": [
+        "指挥官，辛苦啦！我抱！",
+        "指揮官、おつかれ！えい！",
+        "Good job, Commander! Come here!"
+      ],
+      "commission": [
+        "指挥官！委托的物资都送到了！",
+        "指揮官、委託の報酬物資届いたよ！",
+        "Commander, the rewards from that commission have arrived!"
+      ],
+      "strengthening": [
+        "嘿~咻——好像真的变灵活了！",
+        "うっひょー。お、本当に動きやすくなった！",
+        "Wooo! Wow, I've really gotten nimbler!"
+      ],
+      "startingMission": [
+        "蓝鳃鱼，出发咯！",
+        "ブルーギル、出撃だ！",
+        "Bluegill, setting out!"
+      ],
+      "mvp": [
+        "就把这次胜利的战斗叫做蓝鳃鱼战役吧！",
+        "この勝利の戦い、「ブルーギルの戦い」と呼ぶにする！",
+        "I hereby name this victory \"The Battle of Bluegill\"!"
+      ],
+      "defeat": [
+        "好险好险……下次可不会这样了！",
+        "危なかった…次はこうはいかないよ！",
+        "They nearly got us... But it won't go the same way next time!"
+      ],
+      "skillActivation": [
+        "蓝鳃鱼冲击！",
+        "ブルーギルアタック！",
+        "Bluegill, comin' at ya!"
+      ],
+      "lowHP": [
+        "糟了糟了糟了！",
+        "やばいやばい！",
+        "Oh dang, oh shoot!"
+      ],
+      "affinityDisappointed": [
+        "没事的，指挥官只要多晒晒太阳，把烦恼的事情都晒走，一定能振作起来的！",
+        "大丈夫！指揮官はお日様をもっと浴びて、悩まずにやればきっとうまくいくよ！",
+        "It's okay! You just need to bask in the sunshine for a bit, and your troubles will surely all go away!"
+      ],
+      "affinityStranger": [
+        "指挥官，我跟你说哦！真正的蓝鳃鱼其实是淡水鱼哦！……早就知道了？呜呜，还以为能让指挥官大吃一惊呢。",
+        "ブルーギル、実は淡水魚だった！……知ってた？ちぇ、びっくりさせられると思ったのに",
+        "Bluegills are, in fact, a type of sunfish! ...You knew that? Welp, and here I was hoping to tell you a surprising fact."
+      ],
+      "affinityFriendly": [
+        "啊，发现指挥官啦！我抱！……这样会让指挥官很困扰？是，是我太用力了吗！不是的？那是因为什么呢？",
+        "指揮官見つけた！ええい！……抱きつかれると困るって？ごめんなさい！力入れ過ぎちゃった？違う？じゃあなんで？",
+        "There you are, Commander! Come here! ...What's wrong with me hugging you? Am I holding you too tight? That's not it? Then what is it?"
+      ],
+      "affinityLike": [
+        "我现在知道指挥官困扰的原因了！一定是因为指挥官被蓝鳃鱼抱了之后害羞了！对不对？没事的，我问过大家了，大家都说不介意的！……指挥官，为什么你要扶住额头？",
+        "指揮官が困る理由がわかった！さてはブルーギルに抱きつかれると恥ずかしくなるんだな！大丈夫大丈夫、皆気にしないって！……あ、あれ？",
+        "I figured out why my hugs bother you! It's because it feels embarrassing, right? Well, don't worry about that! I asked around, and nobody thinks less of you for it! ...W-was I wrong?"
+      ],
+      "affinityLove": [
+        "原来我之前给指挥官造成了那么多困扰……真的是非常抱歉！不过，抱着指挥官的时候，心里真的超级开心的！那，等指挥官说什么时候可以了，我就再抱指挥官吧！",
+        "ブルーギルが指揮官に抱きつくとそんなに困るんだ……ごめんなさい！でもでも、指揮官に抱きついたときは本当にとてもとっても嬉しかった…指揮官がいいと言う時まで我慢すればいいの？はい！いつでも言ってください！！",
+        "So my hugs really put you in a pickle, huh, Commander... I'm sorry for that! I can't help it, I just feel super, *super* happy when I hug you! Hey, what if I wait with my hugs until you say you're ready? Okey-dokey! Just tell me whenever you want one!"
+      ],
+      "pledge": [
+        "现在可以随时抱指挥官了？！…嘿咻…像这样抱住指挥官果然让人感觉很幸福！嘿嘿，再多抱一会，让我多幸福一会吧！",
+        "今指揮官に抱きついていいの！？はい！……指揮官に抱きついているときってやっぱり幸せ～えへへ、あともうちょっと抱きつかせてよ～",
+        "Can I hug you now, Commander?! Yay! Sharing a hug with you just feels like total bliss~ Hehehe~ Stay put, I wanna enjoy our embrace a little longer!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Yuubari) 这是什么新装备吗？",
+        "(Sortie with Yuubari) おお、新しい装備なの！？",
+        "(Sortie with Yuubari) Whoa, is that a new piece of gear?!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 1 of: Dace, Albacore, Cavalla) 猫鲨们，大闹一场吧！",
+        "(Sortie with at least 1 of: Dace, Albacore, Cavalla) ガトー級、GO！",
+        "(Sortie with at least 1 of: Dace, Albacore, Cavalla) Gato-class, let's go!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Bluegill_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Bluegill_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Bluegill_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Bluegill_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Bluegill_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Bluegill_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Bluegill_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Bluegill_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Bluegill_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Bluegill_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Bluegill_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Bluegill_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Bluegill_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Bluegill_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Bluegill_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bluegill_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bluegill_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bluegill_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Bluegill_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Bluegill_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Bluegill_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Bluegill_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Bluegill_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Bluegill_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Bluegill_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Bluegill_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Bluegill_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Bluegill_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Bluegill_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Bluegill_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Bluegill_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Bluegill_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Bluegill_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Bluegill_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Bluegill_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Bluegill_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Bluegill_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Bluegill_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Bluegill_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Bluegill_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Bluegill_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Bluegill_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Bluegill_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Bluegill_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Bluegill_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Bluegill_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Bluegill_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Bluegill_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Bluegill_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Bluegill_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Bluegill_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Bluegill_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Bluegill_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Bluegill_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Bluegill_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Bluegill_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Bluegill_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Bluegill_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Bluegill_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Bluegill_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Bluegill_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Bluegill_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Bluegill_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Bluegill_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Bluegill_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Bluegill_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Bluegill_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Bluegill_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Bluegill_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Bluegill_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Bluegill_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Bluegill_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Bluegill_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Bluegill_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Bluegill_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Bluegill_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Bluegill_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Bluegill_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Up-And-Coming Infielder",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "见习王牌守备！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "見習いエースフィルダー",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/34/BluegillSport.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/23/BluegillSportChibi.png",
+      "shipDescription": [
+        "无畏小姐，看我的超稳定防守！——嘿嘿，指挥官，我最近在练习棒球哦！来看看我的练习成果吧！",
+        "イントレピッドさん、ブルーギルによる超安定防御力を見ろ！――指揮官、えへへ、ブルーギルの特訓の成果を見ていってよ？",
+        "Look out for Bluegill's ultra-reliable defense, Intrepid! Hehehe, Commander, stay here and see the results of Bluegill's special training!"
+      ],
+      "acquisition": [
+        "无畏小姐，看我的超稳定防守！——嘿嘿，指挥官，我最近在练习棒球哦！来看看我的练习成果吧！",
+        "イントレピッドさん、ブルーギルによる超安定防御力を見ろ！――指揮官、えへへ、ブルーギルの特訓の成果を見ていってよ？",
+        "Look out for Bluegill's ultra-reliable defense, Intrepid! Hehehe, Commander, stay here and see the results of Bluegill's special training!"
+      ],
+      "login": [
+        "如果棒球和潜水一样简单就好了呢……不过，我会努力的！加油，蓝鳃鱼，你能做到的！",
+        "野球も潜航と同じく簡単だったらいいのにな……ううん、頑張る！ブルーギル、あなたならできるよ！",
+        "I wish baseball was as easy as diving... I'll still give it my best shot, though! Bluegill's a go-getter!"
+      ],
+      "details": [
+        "我听说，发球的时候，脚抬得越高就越有力！……不是这样的吗？",
+        "ピッチャーはちゃんと足を上げれば球速が速くなると聞いた！……そうじゃないの？",
+        "I've heard I can throw the ball faster if I have my feet raised, like a pitcher! ...It doesn't work like that?"
+      ],
+      "secretaryIdle1": [
+        "有指挥官和博格教练的帮助，我一定能成为超级厉害的投手的！",
+        "指揮官とボーグ先生がいるから、ブルーギルは絶対スゴイ選手になれる！",
+        "With you and Coach Bogue helping me, I'm destined to become a pro player!"
+      ],
+      "secretaryIdle2": [
+        "等到碧蓝航线棒球世界杯正式开始的时候，我一定要让大家大吃一惊！",
+        "今度野球リーグが始まったらみんなを驚かせちゃうんだから！",
+        "I'll stun everyone with my skills when the next baseball league rolls around!"
+      ],
+      "secretaryIdle3": [
+        "无畏小姐！你的背后由蓝鳃鱼来守护，记住了哦！",
+        "イントレピッドさん！控えにブルーギルがいるの、覚えてて！",
+        "Intrepid! Bluegill's by your back! Don't forget that!"
+      ],
+      "secretaryTouch": [
+        "原来正确的动作是这样的吗？我记住了！",
+        "正しいフォームはこう…なの？覚えた！",
+        "Is... this the proper throwing stance? I'll memorize it!"
+      ],
+      "secretarySpecialTouch": [
+        "不许趁机偷袭我啦！",
+        "トリックプレイは駄目！",
+        "Stop playing dirty!"
+      ],
+      "returnFromMission": [
+        "蓝鳃鱼投接球！……欸？呜哇哇哇小心！抱歉，我不是故意想要向着指挥官扔的，嘿嘿~",
+        "キャッチしてブルースローイング！……え？わわわ危ない！…指揮官ごめん！今のはわざとじゃないよ！えへへ…",
+        "Bluegill catches, Bluegill throws! Oh no! Look out! Sorry, Commander, I didn't mean to throw it at you! Hehehe..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Bluegill_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Bluegill_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Bluegill_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Bluegill_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Bluegill_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Bluegill_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Bluegill_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Bluegill_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Bluegill_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Bluegill_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Bluegill_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Bluegill_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Bluegill_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Bluegill_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Bluegill_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Bluegill_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Bluegill_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Bluegill_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Bluegill_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Bluegill_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Bluegill_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Bluegill_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Bluegill_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Bluegill_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Bluegill_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

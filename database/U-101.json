@@ -1,0 +1,595 @@
+{
+  "name": "U-101",
+  "constructionTime": "00:12:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "VIIB",
+  "ID": "399",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "夜ノみつき",
+  "pixiv": "https://www.pixiv.net/member_illust.php?id=44234",
+  "twitter": "https://twitter.com/mituk1",
+  "link": "http://nanairo-box.blogspot.jp/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/b/b3/U-101_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1297,
+      110,
+      68,
+      48,
+      530,
+      37,
+      14,
+      0,
+      0,
+      7,
+      175,
+      0,
+      190,
+      2
+    ],
+    "Level 100": [
+      1081,
+      96,
+      68,
+      41,
+      482,
+      18,
+      14,
+      0,
+      0,
+      7,
+      156,
+      0,
+      190,
+      2
+    ],
+    "Base Stats": [
+      209,
+      41,
+      68,
+      9,
+      102,
+      7,
+      14,
+      0,
+      0,
+      2,
+      60,
+      0,
+      190,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Accuracy  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 20,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +2",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    1,
+    40,
+    0,
+    8
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Great Shark's Bite; CN: 大鱼突击！ JP: 大ザメ攻撃",
+  "skill1Description": "Increases own Accuracy by 5% (15%). When sortied as non-flagship of the submarine fleet: moves forward for 18 seconds, then move back to original position.",
+  "skill2Name": "Wolf Pack Formation - U-101; CN: 狼群战术-U101 JP: ウルフパック-U101",
+  "skill2Description": "During battle, increases Evasion by 2.5% (7%) and damage dealt to enemy Destroyers, Light Cruisers by 2.5% (7%) for all Ironblood submarines in the fleet. Also, increases own Torpedo stat and Reload by 1.5% (6%) per Ironblood submarine in the same fleet.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-U101 JP: 特殊弾幕-U101",
+  "skill3Description": "When entering the battle, triggers Full Barrage - U-101 I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3e/U-101.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5d/U-101Chibi.png",
+      "shipDescription": [
+        "铁血VIIB型潜艇U-101",
+        "鉄血VIIB型潜水艦U-101",
+        "Iron Blood Type VIIC submarine – U-101."
+      ],
+      "selfIntroduction": [
+        "我是U101，隶属铁血第七U艇小队，参与过4次狼群行动，破交作战是我的拿手好戏！另外我还得过骑士铁十字勋章哦！顺便一提，我的兴趣是和乘着大鱼兜风，指挥官有兴趣一起吗？",
+        "U-101、鉄血第七Uボート艦隊に所属し、ウルフパック作戦に四回参加して、通商破壊をこなして…と、騎士鉄十字勲章をもらったよ！趣味はこうやって大ザメと共にかっ飛ばすことね。指揮官も興味ある？",
+        "I'm U-101, one of the Iron Blood's 7th U-Boat Flotilla. I took part in four wolfpack operations. You could say that disrupting the enemy supply lines is my specialty - I even received a Knight's Cross! My hobby is going on long rides with Great Shark. Commander, wanna come with me?"
+      ],
+      "acquisition": [
+        "嘿，那边的指挥官！我是U101，要搭乘我的大鱼，来兜个惊险刺激的风吗？",
+        "おーい、そこにいる指揮官！U-101の大ザメに乗って、スリリングなライドでもどうかな？",
+        "Hey! You! That commander over there! How 'bout coming for a ride on my Great Shark? I'll show you a real thrillin' time!"
+      ],
+      "login": [
+        "指挥官，说一声的话，我下次可以去接你的哦？",
+        "指揮官、今度声かけてくれたら拾ってあげてもいいよ？",
+        "Commander, just hit me up next time and I'll give you a ride, okay?"
+      ],
+      "details": [
+        "听说白鹰有外号叫“海上骑士”的人吗？这个称号不错欸……指挥官，你觉得我叫“海底骑士”怎么样？",
+        "ユニオンに「海上の騎士」と自称する子がいるんだっけ？実にいい響きね……よし、指揮官、わたしも「海底の騎士」って自称してもいいかな？",
+        "You know about those Union girls who call themselves \"Solomon Knights\" or something? Well, it has a nice ring to it... All righty, Commander, I'm an \"Undersea Knight\" from now on, got it?"
+      ],
+      "secretaryIdle1": [
+        "啊，指挥官，你先工作，我在旁边调整一下大鱼，我们等会儿再出门~",
+        "あー指揮官、ちょっと待ってて、今大ザメをちょっと調整してるとこ！出かけるのはそのあとで！",
+        "Ah, Commander, wait just a sec. I've gotta finish fine-tuning Great Shark. We can go afterwards."
+      ],
+      "secretaryIdle2": [
+        "大鱼在陆上也能开哦？虽然会慢一点。啊哈哈，我也不知道原理是什么",
+        "大ザメは陸の上でも走れるよ？まあちょっと遅くなるけどね。原理はもちろんさっぱりわからない！",
+        "Great Shark is land-capable, you know. Well, just not as fast. Don't ask why it works that way!"
+      ],
+      "secretaryIdle3": [
+        "想要找点新的歌在开车的时候听啊，指挥官，你有什么推荐吗？",
+        "走る時に流す音楽は何がいい？指揮官、おすすめとかある？",
+        "What kind of music do you like to listen to on trips, Commander? Have any recommendations?"
+      ],
+      "secretaryTouch": [
+        "上车，指挥官，要抓紧我的腰哦，被甩出去我可不管你~",
+        "指揮官、ちゃんと掴まってろよ～ふっとばされても知らないから！",
+        "Hop on, Commander, and make sure to hold on to my waist tight! It won't be my fault if you fall off~"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，我要叫大鱼咬你了哦！",
+        "！？指揮官、大ザメに噛ませてやろっか？",
+        "...Commander?! Sic 'em, Great Shark!"
+      ],
+      "task": [
+        "有新任务？要我载你去目的地吗？",
+        "新しい任務？目標地まで載せてってやろっか？",
+        "You have a new task? Want me to take you to where you need to go?"
+      ],
+      "taskComplete": [
+        "指挥官，我把任务奖励带过来啦",
+        "指揮官、任務報酬持ってきたよ",
+        "Commander, I've brought the rewards!"
+      ],
+      "mail": [
+        "你好，我是邮递员U101，这里有你的信件~嘻嘻",
+        "はいはい、配達員のU-101でーす。手紙届けにきましたーへへへ",
+        "Hello! Your local courier U-101 has new mail for you~ Hahaha!"
+      ],
+      "returnFromMission": [
+        "指挥官，要我送你回宿舍休息一下吗？",
+        "指揮官、寮まで送ってやろっか？",
+        "Commander, want me to drop you off at the dorm so you can get some rest?"
+      ],
+      "commission": [
+        "委托完成了是吗？让我去接她们吧！",
+        "委託が完了した？じゃあ出迎えてくるよ！",
+        "The commission fleet is back? All righty, I'll go pick 'em up!"
+      ],
+      "strengthening": [
+        "我还能再快一点！",
+        "もっとかっ飛ばせるよー",
+        "I feel the need for speed!"
+      ],
+      "startingMission": [
+        "车载鱼雷，准备就绪~",
+        "ボートトルペード、準備完了！",
+        "My boat torpedoes are ready!"
+      ],
+      "mvp": [
+        "嘿嘿~第一名！",
+        "うっしゃ！一位！",
+        "Booyah! Number one!"
+      ],
+      "defeat": [
+        "居然没能躲开……",
+        "うまく避けられなかったな……",
+        "Couldn't get out of the way in time..."
+      ],
+      "skillActivation": [
+        "车载鱼雷，全弹发射！",
+        "ボートトルペード、まるっと受け取れ！",
+        "All boat torpedoes, launch!"
+      ],
+      "lowHP": [
+        "唔，看来要稍微加速一下了…！",
+        "もうちょっと飛ばさないとね…！",
+        "Looks like I've gotta pick up the pace...!"
+      ],
+      "affinityDisappointed": [
+        "我去兜风啦，拜拜~",
+        "飛ばしてくる！Tschüss（チュース）！",
+        "I'm going for a ride! Tschüss~"
+      ],
+      "affinityStranger": [
+        "戴上耳机，发动引擎，把所有烦恼都抛在脑后，这种感觉可是很舒服的，指挥官",
+        "イヤフォンつけてエンジン回して、悩みをぶっ飛ばす――いい気分になれるよ？指揮官？",
+        "When I put in my headphones and rev the engines, I can outrun all my worries. Lemme tell you, Commander, it's one hell of a feeling."
+      ],
+      "affinityFriendly": [
+        "真想和其他阵营的潜艇们来一场激动人心的竞速大会，那一定超刺激的，指挥官，帮我个忙呗？",
+        "いやあ、他の陣営の潜水艦たちと一緒に艤装でかっ飛ばしたいよね～絶対にいい気持ちになれるよね～しきかーん手を貸して―",
+        "Y'know, I really want to have an all-out race with the other factions' subs. I just know it's gonna get my blood pumping! How about it, Commander, wanna do me a favor?"
+      ],
+      "affinityLike": [
+        "指挥官，快，没时间了，上车！今天周边的海域会有一群超级漂亮的鱼群游过，错过的话下一次就要等好久啦！",
+        "指揮官、時間がないよ、早く乗って！今日このあたりに綺麗な子たちが回遊してくるって聞いたよ！見逃したらまたすごく待たなきゃならないんだからね！",
+        "Commander, hurry up and hop on! There's a school of incredibly rare and beautiful fish passing by today! Who knows how long we'd have to wait if we missed this opportunity!"
+      ],
+      "affinityLove": [
+        "指挥官，你又来啦！嘻嘻，是不是喜欢上坐在我后面的感觉啦？来，上车吧，这一次，我带你去一些更加有趣的地方~",
+        "お、指揮官、また来たんだ～大ザメの乗り心地が恋しくなったのかな？はい、上がって上がって～今もっと面白い場所まで連れてってあげる！",
+        "Commander, look who's back! Hehe, seems like you've fallen in love with Great Shark, huh? All right, get on. Today, I'm going to show you a real special place!"
+      ],
+      "pledge": [
+        "放心吧，指挥官，无论你在哪，只要是大鱼能到达的地方，U101随叫随到！",
+        "まあ安心して、大ザメが行ける場所なら――指揮官さえ呼んでくれれば、このU-101絶対、迎えにいくからね！",
+        "Don't worry, Commander. As long as you're somewhere Great Shark can get to, call me any time. I swear I'll come for you!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Get a load of this, Commander. Leipzig's Fishy totally loved the chocolate I made, but Great Shark won't even say anything to me! Hey, I know what you're gonna say, that he can't taste it, but I don't wanna hear it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/U-101_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/U-101_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/U-101_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/U-101_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/U-101_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/U-101_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/U-101_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/U-101_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/U-101_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/U-101_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/U-101_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/U-101_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/36/U-101_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/U-101_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/U-101_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/U-101_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/U-101_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/U-101_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/U-101_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/U-101_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/U-101_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/U-101_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/U-101_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/U-101_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/U-101_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/U-101_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/U-101_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/U-101_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/U-101_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/U-101_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/U-101_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/U-101_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/U-101_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/U-101_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/U-101_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/U-101_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/U-101_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/U-101_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/U-101_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/U-101_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/U-101_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/U-101_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/U-101_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/U-101_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/U-101_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/U-101_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/U-101_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/U-101_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/U-101_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/U-101_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/U-101_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/U-101_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/U-101_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/U-101_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/U-101_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/U-101_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/U-101_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/U-101_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/U-101_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/U-101_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/U-101_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/U-101_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/U-101_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/U-101_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/U-101_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/U-101_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/U-101_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/U-101_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/U-101_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/U-101_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/U-101_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/U-101_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/U-101_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/U-101_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/U-101_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/U-101_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/U-101_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/U-101_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Ironbrass Trombonist",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "学园的Posaunist",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "学園のPosaunist",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f7/U-101School.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/19/U-101SchoolChibi.png",
+      "shipDescription": [
+        "指挥官，欢迎来到吹奏部~——为什么是吹奏部？很简单啊，因为学校里没有摩托部嘛！哈哈~开玩笑的，其实我也很喜欢音乐的呢，嘿嘿",
+        "指揮官、吹奏楽部へようこそ～――なんで吹奏楽部って？だって学園で大サメをいじれる部活ないもん…なーんてね！こう見えても私、音楽のことも好きなんだ！",
+        "Commander, welcome to the school band! Why'd I join the band? The reason's simple – there's no Motorbike Club at school, haha! Just kidding~! Actually, I'm quite fond of music as well, heh."
+      ],
+      "acquisition": [
+        "指挥官，欢迎来到吹奏部~——为什么是吹奏部？很简单啊，因为学校里没有摩托部嘛！哈哈~开玩笑的，其实我也很喜欢音乐的呢，嘿嘿",
+        "指揮官、吹奏楽部へようこそ～――なんで吹奏楽部って？だって学園で大ザメをいじれる部活ないもん…なーんてね！こう見えても私、音楽のことも好きなんだ！",
+        "Commander, welcome to the school band! Why'd I join the band? The reason's simple – there's no Motorbike Club at school, haha! Just kidding~! Actually, I'm quite fond of music as well, heh."
+      ],
+      "login": [
+        "指挥官，让我们放点音乐吧！",
+        "指揮官、音楽でも流そうか？",
+        "Commander, let's put on some music!"
+      ],
+      "details": [
+        "偶尔像这样坐下来安静地听音乐，感觉也不坏呢",
+        "たまには落ち着いて音楽を聞くのもいいね",
+        "It feels nice to kick back and enjoy some good music!"
+      ],
+      "secretaryIdle1": [
+        "指挥官，我最近在练习吹奏长号哦，嘻嘻，虽然吹得还不是很好，不过还挺有意思的，要听听看嘛~？",
+        "最近はトロンボーンの練習をやってるよ。いやまあ、まだ上手には吹けないけど、面白いから色々聞かせてあげたいよね～指揮官も聞いてみたい？",
+        "Commander, I recently started learning the trombone, hehe. I'm not very good at it, but it's still pretty interesting. Wanna listen~?"
+      ],
+      "secretaryIdle2": [
+        "能在水下演奏的话，我就能在海底吹给鱼儿们听了，真可惜…没办法，就吹给水族箱里的鱼儿们听听好啦！",
+        "海の中で吹くのは無理だから、魚さんたちに聞かせられないのはちょっと残念ね。代わりにアクアリウムに向かって吹くことにしよっと！",
+        "If I was able to play this thing underwater, I'd be able to perform for the fishes! Too bad, though... Guess I'll have to settle for the fish in the aquarium!"
+      ],
+      "secretaryIdle3": [
+        "虽然U艇的大家也经常聚在一起，不过一起在学校学习的感觉还是很新鲜呢！",
+        "Uボートのみんなはいつも集団行動してるけど、こうして学園で違う仲間たちと一緒に勉強するのもいいよね！",
+        "Even though we U-boats hang out together regularly, studying together at school feels rather special!"
+      ],
+      "secretaryTouch": [
+        "指挥官，你来当吹奏部的顾问怎么样呀？",
+        "指揮官、吹奏楽部の顧問をお願いできないかな？",
+        "Commander, how about becoming the band conductor?"
+      ],
+      "secretarySpecialTouch": [
+        "呜哇！差点把这个砸指挥官头上…",
+        "うわ！？指揮官の頭に直撃しそうだった……",
+        "Woah! I almost smashed this over your head..."
+      ],
+      "task": [
+        "今天的作业好多啊，指挥官",
+        "今日の宿題、多いね……",
+        "Commander, there's a ton of homework today."
+      ],
+      "taskComplete": [
+        "指挥官，我的作业做完了，我们出去兜风吧！",
+        "よし指揮官、宿題終わった！外で飛ばしてこよう！",
+        "Commander, I'm all done with my homework. Let's go for a ride!"
+      ],
+      "returnFromMission": [
+        "指挥官，辛苦啦，来听一些舒缓的音乐吧~",
+        "指揮官お疲れー心を落ち着かせる音楽でも聞いてみなよ",
+        "Good work out there, Commander. Let's put on something chill~"
+      ],
+      "commission": [
+        "从这里到港口有点远呢，指挥官，我们骑大鱼去吧",
+        "埠頭まで遠いよね。指揮官、大ザメで行こう",
+        "It's pretty far from here to the piers. Commander, how about we take Great Shark out for a spin?"
+      ],
+      "affinityLove": [
+        "不知道为什么，和指挥官两个人在社团教室独处的时候，心跳会快很多，感觉像是生病了…但是又很开心…啊啊啊！！我还是骑大鱼出去兜一圈再说吧！",
+        "なんか指揮官と二人っきりになると心がドキドキして、嬉しいけどなんかこう、ビョウキみたいで……もう、大ザメでかっ飛ばせばいいよね！",
+        "I don't know why, but when it's just the two of us in the band room, my chest starts fluttering like I'm sick... but I'm so glad... Aghh!! I'm gonna go take Great Shark out for a spin!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/U-101_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/U-101_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/U-101_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/U-101_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/U-101_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/U-101_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/U-101_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/U-101_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/U-101_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/07/U-101_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/U-101_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/U-101_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/32/U-101_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/U-101_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/U-101_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/U-101_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/U-101_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/U-101_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/U-101_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/U-101_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/U-101_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/U-101_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/U-101_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/U-101_Sec2Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/U-101_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/U-101_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/U-101_TaskSkin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/U-101_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/U-101_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/U-101_TaskCSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/U-101_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/U-101_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/U-101_MissionFinSkin1JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/U-101_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/U-101_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/U-101_CommissionSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/U-101_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/U-101_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/U-101_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

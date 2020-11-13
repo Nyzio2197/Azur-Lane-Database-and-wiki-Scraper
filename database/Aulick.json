@@ -1,0 +1,453 @@
+{
+  "name": "Aulick",
+  "constructionTime": "00:28:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "additionalNotes": "✓ ",
+  "rarity": "Normal",
+  "shipClass": "Fletcher",
+  "ID": "015",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Lino(番茄)",
+  "pixiv": "https://www.pixiv.net/member.php?id=238071",
+  "twitter": "https://twitter.com/lino__",
+  "link": "http://weibo.com/p/1005051859846292",
+  "voiceActor": "https://www.imdb.com/name/nm7304680/",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1998,
+      204,
+      62,
+      82,
+      279,
+      158,
+      42,
+      171,
+      0,
+      7,
+      197,
+      202,
+      0,
+      0
+    ],
+    "Level 100": [
+      1679,
+      178,
+      62,
+      72,
+      244,
+      154,
+      42,
+      148,
+      0,
+      7,
+      188,
+      183,
+      0,
+      0
+    ],
+    "Base Stats": [
+      325,
+      75,
+      62,
+      15,
+      52,
+      59,
+      42,
+      32,
+      0,
+      1,
+      72,
+      50,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    5,
+    17,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Quick Reload; CN: 快速装填 JP: 快速装填",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Reload by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フレッチャー級",
+  "skill2Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/85/Aulick.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fa/AulickChibi.png",
+      "shipDescription": [
+        "弗莱彻级驱逐舰—奥利克，舷号DD-569",
+        "フレッチャー級駆逐艦・オーリック（DD-569)",
+        "Fletcher-class destroyer - Aulick, Hull Number DD-569!"
+      ],
+      "selfIntroduction": [
+        "我是小海狸分队的奥利克！主要负责空中航线救援，虽然没有队长厉害，但只要能和大伙们一起战斗到最后，奥利克就心满意足了",
+        "リトル・ビーバーズのオーリックだよ！主に航空機支援を担当したの。隊長ほど強くはないけど、みんなと一緒に最後まで戦っていければ嬉しいなぁ~",
+        "I'm Aulick of the Little Beavers! I was mainly tasked with air rescues. I'm not as strong as the captain, but I'll be more than satisfied as long as you let me fight till the end!"
+      ],
+      "acquisition": [
+        "哇咿——指挥官真高兴见到你，叫我奥利克就好了……噫？真是的，是奥利克不是奥利奥啦！",
+        "わーいーーはじめまして指揮官！オーリックって呼んで！……え？もう、オレオじゃなくて、オーリックだよ！",
+        "Yaaay! It's so great to meet you, Commander! Just call me Aulick! ... What was that? I said Aulick! My name is Aulick!"
+      ],
+      "login": [
+        "哇咿——指挥官欢迎回来~",
+        "わーい！おかえり、指揮官！",
+        "Yaaay! Welcome back, Commander!"
+      ],
+      "details": [
+        "指挥官要好好整理装备哟！",
+        "指揮官も装備をちゃんと整備してね！",
+        "Don't forget to keep your gear in working order, Commander!"
+      ],
+      "secretaryIdle1": [
+        "指挥官，快带奥利克出去玩嘛~",
+        "指揮官、オーリックを遊びに連れてって~",
+        "Commander, won't you take Aulick out to play~?"
+      ],
+      "secretaryIdle2": [
+        "奥利克最喜欢小海狸的大家了！",
+        "オーリックはリトル・ビーバーズのみんなが大好き！",
+        "Aulick loves hanging out with all the other Little Beavers!"
+      ],
+      "secretaryIdle3": [
+        "啊，奥利克当然也很喜欢指挥官啦！",
+        "あっ、もちろんオーリックは指揮官のことも好きよ！",
+        "Ah, Aulick likes the Commander too, of course!"
+      ],
+      "secretaryTouch": [
+        "奥利克是不是软软的很好捏……欸嘿嘿~",
+        "オーリックって柔らかくてぷにぷにだよね？えへへ~",
+        "Aren't I so soft and squishy?"
+      ],
+      "secretarySpecialTouch": [
+        "咿呀！指挥官……好坏！",
+        "あわわ！指揮官…いじわる！",
+        "C-Commander...! You're naughty!"
+      ],
+      "task": [
+        "指挥官~任务还没完成呢，你又偷懒了~",
+        "指揮官~ミッション、まだ終わっていないよ~もう、またサボって~",
+        "Commander, you've still got unfinished missions! You're being lazy, aren't you?"
+      ],
+      "taskComplete": [
+        "报告指挥官~任务奖励送来啦！",
+        "指揮官に報告ね、ミッションボーナスが届いたよ！",
+        "Reporting in! Mission rewards have been delivered!"
+      ],
+      "mail": [
+        "指挥官，有你的信！",
+        "指揮官、メールだよ！",
+        "You've got mail, Commander!"
+      ],
+      "returnFromMission": [
+        "指挥官~这里好棒，奥利克越来越喜欢了呢！",
+        "指揮官~ここ、いいよね~オーリック、ますます好きになっちゃった！",
+        "This place is great, Commander~ I've grown to like it more and more!"
+      ],
+      "commission": [
+        "有姐妹完成了一次冒险！",
+        "みんなが冒険から帰ってきた！",
+        "The girls are back from their adventure!"
+      ],
+      "strengthening": [
+        "能帮上指挥官就好了……",
+        "指揮官の役に立てればいいよね……",
+        "I hope it'll come in use to you, Commander..."
+      ],
+      "startingMission": [
+        "嘘，轻点，配合姐姐她们从另一侧上",
+        "シーッ、静かに！姉ちゃんたちに合わせて向こうから行こう！",
+        "Sssh, be quiet! We need to coordinate with our sisters preparing to flank the enemy."
+      ],
+      "mvp": [
+        "奥利克不会让指挥官失望的！",
+        "オーリックは指揮官を失望させたりしないからね！",
+        "I'd never let you down, Commander!"
+      ],
+      "defeat": [
+        "呜……为什么都往脸上打啦！",
+        "うぅ……なんでみんな顔に当ててくるの！",
+        "Why does everything have to hit me in the face?!"
+      ],
+      "skillActivation": [
+        "是奥利克不是奥利奥啦！",
+        "オレオじゃない！オーリックだよ！",
+        "It's Aulick, I'm telling you! A-u-lick!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "叫错名字这种事情有意思么？",
+        "名前を間違えるってどこが面白いの…？",
+        "You think it's funny to call me by the wrong name?"
+      ],
+      "affinityStranger": [
+        "指挥官，要一起出去逛逛吗？",
+        "指揮官、一緒にどこか出かけない？",
+        "Want to take a walk together, Commander?"
+      ],
+      "affinityFriendly": [
+        "……被指挥官你叫多了总觉得奥利奥也不错了——女孩子都是甜甜的？……这算是夸奖吗（///）",
+        "……指揮官に何回も呼ばれると、オレオでもいいかなーって。女の子はみな甘い感じ？……ほ、褒めてる？",
+        "... After being called sweet for so long, I think I'm starting to get used to it. ... You call me sweet because that's what girls are? I-is that a compliment?"
+      ],
+      "affinityLike": [
+        "扭一扭，舔一舔，泡一泡……指挥官，想，想试试看吗？",
+        "ぷにっと、ぎゅっと、ふわっと……指揮官、た、試してみる？",
+        "Like a cookie - twist, lick, and dunk. D-do you want to give it a try, Commander?"
+      ],
+      "affinityLove": [
+        "指挥官，奥利克……好吃吗……（///）",
+        "指揮官、オレオの味は……ど、どう……",
+        "Commander... H-how sweet am I?"
+      ],
+      "pledge": [
+        "嘻嘻，这下小海狸的姐妹们可要羡慕我了~",
+        "えへへ、リトルビーバーズのみんながうらやましがるよ～",
+        "My Little Beaver sisters are for sure going to envy me now."
+      ],
+      "giftDescriptionValentines2018": [
+        "给指挥官的礼物！其实里面不是普通的巧克力，是巧克力饼干啦~扭一扭，蘸牛奶更好吃的，一定要试试哦！",
+        "指揮官へのプレゼント！えっと、実はこれ、普通のチョコじゃなくて、チョコクッキーなんだ～ミルクにつけて食べるともっと美味しくなるから、食べてみてね！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你礼物！其实在弗莱彻级中间，超级流行用到这个巧克力的食谱哦～下次做给你吃，耐心等待吧～",
+        "指揮官、プレゼントだよ！実はフレッチャー級で、このチョコを使った創作レシピが流行ってるよ～今度作ってあげるから、待ってて～",
+        "Here's a present for you! Also, umm, this isn't regular chocolate, it's a chocolate cookie! Dunk it in some milk and it'll taste even better!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, Thatcher taught me a whole lot about Valentine's Day! Like how which faction you're from decides what kind of chocolate you give! Huh? That's... not true?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Aulick_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Aulick_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Aulick_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Aulick_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Aulick_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Aulick_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Aulick_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Aulick_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Aulick_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Aulick_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Aulick_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Aulick_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Aulick_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Aulick_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Aulick_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Aulick_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Aulick_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Aulick_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Aulick_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Aulick_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Aulick_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Aulick_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Aulick_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Aulick_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Aulick_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Aulick_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Aulick_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Aulick_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Aulick_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Aulick_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Aulick_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Aulick_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Aulick_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Aulick_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Aulick_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Aulick_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Aulick_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Aulick_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Aulick_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Aulick_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Aulick_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Aulick_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Aulick_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Aulick_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Aulick_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Aulick_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Aulick_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Aulick_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Aulick_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Aulick_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Aulick_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Aulick_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Aulick_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Aulick_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Aulick_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Aulick_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Aulick_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Aulick_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Aulick_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Aulick_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Aulick_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Aulick_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Aulick_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Aulick_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Aulick_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Aulick_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Aulick_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Aulick_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Aulick_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Aulick_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Aulick_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Aulick_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Aulick_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Aulick_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Aulick_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,453 @@
+{
+  "name": "Spence",
+  "constructionTime": "00:28:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "additionalNotes": "✓ ",
+  "rarity": "Normal",
+  "shipClass": "Fletcher",
+  "ID": "017",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Lino(番茄)",
+  "pixiv": "https://www.pixiv.net/member.php?id=238071",
+  "twitter": "https://twitter.com/lino__",
+  "link": "http://weibo.com/p/1005051859846292",
+  "voiceActor": "https://www.imdb.com/name/nm7304680/",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1998,
+      196,
+      20,
+      82,
+      279,
+      158,
+      42,
+      171,
+      0,
+      7,
+      197,
+      202,
+      0,
+      0
+    ],
+    "Level 100": [
+      1679,
+      171,
+      20,
+      72,
+      244,
+      154,
+      42,
+      148,
+      0,
+      7,
+      188,
+      183,
+      0,
+      0
+    ],
+    "Base Stats": [
+      325,
+      72,
+      20,
+      15,
+      52,
+      59,
+      42,
+      32,
+      0,
+      1,
+      72,
+      50,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    5,
+    17,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Quick Reload; CN: 快速装填 JP: 快速装填",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Reload by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フレッチャー級",
+  "skill2Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6f/Spence.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/ba/SpenceChibi.png",
+      "shipDescription": [
+        "弗莱彻级驱逐舰—斯彭斯，舷号DD-512",
+        "フレッチャー級駆逐艦・スペンス（DD-512)",
+        "Fletcher-class destroyer - Spence, Hull Number DD-512!"
+      ],
+      "selfIntroduction": [
+        "那个……弗莱彻小海狸分队……斯彭斯……和妹妹们参与过马里亚纳射火鸡大赛，台、台风要来了……呜啊，紧张的什么都记不起来了啦！",
+        "あ、あのぉ…フレッチャー級リトル・ビーバーズの…スペンスです…みんなと一緒にマリアナの七面鳥撃ちに参加しました。け、けど…た、台風が来て…はわわわ緊張して何も思い出せないよぉー",
+        "I'm... Spence from the Little Beavers. I took part in the Great Marianas Turkey Shoot with my younger sisters. Oh no! A h-h-hurricane is coming... Sorry, Commander, I forget everything when I get nervous!"
+      ],
+      "acquisition": [
+        "咦~指指指、指挥官…你好…斯彭斯以前、就很想和指挥官说句话，可是……一直没鼓起勇气……",
+        "あれ…ししし指揮官さん、は、はじめまして…スペンス、前から指揮官さんと話したかったの…でも怖くて…",
+        "Huh...? C-C-C-Commander... Hello... Spence h-has been wanting to talk to you... b-but didn't have the courage to..."
+      ],
+      "login": [
+        "指、指挥官……唔……斯彭斯没有等很久",
+        "し、指揮官さん…い、いえ…スペンス、そんなに待ってませんから！",
+        "C-Commander... N-no, I wasn't waiting that long!"
+      ],
+      "details": [
+        "呀！不不…不要碰奇怪的地方啦~",
+        "あわわ！へ、変なところさわらないでぇ~",
+        "Ah! D-don't touch me anywhere weird, okay..."
+      ],
+      "secretaryIdle1": [
+        "指挥官这里好温暖，能让人安下心来呢",
+        "指揮官さん、こ、ここは暖かくて安心できますね…",
+        "Commander, it's so warm here! I think I can relax like this..."
+      ],
+      "secretaryIdle2": [
+        "呜哇！撒切尔姐姐在那里吗！？好害怕~",
+        "あわわ！さ、サッチャー姉さんそこにいるの！？びっくりしたよぉ～",
+        "Thatcher's over there! She's making me anxious~!"
+      ],
+      "secretaryIdle3": [
+        "奥斯本姐姐才不像撒切尔那样，她每次都会帮我~",
+        "オースバーン姉さんはサッチャー姉さんと違って、いつも助けてくれるよ~",
+        "Ausburne isn't like Thatcher at all... She actually helps me when I need it!"
+      ],
+      "secretaryTouch": [
+        "啊呜呜，对不起……没能好好回应指挥官的期待",
+        "ううぅ、ごめんなさい…期待に応えられなくて…",
+        "I'm sorry that I don't live up to your expectations, Commander..."
+      ],
+      "secretarySpecialTouch": [
+        "噫~~！那个……我、我不是很懂得该怎么做……",
+        "ひぃ~！あの…す、スペンスどうしたら…",
+        "Eeek~! Um... W-what am I supposed to..."
+      ],
+      "task": [
+        "指，指挥官……有任务没完成……",
+        "し、指揮官さん…未完了の任務が…",
+        "Commander... You haven't finished all of your missions..."
+      ],
+      "taskComplete": [
+        "记得领…那个…奖励……",
+        "ぼ、ボーナス…受取るのを…忘れないで…",
+        "Remember to claim... that... reward..."
+      ],
+      "mail": [
+        "指、指挥官……有你的信……",
+        "し、指揮官さん…メールですぅ……",
+        "C-Commander... You've got mail..."
+      ],
+      "returnFromMission": [
+        "指挥官没受伤……太好了！",
+        "指揮官さんが無事で……よかった！",
+        "You're back in one piece, Commander... Thank the lord!"
+      ],
+      "commission": [
+        "姐妹们回来了……她们好厉害哦，斯彭斯好羡慕！",
+        "みんなが帰ってきました！みんなすごくて、スペンス羨ましいです！",
+        "The girls are back! I'm so jealous of how awesome they all are!"
+      ],
+      "strengthening": [
+        "那那那那个，斯彭斯会努力的！",
+        "あああの、スペンスは頑張ります！",
+        "U-u-umm... I'll try to work harder now!"
+      ],
+      "startingMission": [
+        "指挥官……斯彭斯会努力、不辜负你的期望的",
+        "指揮官さん…スペンス、期待に応えるように頑張ります！",
+        "Commander... I'll work hard not to disappoint you!"
+      ],
+      "mvp": [
+        "呼，真是不容易呢…",
+        "ふぅ…た、大変だった…",
+        "Whew, that wasn't easy..."
+      ],
+      "defeat": [
+        "呜哇……好、好可怕啊！",
+        "うわああ、こ、怖いよぉー！",
+        "I-I'm so scared!"
+      ],
+      "skillActivation": [
+        "斯斯斯，斯彭斯，会加油的！",
+        "すすすスペンス、がんばりますっ！",
+        "I-I-I'll try my best!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官好可怕……（发抖）",
+        "し、指揮官さん、こ、怖いです……（ピクピク",
+        "You're a bit scary, Commander..."
+      ],
+      "affinityStranger": [
+        "呜哇！指、指挥官……你吓到我了……",
+        "うわあ！し、指揮官さん……びっくりしました……",
+        "Woah! Commander... You scared me..."
+      ],
+      "affinityFriendly": [
+        "姐姐说……指挥官是值得信任的人……",
+        "姉さんが、指揮官さんは信頼できるって……",
+        "My big sister said... that I can trust you, Commander..."
+      ],
+      "affinityLike": [
+        "指指指挥官，要是打雷的话，能，能跟指挥官一起睡吗，斯彭斯最怕打雷了！",
+        "しし指揮官さん、雷の時は、し、指揮官さんと一緒に寝てもいいですか？スペンス雷が一番怖いの……",
+        "C-C-Commander, can I come stay with you when it's storming outside? I'm terrified of thunder!"
+      ],
+      "affinityLove": [
+        "指指指指挥官，呜呜呜……斯彭斯刚刚看了一部电影，里面的人明明互相喜欢最后却不能在一起……指挥官不会也离开斯彭斯吧……？",
+        "ししし指揮官さん、うぅ……スペンス、映画見たの。二人は愛し合っているのに一緒にいられないなんて……指揮官さんはスペンスから離れませんよね……？",
+        "C-C-Commander... I just watched a film in which two people really liked each other... but they couldn't be together in the end... We'll be together forever, right?"
+      ],
+      "pledge": [
+        "欸，指挥官也喜欢斯彭斯吗，怎怎怎怎么办……太高兴了眼泪停不下来……",
+        "え、指揮官さんもスペンスのことが好き、ですか？どどどどうしよう……うれしすぎて涙が止まりません……",
+        "So you like me too, Commander? W-w-w-what will I do now... I'm so happy that I can't stop crying...!"
+      ],
+      "giftDescriptionValentines2018": [
+        "指、指挥官…我做了巧克力…嗯？好像有点不一样…诶诶诶！撒切尔把巧克力掉包了！？",
+        "し、指揮官…え、えっとチョコ作ってみたけど…あ…あれ？なんか違う……ええぇぇぇ！サッチャーが入れ替えたの！？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这、这不是撒切尔的巧克力！是斯彭斯做的哟！苦心和奇怪的调味料什么的都没放，可以放心吃哦！",
+        "さ、サッチャーのチョコじゃないよ！スペンスの作ったチョコだよ！ビターとかスパイスとか入ってないから安心して食べていいからね！",
+        "C-Commander... U-umm, I made some chocolate... Wait... Huh? Something's wrong... Oh noooooo! Thatcher swapped hers and mine around!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Umm... Stanly, not Thatcher, told me to say this when I give you your chocolate... Valentine mooooode! Huh?! Wh-what's so funny?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Spence_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Spence_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Spence_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Spence_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Spence_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Spence_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Spence_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Spence_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Spence_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Spence_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Spence_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Spence_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Spence_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Spence_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Spence_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Spence_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Spence_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Spence_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Spence_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Spence_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Spence_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Spence_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Spence_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Spence_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Spence_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Spence_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Spence_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Spence_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Spence_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Spence_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Spence_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Spence_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Spence_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Spence_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Spence_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Spence_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Spence_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Spence_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Spence_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Spence_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Spence_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Spence_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Spence_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Spence_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Spence_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Spence_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Spence_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Spence_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Spence_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Spence_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Spence_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Spence_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Spence_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Spence_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Spence_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Spence_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Spence_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Spence_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Spence_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Spence_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Spence_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Spence_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Spence_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Spence_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Spence_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Spence_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Spence_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Spence_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Spence_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Spence_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Spence_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Spence_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Spence_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Spence_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Spence_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

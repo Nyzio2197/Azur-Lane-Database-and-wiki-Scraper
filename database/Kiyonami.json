@@ -1,0 +1,560 @@
+{
+  "name": "Kiyonami",
+  "constructionTime": "00:27:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Yuugumo",
+  "ID": "293",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "PHI",
+  "pixiv": "https://www.pixiv.net/member.php?id=272220",
+  "twitter": "https://twitter.com/phi_owo",
+  "link": "https://www.weibo.com/208827897",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/4/4b/Kiyonami_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2055,
+      210,
+      46,
+      59,
+      497,
+      191,
+      42,
+      138,
+      0,
+      8,
+      194,
+      184,
+      0,
+      0
+    ],
+    "Level 100": [
+      1712,
+      183,
+      46,
+      51,
+      452,
+      185,
+      42,
+      120,
+      0,
+      8,
+      185,
+      165,
+      0,
+      0
+    ],
+    "Base Stats": [
+      331,
+      77,
+      46,
+      11,
+      96,
+      71,
+      42,
+      26,
+      0,
+      2,
+      71,
+      45,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 13,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    4,
+    32,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gained Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds: 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill2Name": "Lightning Strikes Twice; CN: 预备雷击 JP: 雷撃戦再突入",
+  "skill2Description": "10 seconds after battle starts and 15% (25%) chance to activate every 20 seconds after that: fires a wave of torpedoes (These torpedoes are based on the equipped Torpedo Mount).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-夕雲型",
+  "skill3Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Yuugumo-class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/74/Kiyonami.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/91/KiyonamiChibi.png",
+      "shipDescription": [
+        "夕云级驱逐舰八番舰—清波",
+        "夕雲型駆逐艦八番艦・清波",
+        "Yuugumo-class destroyer number eight – Kiyonami."
+      ],
+      "selfIntroduction": [
+        "我是夕云级驱逐舰八号舰、清波…虽然加强了对空能力，但果然对于天上飞的东西还是…夕暮那时候也是…如果我能更争气一些的话…不、不过，在不算太长的作战生涯里，清波还是多少有一些战绩的…总、总之，这次会加油的…！",
+        "夕雲型駆逐艦の8番艦の清波、です…対空能力を強化しましたけど、やっぱりわたしも夕暮ちゃんも、飛んでいるものはちょっと………うぅ、あのときにもっと頑張っていれば……で、でも！カンレキ的にはちょ、ちょっとだけ戦績があります！と、とにかくがんばります…っ！",
+        "I'm Kiyonami, the eighth Yuugumo-class destroyer... I had improved anti-air capabilities, but neither Yuugure nor I could really deal with things in the air... Ugh... If only I'd done a better job back then... B-but even so, I did achieve a couple of things! Wh-what I'm getting at is that I'll do the best job I can...!"
+      ],
+      "acquisition": [
+        "夕云级驱逐舰，清波。向、向您报道…这是我的好朋友兔兔…请、请多指教！…呜…",
+        "夕雲型駆逐艦清波、ちゃ、着任しました…この子は友達のうさちゃん…よ、よろしくお願いします！…はぅ…",
+        "Yuugumo-class destroyer Kiyonami, r-reporting for duty... And this is my friend, Hoppy... I-it's nice to meet you! ... Ugh..."
+      ],
+      "login": [
+        "指挥官终于回来了…兔兔，一起和指挥官打个招呼吧？",
+        "指揮官さん、おかえりなさい…ほら、うさちゃん、挨拶して？",
+        "Welcome back, Commander... Come on, Hoppy, say hi to the Commander."
+      ],
+      "details": [
+        "呜…可、可以不要一直盯着清波看吗…",
+        "うう…そ、そんなにじっと見つめないでいただけますか…？",
+        "Ugh... C-could you please not stare so much...?"
+      ],
+      "secretaryIdle1": [
+        "和夕暮呆在一起就有种莫名的安心感，一起合宿时也非常开心…希望还能交到更多像夕暮这样的知心朋友…",
+        "夕暮ちゃんといると安心します。一緒に遊んだりお泊りしたりするのも楽しいです。もっと夕暮ちゃんのようなお友達を作れればいいですね…",
+        "I feel safe around Yuugure. I enjoy playing and having sleepovers with her. I wish I had more friends like her..."
+      ],
+      "secretaryIdle2": [
+        "呜哇啊啊啊…又、又有空袭了吗！？！—…呜…指挥官不要这样吓人嘛！",
+        "あわわ！ま、また空襲ですか！？……指揮官さん、びっくりさせないでくださいっ！",
+        "Oh no, a-another air raid?! ... Commander, please don't scare me like that!"
+      ],
+      "secretaryIdle3": [
+        "无论什么时侯，清波都会努力跟上指挥官、跟上大家的步伐的，所、所以，不可以把我一个人丢下哦…？",
+        "どんな時でもわたし、頑張ってみんなに追いつくよう努力しますから…ぜ、絶対に置いてかないでくださいね…？",
+        "I'm always doing my best, trying to catch up to everyone... S-so please, don't ever leave me behind, okay...?"
+      ],
+      "secretaryTouch": [
+        "这是兔兔哦，是不是很可爱呢，嘻嘻。每天清波都是和兔兔一起睡着的呢",
+        "うさちゃん、可愛いですね。えへへ、寝るときはいつもうさちゃんと一緒です",
+        "Hoppy is cute, isn't he? Ehehe~ He's always there with me when I go to bed."
+      ],
+      "secretarySpecialTouch": [
+        "虽然不太明白…不过…啊哈哈，好痒…指挥官快停下来，哈哈~",
+        "よ、よくわからないけど、こんなの…指揮官さん、ダメ、くすぐったいですぅ…っ！",
+        "I-I'm not sure why you're doing this... B-but please stop, it tickles, Commander...!"
+      ],
+      "task": [
+        "任务看上去还有很多…指挥官，不要紧吧？",
+        "任務、結構残っていますね…指揮官さん、大丈夫ですか…？",
+        "We still have quite a few missions to complete... Commander, can you do it...?"
+      ],
+      "taskComplete": [
+        "任务…已经完成了的样子，指挥官真厉害啊……",
+        "任務は…うん、完了したようです！指揮官さんはすごいですね…",
+        "A mission... Yes, it seems a mission has been completed! You're quite the go-getter, Commander..."
+      ],
+      "mail": [
+        "邮件过来了，指挥官快点查收吧！",
+        "メールが来ました！指揮官さん、早く確認しましょう！",
+        "Your mail has arrived! Let's take a look at it, Commander!"
+      ],
+      "returnFromMission": [
+        "指挥官出击辛苦了…要、要摸摸兔兔吗？毛茸茸的，很治愈的哦？",
+        "指揮官さん、出撃お疲れ様…う、うさちゃんをさわさわしませんか？もこもこしてて、癒やされますよ…？",
+        "Well done on the last sortie, Commander... W-would you like to pet Hoppy? I-it's really comforting to stroke his fluffy fur..."
+      ],
+      "commission": [
+        "委托组的各位已经回港，唔…我要不要也去看看…",
+        "委託組のみんなはもう母港に帰還しましたね。ええと…様子を見に行ったほうがいいでしょうか……",
+        "The commission team just returned to port. Umm... I think we should go check on them..."
+      ],
+      "strengthening": [
+        "兔兔，清波是不是变强了一些呢…？",
+        "うさちゃん、清波、ちょっと強くなったのかな……",
+        "Hoppy and I think we got a little stronger..."
+      ],
+      "startingMission": [
+        "欸！？我、我来引导大家吗！？…呜…大、大家加油！",
+        "わ、わたしが指揮するんですか！？…あぅ！？み、みんな頑張ってぇ！！",
+        "I-I'm supposed to give orders?! ... Whuah?! C-come on, everyone!"
+      ],
+      "mvp": [
+        "M、MVP是清波？难以置信…不是恶作剧吧…？",
+        "い、一位は…清波、ですか？うそ…嘘じゃ、ないですよね…？",
+        "I-I got... first place? Y-you're... not just joking, right...?"
+      ],
+      "defeat": [
+        "呜…不、不要过来…",
+        "うぅ…こ、こないで……",
+        "Ugh... S-stay away...!"
+      ],
+      "skillActivation": [
+        "一、一起给对面点颜色看看吧，兔兔！",
+        "い、一緒にやりますよ！うさちゃん！",
+        "W-we will do this together, Hoppy!"
+      ],
+      "lowHP": [
+        "我、我会坚持到底的！",
+        "さ、最後までがんばります！",
+        "I-I'm not going to give up!"
+      ],
+      "affinityDisappointed": [
+        "大家都好像在说指挥官的坏话…指挥官真有那么差劲么…",
+        "みんな、指揮官さんのことが悪いって言ってます…指揮官さん、本当は悪い人ですか……？",
+        "Everyone's been saying the Commander is a mean person... Commander, is that really true...?"
+      ],
+      "affinityStranger": [
+        "诶，为什么老是缩在别人身后？唔，不知不觉就这样了…而且总觉得，跟在指挥官的身后准没错…",
+        "ど、どうして指揮官さんの後ろに隠れてるって…？ええと、実は、その…指揮官さんについていったほうがいいと思いますし…",
+        "Why do I like to hide behind you...? Umm, that's because... I feel more comfortable with you leading the way, Commander..."
+      ],
+      "affinityFriendly": [
+        "呜…夜、夜路果然还是有点…指挥官…如果工作结束晚了，可以陪我走回宿舍吗？",
+        "あぅ…夜はやっぱり怖いですよね…指揮官さん、お、遅くなりそうでしたら、寮まで送ってもらえますでしょうか……",
+        "Ugh... It's so scary at night... Commander, w-when it gets late, could you pretty please lead me to the dorm...?"
+      ],
+      "affinityLike": [
+        "其实呢，除了兔兔之外，清波还有许多的“毛茸茸朋友”哦，下、下次要来清波的“毛茸茸收藏室”参观吗，指挥官？",
+        "うさちゃん以外にも、こうもこもこしてる子、たくさん持っていますよ…？指揮官さん、今度は清波の、ええと、「もこもこハウス」！見に来ませんか…？",
+        "I have many more fluffy friends than just Hoppy... Commander, would you like to come visit my House of Fluffs sometime later...?"
+      ],
+      "affinityLove": [
+        "只要和指挥官待在一起，无论是夜晚的黑暗也好，天上的飞机也好，感觉都没什么好怕的了…！嗯…下次，我能不跟在身后，而是走在前方为指挥官带路吗…？",
+        "指揮官さんと一緒にいると、暗いのも飛行機も怖くなくなります！つ、今度からは後ろに隠れるのではなく、指揮官さんの前を歩いてもいい…ですか？",
+        "I'm not scared of the dark or planes when I'm with you, Commander... W-would you mind if, from now on, I walked ahead of you, rather than behind you...?"
+      ],
+      "pledge": [
+        "进行了这个仪式以后，就能一直待在指挥官身边了吗？太好了…嗯…夕暮给的笔记虽然还有些地方不太懂，不过，这时候应该是要闭上眼睛，等待指挥官行动吧…——",
+        "これでずっと指揮官さんのそばにいられるようになりますか…？よかったぁ…ええと、夕暮ちゃんが教えてくれた、次にすべきことは…よ、よくわからないけど、目を閉じて指揮官さんを待っていればいいんですね？う、うん！",
+        "Will we really be able to be together forever from now on...? That's great...! N-now, I learned from Yuugure that... the next thing I should do is close my eyes and wait for you to do something, right? O-okay!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Yuugure) 呜…夕暮…我能跟着你吗…？",
+        "(Sortie with Yuugure) 夕暮、う、後ろについて行ってもいいですか…？",
+        "(Sortie with Yuugure) Yuugure, d-do you mind if I stay behind you...?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, chocolate for you... Hehe, it's shaped like Hoppy, isn't it cute? You want to pat him with me?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kiyonami_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kiyonami_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kiyonami_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kiyonami_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kiyonami_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kiyonami_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kiyonami_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kiyonami_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kiyonami_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Kiyonami_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Kiyonami_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Kiyonami_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kiyonami_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kiyonami_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kiyonami_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Kiyonami_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Kiyonami_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Kiyonami_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kiyonami_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kiyonami_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kiyonami_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Kiyonami_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Kiyonami_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Kiyonami_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kiyonami_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kiyonami_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kiyonami_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kiyonami_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kiyonami_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kiyonami_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Kiyonami_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Kiyonami_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Kiyonami_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kiyonami_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kiyonami_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kiyonami_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Kiyonami_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Kiyonami_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Kiyonami_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Kiyonami_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Kiyonami_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Kiyonami_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kiyonami_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kiyonami_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kiyonami_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kiyonami_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kiyonami_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kiyonami_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kiyonami_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kiyonami_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kiyonami_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kiyonami_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kiyonami_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kiyonami_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Kiyonami_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Kiyonami_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Kiyonami_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Kiyonami_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Kiyonami_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Kiyonami_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Kiyonami_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Kiyonami_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Kiyonami_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kiyonami_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kiyonami_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kiyonami_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kiyonami_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kiyonami_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kiyonami_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Kiyonami_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Kiyonami_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Kiyonami_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Kiyonami_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Kiyonami_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Kiyonami_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Kiyonami_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Kiyonami_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Kiyonami_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Festive Riding Hood?",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "圣诞小红帽？",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "クリスマスの赤ずきんさん？",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/04/KiyonamiChristmas.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/72/KiyonamiChristmasChibi.png",
+      "shipDescription": [
+        "久、久等了…这件衣服是和夕暮一起挑的，说是“很有圣诞的感觉”…不会很奇怪吧？…呜…",
+        "お、おまたせしました…夕暮ちゃんと一緒に選んだもので、「クリスマスの雰囲気に合ってますよ」って……へ、変じゃありませんよね…？あぅ…",
+        "S-sorry to keep you waiting... Yuugure and I picked out this outfit together. She said it \"looked very Christmassy,\" but it doesn't look weird, right? ... Ugh..."
+      ],
+      "acquisition": [
+        "久、久等了…这件衣服是和夕暮一起挑的，说是“很有圣诞的感觉”…不会很奇怪吧？…呜…",
+        "お、おまたせしました…夕暮ちゃんと一緒に選んだもので、「クリスマスの雰囲気に合ってますよ」って……へ、変じゃありませんよね…？あぅ…",
+        "S-sorry to keep you waiting... Yuugure and I picked out this outfit together. She said it \"looked very Christmassy,\" but it doesn't look weird, right? ... Ugh..."
+      ],
+      "login": [
+        "圣、圣诞快乐，指挥官！呼…顺利说出来了",
+        "め、メリィークリスマァース、指揮官！ふぅ…うん！うまく言えました！",
+        "M-Merry Christmas, Commander! Phew... I think I said that right!"
+      ],
+      "details": [
+        "给大家的礼物要用什么样的包装呢…呜…指挥官能帮忙一起想想吗？",
+        "皆へのプレゼントはどんな紙で包んだらいいかな……うぅ…指揮官にも一緒に考えてもらっていいですか…？",
+        "I'm not sure what wrapping paper to use for my presents... Ummhh... Could you help me pick out a good one, Commander...?"
+      ],
+      "secretaryIdle1": [
+        "和夕暮她们约好了一起度过平安夜，指、指挥官也要一起吗？",
+        "クリスマスは夕暮ちゃんたちと一緒に過ごすって決めました。し、指揮官も一緒にどうですか…？",
+        "I'm spending Christmas with Yuugure and some friends. D-do you want to be there with us too, Commander...?"
+      ],
+      "secretaryIdle2": [
+        "清波给港区的朋友们都准备了圣诞礼物呢，也、也准备了指挥官的份哦！",
+        "清波も母港の皆のためにプレゼントを用意しました。し、指揮官の分もありますよ！",
+        "I've gotten presents for everyone I know. Th-that includes you, of course, Commander!"
+      ],
+      "secretaryIdle3": [
+        "平安夜到处都灯火通明，让人感到非常安心…要是每天都是平安夜就好了呢",
+        "クリスマスは灯りで明るくて、とても安心します……毎日がクリスマスでしたら……",
+        "All these warm lights at Christmas make me feel at ease... I wish it was Christmas all year round..."
+      ],
+      "secretaryTouch": [
+        "虽然暂时没有跟兔兔一起行动，不过晚上还是会和而兔兔一起睡觉的哦",
+        "うさちゃんは…ちょっとお留守ですけど、夜は一緒に寝ますよ",
+        "Sometimes... Hoppy is on his own, but we always go to bed together at night."
+      ],
+      "secretarySpecialTouch": [
+        "呀…帽子都要被指挥官弄掉了呜呜…",
+        "ふ、フードが落ちちゃいそうですよ…あぅ…",
+        "Y-you'll make my hood come undone... Ugh..."
+      ],
+      "returnFromMission": [
+        "出击辛苦了…要、要吃点心吗？姜饼或者蛋糕之类的…",
+        "出撃お疲れ様です…お、お菓子でも食べますか？ジンジャークッキーとか…ケーキとか……",
+        "Well done on the last sortie. W-would you like a snack? I have gingerbread cookies and Christmas cake..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Kiyonami_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Kiyonami_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Kiyonami_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Kiyonami_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Kiyonami_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Kiyonami_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kiyonami_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kiyonami_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kiyonami_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Kiyonami_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Kiyonami_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Kiyonami_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Kiyonami_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Kiyonami_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Kiyonami_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Kiyonami_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Kiyonami_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Kiyonami_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Kiyonami_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Kiyonami_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Kiyonami_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kiyonami_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kiyonami_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kiyonami_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Kiyonami_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Kiyonami_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Kiyonami_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

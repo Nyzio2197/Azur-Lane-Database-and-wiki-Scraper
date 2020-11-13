@@ -1,0 +1,702 @@
+{
+  "name": "U-110",
+  "constructionTime": "00:11:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "IXB",
+  "ID": "416",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "Capriccio",
+  "pixiv": "https://www.pixiv.net/member.php?id=4872389",
+  "twitter": "https://twitter.com/capri134",
+  "link": "https://www.pixiv.net/fanbox/creator/4872389",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/02/U-110_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1463,
+      82,
+      28,
+      48,
+      499,
+      37,
+      14,
+      0,
+      0,
+      6,
+      178,
+      0,
+      208,
+      2
+    ],
+    "Level 100": [
+      1219,
+      71,
+      28,
+      41,
+      454,
+      18,
+      14,
+      0,
+      0,
+      6,
+      159,
+      0,
+      208,
+      2
+    ],
+    "Base Stats": [
+      236,
+      30,
+      28,
+      9,
+      96,
+      7,
+      14,
+      0,
+      0,
+      2,
+      61,
+      0,
+      208,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "105% → 120%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Evasion  +2",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Health  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    1,
+    38,
+    0,
+    6
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains All Out Assault I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Range Increase",
+  "limitBreak3": "Upgrades All Out Assault I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Enigma; CN: Enigma JP: 暗号当てゲーム",
+  "skill1Description": "When entering battle, provide a random buff Lv.1 (Lv.10) for all Ironblood ship in the fleet. Each buff has a 16.66% chance to activate.",
+  "skill2Name": "Wolf Pack Tactics; CN: 狼群战术 JP: ウルフパック",
+  "skill2Description": "During battle, increases own Torpedo stat, Reload and Accuracy by 1.5% (6%) per Iron Blood submarine in the same fleet.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-Type IXB型",
+  "skill3Description": "When entering the battle, triggers All Out Assault - Type IXB I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c0/U-110.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/03/U-110Chibi.png",
+      "shipDescription": [
+        "铁血IXB型潜艇U-110",
+        "鉄血IXB型潜水艦U-110",
+        "Iron Blood Type IXB submarine – U-110."
+      ],
+      "selfIntroduction": [
+        "U-110，是铁血所属的IXB型潜艇，擅长的是狩猎商船。背上的是恩尼格玛，是很厉害的密码机。U-110也很厉害，密码本和地图只是忘记了……",
+        "U-110、鉄血のIXB型潜水艦、通商破壊が得意。背負ってるかばんにあるのはエニグマ、すごい。U-110もすごいけど、暗号書と地図は忘れただけ……",
+        "I'm U-110, Iron Blood Type IXB submarine, and I'm really good at commerce raiding. The Enigma machine I've got in my backpack is awesome. I'm awesome too, I just left my codebooks and charts behind..."
+      ],
+      "acquisition": [
+        "嘎哦！U-110是大鲨鱼，很凶，欺负U-110，U-110就咬你",
+        "がおーU-110はサメだよー。怖いぞー。いじめてきたら噛みつくぞー",
+        "Raaaawr. U-110 is a shaaaark. Fear meeee. Mess with me and I'll bite yooouuu."
+      ],
+      "login": [
+        "指挥官，棒棒糖，带了吗",
+        "指揮官、ぐるぐる、もってるー？",
+        "Commander, did you bring swirly-whirly candies?"
+      ],
+      "details": [
+        "头发才不是大蒜，是鲨鱼，可怕的鲨鱼，嘎哦",
+        "にんにくっ子じゃない。サメだぞー。怖いぞー。がおー",
+        "I'm not a garlic bulb, I'm a shaaaark. Fear meeee. Raaaawr."
+      ],
+      "secretaryIdle1": [
+        "密码本、密码本……啊，丢在宿舍里了",
+        "暗号書、暗号書と……あ、寮に忘れた",
+        "Codebooks, codebooks... Oops, I forgot them in the dorm."
+      ],
+      "secretaryIdle2": [
+        "指挥官，陪U-110玩，陪——U-110——玩",
+        "指揮官、一緒にあそぼー、いーしょーにーあーそーぼーうー",
+        "Commander, let's plaaaaay. Leeeeetttt'ssss plaaaaaayyyy."
+      ],
+      "secretaryIdle3": [
+        "刚才，在港口装鲨鱼被批评了……但是，很好玩",
+        "サメやったら説教された……でも、楽しかった",
+        "I got lectured for pretending to be a shark... But I still had fun."
+      ],
+      "secretaryTouch": [
+        "指挥官，陪我玩我就把棒棒糖分给你一支",
+        "指揮官、一緒に遊んでくれたらぐるぐる一本進呈ー",
+        "Commander, I'll give you a swirly-whirly if you play with meeee."
+      ],
+      "secretarySpecialTouch": [
+        "啊呜！（被U-110咬住了手指）",
+        "はむ！（U-110に指を噛まれた）",
+        "Nom! (U-110 bit your finger.)"
+      ],
+      "task": [
+        "指挥官，完成任务后能陪U-110玩吗？",
+        "指揮官、任務終わったら一緒に遊ぼー",
+        "Commander, once your mission's doooone, let's plaaaaay."
+      ],
+      "taskComplete": [
+        "嘎哦！大鲨鱼把任务奖励运过来了",
+        "がお！任務報酬、持ってきたー",
+        "Rawr! I've brought the mission rewaaaaards."
+      ],
+      "mail": [
+        "加密信件的话，交给U-110吧",
+        "暗号メールは、任せてくれー",
+        "I'll take care of your encrypted maaaail."
+      ],
+      "returnFromMission": [
+        "指挥官，在办公室里好无聊",
+        "指揮官、執務室、つまらなーい",
+        "Commander, your office is so booooring."
+      ],
+      "commission": [
+        "指挥官，港口好像有人回来了",
+        "指揮官、母港に人が帰ってきたー",
+        "Commander, someone's come back to pooort."
+      ],
+      "strengthening": [
+        "U-110，超凶",
+        "U-110、怖いぞー",
+        "U-110's super scaryyyyy."
+      ],
+      "startingMission": [
+        "大鲨鱼，出击",
+        "サメだー、がおー",
+        "I'm a shaaaark. Raaaawr."
+      ],
+      "mvp": [
+        "嘎哦！敌人都被U-110吓跑了",
+        "がおー、敵さん、U-110が追い返したー",
+        "Raaaawr. U-110 scared the enemies awaaaay."
+      ],
+      "defeat": [
+        "密码本、密码本……没有丢，太好了",
+        "暗号書、暗号書……よかった、大丈夫だ…",
+        "Codebooks, where are my codebooks... Goodie, they're safe..."
+      ],
+      "skillActivation": [
+        "嘎哦——！",
+        "がおー！",
+        "Raaaawr!"
+      ],
+      "lowHP": [
+        "U-110，很厉害，不会输",
+        "U-110、すごいぞー負けないぞー",
+        "U-110's awesoooome. I'm not giving uuuuup."
+      ],
+      "affinityDisappointed": [
+        "指挥官，不陪我玩……",
+        "指揮官、一緒に遊んでくれない…",
+        "Why won't you play with me..."
+      ],
+      "affinityStranger": [
+        "指挥官，难道说，恩尼格玛，现在已经不用了吗？唔，那就用来玩破译游戏吧",
+        "指揮官、エニグマ、もう使われなくなった？じゃあ、解読ゲームをしよー",
+        "You mean my Enigma machine doesn't have any use anymore? Okey-dokey, then let's play a game of decipheriiiing."
+      ],
+      "affinityFriendly": [
+        "大家好像都很喜欢玩U-110的头发。这是天生的，U-110是天生的大鲨鱼，嘎哦！",
+        "U-110のこの髪型、実は生まれつきだぞー。うん、サメだぞー。がおー！",
+        "Believe it or not, this hairstyle was born with meeeee. Mhm, I'm a shaaaark. Raaaawr!"
+      ],
+      "affinityLike": [
+        "大斗犬很聪明，U-110喜欢和大斗犬一起玩，指挥官下次也一起来玩吧",
+        "ブルドッグ、頭いい。一緒に遊ぶと楽しい。指揮官も今度一緒にあそぼー",
+        "Bulldog's really smart. Playing with her is fun. Next time, you should come play with us tooooo."
+      ],
+      "affinityLove": [
+        "指挥官，是好朋友，所以，恩尼格玛的密码本，也给你一份。而且，这样U-110忘记带也没有关系了",
+        "指揮官はお友達。エニグマの暗号書、指揮官にも一部あげる。これでU-110が忘れても大丈夫。うん",
+        "The Commander is my friend. I'll give you some of my codebooks. That way it'll be fine even if I forget mine. Yup-yup."
+      ],
+      "pledge": [
+        "指挥官对U-110这么好，U-110也最喜欢指挥官了。以后，谁要是欺负指挥官，U-110就去咬他，U110可是很厉害的，嘎哦！",
+        "指揮官、U-110にやさしい。U-110、指揮官大好き。指揮官をいじめる子はU-110が噛むぞ。U-110はすごいぞー。がおー！",
+        "Commander is so nice to me. I love you. U-110's gonna bite anyone who messes with you. U-110's scaaaryyy. Raaaaaawr!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I made some chocolate. I put it in this safe box... It won't open... Roar.. (Downhearted)"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/U-110_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/U-110_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/U-110_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/U-110_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/U-110_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/U-110_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/U-110_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/U-110_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/U-110_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/U-110_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/U-110_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/U-110_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/76/U-110_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/U-110_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/U-110_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/U-110_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/U-110_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/U-110_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/U-110_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/U-110_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/U-110_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/U-110_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/U-110_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/U-110_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/U-110_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/U-110_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/U-110_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/U-110_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/U-110_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/U-110_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/U-110_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/U-110_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/U-110_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/U-110_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/U-110_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/U-110_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/U-110_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/U-110_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/U-110_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/U-110_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/U-110_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/U-110_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/U-110_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/U-110_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/U-110_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/U-110_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/U-110_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/U-110_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/U-110_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/U-110_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/U-110_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/U-110_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/U-110_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/U-110_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/U-110_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/U-110_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/U-110_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/U-110_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/U-110_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/U-110_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/U-110_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/U-110_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/U-110_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/U-110_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/U-110_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/U-110_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/U-110_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/U-110_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/U-110_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/U-110_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/U-110_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/U-110_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/U-110_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/U-110_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/U-110_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/U-110_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/U-110_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/U-110_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Kleiner Hai",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "Kleiner Hai",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "Kleiner Hai",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1c/U-110School.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3b/U-110SchoolChibi.png",
+      "shipDescription": [
+        "和大斗犬玩游戏，U-110每次都输，不甘心。所以，U-110要好好学习，有一天，一定能赢过她",
+        "ブルドッグとゲームすると、いつも負けちゃう。悔しい。だから、お勉強頑張って、いつか絶対に勝つぞー",
+        "Whenever I play games with Bulldog, I always end up losing. Frustratinggg. That's why... I'll study hard. One day, I'll winnnn."
+      ],
+      "acquisition": [
+        "和大斗犬玩游戏，U-110每次都输，不甘心。所以，U-110要好好学习，有一天，一定能赢过她",
+        "ブルドッグとゲームすると、いつも負けちゃう。悔しい。だから、お勉強頑張って、いつか絶対に勝つぞー",
+        "Whenever I play games with Bulldog, I always end up losing. Frustratinggg. That's why... I'll study hard. One day, I'll winnnn."
+      ],
+      "login": [
+        "指挥官，一起去学校？",
+        "指揮官、がっこー？",
+        "Commander, let's go to school together?"
+      ],
+      "details": [
+        "帽子才不是大蒜，是鲨鱼，可怕的鲨鱼，嘎哦",
+        "帽子はにんにくっ子じゃない。サメだぞ―。怖いぞー。がおー",
+        "This hat is not a bulb of garlic, but a shark. A scary shaaaark. Raaawr."
+      ],
+      "secretaryIdle1": [
+        "U-110，在学校里学到了，原来，密码机还有那么多种……学习，好有趣",
+        "暗号機、種類がいっぱいと学園の勉強で知った。勉強、おもしろー",
+        "U-110 learned from school that there are actually many kinds of Enigma machines... School is coooool."
+      ],
+      "secretaryIdle2": [
+        "嘎哦，嘎哦，嘎哦——女将说，在学校里不能嘎哦，所以，U-110要在指挥官身边嘎哦",
+        "がおー、がおー、がおー、アマゾン、学園でがおーしちゃいけないって言ってた。だから指揮官のそばだとがおーするぞー",
+        "Raaaawr, raaaawr, raaaawr! Amazon said I can't rawr at school, so U-110 will rawr when hanging out with Commander."
+      ],
+      "secretaryIdle3": [
+        "大斗犬总是说，和U-110玩没意思，但是，每次都会和U-110玩，是好人",
+        "ブルドッグ、一緒に遊ぶの別にそんなに楽しくないと言ってるのに、いつも一緒に遊んでくれる。いい子",
+        "Bulldog says it's no fun to play with U-110, but she always plays with U-110 anyway. What a nice girl."
+      ],
+      "secretaryTouch": [
+        "唔，这件衣服很可爱，U-110很喜欢，但是，也变得不可怕了，是可爱的小鲨鱼，嘎哦",
+        "制服かわいい、好き。でもサメが小さくて怖くなくなった。…ぎゃぉ……",
+        "Hm, this outfit is very cute, and U-110 likes it a lot. However, it makes me not scary. That makes me a cute shark. Raaaawr."
+      ],
+      "task": [
+        "作业好多……但是U-110很厉害，所以，会做完的",
+        "宿題、多い……でもU-110はすごいぞー。全部やるぞー",
+        "The homework is strong... but U-110 is stronger. That's why I'll finish it all."
+      ],
+      "taskComplete": [
+        "指挥官，U-110把作业做完了，是不是很厉害？",
+        "宿題、ぜんぶやったぞー。U-110、すごい？",
+        "Commander, U-110 has defeated the homework. I'm strooong!"
+      ],
+      "mail": [
+        "U-110学了新的加密方式，要在信件上试试吗？",
+        "新しい暗号を覚えた。メールで試してみたい…みたくない？",
+        "U-110 has learned a new codebreaking method. Want me to try it on the mail?"
+      ],
+      "returnFromMission": [
+        "指挥官，为什么大家都这么喜欢弹U-110的头发呢？",
+        "指揮官、みんな髪の毛引っ張ってくるのが好きなのは、なんで？",
+        "Commander, why does everyone like flicking U-110's hair?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/U-110_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/U-110_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/U-110_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/U-110_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/U-110_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/U-110_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/U-110_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/U-110_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/U-110_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/81/U-110_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/U-110_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/U-110_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/70/U-110_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/U-110_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/U-110_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/09/U-110_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/U-110_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/U-110_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/U-110_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/U-110_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/U-110_Sec1Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/U-110_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/U-110_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/U-110_TaskSkin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/U-110_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/U-110_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/U-110_TaskCSkin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/U-110_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/U-110_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/U-110_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/U-110_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/U-110_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/U-110_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "A Cute, Sharky Reverie",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "鲨鱼小可爱",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "潜水鮫のカワイイ夢",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c4/U-110Casual.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/U-110CasualWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a0/U-110CasualChibi.png",
+      "shipDescription": [
+        "大斗犬说，“宴会要穿漂亮的衣服”，U110就拜托小伙伴，准备了“漂亮的衣服”，指挥官，觉得“漂亮”吗？嗯…？可爱？",
+        "ぱーてぃーはきれいな服で決まり―って、ブルドッグが言った。みんなときれいな服を用意したぞー。U-110、きれいだぞー。……かわいい？",
+        "I have to wear beautiful clothes to a party, or so Bulldog said. So, I had everyone help me pick out beautiful clothes. Commander, I'm beautiful, right? Eh... cute?"
+      ],
+      "acquisition": [
+        "大斗犬说，“宴会要穿漂亮的衣服”，U110就拜托小伙伴，准备了“漂亮的衣服”，指挥官，觉得“漂亮”吗？嗯…？可爱？",
+        "ぱーてぃーはきれいな服で決まり―って、ブルドッグが言った。みんなときれいな服を用意したぞー。U-110、きれいだぞー。……かわいい？",
+        "I have to wear beautiful clothes to a party, or so Bulldog said. So, I had everyone help me pick out beautiful clothes. Commander, I'm beautiful, right? Eh... cute?"
+      ],
+      "login": [
+        "指挥官，在等U110？",
+        "指揮官も、U-110を待ってる？",
+        "Are you waiting on U-110 too, Commander?"
+      ],
+      "details": [
+        "U110，头上开花了。……呣…才不是蒜头开花…",
+        "頭に花を飾ったぞ。むぅ、にんにくの花じゃないぞー",
+        "Look at these flowers in my hair. No, they're noooot garlic flowers."
+      ],
+      "secretaryIdle1": [
+        "密码本…好好收起来了，不会弄丢的。",
+        "暗号書…ちゃんと隠した。落とさないぞ",
+        "I've hidden the codebooks. They're not getting them this time."
+      ],
+      "secretaryIdle2": [
+        "U110有了翅膀，是会飞的鲨鱼，嘎哦——",
+        "翼を装備した。つまり飛ぶ鮫だよ。がおー",
+        "I put on these wings. I've become a flying shark. Raaawr."
+      ],
+      "secretaryIdle3": [
+        "宴会的邀请函，为什么不用密码？U110，超级喜欢破译密码。",
+        "招待状、暗号じゃなかったのはなんで？暗号解読、好きなのに…",
+        "Why wasn't my invitation encrypted? Everyone knows I like decrypting stuff..."
+      ],
+      "secretaryTouch": [
+        "大斗犬给了U110棒棒糖，指挥官，棒棒糖分你一支？",
+        "ぐるぐる、ブルドッグからもらったぞー。指揮官、一本、どう？",
+        "Bulldog gave me swirly-whirlieeees. Want one, Commander?"
+      ],
+      "returnFromMission": [
+        "穿这样，好像没法扮鲨鱼吓人…呣，让这些小鲨鱼代替U110好了，嘎哦",
+        "この服だと、サメじゃない…この子たちはサメだよー。がおー",
+        "I can't be a shark in this dress... But my friends here are still shaaarks. Raaaawr."
+      ]
+    },
+    {
+      "ENClientName": "Garnished Supershark",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "Girlish Idolish",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ガーリッシュ・アイドリッシュ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a3/U-110Idol.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/66/U-110IdolChibi.png",
+      "shipDescription": [
+        "恶魔偶像U-110，登场。用歌声打倒敌人哦。很凶的哦。嘎哦……嘎哦♪",
+        "デビルアイドルU-110、登場だぞー。歌で敵を倒すぞー。怖いぞー。がおー……がおー♪",
+        "The horned idol U-110 splashes onto the staaage. I'll sing all the baddies to obliviooon. I'm scaaary. Raaawr. Raaawr♪"
+      ],
+      "acquisition": [
+        "恶魔偶像U-110，登场。用歌声打倒敌人哦。很凶的哦。嘎哦……嘎哦♪",
+        "デビルアイドルU-110、登場だぞー。歌で敵を倒すぞー。怖いぞー。がおー……がおー♪",
+        "The horned idol U-110 splashes onto the staaage. I'll sing all the baddies to obliviooon. I'm scaaary. Raaawr. Raaawr♪"
+      ],
+      "details": [
+        "是“Girlish”，不是“Garlic”。呣…咬你哦！",
+        "「がーりっしゅ」だぞー。「がーりっく」じゃないぞー。むっ…がおー！",
+        "I'm garniiished, not garliiic. Hrmph... Raaawr!"
+      ],
+      "secretaryIdle1": [
+        "歌词本弄丢了……密码本没事。太好了…不太好？",
+        "歌詞の本を落とした……暗号書は落とさなかった。よかった。…良くなかった？",
+        "I dropped my lyrics sheet... But I still have my codebooks, so we're fine. ...We're not fine?"
+      ],
+      "secretaryIdle2": [
+        "“我乃司掌深渊之黯的暗黑鲨，让你瞧瞧我歌声的厉害吧。嘎哦”……加上“嘎哦”就不凶了？嘎哦……",
+        "「深淵の闇を司る暗黒鮫、その歌声の力を思い知れー。がおー」……がおーすると怖くなくなる？がおー……",
+        "\"Hear the terrifying melody of the Lord of Sharkness, ruler of the dark abyss. Raaawr.\" ...It loses all its scare factor when I go raaawr? Raaawr..."
+      ],
+      "secretaryIdle3": [
+        "大青花鱼，一决胜负吧。…潜下水去就没法一决胜负了…",
+        "アルバコア、勝負だぞー。…潜ると勝負にならないぞ",
+        "You and me, let's do a song battle, Albacooore. ...Nobody can hear you sing underwater, dummy."
+      ],
+      "secretaryTouch": [
+        "不懂礼貌的孩子会被咬一口哦",
+        "「まなー」がわからない子は噛み付くぞ―",
+        "If you don't behave, you'll get munched ooon."
+      ],
+      "secretarySpecialTouch": [
+        "啊呜！（被小鲨鱼们咬住了）",
+        "はむ！（小サメたちに噛みつかれてしまった）",
+        "Munch! (U-110's baby sharks bit you.)"
+      ],
+      "task": [
+        "指挥官，完成课程能陪U110玩",
+        "指揮官、レッスン終わったら一緒に遊ぼー",
+        "After our recital is done, I wanna play a gaaame."
+      ],
+      "taskComplete": [
+        "嘎哦！大鲨鱼把慰问品运过来了",
+        "がお！差し入れ、持ってきたー",
+        "Rawr! I brought you some supplieees."
+      ],
+      "startingMission": [
+        "U艇的舞台可是很厉害的！",
+        "Uボートのステージはすごいぞ―",
+        "U-boats don't mess around on the staaage."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

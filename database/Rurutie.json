@@ -1,0 +1,584 @@
+{
+  "name": "Rurutie",
+  "constructionTime": "01:48:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Utawarerumono",
+  "ID": "Collab033",
+  "faction": "Utawarerumono",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "みつみ美里",
+  "twitter": "https://twitter.com/mitsumi_m",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ai_Kakuma",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      4106,
+      170,
+      66,
+      151,
+      248,
+      88,
+      32,
+      274,
+      0,
+      11,
+      160,
+      105,
+      0,
+      0
+    ],
+    "Level 100": [
+      3618,
+      148,
+      66,
+      131,
+      216,
+      80,
+      32,
+      240,
+      0,
+      11,
+      145,
+      93,
+      0,
+      0
+    ],
+    "Base Stats": [
+      700,
+      62,
+      66,
+      28,
+      46,
+      31,
+      32,
+      51,
+      0,
+      3,
+      56,
+      25,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "100% → 110%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "60% → 60%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    12,
+    15,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Lily Root Lv.1 / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Torpedo Efficiency +15%",
+  "skill1Name": "Pulse of Life; CN: 生命的鼓动 JP: 生命の鼓動",
+  "skill1Description": "Every 10 seconds, 5% (25%) chance to heal Rurutie for 2% of her max Health. The skill can be activated for maximum 6 times each battle.",
+  "skill2Name": "Lily Root; CN: 百合根 JP: 百合根",
+  "skill2Description": "Every 22 seconds after the start of a battle, fire a special barrage. Every time the barrage is fired, increases the damage of the subsequent barrage. The skill can be activated for maximum 4 times each battle (damage based on skill level).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/14/Rurutie.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/71/RurutieChibi.png",
+      "shipDescription": [
+        "初次见面…我是露露缇耶。因为某些原因，暂时要在此处叨扰了。虽、虽然还有很多不成熟的地方…还是请多指教了",
+        "はじめまして……ルルティエ、と申します。ゆえあって、こちらに身を寄せることになりました。ふ、不束者ですが……どうぞよろしくお願いします",
+        null
+      ],
+      "selfIntroduction": [
+        "我是治理九重里的乐土之欧甄的末女，露露缇耶。兴趣是料理和读书……诶？喜欢看什么样的书吗？那、那个，就是……（支支吾吾",
+        "クジュウリを治める楽土のオーゼンが末姫、ルルティエと申します。趣味はお料理と読書で……え、どんな本を読むのかって？そ、それはえーっと……（モジモジ",
+        null
+      ],
+      "acquisition": [
+        "初次见面…我是露露缇耶。因为某些原因，暂时要在此处叨扰了。虽、虽然还有很多不成熟的地方…还是请多指教了",
+        "はじめまして……ルルティエ、と申します。ゆえあって、こちらに身を寄せることになりました。ふ、不束者ですが……どうぞよろしくお願いします",
+        null
+      ],
+      "login": [
+        "早安，指挥官大人。工作的准备已经做好了",
+        "おはようございます、指揮官さま。お仕事の準備、整っておりますよ",
+        null
+      ],
+      "details": [
+        "那个…请问找我有什么事吗？",
+        "あの……わたしに御用でしょうか？",
+        null
+      ],
+      "secretaryIdle1": [
+        "这个世界有好多我们的世界里没有的东西。无论是食材还是料理都让人充满兴趣呢。晚点能到食堂到叨扰一下吗？",
+        "この世界は、わたしたちの世界にはないものでいっぱいです。食材や料理など興味が尽きません。あとで食堂にお邪魔してもよろしいでしょうか？",
+        null
+      ],
+      "secretaryIdle2": [
+        "蛮啾…是那个圆圆的小鸟吗？真可爱呀。我也养着名叫“可可波”的赫萝萝恩鸟哦",
+        "饅頭というのですか、あの丸い鳥は？可愛いですね。わたしもココポというホロロン鳥を飼ってるんですよ",
+        null
+      ],
+      "secretaryIdle3": [
+        "如果暂时不忙的话我可以出去一趟吗？那个…想去这个世界的书店看看……",
+        "ご用事が無ければ、ちょっとお出かけしてきてもよろしいですか？えっと、こちらの世界の書房に行ってみたくて……",
+        null
+      ],
+      "secretaryTouch": [
+        "指挥官大人你饿了吗？如果是拿手头的材料能做的东西的话，我马上可以给您准备哦？",
+        "指揮官さま、お腹が空いてらっしゃるのですか？あり合わせでよろしければ、すぐご用意いたしますよ？",
+        null
+      ],
+      "secretarySpecialTouch": [
+        "诶！？……这、这种事…是不行的！不先结婚成为夫妻的话……",
+        "ふぇ！？……こ、こういうのは……いけないと思います！ちゃんと夫婦の契りをかわしてからじゃないと……",
+        null
+      ],
+      "secretaryHeadpat": [
+        "那个，像这样互相碰碰摸摸的事，一般是对着更小的孩子才做的吧……？",
+        "あの、こういう触れ合いは、もっと小さい子にしてあげるべきでは……？",
+        null
+      ],
+      "task": [
+        "今天的任务，确认过了吗？",
+        "本日の任務、確認いたしますか？",
+        null
+      ],
+      "taskComplete": [
+        "任务完成，辛苦您了",
+        "任務完了です。お疲れさまでした",
+        null
+      ],
+      "mail": [
+        "邮件送到了。要给您拿过来吗？",
+        "お便りが届いています。お持ちしましょうか？",
+        null
+      ],
+      "returnFromMission": [
+        "辛苦了，指挥官大人。餐点已经准备好了",
+        "お疲れさまでした、指揮官さま。お食事の用意ができてますよ",
+        null
+      ],
+      "commission": [
+        "参加委托的伙伴们回来了。一起去迎接她们吧",
+        "委託の方々が帰ってきたみたいです。お出迎えしてきますね",
+        null
+      ],
+      "strengthening": [
+        "感谢指挥官的重视",
+        "お心遣い、感謝いたします",
+        null
+      ],
+      "startingMission": [
+        "我也…是能战斗的！",
+        "わたしだって……戦えます！",
+        null
+      ],
+      "mvp": [
+        "我是第一？竟然……怎么办可可波，是第一呢！",
+        "わたしが一番？そんな……どうしようココポ、一番だって！",
+        null
+      ],
+      "defeat": [
+        "对、对不起。都怪我拖了大家后腿……",
+        "ご、ごめんなさい。わたしが足を引っ張ったせいで……",
+        null
+      ],
+      "skillActivation": [
+        "已经…不会再逃避了！",
+        "もう……逃げません！",
+        null
+      ],
+      "lowHP": [
+        "还，没完……还能、战斗！",
+        "まだ、やれる……まだ、いけます！",
+        null
+      ],
+      "affinityDisappointed": [
+        "非常抱歉……我无法满足指挥官大人的期待……",
+        "申し訳ありません……わたしでは指揮官さまのご期待に添えません……",
+        null
+      ],
+      "affinityStranger": [
+        "啊，指挥官大人。来的正好…我正在尝试用这些食材做料理。如果方便的话，能帮我尝尝味道吗？",
+        "あ、指揮官さま。ちょうどいいところへ……こちらの食材でお料理を作ってみたんです。よろしければ味見していただけませんか？",
+        null
+      ],
+      "affinityFriendly": [
+        "指挥官大人…有什么男性朋友吗？和那位男性朋友关系和睦吗？有结下炙热的友谊吗？有的话请务必告诉我详细的……！",
+        "指揮官さまはその……殿方のお友達はいらっしゃいますか？その方とは仲睦まじいですか？熱い友情で結ばれておりますか？是非とも詳しいお話を……！",
+        null
+      ],
+      "affinityLike": [
+        "来到这里以后，总会想起在白楼阁的那段日子。围绕着那个人，大家都在……指挥官大人的身影，总会让人不禁想到那个人呢",
+        "ここにいると、白桜閣にいた頃を思い出します。あの人を中心にみんながいて……指揮官さまが時折、あの人と重なる気がするんです",
+        null
+      ],
+      "affinityLove": [
+        "指挥官大人真是坚强啊。率领众多的人们，为了重要的目标而奋斗……我也，想要跟着指挥官",
+        "指揮官さまはお強い方ですね。多くの者を率いて、大きなことを成し遂げようとしている……わたしも、ついていきたいです",
+        null
+      ],
+      "pledge": [
+        "这是……给我的？但是……不，没事。我已经发誓要在这个世界成为指挥官的助力了。这个…就是誓约的证明吧",
+        "これを……わたしに？でも……いえ、何でもありません。この世界で指揮官さまのお供を務めることを誓います。ですから、これは……その証ですね",
+        null
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Rurutie_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Rurutie_SelfIntroJP.ogg",
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Rurutie_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Rurutie_IntroJP.ogg",
+        null
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Rurutie_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Rurutie_LogJP.ogg",
+        null
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Rurutie_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Rurutie_DetailsJP.ogg",
+        null
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Rurutie_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Rurutie_SecIdle1JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Rurutie_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Rurutie_SecIdle2JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Rurutie_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Rurutie_SecIdle3JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Rurutie_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Rurutie_Sec1JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Rurutie_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Rurutie_Sec2JP.ogg",
+        null
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Rurutie_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Rurutie_HeadpatJP.ogg",
+        null
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Rurutie_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Rurutie_TaskJP.ogg",
+        null
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Rurutie_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Rurutie_TaskCJP.ogg",
+        null
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Rurutie_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Rurutie_MailJP.ogg",
+        null
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Rurutie_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Rurutie_MissionFinJP.ogg",
+        null
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Rurutie_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Rurutie_CommissionJP.ogg",
+        null
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Rurutie_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Rurutie_StrJP.ogg",
+        null
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Rurutie_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Rurutie_MissionStartJP.ogg",
+        null
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Rurutie_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Rurutie_MVPJP.ogg",
+        null
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Rurutie_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Rurutie_DefeatJP.ogg",
+        null
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Rurutie_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Rurutie_SkillActivationJP.ogg",
+        null
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Rurutie_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Rurutie_LowHPJP.ogg",
+        null
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Rurutie_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Rurutie_Affinity0JP.ogg",
+        null
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Rurutie_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Rurutie_Affinity1JP.ogg",
+        null
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Rurutie_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Rurutie_Affinity2JP.ogg",
+        null
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Rurutie_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Rurutie_Affinity3JP.ogg",
+        null
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Rurutie_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Rurutie_Affinity4JP.ogg",
+        null
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Rurutie_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Rurutie_PledgeJP.ogg",
+        null
+      ]
+    },
+    {
+      "CNClientName": "露露缇耶(传颂之物)",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ルルティエ(うたわれるもの)",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/30/RurutieCollab.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4c/RurutieCollabChibi.png",
+      "shipDescription": [
+        "我是露露缇耶，请多指教",
+        "ルルティエです、よろしくお願いします。",
+        null
+      ],
+      "acquisition": [
+        "我是露露缇耶，请多指教",
+        "ルルティエです、よろしくお願いします。",
+        null
+      ],
+      "login": [
+        "请、请多指教",
+        "よ、よろしくお願いします……",
+        null
+      ],
+      "secretaryIdle1": [
+        "朋友…该一起做什么好呢？",
+        "お友達って……何をしたらいいのか……",
+        null
+      ],
+      "secretaryIdle2": [
+        "嘘～、拜托了可可波……安静一点",
+        "し～、お願いココポ……静かにしててね。",
+        null
+      ],
+      "secretaryIdle3": [
+        "“要是能再多遵从自己的心意行动一些就好了”……已经不想再体会像这样的心情了",
+        "もっと、思うままに行動しておけば良かった……そんな後悔はもう、したくないのです。",
+        null
+      ],
+      "secretaryTouch": [
+        "如果可以…只是握手的话……",
+        "もしよろしければ……握手をしていただけたら……",
+        null
+      ],
+      "secretarySpecialTouch": [
+        "对不起，有什么事吗？",
+        "ごめんなさい、何か御用でしょうか？",
+        null
+      ],
+      "mail": [
+        "那、那个…请…",
+        "あ、あの、どうぞ……",
+        null
+      ],
+      "returnFromMission": [
+        "辛苦了…请喝茶…",
+        "お疲れ様です…お茶をどうぞ……",
+        null
+      ],
+      "commission": [
+        "久等了……",
+        "お待たせしました……",
+        null
+      ],
+      "startingMission": [
+        "我会战斗的…无论对手是谁，都会战斗的",
+        "戦います……例え誰であろうと、戦って見せます。",
+        null
+      ],
+      "affinityLove": [
+        "已经…不想再失去任何人了",
+        "もう誰かを失うのは……イヤです。",
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Rurutie_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Rurutie_IntroSkin1JP.ogg",
+        null
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Rurutie_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Rurutie_LogSkin1JP.ogg",
+        null
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Rurutie_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Rurutie_SecIdle1Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Rurutie_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Rurutie_SecIdle2Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Rurutie_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Rurutie_SecIdle3Skin1JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Rurutie_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Rurutie_Sec1Skin1JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Rurutie_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Rurutie_Sec2Skin1JP.ogg",
+        null
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Rurutie_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Rurutie_MailSkin1JP.ogg",
+        null
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Rurutie_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Rurutie_MissionFinSkin1JP.ogg",
+        null
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Rurutie_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Rurutie_CommissionSkin1JP.ogg",
+        null
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Rurutie_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Rurutie_MissionStartSkin1JP.ogg",
+        null
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Rurutie_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Rurutie_Affinity4Skin1JP.ogg",
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

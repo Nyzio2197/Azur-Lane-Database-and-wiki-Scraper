@@ -1,0 +1,887 @@
+{
+  "name": "Kinu",
+  "constructionTime": "01:05:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Nagara",
+  "ID": "186",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "Werkbau",
+  "pixiv": "https://www.pixiv.net/en/users/1962043",
+  "twitter": "https://twitter.com/Werkbau01",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/f/fb/Kinu_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2886,
+      181,
+      52,
+      148,
+      289,
+      105,
+      36,
+      304,
+      0,
+      10,
+      145,
+      123,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3126,
+      186,
+      52,
+      158,
+      354,
+      105,
+      36,
+      319,
+      0,
+      10,
+      150,
+      123,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      2794,
+      162,
+      52,
+      139,
+      319,
+      80,
+      36,
+      282,
+      0,
+      10,
+      134,
+      109,
+      0,
+      0
+    ],
+    "Level 100": [
+      2554,
+      157,
+      52,
+      129,
+      254,
+      80,
+      36,
+      267,
+      0,
+      10,
+      129,
+      109,
+      0,
+      0
+    ],
+    "Base Stats": [
+      494,
+      66,
+      52,
+      27,
+      54,
+      31,
+      36,
+      57,
+      0,
+      3,
+      50,
+      30,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "120% → 120% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 165% → 180%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 125% → 130%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Light cruiser (CL) Torpedo  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    11,
+    18,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    4
+  ],
+  "limitBreak1": "Unlock All Out Assault Ⅰ/AA gun efficiency +5%",
+  "limitBreak2": "Torpedo base +1/Torpedo preload +1/Torpedo efficiency +10%",
+  "limitBreak3": "Improve All Out Assault/Torpedo efficiency +15%",
+  "skill1Name": "Demonblade; CN: 恶鬼怒刀 JP: 水鬼雷戦刃",
+  "skill1Description": "At the start of the battle: increases this ship's FP, AA, and ASW by 5.0% (15.0%). While this ship is afloat: decreases the DMG your SSs and SSVs take by 5.0% (15.0%).",
+  "skill2Name": "(Retrofit) Demon's Wish; CN: 恶鬼之愿 JP: 水鬼雷装衝",
+  "skill2Description": "Increases the torpedo DMG this ship deals by 5.0% (15.0%). When this ship fires its torpedoes: 15.0% (30.0%) chance to launch a second wave of torpedoes.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-長良型",
+  "skill3Description": "Activates All Out Assault Ⅱ: Nagara Class once every 8 times the Main Guns are fired.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/47/Kinu.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7a/KinuChibi.png",
+      "shipDescription": [
+        "长良级轻巡洋舰五番舰—鬼怒",
+        "長良型軽巡洋艦五番艦・鬼怒",
+        "Nagara-class light cruiser number five – Kinu."
+      ],
+      "selfIntroduction": [
+        "我是长良型轻巡洋舰鬼怒号，名字取自“凶猛狂暴如鬼之怒”的鬼怒川。跟我的名字一样，恶鬼发怒起来，可是很凶悍的。相信我，你绝对不想看到那一幕。",
+        "長良型軽巡の鬼怒だ。潜水戦隊の旗艦を務め、かの大戦の序盤では新兵器たちの活躍に一役買っていた。名前の由来通り、鬼が怒るように猛るあてを見たいとは思わないことだ",
+        "I am the Nagara-class light cruiser, Kinu. My name derives from Kinugawa, meaning \"furious and violent like a demon's wrath.\" I live up to my name, but trust me - that is not something that you would want to see."
+      ],
+      "acquisition": [
+        "我是鬼怒。如果想让恶鬼服从于你的话，就展现你的强大来看看吧",
+        "軽巡鬼怒だ。…鬼を従えるつもりなら、鬼にお前の力を示すが良い",
+        "I'm Kinu. If you want this demon to do your bidding, then you'd better show me what you're capable of!"
+      ],
+      "login": [
+        "快点安排今天的任务吧。",
+        "今日の任務の指示だ。早くしろ",
+        "Hurry up and make today's plans."
+      ],
+      "details": [
+        "其他的你随意检查，不过我的鬼面还是最好不要乱碰。",
+        "ほかの装備の点検はいいが、この鬼面をあまり触らないほうがいい",
+        "You're welcome to inspect the other stuff, but you'd be best off not casually touching my demonic raiments."
+      ],
+      "secretaryIdle1": [
+        "不擅长应付的人？硬要说的话…长良吧。因为…欸？长良姐！？等、等下，不要抱过来！唔嗯嗯~~~",
+        "苦手な相手？強いて言えば長良だな。だって…え、長良姉さん！？ちょ、ちょっと、それ駄目だ！う、うンンン――！",
+        "Somebody I can't stand? I guess that'd be Nagara. She's the– Whuah, Nagara?! W-Wait, don't get any closer! MMPH, URMMMPHHH!"
+      ],
+      "secretaryIdle2": [
+        "新式的氧气鱼雷…我说，把那东西也给我装一个吧？我保证能发挥它的全部威力。",
+        "最新式の酸素魚雷…こっちにも換装してもらえないか？あてならその性能を十二分発揮できる",
+        "A new model of oxygen torpedo...? I say, do get me one of those. I promise I'll draw out every bit of its power."
+      ],
+      "secretaryIdle3": [
+        "披风很帅气？嘿~你也是这样想的嘛！…不对，别想趁机偷懒！",
+        "マント？ふん、お前もカッコいいと思ってくれるか。…おい、それを被って隠れてサボろうなんてするんじゃないぞ",
+        "My cloak's pretty cool? Heh~ you think so too, huh? ...Hey, stop trying to slack off!"
+      ],
+      "secretaryTouch": [
+        "要和我比试一场吗？放心，我会让你一只手的。",
+        "あてと手合わせか。安心しろ、片手を使わないハンデをくれてやる",
+        "You want to duel me? Don't worry, I'll give you a handicap."
+      ],
+      "secretarySpecialTouch": [
+        "你真的，要惹怒我吗？",
+        "このあてを怒らす気か……！！",
+        "Really? Are you trying to get me mad?"
+      ],
+      "secretaryHeadpat": [
+        "别随便碰我的脑袋。",
+        "あての頭を勝手にさわるな",
+        "Don't go around touching my head."
+      ],
+      "task": [
+        "别忘了你的任务，执行上级的命令可是军人的天职。",
+        "任務を忘れるな。命令を守るのは軍人の義務だ",
+        "Don't forget about your missions. A soldier must fulfill the orders of their superiors."
+      ],
+      "taskComplete": [
+        "收下这些奖励吧，这是达成任务者的应得的回报。",
+        "報酬を受け取れ。任務をこなしたお前がもらうべき見返りだ",
+        "Accept these rewards. You've earned this privilege."
+      ],
+      "mail": [
+        "邮件里的重要信息，已经给你圈上了，指挥官。",
+        "重要な内容はマーク付けておいたぞ",
+        "I've already highlighted the important parts for you, Commander."
+      ],
+      "returnFromMission": [
+        "回来了啊，出击越久就越是怀念港区。好好休息，养精蓄锐吧",
+        "戻ってきたな。出撃が長くなると陸も恋しくなる。休めるときには英気を養え",
+        "You look like you're in a good mood. Are you the type that gets motivated the more you work?"
+      ],
+      "commission": [
+        "委托组的大家可要等得不耐烦了。",
+        "委託組の子たちがいい加減しびれを切らしているぞ",
+        "The commission team must be getting impatient from waiting."
+      ],
+      "strengthening": [
+        "唯有实战，才能检验强化的成果。",
+        "強化の成果がわかるのは実戦のみだ",
+        "I won't be able to test whether or not this strengthening worked outside of live combat."
+      ],
+      "startingMission": [
+        "尽管放马过来！",
+        "さあ、来るがいい！",
+        "Just bring it on already!"
+      ],
+      "mvp": [
+        "与我为敌，就已经注定了你们的失败。",
+        "あてを敵に回した時点でお前たちの敗北は決定したのだ",
+        "Make an enemy of me, and your defeat is already ensured."
+      ],
+      "defeat": [
+        "恶鬼，终究输给了时代么…",
+        "鬼も、時の流れには勝てないか…",
+        "Even I have become obsolete...?"
+      ],
+      "skillActivation": [
+        "休想逃走！",
+        "逃さん！",
+        "Don't even think about running!"
+      ],
+      "lowHP": [
+        "哈哈哈！让你们看看真正的恶鬼吧！",
+        "はははは！真なる鬼をお前たちに見せてやるッ！",
+        "Ahaha! Now you shall witness the form of a true demon!"
+      ],
+      "affinityDisappointed": [
+        "懦夫，永远也没法驾驭恶鬼。",
+        "卑怯者が。お前には鬼を従えられん",
+        "Cowards shall never control a demon."
+      ],
+      "affinityStranger": [
+        "像你这样看上去人畜无害的家伙，居然是掌控整个港区的大人物。我对你稍微有点兴趣了呢。",
+        "人畜無害に見えるお前がこの母港を指揮する存在とはな。ふん、少し興味が湧いたぞ",
+        "You may look like someone who is too gentle to hurt a fly, yet you have control over this entire port. I'm a little interested in you."
+      ],
+      "affinityFriendly": [
+        "哼，虽然长良她们有各种一言难尽的地方，不过你还是能好好让她们派上用场呢，我替她们谢谢你了。——什么，我也有些一言难尽的地方……哪里？快给我详细说说！",
+        "ふん、長良たちは色々残念なところがあるが、よく使いこなせているな。彼女たちに代わって感謝する。――なに、あてにも残念なところが…どこだ！詳しく聞かせろ！",
+        "I've heard that Yuubari is responsible for developing new equipment. If possible, could you ask her to upgrade my equipment? For example, starting with my torpedoes..."
+      ],
+      "affinityLike": [
+        "今晚出来陪我喝两杯吧？哈，放心吧，只是普通的聊聊天而已。借着美酒说点真心话，还有什么事能比这更让人心情舒畅呢？",
+        "少し飲みに付き合ってもらえるか？安心しろ、ただの雑談だ。酒の力を借りて本心を語り合うなんて、いいことだと思わないか？",
+        "How about letting me treat you to a couple cups of sake tonight? Hah, don't worry, I just want to have a normal chat. Having a heart-to-heart over some fine spirits... what greater comfort in life is there?"
+      ],
+      "affinityLove": [
+        "嗯……总有一种能把自己全部托付给你的感觉呢。恶鬼的归宿，就是此处吗…指挥官，若是能自由地驱使我的话，你会怎么做？",
+        "んっ……なんだかあて、お前になんでも託したい気分だな。鬼ってのも…ねえ、あてをもし好きなようにできるなら、お前は…どうしたい？",
+        "I feel like I can entrust myself to you. Is this where the demon finally finds her home...? Commander, if I was to become the blade you wield, how would you use it?"
+      ],
+      "pledge": [
+        "你就是征服了恶鬼的强者，指挥官。今日的誓言，我必将铭记于心。一起向着更强进发吧！",
+        "鬼をも従えるツワモノ、指揮官よ、この誓いは永遠に心に銘じる。さあ、共にさらなる高みへと目指そう！",
+        "Commander, you are the worthy one who has conquered a demon. Let us commemorate today's vow, and aim for greater strength together."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Yuubari) 小心点，别放松警惕。",
+        "(Sortie with Yuubari) 気をつけろ、警戒を怠るな",
+        "(Sortie with Yuubari) Be careful; don't let your guard down."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Aoba) 喂，青叶，可别再叫我把你背回去了。",
+        "(Sortie with Aoba) 青葉、今回はおんぶしてやらんぞ",
+        "(Sortie with Aoba) Hey Aoba, don't make me carry you back again."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Abukuma) 下次把你的鱼雷借我用一下吧？",
+        "(Sortie with Abukuma) 阿武隈、今度はあてに魚雷を貸してくれないか？",
+        "(Sortie with Abukuma) Want to lend me your torpedo next time?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Right then, Valentine's chocolate. I am a girl, you know. There's nothing weird about me giving you chocolate. You know?!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Kinu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Kinu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Kinu_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Kinu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Kinu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Kinu_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Kinu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Kinu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Kinu_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kinu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kinu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kinu_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kinu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kinu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kinu_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Kinu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Kinu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Kinu_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kinu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kinu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kinu_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Kinu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kinu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kinu_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Kinu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Kinu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Kinu_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kinu_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kinu_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kinu_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Kinu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Kinu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Kinu_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kinu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kinu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Kinu_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Kinu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Kinu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Kinu_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Kinu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Kinu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Kinu_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kinu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kinu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kinu_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kinu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kinu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kinu_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Kinu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Kinu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Kinu_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Kinu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Kinu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Kinu_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Kinu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Kinu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Kinu_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Kinu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Kinu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Kinu_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Kinu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Kinu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Kinu_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Kinu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Kinu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Kinu_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kinu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kinu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kinu_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Kinu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Kinu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Kinu_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Kinu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Kinu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Kinu_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Kinu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Kinu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Kinu_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Kinu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Kinu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Kinu_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kinu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kinu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kinu_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kinu_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kinu_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kinu_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kinu_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kinu_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kinu_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3c/KinuKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0e/KinuKaiChibi.png",
+      "shipDescription": [
+        "改造完毕…升华之后的恶鬼之力，尽管期待吧，不会让你失望的。",
+        "改造終了だ。…昇華した鬼の力を楽しみにしてろ。失望はさせん",
+        "Retrofit complete... Look forward to commanding the might of the demon ascended. I shall not disappoint you!"
+      ],
+      "acquisition": [
+        "改造完毕…升华之后的恶鬼之力，尽管期待吧，不会让你失望的。",
+        "改造終了だ。…昇華した鬼の力を楽しみにしてろ。失望はさせん",
+        "Retrofit complete... Look forward to commanding the might of the demon ascended. I shall not disappoint you!"
+      ],
+      "details": [
+        "鬼面？在领口这里。为了更好地战斗，总得抛弃点华而不实的东西。",
+        "鬼面？ああ、襟周りにあるぞ。今の力を以ってすれば、別にこれで鬼だと示す必要などあるまい",
+        "My oni mask? Ah, it's on the other side now. With my self-evident power, there is no need to flaunt such things."
+      ],
+      "secretaryIdle1": [
+        "这次…一定要走到时代的前面",
+        "今度こそ、時の流れに追いついてみせる",
+        "This time, I won't resign myself to obsolescence!"
+      ],
+      "secretaryIdle2": [
+        "青叶那家伙，老是一副飘飘然的样子，真遇到了危险可怎么办",
+        "青葉のやつ、いつも浮かれてる感じだが、危険に遭ったらどうするつもりだ",
+        "Darn that Aoba... With how she's always absent-mindedly flitting about, what is she going to do when she ends up in actual danger?"
+      ],
+      "secretaryIdle3": [
+        "这身披风可是经过特别设计的呢！你看这里这里还有这里…啊，咳咳，没什么，只是让你知道一下而已",
+        "このマントはオーダーメイドだ。ほら、こことここ…あ。コホン！すまん、少しお前にこいつの魅力を知ってほしかっただけだ",
+        "This mantle was specifically made for me. See, look here, and here as well... Gah! ...Ahem! Sorry, I got carried away. I just wanted to make sure you knew."
+      ],
+      "secretaryTouch": [
+        "想和我比试可要三思哦？一不小心可就不只是受伤那么简单了",
+        "手合わせを申し込む前にしっかり考えておくんだな。怪我だけじゃ済まないぞ",
+        "If you want to spar with me, you'd better think thrice. One slip of the hand, and it won't be just a flesh wound that we're dealing with."
+      ],
+      "secretarySpecialTouch": [
+        "就这么想试下我的新刀吗，指挥官？",
+        "くっ…これでもあては女だぞ！デリカシーってものを知らないのか！",
+        "Ugh... I'm still a woman, you know! Have you no sense of decency?!"
+      ],
+      "startingMission": [
+        "好好体验真正的恶鬼之力吧！",
+        "鬼の怒りを味わえ！",
+        "This is a true oni's wrath!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Kinu_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Kinu_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Kinu_IntroSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kinu_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kinu_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kinu_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Kinu_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Kinu_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Kinu_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Kinu_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Kinu_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Kinu_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Kinu_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kinu_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kinu_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Kinu_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Kinu_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Kinu_Sec1Skin9JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Kinu_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Kinu_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Kinu_Sec2Skin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Kinu_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Kinu_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Kinu_MissionStartSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "New Year's Blade Demon",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "新年的剑鬼",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "正月の剣鬼",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Swirling Cherry Blossoms Minigames",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/16/KinuNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/79/KinuNew_YearChibi.png",
+      "shipDescription": [
+        "哈！你是来做什么的，快说！…啊，只是来参观社团活动吗。抱歉，像这样在锻炼的时候不是很想被人打扰",
+        "ぬぅ！何しに来た、言ってみろ。……ああ、学園の部活動の見学か。すまなかったな、こういう練習のときは邪魔されたくないんでな",
+        "Grr! What are you here for? Speak up. ...Oh, you just wanted to take a tour of the club activities? Sorry 'bout that, I don't like getting disturbed in the middle of this kind of training."
+      ],
+      "acquisition": [
+        "哈！你是来做什么的，快说！…啊，只是来参观社团活动吗。抱歉，像这样在锻炼的时候不是很想被人打扰",
+        "ぬぅ！何しに来た、言ってみろ。……ああ、学園の部活動の見学か。すまなかったな、こういう練習のときは邪魔されたくないんでな",
+        "Grr! What are you here for? Speak up. ...Oh, you just wanted to take a tour of the club activities? Sorry 'bout that, I don't like getting disturbed in the middle of this kind of training."
+      ],
+      "login": [
+        "呼…就算是新年，也不能荒废了锻炼呢",
+        "ふぅ……祝日もノルマをこなさないといけないな",
+        "Just finished my daily practice swings. Time to get back to work."
+      ],
+      "details": [
+        "高雄殿下的那个可不能算是社团活动啊…不，也没什么理由，我只是因为喜欢才参加社团活动的",
+        "高雄殿のあれは部活動ではないな。…いや、特に理由などない、あては好きで部活に入ってるだけだ",
+        "What Takao is doing can't be considered a club activity... No, I didn't mean anything by it. I just do what I like."
+      ],
+      "secretaryIdle1": [
+        "除非是极端的天才，否则不可能离开招式。就算是天才，也不能完全无视招式。所谓的剑道，就是这样的东西",
+        "よほどの天才でもなければ形から入る。天才でも形を全くは無視できない。剣を覚えるとはこういうものだ",
+        "Unless you are a genius, you can never depart from the fundamentals. Even if you are a genius, you cannot afford to neglect the fundamentals either. That is the nature of swordsmanship."
+      ],
+      "secretaryIdle2": [
+        "威尔士亲王，还有反击…哼，无法说是卑鄙呢",
+        "プリンス・オブ・ウェールズ、そしてレパルス……ふん、卑怯とは言うまいな",
+        "Prince of Wales and Repulse, huh? ...Hmph. I'd never call them cowards."
+      ],
+      "secretaryIdle3": [
+        "五十铃明明长着鬼角，却害怕妖怪，真是奇怪。我的话…咕，好像也不能说不是那样…！",
+        "五十鈴、鬼なのにお化けが苦手とは何事だ。あては……くっ、そうならないとは言い切れん…！",
+        "Isuzu clearly is also an oni, but she's somehow afraid of ghosts. Me...? Guh, I suppose I can't deny that...!"
+      ],
+      "secretaryTouch": [
+        "这些小家伙毕竟不适合当练习的对手。指挥官要来陪我练习一下吗？",
+        "このちっこい奴どもでは流石に相手が務まらんな。こっちの手合わせでもしてみるか？",
+        "These little manjuu hardly make for good sparring partners. How about taking their place?"
+      ],
+      "mail": [
+        "有很多给你的年贺状啊，指挥官，记得都看看",
+        "年賀状だ。あとで確認してくれ",
+        "You've received a lot of New Year's greetings, Commander. Remember to take a look at them."
+      ],
+      "returnFromMission": [
+        "书法和剑法都能锻炼身心，指挥官，你觉得这几个字写得怎么样？",
+        "練習がてらに隣の書き初めも手伝った。……だ、駄目か！？",
+        "Calligraphy and swordsmanship both hone the body and the mind. Commander, how'd these words come out?"
+      ],
+      "mvp": [
+        "不好意思，舰装是真的",
+        "悪いが、艤装は本物でな",
+        "Sorry, but these riggings are the real deal."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Kinu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Kinu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Kinu_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Kinu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Kinu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Kinu_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kinu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kinu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kinu_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Kinu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Kinu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Kinu_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Kinu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Kinu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Kinu_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Kinu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Kinu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Kinu_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Kinu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Kinu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Kinu_Sec1Skin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Kinu_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Kinu_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Kinu_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Kinu_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Kinu_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Kinu_MissionFinSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Kinu_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Kinu_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Kinu_MVPSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +70 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "5x CruiserT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Anti-Air Gun Efficiency +5% ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "2x CruiserT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "B,E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +70 / Health +100 ",
+      "materials": "2 / 3x CruiserT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Accuracy Enhancement Ⅰ",
+      "attributes": "Accuracy +5 ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Torpedo Improvement Ⅱ",
+      "attributes": "Equip 2 Efficiency +5% / Equip 2 Efficiency +5% ",
+      "materials": "1 / 1x CruiserT3BP ",
+      "coinCost": 2500,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Torpedo Enhancement Ⅱ",
+      "attributes": "Torpedo +5 / Torpedo +15 ",
+      "materials": "1 / 2x CruiserT3BP and 5 / 15x TorpT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +10, Torpedo +35 ",
+      "materials": "3x CruiserT3BP and 1x Kinu or Universal Bulin ",
+      "coinCost": 4000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill ",
+      "materials": "2x CruiserT3BP and 50x AuxT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "K"
+      ]
+    }
+  ]
+}

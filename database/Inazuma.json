@@ -1,0 +1,738 @@
+{
+  "name": "Inazuma",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Fubuki",
+  "ID": "162",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "大月紅葉",
+  "pixiv": "https://www.pixiv.net/member.php?id=591937",
+  "twitter": "https://twitter.com/dayuehongye",
+  "link": "http://weibo.com/ootsukimomiji",
+  "voiceActor": "https://en.wikipedia.org/wiki/Emiri_Kat%C5%8D",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1747,
+      210,
+      57,
+      60,
+      493,
+      194,
+      45,
+      150,
+      0,
+      8,
+      178,
+      170,
+      0,
+      0
+    ],
+    "Level 100": [
+      1456,
+      183,
+      57,
+      52,
+      448,
+      188,
+      45,
+      130,
+      0,
+      8,
+      170,
+      152,
+      0,
+      0
+    ],
+    "Base Stats": [
+      282,
+      77,
+      57,
+      11,
+      95,
+      72,
+      45,
+      28,
+      0,
+      2,
+      65,
+      41,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 9,
+  "level120StatBonus": "Destroyer (DD) Accuracy  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    4,
+    31,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Destroyer Division 6: Inazuma; CN: 六驱精锐·柏 JP: 第六駆逐隊・電",
+  "skill1Description": "When paired with any of the Destroyers from Destroyer Division 6 (, , , ): increases own Firepower, Torpedo and Reload by 5% (15%). This effect does not stack.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-暁型",
+  "skill2Description": "Every 15 (10) shots from the main battery, triggers Full Barrage - Akatsuki Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2f/Inazuma.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/46/InazumaChibi.png",
+      "shipDescription": [
+        "特III型枫级驱逐舰四番舰—柏",
+        "特Ⅲ型駆逐艦四番艦・電",
+        "Type III Akatsuki-class destroyer number four - Akatsuki."
+      ],
+      "selfIntroduction": [
+        "重樱特Ⅲ型枫级驱逐舰柏酱……的说。作为特型驱逐舰中最小的妹妹，参加了太平洋战争中的诸多战事，不过比起作战，果然柏还是更喜欢护航、运输、搜救之类的工作呢……指挥官先生……也想被摸摸头吗？",
+        "重桜の特Ⅲ型、暁型駆逐艦の電……です。特型駆逐艦の末っ子として、かの大戦の多くの戦闘に参加しました。でも戦闘より、電はやはり護衛、輸送、救援任務のほうが好きです……指揮官さん？……指揮官さんも頭ナデナデされたいですか？",
+        "I am... the Sakura Empire's Akatsuki-class type III destroyer, Inazuma. As the youngest of my class, I participated in a lot of battles in the World War. But I prefer escorts, transports, and rescues over combat. ... Commander? Would you like to have your head patted too?"
+      ],
+      "acquisition": [
+        "这就是指挥官先生吗……看起来好像不怎么可靠啊……啊，忘记自我介绍了，我是柏……酱的说",
+        "あなたが指揮官さんですか……？あまり頼れそうに見えませんけど……あ、自己紹介はまだですね。私は電……と言います",
+        "Are you the commander...? You don't seem very reliable... Ah, sorry, my self-introduction. My name is... Inazuma."
+      ],
+      "login": [
+        "咦……是指挥官先生？这个时候登陆……是又在摸鱼了吗？",
+        "あれ……指揮官さんですか？この時間に「ログイン」するなんて……サボっていますよね？",
+        "Is that... you, Commander? I can't believe you're logging in at this time of day... shouldn't you be doing something else?"
+      ],
+      "details": [
+        "指挥官先生……一直待在房间里呢……",
+        "指揮官さん……ずっと部屋に引きこもっていますね……",
+        "Commander... it seems you're always holed up in your room..."
+      ],
+      "secretaryIdle1": [
+        "指挥官先生最大的优点就是温柔呢",
+        "指揮官さんの最大の「ケッテン」は優しいこと、ですね。",
+        "Commander, your biggest flaw is how kind you are."
+      ],
+      "secretaryIdle2": [
+        "豻姐姐……帮过我很多忙呢",
+        "那珂姉さん……結構助けてくれました",
+        "Naka... she's helped me quite a lot..."
+      ],
+      "secretaryIdle3": [
+        "打捞我可是很在行的！",
+        "「サルベージ」は電、得意です！",
+        "\"Salvaging\" is my specialty!"
+      ],
+      "secretaryTouch": [
+        "指挥官先生……不摸摸我的头吗？",
+        "指揮官さん……頭をナデナデしませんか？",
+        "Commander... could you pat my head?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官先生……果然已经无药可救了呢",
+        "指揮官さん……もう付ける薬はないですね。",
+        "Commander... there's no medicine that can fix you."
+      ],
+      "task": [
+        "一直不完成任务……似乎会坠入名为“加班”的地狱呢",
+        "任務をずっと完了しないと……「残業」という名の悪いことになりますね",
+        "If you leave your missions unfinished forever... then you'll end up having to do this bad thing called \"overtime\"."
+      ],
+      "taskComplete": [
+        "这里的绩效奖金可不会拖延到下个月才发放",
+        "今月の「歩合給」は来月には延びませんよ？",
+        "This month's bonus pay won't be postponed into the next month."
+      ],
+      "mail": [
+        "邮件恐惧症吗……没事的，柏在陪着你呢",
+        "「メール恐怖症」ですか……大丈夫ですよ。電は指揮官さんの側にいますよ",
+        "You have mailophobia? ... You don't have to be scared, I'm here with you."
+      ],
+      "returnFromMission": [
+        "欢迎回来……指挥官先生，即使没有新船，柏也还在这里哦",
+        "おかえりなさい、指揮官さん。「新艦追加」がなくとも、電はここにいますよ",
+        "Welcome back, Commander. Even if you didn't \"acquire new characters\",I will always be here."
+      ],
+      "commission": [
+        "指挥官先生……油和物资都回来了",
+        "指揮官さん……「ガソリン」も「リソース」も戻ってきました",
+        "Commander... your \"gasoline\" and \"resources\" have arrived."
+      ],
+      "strengthening": [
+        "唔……没有想象中的痛真是太好了",
+        "ふぅ……思ってたより痛くなくてよかったです",
+        "Phew... I'm glad that didn't hurt as much as I thought."
+      ],
+      "startingMission": [
+        "诶……诶，被伏击了吗！",
+        "え……ええ！待ち伏せされたのですか！",
+        "Hm... Huh?! We've been ambushed!"
+      ],
+      "mvp": [
+        "……我是MVP？……这样的舰队……真的行吗？",
+        "……電がMVPですか？……この艦隊……大丈夫ですか？",
+        "... I'M the MVP? ... Is this fleet... doing okay?"
+      ],
+      "defeat": [
+        "呼……指挥官先生……跑的好快",
+        "ふぅ……指揮官さん……「逃げ足」が早いです……",
+        "Phew... Commander... you're very good at running away..."
+      ],
+      "skillActivation": [
+        "如果能全队出击就好了……",
+        "皆揃っていればいいのに……",
+        "If only everyone were here with us..."
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "不管指挥官先生变成什么样，柏都会陪着你哦",
+        "電は指揮官さんがどうなっても側にいますよ",
+        "Commander, no matter what you may become, I will always be with you."
+      ],
+      "affinityStranger": [
+        "指挥官先生，柏会为你加油的！",
+        "指揮官さん、電は応援してあげますよ",
+        "Commander, I will assist you."
+      ],
+      "affinityFriendly": [
+        "痛苦的事情说出来就少一半，快乐的事情说出来就多一份。所以什么事都可以和柏说哦",
+        "苦しいことは話し半分に、楽しいことは人に教えると二倍になります。ですから、なんでも電に話してくださいね",
+        "A shared sorrow is one made half, and shared joy is one made double. So please feel free to talk to me about anything."
+      ],
+      "affinityLike": [
+        "指挥官先生无论想去哪里，柏都会陪伴你！……不过从屏幕里跳出来什么的……好像做不到呢",
+        "指揮官さんがどこに行っても電は側にいますよ。……でも「画面の外」は……ちょっと無理かも……",
+        "Commander, no matter where you go, I will always be with you. ... However... I don't think I can... leave the boundaries of this screen..."
+      ],
+      "affinityLove": [
+        "指挥官先生，总吃垃圾食品，身体会变脆弱的，试着尝试一下自己做饭怎么样？诶？没事的，柏会帮着试吃的！",
+        "指揮官さん、「ジャンクフード」ばかりじゃ体を壊しますよ？たまには自分で作ってみてはどうですか？え？大丈夫です。電も一緒に味見しますから！",
+        "Commander, it's terrible for your body eat junk food all the time. How about cooking your own food once in a while? Hm? Don't worry, I'll taste test it together with you!"
+      ],
+      "pledge": [
+        "指挥官先生……放心吧！我永远都不会抛弃指挥官先生的！就算指挥官先生厌倦了离家出走了，我也会一直一直在这里等待指挥官先生的！",
+        "指揮官さん……安心してください。電は指揮官さんを絶対見捨てたりしませんよ。指揮官さんが飽きて家出してもずっと、ずっとここで待ってあげますからね",
+        "Commander... please feel at ease. I would never abandon you. Even if you've had enough and run away, I will always, always be waiting here for you."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Phoenix) 栀姐姐……不好意思，我认错人了……",
+        "(Sortie with Phoenix) 響姉さん……？すみません、人間違いでした……",
+        "(Sortie with Phoenix) Hibiki...? Sorry, I thought you were someone else..."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Ikazuchi) 第六驱逐队……出击！",
+        "(Sortie with Ikazuchi) 第六駆逐隊……発進します！",
+        "(Sortie with Ikazuchi) Destroyer Division Six... departing!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官がどうなっても、電は指揮官にバレンタインチョコを作りますよ。だから、どんなに「ボッチ」でも、ぜったいに頑張ってくださいね。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "不管指挥官先生变成什么样，电都会做情人节巧克力的哟。就算指挥官变成“xianchong”，也不要忘记电哦。",
+        "指揮官がどうなっても、電は指揮官にバレンタインチョコを作りますよ。指揮官が「りあじゅう」になっても、電のことを忘れないでくださいね。",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, hurry up and taste the 6th DesDiv's \"6th DesDiv Desdivlicious Chocolate\" already...! Hibiki and Ikazuchi came up with the name. And I made a piece too, don't forget."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Inazuma_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Inazuma_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Inazuma_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Inazuma_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Inazuma_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Inazuma_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Inazuma_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Inazuma_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Inazuma_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Inazuma_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Inazuma_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Inazuma_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Inazuma_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Inazuma_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Inazuma_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Inazuma_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Inazuma_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Inazuma_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Inazuma_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Inazuma_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Inazuma_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Inazuma_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Inazuma_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Inazuma_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Inazuma_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Inazuma_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Inazuma_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Inazuma_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Inazuma_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Inazuma_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Inazuma_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Inazuma_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Inazuma_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Inazuma_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Inazuma_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Inazuma_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Inazuma_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Inazuma_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Inazuma_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Inazuma_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Inazuma_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Inazuma_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Inazuma_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Inazuma_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Inazuma_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Inazuma_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Inazuma_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Inazuma_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Inazuma_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Inazuma_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Inazuma_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Inazuma_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Inazuma_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Inazuma_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Inazuma_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Inazuma_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Inazuma_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Inazuma_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Inazuma_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Inazuma_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Inazuma_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Inazuma_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Inazuma_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Inazuma_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Inazuma_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Inazuma_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Inazuma_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Inazuma_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Inazuma_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Inazuma_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Inazuma_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Inazuma_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Inazuma_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Inazuma_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Inazuma_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Inazuma_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Inazuma_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Inazuma_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Inazuma_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Inazuma_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Inazuma_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Vanilla Pudding",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "香草布丁",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "バニラプリン",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 650",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/81/InazumaTea_Party.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/1c/InazumaTea_PartyChibi.png",
+      "shipDescription": [
+        "虽然被指挥官吃掉也没关系…但是柏不见了，指挥官一定会伤心吧，或许会伤心到连舰队都指挥不了…所以…拜托了！柏的这份心声，请一定要传达到——",
+        "指揮官さんに食べられちゃってもいいけど、電がいなくなったら、指揮官さんがきっと悲しくて悲しくて、艦隊も指揮できなくなっちゃいますね。…だから…さん受け取って…ください…最後の…電のお願い――",
+        "It doesn’t matter if Inazuma becomes Mr. Commander's dessert… but if Inazuma cannot be found, Mr. Commander will feel so devastated, perhaps he won’t be able to command the fleet… so… please! Please convey Inazuma's heartfelt wish to Mr. Commander——"
+      ],
+      "acquisition": [
+        "虽然被指挥官吃掉也没关系…但是柏不见了，指挥官一定会伤心吧，或许会伤心到连舰队都指挥不了…所以…拜托了！柏的这份心声，请一定要传达到——",
+        "指揮官さんに食べられちゃってもいいけど、電がいなくなったら、指揮官さんがきっと悲しくて悲しくて、艦隊も指揮できなくなっちゃいますね。…だから…さん受け取って…ください…最後の…電のお願い――",
+        "It doesn’t matter if Inazuma becomes Mr. Commander's dessert… but if Inazuma cannot be found, Mr. Commander will feel so devastated, perhaps he won’t be able to command the fleet… so… please! Please convey Inazuma's heartfelt wish to Mr. Commander——"
+      ],
+      "login": [
+        "……柏的心声，传达到了吗？……指挥官先生……",
+        "……電のお願い、伝わりましたか？……指揮官さん……？",
+        "...Inazuma’s heartfelt wish, has it been communicated? …Mr. Commander..."
+      ],
+      "details": [
+        "指挥官先生，吃掉柏以后……要打起精神噢",
+        "指揮官さん、電を食べたら……元気を出してくださいね",
+        "Mr. Commander, after you swallowed Inazuma up... you must be ready to sortie."
+      ],
+      "secretaryIdle1": [
+        "指挥官先生……饿了吗？",
+        "指揮官さん……お腹すきました？",
+        "Are you hungry… Mr. Commander?"
+      ],
+      "secretaryIdle2": [
+        "指挥官先生在寻找柏吗？柏就在指挥官面前噢",
+        "指揮官さんは電を探していますか？電は指揮官さんの目の前ですよ",
+        "Are you trying to find Inazuma, Mr. Commander? Inazuma is right in front of you."
+      ],
+      "secretaryIdle3": [
+        "指挥官先生，一直都这么温柔呢……",
+        "指揮官さん、いつも優しいですね……",
+        "Mr. Commander, you’re always so gentle..."
+      ],
+      "secretaryTouch": [
+        "指挥官先生，要开动了吗……指挥官先生，请接受柏的一切吧—",
+        "指揮官さんはもう食べますか？……はい、電の全てを受け入れてくださいーー違うの？",
+        "Mr. Commander, are we starting this… please accept all of Inazuma, both the good and the bad—"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官先生听到了柏的心声？指挥官先生真了不起！",
+        "指揮官さん、電の心の音がわかりますか？凄いです……",
+        "Mr. Commander, have you heard Inazuma’s heartfelt words? You’re really amazing Mr. Commander!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Inazuma_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Inazuma_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Inazuma_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Inazuma_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Inazuma_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Inazuma_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Inazuma_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Inazuma_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Inazuma_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Inazuma_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Inazuma_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Inazuma_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Inazuma_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Inazuma_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Inazuma_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Inazuma_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Inazuma_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Inazuma_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Inazuma_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Inazuma_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Inazuma_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Inazuma_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Inazuma_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Inazuma_Sec2Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Flash of Fireworks",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "花火Inatuma",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "オハナビイナヅマ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/55/InazumaFestival.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/00/InazumaFestivalChibi.png",
+      "shipDescription": [
+        "平常都是和梓一起参加的祭典，和指挥官还是头一次呢。嗯？…要从哪里开始逛起呢？",
+        "普段はいつも雷と一緒にお祭りに出ていますけど、指揮官さんとは初めてですね。ええと、何から遊びますか？",
+        "I usually go to festivals with Ikazuchi, but this would be my first time going with you. Hmm? Where should we visit first?"
+      ],
+      "acquisition": [
+        "平常都是和梓一起参加的祭典，和指挥官还是头一次呢。嗯？…要从哪里开始逛起呢？",
+        "普段はいつも雷と一緒にお祭りに出ていますけど、指揮官さんとは初めてですね。ええと、何から遊びますか？",
+        "I usually go to festivals with Ikazuchi, but this would be my first time going with you. Hmm? Where should we visit first?"
+      ],
+      "login": [
+        "还以为指挥官先生忘了和柏的约定了呢",
+        "指揮官さん、電との約束を忘れちゃったと思ってました",
+        "I was beginning to think that you forgot about our plans, Commander."
+      ],
+      "details": [
+        "指挥官先生，不会是听了梓的话才给柏买的新衣服吧？柏其实不怎么在意的哦？嗯…不怎么在意…",
+        "指揮官さんは雷に言われてこの衣装を買ったのですか？電、別に気にしていませんよ？うん…別に…",
+        "Commander, you didn't just buy these clothes for me because Ikazuchi asked you to, right? It doesn't bother me. Not one bit..."
+      ],
+      "secretaryIdle1": [
+        "指挥官先生，柏想吃烤鱿鱼，可以吗？",
+        "指揮官さん、ええと、電のためイカ焼きを買っていただけませんか？",
+        "Commander, I'd like some taiyaki. Is that okay?"
+      ],
+      "secretaryIdle2": [
+        "像这样脱掉鞋子走在小石子路上，意外地还挺舒服呢，指挥官先生也可以试试？",
+        "こうして靴を履かないで歩くと意外と気持ちいいですね。指揮官さんも試してみたらどうですか？",
+        "It feels unexpectedly nice to walk around without my shoes... Commander, why don't you try it too?"
+      ],
+      "secretaryIdle3": [
+        "指挥官先生，去看一看其他人的浴衣也可以哦，柏可以自己先逛逛",
+        "指揮官さん、他の子の浴衣に目移りしても大丈夫ですよ。電は一人でも平気ですから",
+        "Commander, you can go check out everyone's yukatas if you'd like. I'll look around by myself first."
+      ],
+      "secretaryTouch": [
+        "指挥官先生，就算一直戳柏，也不会出现“动作差分”的哦",
+        "指揮官さん、電を突っついても「ぽーずさぶん」は出ませんよ",
+        "Commander, no matter how much you poke me, I won't have any Live2D."
+      ],
+      "returnFromMission": [
+        "比起柏更重视工作…指挥官是个“工作狂”呢",
+        "指揮官さん、電よりお仕事が大事…ちょっと「わーかほりっく」なヒトですね",
+        "Prioritizing work over Inazuma... Commander, you sure are a workaholic."
+      ],
+      "affinityLove": [
+        "指挥官先生，因为柏很可爱很照顾柏，所以一直和柏黏在一起而忽略其他人是不行的，会变成社交恐惧症的，也要和其他人一起享受祭典的乐趣哦",
+        "指揮官さん、電がいくら可愛くても、電にずっとベッタリくっついて、ほかの子をほったらかしたままでは「こみゅしょう」になっちゃうかもしれませんよ？ほかの子とも一緒にお祭りを楽しんでくださいね",
+        "Commander, I know I'm super cute and all, but you'll develop social anxiety if you constantly cling to me and ignore everyone else. Since I'm also super responsible, you should go to the festival and enjoy the company of others."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Inazuma_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Inazuma_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Inazuma_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Inazuma_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Inazuma_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Inazuma_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Inazuma_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Inazuma_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Inazuma_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Inazuma_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Inazuma_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Inazuma_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Inazuma_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Inazuma_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Inazuma_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Inazuma_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Inazuma_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Inazuma_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Inazuma_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Inazuma_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Inazuma_Sec1Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Inazuma_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Inazuma_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Inazuma_MissionFinSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Inazuma_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Inazuma_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Inazuma_Affinity4Skin2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Dusk's Lightning",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "月下妖精Inatuma",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "夕闇のイナヅマ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/42/InazumaParty.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/40/InazumaPartyWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/62/InazumaPartyChibi.png",
+      "shipDescription": [
+        "柏是起舞在月色之下的妖精…梓好像是这么”设定“的呢，嗯…指挥官先生，要和柏一起参加宴会吗？",
+        "夕闇（ゆうやみ）に舞う、妖精の電…そういう「設定」らしいですね。指揮官さん、電と一緒にパーティーに行きませんか？",
+        "I'm the fairy of lightning that illuminates the stars in the night sky... So that's what we're going with, huh. Commander, will you accompany me to the party?"
+      ],
+      "acquisition": [
+        "柏是起舞在月色之下的妖精…梓好像是这么“设定”的呢，嗯…指挥官先生，要和柏一起参加宴会吗？",
+        null,
+        null
+      ],
+      "login": [
+        "指挥官先生没有忘了和柏的约定，真是太好了呢。",
+        null,
+        null
+      ],
+      "details": [
+        "梓和柏的翅膀，合在一起的话画面会有点窄呢…指挥官先生也可以试试“改图”哦",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "枫姐姐想召集六驱的大家在宴会上聚一聚，不过现在还没出现…嗯，希望栀姐姐能顺利找到她就好了。",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "“月色真美”…好像是句“名台词”呢，嗯？柏为什么会知道呢…",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "梓好像准备了一些草莓给指挥官呢，嗯…看颜色的话，柏应该准备一些…蓝莓？",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "指挥官先生，要柏帮你拿些吃的还是喝的吗？",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "无论指挥官先生是忙着出击、还是委托、还是日常任务，柏都会在这个位置陪着你的哦。",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

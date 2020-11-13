@@ -1,0 +1,687 @@
+{
+  "name": "Jamaica",
+  "constructionTime": "01:22:00",
+  "constructionPools": [
+    true,
+    false,
+    true,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Crown Colony",
+  "ID": "328",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "大月紅葉",
+  "pixiv": "https://www.pixiv.net/member.php?id=591937",
+  "twitter": "https://twitter.com/dayuehongye",
+  "link": "http://weibo.com/ootsukimomiji",
+  "voiceActor": "https://en.wikipedia.org/wiki/Y%C5%ABko_Sanpei",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3636,
+      182,
+      67,
+      157,
+      269,
+      100,
+      32,
+      329,
+      0,
+      9,
+      170,
+      123,
+      0,
+      0
+    ],
+    "Level 100": [
+      3232,
+      158,
+      67,
+      137,
+      235,
+      76,
+      32,
+      291,
+      0,
+      9,
+      152,
+      109,
+      0,
+      0
+    ],
+    "Base Stats": [
+      625,
+      67,
+      67,
+      29,
+      50,
+      29,
+      32,
+      62,
+      0,
+      2,
+      58,
+      30,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "120% → 140%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "110% → 110%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 7,
+  "maxLimitBreakTechPoints": 14,
+  "level120StatBonus": "Light cruiser (CL) Anti-submarine warfare  +1",
+  "level120TechPoints": 10,
+  "enhancementValue": [
+    12,
+    16,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Allies of Justice; CN: 正义的伙伴 JP: 正義の仲間たち",
+  "skill1Description": "If sortied with or , increases own Firepower and Torpedo stat by 5% (15%).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フィジー級",
+  "skill2Description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Fiji I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Jamaica.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e9/JamaicaChibi.png",
+      "shipDescription": [
+        "斐济级轻巡洋舰—牙买加，舷号44",
+        "フィジー級軽巡洋艦・ジャマイカ（HMS Jamaica）",
+        "Fiji-class light cruiser – Jamaica."
+      ],
+      "selfIntroduction": [
+        "是我，牙买加，铁血在巴伦支海的行动宣告破产，沙恩霍斯特在北角海战倒下，钨行动？我当然参与过，然后我还参与了一场内战……邪恶从未停止，我也将继续奋斗……没错，一切，都是正义的选择，Trae la Luz",
+        "オレだ。…このジャマイカにより、鉄血のバレンツ海の行動が失敗に終わり、シャルンホルストも北岬沖海戦で沈没の運命を辿った。タングステン作戦？もちろん参加した。その後の内戦にもな……『邪悪』の歩みが止まらぬ限り、オレは戦い続ける……そう、全ては『正義』が選んだ選択肢……",
+        "It is I. I, Jamaica, who sabotaged Iron Blood's operation in the Barents Sea; I, who sealed Scharnhorst to her fate: to sink in the Battle of the North Cape. Operation Tungsten? Of course I was there. As was I during the subsequent civil war... As long as Evil continues its march, I will keep fighting... Yes, all my choices were made by Justice itself..."
+      ],
+      "acquisition": [
+        "我的眼在疼痛，血在沸腾，你就是我的boss吗……我是牙买加，一切，都是正义的选择，Trae la Luz",
+        "くっ…また目が疼く…お前がボスか？オレはジャマイカだ。全ては『正義』の選択のため――",
+        "Ugh... my eye is throbbing again... So you're the Boss, huh? The name's Jamaica. All is in the name of Justice..."
+      ],
+      "login": [
+        "boss，我的眼能看到…………你的领子歪了",
+        "ボス、この『目』が捉えている……ネクタイがちょっとズレてるぞ",
+        "Boss, my Eye has seen it... Your necktie is slightly loose."
+      ],
+      "details": [
+        "boss，这样看过来我的左眼有没有被铁链挡住？有的话我调整一下手的位置",
+        "ボス、左目がチェーンに隠れてないか見てくれないか？腕の位置を調整するぞ",
+        "Boss, can you check if these chains are covering my left eye? I'll reposition my arm."
+      ],
+      "secretaryIdle1": [
+        "boss，在我眼中倒映出的你，是你想要的自己吗？",
+        "ボス、オレの『目』に映るあなたは、本当にあなただろうか？",
+        "Boss, is the \"you\" that my Eye sees really \"you\"?"
+      ],
+      "secretaryIdle2": [
+        "要来赛跑吗，boss？我会让你看到什么叫闪电",
+        "ボス、競走でもするか？真なる『雷電』を見せてやる",
+        "Boss, care to race with me? I will show you what real Lighting looks like."
+      ],
+      "secretaryIdle3": [
+        "我知道的，现在世界上的某个地方，正被黑夜所笼罩……",
+        "オレは知っている。世の中のどこかが、闇の夜に包まれていることを……",
+        "I feel it. Somewhere in the world, the darkness of night is enveloping something..."
+      ],
+      "secretaryTouch": [
+        "……boss，不要随便碰我，我全神贯注的时候会被你吓一跳的",
+        "……ボス、あまり触るんじゃない。集中する時に触られたら驚いてしまうぞ",
+        "...Boss, keep your hands to yourself. Otherwise you'll startle me when I'm concentrating."
+      ],
+      "secretarySpecialTouch": [
+        "…………boss，请、请注意场合",
+        "……ボス、ば、場をわきまえたほうが……",
+        "...Boss, t-this isn't the place for this..."
+      ],
+      "task": [
+        "boss，有什么能交给我的任务吗？",
+        "ボス、オレに任せる『任務』はないか？",
+        "Boss, are there any Missions for me to tackle?"
+      ],
+      "taskComplete": [
+        "boss，这里是任务的奖励。我？我只需要慢慢品味这份成就感就足够了",
+        "ボス、任務の報酬だ。オレ？ふん、オレはこの『達成感』をゆっくり味わうだけで満足だ",
+        "Boss, we've received mission rewards. Me? No need. I'm satisfied with Standing here and basking in my sense of accomplishment."
+      ],
+      "mail": [
+        "boss，有来自同志的信件",
+        "ボス、同志からのメールだ",
+        "Boss, you have mail from one of your partners."
+      ],
+      "returnFromMission": [
+        "我感觉得到，黑暗之中还有无数的恶在蠢蠢欲动……享受这片刻的宁静吧，boss",
+        "海の奥底にある蠢く『悪』を感じる…ボス、ここは得難い『安心』を享受しよう",
+        "I feel Evil wriggling within the depths of my heart... Boss, let's enjoy this Peace while it lasts."
+      ],
+      "commission": [
+        "boss，委托组回来了……不要站在窗台上摆姿势？我知道了",
+        "ボス、委託組が帰還した。……ベランダでポーズを取るな？わ、わかった……",
+        "Boss, the commission team has returned... \"Stop posing on the veranda\"? U-understood..."
+      ],
+      "strengthening": [
+        "不够…这点力量还不够…",
+        "足りない…この力は、まだ……！",
+        "It's not enough... I need more power...!"
+      ],
+      "startingMission": [
+        "我心我行毫无迟疑……",
+        "我が心に一点の曇りなし…！",
+        "My heart is utterly unclouded...!"
+      ],
+      "mvp": [
+        "歼灭你们正是正义！",
+        "お前たちを殲滅することこそ『正義』だ",
+        "Eradicating you fiends is the meaning of Justice."
+      ],
+      "defeat": [
+        "我不害怕疼痛，我害怕的是一事无成……可恶！",
+        "痛みは怖くない…何もなし得なかったのが……ちっ！",
+        "It's not pain I fear... it's being completely helpless... Ugh!"
+      ],
+      "skillActivation": [
+        "生命的赞歌正是…勇气的赞歌！",
+        "命の賛歌は…『勇気』の賛歌だ！",
+        "The eulogy of life... is the eulogy of Courage!"
+      ],
+      "lowHP": [
+        "胜利只会青睐永不放弃之人，站起来！",
+        "諦めない者にこそ勝利が訪れる。踏み切れ！",
+        "Victory comes to those who are determined! Stand Proud!"
+      ],
+      "affinityDisappointed": [
+        "真是遗憾，boss，看来我们注视的远方并不相同……",
+        "残念だなボス。どうやらオレの見る『彼方』とは違うようだ……",
+        "Unfortunately, Boss, it seems your Goals differ from mine..."
+      ],
+      "affinityStranger": [
+        "boss，要来聊聊吗？我想我们需要互相了解",
+        "ボス、雑談でもするか？お互いを『知る』必要があるようだ",
+        "Boss, care for a chat? There seems to be a need for us to Know one another."
+      ],
+      "affinityFriendly": [
+        "正义的时代？我并没有渴求那种东西。有光就会有影，boss，所谓的恶并没有那么简单就可以根绝",
+        "正義の時代？そんなものは求めていない。光あれば影あり。ボス、『邪悪』はそんなに簡単に根絶できないものだ",
+        "An age of justice? That is not what I want. Where there is light, there is dark. Evil cannot be eradicated so easily, Boss."
+      ],
+      "affinityLike": [
+        "如果我们只着眼于正义，只着眼于我们的理想，就容易迷失自我，甚至步入邪道而不自知。所以不要对黑暗别开视线，boss，我会在你身边",
+        "自分の正義と理想だけ見過ぎると、自分を見失い『邪悪』の道に踏み入ってしまう。『闇』から目を離さないことだ。ボス、このオレも一緒にいる",
+        "You end up on the path of Evil if you only focus on your own justice, your own desires. Never let the Darkness out of sight. I'm here with you, Boss."
+      ],
+      "affinityLove": [
+        "重要的是“向往正义之心”，唯有不忘这一点，即使失败了，我们也终将抵达终点，因为我们行走在通往正义的道路上，因为……你我并不孤独，boss",
+        "重要なのは『正義の心』。これさえあれば、いくら挫かれようとオレたちは終着点にたどり着く。オレたちが『正義』であるがゆえに……ボス、あなたは孤独じゃない",
+        "One needs a Heart of Justice. As long as we have it, no matter what struggles we face, we will surely see our journey to the end. We are Just, therefore... you are never alone, Boss."
+      ],
+      "pledge": [
+        "boss，我们在做的事，等于在漆黑的荒野之中开辟出一条前进的道路，能有你一同前行，是我最大的幸运",
+        "ボス、オレたちがやっているのは『荒野』を進む道を切り開くことだ。あなたとともに行くことはオレの一番の『幸運』だ",
+        "Boss, what we are doing is carving a path through the Wilderness. And being here to walk beside you is the greatest blessing of my life."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Charles Ausburne) 同志啊，携手共进吧。",
+        "(Sortie with Charles Ausburne) 同志よ、共にいくぞ！",
+        "(Sortie with Charles Ausburne) Let's go, partner!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Sheffield) 谢菲，你终于也觉醒了正义之心吗",
+        "(Sortie with Sheffield) シェフィ、お前も正義の心に目覚めたか",
+        "(Sortie with Sheffield) Sheffy, have you awakened to your Heart of Justice?"
+      ],
+      "giftDescriptionValentines2019": [
+        "boss，收下吧，这是信物…不，是由我们的「正义」中孕育而生的「黄金的精神」",
+        "これはオレとボスの絆…いや、オレ達の「正義」が生んだ「黄金の精神」だ。ボス、受け取ってくれ",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Boss, here's some chocolate we made for you... Oh, okay... So you want three more of these sweet ones...? Sure, I can do it. Once more, will all my heart, I'll get to work...!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Jamaica_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Jamaica_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Jamaica_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Jamaica_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Jamaica_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Jamaica_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Jamaica_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Jamaica_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Jamaica_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Jamaica_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Jamaica_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Jamaica_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Jamaica_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Jamaica_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Jamaica_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Jamaica_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Jamaica_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Jamaica_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Jamaica_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Jamaica_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Jamaica_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Jamaica_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Jamaica_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Jamaica_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Jamaica_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Jamaica_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Jamaica_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Jamaica_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Jamaica_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Jamaica_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Jamaica_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Jamaica_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Jamaica_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Jamaica_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Jamaica_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Jamaica_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Jamaica_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Jamaica_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Jamaica_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Jamaica_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Jamaica_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Jamaica_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Jamaica_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Jamaica_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Jamaica_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Jamaica_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Jamaica_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Jamaica_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Jamaica_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Jamaica_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Jamaica_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Jamaica_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Jamaica_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Jamaica_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Jamaica_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Jamaica_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Jamaica_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Jamaica_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Jamaica_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Jamaica_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Jamaica_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Jamaica_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Jamaica_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Jamaica_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Jamaica_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Jamaica_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Jamaica_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Jamaica_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Jamaica_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Jamaica_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Jamaica_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Jamaica_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Jamaica_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Jamaica_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Jamaica_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Dark Bolt",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "地下行者",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "Dark Bolt",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/47/JamaicaBike.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f4/JamaicaBikeChibi.png",
+      "shipDescription": [
+        "嗨，boss…你说摩托车？哦，这是我一点点自己从明石小姐那里买零件组装成的，是不是很酷？",
+        "あっ、ボス…この子か？明石からパーツを買って組み上げたものだ。結構『イカス』だろ？",
+        "Hey Boss, you talkin' about my sweet bike? Heh, I made it myself by scrounging up parts from Akashi's place. Pretty cool, huh?"
+      ],
+      "acquisition": [
+        "嗨，boss…你说摩托车？哦，这是我一点点自己从明石小姐那里买零件组装成的，是不是很酷？",
+        "あっ、ボス…この子か？明石からパーツを買って組み上げたものだ。結構『イカス』だろ？",
+        "Hey Boss, you talkin' about my sweet bike? Heh, I made it myself by scrounging up parts from Akashi's place. Pretty cool, huh?"
+      ],
+      "login": [
+        "boss，今天天气不错，要出去兜风吗？",
+        "ボス、今日はいい天気だ。ツーリングでも行かないか？",
+        "Boss, the weather be fine today. Wanna go for a ride?"
+      ],
+      "details": [
+        "boss，有空陪我做一下摩托的改造吗，我有一些新的想法",
+        "ボス、今度この子の改造に付き合ってもらえないか。新しいアイデアが湧いたんだ",
+        "Boss, if you have time, wanna help me upgrade my bike? I got some sick ideas."
+      ],
+      "secretaryIdle1": [
+        "心烦的时候，我就会出去漫无目的地兜风，把烦恼都抛在脑后……不过，很容易迷路",
+        "激昂して心が荒れると、行く宛のない旅に出て、頭を冷静にすることにしているのだ。……よく迷子になってしまうのだがな",
+        "When somethin' is on my mind, I just keep on riding until my troubles are left far, far behind... However, it's really easy to get lost."
+      ],
+      "secretaryIdle2": [
+        "boss，我兜风的时候开得很快，你在后座的话，别忘了抱紧我",
+        "ボス、オレの運転は荒いから、ちゃんと掴まってたほうがいいぞ",
+        "Boss, when I drive, I like to go fast. When you're sitting behind me, make sure to hold on tight!"
+      ],
+      "secretaryIdle3": [
+        "boss，你觉得给这家伙取名叫“黑色闪电”怎么样？",
+        "ボス、こいつの名を『ダークボルト』にするのはどうだ？",
+        "Boss, what if I named this bad boy here \"Dark Bolt?\""
+      ],
+      "secretaryTouch": [
+        "boss，你也想骑吗？小心点，这家伙的马力很大",
+        "ボスもこの子に乗りたいか？気をつけたほうがいい、オレの愛馬は凶暴だ",
+        "Boss, do you wanna try riding too? Be careful, this guy's got some serious horsepower."
+      ],
+      "secretarySpecialTouch": [
+        "……boss，虽然我说让你抱紧我，但不是说抱那里……",
+        "……ボス、「ちゃんと掴まったほうがいい」とは言ったけど、掴まるのはそこじゃないぞ……",
+        "Boss... even though I told you to hold on to me tight, I didn't mean right there..."
+      ],
+      "returnFromMission": [
+        "boss，暂时忘记战场的硝烟，坐上来吧，我们去感受一下风的触感",
+        "ボス、しばらくは戦場の硝煙を忘れたほうがいい。さあ、ここに座って、オレと『風』を感じよう",
+        "Boss, come take a seat. We're gonna forget all about the the smoke of the battlefield, and feel the wind at our side."
+      ],
+      "affinityLove": [
+        "我曾以为我是旅行者，我不是任何地方的故人，我也没有寻求的终点…现在，我发现我错了，boss，无论发生什么，我都会回到你的身边",
+        "「オレは旅人なんだ。ここは道半ばの場所だし、ここから出発しなければならない」――そう思っていた。今は違う。ボス、どんなことがあっても、オレはお前の側にいる",
+        "I used to consider myself a drifter, a vagabond with no home and no destination. But I learned that I was wrong, Boss. No matter what happens, I'll always come back... to home."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Jamaica_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Jamaica_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Jamaica_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Jamaica_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Jamaica_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Jamaica_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Jamaica_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Jamaica_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Jamaica_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Jamaica_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Jamaica_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Jamaica_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Jamaica_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Jamaica_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Jamaica_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Jamaica_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Jamaica_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Jamaica_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Jamaica_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Jamaica_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Jamaica_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Jamaica_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Jamaica_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Jamaica_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Jamaica_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Jamaica_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Jamaica_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Jamaica_Affinity4Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Highway Star",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "Highway·Star",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "ハイウェイ・スター",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Highway Star Event Questline",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3a/JamaicaRoadtrip.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9b/JamaicaRoadtripChibi.png",
+      "shipDescription": [
+        "boss，看，这是明石送给我的新车，说是让我做新产品的“代言人”……代言人，呵呵，听起来很帅啊",
+        "ボス、明石が手配してくれた新しい相棒だ。なんだか「タレント」をやってほしいとの依頼も頼みたいらしいが……ふん、「タレント」、いい響きだ",
+        "Look, Boss, this is the new bike that Akashi sent me. She said she wanted me to be her brand ambassador... Doesn't that job sound badass?"
+      ],
+      "acquisition": [
+        "boss，看，这是明石送给我的新车，说是让我做新产品的“代言人”……代言人，呵呵，听起来很帅啊",
+        "ボス、明石が手配してくれた新しい相棒だ。なんだかオレに「タレント」をやってほしい、らしいが……ふん、「タレント」、いい響きだ",
+        "Look, Boss, this is the new bike that Akashi sent me. She said she wanted me to be her brand ambassador... Doesn't that job sound badass?"
+      ],
+      "login": [
+        "boss，今天天气不错，要出去兜风吗？",
+        null,
+        null
+      ],
+      "details": [
+        "明石说，这辆车送给我的代价是，我也要帮她“推销”。所以，boss你要不要也买一辆？",
+        "この子を用意してくれた「対価」は「販促」らしい、と明石から聞いたが。ボスも一台、どうだ？",
+        "Akashi said she'd give me this bike in exchange for some \"marketing.\" Sooo... Boss, what do you think? Wanna buy one?"
+      ],
+      "secretaryIdle1": [
+        "这家伙虽然马力比之前那一辆要足，但是续航稍微弱了一些，也是一辆好车",
+        "この子は「じゃじゃ馬」だ。そう簡単に乗りこなせるものではない",
+        "This baby's got more horsepower than the other one, even if it's less reliable. She's still a good bike."
+      ],
+      "secretaryIdle2": [
+        "你问另一辆去哪儿了？呃，之前和我的宿敌谢菲比赛，然后，我不小心输了……“冈格尼尔”，等我，我一定会把你赢回来的！",
+        "髪が危ない、か。ツーリングは安全遵守が肝心だ、この「ヘルメット」はしっかりつけさせてもらうぞ",
+        "Worried about your hair? Well, safety's the most important thing on the road, so you'd better hang on to this helmet."
+      ],
+      "secretaryIdle3": [
+        "boss，你想知道摩托的知识吗？我知道你肯定想知道的，那么我们就先从引擎开始吧，首先……",
+        "ボスは「乗り物」のことをもっと知りたいのか？ふん、そう来るとは思ったよ。では早速始めるぞ。まずは「エンジン」だが……",
+        "Boss, would you like to learn about motorcycles? I thought you might. Let's begin with starting the engine. First..."
+      ],
+      "secretaryTouch": [
+        "听啊，boss，这马达的轰鸣声，它在渴望着奔跑，那么，还等什么，上车吧，别忘了安全帽",
+        "このエンジンの轟き、この子が走りたがっている――ボス、乗ろう。…あっ、ヘルメットは忘れるんじゃないぞ",
+        "Do you hear it, boss? The rumbling of her engine? She thirsts for the open road. What are you waiting for? Hop on! But don't forget your helmet."
+      ],
+      "returnFromMission": [
+        "boss，这个时节的山上非常美丽，一起去看看吗",
+        "ボス、この季節の山景色は見ものだ。一緒に見に行かないか",
+        "Boss, the mountains are lovely this time of year. How about it?"
+      ],
+      "affinityLove": [
+        "我曾以为我是旅行者，我不是任何地方的故人，我也没有寻求的终点…现在，我发现我错了，boss，无论发生什么，我都会回到你的身边",
+        "「オレは旅人なんだ。ここは道半ばの場所だし、ここから出発しなければならない」――そう思っていた。今は違う。ボス、どんなことがあっても、オレはお前の側にいる",
+        "I once thought myself a traveler, with nothing to tie me down, with no real destination... Turns out I was wrong, Boss. I'll always come back to you, no matter what happens."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Jamaica_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Jamaica_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Jamaica_IntroSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Jamaica_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Jamaica_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Jamaica_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Jamaica_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Jamaica_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Jamaica_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Jamaica_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Jamaica_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Jamaica_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Jamaica_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Jamaica_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Jamaica_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Jamaica_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Jamaica_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Jamaica_Sec1Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Jamaica_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Jamaica_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Jamaica_MissionFinSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Jamaica_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Jamaica_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Jamaica_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

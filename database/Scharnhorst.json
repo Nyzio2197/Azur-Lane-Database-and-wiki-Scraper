@@ -1,0 +1,529 @@
+{
+  "name": "Scharnhorst",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Scharnhorst",
+  "ID": "248",
+  "faction": "Iron Blood",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "artist": "NS",
+  "pixiv": "https://www.pixiv.net/member.php?id=50177",
+  "link": "https://weibo.com/ntrsis",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ayaka_Fukuhara",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      7455,
+      157,
+      43,
+      366,
+      154,
+      38,
+      31,
+      248,
+      0,
+      13,
+      66,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6415,
+      137,
+      43,
+      326,
+      131,
+      22,
+      31,
+      216,
+      0,
+      13,
+      56,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1241,
+      58,
+      43,
+      69,
+      0,
+      9,
+      31,
+      46,
+      0,
+      4,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "150% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 70%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 28,
+  "maxLimitBreakTechPoints": 56,
+  "level120StatBonus": "Battlecruiser (BC) Evasion  +1",
+  "level120TechPoints": 42,
+  "enhancementValue": [
+    45,
+    3,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    10,
+    3,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Gains Torpedo Launch / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Sniper; CN: 狙击手 JP: 狙撃手",
+  "skill1Description": "Every 35 (15) seconds, fires a barrage at a random enemy with 100% critical hit chance (Damage depends on skill level, shell type changes from Normal to AP shells after reaching skill level 6).",
+  "skill2Name": "Torpedo Launch; CN: 鱼雷发射 JP: 魚雷発射",
+  "skill2Description": "Every 35 (20) seconds, fires 3 torpedoes towards the front (Damage depends on skill level).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/02/Scharnhorst.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png",
+      "shipDescription": [
+        "沙恩霍斯特级战列巡洋舰—沙恩霍斯特",
+        "シャルンホルスト級戦艦・シャルンホルスト",
+        "Scharnhorst-class battlecruiser, Scharnhorst."
+      ],
+      "selfIntroduction": [
+        "我是沙恩霍斯特，无论什么战役我都会坚持到最后一刻的，这是我的坚持，也是我的骄傲。战斗方面的事就尽管交给我吧！",
+        "私はシャルンホルスト、どんな戦闘でも最後の一瞬まで持ちこたえてみせる。これこそ私の拘りとプライドだ。 戦闘のことなら私に任せろ！",
+        "I’m Scharnhorst. I will stand until the last moment of any battle. This is my determination, as well as my pride. Leave all the fighting to me!"
+      ],
+      "acquisition": [
+        "在我沙恩霍斯特的字典里，没有逃跑二字！你就是指挥官吗，让我看看你的本事吧",
+        "このシャルンホルストの辞書に逃げはない！お前が指揮官か？その力、見せてもらうわ！",
+        "In Scharnhorst's dictionary, the word \"retreat\" simply doesn't exist! You're the Commander? Let me see what you've got."
+      ],
+      "login": [
+        "你回来了？让一下，我正在试射",
+        "今戻った？ちょうどいい、今試し撃ちしているところだ",
+        "You're back? Good timing. I'm just about to test my guns."
+      ],
+      "details": [
+        "没有受过伤的人，才会讥笑别人的伤痕！",
+        "人の傷痕をあざ笑うのは傷を負ったことのない人間だけよ",
+        "Only those who have not been scarred would laugh at someone else's."
+      ],
+      "secretaryIdle1": [
+        "我可不会承认航母那些轻飘飘的家伙有和我们一样甚至比我们高的战斗力！",
+        "空母のようなふわっとするやつらが私と同等以上の戦闘力を持っているなど、私は認めないわ！",
+        "Those lightweight aircraft carriers simply can't match our combat abilities!"
+      ],
+      "secretaryIdle2": [
+        "麻烦你告诉一下同僚们，尽量不要在我面前用29节航行，我会忍不住轰她们的……",
+        "私の前を29ノットで航行しないよう、同僚たちに伝えてくれ。思わず撃ってしまうからな……",
+        "Do me a favor and remind our friends not to sail directly in front of me... I might not be able to resist firing at them..."
+      ],
+      "secretaryIdle3": [
+        "“丑陋的姐妹”？哼，真是个好名字，就像战争本身一样……",
+        "「醜い姉妹」？ふん、いい名前だな、戦争そのものと同じよ……",
+        "\"The Ugly Sisters\"? Hmph, it's not a bad name... Sounds like a good name for this war, too..."
+      ],
+      "secretaryTouch": [
+        "我决不后退！",
+        "私は引かない！",
+        "I'll never back down!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，站好，能吃下这一炮，我就饶过你……",
+        "そこから動くなよ指揮官、この一発耐えたら許してあげよう……",
+        "Stand right there, Commander. If you can take a shot from me, I'll forgive you..."
+      ],
+      "task": [
+        "任务？这种东西就一鼓作气解决掉吧",
+        "任務？んなもの一気にやっちゃえってんだ！",
+        "Missions? Let's take care of them in one fell swoop."
+      ],
+      "taskComplete": [
+        "奖励来了？哼哼，这种时候果然是最开心的",
+        "報酬？ふふん、こういう時が一番うれしいものだ",
+        "Rewards? Hah, now that's what I'm looking forward to."
+      ],
+      "mail": [
+        "有你的信，你还挺受欢迎嘛",
+        "お前宛だ。人気者だな",
+        "You've got mail, Commander. You're quite the popular one, aren't you?"
+      ],
+      "returnFromMission": [
+        "感觉不错啊，你也越来越习惯战斗了",
+        "いい感じじゃない。お前も戦闘に慣れてきたわね",
+        "Not bad at all. Seems like you're getting used to battle."
+      ],
+      "commission": [
+        "有军事委托完成了！真是的，这种事交给我和妹妹不就好了……",
+        "軍事委託が完了された！ったく、こんなことは私と妹に任せればいいものを…",
+        "A commission has been completed. Seriously, you ought to let me and my little sister handle this stuff."
+      ],
+      "strengthening": [
+        "真期待下一场战斗啊！",
+        "次の戦闘に期待だな！",
+        "I'm looking forward to the next battle!"
+      ],
+      "startingMission": [
+        "让我们碾过敌人的残骸吧！",
+        "敵の残骸を引き砕いていけ！",
+        "Let us trample the shattered remnants of our enemies!"
+      ],
+      "mvp": [
+        "如果说有什么值得我信任，那就是自己的炮管！",
+        "信頼できるものがあるとすれば、それが私の砲塔たちよ！",
+        "If there's anything worthy of my trust, it's my cannon!"
+      ],
+      "defeat": [
+        "下次我可不会输！",
+        "次は負けない！",
+        "I won't lose next time!"
+      ],
+      "skillActivation": [
+        "安东，布鲁诺，凯萨，全炮门就绪！",
+        "アントーン、ブルーノ、ツェーザル、全門発射用意！",
+        "Anton, Bruno, Caesar... Cannons at the ready!"
+      ],
+      "lowHP": [
+        "我们决心战到最后一弹！",
+        "最後の一瞬まで戦い抜いてみせる！",
+        "I shall fight until the last bullet!"
+      ],
+      "affinityDisappointed": [
+        "缺乏勇气的人没有站上战场的资格!",
+        "勇気のない人間に戦場に立つ資格はないぞ",
+        "Cowards have no right to stand on the battlefield!"
+      ],
+      "affinityStranger": [
+        "如果只需要想着如何变得更强，怎么打败更多的敌人，不需要关心别的事情该多好啊。不过现实却没有这么简单啊……",
+        "いつもどんどん強くなって、敵をやっつけることだけを考えていればいいものの、現実はそううまく行かないものよ……",
+        "If only I didn't need to care about anything other than becoming stronger or defeating more enemies. But, reality isn't so simple..."
+      ],
+      "affinityFriendly": [
+        "你的舰队真是个不错的地方……在这里的话，也许我可以努力一下",
+        "お前の艦隊はいいところだ……ここなら、頑張れる気がする",
+        "You've got a pretty nice fleet here. Being here makes me feel like giving it my all."
+      ],
+      "affinityLike": [
+        "呀~指挥官，刚刚去和姐妹们演练了一下，嘿嘿，大家都很有活力啊，只有指挥官值得依靠她们才会这样，我越来越喜欢这里了！",
+        "おや？指揮官！みんなと演習してきたが…ふふ、みんな元気いっぱいだったわ。指揮官が頼りになるからこそこうなるものだ。ここはますます気に入った！",
+        "Hey there, Commander! I just went to train with the other girls. Everyone is full of energy, all thanks to how reliable you are. I'm really taking a liking to this place."
+      ],
+      "affinityLove": [
+        "绝不后退并不是因为真的无所畏惧，而是因为有不能退的理由……过去是为了铁血，现在的话，是为了指挥官……为了指挥官的舰队！",
+        "引かないのは何も畏れないのではなく、引けない理由があるのだ……過去は鉄血のため、そして今は指揮官……指揮官の艦隊のためだ！",
+        "I've never retreated - not because I'm fearless, but because I've always had a reason to keep fighting. In the past, it was for the Iron Blood. Now, it's for your sake, Commander... I mean, your fleet's sake!"
+      ],
+      "pledge": [
+        "放心吧，为了舰队和指挥官，我会好好保护自己，不会再那么莽撞了。当然，战斗还是放心交给我就好了！",
+        "安心しろ、艦隊と指揮官のために、もう昔のように猪突猛進はしないのさ。もちろん、戦闘は変わらず私にまかせてちょうだい",
+        "Don't worry. For the fleet, and for you, Commander, I'll learn to protect myself and be less reckless than before. But, as always, please continue counting on me for combat!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "チョコで気持ちを伝える…か。一風変わった風習だが、理解できなくはない。というわけで、私も作ってみた。まあ期待せずに受け取ってくれ。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "だから期待しないでって言ったじゃない…どうしてもほしいというのなら毎年作ってもいいけど、美味しくなることを期待しないでくれよ？",
+        "Expressing your feelings with chocolate, huh... Though it's a strange custom, I can understand the sentiment behind it. In any case, I made some for you. No need to be shy."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here, because I told you last year that I wouldn't mind making you some every year. Even though I was prepared... don't expect anything from the taste. That said, making chocolates is... something completely out of my control..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Scharnhorst_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Scharnhorst_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Scharnhorst_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Scharnhorst_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Scharnhorst_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Scharnhorst_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Scharnhorst_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Scharnhorst_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Scharnhorst_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Scharnhorst_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Scharnhorst_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Scharnhorst_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Scharnhorst_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Scharnhorst_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Scharnhorst_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Scharnhorst_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Scharnhorst_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Scharnhorst_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Scharnhorst_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Scharnhorst_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Scharnhorst_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Scharnhorst_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Scharnhorst_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Scharnhorst_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Scharnhorst_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Scharnhorst_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Scharnhorst_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Scharnhorst_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Scharnhorst_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Scharnhorst_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Scharnhorst_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Scharnhorst_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Scharnhorst_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Scharnhorst_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Scharnhorst_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Scharnhorst_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Scharnhorst_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Scharnhorst_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Scharnhorst_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Scharnhorst_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Scharnhorst_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Scharnhorst_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Scharnhorst_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Scharnhorst_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Scharnhorst_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Scharnhorst_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Scharnhorst_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Scharnhorst_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Scharnhorst_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Scharnhorst_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Scharnhorst_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Scharnhorst_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Scharnhorst_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Scharnhorst_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Scharnhorst_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Scharnhorst_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Scharnhorst_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Scharnhorst_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Scharnhorst_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Scharnhorst_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Scharnhorst_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Scharnhorst_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Scharnhorst_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Scharnhorst_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Scharnhorst_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Scharnhorst_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Scharnhorst_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Scharnhorst_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Scharnhorst_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Scharnhorst_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Scharnhorst_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Scharnhorst_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Scharnhorst_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Scharnhorst_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Scharnhorst_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Scharnhorst_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Scharnhorst_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Scharnhorst_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Panther und Pflaume",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "雪豹与白梅",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "パンツァープフラオメ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/54/ScharnhorstSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/04/ScharnhorstSpringChibi.png",
+      "shipDescription": [
+        "节日么……比起战斗来说有些无趣啊，懒懒散散过日子可不是我的风格。指挥官，你说的这个春节有没有什么能让我兴奋起来的节目？",
+        "祝日か。……戦わずに過ごす日は少し退屈だな、私らしくもない。なあ指揮官、この「春節」とやらに、私に少しはやる気を出させるような行事はないのか？",
+        "A festival, huh? Going for days without fighting is boring, not to mention not my style. C'mon, Commander, isn't there *something* exciting I can do during this \"Lunar New Year\" festival?"
+      ],
+      "acquisition": [
+        "节日么……比起战斗来说有些无趣啊，懒懒散散过日子可不是我的风格。指挥官，你说的这个春节有没有什么能让我兴奋起来的节目？",
+        null,
+        null
+      ],
+      "login": [
+        "哈啊——人坐久了，是真的会提不起劲的啊……",
+        null,
+        null
+      ],
+      "details": [
+        "格奈森瑙硬把这身旗袍塞给我，还说“姐姐应该考虑点战斗之外的事情”。我好像也没有拒绝她的理由，所以——我就变成了你现在看到的这个样子。",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "爆竹？与其摆弄那玩具一样的东西，为什么不直接来几轮舰炮齐射呢？那样有气势多了。",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "我很喜欢这孩子的眼神，充满力量。哼哼，它其实很乖的，只要你不去招惹的话",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "皇家女仆队也参与了春节宴会的烹饪么。哼，女仆长大人还真是厉害啊。",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "只是雪仗的话就不必叫上我了。",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "吼？看来指挥官很想跟这孩子亲近亲近啊…？",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "看来即使是在节日，指挥官也是个大忙人呢。",
+        null,
+        null
+      ],
+      "startingMission": [
+        "我正愁有些闷呢，就拿你们来解解乏吧！",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "有时候我想，自己除了勇往直前之外还有什么能做到的时候，心中不免多少有些迷惘……不过，在你身边的话，总有一天会找到答案的吧，我有这种感觉。",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

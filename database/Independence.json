@@ -1,0 +1,605 @@
+{
+  "name": "Independence",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Independence",
+  "ID": "377",
+  "faction": "Eagle Union",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "artist": "ATDAN",
+  "pixiv": "https://www.pixiv.net/member.php?id=6662895",
+  "twitter": "https://twitter.com/Atdan86",
+  "link": "http://www.weibo.com/atdan",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/4/46/Independence_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4796,
+      182,
+      78,
+      0,
+      0,
+      83,
+      31,
+      268,
+      310,
+      11,
+      89,
+      109,
+      0,
+      0
+    ],
+    "Level 100": [
+      4135,
+      158,
+      78,
+      0,
+      0,
+      54,
+      31,
+      234,
+      273,
+      11,
+      75,
+      95,
+      0,
+      0
+    ],
+    "Base Stats": [
+      800,
+      67,
+      78,
+      0,
+      0,
+      21,
+      31,
+      50,
+      58,
+      3,
+      29,
+      26,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "115% → 130%",
+  "slot2Equipment": "Torpedo Bombers",
+  "slot2Efficiency": "130% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 80%",
+  "collectionStatBonus": "Light aircraft carrier (CVL) Anti-submarine warfare  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Reload  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    0,
+    0,
+    38,
+    13
+  ],
+  "retireValue": [
+    0,
+    7,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Fighters +1 / Fighter Efficiency +5%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +1 / Fighter Efficiency +10%",
+  "limitBreak3": "Number of All Planes +1 / Torpedo Bombers Efficiency +15%",
+  "skill1Name": "Eagle Sky; CN: 鹰击长空 JP: 大空を撃つ白鷹",
+  "skill1Description": "Eagle Union airplanes in use gain 5% (15%) additional Efficiency.",
+  "skill2Name": "Knight of the Sky; CN: 天之骑士 JP: 大空の騎士団",
+  "skill2Description": "When launching an airstrike: launches an additional Lv.1 (Lv.10) squadron. If sortied with any : increases their Firepower by 3.5% (8.0%), increases own Air Power and Accuracy by 5% (15%), and enhances TBF Avenger squadron barrage pattern.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/49/Independence.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/69/IndependenceChibi.png",
+      "shipDescription": [
+        "独立级航空母舰-独立，舷号CVL-22",
+        "インディペンデンス級航空母艦・インディペンデンス（CVL-22)",
+        "Independence-class light aircraft carrier – Independence, Hull Number CVL-22."
+      ],
+      "selfIntroduction": [
+        "原本我要作为克利夫兰级轻巡洋舰五号舰被建造，但因急切的航母需求而被改建为轻型航母。不过，我也得到了新的力量，得以在日后的战场中驰骋，与大家齐心协力拿下胜利。",
+        "クリーブランド級の五番艦として建造されていた私は、空母の必要性が急遽高まった状況により軽空母として改装された。こうして新しい力を得られたおかげで、後の戦闘で活躍でき、そして皆と一緒に勝利を勝ち取ったのだ",
+        "I was initially to be the fifth Cleveland-class cruiser, but got remodeled into a light aircraft carrier due to the skyrocketing need for additional carriers. Thanks to the new capabilities this gave me, I flourished in battle and achieved victory together with my allies."
+      ],
+      "acquisition": [
+        "轻型航空母舰独立号向您报道。请不要在意我轻型航母的身份，放心大胆的把任务交给我吧。",
+        "軽空母インディペンデンスだ。…軽空母、というカテゴリーには気にせず、任務をどんどん与えてくれ",
+        "I'm Independence, light carrier. Don't worry about that \"light\" part, and just hand those missions over to me."
+      ],
+      "login": [
+        "指挥官，今天的训练和常规任务进展的都很顺利，请您放心。",
+        "指揮官、今日の訓練と通常任務も滞りなく遂行されている。ご安心を",
+        "Today's training and routine missions are progressing smoothly, Commander. You can rest easy."
+      ],
+      "details": [
+        "如果有必要的话，我可以在夜间行动。",
+        "必要なら、夜の作戦も対応可能だ",
+        "I'm prepared to battle at nighttime, if necessary."
+      ],
+      "secretaryIdle1": [
+        "克利夫兰……我是应该叫她姐姐吗？还是怎么称呼好……",
+        "クリーブランド……姉貴って呼べばいいのか？それとも……",
+        "Should I call Cleveland... \"Cleve\"? Or do I keep it simple?"
+      ],
+      "secretaryIdle2": [
+        "我会将你交给我的任务当作最优先事项处理的，指挥官",
+        "任せていただいたタスクのプライオリティを最高レベルにさせてもらう。指揮官",
+        "I will take on that task you assigned me with the highest priority, Commander."
+      ],
+      "secretaryIdle3": [
+        "我不太擅长揣测别人的想法……所以无论什么事还希望指挥官能直接告知我。",
+        "心の探り合いはどうも苦手のようだ……つまるところは指揮官、何事も顔を向けて直接教えてくれ",
+        "I'm apparently terrible at reading between the lines... So please, Commander: whenever you have something to say, tell it to me straight."
+      ],
+      "secretaryTouch": [
+        "在叫我吗？有什么事？",
+        "私？何か用か？",
+        "Yes? Do you need something?"
+      ],
+      "secretarySpecialTouch": [
+        "去海军部解释一下吧，就现在。",
+        "海軍部に出頭して説明を願おうか。……今すぐにだ",
+        "Go to the Admiralty and explain yourself. Right now."
+      ],
+      "task": [
+        "有新的作战任务了，早点完成吧。",
+        "新しい作戦任務だ。早くこなそう",
+        "A new mission has come in. Let's get it done ASAP."
+      ],
+      "taskComplete": [
+        "即使任务完成了，也不能懈怠。",
+        "任務が完了しても気を緩めてはいけない",
+        "We've got to stay diligent even after all our missions are complete."
+      ],
+      "mail": [
+        "邮件我放在桌上了，请及时过目。",
+        "メールはこっちだ。確認を",
+        "I've brought your mail. Give it a read."
+      ],
+      "returnFromMission": [
+        "来制定一下接下来的作战计划如何？",
+        "次の作戦計画でも準備するか？",
+        "Should we draft a plan for the next operation?"
+      ],
+      "commission": [
+        "委托物资……已经到了，不需要我运过来了呢。",
+        "委託の物資……届いてるね。運ぶ手間が省けた",
+        "The goods from that commission have arrived. Saves us time having to carry it by hand."
+      ],
+      "strengthening": [
+        "马上准备一下实战演练如何？",
+        "すぐ実戦演習の準備でもしないか？",
+        "How about we set up a naval exercise right away?"
+      ],
+      "startingMission": [
+        "集中注意，保持警惕！",
+        "集中せよ、警戒を緩めるな！",
+        "Stay focused and be on your guard!"
+      ],
+      "mvp": [
+        "可别小看了轻型航母的威力。",
+        "軽空母の力を侮るな",
+        "Never underestimate a CVL's capabilities."
+      ],
+      "defeat": [
+        "撤退也是战斗的一环……",
+        "撤退も作戦のうち……",
+        "Retreating is a legitimate tactic..."
+      ],
+      "skillActivation": [
+        "我盯上你们了。",
+        "狙い定めた！",
+        "Target locked!"
+      ],
+      "lowHP": [
+        "我们还有多少胜算？",
+        "勝算は…あとどれぐらいあるのだ？！",
+        "How many... How many chances at victory do we have left?"
+      ],
+      "affinityDisappointed": [
+        "我就直接问了，你到底在打算什么？",
+        "単刀直入に聞かせてもらう。何をやってるんだ？",
+        "Allow me to be blunt: what the hell is wrong with you?"
+      ],
+      "affinityStranger": [
+        "你想了解一下航母的夜间战斗？嗯，那下次夜间演习的时候我会告知指挥官你的。",
+        "空母の夜間戦闘が気になるか？わかった。次の夜間戦闘演習は知らせよう",
+        "You're curious how nighttime carrier battles look? Got it. I'll inform you next time there's one on the exercise schedule."
+      ],
+      "affinityFriendly": [
+        "轻型航母或许没有办法在战斗力上超越正规航母……不过只要您能认可我的实力，那便足够了。",
+        "軽空母は戦力的に正規空母に及ばないかもしれないが……私の実力を認めてくれたら、それで十分だ",
+        "A CVL might never rival an ordinary CV in terms of sheer power, but... I just want you to recognize what I'm capable of."
+      ],
+      "affinityLike": [
+        "指挥官对我有什么建议想说的吗？无论是战斗还是别的方面都可以的。为什么？我想了解一下自己在指挥官心中的形象是怎么样的。",
+        "私に言いたいことはないか？戦闘でも、ほかのことでも、なんでも。…急にどうしたって？ああ、指揮官の心の中での私は一体どういう存在か知りたいんだ",
+        "Isn't there something you want to tell me? Be it combat-related, or anything else. Why do I ask? Because I want to know what sort of place I have in your heart."
+      ],
+      "affinityLove": [
+        "“有些事情无需言语表达”？我不太能理解。不说出来的话，不就什么都不知道了吗？就像我很喜欢指挥官，不说出来的话，指挥官也不知道的吧？",
+        "「言葉では表せないこともある」…か？理解しかねる。言わなければ、相手がわからないんじゃないか？例えば、私が指揮官のことが大好きだということは言葉にしないと、指揮官はどうやってそれを察せるというのだ？",
+        "\"There are some things you can't express through words\"...? I don't follow. If you don't tell people how you feel, how would they know? For instance, how would you be able to guess that I love you if I didn't say it directly?"
+      ],
+      "pledge": [
+        "在命运的十字路口，我遇见了指挥官，找到了自己的归宿……很奇怪的比喻吗？就，就是有种这样的感觉而已。我，我也想不出什么更好的说法了……总之，以后多多指教了！",
+        "運命の分かれ道で指揮官と出会ったおかげで、自分の帰るべき場所を見つけた……変な例え…か？え、ええと、つまりそういうところだ。私もいい言葉が見つからない……とにかく、これからはよろしく頼むっ！",
+        "It's thanks to our fateful encounter at the crossroads of life that I found the place where I belong... Was that... a weird way to put it? Umm, well, you know what I mean. I just can't find the right words... In any case, I'm happy to be together with you!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Cleveland) 克利夫兰……姐姐？",
+        "(Sortie with Cleveland) クリーブランド……姉貴？",
+        "(Sortie with Cleveland) Cleveland... Or should I say \"Cleve\"?"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Enterprise, Saratoga) 夜战航母编队，再次集结！",
+        "(Sortie with Enterprise, Saratoga) 夜間戦闘空母隊、アセンブル！",
+        "(Sortie with Enterprise, Saratoga) Night Carrier Division, assemble!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 2 of: Essex, Massachusetts, South Dakota, Washington) 特混38编队，出发！",
+        "(Sortie with at least 2 of: Essex, Massachusetts, South Dakota, Washington) タスクフォース38、オペレーショナル！",
+        "(Sortie with at least 2 of: Essex, Massachusetts, South Dakota, Washington) Task Force 38 is operational!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Independence_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Independence_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Independence_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Independence_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Independence_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Independence_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Independence_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Independence_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Independence_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Independence_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Independence_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Independence_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Independence_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Independence_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Independence_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Independence_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Independence_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Independence_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Independence_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Independence_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Independence_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Independence_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Independence_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Independence_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Independence_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Independence_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Independence_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Independence_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Independence_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Independence_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Independence_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Independence_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Independence_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Independence_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Independence_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Independence_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Independence_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Independence_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Independence_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Independence_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Independence_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Independence_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Independence_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Independence_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Independence_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Independence_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Independence_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Independence_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Independence_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Independence_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Independence_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Independence_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Independence_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Independence_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Independence_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Independence_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Independence_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Independence_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Independence_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Independence_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Independence_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Independence_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Independence_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Independence_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Independence_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Independence_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Independence_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Independence_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Independence_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Independence_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Independence_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Independence_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Independence_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Independence_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Independence_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Independence_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Independence_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Independence_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Independence_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Independence_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Independence_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Independence_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Independence_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Independence_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Independence_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Independence_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Independence_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Transfer Student From Afar",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "远道而来的转校生",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "此方の学園へ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e5/IndependenceSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f9/IndependenceSchoolChibi.png",
+      "shipDescription": [
+        "这里就是新的学校吗？呼…在报到之前，先把行李放好吧——",
+        "ここが学園…か。ふぅ…先生に報告する前に、まずは荷物を――",
+        "So this is my new school, huh? Hmm... gotta put my stuff down first before checking in with the teacher."
+      ],
+      "acquisition": [
+        "这里就是新的学校吗？呼…在报到之前，先把行李放好吧——",
+        "ここが学園…か。ふぅ…先生に報告する前に、まずは荷物を――",
+        "So this is my new school, huh? Hmm... gotta put my stuff down first before checking in with the teacher."
+      ],
+      "login": [
+        "住在学院宿舍的话，就不用担心会迟到了呢",
+        "寮暮らしなら遅刻する心配はないな",
+        "Living in a dorm means I don't have to worry about being late for school."
+      ],
+      "details": [
+        "唔…宠物的话…放在宿舍里应该，没问题吧？",
+        "うん…ペットなら…寮に置いても大丈夫…か？",
+        "Yeah, it should be fine to leave my pet in the dorm... I think?"
+      ],
+      "secretaryIdle1": [
+        "社团活动…？我的话…嗯…还是算了吧……",
+        "サークル？私は…ふむ…やっぱりいい",
+        "Join a club? Maybe I should... Hmm... Actually, I'm good."
+      ],
+      "secretaryIdle2": [
+        "无论学习还是任务，都是一刻都不能松懈的呢",
+        "勉強も任務も、一刻たりとも気を緩めん",
+        "Both studies and missions require your full, undivided attention."
+      ],
+      "secretaryIdle3": [
+        "呼…领口这边感觉有点紧呢…嗯？指挥官，怎么了吗？",
+        "はぁ…襟が少しキツイな…指揮官？どうした？",
+        "Ugh... This collar is too tight... Why are you staring, Commander?"
+      ],
+      "secretaryTouch": [
+        "指挥官也有弄不明白的地方吗？让我看看……",
+        "指揮官にもわからないところがあるのか？ちょっと見せて……",
+        "Do you not get what this paragraph means? Let me have a look."
+      ],
+      "secretarySpecialTouch": [
+        "…指挥官就到了职员室再解释吧",
+        "…説明は職員室でしてもらおうか",
+        "...Go to the staff room and explain yourself."
+      ],
+      "returnFromMission": [
+        "我看看，下一节课是——",
+        "どれ、次の授業は……",
+        "Now, what's our next subject?"
+      ],
+      "mvp": [
+        "学以致用，才能克敌取胜！",
+        "学んだことを生かして勝つ。それだけだ！",
+        "I won by making use of the things I learned. That's all there's to it!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Independence_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Independence_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Independence_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Independence_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Independence_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Independence_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Independence_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Independence_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Independence_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Independence_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Independence_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Independence_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Independence_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Independence_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Independence_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Independence_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Independence_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Independence_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Independence_MissionFinSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Independence_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Independence_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Independence_MVPSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Independent Line",
+      "ENClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/92/IndependenceParty.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/IndependencePartyWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/75/IndependencePartyChibi.png",
+      "shipDescription": [
+        null,
+        null,
+        "Hmm... Isn't this one a bit too garish? Mm... What if we pair it with a necklace or some sort of purse? ...Commander, your thoughts? C'mon, don't just stare at me, give me something to work with here..."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

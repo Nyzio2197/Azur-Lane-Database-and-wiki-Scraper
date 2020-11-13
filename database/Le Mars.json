@@ -1,0 +1,960 @@
+{
+  "name": "Le Mars",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "L'Adroit",
+  "ID": "351",
+  "faction": "Vichya Dominion",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "夜ノみつき",
+  "pixiv": "https://www.pixiv.net/member.php?id=44234",
+  "twitter": "https://twitter.com/mituk1",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/67/Le_Mars_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1376,
+      193,
+      24,
+      69,
+      409,
+      200,
+      39,
+      138,
+      0,
+      8,
+      186,
+      187,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1436,
+      193,
+      24,
+      89,
+      439,
+      200,
+      42,
+      183,
+      0,
+      8,
+      186,
+      202,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1207,
+      168,
+      24,
+      80,
+      398,
+      193,
+      42,
+      165,
+      0,
+      8,
+      177,
+      183,
+      0,
+      0
+    ],
+    "Level 100": [
+      1147,
+      168,
+      24,
+      60,
+      368,
+      193,
+      39,
+      120,
+      0,
+      8,
+      177,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      222,
+      71,
+      24,
+      13,
+      78,
+      74,
+      39,
+      26,
+      0,
+      2,
+      68,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 115% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 140% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 80%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 18,
+  "level120StatBonus": "Destroyer (DD) Evasion  +1",
+  "level120TechPoints": 14,
+  "enhancementValue": [
+    4,
+    26,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Chevalier's Sabre; CN: 骑士之剑 JP: シュヴァリエサーベル",
+  "skill1Description": "If Escort fleet consists of only Iris Libre (FFNF) and Vichya Dominion (MNF) ships, every 20 seconds: 50% chance to increase entire fleet's damage by 5% (25%) for 8 seconds. Does not stack with the same skill.",
+  "skill2Name": "(Retrofit) Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill2Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ラドロア級",
+  "skill3Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - L'Adroit Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/Le_Mars.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8e/Le_MarsChibi.png",
+      "shipDescription": [
+        "维希教廷机敏级驱逐舰—勒马尔",
+        "ラドロア級駆逐艦ル・マルス",
+        "L'Adroit-class destroyer – Le Mars."
+      ],
+      "selfIntroduction": [
+        "我是机敏级的驱逐舰，同时也是维希教廷的见习骑士，勒马尔。一直在为维希教廷服务，最后为了不让铁血得逞而被白鹰在港口击沉…",
+        "あの時はみんなの役には立てなかったけど、指揮官、今度の私の活躍、期待してくださいね！",
+        "Back then, I wasn't able to fulfill my duties, but... Commander, this time, I'll show you what I'm capable of!"
+      ],
+      "acquisition": [
+        "嗯？你是……啊，对了，是指挥官！我是机敏级驱逐舰勒马尔，以后请多多指教啦！",
+        "え？そちらは……ああ、そうでした！指揮官ですね！私はラドロア級駆逐艦のル・マルス！これからよろしくです！",
+        "Eh? Who are you... Ah! Right, you're the Commander! I'm the L'Adroit-class destroyer, Le Mars! A pleasure meetin' you!"
+      ],
+      "login": [
+        "指挥官，你终于来啦，今天我的训练任务是什么？",
+        "指揮官、ようやく来ました！で、今日の訓練任務は何ですか？",
+        "Commander, you finally made it! What's on the training regimen today?"
+      ],
+      "details": [
+        "其实我挺羡慕福尔班的，虽然她当时也无法行动，至少比我要好…",
+        "実はフォルバンのことをちょっぴり羨ましく思っています。あのときは向こうも同じく動けなかったけど、私よりは……",
+        "To be honest, I'm a little jealous of Forbin. Back then, we both weren't able to move, but she made more of the situation than me..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，我来教你一些可以坐着舒活筋骨的动作吧~",
+        "指揮官、ストレッチのやり方を教えましょうか",
+        "Commander, I'll teach you some stretches for those long days!"
+      ],
+      "secretaryIdle2": [
+        "当指挥官可真不容易啊，要看这个还要安排那个的，换了我肯定一下就晕了……",
+        "指揮官は大変ですね…これもあれも見ないといけませんし…私ならすぐクラクラになりますよ……",
+        "Being a commander sure is tough, isn't it? Having to micromanage this and that... My head would start spinning..."
+      ],
+      "secretaryIdle3": [
+        "唔，学习好痛苦…书上的字明明每个都认识，组合起来就完全看不懂了呢",
+        "ベンキョウって難しいですね…単語が全部わかっていても、いざ組み合わせたら意味がわからなくなっちゃって…",
+        "Studying just isn't my strong suit... I obviously can read all these words, but they just don't make any sense to me when put together..."
+      ],
+      "secretaryTouch": [
+        "正好肩膀酸了呢……谢谢指挥官啦！",
+        "ちょうど肩が凝っていました……指揮官、ありがとうございます！",
+        "My shoulders were starting to get stiff too... Thanks a ton, Commander!"
+      ],
+      "secretarySpecialTouch": [
+        "这，这里也要按摩吗？感觉……有点奇怪啊……",
+        "こ、ここもマッサージするんですか？ちょっと……変な感じです……",
+        "Th-this place also needs a massage? Um... it feels a little strange..."
+      ],
+      "task": [
+        "还有任务呢。要跑腿的话，尽管和我说吧！",
+        "未だ任務がありますね。お使いは私に任せてください！",
+        "We're not done with the missions quite yet. Let me handle the errands!"
+      ],
+      "taskComplete": [
+        "任务完成！……嗯，还有奖励的吗？",
+        "任務完了！……あれ、報酬もあるんですか？",
+        "Mission complete! Huh...? I still have to tally the rewards?"
+      ],
+      "mail": [
+        "有信件！我已经拿过来啦，嘿嘿~",
+        "お手紙でーす！もう持ってきちゃいました、えへへ",
+        "Mail's here~! I already brought it all with me, ehehe~"
+      ],
+      "returnFromMission": [
+        "指挥官，不流点汗的话可是要变胖的！",
+        "指揮官、適度に汗をかかないと太くなりますよ",
+        "Commander, you've gotta sweat to burn off fat!"
+      ],
+      "commission": [
+        "大家回来了。我这就跑过去接她们，嘿~",
+        "皆戻ってきました！今から迎えにいきまーす！ほい！",
+        "Everyone's back! I'm gonna run down to greet them! Be right back!"
+      ],
+      "strengthening": [
+        "又变强了呢，谢谢指挥官~",
+        "まーた強くなりました！指揮官、ありがとうございます！",
+        "I grow stronger yet again! Thanks, Commander!"
+      ],
+      "startingMission": [
+        "准备活动完成！要上了！",
+        "準備運動完了！いきますよー！",
+        "Warm-up exercises are all done! I'm setting out~!"
+      ],
+      "mvp": [
+        "我是第一吗？太好了！嘿嘿~",
+        "私が一位…ですか？やったぁ！えへへ～",
+        "I'm in first place...? Très bien! Ehehe~!"
+      ],
+      "defeat": [
+        "糟了，快撤快撤！",
+        "しまった！撤退するよ！",
+        "Merdé! Time to retreat!"
+      ],
+      "skillActivation": [
+        "我要上咯~！",
+        "いっきまっすよー！",
+        "Time to do this~!"
+      ],
+      "lowHP": [
+        "唔，这点小伤，忍一忍就过去了！",
+        "これぐらいの傷、我慢すればなんとかなるはず！",
+        "It's just a flesh wound! I'll tough it out!"
+      ],
+      "affinityDisappointed": [
+        "啊，是指挥官！我、我还是自己去跑步锻炼吧！",
+        "わっ、指揮官……じ、自主練に行ってきます！",
+        "Woah, Commander... I, I think I'll be training solo today!"
+      ],
+      "affinityStranger": [
+        "都说一名优秀的骑士，不仅要有保护他人的力量，也要通过学习让自己拥有强大的内心……可是我翻书就犯困，怎么办呀",
+        "優秀な騎士は他人を守る力だけでなく、学習で得られる強き心も必要だと……はあ…私、本を開いたとたんに眠っちゃいますね…どうしよう……",
+        "To be an outstanding knight, it's not enough to just have the strength to protect others. You must also become wise through learning! But... I always start dozing off when I'm studying... *yawn*"
+      ],
+      "affinityFriendly": [
+        "指挥官愿意教我学习吗？哇！谢谢指挥官！我一定会……欸欸欸，要学这么多东西吗！我、我忽然肚子疼了！",
+        "ベンキョウをおしえてくださいますか？わあ！指揮官、ありがとうございます！私……って、えええ！？こんなにも読むんですか！？す、すみません！急にお腹が……",
+        "Commander, you'll help me study? Yay! Thank you so much! I'll be sure to... Huuhh? Wait, I have to memorize all this?! S-sorry, I have a stomachache!"
+      ],
+      "affinityLike": [
+        "好像有点明白了，又好像还是不明白……不过指挥官愿意教我这个笨蛋好开心呀，谢谢指挥官~",
+        "わかったような、わからなかったような……でもせっかく指揮官が無理してまで私に教えてくれたんだし……指揮官、ありがとうございます！",
+        "I think I'm starting to get it, but maybe not... But, I'm so glad that you're patient enough to teach a dummy like me. Thank you, Commander!"
+      ],
+      "affinityLove": [
+        "虽然书上的知识还是不太明白，不过有一件事我现在明白了，那就是，只要是有关指挥官的事，我就能发挥出200%的力量！",
+        "本に書いてあることはまだ良くわかりませんけど、一つだけわかったような気がします！それは――指揮官のことになると、私、力を2倍に発揮できるって！",
+        "Even though I still don't quite understand this stuff, there is one thing that's certain - when it comes to learning things about you, Commander, I function twice as well!"
+      ],
+      "pledge": [
+        "唔……这种场合应该怎么办才好来着，我完全不知道耶…那、那个，总、总而言之，未来也请，那个，请多多指教！",
+        "ええと……この場合は一体どうすればいいか全然わからないよぉ……あ、あの！とにかく！これからもよ、よろ、よろしくお願いします！",
+        "Um... I haven't learned what I'm supposed to do at a place like this yet... Ah, um! In any case, p-please continue to take good care of me in the future!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Forbin) 福尔班，我先上喽？",
+        "(Sortie with Forbin) フォルバン、私が先に行きますね",
+        "(Sortie with Forbin) Forbin, shall I take the lead?"
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，我不太会说什么很浪漫的话，不过，我也想让指挥官知道，我很在乎指挥官的哦？所以，给你巧克力~",
+        "指揮官、私ってあまり言葉にするのが上手くできないけど、でも指揮官のことが気になるのって知ってほしいんだ。だから…はい、チョコをあげるね。",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Sneak, sneak... Mn, I don't think I can do it after all... This isn't school, I can't just put chocolate inside the Commander's shoebox... Eh! Commander, since when?!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Le_Mars_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Le_Mars_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Le_Mars_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Le_Mars_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Le_Mars_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Le_Mars_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Le_Mars_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Le_Mars_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Le_Mars_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Le_Mars_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Le_Mars_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Le_Mars_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Le_Mars_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Le_Mars_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Le_Mars_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Le_Mars_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Le_Mars_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Le_Mars_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Le_Mars_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Le_Mars_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Le_Mars_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Le_Mars_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Le_Mars_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Le_Mars_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Le_Mars_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Le_Mars_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Le_Mars_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Le_Mars_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Le_Mars_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Le_Mars_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Le_Mars_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Le_Mars_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Le_Mars_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Le_Mars_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Le_Mars_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Le_Mars_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Le_Mars_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Le_Mars_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Le_Mars_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Le_Mars_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Le_Mars_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Le_Mars_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Le_Mars_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Le_Mars_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Le_Mars_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Le_Mars_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Le_Mars_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Le_Mars_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Le_Mars_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Le_Mars_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Le_Mars_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Le_Mars_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Le_Mars_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Le_Mars_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Le_Mars_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Le_Mars_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Le_Mars_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Le_Mars_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Le_Mars_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Le_Mars_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Le_Mars_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Le_Mars_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Le_Mars_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Le_Mars_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Le_Mars_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Le_Mars_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Le_Mars_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Le_Mars_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Le_Mars_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Le_Mars_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Le_Mars_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Le_Mars_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Le_Mars_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Le_Mars_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Le_Mars_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Le_Mars_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Le_Mars_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Le_Mars_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1e/Le_MarsKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/69/Le_MarsKaiChibi.png",
+      "shipDescription": [
+        "改·造·完·成！得到全新力量的勒马尔，前来报道~嘿嘿，指挥官，我是不是看起来更可靠了呢~？",
+        "改・造・完・了！新しい力を手に入れたル・マルス、参上しました～！えへへ、指揮官、私、前よりは頼りに見えるようになりました？",
+        "Retro~ fit~ com~ plete! The new and improved Le Mars is at your service~!"
+      ],
+      "acquisition": [
+        "改·造·完·成！得到全新力量的勒马尔，前来报道~嘿嘿，指挥官，我是不是看起来更可靠了呢~？",
+        "改・造・完・了！新しい力を手に入れたル・マルス、参上しました～！えへへ、指揮官、私、前よりは頼りになりました？",
+        "Retro~ fit~ com~ plete! The new and improved Le Mars is at your service~!"
+      ],
+      "login": [
+        "鱼雷和炮弹都准备就绪啦~指挥官，我随时可以出击哟~",
+        "魚雷も砲弾も準備万端！指揮官、いつでも出撃できますよ！",
+        "My torpedoes and cannons are locked and loaded! Commander, I'm ready to sortie at any time!"
+      ],
+      "details": [
+        "指挥官，又想来欣赏我全炮门雷舱全开的英姿了吗？嘿嘿，真是没办法呢~",
+        "指揮官はそんなに私の全砲門発射管全開の勇姿が見たいですか？えへへ、しょうがないですね～",
+        "Commander, are you that desperate to see my gallant form as I unload all my cannons and torpedo tubes? Ehehe, what am I going to do with you~"
+      ],
+      "secretaryIdle1": [
+        "嘿嘿，指挥官，这个姿势是不是很帅？我从动画里学来的哦",
+        "へへ～指揮官、この決めポーズ、かっこいいと思いませんか？アニメで学んだのですよ",
+        "Hehe! Commander, is this victory pose cool? I saw it in an anime!"
+      ],
+      "secretaryIdle2": [
+        "委托也好，出击也好，都尽管来吧~现在的我不会让指挥官失望的~",
+        "委託も出撃もどーんとこーい！今の私は指揮官に失望させたりなんてしませんから！",
+        "Commission or sortie, I'm ready to do anything! With how strong I am now, I won't let you down, Commander!"
+      ],
+      "secretaryIdle3": [
+        "有什么需要我做的吗？能帮指挥官再多分担点就好了呢~",
+        "私にできることはありますか？もう少し指揮官の負担を分担できたらいいなと思う次第でして～",
+        "Is there something that needs doing? I'll be happy to shoulder even a little bit of your burdens."
+      ],
+      "secretaryTouch": [
+        "嘿嘿，换我给指挥官按按肩膀怎么样？",
+        "へへ、今度は私が指揮官の肩をもんであげましょうか？",
+        "Hehe, how about I be the one to give you a shoulder massage this time?"
+      ],
+      "returnFromMission": [
+        "欢迎回来，指挥官！来准备下一次出击吧~？",
+        "指揮官、帰還お疲れ様でした！次の出撃へ向けて準備しましょうか？",
+        "Welcome back, Commander! Shall we plan our next sortie?"
+      ],
+      "mvp": [
+        "那么，摆个胜利的pose……欸，大家等等我嘛！",
+        "では、勝利の決めポーズ！……って、待ってくださあああい！",
+        "Now, for a victory pose! ...Hey! Wait for meeee!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Le_Mars_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Le_Mars_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Le_Mars_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Le_Mars_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Le_Mars_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Le_Mars_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Le_Mars_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Le_Mars_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Le_Mars_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Le_Mars_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Le_Mars_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Le_Mars_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Le_Mars_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Le_Mars_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Le_Mars_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Le_Mars_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Le_Mars_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Le_Mars_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Le_Mars_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Le_Mars_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Le_Mars_Sec1Skin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Le_Mars_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Le_Mars_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Le_Mars_MissionFinSkin9JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Le_Mars_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Le_Mars_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Le_Mars_MVPSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Été Brillant",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "闪耀的夏天",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "エテ・ブリリアント",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Iris of Light and Dark - 8000 Oil Usage Milestone reward",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/66/Le_MarsSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ab/Le_MarsSummerChibi.png",
+      "shipDescription": [
+        "夏天~夏天来了哟指挥官！一起来海边玩水吧~水枪大战我可是很强的哟~",
+        "サマ～！夏ですよ指揮官！海に行って水遊びをしましょう！水鉄砲は私、すごく強いよ！",
+        "It's summer~! Summer is here, Commander! Let's head down to the beach to play! I'll show you why I'm feared in water gun fights!"
+      ],
+      "acquisition": [
+        "夏天~夏天来了哟指挥官！一起来海边玩水吧~水枪大战我可是很强的哟~",
+        "サマ～！夏ですよ指揮官！海に行って水遊びをしましょう！水鉄砲は私、すごく強いよ！",
+        "It's summer~! Summer is here, Commander! Let's head down to the beach to play! I'll show you why I'm feared in water gun fights!"
+      ],
+      "login": [
+        "指挥官，难得的夏天，可不能那么没精神哦~一起享受阳光和沙滩吧~",
+        "指揮官、せっかくの夏なんですから、そんなに暗くなっちゃダメですよ！一緒に日差しと砂浜を楽しみましょ♪",
+        "Commander, summer is finally here, so why such a long face~? Let's enjoy some fun in the sun on the beach~♪"
+      ],
+      "details": [
+        "这个不只是游泳圈，还是水炮的“弹药舱”呢，嘿嘿，你想尝尝威力吗，指挥官？",
+        "これは、ただの浮き輪じゃなくて、水鉄砲の弾薬庫でもあるんですよ。えへへ、威力を見てみたいですかー？指揮官～",
+        "This is no simple inner tube, Commander. It also doubles as \"ammunition storage\" for my water gun! How 'bout it? Wanna taste my waterpower~?"
+      ],
+      "secretaryIdle1": [
+        "指挥官~要不要一起吃西瓜呀~？",
+        "指揮官～スイカでも一緒に食べませんかー？",
+        "Commander, wanna share a watermelon?"
+      ],
+      "secretaryIdle2": [
+        "就算是夏天，也不能整天窝在空调房里哟~一起出去外面玩吧~",
+        "夏だからと言って冷房部屋にこもってちゃダメですよ。外に出かけましょ♪",
+        "Just because it's hot doesn't mean you should stay cooped up underneath the air conditioner all day. Let's play outside~!"
+      ],
+      "secretaryIdle3": [
+        "指挥官也来把自己晒黑吧，这样我们就一样了呢，嘻嘻~",
+        "指揮官も焼いてみませんか？そしたら私とおそろい♪えへへ～",
+        "Commander, you should also get a tan! That way, we'll match~♪ Ehehe~!"
+      ],
+      "secretaryTouch": [
+        "防晒霜？那种东西不需要啦~",
+        "日焼け止めクリーム？いりませんよ～",
+        "Sunscreen? I don't need that~!"
+      ],
+      "secretarySpecialTouch": [
+        "这、这里也不需要防晒啦，指挥官…",
+        "指揮官？こ、ここはクリームを塗らなくてもいいんですよ………",
+        "C-Commander... that place doesn't need any sunscreen..."
+      ],
+      "returnFromMission": [
+        "嘿嘿，指挥官忙完了吗？那就准备出发吧~——去哪？当然是海边啦~",
+        "えへへ、指揮官、仕事の方はもう大丈夫ですか？じゃあ出発ですね！――どこって？海辺に決まってるじゃないですか～",
+        "Ehehe, Commander, are you done with work for the day? Let's get going then! ...Huh? Where to? The beach, of course!"
+      ],
+      "mvp": [
+        "要是因为我是轻装就大意的话，下场就是这样了呢~",
+        "軽装備と侮ったから、こうなったんですよ～",
+        "If you underestimate me just because I'm lightly equipped, I'll gladly teach you a lesson~!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Le_Mars_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Le_Mars_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Le_Mars_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Le_Mars_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Le_Mars_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Le_Mars_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Le_Mars_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Le_Mars_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Le_Mars_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Le_Mars_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Le_Mars_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Le_Mars_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Le_Mars_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Le_Mars_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Le_Mars_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Le_Mars_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Le_Mars_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Le_Mars_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Le_Mars_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Le_Mars_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Le_Mars_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Le_Mars_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Le_Mars_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Le_Mars_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Le_Mars_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Le_Mars_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Le_Mars_MissionFinSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Le_Mars_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Le_Mars_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Le_Mars_MVPSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Écolière Heureuse",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "闪耀的幸福学园",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "スコレア・ウルーズ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/bf/Le_MarsSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/71/Le_MarsSchoolChibi.png",
+      "shipDescription": [
+        "喂——看这边看这边！嘿嘿，能在学园里遇到指挥官真巧呢~指挥官这是要去哪里呀？",
+        "おーい！指揮官、こっちこっち！えへへ、まさか学園で会えるなんて～指揮官は今何をしていますか？",
+        "Hey! Over here! Hehe. I didn't expect to run into you at school, Commander. What are you doing here?"
+      ],
+      "acquisition": [
+        "喂——看这边看这边！嘿嘿，能在学园里遇到指挥官真巧呢~指挥官这是要去哪里呀？",
+        "おーい！指揮官、こっちこっち！えへへ、まさか学園で会えるなんて～指揮官は今何をしていますか？",
+        "Hey! Over here! Hehe. I didn't expect to run into you at school, Commander. What are you doing here?"
+      ],
+      "login": [
+        "今天的校园生活也要加油！",
+        "今日も学園生活、がんばりますよー！",
+        "I'll be bringing the heat at school today!"
+      ],
+      "details": [
+        "说到校园生活，那一定就是迎着阳光在操场上奔跑了，对吧！",
+        "学園生活と言えば、お日様に向かって運動場を走れー！ってことでしょう？",
+        "School life is all about running track under the warm sun, am I right!?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，多安排一些体育课嘛！那……那当然是因为运动很重要啦！",
+        "指揮官、体育の授業をもうちょっと増やしてもいいですよ？……う、運動も大事じゃありませんか！",
+        "Commander, you should get us some more phys ed classes! I mean... exercise is really important!"
+      ],
+      "secretaryIdle2": [
+        "休息的时候，听点音乐能让人心情更舒畅！指挥官，你要一起吗？",
+        "休み時間は音楽を聞くと気持ちも楽になりますね！指揮官も一緒にどうですか？",
+        "Listening to music is a real good way to calm your mind when you wanna relax! Let's listen together, Commander."
+      ],
+      "secretaryIdle3": [
+        "诶？福尔班又拿着学习资料来了吗？有，有没有地方能藏一下——",
+        "え！フォルバンまた参考書を持って私を探してるのですか！？ど、どこか隠れる場所を探さないと――！",
+        "Huh? Forbin's heading this way with a pile of notebooks? Um, is there a good hiding place around here—"
+      ],
+      "secretaryTouch": [
+        "再大的风我也不怕！",
+        "風が吹いても平気です！へへへ",
+        "The wind doesn't scare me!"
+      ],
+      "secretarySpecialTouch": [
+        "我现在不需要按摩啦……",
+        "マッサージなら大丈夫ですよー",
+        "I don't need a massage right now..."
+      ],
+      "returnFromMission": [
+        "不，不行了……课本上的东西完全看不进去……",
+        "む、ムリ……教科書の中身が頭に入らない……",
+        "Uh oh... I can't get anything in this book to stick in my head..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Le_Mars_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Le_Mars_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Le_Mars_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Le_Mars_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Le_Mars_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Le_Mars_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Le_Mars_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Le_Mars_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Le_Mars_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Le_Mars_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Le_Mars_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Le_Mars_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Le_Mars_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Le_Mars_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Le_Mars_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Le_Mars_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Le_Mars_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Le_Mars_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Le_Mars_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Le_Mars_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Le_Mars_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Le_Mars_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Le_Mars_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Le_Mars_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Le_Mars_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Le_Mars_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Le_Mars_MissionFinSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +60 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Torpedo Enhancement Ⅱ",
+      "attributes": "Torpedo +5 / Torpedo +15 ",
+      "materials": "2 / 2x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Firepower Enhancement Ⅱ",
+      "attributes": "Firepower +5 / Firepower +15 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Emergency Maneuvers\" ",
+      "materials": "4x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +30, Anti-submarine warfare +15 ",
+      "materials": "1x DestroyerT3BP and 1x Le Mars or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I,J"
+      ]
+    }
+  ]
+}

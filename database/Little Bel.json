@@ -1,0 +1,450 @@
+{
+  "name": "Little Bel",
+  "constructionTime": "01:20:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Town",
+  "ID": "335",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Yui_Horie",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3231,
+      185,
+      89,
+      159,
+      324,
+      96,
+      32,
+      282,
+      0,
+      10,
+      160,
+      147,
+      0,
+      0
+    ],
+    "Level 100": [
+      2885,
+      161,
+      89,
+      138,
+      286,
+      72,
+      32,
+      247,
+      0,
+      10,
+      143,
+      131,
+      0,
+      0
+    ],
+    "Base Stats": [
+      558,
+      68,
+      89,
+      29,
+      61,
+      28,
+      32,
+      53,
+      0,
+      3,
+      55,
+      36,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "120% → 140%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    12,
+    20,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Guns Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "The Perfect Mini-Maid; CN: 完美的娇小女仆 JP: カンペキなめいどちょー",
+  "skill1Description": "Increases own Speed by 3 (8) and increase own Evasion by 13% (25%).",
+  "skill2Name": "Ladies' Tea Time; CN: 淑女们的下午茶 JP: レディたちのお茶会",
+  "skill2Description": "After battle begins, recovers HP of entire fleet equal to 1% (3.5%) of Little Bel's max HP.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-エディンバラ級",
+  "skill3Description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Edinburgh I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/72/Little_Bel.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e4/Little_BelChibi.png",
+      "shipDescription": [
+        "爱丁堡级轻巡洋舰—贝尔法斯特，舷号C35",
+        "エディンバラ級軽巡洋艦・ベルファスト（HMS Belfast）",
+        "Edinburgh-class light cruiser – Belfast."
+      ],
+      "selfIntroduction": [
+        "我是在哈兰德与沃尔夫船厂长大的贝尔法斯特，是的，就是泰坦尼克的出生地。我现在是见习女仆，虽然有个姐姐，不过还没见过面呢，稍微有些遗憾……唔，就这样吧，那么轮到指挥官了，指挥官是个什么样的人呢？",
+        "ハーランド・アンド・ウルフ生まれのベルファストです。はい、あのタイタニックと同じ場所です。実はベルファスト、お姉ちゃんがいますよ？あまり世話をしたことはありませんでしたけど……ええと、以上です。ご主人様はどんな御方ですか？",
+        "I am Belfast, born in Harland and Wolff. Yes, the same place as the Titanic. I actually have an older sister. She hasn't taken care of me very much, however... Umm, that's all I was going to say. Master, what type of person are you?"
+      ],
+      "acquisition": [
+        "指…挥…官？唔，是船长一样的东西吗？不太明白……总而言之，好像要在这里待一段时间了，见习女仆贝尔法斯特，请多关照",
+        "ご主人様は指揮官…ええと、ここは陛下のお部屋ではないのですか？よくわかりませんけど……しばらくはここにいられますよね。私はメイドのベルファスト、よろしくお願いします",
+        "My Master is also a commander... Umm, so the commander is a captain of a ship? I don't quite understand, but... I will stay here for a while if you don't mind. I am Belfast, maid-in-training. It is a pleasure to serve you."
+      ],
+      "login": [
+        "指挥官，红茶可以吗？",
+        "ご主人様、紅茶はいかがですか？",
+        "Master, would you like some tea?"
+      ],
+      "details": [
+        "淑女要提裙行礼——欸，要双手？唔…失败了…",
+        "レディのカーテシーは両手で、こう……すみません、失敗しちゃいました……",
+        "To perform a curtsy, a lady puts her feet across each other like— Forgive me, I failed to do it..."
+      ],
+      "secretaryIdle1": [
+        "威士忌？咖啡？唔……只有红茶不行吗？",
+        "ウィスキーとコーヒーは……ええと、こ、紅茶じゃダメですか…？",
+        "You'd like whiskey and coffee... Umm, d-do you not drink tea...?"
+      ],
+      "secretaryIdle2": [
+        "指挥官，有什么能交给我做的吗？",
+        "ご主人様、ベルファストに任せるお仕事はありますか？",
+        "Master, is there anything you would like me to do?"
+      ],
+      "secretaryIdle3": [
+        "指挥官，身为长官，偷懒是不好的哦？",
+        "ご主人様、指揮官をサボってはめっ、ですよ？",
+        "Master, neglecting your commander duties is a big no-no!"
+      ],
+      "secretaryTouch": [
+        "指挥官，总是拜托别人可是会变成废人的哟，请偶尔也自己努力一下——唔…没办法，就这一次…",
+        "ご主人様、人に頼りすぎるとダメ人間になっちゃいますよ？たまには自分で――うぅ、仕方ありませんね。こ、今回だけですよ…？",
+        "Master, you'll end up a failure if you rely on others too often. Sometimes, you must— Mmh, you leave me no choice. I-I won't help you next time, okay...?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，我会去监狱里给你送饭的，请放心吧",
+        "ご主人様、安心してください。収監されても、ベルファストはお食事をお届けしますよ",
+        "Don't worry, Master. Even if you go to prison, I will still bring you your meals."
+      ],
+      "task": [
+        "指挥官，任务书堆积了那么多不会有事吗？",
+        "ご主人様、任務の書類をあんなに貯められて、大丈夫ですか？",
+        "Master, should you really let all these mission documents pile up...?"
+      ],
+      "taskComplete": [
+        "任务奖励？那么我帮指挥官做事也会有奖励吗？",
+        "任務の報奨ですね。ベルファストもご主人様にご奉仕できたら報奨がもらえますか？",
+        "The mission rewards are here. If I prove to be of service to you, will I receive rewards too?"
+      ],
+      "mail": [
+        "指挥官，信件，应该没有搞错吧？",
+        "ご主人様、お手紙はこれで大丈夫でしょうか…？",
+        "Master, would you like me to leave this letter here...?"
+      ],
+      "returnFromMission": [
+        "指挥官，饿了吗？我也饿了，一起吃点什么吧",
+        "ご主人様、お腹が空きましたか？私もお腹が空きました。一緒に食べませんか？",
+        "Are you hungry, Master? I'm feeling quite peckish. Shall we eat together?"
+      ],
+      "commission": [
+        "指挥官，完成委托的姐姐们正在等待你的迎接呢",
+        "ご主人様、委託を完了したお嬢様方が出迎えを待っていますよ？",
+        "Master, the ladies have returned from their commission and are waiting for you."
+      ],
+      "strengthening": [
+        "虽然还不太习惯战斗，不过请期待我的活跃吧",
+        "戦闘には慣れていませんけど、期待してくださいね",
+        "I'm not quite used to fighting, but please have faith in me."
+      ],
+      "startingMission": [
+        "为主人清除障碍好像也是女仆的职责呢",
+        "主のためにショウガイを取り除くのはメイドの務めですね",
+        "It's a maid's duty to remove her Master's obstacles!"
+      ],
+      "mvp": [
+        "好像……也没什么大不了的，你说是吗，指挥官？",
+        "別に……大したことではないですね。そうですね？ご主人様？",
+        "This isn't... anything to brag about. Isn't that right, Master?"
+      ],
+      "defeat": [
+        "淑女……要优雅地承认失败……呜……",
+        "レディは失敗した時でも優雅に……うぅ……",
+        "A lady must be elegant, even in defeat... *Sob*..."
+      ],
+      "skillActivation": [
+        "敌方的诸位，接下来会有些疼哦",
+        "敵のみなさま、次はすこーし痛くなりますよ？",
+        "Dear enemies, this is going to be a liiiittle bit painful."
+      ],
+      "lowHP": [
+        "指挥官，是不是撤退比较好呢？",
+        "ご主人様、撤退したほうがいいでしょうか……？",
+        "Master, perhaps it would be a good idea to retreat...?"
+      ],
+      "affinityDisappointed": [
+        "唔，指挥官……比厨房的污垢还要棘手呢",
+        "ご主人様は台所の汚れより手がかかりますね",
+        "You are more troublesome than a kitchen stain, Master."
+      ],
+      "affinityStranger": [
+        "指挥官，这里有好多好多的姐姐，难道指挥官是非常非常富有的造船厂老板的称呼吗？",
+        "ほかの船もいっぱい……ご主人様、指揮官って、すごくお金持ちの造船所のオーナーって意味でしょうか？",
+        "There are so many ships here... Master, does \"commander\" refer to an incredibly wealthy person who owns a shipyard?"
+      ],
+      "affinityFriendly": [
+        "冷静吗？唔，指挥官是个好人，而且这里有好多友善的姐姐，不像在船厂时，周围都是商船呢，这不是没有什么好慌张的吗？",
+        "「緊張しないか」ですか？ご主人様はいい人ですし、ここにいるみなさまは私と同じ商船じゃありませんから、別に緊張することもなにもないですよ？",
+        "Do I feel nervous? Well, Master is a nice person, and none of the ladies here are merchant ships, so I have nothing to be nervous about."
+      ],
+      "affinityLike": [
+        "感觉经常能够猜出指挥官在想什么呢…这就是所谓的心有灵犀吗？还是只是指挥官太好懂了…？",
+        "ご主人様が考えていることは手に取るようにわかりますね。…ええと、これって噂の「えんぱしー」ですか？うーん、もしくはご主人様がわかりやすすぎなのでは……",
+        "I now completely understand how you think, Master... Umm, is this what's known as \"empathy\"? No, perhaps it's just overly easy to understand you, Master..."
+      ],
+      "affinityLove": [
+        "指挥官，你觉得我长大后能够成为一位出色的、足以令你侧目的淑女吗？",
+        "ご主人様、ベルファストが大きくなったら、ちゃんとご主人様のオメガネに適うレディになれますか？",
+        "Master, do you think I will be a lady worthy of you, when I grow up?"
+      ],
+      "pledge": [
+        "这是对我的承认吗？十分感谢。不过，对少女递上戒指可是会被世人误会的行为，指挥官，要想好才行哦？",
+        "ベルファストを認めてくれた、という意味ですか？ありがとうございます。ですが…ベルファストがこの指輪をつけたらご主人様が色々誤解されそうで……ほ、本当によく考えたほうがいいですよ？",
+        "Does this mean you \"approve of me\"? Thank you, Master. However... if I wear this ring, people may get the wrong idea about you... P-perhaps you should think this through more thoroughly?"
+      ],
+      "giftDescriptionValentines2019": [
+        "姐姐说，情人节对我来说太早了……不过，姐姐也说了，送给指挥官表达平日的感谢也是可以的。所以指挥官，请收下吧，这是淑女的谢礼。",
+        "あの、姉さまからわたしにはまだ早いと言われましたけど、メイド修行として作ったチョコレートをご主人さまにお渡ししますね。いつもありがとうございます（ぺこっ）",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Hiei-chan said it would be better to give you something chocolate-flavored rather than straight chocolates, Master. So I made you this chocolate cake. Master, thank you so much for all you have done for me! Ehehe~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Little_Bel_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Little_Bel_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Little_Bel_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Little_Bel_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Little_Bel_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Little_Bel_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Little_Bel_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Little_Bel_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Little_Bel_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Little_Bel_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Little_Bel_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Little_Bel_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Little_Bel_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Little_Bel_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Little_Bel_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Little_Bel_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Little_Bel_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Little_Bel_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Little_Bel_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Little_Bel_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Little_Bel_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Little_Bel_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Little_Bel_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Little_Bel_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Little_Bel_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Little_Bel_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Little_Bel_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Little_Bel_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Little_Bel_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Little_Bel_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Little_Bel_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Little_Bel_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Little_Bel_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Little_Bel_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Little_Bel_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Little_Bel_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Little_Bel_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Little_Bel_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Little_Bel_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Little_Bel_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Little_Bel_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Little_Bel_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Little_Bel_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Little_Bel_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Little_Bel_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Little_Bel_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Little_Bel_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Little_Bel_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Little_Bel_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Little_Bel_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Little_Bel_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Little_Bel_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Little_Bel_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Little_Bel_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Little_Bel_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Little_Bel_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Little_Bel_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Little_Bel_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Little_Bel_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Little_Bel_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Little_Bel_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Little_Bel_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Little_Bel_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Little_Bel_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Little_Bel_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Little_Bel_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Little_Bel_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Little_Bel_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Little_Bel_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Little_Bel_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Little_Bel_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Little_Bel_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Little_Bel_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Little_Bel_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Little_Bel_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Little_Bel_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Little_Bel_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Little_Bel_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

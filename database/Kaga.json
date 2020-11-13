@@ -1,0 +1,914 @@
+{
+  "name": "Kaga",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Super Rare",
+  "shipClass": "Kaga",
+  "ID": "225",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "八才提督",
+  "pixiv": "https://www.pixiv.net/member.php?id=1393609",
+  "twitter": "https://twitter.com/haorabbit",
+  "link": "https://weibo.com/vihao",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ai_Kayano",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6771,
+      131,
+      42,
+      0,
+      0,
+      49,
+      28,
+      323,
+      408,
+      13,
+      90,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5992,
+      114,
+      42,
+      0,
+      0,
+      29,
+      28,
+      285,
+      366,
+      13,
+      80,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1159,
+      48,
+      42,
+      0,
+      0,
+      11,
+      28,
+      61,
+      78,
+      4,
+      31,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 110%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "110% → 110%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "120% → 150%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +2",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +1",
+  "level120TechPoints": 21,
+  "enhancementValue": [
+    0,
+    0,
+    64,
+    9
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / Torpedo Bombers Efficiency +5%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Fighters +1 / Torpedo Bombers Efficiency +10%",
+  "limitBreak3": "Number of All Planes +1 / Torpedo Bombers Efficiency +15%",
+  "skill1Name": "Preemptive Strike; CN: 先手必胜 JP: 先手必勝！",
+  "skill1Description": "At the beginning of combat, reduces Reload time of own first airstrike by 20% (50%).",
+  "skill2Name": "First Carrier Division; CN: 一航战 JP: 一航戦",
+  "skill2Description": "When paired with , , or in the same fleet: increases own Aviation stat by 15% (35%).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/9a/Kaga.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png",
+      "shipDescription": [
+        "鸾号航空母舰",
+        "加賀型航空母艦・加賀",
+        "Aircraft carrier, Kaga."
+      ],
+      "selfIntroduction": [
+        "我是第一航空战队的重型空母，鸾。 虽然一开始是按照战列舰的规格进行建造，但现在成为正航可谓是命运的安排吧。——对待敌人？当然只有虐杀一途，那不是我的兴趣，而是我的义务，明白吗？",
+        "第一航空戦隊の正規空母加賀だ。 戦艦として設計され建造されたが、正規空母に生まれ変わったのも運命だろう。 ー敵、か？言わずとも撃滅するだけだが、これは私の趣味ではなく義務だ。わかったか？",
+        "I am Kaga, from the First Carrier Division. I was originally designed to be a battleship, but fate had different plans or me. Enemies? I simply slaughter them, but only because it is my duty, not for fun."
+      ],
+      "acquisition": [
+        "这里能让我找到足以满足的敌人？好吧，从今以后，我就是你的人了，这大概也是某种命运吧",
+        "ここに私を満足させてくれる敵がいるというのか？そうか、ならこれから私はお前のものだ。そうなるのも運命だろう",
+        "Will I be able to find a worthy foe here? Very well. I’m yours. Perhaps this, too, is destiny."
+      ],
+      "login": [
+        "公平与正义只适用于强者，弱者只能缩在角落里哀泣",
+        "公平も正義も強き者にのみ享受できる。弱き者はただ虚しく，すすり泣きをするだけよ",
+        "Justice and righteousness are for the strong only. The weak can only weep in vain."
+      ],
+      "details": [
+        "指挥官，你这么看着我，会让我有些想把你吃掉的",
+        "指揮官、そんなに見つめたら、お前をつい食べたくなるぞ",
+        "Commander, if you keep looking at me like that, you’ll be eaten up."
+      ],
+      "secretaryIdle1": [
+        "我是一切的征服者，无论对谁",
+        "私は征服者だ。誰に対しても",
+        "I shall conquer all, no matter who stands against me."
+      ],
+      "secretaryIdle2": [
+        "我们的敌人很强，但正因为如此，才有摧残殆尽的价值，呵呵呵呵呵……",
+        "だが敵は強い。だからこそ悉く撃滅する価値がある。ふふ……",
+        "Our enemies may be strong, but that is what makes them worth crushing. Heheh..."
+      ],
+      "secretaryIdle3": [
+        "五航战的孩子们？她们好好努力的话还是值得一看的",
+        "五航戦の子たちか？頑張ればそれなりの評価はするが…",
+        "The girls of the Fifth Carrier Division? They might amount to something if they work hard enough."
+      ],
+      "secretaryTouch": [
+        "有什么疑问吗？",
+        "何か問題でも？",
+        "Is there a problem?"
+      ],
+      "secretarySpecialTouch": [
+        "……如果这样能让你放松一下的话",
+        "……これでお前が少しすっきりするというのなら…",
+        "... Fine. If you say it helps you relax..."
+      ],
+      "task": [
+        "指挥官，别顾着玩了，还有任务没完成",
+        "指揮官、サボるんじゃない。まだ終わっていない任務がある",
+        "Commander, stop slacking around. There are still missions to complete."
+      ],
+      "taskComplete": [
+        "奖励下达了，这也是你努力的成果",
+        "ボーナスだ。お前の努力の成果でもある",
+        "Here are the rewards, the fruits of your labor."
+      ],
+      "mail": [
+        "有你的信件，下次不要忘了",
+        "お前宛のメールだ。次は忘れるな",
+        "Your mail is here. Try not to forget it next time."
+      ],
+      "returnFromMission": [
+        "屠戮过敌人之后，就是愉快的奖励时间了，尽情享受短暂的喘息时间吧",
+        "敵を葬ったら楽しい戦果確認の時間だ。思いっきり楽しんでおくれ",
+        "A fitting reward for the ears of our enemies. Let us enjoy the spoils of war leisurely."
+      ],
+      "commission": [
+        "出委托的姐妹们回来了，你先去吧，我去给她们准备一些点心",
+        "委託に出かけた子たちが帰ってきたな。軽食を少し用意するから、先に行ってくれ",
+        "The girls on commission have returned. Go on ahead, I will prepare some refreshments for them."
+      ],
+      "strengthening": [
+        "不错的感觉……想到了不少新的手段呢",
+        "いい調子だ……新しい戦い方をいくつか思いついた",
+        "Not bad. I’ve come up with some new combat techniques."
+      ],
+      "startingMission": [
+        "用你们死前最后的挣扎来取悦我吧…呵呵…",
+        "悪あがきで私を楽しませろ…ふふふ…",
+        "Entertain me with your final struggles. Hehehe..."
+      ],
+      "mvp": [
+        "弱者就是这个下场，太弱了，才会死，仅此而已",
+        "弱き者はこの結末。弱さゆえに滅される。それだけ",
+        "Such is the fate of the weak. Death, nothing more."
+      ],
+      "defeat": [
+        "这份痛楚……我会十倍奉还的！",
+        "この痛み……10倍にして返す！",
+        "This pain... I shall return it tenfold!"
+      ],
+      "skillActivation": [
+        "战场上只有强者才能生存哦！",
+        "戦場で生き残れるのは強き者だけだ！",
+        "Only the strong may survive on the battlefield!"
+      ],
+      "lowHP": [
+        "死斗时间到了~呵呵，呵呵呵……",
+        "死合の時間…ふふ、ふふふふ……",
+        "It’s time for a death match! Heheh- hehehe!"
+      ],
+      "affinityDisappointed": [
+        "看来你不是我追求的勇者…",
+        "あなたは私が追い求める勇者ではないようだ…",
+        "It seems like you're not the hero I was looking for..."
+      ],
+      "affinityStranger": [
+        "弱者被淘汰是必然的下场，不甘心的话就变强啊",
+        "弱き者が淘汰されるが運命。悔しかったら強くなることだ",
+        "The weak will be eliminated. If you cannot accept that, then simply become stronger."
+      ],
+      "affinityFriendly": [
+        "如果有一天你输了，那只能说明你太弱了，弱者被淘汰也是正常，不过，谁让你是我的人呢，只好由我来替你报仇了",
+        "もしお前が負けたら、それがお前の弱さの証明になる。弱き者が淘汰されても文句は言えない。だがお前は今や私のものだから、仇ぐらいは取ってやる",
+        "Should you be defeated one day, it simply means that you were too weak. That much is a fact of nature. Though... because you are mine, I would at least avenge you."
+      ],
+      "affinityLike": [
+        "虽然我自己也很纳闷，不明白为什么有这种心情，这是兽性本能吗？",
+        "私にもなぜこんな感情があるか不思議でたまらないものだ。獣の本能だろうか",
+        "I cannot comprehend these emotions... is this some sort of primal instinct?"
+      ],
+      "affinityLove": [
+        "虽然有很多话想跟你说，但是一看到你的脸，就全都想不起来了",
+        "話したいことは沢山あるけど、お前の顔を見るとうまく思い出せなくなる……",
+        "I have so much I want to say, but I forget them all the moment I see your face..."
+      ],
+      "pledge": [
+        "——这个是给我的？……呵呵呵呵……强者会彼此吸引，这可能就是命运吧？既然如此，就让我遵循命运和自己的本能吧",
+        "ーーこれを私に？……ふん、強き者は惹かれ合う運命か？それなら、運命と自分の本能に従わせてもらおうか。ふふふ…",
+        "... Is this for me? Hm... perhaps it is fate for the strong to be drawn to each other. If that is the case, I shall follow my instincts then. Hehehe~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Akagi) 姐姐，请严肃一点",
+        "(Sortie with Akagi) 姉さま、真面目にやってください",
+        "(Sortie with Akagi) Sister, please take this seriously."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Enterprise) 可不能让一航战被看扁了",
+        "(Sortie with Enterprise) 一航戦を侮らせるのでないぞ",
+        "(Sortie with Enterprise) The First Carrier Division is not to be looked down upon!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 3 of: Cleveland, Nevada, Oklahoma, Ranger, Yorktown, Enterprise, Hornet, Akagi) 想不到和你们一起……",
+        "(Sortie with at least 3 of: Cleveland, Nevada, Oklahoma, Ranger, Yorktown, Enterprise, Hornet, Akagi) お前たちと肩を並べるとは思わなかったがな……",
+        "(Sortie with at least 3 of: Cleveland, Nevada, Oklahoma, Ranger, Yorktown, Enterprise, Hornet, Akagi) I did not expect to be fighting alongside you all..."
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with Nagara) 貊，那个时候多受你照顾了",
+        "(Sortie with Nagara) 長良、あの時は世話になったな",
+        null
+      ],
+      "additionalVoiceLine5": [
+        "(Sortie with Taihou) 真是难缠的家伙啊",
+        "(Sortie with Taihou) つくづく難儀な奴だな",
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        "想到特意为你准备巧克力，就有种奇妙的高扬感，这是怎么回事呢...总之，这是节日的祝福，你就收下吧",
+        "お前の為にチョコレートを用意することを考えると、妙に気分が高揚する…解せんな。……とにかくバレンタインのプレゼントだ。受け取ってくれ。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "こ、今年もお前のためにチョコレートを作った。…すまない、早くもらってくれないか？実は妙にそわそわしている気分だ……これ以上もたついたら、ついお前を押し倒してしまうかもしれんぞ…！",
+        "When I think of giving chocolate to you, I feel a strange, uplifting sensation... I don't get it... Anyway, here is my Valentine's present. Please accept it."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Take it. It's chocolate I made for you. While there's no way I can make you understand the passions brewing in my heart... I'm afraid if you don't eat this chocolate... Heh heh... then I'll just have to eat you. Hahahaha..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Kaga_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Kaga_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Kaga_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Kaga_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Kaga_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Kaga_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kaga_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kaga_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kaga_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Kaga_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Kaga_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Kaga_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kaga_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kaga_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kaga_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Kaga_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Kaga_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Kaga_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Kaga_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Kaga_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Kaga_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Kaga_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kaga_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kaga_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Kaga_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Kaga_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Kaga_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Kaga_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Kaga_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Kaga_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Kaga_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Kaga_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Kaga_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Kaga_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Kaga_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Kaga_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Kaga_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Kaga_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Kaga_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Kaga_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Kaga_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Kaga_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Kaga_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Kaga_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Kaga_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kaga_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kaga_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kaga_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kaga_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kaga_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kaga_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kaga_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kaga_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kaga_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Kaga_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Kaga_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Kaga_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kaga_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kaga_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kaga_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Kaga_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Kaga_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Kaga_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Kaga_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Kaga_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Kaga_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kaga_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kaga_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kaga_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Kaga_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Kaga_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Kaga_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kaga_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kaga_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kaga_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Kaga_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Kaga_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Kaga_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Kaga_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Kaga_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Kaga_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kaga_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kaga_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kaga_Extra3JP.ogg"
+      ],
+      "additionalVoiceLine4Url": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Kaga_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Kaga_Extra4JP.ogg",
+        null
+      ],
+      "additionalVoiceLine5Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Kaga_Extra5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Kaga_Extra5JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Sacred Blue Lily",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "苍染的君子兰",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "浄界の君子蘭",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/cb/KagaWedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d6/KagaWeddingChibi.png",
+      "shipDescription": [
+        "“执子之手，与子偕老”，如果对象是你的话，倒也不算太糟呢",
+        "「子（なんじ）の手を執りて、子と偕（とも）に老いん」――お前となら、そう悪くないな",
+        "To hold one's hand and grow old together with him... If it is to be with you, then it won't so bad."
+      ],
+      "acquisition": [
+        "“执子之手，与子偕老”，如果对象是你的话，倒也不算太糟呢",
+        "「子（なんじ）の手を執りて、子と偕（とも）に老いん」――お前となら、そう悪くないな",
+        "To hold one's hand and grow old together with him... If it is to be with you, then it won't so bad."
+      ],
+      "login": [
+        "呵…准备好一起去将敌人碾压殆尽了吗？",
+        "ふん…敵を鏖殺しに行く準備はできているか？",
+        "Heh... Let's crush our foes together, shall we?"
+      ],
+      "details": [
+        "你的表情，就像被狐狸魅惑了的书生一样呢",
+        "その顔、狐に魅入られた小童のようだな",
+        "Your expression... exactly the same as Romeo when he lost himself in front of Juliet."
+      ],
+      "secretaryIdle1": [
+        "穿着这身衣服，心境就和平时不太一样，稍微有些奇妙…",
+        "この衣装を身につけると、いつもとは少し違う心境になる。奇妙だ…",
+        "Wearing this dress makes me feel different, it’s kind of strange..."
+      ],
+      "secretaryIdle2": [
+        "稍微幻想一下以后的日子，似乎也挺有趣",
+        "これからの日々に想いを馳せるのも、意外と面白いようだな",
+        "It seems quite interesting to imagine a little about our future."
+      ],
+      "secretaryIdle3": [
+        "既然身为强者，就必须考虑如何变得更强，指挥官，做好觉悟了吗？",
+        "強き者なら、さらなる強さを求めるのが必然だ。指揮官、覚悟はできているか？",
+        "As conquerors, we should seek out ways to become stronger. Commander, are you prepared?"
+      ],
+      "secretaryTouch": [
+        "强者彼此吸引，互相接触也是自然…就随你喜欢，好好靠在我的身旁吧",
+        "強き者は惹かれ合う。触れ合うことも道理…好きなだけ私に寄りかかるといい",
+        "It is natural for the strong to be attracted to one another... lean close to me, and do what you like."
+      ],
+      "secretarySpecialTouch": [
+        "就这么喜欢这里吗？",
+        "ここがそんなに好きか？",
+        "You really like to touch me here, don’t you?"
+      ],
+      "returnFromMission": [
+        "偶尔亲自下厨，倒也别有一番趣味。稍作歇息就来用餐吧",
+        "想い人のために台所に立つのも、意外と面白みがあるな。暫し休憩したのちに召し上がるといい",
+        "On occasion, it is surprisingly fun for me to cook. We’ll eat after you take a short break."
+      ],
+      "affinityLove": [
+        "呵呵，尽管抬头挺胸与我并排而行吧，这是值得夸耀的事情，不是吗",
+        "ふっ、顔を上げ、私と肩を並べて歩くが良い。これは誇らしいことだ。違うか？",
+        "Hehe, raise your head high and walk proudly with me. This is something to brag about, isn't it?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kaga_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kaga_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kaga_IntroSkin8JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Kaga_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Kaga_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Kaga_LogSkin8JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Kaga_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Kaga_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Kaga_DetailsSkin8JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Kaga_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Kaga_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Kaga_SecIdle1Skin8JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Kaga_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Kaga_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Kaga_SecIdle2Skin8JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kaga_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kaga_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kaga_SecIdle3Skin8JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Kaga_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Kaga_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Kaga_Sec1Skin8JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Kaga_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Kaga_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Kaga_Sec2Skin8JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Kaga_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Kaga_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Kaga_MissionFinSkin8JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Kaga_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Kaga_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Kaga_Affinity4Skin8JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Everlasting Killing Stone",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "常夏的杀生石",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "常夏の殺生石",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 600",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/9a/KagaSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0d/KagaSummerChibi.png",
+      "shipDescription": [
+        "“人生苦短，何妨一试”，在哪里好像听过这句话呢，指挥官，你的心在蠢蠢欲动吗?",
+        "「人生短し、心の征くまま進むがよし」どこかで聞いたような話しだ。指揮官、お前は心を抑えられなくなっているのか？",
+        "\"You only live once?\" Where have I heard that saying before... Commander, are you getting excited?"
+      ],
+      "acquisition": [
+        "“人生苦短，何妨一试”，在哪里好像听过这句话呢，指挥官，你的心在蠢蠢欲动吗?",
+        "「人生短し、心の赴くまま進むがよし」どこかで聞いたような言葉だ。指揮官、お前は心を抑えられなくなっているか？",
+        "\"You only live once?\" Where have I heard that saying before... Commander, are you getting excited?"
+      ],
+      "login": [
+        "指挥官，休息就要好好休息，战斗就要尽情战斗，这是我的座右铭",
+        "指揮官、「休む時には休む、戦う時には戦う」、私の座右の銘だ",
+        "Work hard, play hard. That is my life motto, Commander."
+      ],
+      "details": [
+        "指挥官，我和姐姐谁的泳装你更喜欢？",
+        "指揮官、私と赤城の水着、どっちが好みか？",
+        "Commander... do you prefer Akagi’s swimsuit, or mine?"
+      ],
+      "secretaryIdle1": [
+        "物竞天择，适者生存",
+        "変化に適応したものが生き延びる",
+        "Survival of the fittest..."
+      ],
+      "secretaryIdle3": [
+        "无论在哪里，战争都还没有结束",
+        "どこにいようが、戦争は終わらんな",
+        "No matter where I am, there is no end to war."
+      ],
+      "secretaryTouch": [
+        "哦？有新的战斗需要我了吗？",
+        null,
+        "Oh? Am I required for a new battle?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，我的舰桥状况良好，随时可以出击",
+        "指揮官、艦橋の状況は良好だ。いつでも出撃できる",
+        "Commander! My bridge is in good condition. Ready for orders at a moment's notice!"
+      ],
+      "taskComplete": [
+        "把这份奖励送给姐姐的话，她一定会很高兴吧",
+        "この報酬を姉様に贈れば、きっと喜ぶだろうな",
+        "If I sent these rewards to Akagi instead, I’m sure she would be pleased."
+      ],
+      "commission": [
+        "出委托的舰娘们好像回来了，姐姐，要去迎接吗？",
+        "委託に出かけた子たちが帰ってきたようだな。姉様、出迎えに行きませんか",
+        "The commission fleet appears to have returned. Sister, shall we go greet them?"
+      ],
+      "startingMission": [
+        "呵…我的强大可和穿着怎样的衣服无关",
+        "うふふ…どんな服を着ようが私の強さは変わらぬぞ",
+        "Heh... No matter what I wear, my strength does not change."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Kaga_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Kaga_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Kaga_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Kaga_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kaga_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kaga_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kaga_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kaga_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kaga_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Kaga_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Kaga_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Kaga_SecIdle3Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kaga_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kaga_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kaga_Sec2Skin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Kaga_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Kaga_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Kaga_TaskCSkin1JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Kaga_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Kaga_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Kaga_CommissionSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Kaga_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Kaga_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Kaga_MissionStartSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "White Fox's New Year",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "白狐贺正",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "白狐賀正",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/ba/KagaNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cf/KagaNew_YearChibi.png",
+      "shipDescription": [
+        "呵呵，新年自然要穿的正式一点，如何，指挥官，对这身有什么感想吗？",
+        "正月には正月の装いで挑まねばな。どうだ指揮官？感想を聞かせてくれ。",
+        "One must wear appropriate attire for the New Year. What do you think, Commander? Let me hear your opinion."
+      ],
+      "acquisition": [
+        "呵呵，新年自然要穿的正式一点，如何，指挥官，对这身有什么感想吗？",
+        "正月には正月の装いで挑まねばな。どうだ指揮官？感想を聞かせてくれ",
+        "One must wear appropriate attire for the New Year. What do you think, Commander? Let me hear your opinion."
+      ],
+      "login": [
+        "难得的正月，稍微放松一下，倒也无妨",
+        "せっかくの正月だ。ゆっくりしていても構わんぞ",
+        "Since it's the New Year, you could probably afford to rest a little. I wouldn't mind."
+      ],
+      "details": [
+        "指挥官，这么有空的话，不妨来帮忙布置一下装饰如何？",
+        "指揮官、そんなに暇なら、お正月の手伝いでもしたらどうだ？",
+        "Commander, if you have that much free time, why don't you help me with the New Year's decorations?"
+      ],
+      "secretaryIdle1": [
+        "凰，你的眼神，就像正在寻找猎物的猛兽呢…",
+        "赤城姉さま、その目は……まるで獲物を探しているようだぞ",
+        "Akagi, your eyes make you seem like you're hunting for prey..."
+      ],
+      "secretaryIdle2": [
+        "偶尔像这样暂时忘却硝烟，享受节日，感觉也不坏",
+        "戦争を忘れ、祝日を楽しむ…たまにはこうしているのも悪くないな",
+        "Forgetting about war and just enjoying the holidays... this isn't so bad every once in a while."
+      ],
+      "secretaryIdle3": [
+        "欧根…又喝得醉醺醺的了…指挥官，过来帮忙处理一下",
+        "オイゲン…また酔っているな。指揮官、手伝ってもらうぞ",
+        "Go home, Eugen, you're drunk... Commander, come give me a hand here."
+      ],
+      "secretaryTouch": [
+        "正月要准备的东西还挺多的呢……",
+        "お正月に必要なものは結構多いな…",
+        "Preparing for the New Year sure requires a lot of stuff..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Kaga_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Kaga_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Kaga_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Kaga_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Kaga_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Kaga_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Kaga_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Kaga_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Kaga_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Kaga_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Kaga_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Kaga_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kaga_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kaga_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kaga_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Kaga_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Kaga_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Kaga_Sec1Skin2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Exalted White Wings",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "白羽风华",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "白羽の貴華",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/61/KagaParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/10/KagaPartyChibi.png",
+      "shipDescription": [
+        "这个雕像的设计，是源自鸢尾信仰的教义吗？虽然我并不通晓艺术，但也能从中感受到华丽…以及令人心生敬畏的某些东西…你能感觉到什么吗，指挥官？",
+        "この彫像、アイリスの教えからきたやつか。芸術に通じているわけではないが、豪華…そして人に敬虔さを抱かせる何かを感じ取れるな。指揮官、お前は何を感じる？",
+        "This statue seems to have been inspired by the teachings of the Iris Orthodoxy. Though I am unfamiliar with this kind of art, gazing upon such majesty... fills one with a sense of piety. Commander, can you feel it as well?"
+      ],
+      "acquisition": [
+        "这个雕像的设计，是源自鸢尾信仰的教义吗？虽然我并不通晓艺术，但也能从中感受到华丽…以及令人心生敬畏的某些东西…你能感觉到什么吗，指挥官？",
+        "この彫像、アイリスの教えからきたやつか。芸術に通じているわけではないが、豪華…そして人に敬虔さを抱かせる何かを感じ取れるな。指揮官、お前は何を感じる？",
+        "This statue seems to have been inspired by the teachings of the Iris Orthodoxy. Though I am unfamiliar with this kind of art, gazing upon such majesty... fills one with a sense of piety. Commander, can you feel it as well?"
+      ],
+      "login": [
+        "主角终于登场了吗…安心吧，就算搞砸了我也会给你圆场的",
+        "主役のお出ましか。安心しろお前がヘマしたときはフォローをしてやる",
+        "It's time for the star of tonight's show, huh? ...Don't worry, I'll cover for you even if you mess up."
+      ],
+      "details": [
+        "和大家都打完招呼了吗？都说了我这你放到最后就行，毕竟有那么多人需要你…算了，来都来了，想转换下心情的话，就在这休息会吧。",
+        "挨拶周りは済んだか？私のことは後回しでいいと言ったであろう。お前の言葉を待ちわびている子は大勢いるだろうに……来たからには仕方ない、気分転換したければ、ここでしばし休憩するがいい",
+        "Have you finished making your rounds? As I said, we can always catch up later. There are many others who are still waiting for your words... But since you're already here, might as well take a break if you want a change of pace."
+      ],
+      "secretaryIdle1": [
+        "鹤，想办法把鹩支出去，尾随指挥官也就算了，让她和凰碰上就麻烦了",
+        "瑞鶴、大鳳をどこかに引き離せ。指揮官の後ろをつけるのはいいが赤城と出会わせてはまずいぞ",
+        "Zuikaku, find some way to keep Taihou busy. Can't do much about her clinging to the commander, but there's going to be trouble if Akagi sees her."
+      ],
+      "secretaryIdle2": [
+        "喝不了多少得话就不要勉强，要是醉成约克城那样可就不好看了",
+        "弱いなら無理をするな。お前があのヨークタウンみたいに酔いつぶれるのはみっともないぞ",
+        "The weak shouldn't push past their limits. You certainly don't want to end up like Yorktown over there."
+      ],
+      "secretaryIdle3": [
+        "也不是不想参加宴会，只是想要把握全局的状况，只有这里最合适而已。",
+        "パーティーに参加したくないわけではない、この場所でないと状況を把握できないからな",
+        "It's not that I don't want to attend the party. If I'm to keep tabs on everything going on, this is the best place to do that from."
+      ],
+      "secretaryTouch": [
+        "想要打发时间？哼，那就来下盘棋如何？正好我也想看看你的水平到什么程度…呵呵呵……",
+        "時間を潰したいのか？ふん、ならチェスでもどうだ？ちょうどいい、お前がどれほどの使い手か計り知りたくなってきたな…ふふふ…",
+        "You wanna kill some time? Hmph. Very well, how about a round of chess then? I've been wanting to see how your powers have developed... Hehehe..."
+      ],
+      "secretarySpecialTouch": [
+        "……有点热啊",
+        "…少し、火照っているな……",
+        "It's... just a little hot..."
+      ],
+      "secretaryHeadpat": [
+        "嚯…？",
+        "ほぉ…？",
+        "Hm...?"
+      ],
+      "mail": [
+        "你的信。我给你拿来了。",
+        "手紙だ。持ってきてやったぞ",
+        "Here. I've brought your mail."
+      ],
+      "returnFromMission": [
+        "赢了吗。作为与凰…姐姐并肩之人，没点相应的本事可不行",
+        "勝ったか。赤城……姉さまの相手を務める者としてそれぐらいの腕がなくてはな",
+        "A victory, huh? As Akagi's... as my sister's partner, anything less would render you unfit for that honor."
+      ],
+      "commission": [
+        "委托组的同伴们回来了，给她们带点吃的去吧？",
+        "委託に出かけた子たちが帰ってきたな。軽食を少し持って行ってやってくれないか？",
+        "The girls of the commission fleet have returned. Shall I bring some refreshments out to them?"
+      ],
+      "startingMission": [
+        "一航战鸾，出击！",
+        "一航戦加賀、押し通るっ！",
+        "1st CarDiv, Kaga, weighing anchor!"
+      ],
+      "mvp": [
+        "这便是作为强者施予的制裁，弱者就回味着自身的惨痛败北苟延残喘下去吧！",
+        "強者として裁きをくれてやる。惨めに己の敗北を噛み締めながら生きながらえるがいい！",
+        "This is the judgment exacted upon the weak by the strong. Live on so that you may forever choke on the bitterness of defeat!"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

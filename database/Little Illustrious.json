@@ -1,0 +1,328 @@
+{
+  "name": "Little Illustrious",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Illustrious",
+  "ID": "459",
+  "faction": "Royal Navy",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "liyu黎",
+  "link": "https://www.weibo.com/p/1005055979033109/",
+  "voiceActor": "https://en.wikipedia.org/wiki/Sora_Amamiya",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      5946,
+      110,
+      44,
+      0,
+      0,
+      53,
+      30,
+      266,
+      380,
+      12,
+      85,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5262,
+      96,
+      44,
+      0,
+      0,
+      33,
+      30,
+      232,
+      339,
+      12,
+      76,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1018,
+      41,
+      44,
+      0,
+      0,
+      13,
+      30,
+      50,
+      72,
+      4,
+      29,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Fighters",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "120% → 120%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    0,
+    0,
+    59,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Fighters +1 / Fighter Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +1 / Fighter Efficiency +5%",
+  "limitBreak3": "Number of Fighters +1 / Fighter Efficiency +7%",
+  "skill1Name": "Take Off!",
+  "skill1Description": "When this ship launches an Airstrike: 40% (70%) chance to launch a special Lv.1 (Lv.10) Swordfish airstrike. Special airstrike DMG is based on the skill's level.",
+  "skill2Name": "Prayer for Love and Peace",
+  "skill2Description": "12s after the battle begins and 40% (70%) chance every 20s after that: summons an air wing that carries out a special Lv.1 (Lv.10) airstrike which decreases Hit Rate against your ships by 30.0% for all enemies hit by it (this debuff will weaken over 4s until it is gone.) Special airstrike DMG is based on the skill's level.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/76/Little_Illustrious.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5c/Little_IllustriousChibi.png",
+      "shipDescription": [
+        "光辉级航空母舰—光辉，舷号87",
+        "イラストリアス級航空母艦・イラストリアス (HMS Illustrious）",
+        "Illustrious-class aircraft carrier – Illustrious, Hull Number 87."
+      ],
+      "selfIntroduction": [
+        "我可是世界上第一艘装甲航空母舰哦！嘿嘿，总有一天，我也会为皇家海军争光的！",
+        "イラストリアスは、世界初の装甲空母ですよ。へへへ、いつかロイヤルネイビーの栄光のために、頑張っていきますね",
+        "I am the world's first armoured aircraft carrier, ehehe. One day, I'll do my best for the glory of the Royal Navy!"
+      ],
+      "acquisition": [
+        "贵安，指挥官！我是皇家海军光辉级空母，光辉哦！让我们一起，将爱与和平的光辉播洒在这个世界上吧！",
+        "指揮官さま、ごきげんよう、ロイヤルのイラストリアスですわ。愛と平和をこの海に、聖なる光をあなたに――ですね♪",
+        "Good day to you, Commander. I am Illustrious of the Royal Navy. We'll spread the holy light of love and peace all across the ocean, right~♪"
+      ],
+      "login": [
+        "贵安，指挥官！我照着之前的样子帮您把这里整理好了，您看看怎么样？",
+        "ごきげんよう、指揮官さま。少し前の様子通りに片付けておきました。いかがですか？",
+        "Good day, Commander. I helped organize a little bit based upon how you had things before. How does everything look?"
+      ],
+      "details": [
+        "光辉站得很稳，不会摔倒的！",
+        "イラストリアス、足元もしっかり！ですわ",
+        "Illustrious is steady in her steps!"
+      ],
+      "secretaryIdle1": [
+        "光辉的舰载机?在这里哦，嘿嘿，都是很棒的小伙伴呢~",
+        "イラストリアスの艦載機？ここにいますよ。えへへ、みんないい子ですわ",
+        "My planes? They're right here. Ehehe, everyone's so well-behaved."
+      ],
+      "secretaryIdle2": [
+        "指挥官，如果觉得寂寞了的话，光辉可以陪你说说话的！",
+        "指揮官さま、寂しくなったらイラストリアスが一緒におしゃべりしてさしあげますね",
+        "Commander, I'll be there for you any time you're feeling lonely."
+      ],
+      "secretaryIdle3": [
+        "如果大家都能更加理解彼此，这个世界一定会变得更美好的！",
+        "みんな分かり合えるようになったら、もっと素晴らしい世界になりますわ",
+        "What an even more wonderful world it would be if everyone could understand each other."
+      ],
+      "secretaryTouch": [
+        "指挥官的手好大呀，比光辉的要大上好多呢。",
+        "指揮官さまのお手、大きいですね…イラストリアスよりずっと大きいですっ",
+        "Commander's hand is so big... much bigger than mine..."
+      ],
+      "secretarySpecialTouch": [
+        "这是什么新的游戏吗？",
+        "新しいお遊戯なのでしょうか…？",
+        "Is this some sort of new game...?"
+      ],
+      "task": [
+        "指挥官，是在为没能完成的任务烦恼吗？唔唔，有没有什么光辉能帮上忙的呢…",
+        "指揮官さま、まだ完了していない任務に悩んでいるのでしょうか…イラストリアス、お手伝いできることはないでしょうか",
+        "Commander, are you worried about the unfinished missions? Is there anything I can help you with?"
+      ],
+      "taskComplete": [
+        "任务完成了！在指挥官的努力下，一定有更多的人感受到了爱与和平呢！",
+        "任務完了しました。おかげさまで愛と平和をより広くに――ですね",
+        "Mission complete! Thanks to your efforts, we'll be able to further spread the light of love and peace!"
+      ],
+      "mail": [
+        "指挥官，你的信！我放在包里了，我找一下——啊，找到了，在这里！",
+        "指揮官さま、お手紙ですわ。ええと、たしかかばんの中に――ありましたわ！はい！",
+        "Commander, there's mail for you. Umm, where did I put it... Oh, there it is! Here!"
+      ],
+      "returnFromMission": [
+        "指挥官，辛苦啦！累了吗？嘿嘿，让光辉来帮您捶捶背吧！",
+        "指揮官さま、お疲れさまですわ。イラストリアスが背中を叩いてさしあげましょうか？",
+        "Good job, Commander. Would you like Illustrious to give you a back massage?"
+      ],
+      "commission": [
+        "啊，委托队的大家要回来了！得准备好慰劳的茶水才行！",
+        "委託にお出かけしたみんなが戻りました。早くねぎらいの品をご準備、しませんと！",
+        "Everyone has come back from their commission. I'll have to hurry to bring the refreshments out to them!"
+      ],
+      "strengthening": [
+        "这样就能把爱与和平洒向更远的地方了呢！",
+        "愛と平和を、もっと遠くまで――",
+        "With this, I'll be able to further spread the light of love and peace..."
+      ],
+      "startingMission": [
+        "妨碍和平的坏人，必须得到惩罚！",
+        "平和をジャマする悪い子はメッ！ですわ",
+        "Bad guys that disturb the peace will be dealt with, like this!"
+      ],
+      "mvp": [
+        "感觉离爱与和平的世界更近了一步呢！",
+        "愛と平和の世界へ一歩前進ですわ",
+        "We're one step closer to a world of love and peace."
+      ],
+      "defeat": [
+        "呜…为了爱与和平，下，下次绝对不会饶过你们的！",
+        "愛と平和の世界のために、次は…次はダメだからねっ！",
+        "For the sake of a world of love and peace, next time... you won't get away!"
+      ],
+      "skillActivation": [
+        "圣光啊，消灭爱与和平的敌人！",
+        "聖なる光で、愛と平和の敵をボコボコにしましょう！",
+        "Holy light, pummel our enemies in the name of love and peace!"
+      ],
+      "lowHP": [
+        "为了爱与和平，我是不会害怕的！",
+        "愛と平和のために、怖気づいてはいけません",
+        "For the sake of love and peace, I must not be scared!"
+      ],
+      "affinityDisappointed": [
+        "爱与和平的愿望，就连最亲近的指挥官也没能感受到吗，呜呜……",
+        "愛と平和の願い、一番近い指揮官さまにも届かなかったのでしょうか…",
+        "Were my prayers for love and peace not even enough to reach the person closest by my side...?"
+      ],
+      "affinityStranger": [
+        "指挥官，为了爱与和平，不可以和轻易和别人吵架哦！",
+        "指揮官さま、愛と平和のために、ケンカしちゃダメですよ？",
+        "Commander, for the sake of love and peace, you mustn't quarrel with others, all right?"
+      ],
+      "affinityFriendly": [
+        "啊，指挥官，不要动！（摸索）用光辉的手帕……这样……嘿嘿，指挥官，帮你擦掉嘴边剩下的蛋糕啦！",
+        "あ、指揮官さま、そのまま…イラストリアスのハンカチで、よいっしょ…えへへ、今口元にケーキのクリームがついていましたよ？",
+        "Ah, Commander, wait a second... Here, use my handkerchief... Ehehe, there are some cake crumbs stuck on the corner of your mouth~"
+      ],
+      "affinityLike": [
+        "听说只要把烦恼说出来的话，烦恼就会减轻，心情就会变好。光辉想为指挥官分忧！所以，指挥官，如果有什么烦恼的话，都来和光辉说吧！",
+        "悩みを人に話すと楽になるとお聞きしましたわ。イラストリアス、指揮官さまが楽になれるよう、なんでもお悩み、お聞きしちゃいますね",
+        "I heard that sitting down to talk with someone can help relieve your worries. Commander, if there's anything bothering you, I'd be glad to hear you out."
+      ],
+      "affinityLove": [
+        "指挥官好像有点没精神呢…—因为工作太多太忙累了？唔唔…那，指挥官把腰弯下来！摸摸摸摸—好孩子好孩子~听说，这样子就能让疲劳都飞走呢~嘿嘿，有没有效果呀？",
+        "指揮官さま、元気がないのでしょうか…仕事で疲れたのですか？んー…あ、指揮官さま、ええと、こうして…なでなで、いい子いい子～これで疲れが取れました…よね？えへへ、もう大丈夫ですか？",
+        "Commander, you seem to not be feeling well... Are you tired from working too much? Hm... Ah, Commander, here... *pat pat* What a sweet child~ I heard this will help you not be tired... right? Ehehe, don't you feel better already?"
+      ],
+      "pledge": [
+        "这，这就是…誓约…这么重要的东西，就这么交给光辉了…诶嘿嘿，好开心啊~虽然现在光辉还不成熟，但是只要我好好努力，一定会成为指挥官心目中最理想的样子的！嗯，一定会的！",
+        "こ、これが誓いの指輪…こんなに大事なものをイラストリアスに…えへへ、嬉しいです！イラストリアス、まだ未熟ですけど、指揮官さまにとって理想な子になるよう努力します。うん、きっと…なれますわ♪",
+        "S-so this is a promise ring... such an important thing, for me...? Ehehe, thank you so much! I may still be immature, but I will work hard to become the person of your dreams. No, I'm sure I'll be able to do it~♪"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Victorious) 为了爱与和平，把敌人教训一顿！我知道了~",
+        "(Sortie with Victorious) 愛と平和のためのボコボコですね！わかりました",
+        "(Sortie with Victorious) We'll mess them up in the name of love and peace! Understood!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Formidable) 聊的话，一起来玩游戏吧…？",
+        "(Sortie with Formidable) 退屈でしたら、お遊戯でもしませんか…？",
+        "(Sortie with Formidable) If you're bored, why don't we play a game...?"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Saratoga) 萨拉老师，能教我唱歌吗？",
+        "(Sortie with Saratoga) サラ先生、歌をおしえていただけませんか？",
+        "(Sortie with Saratoga) Miss Sara, could you teach me a song?"
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with at least 5 of: Akagi-chan, Zeppy, Lena, Clevelad, Li'l Sandy, Little Bel, Little Renown) 一起把爱与和平洒遍战场吧！",
+        "(Sortie with at least 5 of: Akagi-chan, Zeppy, Lena, Clevelad, Li'l Sandy, Little Bel, Little Renown) 愛と平和をこの戦場に！",
+        "(Sortie with at least 5 of: Akagi-chan, Zeppy, Lena, Clevelad, Li'l Sandy, Little Bel, Little Renown) Let us bring love and peace to this battlefield!"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,688 @@
+{
+  "name": "Cavalla",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Gato",
+  "ID": "402",
+  "faction": "Eagle Union",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/e/e8/Cavalla_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1899,
+      93,
+      78,
+      65,
+      524,
+      41,
+      16,
+      0,
+      0,
+      7,
+      192,
+      0,
+      243,
+      2
+    ],
+    "Level 100": [
+      1582,
+      81,
+      78,
+      57,
+      477,
+      22,
+      16,
+      0,
+      0,
+      7,
+      171,
+      0,
+      243,
+      2
+    ],
+    "Base Stats": [
+      306,
+      34,
+      78,
+      12,
+      101,
+      9,
+      16,
+      0,
+      0,
+      2,
+      66,
+      0,
+      243,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Accuracy  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 10,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +2",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    1,
+    40,
+    0,
+    7
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Guardian Piscis; CN: 鱼群守护 JP: お守り魚",
+  "skill1Description": "Allied SS and SSV take 10% (15%) reduced damage and heal for 3.5% (8%) of their max HP when retreating from battle.",
+  "skill2Name": "Double The Gato; CN: 陨翼双鲨 JP: ダブルガトー",
+  "skill2Description": "Increases own damage dealt to CVs by 5% (20%). When surfacing due to running out of oxygen and when leaving battle: fires a torpedo barrage, damage scales with skill level; If sortied with , increases this barrage's damage by 5% (15%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-棘鳍 JP: 特殊弾幕-カヴァラ",
+  "skill3Description": "When entering the battle, triggers Full Barrage - Cavalla I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1d/Cavalla.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/87/CavallaChibi.png",
+      "shipDescription": [
+        "猫鲨级潜艇棘鳍，舷号SS-244",
+        "ガトー級潜水艦カヴァラ・SS-244",
+        "Gato-class submarine – Cavalla, Hull Number SS-244."
+      ],
+      "selfIntroduction": [
+        "我在第一次执行巡航任务的时候，就逮到了机会，击沉了重樱的航空母舰！……轻松？才不呢！那次行动的前前后后可是充满了危机！不过，我都一一挺过去啦！指挥官有兴趣的话，我可以把这个故事慢慢说给你听！",
+        "あたし、初パトロールでチャンスを見つけて空母を沈めたんだ！……結構ピンチもあったから、別に楽なんかじゃなかったよ！まあ、全部乗り越えたけどね！この話に興味があったら今度教えてあげる！",
+        "I was given a golden opportunity during my maiden voyage and sank a carrier! ... It was a pretty risky move, and it wasn't easy! But in the end, I came out on top! If you wanna hear the whole story, just ask!"
+      ],
+      "acquisition": [
+        "我是白鹰的潜艇，棘鳍！我会为这支舰队带来更多的战果，请看着吧！指挥官",
+        "ユニオンの潜水艦、カヴァラ！艦隊のために戦果を持ってくるから待ってて！指揮官！",
+        "I'm Cavalla, the Eagle Union submarine! I'll make this fleet famous through glorious victories, so just you wait, Commander!"
+      ],
+      "login": [
+        "早安！指挥官今天也准时到了呢～",
+        "おはよう！今日も定刻通りに来たね！",
+        "Morning! You're right on time today!"
+      ],
+      "details": [
+        "潜艇可不只会藏在海中猎杀敌人。就算是在水面上，我也一样能战斗的！",
+        "海の中だけでしか戦えない潜水艦じゃないよ！水上でも大丈夫よ！",
+        "I'm no fish out of water that can't fight on the surface! It's no problem for me!"
+      ],
+      "secretaryIdle1": [
+        "以后潜艇会不会变得更强？比如说……能带更厉害的武器什么的？",
+        "潜水艦はもっと強くならないかな？例えば……もっとすごい武器を積めるようになるとか？",
+        "Could we make submarines stronger? By, for example... giving them stronger, better weapons or something?"
+      ],
+      "secretaryIdle2": [
+        "待在这里却什么也不做，总觉得有点空虚呢……指挥官，让我做点什么吧！",
+        "何もしないのにここにいるのはつまんないね。…指揮官、なんかやらせて！",
+        "It's so boring to just sit here and twiddle my thumbs... Give me something to do, Commander!"
+      ],
+      "secretaryIdle3": [
+        "呼哇——在陆地上，也能感受到不输海上的舒服的风呢！",
+        "ふはー！陸の上でも海と同じぐらい気持ちいい風があるんだー！",
+        "Whew! The breeze feels almost as good on land as it does at sea!"
+      ],
+      "secretaryTouch": [
+        "啊哈，哈哈哈！……别，别摸啦！哈哈，很，很痒的啦！",
+        "あははは！もう触るなははは！くすぐったいあははは！",
+        "Ahahaha~! Stop! Ahahah~! That tickles– ahahaha!"
+      ],
+      "secretarySpecialTouch": [
+        "你，你被逮捕了！",
+        "た、逮捕されちゃうよ！ぶーぶー！",
+        "I-I'll have you arrested!"
+      ],
+      "task": [
+        "把这些任务完成的话会有很多奖励吗？",
+        "任務をこなしたら報酬をいっぱい貰える？",
+        "Do we get a boatload of rewards if we do these missions?"
+      ],
+      "taskComplete": [
+        "哦哦！奖励有好多！指挥官，我想吃顿大餐！",
+        "おお！報酬が一杯！指揮官、いいもの食べよう！",
+        "Ooh! A boatload of rewards! Let's treat ourselves, Commander!"
+      ],
+      "mail": [
+        "有新的信息！会不会是潜艇同伴发来的？",
+        "新しいメッセージ！潜水艦の仲間からか？",
+        "A new message has arrived! Wonder if it's from one of my submarine friends!"
+      ],
+      "returnFromMission": [
+        "指挥官，需要潜艇发挥力量的时候，尽管找我吧！",
+        "指揮官、潜水艦の活躍が必要になったらカヴァラに声をかけて！",
+        "Commander, if you need the expertise of a submarine, just call on Cavalla!"
+      ],
+      "commission": [
+        "委托队顺利地返航了呢！",
+        "委託組、無事帰ってきたね！",
+        "The commission team has returned safely!"
+      ],
+      "strengthening": [
+        "我变强了！哼哼~",
+        "強くなった！ふふん！",
+        "I feel stronger! Heheh!"
+      ],
+      "startingMission": [
+        "同伴们，请借给我勇气吧！",
+        "仲間たち、勇気をちょうだい！",
+        "Give me strength, my friends!"
+      ],
+      "mvp": [
+        "这次的胜利可是多亏了我在哦，嘿嘿～",
+        "勝利はカヴァラのおかげ！へへへー",
+        "You can thank Cavalla for this victory! Hehehe~"
+      ],
+      "defeat": [
+        "呜呜呜，海水…好咸……",
+        "ぐぅ…海の水が塩辛いからだよぉ……",
+        "Bah... This happened just cause the sea is so salty..."
+      ],
+      "skillActivation": [
+        "这个机会，等了很久了！",
+        "待ってたよ！このチャンスを！",
+        "I've been waiting for this chance!"
+      ],
+      "lowHP": [
+        "不管情况多么险恶都不能放弃！",
+        "どんなに厳しい状況でも諦めない！",
+        "I won't give up, no matter how bad it gets!"
+      ],
+      "affinityDisappointed": [
+        "我不喜欢你！",
+        "嫌いだ！",
+        "I hate you!"
+      ],
+      "affinityStranger": [
+        "对失败的恐惧感，就用心中的勇气来克服！",
+        "負けるのが怖いなら、勇気を奮い立たせよう！",
+        "Fear of failure can be overcome by showing your courage!"
+      ],
+      "affinityFriendly": [
+        "光靠勇气是不能轻松胜利的！…这时候就需要依靠指挥官的力量啦！指挥官，有你的指示，我们就能跨过一切困难！",
+        "勇気だけでは楽に勝てない！…って時は、指揮官の力が大事ね！指揮官の指示さえあれば、あたしたちは何でも乗り越えられる！",
+        "Sometimes, courage alone isn't enough... And that's when I need your strength, Commander! With your instructions, we can overcome anything!"
+      ],
+      "affinityLike": [
+        "最近…感觉自己好像变胆小了…出击作战的时候不再像以前那样果断，思考的时候还总是不知不觉想到指挥官……一定是指挥官的错！…但是，真的是指挥官的错吗…",
+        "最近なんか臆病になった気がする…出撃のときに今までのようにシャキッと戦えなくなっちゃったし、指揮官のことを思うと……きっと指揮官のせいだ！…でも、本当に指揮官のせいなのかな……",
+        "I've been feeling sick lately... I can't fight with the same flair as I used to when I think about you... That's it, it's gotta be your fault, Commander! ... Actually, I'm not so sure..."
+      ],
+      "affinityLove": [
+        "我做了一个梦，梦到指挥官把我像个小孩一样抱起来，然后绕着整个港区在跑……很奇怪吧？更奇怪的事是，我居然还觉得挺开心的…为什么呢……",
+        "指揮官があたしを子供のように抱っこしながら母港中を走り回る夢を見た……おかしいよねこれ！妙に嬉しく気持ちになっちゃって……なんだろう…",
+        "I had a dream where you carried me and walked around the port... It was really weird! But for some strange reason, it makes me feel happy... I wonder why..."
+      ],
+      "pledge": [
+        "欸，等等，指挥官，你为什么把我抱起来了？你，你要做什么？“负重跑步训练”？别，别开玩笑了，大，大家都在看着啊！快把我放下来啦！",
+        "あわわ！待って待って！なんでいきなりだっこしてきたの！何をする気なの！？「ウェイトトレーニングの練習」？じょ、冗談じゃないよ！？みんなが見てるから早く下ろしてーー！！",
+        "Whuah! Hold on a sec! Why are you hugging me out of the blue?! What are you doing?! You call this \"weight training\"? A-are you kidding me?! Everyone's staring at us, so let go already!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Albacore) 要来比比看谁更厉害吗！",
+        "(Sortie with Albacore) どっちか強いか競争だ！",
+        "(Sortie with Albacore) Let's see who of us is the strongest!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I bought a box of Valentine's chocolate! Here, it's for you, Commander! Now, once you've eaten it, you don't get to treat me like a baby any longer!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Cavalla_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Cavalla_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Cavalla_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Cavalla_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Cavalla_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Cavalla_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Cavalla_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Cavalla_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Cavalla_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Cavalla_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Cavalla_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Cavalla_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Cavalla_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Cavalla_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Cavalla_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Cavalla_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Cavalla_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Cavalla_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Cavalla_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Cavalla_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Cavalla_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Cavalla_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Cavalla_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Cavalla_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Cavalla_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Cavalla_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Cavalla_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Cavalla_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Cavalla_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Cavalla_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Cavalla_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Cavalla_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Cavalla_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Cavalla_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Cavalla_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Cavalla_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Cavalla_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Cavalla_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Cavalla_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Cavalla_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Cavalla_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Cavalla_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Cavalla_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Cavalla_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Cavalla_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Cavalla_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Cavalla_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Cavalla_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Cavalla_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Cavalla_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Cavalla_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Cavalla_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Cavalla_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Cavalla_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Cavalla_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Cavalla_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Cavalla_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Cavalla_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Cavalla_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Cavalla_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Cavalla_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Cavalla_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Cavalla_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Cavalla_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Cavalla_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Cavalla_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Cavalla_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Cavalla_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Cavalla_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Cavalla_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Cavalla_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Cavalla_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Cavalla_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Cavalla_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Cavalla_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Cavalla_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Cavalla_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Cavalla_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Cavalla_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Cavalla_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Cavalla_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Convenience Store Raid!",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "便利店大作战！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "コンビニ作戦！",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7e/CavallaSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e6/CavallaSchoolChibi.png",
+      "shipDescription": [
+        "啊~指挥官你好慢啊！…嗯？这些东西？嘿嘿，这是刚从便利店的减价专区拿下的战利品哦！喏，分你个面包~",
+        "指揮官おそいよ！…これ？ふふん、コンビニの割引コーナーから手に入れた戦果だよ！はい、このパンあげる！",
+        "You're late, Commander! ... What's all this? Heheh, it's loot I got from the stop n' rob's bargain bin! Here, have some bread!"
+      ],
+      "acquisition": [
+        "啊~指挥官你好慢啊！…嗯？这些东西？嘿嘿，这是刚从便利店的减价专区拿下的战利品哦！喏，分你个面包~",
+        "指揮官おそいよ！…これ？ふふん、コンビニの割引コーナーから手に入れた戦果だよ！はい、このパンあげる！",
+        "You're late, Commander! ... What's all this? Heheh, it's loot I got from the stop n' rob's bargain bin! Here, have some bread!"
+      ],
+      "login": [
+        "等你很久啦，指挥官！",
+        "指揮官、待ってたよ！",
+        "I've been waiting for you, Commander!"
+      ],
+      "details": [
+        "这些零食是大青花鱼让我帮忙买的，鱼雷模型则是鲦鱼拜托的…便利店还真是什么都有呢！",
+        "スナックはアルバコアちゃんの分、魚雷プラモデルはデイスちゃんの分……コンビニって何でも置いてあるよね！",
+        "Some snacks for Albacore and a torpedo model kit for Dace... These convenience stores really have everything, don't they!"
+      ],
+      "secretaryIdle1": [
+        "这个是……哦哦，是超稀有啊！好厉害！指挥官指挥官，快看我抽到了什么！",
+        "！！スーパーレア！すごい！指揮官これこれ！へへへ～見せてやろー！",
+        "IT'S A SUPER RARE! Holy mackerel! Commander, look! Hehehe~ See what I just got?!"
+      ],
+      "secretaryIdle2": [
+        "限定版萨拉托加玩偶！怎么样，很羡慕吧！……之前就有了？难，难道我被骗了！",
+        "限定版サラトガちゃんぬいぐるみ！羨ましいでしょ～……も、もう持ってるの？あたし、騙された！？",
+        "I snagged myself a limited-edition Sara plushie! Aren't you jealous~? ... Y-you already own one? D-did they scam me?!"
+      ],
+      "secretaryIdle3": [
+        "学校生活比我想象中的有趣很多呢！嘿嘿，说不定我很适合当学生哦！",
+        "学園生活、思ってたよりずっと面白いよね！あたし、学生さんに向いてるかも！",
+        "School life is a lot more fun than I expected! I might just be a natural scholar!"
+      ],
+      "secretaryTouch": [
+        "啊，指挥官，不准抢我辛苦买来的半价薯片！",
+        "あ、指揮官！半額のポテチを持って行っちゃダメ！",
+        "No, Commander! You can't have my precious discounted chips!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，难道是挑准了这个在学校外的这个时机吗！",
+        "指揮官、学園の外にいるのを狙ってたの！",
+        "I bet you waited for me to leave school just to do that!"
+      ],
+      "task": [
+        "任务？是学校布置的作业吗？",
+        "任務？学園の宿題なの？",
+        "A mission? Is that my homework?"
+      ],
+      "returnFromMission": [
+        "指挥官，今天店里的热狗只要半价呢！",
+        "指揮官、今日はホットドッグ半額だって！",
+        "Commander, hotdogs are 50% off today!"
+      ],
+      "commission": [
+        "那，那难道就是传说中的“便利店扫荡大队”！……呃，原来是委托队吗。",
+        "あ、あれは伝説の「シールハンター」？！……あ、委託組だった",
+        "A-are they the fabled Fantastic Forty Percent Off?! ... Oh, it's just the commission team."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Cavalla_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Cavalla_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Cavalla_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Cavalla_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Cavalla_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Cavalla_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Cavalla_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Cavalla_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Cavalla_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Cavalla_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Cavalla_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Cavalla_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Cavalla_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Cavalla_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Cavalla_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Cavalla_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Cavalla_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Cavalla_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Cavalla_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Cavalla_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Cavalla_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Cavalla_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Cavalla_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Cavalla_Sec2Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Cavalla_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Cavalla_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Cavalla_TaskSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Cavalla_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Cavalla_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Cavalla_MissionFinSkin1JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Cavalla_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Cavalla_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Cavalla_CommissionSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Colorful Ceremony",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "五彩斑斓的宴会",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "カラフルセレモニー！",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Colorful Ceremony - Day 7 reward",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/62/CavallaParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3a/CavallaPartyChibi.png",
+      "shipDescription": [
+        "五颜六色的气球、五颜六色的花，还有五颜六色的好吃的东西！嘿嘿，晚会真棒啊！",
+        "色々な可愛い風船とお花、そして美味しそうな食べ物！へへへ！パーティーって良いよね！",
+        "Look at all the cute balloons and flowers, and the delicious food as well! Hehe! Parties are the best!"
+      ],
+      "acquisition": [
+        "五颜六色的气球、五颜六色的花，还有五颜六色的好吃的东西！嘿嘿，晚会真棒啊！",
+        "色々な可愛い風船とお花、そして美味しそうな食べ物！へへへ！パーティーって良いよね！",
+        "Look at all the cute balloons and flowers, and the delicious food as well! Hehe! Parties are the best!"
+      ],
+      "login": [
+        "指挥官，你终于来啦！我还担心指挥官会不会迷路了，找不到会场了呢……",
+        "指揮官、待ってたよ！もう、迷子になってないかって心配したよ！",
+        "Oh! I've been waiting for you, Commander! I was seriously worried that you'd gotten yourself lost!"
+      ],
+      "details": [
+        "指挥官，这个送给你！这是我特别订的手捧花！翔鹤小姐说，指挥官一定会喜欢这个的！",
+        "指揮官、これ！カヴァラのブーケ！指揮官はこれが好きだって翔鶴が言ってた！",
+        "Here, Commander! A bouquet for you! I heard from Shoukaku that you like these!"
+      ],
+      "secretaryIdle1": [
+        "如果拿着很多很多气球的话，我是不是也能飞起来呢？嘿嘿~",
+        "風船をたくさんもらって、カヴァラもいざ空へ！なんてね、えへへ",
+        "I'll gather up tons of balloons then take off into the sky! Yeah, as if! Hehehe~"
+      ],
+      "secretaryIdle2": [
+        "欸欸？为什么不让我喝嘛，明明我都不是小孩子了！",
+        "むむ、カヴァラまだこれを飲んじゃいけないんでしょ…？もう子供じゃないのに！",
+        "Hrrmm, still not old enough to drink, huh... I'm not a kid anymore, so what's the big deal?!"
+      ],
+      "secretaryIdle3": [
+        "指挥官，教教我交际舞嘛！我也想像姐姐们那样和指挥官跳舞呢！",
+        "指揮官、ダンスを教えて！みんなと同じように指揮官とダンスしたい！",
+        "Teach me how to dance, Commander! I wanna do it with you like everyone else does!"
+      ],
+      "secretaryTouch": [
+        "干杯！嘿嘿，我看姐姐们都是这样做的！",
+        "かんぱーい！えへへ、みんなこうしているでしょ？",
+        "A toast to the party! Hehehe~ That's how you do it, right?"
+      ],
+      "secretarySpecialTouch": [
+        "我要把你的行为告诉大家！",
+        "み、みんなに言いつけてやる！",
+        "I'm gonna tell on you for that!"
+      ],
+      "returnFromMission": [
+        "格里德利，能拜托你帮我和指挥官拍一张合照吗？谢谢啦！",
+        "グリッドレイ、カヴァラと指揮官のツーショットを撮って～！…ありがとう！",
+        "Hey Gridley, come take a pic of me and the Commander! Thanksies!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Cavalla_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Cavalla_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Cavalla_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Cavalla_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Cavalla_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Cavalla_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Cavalla_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Cavalla_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Cavalla_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Cavalla_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Cavalla_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Cavalla_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Cavalla_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Cavalla_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Cavalla_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Cavalla_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Cavalla_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Cavalla_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Cavalla_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Cavalla_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Cavalla_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Cavalla_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Cavalla_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Cavalla_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Cavalla_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Cavalla_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Cavalla_MissionFinSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

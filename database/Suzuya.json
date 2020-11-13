@@ -1,0 +1,462 @@
+{
+  "name": "Suzuya",
+  "constructionTime": "01:48:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Mogami",
+  "ID": "382",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "momi",
+  "pixiv": "https://www.pixiv.net/member.php?id=117402",
+  "twitter": "https://twitter.com/momi_current",
+  "link": "http://currentstorage.blog.fc2.com/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/c/cd/Suzuya_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4176,
+      179,
+      15,
+      237,
+      212,
+      80,
+      28,
+      209,
+      0,
+      11,
+      129,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3712,
+      156,
+      15,
+      206,
+      184,
+      34,
+      28,
+      181,
+      0,
+      11,
+      115,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      718,
+      66,
+      15,
+      44,
+      39,
+      13,
+      28,
+      39,
+      0,
+      3,
+      44,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA",
+  "slot1Efficiency": "125% → 135%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "95% → 110%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 24,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Firepower  +1",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    24,
+    13,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "The Dark-Dispelling Flame; CN: 划破夜空之火 JP: 夜闇を払う焔",
+  "skill1Description": "When own main battery hit 8 times, increases own Firepower by 1.5% (5%) and Reload by 10% (25%). Can be stacked 3 times. When effect is stacked 3 times, enhances barrage pattern.",
+  "skill2Name": "AP Protection; CN: 穿甲防护 JP: 徹甲弾防御",
+  "skill2Description": "Reduces AP damage taken by self by 10% (20%).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-鈴谷型",
+  "skill3Description": "Every 9 (6) times the main battery is fired, trigger Full Barrage - Suzuya-class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d9/Suzuya.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2d/SuzuyaChibi.png",
+      "shipDescription": [
+        "最上级重巡洋舰三番舰—铃谷",
+        "最上型重巡洋艦三番艦・鈴谷",
+        "Mogami-class heavy cruiser number three – Suzuya."
+      ],
+      "selfIntroduction": [
+        "我是最上型三号舰铃谷。曾经作为第七舰队的一员，和最上姐她们一起奋战过。最后的战斗虽然留下了一点遗憾…但是在这个新的战场，我会以全新的动力和新的伙伴们一起奋斗的。还请您多多关照了",
+        "最上型三番艦の鈴谷と申します。かの大戦では第七戦隊のメンバーとして、最上姉さんたちと奮戦しました。最後の戦いは少し無念でしたけど…この新しい戦場では心機一転して、新しい仲間たちとともに奮闘する所存です。何卒よろしくお願いします",
+        "I am Suzuya, third ship of the Mogami class. During that war, I fought alongside Mogami as a member of CruDiv 7. My last battle left me with a bit of regret... but I've been given a new beginning on this battlefield, and I'll fight alongside my new companions with a fresh outlook. I look forward to working with you."
+      ],
+      "acquisition": [
+        "最上型重巡洋舰铃谷，前来报到。指挥官，从今天起请多关照了哟",
+        "最上型重巡洋艦、鈴谷です。指揮官、今日から私のことをよろしくお願いしますね",
+        "I am Suzuya, Mogami-class heavy cruiser. I place myself under your command from this day forward."
+      ],
+      "login": [
+        "欢迎回来，指挥官。今天要从什么工作开始呢？",
+        "お帰りなさい。指揮官。手始めにどの仕事からされます？",
+        "Welcome back, Commander. Which job should we take on first?"
+      ],
+      "details": [
+        "指挥官？啊，我在预习下次上课的内容。请不用顾忌我，继续您的工作就可以了",
+        "指揮官？ああ、次の大講堂授業の予習をしています。私のことはお気になさらず執務に励んでください",
+        "Commander? Oh, I'm just preparing for the next lecture at the auditorium. Please don't worry about me, and continue your work as normal."
+      ],
+      "secretaryIdle1": [
+        "指挥官的视线…没、没什么！",
+        "指揮官からシセンが……な、なんでもありませんっ",
+        "Commander is looking at... N-nothing, don't worry about it!"
+      ],
+      "secretaryIdle2": [
+        "熊野，不可以给最上姐添麻烦哦？三隈姐又会胃疼的……",
+        "熊野、あまり最上姉さんに迷惑をかけてはダメよ？三隈姉さんの胃が痛くなる意味で……",
+        "Kumano, please don't make trouble for Mogami, all right? She's going to get a stomachache again..."
+      ],
+      "secretaryIdle3": [
+        "虽然也有我们是“铃谷型”的说法，但我还是觉得“最上型”听起来更舒服呢。毕竟大家从过去就一直在一起……",
+        "鈴谷型とも言われていましたけど、私はやはり最上型のほうがしっくり来ます。 あの大戦ではみんな一緒でしたから…",
+        "We're sometimes called the Suzuya class, but I still prefer being called the Mogami class. We all fought together during that war after all.."
+      ],
+      "secretaryTouch": [
+        "指挥官…刚才偷偷看我这里了吧？我都知道哦…？刚才能明显感受到您的视线…没错吧？",
+        "指揮官…私のココを見ましたよね？分かっていますよ…？今すごくシセンを注がれた気がして…ねぇ？",
+        "Commander... where do you think you're looking? Don't think I wouldn't notice... I could feel your gaze boring into me... Am I right?"
+      ],
+      "secretarySpecialTouch": [
+        "嗯…指挥官从一开始就是想要这样吧…铃谷可是很清楚的。没错，再清楚不过了……呵呵呵♡",
+        "んっ…はじめからそういうつもりだったこと…鈴谷ははっきりと分かっていますよ。ぜーんぶ、分かってます…ふふふふ♡",
+        "Nnh... So this is what you were after from the very beginning... I knew it all along. I've always known, this entire time... Ehehehe~♡"
+      ],
+      "task": [
+        "我整理了任务的进行状况，请过目",
+        "任務の遂行状況を整理しました。ご参考までにどうぞ",
+        "I've arranged the status of our current missions. Please look over them."
+      ],
+      "taskComplete": [
+        "任务奖励来了。真是让人开心呢～",
+        "任務報酬が届きました。嬉しいことです",
+        "The mission rewards have arrived. That is good news."
+      ],
+      "mail": [
+        "邮件送到了。这是…给指挥官的邮件…啊…",
+        "メールが届きました。指揮官へのメール……あぁ…",
+        "The mail has arrived. There's something for you, Commander... Ah..."
+      ],
+      "returnFromMission": [
+        "将经验总结或用到下次的战斗中是非常重要的哟。可以优先确认一下报告吗？",
+        "教訓を次に活かすのは大事ですね。レポートを優先して確認しましょうか？",
+        "We must apply what we've learned to future battles. Shall I prioritize writing the report first?"
+      ],
+      "commission": [
+        "委托组回到港区了。一起去迎接她们吧，怎么样？",
+        "委託組が母港に帰還しました。どうでしょう。一緒に出迎えに行きませんか？",
+        "The commission team has returned to port. What's next? Shall I go with you to greet them?"
+      ],
+      "strengthening": [
+        "战力强化了。太好了呢",
+        "戦力が強化されました。やりましたね",
+        "My abilities have been enhanced. Well done."
+      ],
+      "startingMission": [
+        "这次…绝对不会再逃避了！",
+        "今回は逃げません…決して！",
+        "I won't run away again... I swear it!"
+      ],
+      "mvp": [
+        "祝贺各位——诶？铃谷是MVP吗…？谢、谢谢…",
+        "おめでとうございます。え、鈴谷がMVPですか…？あ、ありがとうございます…",
+        "Congratulations. Eh, I'm the MVP...? Th-thank you very much..."
+      ],
+      "defeat": [
+        "唔…没办法呢……",
+        "くっ…仕方ありませんね……",
+        "Ugh... I guess that's it..."
+      ],
+      "skillActivation": [
+        "要认真上了！",
+        "本気で行きます…！",
+        "It's time to get serious...!"
+      ],
+      "lowHP": [
+        "就这点程度…我是不会撤退的！",
+        "この程度では…引き返しませんよ！",
+        "As if this... would be enough to make me turn back!"
+      ],
+      "affinityDisappointed": [
+        "最上姐是自我评价太低，不过指挥官的话，大概要变成他人评价低了呢……",
+        "最上姉さんは自己評価が低いですけど、指揮官は他人からの評価が低くなりそうですね",
+        "Mogami may often fail to recognize her own worth, but more and more people are starting to see how little you're worth."
+      ],
+      "affinityStranger": [
+        "想要了解我们最上型吗？嗯，我可以为指挥官做一一讲解。您想先听哪个？",
+        "最上型のことが気になるのですか？はい、私でよければ詳しく説明して差し上げます。どの艦からにしますか？",
+        "Would you like to learn more about the Mogami class? Very well, I'll be glad to explain everything from the top. Which one of us would you like to hear about first?"
+      ],
+      "affinityFriendly": [
+        "指挥官是对铃谷自身感兴趣吗？说给您听自然是没问题的……真的光说明就可以了吗？",
+        "鈴谷自身のことが気になるのですか？もちろんお聞かせしても構いませんが……説明だけで十分でしょうか…？",
+        "You're... most interested in Suzuya? Of course, I'd be glad to give you the details... but just explaining things wouldn't be enough, right...?"
+      ],
+      "affinityLike": [
+        "…想隐瞒是没用的。铃谷已经知道您的想法了了，指挥官您也对自己正直一点吧…！",
+        "……隠しても無駄です。鈴谷にその気があるのを分かってますよ。指揮官はもう素直になって……なりなさいっての！",
+        "...There's no point hiding it. I already know how you feel about me. Just shut up and... give in to your feelings already!"
+      ],
+      "affinityLove": [
+        "啊啊…指挥官的视线如此的…现在的话，感觉可以清楚地说出来了。铃谷一直十分仰慕指挥官……！？（小声）啊呜…说出来以后感觉有点…心痒痒的呢…",
+        "あぁ……指揮官のシセンはこんなにも…今なら上手く言えます。鈴谷、指揮官のことをお慕いして………（小声）あぅ！？やだ、なんかうずいちゃうじゃない……！",
+        "Ahh... Commander, your gaze is so passionate... so I can finally tell you... I've always admired you... Huh?! What's this? I feel all fluttery...!"
+      ],
+      "pledge": [
+        "（小声）指挥官，在仪式结束后……知道该做什么吧？请放心，铃谷会比所有人都更好对待指挥官的…对吧？达令♡",
+        "（小声）指揮官、この儀式が終わったら……分かっていますよね？ご安心ください。鈴谷はこれから誰よりも指揮官のことを良くして差し上げますから。ねぇ、ダーリン……♡",
+        "(whispers) Commander, when this ritual is over... you know what's next, right? Don't worry. I'll treat you better than anyone else. Isn't that right, darling~♡"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Mogami) 最上姐的苦处我能理解",
+        "(Sortie with Mogami) 苦労はお察しします",
+        "(Sortie with Mogami) I can understand your pain."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 1 of: Akagi, Atago, Junyou) 难道我也……？不对，我才没有……",
+        "(Sortie with at least 1 of: Akagi, Atago, Junyou) この私が…？違う、そんなことは……",
+        "(Sortie with at least 1 of: Akagi, Atago, Junyou) Did I also...? No, I would never."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Suzuya_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Suzuya_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Suzuya_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Suzuya_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Suzuya_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Suzuya_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Suzuya_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Suzuya_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Suzuya_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Suzuya_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Suzuya_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Suzuya_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Suzuya_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Suzuya_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Suzuya_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Suzuya_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Suzuya_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Suzuya_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Suzuya_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Suzuya_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Suzuya_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Suzuya_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Suzuya_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Suzuya_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Suzuya_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Suzuya_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Suzuya_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Suzuya_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Suzuya_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Suzuya_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Suzuya_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Suzuya_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Suzuya_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Suzuya_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Suzuya_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Suzuya_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Suzuya_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Suzuya_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Suzuya_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Suzuya_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Suzuya_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Suzuya_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Suzuya_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Suzuya_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Suzuya_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Suzuya_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Suzuya_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Suzuya_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Suzuya_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Suzuya_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Suzuya_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Suzuya_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Suzuya_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Suzuya_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Suzuya_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Suzuya_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Suzuya_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Suzuya_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Suzuya_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Suzuya_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Suzuya_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Suzuya_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Suzuya_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Suzuya_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Suzuya_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Suzuya_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Suzuya_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Suzuya_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Suzuya_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Suzuya_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Suzuya_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Suzuya_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Suzuya_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Suzuya_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Suzuya_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Suzuya_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Suzuya_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Suzuya_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Suzuya_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Suzuya_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Suzuya_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Suzuya_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Suzuya_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Suzuya_Extra2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

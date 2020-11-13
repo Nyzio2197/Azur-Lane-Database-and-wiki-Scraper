@@ -1,0 +1,445 @@
+{
+  "name": "Prototype Bulin MKII",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Bulin",
+  "ID": "002",
+  "faction": "Universal",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Asami_Shimoda",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      232,
+      116,
+      100,
+      23,
+      23,
+      116,
+      35,
+      23,
+      23,
+      3,
+      116,
+      33,
+      0,
+      0
+    ],
+    "Level 100": [
+      210,
+      105,
+      100,
+      21,
+      21,
+      105,
+      35,
+      21,
+      21,
+      3,
+      105,
+      31,
+      0,
+      0
+    ],
+    "Base Stats": [
+      100,
+      50,
+      100,
+      10,
+      10,
+      50,
+      35,
+      10,
+      10,
+      2,
+      50,
+      20,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 100%",
+  "slot2Equipment": "Anti-Air Guns",
+  "slot2Efficiency": "100% → 100%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "",
+  "limitBreak2": "",
+  "limitBreak3": "",
+  "skill1Name": "Prototype Bulin MKII; CN: 改造娘MKII JP: 改造娘MKⅡ",
+  "skill1Description": "Can be used as material to Limit Break Super Rare ships.",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/Prototype_Bulin_MKII.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/98/Prototype_Bulin_MKIIChibi.png",
+      "shipDescription": [
+        "试作型布里MKII，可以用于超稀有角色的突破",
+        "試作型ブリMKⅡ。SSレアのキャラの限界突破に使用可能",
+        "Prototype Bulin MKII. Can be used to limit break all Super Rare ships."
+      ],
+      "selfIntroduction": [
+        "哈哈哈哈！能见到本大人是你三生有幸——以后可以一起purin.purin了！ 作用？作用当然是purin一下让那些大家变强啦——怎么purin？就是这样purin！purin！",
+        "ハハハハ！このわたしに会えるなんて、あんたは幸せものだねーーこれから一緒にプリン・プリンってするんだよ！どうしてって？プリンっと、みんなを強くするって決まってるじゃない－－プリンってどうやって？こうプリン！プリンっと！",
+        "Hahaha! It's your lucky day now that you've met me! We can purin together from this day forward! What for? To make everyone stronger, obviously! How do you purin? Like this! Purin~! Purin~!"
+      ],
+      "acquisition": [
+        "purin~！舰队福音飒爽登场！有没有很感动，有没有很兴奋！举起你的双手，跟我一起，purin~purin！",
+        "プリン～！艦隊の救世主の登場よ！ドキドキした？ワクワクした？はい、手を挙げて～一緒にプリン！プリン！",
+        "Purin~! The herald of good fortune has arrived! Are you ready? Raise your hands and follow me... Purin~ purin~!"
+      ],
+      "login": [
+        "左钻钻，右钻钻，有事没事都purin.purin一下~",
+        "左掘って、右掘って、プリン、プリンっと！",
+        "Righty tighty, Lefty loosey, Stay calm and Purin on!"
+      ],
+      "details": [
+        "这并不能证明你不是咸鱼purin！",
+        "どんなに見ても上級者にはならないよー！",
+        "Staring at me all day won't turn you into an expert!"
+      ],
+      "secretaryIdle1": [
+        "purin~这里好大，跑起来好开心！",
+        "プリン～ここひろーい！走り回ってたーのしー！",
+        "Purin~! It's so big in here! There's so much room to run around!"
+      ],
+      "secretaryIdle2": [
+        "说起来本大人的作用好像不是跑来跑去？purin！",
+        "そういえばこのわたしの役割って走り回るだけじゃないよ、プリン？プリン！",
+        "Oh right, it's not my job to just run around, is it? Purin~!"
+      ],
+      "secretaryIdle3": [
+        "purin很吵？——谁管你呀！",
+        "プリンがうるさいって？ーーしーらない！",
+        "Purin~? I'm too loud? Hmph, who cares what you think!"
+      ],
+      "secretaryTouch": [
+        "purin~你是追不上本大人的！",
+        "プリン～このわたしは捕まらないよ！",
+        "Purin~ You can't catch me!"
+      ],
+      "secretarySpecialTouch": [
+        "purin——purin！（试作型布里MKII加快了转圈速度）",
+        "プリンーープリン！",
+        "Purin~ purin~! (Prototype Bulin MKII continues to spin faster)"
+      ],
+      "task": [
+        "purin！——新的任务，就决定是你了！",
+        "プリン！ーー次の任務は君に決めた!",
+        "Purin~! The next mission has been chosen for you!"
+      ],
+      "taskComplete": [
+        "purin领任务奖励，不会钻坏的！",
+        "プリン、ボーナスをもらいにいくだけだよ、壊さないよ！",
+        "I'm just heading out to fetch your rewards, purin! I promise I won't break them!"
+      ],
+      "mail": [
+        "purin！——秘技·钻尖飘信！",
+        "プリン！ーー秘技、ドリルとらんすれーしょん！",
+        "Purin! Secret skill: Drill Translation!"
+      ],
+      "returnFromMission": [
+        "要一起来跑圈放松一下吗purin！",
+        "プリンと走って気分転換しよ!プリン!",
+        "Let's run around and relax! Purin~!"
+      ],
+      "commission": [
+        "哇——咿！指挥官！完成委托的姐妹们回来了！让我钻些什么庆祝一下吧！",
+        "わーーい！指揮官！遠征に行った子たちが帰ってきたよ！なにか掘ってお祝いしよう！",
+        "Yaaaay~! Commander! The girls who went out on a commission have come back! Let's drill something to celebrate!"
+      ],
+      "strengthening": [
+        "<没有强化>",
+        "-",
+        "[Cannot be enhanced]"
+      ],
+      "startingMission": [
+        "purin！锤到让他们哭着跪下！",
+        "プリン！敵が泣くまで叩くのをやめないプリン！",
+        "Purin~! Don't stop until they kneel and cry!"
+      ],
+      "mvp": [
+        "purin！我是最强的！",
+        "プリン！わたし、最強！",
+        "Purin~! I'm the strongest!"
+      ],
+      "defeat": [
+        "说起来为什么我会上战场purin.purin？！",
+        "っていうかなんでわたしが戦場にいるプリン！？プリン？！",
+        "So why am I on the battlefield anyway, purin?!"
+      ],
+      "skillActivation": [
+        "我的钻头是突破天际的钻头口牙！",
+        "わたしのドリルは天を貫くドリルなのだ！",
+        "My drill is the drill that will pierce the heavens!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "居然能让本大人不喜欢你，要从另一个角度夸奖你一下！但是本大人才不会怒斥你，哇哈哈！享受这种虚无感吧！",
+        "このわたしを指揮官に失望させたとは、ある意味褒めてあげるべきよ！でもぉ、叱ってあげないもーんだ！わはは！この虚しさを味わうがいいわ！",
+        "You're pretty amazing to have gotten on my bad side! But I won't get angry just to appease you! Haha! Enjoy your emptiness!"
+      ],
+      "affinityStranger": [
+        "妹妹那个笨蛋，颜色当然不是发色，是稀……咦，稀什么来着，稀，吸，吸尘器，哦对，是吸尘器的颜色！",
+        "妹のバカ、色って髪色のことじゃないわ。れあ……れ、れなんだっけ…そ、そうよ！レンタル掃除機よ！",
+        "My sister is so dumb. When people talk about our colors, it's not about our hair, it's about ra... rari... ah, now I remember! Reality TV!"
+      ],
+      "affinityFriendly": [
+        "既然你这么有耐心，告诉你一个小秘密吧，妹妹虽然总是自称比我聪明，但她才是最笨的那一个。哇哈哈，这就是长姐的仁慈呀喵！",
+        "ここまで根性あるなら一つだけヒミツを教えてあげる。妹がいつもわたしより頭がいいと言ってるけど、実はあの子、わたしより頭悪いのよ？わはは、秘密にするのは長女としての慈悲だ！",
+        "I'll let you in on a little secret. My little sister keeps telling people that she's smarter than me. But truth is, she's dumber! I try to be nice and let her feel good about herself, like a big sister should. Ha!"
+      ],
+      "affinityLike": [
+        "哇~咿！本大人飞起来啦！好~高~啊~！喂，你别乱动，不然要是摔下来你可得负责接住本大人！",
+        "わーい！飛んでる！たーかーい！あああ動かないでよ~落ちる時にこのわたしを受けとめてよ！",
+        "Whee~! I'm flying! So~ high! Hey, don't move! You'll have to catch me if I fall!"
+      ],
+      "affinityLove": [
+        "你这家伙的好奇心还真是不一般，居然连本大人都想攻略！但是本大人才不会脸红娇羞，哇哈哈！就破例对你嘎哦一下好了！嘎哦！",
+        "まさかわたしも攻略しようとするなんて、あんたの好奇心はただものじゃないわ！でもこのわたしデレたりしないもーんだ！わははは！まあ特別にガオーだけしてやる！がおー！",
+        "You're not an average commander if you managed to conquer my heart. But I won't be shy or blush! Instead I'll give you a growl! Graaaah!"
+      ],
+      "pledge": [
+        "本大人是试作型布里MKII，是为了强化舰队而存在的，明知道这点你还是要送给本大人这个……真是个奇怪的家伙！但是，本大人喜欢你！来吧，举起你的双手，跟本大人一起，purin~purin！",
+        "このわたしこそ試作型ブリMKII、艦隊を強化するために生まれたもの！それを知りながらこれを渡すなんて……変なやつ！でも気に入った！はい、手を上げて、このわたしと一緒に～プリンプリン！",
+        "As a simple Bulin, I'm meant to just help strengthen your other ships... But you gave me this ring... You're a strange one! I like you! Come, let's raise our hands together and say purin~ purin~!"
+      ],
+      "giftDescriptionValentines2018": [
+        "今天是情人节，所以要给指挥官送巧克力purin? 但是布里不知道巧克力怎么做purin? 布里大危机purin!? 路过的航母给了布里巧克力purin!送给指挥官purin! 搞定purin!",
+        "今日はバレンタインだから、指揮官にチョコをプレゼントするプリン？でもわたしはチョコの作り方を知らないプリン！？もしかしてわたしピンチプリン！？通りすがりの空母がチョコをくれたプリン！指揮官にプレゼントプリン！セーフプリン！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "情人节的惯例～是收下人家的巧克力purin！我送的巧克力有时候会变多purin!?不过变多后也只有一个purin！怎么回事purin!?",
+        "バレンタインは～ブリからのチョコを貰うのが定番だプリン！わたしからもらうチョコは時々増えるプリン！？でも増えても一つだプリン！どうしてプリン！？",
+        "It's Valentine's Day, so Bulin has to make chocolate for the commander, purin? But Bulin doesn't know how to make chocolate, purin?! Bulin is in trouble, purin?! A passing carrier gave Bulin some chocolate, purin! Bulin will give it to the commander, purin! Crisis averted, purin!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's, purin! Here's some more chocolate for you, purin! How many years in a row does that make this, purin? Either way, you'll get even more next year, purin! Look forward to it, purin!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Prototype_Bulin_MKII_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Prototype_Bulin_MKII_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Prototype_Bulin_MKII_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Prototype_Bulin_MKII_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Prototype_Bulin_MKII_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Prototype_Bulin_MKII_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Prototype_Bulin_MKII_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Prototype_Bulin_MKII_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Prototype_Bulin_MKII_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Prototype_Bulin_MKII_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Prototype_Bulin_MKII_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Prototype_Bulin_MKII_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Prototype_Bulin_MKII_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Prototype_Bulin_MKII_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Prototype_Bulin_MKII_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Prototype_Bulin_MKII_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Prototype_Bulin_MKII_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Prototype_Bulin_MKII_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Prototype_Bulin_MKII_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Prototype_Bulin_MKII_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Prototype_Bulin_MKII_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Prototype_Bulin_MKII_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Prototype_Bulin_MKII_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Prototype_Bulin_MKII_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Prototype_Bulin_MKII_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Prototype_Bulin_MKII_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Prototype_Bulin_MKII_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Prototype_Bulin_MKII_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Prototype_Bulin_MKII_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Prototype_Bulin_MKII_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Prototype_Bulin_MKII_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Prototype_Bulin_MKII_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Prototype_Bulin_MKII_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Prototype_Bulin_MKII_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Prototype_Bulin_MKII_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Prototype_Bulin_MKII_CommissionJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Prototype_Bulin_MKII_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Prototype_Bulin_MKII_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Prototype_Bulin_MKII_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Prototype_Bulin_MKII_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Prototype_Bulin_MKII_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Prototype_Bulin_MKII_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Prototype_Bulin_MKII_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Prototype_Bulin_MKII_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Prototype_Bulin_MKII_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Prototype_Bulin_MKII_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Prototype_Bulin_MKII_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Prototype_Bulin_MKII_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Prototype_Bulin_MKII_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Prototype_Bulin_MKII_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Prototype_Bulin_MKII_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Prototype_Bulin_MKII_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Prototype_Bulin_MKII_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Prototype_Bulin_MKII_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Prototype_Bulin_MKII_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Prototype_Bulin_MKII_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Prototype_Bulin_MKII_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Prototype_Bulin_MKII_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Prototype_Bulin_MKII_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Prototype_Bulin_MKII_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Prototype_Bulin_MKII_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Prototype_Bulin_MKII_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Prototype_Bulin_MKII_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Prototype_Bulin_MKII_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Prototype_Bulin_MKII_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Prototype_Bulin_MKII_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

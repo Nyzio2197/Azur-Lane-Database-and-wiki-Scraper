@@ -1,0 +1,446 @@
+{
+  "name": "Musketeer",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "M",
+  "ID": "326",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Alisa",
+  "pixiv": "https://www.pixiv.net/member.php?id=1966676",
+  "link": "https://weibo.com/u/6056658230",
+  "voiceActor": "https://en.wikipedia.org/wiki/Yumiri_Hanamori",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1683,
+      201,
+      67,
+      76,
+      400,
+      210,
+      43,
+      156,
+      0,
+      9,
+      178,
+      223,
+      0,
+      0
+    ],
+    "Level 100": [
+      1402,
+      175,
+      67,
+      66,
+      358,
+      204,
+      43,
+      136,
+      0,
+      9,
+      169,
+      202,
+      0,
+      0
+    ],
+    "Base Stats": [
+      271,
+      74,
+      67,
+      14,
+      76,
+      78,
+      43,
+      29,
+      0,
+      2,
+      65,
+      55,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "95% → 100%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Destroyer (DD) Evasion  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    5,
+    25,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Calibrated Firing; CN: 校准射击 JP: 偏差修正射撃",
+  "skill1Description": "Every 20 seconds, increases own torpedo damage by 4.5% (12%). Can be stacked up to 8 times.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-M級",
+  "skill2Description": "Every 15 (10) times the main battery is fired, triggera Full Barrage - M Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/89/Musketeer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f1/MusketeerChibi.png",
+      "shipDescription": [
+        "M级驱逐舰—火枪手，舷号86",
+        "M級駆逐艦・マスケティーア（G86)",
+        "M-class destroyer – Musketeer (G86.)"
+      ],
+      "selfIntroduction": [
+        "皇家M级驱逐舰火枪手号，参与过北角海战！指挥官，让我砰—砰—地把你的坏心情全部消灭吧！",
+        "ロイヤルネイビーM級駆逐艦マスケティーア！北岬沖海戦参加歴あり！指揮官、このマスケティーアがパーン……パーンっとあなたの暗いココロ撃ち抜いちゃうぞ！",
+        "I'm the Royal Navy M-class destroyer Musketeer! I was in the Battle of the North Cape! Commander, little Musketeer is gonna shoot straight through your dreary heart with a bang bang!"
+      ],
+      "acquisition": [
+        "M级驱逐舰火枪手号，嘿嘿~我就知道今天会遇到什么好事~指挥官，港口在哪个方向？这边？还是这边！？",
+        "私はM級駆逐艦、マスケティーア！へっへー、今日はいいことがあると思ったんだ～指揮官、母港はどこかな？こっち？それともこっち！？",
+        "I am the M-class Destroyer, Musketeer! Hehe... I knew something good was going to happen today~ Commander, can you point me to where the port is? Here? Or over here?!"
+      ],
+      "login": [
+        "指挥官，早上好！今天的天气也很棒呀！砰—砰—！嘿嘿~我情绪总是莫名其妙的高涨呢",
+        "指揮官おっはよー！今日もいい天気～カチャカチャ…バン！ひゅ～なんだか私、いっつもハイテンションだよね！",
+        "Morning, Commander! Nice weather today! Click, click... bang! I'm not sure why, but I'm always brimming with energy!"
+      ],
+      "details": [
+        "指挥官，和我在一起的时候快乐吗？……啊，对不起，请把这个无聊的问题忘掉吧——",
+        "指揮官、私と一緒にいると楽しい？……あーごめん、今の忘れて？",
+        "Is it fun to hang out with me, Commander? ...Ah, sorry, never mind that."
+      ],
+      "secretaryIdle1": [
+        "今天一定会有好事发生的，嗯，我有这样的预感",
+        "今日はいいことが起きるよ～うん、そんな気がする！",
+        "Something nice is gonna happen today~ That's what I'm feeling!"
+      ],
+      "secretaryIdle2": [
+        "我总是在笑？嘿嘿~因为来到这里后我一直很高兴啊",
+        "いつも笑ってるって？へへへーだってここに来てからいっつも楽しいもん！",
+        "Why am I always smiling? Hehehe, because I've been having so much fun ever since I came here!"
+      ],
+      "secretaryIdle3": [
+        "战斗中受的伤？嘿嘿~一点都不痛啦～",
+        "戦闘中に負ったケガ？へへへー全然痛くないよ？",
+        "The injuries I've sustained from combat? Hehehe, they don't hurt at all."
+      ],
+      "secretaryTouch": [
+        "嘿嘿~心中又充满干劲啦~",
+        "へへへ～やる気、リロード完了～！",
+        "Hehehe~! You've reloaded me with energy!"
+      ],
+      "secretarySpecialTouch": [
+        "哎呀，我也不讨厌……嗯，不讨厌啦！",
+        "こういうのキライじゃないけど……うん…キライじゃないよ！",
+        "It's not like I *dislike* it, but... Yeah, I actually don't dislike it!"
+      ],
+      "task": [
+        "一鼓作气解决它们！",
+        "一気にやっちゃうぞ！",
+        "Finish them all in one go!"
+      ],
+      "taskComplete": [
+        "嘿嘿，见到钱高兴可是本能，本能！指挥官也更高兴一点嘛~",
+        "へへへ～お金を見て嬉しくなるのは人の本能！そう！指揮官も笑って笑って～",
+        "Hehehe~ It's just human instinct to smile at the sight of money! Yeah, that's it! Smile, Commander~!"
+      ],
+      "mail": [
+        "我就说今天会有好事发生啦！",
+        "ふんふん♪だから今日はいいことがあるって！",
+        "Heehee~! See? I told you something nice would happen today!"
+      ],
+      "returnFromMission": [
+        "指挥官，请看看我新编的军舞！放心吧，这次火枪里没有实弹！",
+        "指揮官、私の新しいマーチ芸を見て！大丈夫！今度は空砲だから！",
+        "Take a gander at my new marching act, Commander! Relax, I'm only using blanks this time!"
+      ],
+      "commission": [
+        "哇哦，好多奖励！多到我都想试试石油浴了！",
+        "わあ！ボーナスがいっぱい！燃料でお風呂を作ってみちゃったり！？",
+        "Wooow! Look at those mission rewards! We could fill a bathtub with all this oil!"
+      ],
+      "strengthening": [
+        "瞄准～射击——砰砰砰砰砰！",
+        "狙ってぇ～撃てーーパン！",
+        "Take aim~! Fire! Bang!"
+      ],
+      "startingMission": [
+        "呀吼~那么，以枪击为号——",
+        "やっほーじゃあー射撃よーい！",
+        "How-dee-doooo! I'm gonna shoot yooou!"
+      ],
+      "mvp": [
+        "射穿你的心☆~嘿嘿，我早想说一次这句台词了！",
+        "あなたのハート、ぶち抜いちゃうよ～へっへーいちど言ってみたかったんだ！",
+        "I'm gonna punch a hole straight through your heart~! Heheh, I've always wanted to say that!"
+      ],
+      "defeat": [
+        "悄悄地~灰溜溜地~撤出战场~♫",
+        "ひっそりこっそり脱出～♫っと",
+        "Time to make a sneaky exit~♫"
+      ],
+      "skillActivation": [
+        "转轮齐射，准备就绪！",
+        "装填完了～発射よーい！",
+        "Locked and loaded~! Ready to fire!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "赶快变回……原来那个指挥官啊……",
+        "はやく……元の指揮官に戻って……",
+        "Come on... Return to your former self, Commander..."
+      ],
+      "affinityStranger": [
+        "无论遇到什么都要想积极的方面，乐观、再乐观一点，嗯，我必须得这样才行！",
+        "どんなことがあっても前向き・陽気・ポジティブ！うん、そうでなくっちゃね！",
+        "No matter what life throws at you, always be optimistic, happy, and positive! You just gotta be!"
+      ],
+      "affinityFriendly": [
+        "和指挥官在一起，无论什么时候都很快乐~",
+        "指揮官といるといつも楽しいよ！",
+        "I always have tons of fun hanging out with you!"
+      ],
+      "affinityLike": [
+        "比起为无穷无尽的烦恼焦虑郁闷，果然还是打起精神快乐地度过每一天比较好吧，呐，指挥官也这么觉得吧？",
+        "悩むことより、やっぱり楽しく生きたほうがいいよね！ねえ、指揮官もそう思うでしょ？",
+        "We should all forget our worries and live to have fun! Don't you think so too, Commander?"
+      ],
+      "affinityLove": [
+        "遇见指挥官后，我也变了很多呢，不过……最本质的地方我始终是我哦！",
+        "指揮官と出会ってからなんか色々あったね…でも、本当の私はなーにも変わってないよ！",
+        "So much has happened since we first met... But I haven't changed a bit!"
+      ],
+      "pledge": [
+        "谢谢你，指挥官！与至今为止你给予我的那些相比，这个是最珍贵的！呐、呐，指挥官，我也给你留下了同样珍贵的快乐回忆了吗？",
+        "指揮官ありがとう！今までもらったものの中で一番大事なものだよ！ねえねえ、私も指揮官に楽しい思い出をあげちゃったのかな？",
+        "Thank you, Commander! This is the best thing I've ever gotten! Hey, tell me: have I given you some good memories, too?"
+      ],
+      "giftDescriptionValentines2019": [
+        "就用这发“巧克力弹”砰砰～地拿下指挥官的心吧！嘿嘿，有没有感觉到一点心动呢，指挥官？",
+        "マスケティーアのチョコバレットで、指揮官の心をパンと撃ち抜いちゃうよ～！なんて♪ 指揮官、今のでドキッとしちゃった？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, chocolate for you! Huh? The brand looks familiar...? Wh- what do you mean? It's a pretty normal one~ (What did Matchless do?!)"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Musketeer_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Musketeer_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Musketeer_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Musketeer_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Musketeer_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Musketeer_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Musketeer_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Musketeer_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Musketeer_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Musketeer_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Musketeer_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Musketeer_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Musketeer_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Musketeer_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Musketeer_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Musketeer_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Musketeer_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Musketeer_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Musketeer_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Musketeer_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Musketeer_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Musketeer_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Musketeer_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Musketeer_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Musketeer_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Musketeer_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Musketeer_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Musketeer_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Musketeer_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Musketeer_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Musketeer_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Musketeer_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Musketeer_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Musketeer_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Musketeer_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Musketeer_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Musketeer_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Musketeer_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Musketeer_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Musketeer_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Musketeer_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Musketeer_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Musketeer_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Musketeer_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Musketeer_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Musketeer_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Musketeer_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Musketeer_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Musketeer_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Musketeer_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Musketeer_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Musketeer_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Musketeer_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Musketeer_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Musketeer_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Musketeer_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Musketeer_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Musketeer_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Musketeer_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Musketeer_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Musketeer_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Musketeer_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Musketeer_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Musketeer_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Musketeer_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Musketeer_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Musketeer_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Musketeer_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Musketeer_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Musketeer_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Musketeer_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Musketeer_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Musketeer_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Musketeer_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Musketeer_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

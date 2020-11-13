@@ -1,0 +1,688 @@
+{
+  "name": "Akatsuki",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Fubuki",
+  "ID": "159",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "大月紅葉",
+  "pixiv": "https://www.pixiv.net/member.php?id=591937",
+  "twitter": "https://twitter.com/dayuehongye",
+  "link": "http://weibo.com/ootsukimomiji",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/d/d2/Akatsuki_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1747,
+      210,
+      45,
+      60,
+      493,
+      194,
+      45,
+      150,
+      0,
+      8,
+      178,
+      190,
+      0,
+      0
+    ],
+    "Level 100": [
+      1456,
+      183,
+      45,
+      52,
+      448,
+      188,
+      45,
+      130,
+      0,
+      8,
+      170,
+      171,
+      0,
+      0
+    ],
+    "Base Stats": [
+      282,
+      77,
+      45,
+      11,
+      95,
+      72,
+      45,
+      28,
+      0,
+      2,
+      65,
+      47,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 9,
+  "level120StatBonus": "Destroyer (DD) Accuracy  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    4,
+    31,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Destroyer Division 6: Akatsuki; CN: 六驱精锐·枫 JP: 第六駆逐隊・暁",
+  "skill1Description": "When paired with any of the Destroyers from Destroyer Division 6 (, , , ): increases own Firepower, Torpedo, and Reload by 5% (15%). This effect does not stack.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-暁型",
+  "skill2Description": "Every 15 (10) shots from the main battery, triggers Full Barrage - Akatsuki Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/96/Akatsuki.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3c/AkatsukiChibi.png",
+      "shipDescription": [
+        "特III型晓级驱逐舰一番舰—晓",
+        "特Ⅲ型駆逐艦一番艦・暁",
+        "Type III Akatsuki-class destroyer number one - Akatsuki."
+      ],
+      "selfIntroduction": [
+        "特型驱逐舰，忍者晓是也！和妹妹们一同组成了第六驱逐队是也！动工也好、沉没也好，全都是第一名是也！东所罗门海战？那是为了照亮敌舰，决、决不是因为在下害怕黑夜是也！在下真正的力量，就请指挥官阁下慢慢期待吧……是也！",
+        "特型駆逐艦、ニンジャの暁でござる！妹たちと第六駆逐隊を結成していたでござる！着工したのも、沈んだのもいっちばん先でござる！第三次ソロモン海戦？あ、あれは敵艦を照らし出すためであって、決して暗いのがこわいからじゃないの！…コホン！それがしの力、とくと見るが良い…でござる！",
+        "I am Akatsuki, a special-type destroyer! Destroyer Division Six consisted of me and my sisters! I was the first to be built and the first to be sunk! The Battle of Guadalcanal? I-I was trying to cast my light on the enemy! I was by no means scared of them! ... Ahem, you shall witness how strong I truly am... that you will!"
+      ],
+      "acquisition": [
+        "第六驱逐队的长姐，晓是也！指挥官阁下，请务必允许在下重建第六驱逐队！咦——这里不分什么驱逐队！？",
+        "第六駆逐隊の長女、暁でござる！ドーモ、指揮官殿、第六駆逐隊の再建を是非やらせてほしいでござる！ーーええ！ここで「駆逐隊」は禁止なの！？",
+        "I am Akatsuki, the oldest ship of Destroyer Division Six! Well met, Commander. I sincerely hope you will let me rebuild Division Six! ... Huh?! You do not permit the formation of destroyer divisions?!"
+      ],
+      "login": [
+        "在下晓，驱逐一切黑暗之忍者是也——咦咦！指挥官阁下，您、您什么时候出现的！",
+        "それがしの名は暁、全ての闇をことごとく振り払うニンジャでござる！ーーわわ！指揮官、い、いつからいたの？！",
+        "My name is Akatsuki, I am the ninja who will banish all the darkness in the world! ... Whoa! Commander, w-when did you get here?!"
+      ],
+      "details": [
+        "在下在夜里开灯可不是怕黑，绝、绝对不是哦！",
+        "そ、それがしが明かりをつけたままで寝たのは……こ、怖くなんかないわよ！",
+        "T-the reason I sleep with the lights on is because... i-it is not because I am afraid!"
+      ],
+      "secretaryIdle1": [
+        "有时候听不太懂雷和电在说些什么……",
+        "雷と電、何を言っているのか分からない……",
+        "Sometimes I do not understand what Ikazuchi and Inazuma are trying to say..."
+      ],
+      "secretaryIdle2": [
+        "响一个人能找到这里吗，在下有些担心……",
+        "響、一人でここを見つけられるかな…それがしちょっと心配でござる……",
+        "Can Hibiki find her way here on her own? It has me somewhat worried..."
+      ],
+      "secretaryIdle3": [
+        "夜里开灯突然照到人影，谁都会被吓一跳吧！",
+        "ななっなによ！夜中に明かりの中に人影が急に映ったら、誰だってビックリするでしょ！？",
+        "W-w-what! Anyone would be shocked from suddenly seeing a person's shadow cast in the light in the middle of the night!"
+      ],
+      "secretaryTouch": [
+        "真想快点见到响啊……",
+        "響……早く会いたい……",
+        "Hibiki... I really miss her..."
+      ],
+      "secretarySpecialTouch": [
+        "碰、碰那里的话，在下的力量会控制不住的！",
+        "そ、そんなところを触られたらわた……それがしの力が抑えられなくなるぞ！",
+        "S-should you touch me there again... then I will not be able to restrain myself!"
+      ],
+      "task": [
+        "夜里的大海有点可怕……虽然在下是不怕啦！不、不过，当然还是白天更适合做任务吧！",
+        "夜の海、ちょっと怖い……そ、それがしは別に怖くないでござるよ！で、でもやっぱり任務はお昼にしよ？ねえってば！",
+        "The ocean at night is a little scary... N-nay, I am not scared! B-but may I propose we do missions during daytime? You must agree, right?!"
+      ],
+      "taskComplete": [
+        "奖励~奖励~",
+        "ご褒美～ご褒美～",
+        "Rewards~ rewards~!"
+      ],
+      "mail": [
+        "是新邮件！唔……就由在下来念给你听吧",
+        "新しい手紙よ！うっ……それがしが読み上げて差し上げよう！",
+        "New mail for you! Uh... I will read it out loud for you!"
+      ],
+      "returnFromMission": [
+        "指挥官~有没有带回来什么亮闪闪的东西？诶？在、在下也不是特别想要啦……",
+        "指揮官～キラキラするものないの？ーーえ！？そ、それがしは別にほしくなんかないぞ！",
+        "Commander~ Did you bring back any shiny items? ... Hm?! N-not at all, I am not asking simply because I want such things!"
+      ],
+      "commission": [
+        "就用在下的探照灯为她们引领航路吧！咦——不需要？是、是吗……",
+        "それがしの探照灯で帰路を映し出すのでござる！えーーいらないの？そ、そう……？",
+        "We may use my searchlight to find our way home! Huh? ... You have no need of it? R-really...?"
+      ],
+      "strengthening": [
+        "作为长姐，必须得更努力才行！",
+        "長女としてもっと頑張るでござる！",
+        "As the oldest of my siblings, I must work even harder!"
+      ],
+      "startingMission": [
+        "第六驱逐队——出击！",
+        "第六駆逐隊ーー出撃、でござる！",
+        "Destroyer Division Six, embark!"
+      ],
+      "mvp": [
+        "这就是忍者！",
+        "これがニンジャでござる！",
+        "This is the true power of a ninja!"
+      ],
+      "defeat": [
+        "咕……下、下一次……",
+        "くっ……つ、次こそは……",
+        "Damn... I-I shall get you next time..."
+      ],
+      "skillActivation": [
+        "黑暗——消散！",
+        "闇よ！消え去れ！",
+        "O darkness, be gone!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官阁下，请振作起来！",
+        "指揮官殿、元気を出すのでござる！",
+        "Commander, you must cheer up!"
+      ],
+      "affinityStranger": [
+        "雷和电……有点担心她们呢",
+        "雷と電……ちょっと心配……",
+        "I am a little worried... about Ikazuchi and Inazuma..."
+      ],
+      "affinityFriendly": [
+        "指挥官，想看看我真正的右眼吗？",
+        "指揮官殿、それがしの真の右目をご覧になりたいのでござるか？",
+        "Commander, do you perhaps wish to see my true right eye?"
+      ],
+      "affinityLike": [
+        "妹妹们不在，晚上有点睡不着——是、是因为在下一直担心她们啦！",
+        "妹たちがいないと夜はぐっすり寝れないよ……べ、別に寂しくなんかないわよ！し、心配しているからでござるぞ！",
+        "I cannot sleep well without my sisters by my side... T-that is not to say I am lonely! I-it is because I am concerned about them!"
+      ],
+      "affinityLove": [
+        "我们第六驱逐队永远都会在一起！然后……那个、指挥官阁下，你也会和我们永远在一起吧！",
+        "私たち第六駆逐隊はずっと一緒だわ！その……えっと、指揮官もずっといてくれるよね！",
+        "We Division Six destroyers have always been together! And... um, surely you will be together with me forever as well, Commander?"
+      ],
+      "pledge": [
+        "永恒的契约吗……我明白了！那就在这里展露我真正的右眼吧！咦，不需要？只要把双眼闭上就好？是……是吗……",
+        "永遠の契……わかったでござる！ではそれがしの真の右目をここでお見せ…え、しなくていいの？目を閉じるだけでいいの？そ……そう……？",
+        "A promise that binds us for eternity... I understand! Then I shall show you my true right eye, right this mo... T-there is no need for it? All I need to do is close my eyes instead? Re... really...?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Inazuma) 一同照亮黑暗吧！",
+        "(Sortie with Inazuma) 一緒に闇を照らし出そう！",
+        "(Sortie with Inazuma) Together we shall shine a light on the darkness!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Ikazuchi) 永远都要在一起是也！",
+        "(Sortie with Ikazuchi) ずっと一緒だよ！",
+        "(Sortie with Ikazuchi) We will always be together!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "それがし、「ちょこれーと」を試作してみたでござる。よろしければ受け取ってほしいのでござる！――第六駆逐隊の長女として、これからもそれがしの活躍を期待してほしい…でござる！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官阁下，这是在下做的“朱古力”，请您收下！在下觉得自己肯定能在今年见到响！嗯！肯定……可以相见！",
+        "指揮官殿、それがしが作った「しょこらあと」、受け取って欲しいのでござる！今年こそそれがし、響に会える気がするでござる！うん！きっと…会えるよ！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, here's the chocolate I made with Hibiki and the girls! Ahaha, it was a lot of fun making it with everybody.. Ahem! It's nothing, don't worry! I vow I shan't be seduced by the confectionary arts!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Akatsuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Akatsuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Akatsuki_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Akatsuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Akatsuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Akatsuki_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Akatsuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Akatsuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Akatsuki_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Akatsuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Akatsuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Akatsuki_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Akatsuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Akatsuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Akatsuki_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Akatsuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Akatsuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Akatsuki_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Akatsuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Akatsuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Akatsuki_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Akatsuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Akatsuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Akatsuki_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Akatsuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Akatsuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Akatsuki_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Akatsuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Akatsuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Akatsuki_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Akatsuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Akatsuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Akatsuki_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Akatsuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Akatsuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Akatsuki_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Akatsuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Akatsuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Akatsuki_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Akatsuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Akatsuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Akatsuki_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Akatsuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Akatsuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Akatsuki_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Akatsuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Akatsuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Akatsuki_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Akatsuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Akatsuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Akatsuki_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Akatsuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Akatsuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Akatsuki_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Akatsuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Akatsuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Akatsuki_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Akatsuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Akatsuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Akatsuki_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Akatsuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akatsuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akatsuki_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Akatsuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Akatsuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Akatsuki_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Akatsuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Akatsuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Akatsuki_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Akatsuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Akatsuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Akatsuki_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Akatsuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Akatsuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Akatsuki_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Akatsuki_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Akatsuki_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Akatsuki_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Akatsuki_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Akatsuki_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Akatsuki_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Akatsuki Goes North",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "北极的迷途",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "暁、北極に行く",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a8/AkatsukiCamp.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/17/AkatsukiCampChibi.png",
+      "shipDescription": [
+        "这里就是北方联合吗？比想像的还要冷呢…准备抗寒装备果然是正确的！响，再等一等，姐姐现在就去找你！",
+        "ここは北方連合でござるか！？思ってたよりも寒いよぉ……や、やっぱり極地装備を持ってきてよかったでござるね！響、あとちょっとだけよ！お姉ちゃんを待ってて！",
+        "Is this the place called the Northern Parliament?! It is colder than I thought... Th-thank goodness I brought gear for extreme environments! Hibiki, please wait a bit longer! Your sister is coming to see you!"
+      ],
+      "acquisition": [
+        "这里就是北方联合吗？比想像的还要冷呢…准备抗寒装备果然是正确的！响，再等一等，姐姐现在就去找你！",
+        "ここは北方連合でござるか！？思ってたよりも寒いよぉ……や、やっぱり極地装備を持ってきてよかったでござるね！響、あとちょっとだけよ！お姉ちゃんを待ってて！",
+        "Is this the place called the Northern Parliament?! It is colder than I thought... Th-thank goodness I brought gear for extreme environments! Hibiki, please wait a bit longer! Your sister is coming to see you!"
+      ],
+      "login": [
+        "惟有准备万全，才能在任何时候都走在正确的方向上！——欸？东边是那边吗？",
+        "万全な準備をしてこそ正しい方向に進み続けられるでござる！――え？東はあっちでござる？",
+        "Being fully prepared is the key to going in the right direction! Say that again? The East lies *that* way?"
+      ],
+      "details": [
+        "白熊君们是我在旅途中交到的新朋友，指挥官也要和它们好好相处哦！",
+        "クマたちは旅で作った友達でござる！指揮官もこの子たちと仲良くしよう……でござるぞ！",
+        "I made friends of these bears on my journey! I suggest you try befriend them too, Commander... Er, forsooth!"
+      ],
+      "secretaryIdle1": [
+        "最后还是没能找到响…什么时候才能见到她呢？",
+        "響、まだ見つけられないよ…いつになったら会えるのかな…",
+        "I've still not found Hibiki... I really do wonder when we'll meet again."
+      ],
+      "secretaryIdle2": [
+        "多亏了这个指南针，在下才能顺利到达北方联合呢！……咦，指针被冰黏住了…！？",
+        "それがしはこのコンパスのおかげで北方連合に辿り着いたでござる！……え？針が凍っちゃってたの！？",
+        "It is thanks to my compass that I have arrived at the Northern Parliament! Huh? How long has the needle been frozen in place?!"
+      ],
+      "secretaryIdle3": [
+        "在下不在的时候，不知道雷和电有没有好好照顾自己啊……",
+        "雷と電、ちゃんと生活しているのかな……",
+        "I'm curious as to how Ikazuchi and Inazuma are faring..."
+      ],
+      "secretaryTouch": [
+        "指挥官阁下是想继续听在下的经历吗？",
+        "それがしの武勇伝をお聞きになられたいでござるか？",
+        "Would you care to harken to one of my tales of valor?"
+      ],
+      "secretarySpecialTouch": [
+        "哦哦，身体变暖了！但是，不知道为什么……还有些奇怪的感觉……",
+        "おお、暖かくなったでござる！…でもなんだろう……ちょっと変な感じがする……",
+        "Oooh, I feel myself warming up! I don't know why, though... Something about it feels strange."
+      ],
+      "returnFromMission": [
+        "“一定能找到响的！”在下正是靠着这个信念才坚持了下来！",
+        "「響はきっと見つけられる！」それがしはこの思いでやってきたでござる！",
+        "To one day find Hibiki – that is the reason I set out upon this journey!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Akatsuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Akatsuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Akatsuki_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Akatsuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Akatsuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Akatsuki_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Akatsuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Akatsuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Akatsuki_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Akatsuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Akatsuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Akatsuki_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Akatsuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Akatsuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Akatsuki_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Akatsuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Akatsuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Akatsuki_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Akatsuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Akatsuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Akatsuki_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Akatsuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Akatsuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Akatsuki_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Akatsuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Akatsuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Akatsuki_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Motoninja Akatsuki",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "摩托忍者，出击！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "モーターニンジャ暁",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/aa/AkatsukiCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/51/AkatsukiCasualChibi.png",
+      "shipDescription": [
+        "看到了吗，指挥官阁下，在下这全新的身姿、还有新的伙伴！如今的晓，不是一般的忍者，而是“摩托忍者”！",
+        "見たか指揮官殿！それがしのこの新しい装束、そして新しい相棒を！今のそれがしはもはや普通のニンジャではなく、まさにモーターニンジャでござる！",
+        "What do you think, Commander? I have a brand new outfit and a brand new companion! I am no longer a plain old ninja... I am now a motoninja!"
+      ],
+      "acquisition": [
+        "看到了吗，指挥官阁下，在下这全新的身姿、还有新的伙伴！如今的晓，不是一般的忍者，而是“摩托忍者”！",
+        "見たか指揮官殿！それがしのこの新しい装束、そして新しい相棒を！今のそれがしはもはや普通のニンジャではなく、まさにモーターニンジャでござる！",
+        "What do you think, Commander? I have a brand new outfit and a brand new companion! I am no longer a plain old ninja... I am now a motoninja!"
+      ],
+      "login": [
+        "“摩托忍者”晓，随时待命！请给在下安排任务吧！",
+        "モーターニンジャ暁、参上でござる！指揮官殿、いつでもご命令を！",
+        "Motoninja Akatsuki, reporting in! Commander, your orders please!"
+      ],
+      "details": [
+        "和伙伴已经共同驰骋许多的公路了呢，唔…下次叫上港区其他同伴一起去兜风感觉好像也不错！",
+        "相棒と遠くまで共に駆け抜けてきたでござる…ふむ、次は仲間たちも呼んで、一緒にひとっ走りしたい気分でござる！",
+        "My companion and I have shared so many miles together... Hm, maybe next time I should call my cohorts to take her for a spin together!"
+      ],
+      "secretaryIdle1": [
+        "尽管伙伴身上有强力的照明灯，不过夜里还是多少有些……",
+        "相棒のライトはすごく強力でござるけど、それがし、夜路はやっぱり……うぅぅ…",
+        "My companion's lights are strong indeed, but I still find these night roads rather difficult..."
+      ],
+      "secretaryIdle2": [
+        "刚开始，和伙伴还未磨合好的时候，还闹出了不少笑话…但是，现在的在下，已经能和伙伴一心同体了！",
+        "最初は乗りこなすのに色々苦労したでござるが、今はそれがし、相棒とは一心同体でござる！",
+        "Back before I had broken her in, my companion here gave me a lot of trouble. But these days? We move as one and the same!"
+      ],
+      "secretaryIdle3": [
+        "雷和电看到在下的伙伴，也会非常惊讶的吧！",
+        "雷と電、きっとそれがしの相棒に驚くのでござる！",
+        "Inazuma and Ikazuchi are going to be impressed with my companion!"
+      ],
+      "secretaryTouch": [
+        "在下的伙伴没办法把指挥官一同载上呢…",
+        "指揮官殿まで乗せられないでござるな…",
+        "I'm afraid you can't ride her, Commander..."
+      ],
+      "secretarySpecialTouch": [
+        "啊哇哇哇！要、要摔倒了啦！",
+        "あわわわ！こ、転んじゃうよ！",
+        "Wooooaaaahh!! I'm losing control!"
+      ],
+      "returnFromMission": [
+        "在下能够感觉到，和伙伴的羁绊越来越深了！",
+        "それがし、相棒との絆が深くなったのを感じるでござる！",
+        "My bond with my companion has grown even deeper!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Akatsuki_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Akatsuki_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Akatsuki_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Akatsuki_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Akatsuki_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Akatsuki_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Akatsuki_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Akatsuki_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Akatsuki_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Akatsuki_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Akatsuki_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Akatsuki_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Akatsuki_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Akatsuki_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Akatsuki_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Akatsuki_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Akatsuki_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Akatsuki_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Akatsuki_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Akatsuki_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Akatsuki_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Akatsuki_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Akatsuki_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Akatsuki_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Akatsuki_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Akatsuki_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Akatsuki_MissionFinSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

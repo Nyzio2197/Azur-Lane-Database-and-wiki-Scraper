@@ -1,0 +1,609 @@
+{
+  "name": "Mutsu",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Nagato",
+  "ID": "213",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Alisa",
+  "pixiv": "https://www.pixiv.net/member.php?id=1966676",
+  "link": "https://weibo.com/u/6056658230",
+  "voiceActor": "https://en.wikipedia.org/wiki/Tomoyo_Kurosawa",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7896,
+      145,
+      34,
+      409,
+      0,
+      34,
+      25,
+      185,
+      0,
+      14,
+      71,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6766,
+      126,
+      34,
+      368,
+      0,
+      16,
+      25,
+      161,
+      0,
+      14,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1309,
+      53,
+      34,
+      78,
+      0,
+      6,
+      25,
+      34,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "210% → 210%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 16,
+  "maxLimitBreakTechPoints": 32,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 24,
+  "enhancementValue": [
+    64,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Big Seven: Sakura; CN: BIG SEVEN-樱 JP: BIG SEVEN-桜",
+  "skill1Description": "When firing main gun: 20% (40%) chance to fire a frontal barrage (damage increases with skill level).",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Mutsu.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/96/MutsuChibi.png",
+      "shipDescription": [
+        "长门级战列舰二番舰—陆奥",
+        "長門型戰艦二番艦·陸奥",
+        "Nagato-class battleship number two – Mutsu."
+      ],
+      "selfIntroduction": [
+        "我是长门型二号舰陆奥！战前可是和长门姐姐轮流当联合舰队的旗舰哦～不过之后就交给大和小姐啦！外面的世界有好多新奇的东西呀～欸，三号炮塔？唔…这回应该没问题吧？",
+        "わたしは長門型二番艦の陸奥！あの大戦までは長門姉とぐるぐる交代で連合艦隊の旗艦をやったの！その後は大和さんに任せたけど！外の世界ってやっぱり色々新しいものがあるのね～三番砲塔？うん…今回は大丈夫よね？",
+        "I'm Mutsu, second ship of the Nagato class! Nagato and I used to swap back and forth between being the Combined Fleet's flagship! Later on, Yamato took on the role, though! Isn't it amazing how much there is to see in the world~? My third turret? Uh... I think it'll be okay this time."
+      ],
+      "acquisition": [
+        "你好~我叫陆奥，是长门姐姐的妹妹！那个那个，你就是指挥官吗？为什么你是指挥官呀？怎么样才能成为指挥官呀？指挥官是不是很厉害呀？告诉我告诉我~",
+        "こんにちは。わたしは陸奥！長門姉の妹！あの、貴方は指揮官？なんで？どうやって指揮官になるの？指揮官ってスゴイの？教えて教えて！",
+        "Hello, I'm Mutsu! Nagato's little sister! Um, are you a commander? Why? How do you become a commander? Is it cool to be one? Tell me, I wanna know!"
+      ],
+      "login": [
+        "啊，指挥官！跟你讲哦，你不在的时候我又发现了不知道的事情，所以所以，为什么——",
+        "あ、指揮官！えっと、いない間に分からないことがあったの！なんで……（陸奥が質問攻めしてきた）",
+        "Oh, hi, Commander! Something I don't understand happened while you were away! Why do... (Mutsu began asking a series of questions.)"
+      ],
+      "details": [
+        "指挥官，来帮我检查一下三号炮塔~",
+        "指揮官、三番砲塔の検査、手伝って！",
+        "Commander, help me inspect my third turret!"
+      ],
+      "secretaryIdle1": [
+        "指挥官，为什么这里要这样呀，这样不行吗？为什么呀？",
+        "指揮官、ここはなんでこうなるの？こうじゃダメなの？なんで？",
+        "Why do we need to write like this? Is it wrong to do it this way? Why?"
+      ],
+      "secretaryIdle2": [
+        "指挥官指挥官，外面好像有好玩的事情，我能去看看嘛？",
+        "指揮官、外はなんか面白そう！見に行っていいの？",
+        "I saw something interesting outside! Can I go check it out?"
+      ],
+      "secretaryIdle3": [
+        "蚂蚁们究竟会爬到哪里去呢，好好奇哦！",
+        "アリさんたちどこに行くんだろう…知りたい！",
+        "I wonder where those ants are heading... I wanna find out!"
+      ],
+      "secretaryTouch": [
+        "呀哈哈，指挥官，好痒啦~",
+        "あははは～指揮官くすぐったいよ～あははは～",
+        "Ahahaha~! That tickles, Commander~! Ahahaha~"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，为什么要这么做呀？这么做是什么意思呀？",
+        "指揮官、なんで触るの？どういうことなの？",
+        "Commander, why are you touching me? What's the meaning behind it?"
+      ],
+      "task": [
+        "指挥官，这个任务是要去干什么呀？还有这个呢？",
+        "指揮官、この任務は何するの？…これは？",
+        "Commander, what's this mission about? ... What about this one?"
+      ],
+      "taskComplete": [
+        "指挥官，任务奖励我放在炮塔上运过来啦，小心点不要吓着喵喵了~",
+        "指揮官？ボーナスは砲塔に乗せて運んできたの！あ！ネコさんを起こさないでね！",
+        "Commander? I put the mission rewards on my turret and brought them here! But don't wake up Mr. Kitty!"
+      ],
+      "mail": [
+        "这就是信呀…指挥官，我也给你写信然后你给我回信吧~",
+        "これが「めーる」ね…指揮官に「めーる」を書くから、「へんしん」してね！",
+        "This must be \"mail\"... I'll write a \"mail\" to you, so send me a \"reply\" later!"
+      ],
+      "returnFromMission": [
+        "指挥官不要动，我来给你驱邪~",
+        "指揮官動かないで、お祓いをしてあげる！",
+        "Hold still, Commander! I'm gonna perform an exorcism on you!"
+      ],
+      "commission": [
+        "指挥官，港口好像有人回来啦~",
+        "指揮官、誰かが港に戻ってきたよ！",
+        "Commander, some people just came back to the port!"
+      ],
+      "strengthening": [
+        "我会加油的！",
+        "頑張るよ！",
+        "I'll give it all I've got!"
+      ],
+      "startingMission": [
+        "联合舰队！那个…出击！",
+        "連合艦隊！えっと…出撃！",
+        "Combined Fleet! Uhh... move out!"
+      ],
+      "mvp": [
+        "指挥官快看快看，有条鱼好好看呢，它是什么鱼呀？",
+        "指揮官見て見て！すっごくきれいなお魚がいたの！何のお魚なの？",
+        "Commander, look! I saw a really pretty fish just now! What kind of fish was it?"
+      ],
+      "defeat": [
+        "指挥官，三号炮塔好像出了点问题…",
+        "指揮官、三番砲塔がちょっと……",
+        "Commander, it feels like my third turret's gonna..."
+      ],
+      "skillActivation": [
+        "喵喵，小心点哟，我要……认真啦！",
+        "ネコさん、しっかり捕まって～本気だすよ！",
+        "Mr. Kitty, hang on tight! I'm gonna get serious!"
+      ],
+      "lowHP": [
+        "我要保护大家！",
+        "みんなを守りたいの！",
+        "I want to protect my friends!"
+      ],
+      "affinityDisappointed": [
+        "指挥官…为什么呢？",
+        "指揮官…どうしてなの？",
+        "Commander... Just, why?"
+      ],
+      "affinityStranger": [
+        "和姐姐在柱岛的时候，我就常会想…天为什么会这么蓝呢？鸟儿为什么会飞呢？大家为什么要打来打去呢？…世界上不可思议的事情真的好多呢",
+        "むかし長門姉と一緒に柱島にいた頃からよく思ってたけど…空はなんで青いの？鳥はなんで飛べるの？みんななんで戦争するの？…不思議なことがいっぱい…",
+        "Ever since Nagato and I were at Hashira Island, I've wondered... Why is the sky blue? Why can birds fly? Why do we fight? ... There are so many things I wonder..."
+      ],
+      "affinityFriendly": [
+        "我知道的哟，有些事情搞明白了反而会让人更难过…但是我还是想弄明白～而且～有更多知道了会让人开心的事呀～",
+        "知らないほうが幸せなこともあるってわかっているけど…でも知りたいの！それに、知ったほうが幸せなことだってもっとあるでしょ？",
+        "I know some things you're happier if you don't know about, but... I still want to know! Besides, aren't there lots of things you're happier if you do know about them?"
+      ],
+      "affinityLike": [
+        "指挥官~~有时间陪我玩嘛？要工作的话我就等会儿再来问问，我有好多想问的问题，也有好多想让指挥官知道的事呢~",
+        "指揮官、わたしと遊ぼ？えっと、お仕事があるならまたあとで来るね？聞きたいことはいっぱいあるけど、指揮官に知っててほしいこともいっぱい、いっっぱいあるよ！",
+        "Commander, can we play? Umm, if you've got work to do, I can come back later. I have so much to ask, and also so, sooo much I wanna tell you!"
+      ],
+      "affinityLove": [
+        "想问指挥官喜不喜欢我，也想问我这样问来问去有没有添麻烦，还想要告诉指挥官，我最喜欢舰队的大家还有指挥官啦～",
+        "指揮官に聞くことは…えっと…わたしのことが好き？わたしに色々聞かれてメイワク？あとは…うん！艦隊のみんなと指揮官が大好きって言いたいの！",
+        "What I wanted to ask was... umm... do you like me? Are my questions annoying? And... Oh, right! I wanted to say that I love you, and I love all the friends I've made here!"
+      ],
+      "pledge": [
+        "这样我就和指挥官牢牢地联系在了一起吗？好厉害呀，我看到戒指，好像真的能感觉到和指挥官在一起的样子，这是为什么呀？",
+        "これでわたしと指揮官がつながっているのね？すごい！指輪を見ると、本当に指揮官と一緒にいるように感じるの！どうして？",
+        "So this means we'll be together as one? That's amazing! It really does feel like I'm together with you when I look at this ring! Why's that?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Nagato) 姐姐姐姐~一起加油吧！",
+        "(Sortie with Nagato) 長門姉～いっしょに頑張ろう！",
+        "(Sortie with Nagato) Nagato~! Let's give it all we've got!"
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你，这是我做的巧克力哦！而且，我又有好多问题了！为什么巧克力有很多颜色呢，为什么它又甜又苦呢，还有情人节又是什么呢？指挥官知道吗？",
+        "指揮官、長門姉と一緒に作ったチョコあげる！どうしてチョコって色んな形があるの？何でチョコって甘いのと苦いのがあるのー？指揮官教えてー！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, have these Valentine's chocolates! But why do we give chocolate on Valentine's Day? Why don't we just give it whenever we feel like it? I think that would be way better!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Mutsu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Mutsu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Mutsu_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Mutsu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Mutsu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Mutsu_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Mutsu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Mutsu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Mutsu_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Mutsu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Mutsu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Mutsu_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Mutsu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Mutsu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Mutsu_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Mutsu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Mutsu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Mutsu_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Mutsu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Mutsu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Mutsu_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Mutsu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Mutsu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Mutsu_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Mutsu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Mutsu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Mutsu_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Mutsu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Mutsu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Mutsu_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Mutsu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Mutsu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Mutsu_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Mutsu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Mutsu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Mutsu_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Mutsu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Mutsu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Mutsu_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Mutsu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Mutsu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Mutsu_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Mutsu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Mutsu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Mutsu_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Mutsu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Mutsu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Mutsu_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Mutsu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Mutsu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Mutsu_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Mutsu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Mutsu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Mutsu_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Mutsu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Mutsu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Mutsu_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Mutsu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Mutsu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Mutsu_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Mutsu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Mutsu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Mutsu_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Mutsu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Mutsu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Mutsu_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Mutsu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Mutsu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Mutsu_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Mutsu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Mutsu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Mutsu_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Mutsu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Mutsu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Mutsu_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Mutsu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Mutsu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Mutsu_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Mutsu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Mutsu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Mutsu_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Warring States Warship",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "战国风云少女",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "センゴク☆センカン",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/MutsuEvent.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3c/MutsuEventChibi.png",
+      "shipDescription": [
+        "指挥官，快看快看，风、林、火、山！浦风给我设计的，这样我也可以和矶风一起玩战国游戏啦！哼哼，大将陆奥可是超厉害的！指挥官不来一起玩吗？为什么呀？",
+        "指揮官、見て見て！ふーりんかざん！浦風に作ってもらったよ！これで陸奥も磯風たちと一緒にセンゴクごっこできるよね！ふっふん、大将陸奥はすごいんだから！指揮官は一緒にやらないの？どうして？",
+        "Commander, check it out! \"Nothing can stop me!\" Urakaze made it for me! Now I can play warring states with her! Heheh, you should know I'm a force to be reckoned with! Can't you come play with us? Why?"
+      ],
+      "acquisition": [
+        "指挥官，快看快看，风、林、火、山！浦风给我设计的，这样我也可以和矶风一起玩战国游戏啦！哼哼，大将陆奥可是超厉害的！指挥官不来一起玩吗？为什么呀？",
+        "指揮官、見て見て！ふーりんかざん！浦風に作ってもらったよ！これで陸奥も磯風たちと一緒にセンゴクごっこできるよね！ふっふん、大将陸奥はすごいんだから！指揮官は一緒にやらないの？どうして？",
+        "Commander, check it out! \"Nothing can stop me!\" Urakaze made it for me! Now I can play warring states with her! Heheh, you should know I'm a force to be reckoned with! Can't you come play with us? Why not?"
+      ],
+      "login": [
+        "指挥官，来陪我玩战国游戏！",
+        "指揮官、センゴクごっこやろー！",
+        "Commander, let's play Warring States!"
+      ],
+      "details": [
+        "指挥官，为什么战国也好，现在也好，大家总是打来打去的呀？",
+        "指揮官、センゴクでも今でも、なんで皆戦っているの……？",
+        "Commander, both now and back during the Warring States Period, why do people fight...?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，长门姐姐为什么明明想和大家一起玩却从来不说呢？我们一起去邀请她怎么样？",
+        "指揮官、どうして長門姉はみんなと一緒に遊びたいのにいつもなにも言わないの？わたしたちで誘おうよ！",
+        "Commander, why is it that Nagato wants to play with us, but won't say it? Come along, let's invite her to play!"
+      ],
+      "secretaryIdle2": [
+        "指挥官指挥官，我跟你说，天守阁超大的，我们来探险吧！",
+        "指揮官、あのねあのね、この天守閣、すごく大きいよ？一緒に探検でもしようよ！",
+        "Commander, hey, listen, I know about this massive castle tower! Let's go exploring inside it together!"
+      ],
+      "secretaryIdle3": [
+        "指挥官指挥官，今天也给我讲战国的故事嘛，我有好多想知道的呢！",
+        "指揮官指揮官、今日もセンゴクのお話をいっぱい聞かせて！",
+        "Commander, Commander! Tell me more stories about the Warring States Period!"
+      ],
+      "secretaryTouch": [
+        "嘿，呀！……唔，指挥官，要怎么样才能像高雄那样帅气地用刀呀？",
+        "ちぇすとー！……むぅ、指揮官、どうやったら高雄のようにかっこよく刀を振れるの？",
+        "Hiyaaah! ... Hmm, Commander, how do I learn to look cool while swinging my sword like Takao?"
+      ],
+      "taskComplete": [
+        "指挥官，任务奖励有多少万石呀？还有石是什么意思呀？",
+        "指揮官、任務報酬って何万石あるの？何万石ってどういうことなの？",
+        "Commander, how many koku are the mission rewards worth? And what is a koku?"
+      ],
+      "mail": [
+        "指挥官，有新的信件！难道是“三者”的情报吗？",
+        "指揮官、新しいメールよ！「三ツ者さん」からの情報なの？",
+        "Commander, you have new mail! Is it a report from Mitsu-what's-his-name?"
+      ],
+      "returnFromMission": [
+        "指挥官，出征辛苦啦！",
+        "指揮官、出兵お疲れ様！",
+        "Great work on the expedition, Commander!"
+      ],
+      "commission": [
+        "指挥官，我看书上说，对战争来说，资源是最重要的！不可以懈怠资源的获取哟！",
+        "指揮官、本で読んだけど、戦にはモノが大切だって！報酬を受け取るのはこまめに、ね！",
+        "Commander, I read in a book that having stuff is important in war! Remember to frequently claim your rewards!"
+      ],
+      "startingMission": [
+        "风！林！火！山！出击！",
+        "ふーりんかざん！すすめー！",
+        "Nothing can stop us! Chaaaarge!"
+      ],
+      "mvp": [
+        "指挥官指挥官，当我觉得自己是超厉害的战国武将时，战斗也好像变得轻松了呢！这是为什么呀？",
+        "指揮官、わたし、自分のことをすごいブショーだと思うようになったら、戦闘もなんだか楽勝だった！どうして？",
+        "Commander, when I imagine I'm an amazing general, my battles somehow get way easier! Why's that?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Mutsu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Mutsu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Mutsu_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Mutsu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Mutsu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Mutsu_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Mutsu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Mutsu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Mutsu_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Mutsu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Mutsu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Mutsu_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Mutsu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Mutsu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Mutsu_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Mutsu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Mutsu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Mutsu_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Mutsu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Mutsu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Mutsu_Sec1Skin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Mutsu_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Mutsu_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Mutsu_TaskCSkin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Mutsu_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Mutsu_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Mutsu_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Mutsu_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Mutsu_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Mutsu_MissionFinSkin1JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Mutsu_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Mutsu_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Mutsu_CommissionSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Mutsu_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Mutsu_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Mutsu_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mutsu_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mutsu_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mutsu_MVPSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

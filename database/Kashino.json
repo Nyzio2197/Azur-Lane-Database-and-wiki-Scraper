@@ -1,0 +1,589 @@
+{
+  "name": "Kashino",
+  "constructionTime": "01:30:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Kashino",
+  "ID": "472",
+  "faction": "Sakura Empire",
+  "classification": "Munition ship (AE)",
+  "retrofit": false,
+  "artist": "全班最菜嘤嘤嘤",
+  "twitter": "https://twitter.com/zelda10010",
+  "link": "https://weibo.com/u/7477949468",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/b/b0/Kashino_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      4980,
+      204,
+      58,
+      73,
+      0,
+      51,
+      14,
+      134,
+      0,
+      10,
+      212,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4256,
+      177,
+      58,
+      63,
+      0,
+      25,
+      14,
+      116,
+      0,
+      10,
+      191,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      823,
+      75,
+      58,
+      14,
+      0,
+      10,
+      14,
+      25,
+      0,
+      3,
+      73,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "90% → 110%",
+  "slot2Equipment": "Anti-Air Guns",
+  "slot2Efficiency": "70% → 80%",
+  "slot3Equipment": "Auxiliaries",
+  "slot3Efficiency": "None",
+  "collectionStatBonus": "Munition ship (AE) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Munition ship (AE) Health  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    4,
+    0,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Robust Ballasts; CN: 损伤警备",
+  "skill1Description": "For her first 3 battles of each sortie, reduce Gun damage taken by self by 10%. At start of battle, if fleet contains 2 or more Sakura Empire ships, increase own Speed by 10.",
+  "skill2Name": "Cargo Fire Precautions; CN: 小心火焰！",
+  "skill2Description": "When equipped with Transport Gear, reduce self burn damage taken by 15%, and burn time by 6s.",
+  "skill3Name": "All Out Assault; CN: 全弹发射II",
+  "skill3Description": "Every 15 (10) shots from the main battery, triggers Full Barrage - Kashino I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/79/Kashino.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/06/KashinoChibi.png",
+      "shipDescription": [
+        "运输舰—㭴",
+        "給兵艦・樫野",
+        "Munition ship – Kashino."
+      ],
+      "selfIntroduction": [
+        "我叫㭴，兴趣爱好是泡温泉，另外身高体重是……啊，现在不是要这方面的自我介绍呢！不好意思…嗯…我是为鲸级战列舰运送主炮——记得名字是叫做“九四式40厘米炮”而诞生的。后来也参与过一些普通的运输任务，不过最后因为潜艇的伏击而结束了自己的生涯。嗯…这样就可以了吧？",
+        "名前は樫野で、趣味は温泉に入ること、あと身長と体重は……あっ、そういう自己紹介じゃないですよね！すみません…ええと、大和型の主砲――「九四式四〇糎砲」を運搬するために生まれた船で、ほかには輸送任務にもちょっと参加して、最後は潜水艦に沈められました。んーこんなところで大丈夫でしょうか…？",
+        "My name is Kashino. My favorite hobby is relaxing in the hot springs, and my weight and height are... Ack, that's not what I'm supposed to be saying! Excuse me... Um, I was the ship that was created to transport the Yamato-class's 40cm Type 94 gun, but I also participated in various transport missions before finally being sunk by a submarine... Hmm, is that good enough...?"
+      ],
+      "acquisition": [
+        "初次见面，指挥官。我是重樱所属运输舰㭴。嗯…虽说姑且算是比较特殊的舰船，不过…有我能帮上的地方的话，请尽管交给我…好吗？",
+        "はじめまして、指揮官。重桜所属、給兵艦の樫野です。んーちょっと特殊な艦ですけど、私でも力になれるようなことがありましたら、お任せください…ね？",
+        "Well met, Commander. I am Kashino, munition ship of the Sakura Empire. Hmm... I may be a rather peculiar ship, but... if there's anything I can help with, please entrust it to me... is that acceptable?"
+      ],
+      "login": [
+        "指挥官，欢迎回来。今天有什么需要㭴运送的，或者其他㭴能帮得上忙的事吗？",
+        "指揮官、おかえりなさい。樫野になにか運んだり…お手伝いできたりすることはありませんか…？",
+        "Welcome back, Commander. Is there anything I can transport... Err, I mean, is there anything I can help you with...?"
+      ],
+      "details": [
+        "你说刀吗？…像这样？啊，很帅气吗？没有的事，我并不是特别擅长这个的…",
+        "武器は…えい！か、かっこいい、ですか？そんな、私全然うまく使えていませんよ…？",
+        "My weapon? ...Hyah! Eh? I look really cool? D-don't say that, I barely know how to use it..."
+      ],
+      "secretaryIdle1": [
+        "1、2、3……指挥官，您让准备的建材都在这里了。…嗯？不用大家一起搬哦？这么轻的东西…",
+        "1、2、3…指揮官、運搬をご指示された資材です。…ん？別にみんなで運ぶ必要はありませんよ？こんなの軽いものですし…",
+        "1, 2, 3... Commander, the supplies you've given me to transport are all accounted for. Hm? It's all right, you don't have to get everyone to help me carry it. It's not very heavy..."
+      ],
+      "secretaryIdle2": [
+        "♪～指挥官，我给您泡了茶哦。加了一点牛奶的皇家风味……觉得怎么样呢？",
+        "♪～指揮官、お茶をお持ちしました。牛乳を入れてちょっとロイヤル風に…いかがですか？",
+        "♪~ Commander, I brought you your tea. Adding a bit of milk will give it a Royal Navy flair... how about it?"
+      ],
+      "secretaryIdle3": [
+        "指挥官，在窗户边挂一些风铃怎么样？风铃飘动的时候，清脆的铃声能让人心情变好哦。",
+        "指揮官、窓に風鈴を飾ってみませんか、こう、さわさわーとした風で、ちりんちりーんとした音…気分がよくなりますね～",
+        "Commander, how about decorating your window with a windchime? Enjoying a refreshing breeze while enjoying this delicate sound will surely make you feel better~"
+      ],
+      "secretaryTouch": [
+        "是需要我把主炮运送到哪里吗？……啊，不好意思…我刚有点发呆了……",
+        "主砲を運ぶ任務ですか？…あっ、すみません、ちょっとぼーっとしてました……",
+        "Am I carrying main guns again? ...Ah, sorry, I spaced out a bit..."
+      ],
+      "secretarySpecialTouch": [
+        "呀啊！？指挥官？",
+        "ひゃぅ！？指揮官？？",
+        "Eek?! Commander?!"
+      ],
+      "secretaryHeadpat": [
+        "…！对、对不起，尾巴打到您了？",
+        "…！ご、ごめんなさい、しっぽで叩いちゃいました…？",
+        "Oh...! S-sorry, did I hit you with my tail...?"
+      ],
+      "task": [
+        "好像指挥官您还有新任务没完成？要注意一下时间哦。",
+        "まだ未完了の任務がありますか？期日には注意してくださいね",
+        "Do you still have missions to complete? Please be mindful of the deadlines."
+      ],
+      "taskComplete": [
+        "任务完成。心上挂念的事情又可以少一件了。",
+        "任務完了しました～これで気がかりがまた一つなくなりましたね",
+        "Mission complete~ That's one fewer thing to worry about."
+      ],
+      "mail": [
+        "物资中间好像夹杂着一封信件……啊，是给你的呢，指挥官。",
+        "運搬物資の山に手紙が……？あ、指揮官宛ですね。どうぞ",
+        "There's a letter on this pile of supplies...? Oh, it's addressed to you, Commander. Here you go."
+      ],
+      "returnFromMission": [
+        "嘿咻…啊，指挥官欢迎回来。我刚把大家带回来的物资都一口气搬到仓库里了。清单的话…请再稍微等一会哦",
+        "よいっしょ…あ、指揮官おかえりなさい。みんなが持ち帰ってきた物資とかを倉庫に入れてきたところです。納品リストは…ちょっと待っててくださいね",
+        "Phew... Oh, Commander, welcome back. I just finished stashing the supplies that the others brought back into the warehouse. The inventory? Um... please give me a moment."
+      ],
+      "commission": [
+        "委托队顺利返航了。比起迎接的那一方，我更擅习惯处在被迎接的那一边呢。",
+        "委託組が無事帰還しました。出迎えるより、出迎えられるほうが慣れていますね～",
+        "The commission team has returned safely. Let's go greet them. Having that said, I'm used to being in their position though, not the other way around~"
+      ],
+      "strengthening": [
+        "嗯……发生了什么变化吗？",
+        "何か変わりましたっけ…？",
+        "Hmm... Was I supposed to feel different...?"
+      ],
+      "startingMission": [
+        "对空战斗……开始！",
+        "対空戦闘…始めますっ！",
+        "Anti-air combat... commencing!"
+      ],
+      "mvp": [
+        "嗯……总感觉，心情有些微妙呢……",
+        "嬉しいというか、微妙な気持ちですね……ん…",
+        "This sense of elation is rather mysterious... Mm..."
+      ],
+      "defeat": [
+        "果然，和正规战斗舰船们一起作战还是太勉强了吗…",
+        "うぅ…流石に戦闘艦と一緒に戦うのは難しいですね……",
+        "Ugh... It's hard for me to keep up with the actual warships..."
+      ],
+      "skillActivation": [
+        "补给已经送到了！",
+        "補給物資、届きました！",
+        "I've brought the supplies!"
+      ],
+      "lowHP": [
+        "一点损伤……没关系，还撑得住！",
+        "艤装に損傷が……大丈夫、まだいけます！",
+        "It's just a scratch... Don't worry, I can keep going!"
+      ],
+      "affinityDisappointed": [
+        "哪怕再多的物资，指挥官大概也无法运用好吧……",
+        "物資を運んでも、指揮官はうまく運用できなさそうですね……",
+        "I can bring you all the supplies in the world, but you don't seem to be capable of using them well..."
+      ],
+      "affinityStranger": [
+        "这身舰装和其它舰船的相比，有一些特别之处呢。指挥官感兴趣的话……嗯，不如坐上来试试？",
+        "私の艤装はほかの艦船と比べてちょっと特別ですよ。気になりますか…？んー、こちらの甲板に乗ってみませんか？",
+        "My rigging is a bit different from that of the other girls. Want to learn more...? Mm, why don't you come take a seat on my deck then?"
+      ],
+      "affinityFriendly": [
+        "有些驱逐舰们喜欢和我玩游戏。嗯，就是那种，让她们坐在我的肩膀上，扮演大机器人之类的游戏…还是挺有趣的呢，嗯♪",
+        "駆逐艦の子たちとはよく遊んでいますよ。こう…両肩に一人ずつ乗せて、カイジュウごっことかロボットごっことかやってみたり…とても楽しいですよ。はい♪",
+        "I often play with the little destroyers. Like this... I put one on each shoulder and pretend like I'm some giant monster or robot... Yes, it's quite fun~♪"
+      ],
+      "affinityLike": [
+        "指挥官，累了的话，要不要去泡个澡？泡完澡再来一瓶新鲜的牛奶的话肯定…指挥官？？没事吧！？要带您去医务室吗？",
+        "指揮官、お疲れのようでしたら、一度、お風呂に入ってはいかがでしょうか？お風呂でさっぱりしてから新鮮な牛乳を飲んだらきっと……し、指揮官？？どうかしましたか？医務室までお連れしますか…？",
+        "Commander, if you're tired, why not take a bath? Afterwards, if you enjoy some fresh milk, you'll be sure to feel— C-Commander?? What's wrong? Should I take you to the infirmary...?"
+      ],
+      "affinityLove": [
+        "呼…啊，指挥官，感觉舒服多了吗？冰好的牛奶和点心，还有大家的慰问品我都放在这里了。想要冲冲背的时候话随时叫我就好～",
+        "ふぅ…あっ指揮官。スッキリしました？冷えた牛乳とお菓子と、みんなの差し入れをここに置きました。えへへ、また背中を流してほしいときはつでも声掛けてくださいね",
+        "Phew... Ah, Commander, are you feeling better now? I've brought iced milk, sweets, and everyone's well-wishes. Ehehe~ If you'd like me to wash your back again, just let me know."
+      ],
+      "pledge": [
+        "身为运输舰的我在战场上或许帮不上什么忙。但是指挥官却如此信赖我、重视我……我，会在各种方面努力的！嗯！",
+        "運送艦ですから戦闘ではそこまで役に立てないかもしれません。でも指揮官は私のことを信じて、大切にしてくださって……私、色々がんばります…！はい！",
+        "As a munition ship, I may not be very useful in combat. However, as long as you believe in me and cherish me... I'll try to be as useful as I can in other ways...! Mhm!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Shinano) 武器，运过来了！",
+        "(Sortie with Shinano) 兵装、届けに来ました！",
+        "(Sortie with Shinano) I've brought your armaments!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Kashino_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Kashino_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Kashino_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Kashino_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Kashino_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Kashino_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kashino_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kashino_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Kashino_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kashino_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kashino_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kashino_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kashino_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kashino_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kashino_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Kashino_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Kashino_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Kashino_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Kashino_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Kashino_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Kashino_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kashino_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kashino_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kashino_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Kashino_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Kashino_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Kashino_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Kashino_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Kashino_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Kashino_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Kashino_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Kashino_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Kashino_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Kashino_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Kashino_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Kashino_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Kashino_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Kashino_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Kashino_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Kashino_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Kashino_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Kashino_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Kashino_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Kashino_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Kashino_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Kashino_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Kashino_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Kashino_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kashino_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kashino_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kashino_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kashino_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kashino_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kashino_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kashino_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kashino_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kashino_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kashino_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kashino_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kashino_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Kashino_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Kashino_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Kashino_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kashino_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kashino_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kashino_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Kashino_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Kashino_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Kashino_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kashino_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kashino_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kashino_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kashino_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kashino_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Kashino_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Kashino_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Kashino_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Kashino_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kashino_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kashino_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kashino_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kashino_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kashino_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kashino_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Hot Springs Relaxation",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "温泉放松时间",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "湯上がりプレシュアタイム",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1080",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/ba/KashinoSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d1/KashinoSummerChibi.png",
+      "shipDescription": [
+        "啊…疼疼疼…对不起指挥官，好像踩着什么东西摔了一跤…想注意脚下有时候也很难呢…呜……",
+        "いたたた…ごめんなさい、なにか踏んで転んじゃいました……足元を注意しようにも中々難しいですね…くすん",
+        "Ack... Owww... My apologies, Commander, I seem to have slipped on something... At times, it's hard to notice things I'm about to step on... Ugh..."
+      ],
+      "acquisition": [
+        "啊…疼疼疼…对不起指挥官，好像踩着什么东西摔了一跤…想注意脚下有时候也很难呢…呜……",
+        "いたたた…ごめんなさい、なにか踏んで転んじゃいました……足元を注意しようにも中々難しいですね…くすん",
+        "Ack... Owww... My apologies, Commander, I seem to have slipped on something... At times, it's hard to notice things I'm about to step on... Ugh..."
+      ],
+      "login": [
+        "指挥官泡的舒服吗？我很喜欢这温泉哦",
+        "指揮官、湯加減いかがでした…？私、ここの温泉がとても好きなんです～",
+        "Commander, are you enjoying the water? Yes, I love the hot springs here~"
+      ],
+      "details": [
+        "要说这个温泉什么不足的话，就是太小了些…一不小心就很容易滑倒、或者是碰到什么东西…",
+        "ここに足りないところがあるとしたら…ちょっと狭いところ、ですね……気をつけないと滑ったり、色々当たっちゃいそうです…",
+        "If there's anything lacking about these hot springs, it's the fact that this place is too small... If you're not careful, it's easy to slip or to bump into various things..."
+      ],
+      "secretaryIdle1": [
+        "呼……肩膀也不酸了，真舒服～谢谢指挥官告诉我这么好的地方～",
+        "ふぅ……肩こりもなくなって気持ちよかった～指揮官、この温泉を教えてくれてありがとうございます～",
+        "Phew... That feels so good... My shoulders aren't stiff anymore~ Commander, thank you for telling me about this place~"
+      ],
+      "secretaryIdle2": [
+        "泳装是那、那个……能让指挥官……呜，说不出来啦……",
+        "み、水着は、その……指揮官に………や、やっぱりなんでもないですっ！",
+        "M-my swimsuit, um... Commander's going to see... Erm, please disregard that!"
+      ],
+      "secretaryIdle3": [
+        "洗完澡果然要喝牛奶呢～一会再来一瓶……第、第一瓶刚才摔倒的时候不小心洒掉了……",
+        "お風呂上がりは牛乳が一番ですね～あとでもう一本行きましょう♪……さ、さっきのはその、転んだ時にこぼしちゃいまして……",
+        "A nice bottle of milk after a refreshing soak really hits the spot~ Let's get another bottle later~♪ ...Um, I knocked the first one over when I slipped earlier..."
+      ],
+      "secretaryTouch": [
+        "要我给您冲冲背吗？",
+        "背中……お流ししましょうか？",
+        "Shall I... wash your back for you?"
+      ],
+      "secretarySpecialTouch": [
+        "果、果然很重吧……",
+        "お、重いですよね……",
+        "Th-they're pretty heavy, right...?"
+      ],
+      "mail": [
+        "说起来，刚才好像看到一封给指挥官的信……不好意思，忘了给您报告了……",
+        "そういえば、指揮官への手紙がありましたね～……ごめんなさい、報告するのを忘れていました……",
+        "By the way, Commander, there was a letter for you... Sorry, I forgot to report it earlier..."
+      ],
+      "returnFromMission": [
+        "今天的牛奶和冰箱我都搬到那边了哦。总结完之后就在这里好好泡个澡舒服一下吧～",
+        "今日の牛乳と冷蔵庫はあちらに運んであります。振り返りが終わりましたらここでリフレッシュしてくださいねー",
+        "I've kept the fresh milk in the fridge back there. After you've finished bathing, please feel free to help yourself~"
+      ],
+      "defeat": [
+        "好疼疼…今天看来运气不是很好呢…",
+        "いたた…今日はちょっとついていませんね…",
+        "Oww... My luck isn't so good today..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Kashino_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Kashino_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Kashino_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kashino_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kashino_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kashino_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kashino_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kashino_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kashino_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Kashino_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Kashino_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Kashino_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Kashino_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Kashino_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Kashino_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Kashino_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Kashino_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Kashino_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Kashino_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Kashino_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Kashino_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kashino_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kashino_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kashino_Sec2Skin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Kashino_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Kashino_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Kashino_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kashino_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kashino_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kashino_MissionFinSkin1JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Kashino_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Kashino_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Kashino_DefeatSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

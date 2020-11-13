@@ -1,0 +1,550 @@
+{
+  "name": "Fumizuki",
+  "constructionTime": "00:21:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Mutsuki",
+  "ID": "277",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "しらたま",
+  "pixiv": "https://www.pixiv.net/fanbox/creator/705370",
+  "twitter": "https://twitter.com/shiratamacaron",
+  "link": "http://shiratamaco.com/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/2/2d/Fumizuki_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1516,
+      201,
+      27,
+      60,
+      438,
+      193,
+      44,
+      128,
+      0,
+      8,
+      178,
+      184,
+      0,
+      0
+    ],
+    "Level 100": [
+      1263,
+      175,
+      27,
+      52,
+      396,
+      187,
+      44,
+      112,
+      0,
+      8,
+      169,
+      165,
+      0,
+      0
+    ],
+    "Base Stats": [
+      244,
+      74,
+      27,
+      11,
+      84,
+      72,
+      44,
+      24,
+      0,
+      2,
+      65,
+      45,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "125% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    4,
+    28,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Quick Reload; CN: 快速装填 JP: 快速装填",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Reload by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-睦月型",
+  "skill2Description": "Every 15 (10) shots from the main guns, trigger Full Barrage - Mutsuki-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2c/Fumizuki.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a6/FumizukiChibi.png",
+      "shipDescription": [
+        "睦月级驱逐舰七番舰—文月",
+        "睦月型駆逐艦七番艦・文月",
+        "Mutsuki-class Destroyer number seven – Fumizuki."
+      ],
+      "selfIntroduction": [
+        "我是睦月级的文月，和姐妹们一样擅长护卫和运输，是睦月级的驱逐舰……欸？说过了吗？",
+        "睦月型の文月、みんなとおなじ、「ゆそうにんむ」と、「ごえいにんむ」がとくいだよ。ええと、文月が睦月型の……およ？もういってたっけ……",
+        "I'm Fumizuki, of the Mutsuki class. Like my sisters, I specialize in long-range transport and escort missions. Um, I'm Fumizuki, of the... Huh? Oh wait, I already said that..."
+      ],
+      "acquisition": [
+        "指挥官？对了……我在找指挥官来着……嗯？原来你就是吗？",
+        "しきかん？そうよね、しきかんをさがすべきだよね……およ？あなたがしきかんなの…？",
+        "Commander? Oh, right... I'm looking for the commander here... Huh? You're the one?"
+      ],
+      "login": [
+        "嗯？原来指挥官一直在的吗？",
+        "およ？しきかん、いたの？",
+        "Huh? Commander, when'd you get here?"
+      ],
+      "details": [
+        "该，该不会我又弄错什么了吧？",
+        "ま、またまちがえちゃった…？",
+        "D-Did I mess up again...?"
+      ],
+      "secretaryIdle1": [
+        "睦月她每天都在吃糖，会不会蛀牙啊……",
+        "睦月ちゃん、まいにちアメさんたべてるけど、むしばにならないのかな……",
+        "Mutsuki is always munching on candy every day, won't she get cavities...?"
+      ],
+      "secretaryIdle2": [
+        "卯月又丢东西了，我想帮她找找……嗯？昨天已经找到了吗？",
+        "卯月ちゃん、またものをなくしちゃったから、さがすのをてつだって……およ？きのうみつかったの？",
+        "Uzuki lost something again, so I'd like to help her find it... Huh? It's already been found?"
+      ],
+      "secretaryIdle3": [
+        "要，要帮忙的话，我会加油的……",
+        "て、てつだうことがあったら、わたしもがんばるよ……",
+        "If... If you need my help with anything, I'll give it my best shot..."
+      ],
+      "secretaryTouch": [
+        "嗯？是要帮我梳头吗？",
+        "およ？「てぐし」してくれるの？",
+        "Huh? Are you going to help me brush my hair?"
+      ],
+      "secretarySpecialTouch": [
+        "嗯？这，这是朋友的象征吗？",
+        "およ？これがお、おともだちのあかしなの？？",
+        "Huh? Is this... a symbol of friendship?"
+      ],
+      "task": [
+        "指挥官，那个奖励……嗯？要做完任务才能拿的吗？",
+        "しきかん、あの、ほうしゅうは……およ？「にんむかんりょう」でもらえるの？",
+        "Commander, um... about those rewards... Huh? I have to finish the mission first?"
+      ],
+      "taskComplete": [
+        "指挥官，还有任务……嗯？已经完成了？",
+        "しきかん、にんむはまだ……およ？もうかんりょうしたの？",
+        "Commander, about the mission... Huh? You're already done?"
+      ],
+      "mail": [
+        "指挥官，有你的情书……嗯？原来那是水无月的玩笑，不是真的？",
+        "しきかん、「らぶれたー」……およ？水無月ちゃんのじょーだんなの？ほんとうじゃないの？",
+        "Commander, there's a love letter for you... Huh? It's not real? Just one of Minazuki's pranks?"
+      ],
+      "returnFromMission": [
+        "嗯？大家不是刚刚才走的吗？",
+        "およ？みんないったばかりなのに…？",
+        "Huh? Didn't you guys leave just a minute ago...?"
+      ],
+      "commission": [
+        "指挥官，委托还没有……嗯？奖励已经领了吗？",
+        "しきかん、いたくはまだ……およ？ほうしゅうがもうきてるの？",
+        "Commander, how are the commissions going... Huh? You've already collected the rewards?"
+      ],
+      "strengthening": [
+        "感觉没什么变化……",
+        "とくにかわってないっぽい……",
+        "I feel about the same-ish..."
+      ],
+      "startingMission": [
+        "嗯？是要开始攻击了吗？",
+        "およ？こうげきかいしー、なの？",
+        "Huh? We're about to start our attack?"
+      ],
+      "mvp": [
+        "嗯？已经结束了吗？",
+        "およ？もうおわりなの？",
+        "Huh? Already over?"
+      ],
+      "defeat": [
+        "嗯？要准备撤退了吗？",
+        "およ？もうてったいするの？",
+        "Huh? Already retreating?"
+      ],
+      "skillActivation": [
+        "嗯？到我了吗？",
+        "およ？文月のでばん？",
+        "Huh? It's my turn?"
+      ],
+      "lowHP": [
+        "嗯？我有危险了吗？",
+        "およ？ピンチ…？",
+        "Huh? Am I in a pickle?"
+      ],
+      "affinityDisappointed": [
+        "大家都说不要靠近指挥官……",
+        "しきかんにちかづいちゃダメって、みんなが……",
+        "Everyone warned me... not to get close to the commander..."
+      ],
+      "affinityStranger": [
+        "指挥官，我把睦月从办公室偷拿的糖还回来了……嗯？是指挥官给她的吗？",
+        "しきかん、睦月ちゃんがしつむしつからとっていったアメさんをとりもどしたよ？……およ？睦月ちゃんにあげたものだったの？",
+        "Commander, I'm returning the candy that Mutsuki swiped from your office... Huh? You gave it to her?"
+      ],
+      "affinityFriendly": [
+        "指挥官，请和我交往吧……嗯？不是交朋友的意思吗？",
+        "しきかん、文月とつきあってー…およ？おともだちになろっていみじゃないの？",
+        "Commander, please consort with me... Huh? That doesn't mean let's be friends?"
+      ],
+      "affinityLike": [
+        "最近姐妹们看到我和指挥官在一起，都会偷偷说些什么……嗯？是说我帮忙辛苦了吗？我觉得蛮轻松的……",
+        "さいきんはしきかんといっしょにいると、みんなにこそこそなにかいわれてるの…およ？おつかれさまっていわれてるの？文月、べつにつかれてないよ……？",
+        "Recently, my sisters have started whispering things when they see us together... Huh? They're saying I must have a rough time working so hard? But, I'm pretty relaxed..."
+      ],
+      "affinityLove": [
+        "指挥官，请和我交往吧……嗯？不是喜欢的意思吗？",
+        "しきかん、文月とつきあってー…およ？あなたのことがダイスキっていみじゃないの？",
+        "Commander, please consort with me... Huh? That doesn't mean \"I like you\" either?"
+      ],
+      "pledge": [
+        "嗯？为什么大家都在？我和指挥官的关系最好……大家不是早已经都知道了吗？",
+        "およ？なんでみんながここにいるの？文月としきかんがなかよしなの……みんなしってるのになんで？？",
+        "Huh? Why is everyone here? Didn't you all already know that Commander and I get along the best... so why?"
+      ],
+      "giftDescriptionValentines2019": [
+        "嗯？今天是情人节吗？差点就忘记要送巧克力了……",
+        "およ？きょうはバレンタイン？チョコレートおくるのを、わすれるところだった……しきかん、文月からチョコ、あげるよ？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "It's Valentine's Day, so I have to give you some chocolate, Commander...! Hm? How do I know it's Valentine's Day? Weird..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Fumizuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Fumizuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Fumizuki_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Fumizuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Fumizuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Fumizuki_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Fumizuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Fumizuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Fumizuki_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Fumizuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Fumizuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Fumizuki_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Fumizuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Fumizuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Fumizuki_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Fumizuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Fumizuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Fumizuki_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Fumizuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Fumizuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Fumizuki_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Fumizuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Fumizuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Fumizuki_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Fumizuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Fumizuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Fumizuki_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Fumizuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Fumizuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Fumizuki_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Fumizuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Fumizuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Fumizuki_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Fumizuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Fumizuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Fumizuki_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Fumizuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Fumizuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Fumizuki_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Fumizuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Fumizuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Fumizuki_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Fumizuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Fumizuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Fumizuki_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Fumizuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Fumizuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Fumizuki_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Fumizuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Fumizuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Fumizuki_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Fumizuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Fumizuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Fumizuki_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Fumizuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Fumizuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Fumizuki_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Fumizuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Fumizuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Fumizuki_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Fumizuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Fumizuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Fumizuki_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Fumizuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Fumizuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Fumizuki_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Fumizuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Fumizuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Fumizuki_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Fumizuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Fumizuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Fumizuki_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Fumizuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Fumizuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Fumizuki_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Fumizuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Fumizuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Fumizuki_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Sleepy Fairy",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "迷糊的妖精",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ねぼけてフェアリー",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/FumizukiSleepy.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9e/FumizukiSleepyChibi.png",
+      "shipDescription": [
+        "嗯……？我在哪……？现在是……什么时间来着……？",
+        "およ……？ここどこ……？いまはなんじなの……？",
+        "Huh...? Where am I...? What time is it...?"
+      ],
+      "acquisition": [
+        "嗯……？我在哪……？现在是……什么时间来着……？",
+        "およ……？ここどこ……？いまはなんじなの……？",
+        "Huh...? Where am I...? What time is it...?"
+      ],
+      "login": [
+        "下午好……指挥官……嗯？不是下午吗？",
+        "しきかん……こんにちは……およ？ちがうの…？",
+        "Commander, good afternoon... Huh? It's not...?"
+      ],
+      "secretaryIdle1": [
+        "水无月……好吵……",
+        "水無月……うるさいよ……",
+        "Minazuki... keep it down..."
+      ],
+      "secretaryIdle2": [
+        "再让我睡一会……不行吗……呼……",
+        "もうちょっと……ねさせて……Zzzz……",
+        "Lemme sleep... a bit longer... Zzzzz..."
+      ],
+      "secretaryIdle3": [
+        "带着枕头的话，就能随时睡觉了……嗯？不行吗？",
+        "まくらをもっていればいつでもねれ……およ？ダメなの？",
+        "If I bring a pillow with me, I'll be able to sleep on the go... Huh? I can't?"
+      ],
+      "secretaryTouch": [
+        "指挥官的腿……好舒服……",
+        "しきかんのふともも……きもちいい……",
+        "Commander's leg... so comfy..."
+      ],
+      "secretarySpecialTouch": [
+        "唔唔……这样……睡不着……",
+        "うぅ……ねれないよ……",
+        "Ughh... can't fall asleep..."
+      ],
+      "returnFromMission": [
+        "呼……呼……指挥官？什么时候回来的……",
+        "Zzzzz……Zzzz……およ？しきかん？いつもどったの…？",
+        "Zzzzz... Zzzz... Huh? Commander? When'd you get back?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Fumizuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Fumizuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Fumizuki_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Fumizuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Fumizuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Fumizuki_LogSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Fumizuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Fumizuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Fumizuki_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Fumizuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Fumizuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Fumizuki_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fumizuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fumizuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fumizuki_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Fumizuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Fumizuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Fumizuki_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Fumizuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Fumizuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Fumizuki_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Fumizuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Fumizuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Fumizuki_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,727 @@
+{
+  "name": "Kawakaze",
+  "constructionTime": "00:25:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Shiratsuyu",
+  "ID": "288",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "凪白みと",
+  "pixiv": "https://www.pixiv.net/member.php?id=8189060",
+  "twitter": "https://twitter.com/lemon_mito",
+  "link": "https://mito-nagishiro.tumblr.com",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/5/5a/Kawakaze_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1830,
+      217,
+      38,
+      69,
+      545,
+      190,
+      40,
+      161,
+      0,
+      10,
+      191,
+      200,
+      0,
+      0
+    ],
+    "Level 100": [
+      1525,
+      188,
+      38,
+      60,
+      495,
+      184,
+      40,
+      140,
+      0,
+      10,
+      182,
+      180,
+      0,
+      0
+    ],
+    "Base Stats": [
+      295,
+      80,
+      38,
+      13,
+      105,
+      71,
+      40,
+      30,
+      0,
+      3,
+      70,
+      49,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "80% → 85%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 85%",
+  "collectionStatBonus": "Destroyer (DD) Accuracy  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Destroyer (DD) Torpedo  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    4,
+    35,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Special Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Lunga Point's Strike; CN: 塔萨法隆格逆袭 JP: ルンガ沖強襲",
+  "skill1Description": "During sortie, increases damage dealt to cruisers by all allied IJN (Sakura Empire) Destroyers by 5% (15%).",
+  "skill2Name": "Impartial Destruction; CN: 均衡鱼雷 JP: 斬り込み雷撃",
+  "skill2Description": "Torpedo damage is not affected by enemy's armor type; torpedoes always inflict 100% (115%) damage to all enemies.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-茳 JP: 特殊弾幕-江風",
+  "skill3Description": "Every 15 (10) shots from the main guns, trigger Full Barrage - Kawakaze I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4b/Kawakaze.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/49/KawakazeChibi.png",
+      "shipDescription": [
+        "白露级驱逐舰九番舰—江风",
+        "白露型駆逐艦九番艦・江風",
+        "Shiratsuyu-class destroyer number nine – Kawakaze."
+      ],
+      "selfIntroduction": [
+        "准确地说，我是改白露型，也就是海风型三号舰，和其他三个姐妹组成了24驱。所罗门海…吗，确实是充满回忆的地方啊…铁底湾、北安普顿…还有最后的沉没…",
+        "改白露型すなわち、海風型三番艦の江風だ。あの大戦では同型艦で第二十四駆逐隊を結成した。ソロモン…か。確かに、色々と思い出が詰まっている場所だ。アイアンボトムサウンド、ノーザンプトン、そして最後の記憶も……",
+        "I'm Kawakaze, 3rd ship of the improved Shiratsuyu class, or simply the Umikaze class. Destroyer Division 24 comprised of my sisters and me during the war. Ah, Solomon... True, it is a place of many memories. The Iron Bottom Sound, Northampton, and the last thing I remember..."
+      ],
+      "acquisition": [
+        "我叫江风，白露型的江风。我对友好相处没什么兴趣，所以请多指教就免了吧",
+        "白露型、名は江風。馴れ合うつもりはない。挨拶など不要だ",
+        "The name's Kawakaze of the Shiratsuyu class. I have no intention of becoming your friend. Spare me your introduction."
+      ],
+      "login": [
+        "今天也会是一成不变的一天吧",
+        "今日も何も変わらない日なのだな",
+        "Just another uneventful day."
+      ],
+      "details": [
+        "我挺喜欢钓鱼的，因为钓鱼的时候能够放空身心，什么都不用去想",
+        "釣りは好きだ。頭を空っぽにして、何も考えなくていいからな",
+        "I like fishing. When fishing, you can just clear your mind and not think about anything."
+      ],
+      "secretaryIdle1": [
+        "炮弹乃凶器，战斗是为了毁灭对手，无论说什么漂亮话也无法掩盖这一点",
+        "砲弾は相手を葬る凶器だ。どんなに美辞麗句を並べようとそれは変わらない",
+        "Shells are weapons to silence one's enemies with. That's all they are, no matter how you sugarcoat it."
+      ],
+      "secretaryIdle2": [
+        "有什么问题可以去问神通大姐，她懂得多，我……和川内比较像吧",
+        "わからないことがあったら神通さんにでも聞くがいい。わたしは……どちらかというと川内さんに似ているからな",
+        "If there's something you're wondering, ask Jintsuu. I'm... if I must say, I'd say I'm more like Sendai."
+      ],
+      "secretaryIdle3": [
+        "这支舰队里，欢乐的家伙还真多啊……",
+        "この艦隊はずいぶんと愉快なやつが多いな……",
+        "Pretty cheerful gang you've got going with this fleet..."
+      ],
+      "secretaryTouch": [
+        "秘书舰的工作？本来我也不是喜欢才会擅长战斗的，作为秘书舰也一样吧",
+        "秘書艦の仕事？仕事に好き嫌いなどない。秘書艦だろうと、秘書艦じゃなかろうとそんなものは関係ない",
+        "How I feel about secretary work? Work is work, I don't have any preferences. Secretary or not, I don't care."
+      ],
+      "secretarySpecialTouch": [
+        "……无聊透顶",
+        "……つまらないことを…",
+        "... Now you've really done it..."
+      ],
+      "task": [
+        "新任务来了……嗯？难道你希望我这时候也说些有的没的吗？",
+        "新しい任務だ。……なに？適当に世間話でもしろというのか？",
+        "New mission's appeared. ... What? Do I have to make small talk with you?"
+      ],
+      "taskComplete": [
+        "任务奖励，虽然没什么值得期待的，但还是领一下吧",
+        "報酬が来たぞ。期待するほどの品ではなかろうが、まずは受け取ってくれ",
+        "Mission rewards are here. Let's see if they were worth the time. But first, accept them."
+      ],
+      "mail": [
+        "有你的信。我？这种东西跟我无缘呢",
+        "メールだ。わたし？こういうのはあまり……",
+        "Mail for you. Me? Not a fan of the stuff..."
+      ],
+      "returnFromMission": [
+        "一场战斗结束后会发生什么？当然是下一场战斗",
+        "戦闘が終わるとどうなるかだと？次の戦闘が始まるだけだ",
+        "What happens when the battle ends? The next one begins, that's all."
+      ],
+      "commission": [
+        "委托完成。报告书，别忘了确认",
+        "委託完了だ。報告書の確認、忘れるでないぞ",
+        "A commission's done. Don't forget to read the report."
+      ],
+      "strengthening": [
+        "变强的感觉…并不坏",
+        "強くなった気分…悪くないな",
+        "Getting stronger... feels okay."
+      ],
+      "startingMission": [
+        "斗争……从未改变",
+        "戦いは……何も変わらないのだな",
+        "War... war never changes."
+      ],
+      "mvp": [
+        "所罗门，是你在呼唤着我吗……",
+        "ソロモン…私を呼んでいるのか……",
+        "The Solomon Islands... they call for me..."
+      ],
+      "defeat": [
+        "没有沉…吗，也不知道算好事还是坏事",
+        "まだ…沈んでないな。是非もなし、か…",
+        "I'm still... afloat. If that's good or bad, who can say..."
+      ],
+      "skillActivation": [
+        "放轻松，痛苦只有一瞬间",
+        "安心せよ。一瞬で終わらせてやる",
+        "Relax. I will end this in an instant."
+      ],
+      "lowHP": [
+        "这点伤…不过是家常便饭",
+        "これぐらい…気にするまでもない！",
+        "This pain... isn't enough to distract me!"
+      ],
+      "affinityDisappointed": [
+        "你果然没有超出我的预期呢，指挥官",
+        "所詮はわたしの予想を越えられない程度の人間ということか。指揮官",
+        "In the end, you're just someone who can't exceed my expectations, Commander."
+      ],
+      "affinityStranger": [
+        "战争不存在善恶美丑。在我看来，我们和敌人一样丑陋",
+        "戦争に善悪美醜などない。敵も味方もそれは同じだ",
+        "In war, there is no right or wrong, no beauty or ugliness. This is true for both ally and enemy."
+      ],
+      "affinityFriendly": [
+        "指挥官也是经历过战场的人，为什么还能够相信那些天真的东西呢？正义、爱、与和平什么的……",
+        "指揮官も戦をくぐりぬけた身だろ？なぜそんな絵空事を信じる？正義、愛、平和など……",
+        "Have you not experienced war, too? Then why do you still believe in fairy tales like justice, love, or harmony...?"
+      ],
+      "affinityLike": [
+        "我最讨厌的，是不愿正视现实，一味高喊着理想与信念的天真愚昧…指挥官，你不会变成那样的人吧？",
+        "現実から目を背け、ただただ理想と夢を叫び続ける――そんな愚昧さと甘さは大嫌いだ。指揮官はそうならない…よな？",
+        "I abhor the stupidity and naïveté of those who refuse to face reality and continue shouting about their hopes and dreams. But you're not like that... are you?"
+      ],
+      "affinityLove": [
+        "“心怀信念，终能理想化作现实”…吗，哼，真是老套的说辞…不过如果是你的话…",
+        "「夢を諦めなければ、いつか現実にすることができる」、か…ふん、ずいぶんと陳腐な答えだな。だがあなたなら……",
+        "\"Your dreams will come true if you don't give up on them\"... Hmph, what a trite answer. But, if that's what you say..."
+      ],
+      "pledge": [
+        "没想到会和指挥官走到这一步…和你一起久了，我也开始相信天真的理想了…让我变成这样，你可要好好负起责任喔——",
+        "まさか指揮官とこんなことになるとは……あなたと長く付き合っていたら、わたしまで甘い理想を信じるようになってしまった…わたしをここまで甘くした責任、ちゃんととってくれるな…？",
+        "I'm astonished that I'm doing this with you... We've been together so long that your wishful thinking has rubbed off on me... And for doing so, you'll take responsibility, won't you...?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Northampton) 这次站在同一边了吗…也好",
+        "(Sortie with Northampton) 今度は味方か…まあ、いい",
+        "(Sortie with Northampton) And now, we're allies? ... Fine."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Nagato) 长门大人，请小心",
+        "(Sortie with Nagato) 長門様、お気をつけてください",
+        "(Sortie with Nagato) Lady Nagato, please be careful."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Craven, Maury) 我会配合你们的作战方式…！",
+        "(Sortie with Craven, Maury) 戦い方をあわせる…！",
+        "(Sortie with Craven, Maury) Let us work with each other's strengths!"
+      ],
+      "giftDescriptionValentines2019": [
+        "给你，巧克力。…看到长门大人和陆奥大人兴致满满的样子，不知怎么的竟然想到了你，鬼使神差地也买了巧克力。会参与到这种祭典里…看来，我也有点改变了啊",
+        "チョコだ。お前にやる。……神子さまと妹君が興味深い様子を見て、お前のことを考えているとつい買ってしまったものだ。こういう祭り騒ぎに乗せられてしまったとは…私も少し、変わったな",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "It's Valentine's chocolate, Commander. Take it. You know, I've been having this weird dream lately about chocolate shaped like bamboo shoots... Hm... talking about my dreams isn't something I'd normally do... Sigh... You must be rubbing off on me, Commander..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kawakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kawakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kawakaze_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kawakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kawakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Kawakaze_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Kawakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Kawakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Kawakaze_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Kawakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Kawakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Kawakaze_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Kawakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Kawakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Kawakaze_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Kawakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Kawakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Kawakaze_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Kawakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Kawakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Kawakaze_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Kawakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kawakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kawakaze_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Kawakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Kawakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Kawakaze_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Kawakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Kawakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Kawakaze_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kawakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kawakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Kawakaze_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kawakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kawakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kawakaze_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Kawakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kawakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kawakaze_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Kawakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Kawakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Kawakaze_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Kawakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Kawakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Kawakaze_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Kawakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Kawakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Kawakaze_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Kawakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Kawakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Kawakaze_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Kawakaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Kawakaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Kawakaze_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Kawakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Kawakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Kawakaze_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Kawakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Kawakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Kawakaze_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kawakaze_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Kawakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Kawakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Kawakaze_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kawakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kawakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kawakaze_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Kawakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Kawakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Kawakaze_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Kawakaze_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Kawakaze_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Kawakaze_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Unsullied White Fox",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "美梦构造论",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "甘夢のアーキテクチャ",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/78/KawakazeWedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fd/KawakazeWeddingChibi.png",
+      "shipDescription": [
+        "这就是你的梦想…吗。嗯，既然早已发誓要陪伴你到最后，在你理想的身侧自然有我的位置。今后也…要在一起",
+        "これがあなたが待ち望んでいた夢…か。ああ、最後まで付き合うと誓った身だ、遠慮なくその甘い理想の側にこの身を置かせてもらおう。これからも…一緒",
+        "This must be the dream you've awaited so eagerly... Of course, I vowed to be with you to the end of our days. I shall take my rightful place beside you and your wishful thinking. We are... together."
+      ],
+      "acquisition": [
+        "这就是你的梦想…吗。嗯，既然早已发誓要陪伴你到最后，在你理想的身侧自然有我的位置。今后也…要在一起",
+        "これがあなたが待ち望んでいた夢…か。ああ、最後まで付き合うと誓った身だ、遠慮なくその甘い理想の側にこの身を置かせてもらおう。これからも…一緒",
+        "This must be the dream you've awaited so eagerly... Of course, I vowed to be with you until the end of our days. I shall take my rightful place beside you and your ideals. We are... together."
+      ],
+      "login": [
+        "今天也是平凡无奇的一天呢。不过，只要是在你身边的幸福时刻，就算平凡，也无妨吧…",
+        "今日も何も変わらない日なのだな。あなたのそばにいられる幸せな日なら、変わらなくても…いいさ",
+        "Today is another day devoid of change. But nothing needs to change if I can happily remain by your side."
+      ],
+      "details": [
+        "偶尔也要去看看长门大人。和我不一样，你的话，应该能为她排解不少寂寞吧。…没关系的，我知道你也会来看我的",
+        "あなた、たまには長門様に会いに行ったほうがいい。わたしからは何もしてあげられないが、あなたならあの方の寂しさも紛らわせられるだろう。……別に大丈夫よ。きっとわたしにも会いに来てくれると分かっているから",
+        "I want you to pay Lady Nagato a visit from time to time. There's little I can do to ease her loneliness, but I believe that you can. Don't you worry, I know you'll still come to see me as well."
+      ],
+      "secretaryIdle1": [
+        "用于斩人的利刃亦可救人。活人剑——这是我现在的目标",
+        "ヒトを斬れる刃でもヒトを活かすことはできる。活人剣――今はそれを目指す",
+        "The same sword that takes lives can also save them. It is my goal to become that: a sword that protects."
+      ],
+      "secretaryIdle2": [
+        "你啊，头脑和腕力无论太偏向哪一方都不是什么好事哦。追求极致之人就应当文武双全——啊哈哈，这是从那珂那里现学现卖的",
+        "あなた、頭脳も腕力も偏りすぎると良くないよ。己を極めし者は文武両道――ふふ、今のは那珂さんの受け売りだ",
+        "You must not fixate on only either brains or brawn. The ideal leader is both wise and strong. Ahahah, here I am, paraphrasing Naka."
+      ],
+      "secretaryIdle3": [
+        "舰队里有很多愉快的小伙伴呢，指挥官也是其中的一员",
+        "この艦隊には愉快なやつが多いな。指揮官もその一員だ",
+        "You've got a cheerful gang going with this fleet. And you are a part of it, Commander."
+      ],
+      "secretaryTouch": [
+        "秘书舰的工作？我对工作没有特别的好恶，不过，只要是为了你，无论是什么我都乐意去做",
+        "秘書艦の仕事？仕事に好き嫌いなどない。あなたのためならなんでも喜んでやるさ",
+        "How I feel about secretary work? Work is work, that is all. I will gladly do anything for you."
+      ],
+      "secretarySpecialTouch": [
+        "……果然，还是比不上其他人吧……",
+        "……さすがに、ほかの子に負けてしまうな……",
+        "It's humiliating to watch the other girls get ahead of me..."
+      ],
+      "secretaryHeadpat": [
+        "怎么？",
+        "どうした？",
+        "What is it?"
+      ],
+      "task": [
+        "新任务来了。适当地边聊会边确认下吧？",
+        "新しい任務だ。適当に世間話でもしながら確認するか？",
+        "You have new missions. Shall we have a casual discourse while you review them?"
+      ],
+      "taskComplete": [
+        "任务报酬来了。如果是值得期待的奖励…就好了",
+        "報酬が来たぞ。期待するほどのものだと…いいな",
+        "Mission rewards are here. Hopefully, they'll have been worth our efforts."
+      ],
+      "returnFromMission": [
+        "战斗结束以后…总有我在这里等着你。不用担心",
+        "戦闘が終わると……ここであなたを待っているわたしがいる。何も心配いらないよ",
+        "When the fighting ends, I will always be here waiting for you. Put your mind at rest."
+      ],
+      "startingMission": [
+        "我会为了那个人而战…！",
+        "戦う…あの人のために…！",
+        "I fight... for the one I love!"
+      ],
+      "mvp": [
+        "指挥官大人、长门大人，还有大家都在等着我——我是绝不可能在这里倒下的",
+        "指揮官と長門様、そして皆がわたしを待っている――ここで倒れるわけにはいかない",
+        "The Commander, Lady Nagato, and all my friends depend on me. I cannot afford to lose now."
+      ],
+      "affinityLove": [
+        "“心怀信念，终能理想化作现实”——嗯，一起加油吧。我把一切都托付给你了",
+        "「夢を諦めなければ、いつか現実にすることができる」――ああ、一緒に頑張ろう。わたしの全てをあなたにかけて",
+        "\"Your dreams will come true if you don't give up on them.\" They will, so let us make them real. I swear it to you upon all my being."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Kawakaze_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kawakaze_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kawakaze_IntroSkin8JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kawakaze_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kawakaze_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kawakaze_LogSkin8JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Kawakaze_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Kawakaze_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Kawakaze_DetailsSkin8JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Kawakaze_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Kawakaze_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Kawakaze_SecIdle1Skin8JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Kawakaze_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Kawakaze_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Kawakaze_SecIdle2Skin8JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Kawakaze_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Kawakaze_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Kawakaze_SecIdle3Skin8JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Kawakaze_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Kawakaze_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Kawakaze_Sec1Skin8JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Kawakaze_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Kawakaze_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Kawakaze_Sec2Skin8JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Kawakaze_HeadpatSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Kawakaze_HeadpatSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Kawakaze_HeadpatSkin8JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kawakaze_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kawakaze_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kawakaze_TaskSkin8JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Kawakaze_TaskCSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Kawakaze_TaskCSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Kawakaze_TaskCSkin8JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Kawakaze_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Kawakaze_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Kawakaze_MissionFinSkin8JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Kawakaze_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Kawakaze_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Kawakaze_MissionStartSkin8JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kawakaze_MVPSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kawakaze_MVPSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kawakaze_MVPSkin8JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kawakaze_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kawakaze_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kawakaze_Affinity4Skin8JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Monochromatic Interlude",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "间奏·黑白",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "間奏モノクローム",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/07/KawakazeEvent.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/36/KawakazeEventChibi.png",
+      "shipDescription": [
+        "嗯，轻便的衣服对战斗更有帮助，非常感谢，指挥官——穿起来很好看？谢、谢谢…",
+        "うん。軽装のほうが戦いやすい。指揮官、感謝する――「カワイイ」？そ、それはどうも…",
+        "Mhm. Lightweight clothing makes it easier to fight. Thanks, Commander... \"It looks cute on me\"? W-well, thanks..."
+      ],
+      "acquisition": [
+        "嗯，轻便的衣服对战斗更有帮助，非常感谢，指挥官——穿起来很好看？谢、谢谢…",
+        "うん。軽装のほうが戦いやすい。指揮官、感謝する――「カワイイ」？そ、それはどうも…",
+        "Mhm. Lightweight clothing makes it easier to fight. Thanks, Commander... \"It looks cute on me\"? W-well, thanks..."
+      ],
+      "login": [
+        "今天，也许会有什么不一样的事发生呢",
+        "今日はもしかするといつもとは違ったことが起こるかもしれないな",
+        "Today might actually be an eventful day."
+      ],
+      "secretaryIdle1": [
+        "在战场上只需挥舞凶器，消灭敌人。剩下的，等战斗结束再去思考吧",
+        "戦場では凶器を振るい、敵を倒すのみ。ほかのことは戦の後に考えることだ",
+        "On the battlefield, you swing your weapon and defeat the enemy, no more. Thinking about other things comes after the battle."
+      ],
+      "secretaryIdle2": [
+        "川内，要不要来对练一下？裁判…就让神通大姐和指挥官来好了",
+        "川内さん、少し手合わせでもしてくれないか？立会人は…そうだな。神通さんと指揮官に頼もうか",
+        "Sendai, how about we have a match? As for our spectators... I suppose we could ask Jintsuu and the Commander."
+      ],
+      "secretaryIdle3": [
+        "有这么多欢乐的同伴，其实也不错呢…",
+        "愉快な仲間が沢山いるのも、そう悪いものではないようだな",
+        "Seems having some cheerful people by your side might not be so bad."
+      ],
+      "secretaryTouch": [
+        "嗯？指挥官也想练剑吗？就让我好好锻炼一番——欸？不来了吗…",
+        "指揮官も剣道に興味があるのか？どれ、このわたしがみっちり鍛えてあげよう――うん？もういいのか？",
+        "Do you like kendo, too? I'll work you to the bone to make you good at it. ... Huh? You don't wanna do it?"
+      ],
+      "secretarySpecialTouch": [
+        "呼…还差一点，指挥官的手就要和身体分开了呢…",
+        "ふぅ……もう少ししたらその手を斬り落そうと思っていた",
+        "Phew... I was considering chopping off your hand, had you gone any further."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Kawakaze_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Kawakaze_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Kawakaze_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kawakaze_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kawakaze_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Kawakaze_LogSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Kawakaze_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Kawakaze_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Kawakaze_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Kawakaze_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Kawakaze_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Kawakaze_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Kawakaze_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Kawakaze_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Kawakaze_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Kawakaze_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Kawakaze_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Kawakaze_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kawakaze_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kawakaze_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Kawakaze_Sec2Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

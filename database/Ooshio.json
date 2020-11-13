@@ -1,0 +1,725 @@
+{
+  "name": "Ooshio",
+  "constructionTime": "00:28:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Asashio",
+  "ID": "332",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Alic",
+  "pixiv": "https://www.pixiv.net/member.php?id=4605939",
+  "link": "https://weibo.com/u/5933724645",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/d/d7/Ooshio_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1937,
+      196,
+      40,
+      62,
+      509,
+      191,
+      42,
+      150,
+      0,
+      8,
+      183,
+      171,
+      0,
+      0
+    ],
+    "Level 100": [
+      1614,
+      171,
+      40,
+      54,
+      463,
+      185,
+      42,
+      130,
+      0,
+      8,
+      174,
+      153,
+      0,
+      0
+    ],
+    "Base Stats": [
+      312,
+      72,
+      40,
+      12,
+      98,
+      71,
+      42,
+      28,
+      0,
+      2,
+      67,
+      42,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Destroyer (DD) Accuracy  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    4,
+    32,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Anti-Destroyer Tactics; CN: 驱逐战强化 JP: 対駆逐艦戦法",
+  "skill1Description": "Increase own Hit Rate by 5% (20%) against enemy destroyers and decrease torpedo damage taken from enemy destroyers by 5% (20%).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-朝潮型",
+  "skill2Description": "Every 15 (10) shots from the main battery, trigger Full Barrage - Asashio Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e5/Ooshio.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ed/OoshioChibi.png",
+      "shipDescription": [
+        "朝潮级驱逐舰二番舰—大潮",
+        "朝潮型駆逐艦二番艦・大潮",
+        "Asashio-class destroyer number two – Ooshio."
+      ],
+      "selfIntroduction": [
+        "我是朝潮级二号舰大潮，曾作为八驱旗舰，和朝潮、满潮、荒潮一起经历了许多事，还受到过总部嘉奖呢。虽然后来因为受伤而把队长之位交给了朝潮…呵呵，这些都是过去的事了，现在还是来讨论一下舰队的大家吧~",
+        "朝潮型の二番艦、大潮や～第八駆逐隊の司令艦として、朝潮、満潮、荒潮と一緒に色んなことを経験して、褒章もそこそこもろたよ～そんあとはちょい怪我して朝潮に司令艦を譲ったんやけど、そんなんもう昔のことやな。そないなことより、今の艦隊のみなはんのこと、話しないな？",
+        "I'm Ooshio, Asashio-class ship number two~ I served as the flagship of Destroyer Division 8 and did all kindsa things with Asashio, Michishio, 'n Arashio, 'n I was even awarded a few medals~ Then I took some damage 'n Asashio was put in charge, but that's all in the past now. Anyhow, why don'tcha tell me a bit 'bout this fleet?"
+      ],
+      "acquisition": [
+        "哎呀，似乎是位出色的指挥官呢~怎么看出来的？当然是你背后这么多出色的姐妹们了~我叫大潮，舰队的各位请多指教~",
+        "あら、優秀そうな指揮官さんやな～なんでって？指揮官さんの後ろに優秀そうな子たちが、ようけいなはったからな～あたしは大潮、みんな、これからよろしゅうなー",
+        "Oh, I found me a talented-lookin' Commander~ \"How so\"? Cause I saw all them talented-lookin' girls ya got followin' ya~ I'm Ooshio. I'll be countin' on ya'll from now on~"
+      ],
+      "login": [
+        "指挥官，今天也为了大家的幸福一起加油吧~",
+        "指揮官、今日もみんなの幸せのために、一緒に頑張りないな～",
+        "Commander, let's stay focused 'n work hard to make everyone happy~"
+      ],
+      "details": [
+        "指挥官最喜欢哪位姐妹？感觉我们可以就这个话题交流一下呢",
+        "指揮官はどの子がお気に入りなん？ちびっと話しないな？",
+        "Who's yer favorite girl, Commander? Reckon ya could tell me?"
+      ],
+      "secretaryIdle1": [
+        "能和这么多优秀的姐妹朝夕共处，指挥官真是令人羡慕呢",
+        "こないな優秀な子たちと四六時中いっしょくたやなんて、指揮官はけなるいわ～",
+        "Yer makin' me jealous of how yer surrounded 'round the clock by such talented girls~"
+      ],
+      "secretaryIdle2": [
+        "朝潮真是可爱呢，呵呵…",
+        "朝潮はかいらしいな～ふふふ…",
+        "Asashio's a real cutie~ Hehehe~"
+      ],
+      "secretaryIdle3": [
+        "指挥官，有空的话，把大家叫过来开个茶会怎么样？",
+        "指揮官、暇ならみなはんを呼んでお茶会でも開いたらええんちゃうん？",
+        "Commander, if yer bored, why don'tcha call some folks over 'n we can have a tea party?"
+      ],
+      "secretaryTouch": [
+        "今天给姐妹们做些什么点心呢…哎呀，指挥官也想要吗？真没办法~",
+        "今日は何を作ったらええやろ…あら、指揮官もほしいんちゃう？しゃあないな～",
+        "Wonder what I oughta make for desert... Ah, ya want some too, Commander? Aw heck, yer puttin' me in a tight spot~"
+      ],
+      "secretarySpecialTouch": [
+        "哎呀，看来要让其他姐妹们也知道一下指挥官的危险了呢",
+        "あら、他の子に指揮官が危ないっちゅうこと、知らせといたほうがええな～",
+        "Oh my, I better tell the others that yer a dangerous one, Commander~"
+      ],
+      "task": [
+        "指挥官，到任务的时间咯",
+        "指揮官、任務の時間や",
+        "It's mission time, Commander."
+      ],
+      "taskComplete": [
+        "指挥官，任务奖励到了呢",
+        "指揮官、任務褒章が来とるよ～",
+        "The mission rewards done arrived, Commander~"
+      ],
+      "mail": [
+        "指挥官，有信，会不会是情书呢~",
+        "指揮官、お手紙や～ふふ、ラブレターちゃうん？",
+        "Got a letter for ya, Commander~ *Giggle*, ain't this a... luve letter?"
+      ],
+      "returnFromMission": [
+        "平安回来了呢，姐妹们没有受伤吗？",
+        "無事に帰っちゃった～皆怪我しとらへん…？",
+        "Ya made it back in one piece~ Ya ain't injured, are ya...?"
+      ],
+      "commission": [
+        "哎呀，委托组的大家回来了呢…看起来真开心呀，我也好想加入呢",
+        "あら、委託に出たみなはんが戻っちゃった？…いいな～あたしも行かせて欲しいわ～",
+        "Ah, the commission team's back? ...Ain't that nice~ Wish you'd let me go on one too~"
+      ],
+      "strengthening": [
+        "承蒙指挥官的厚爱~",
+        "おおきに～",
+        "Thanks much~"
+      ],
+      "startingMission": [
+        "大家小心不要让自己受伤哦",
+        "怪我せんよう気いつけとってや～",
+        "Take care now so ya'll don't get hurt~"
+      ],
+      "mvp": [
+        "大家在战场上的英姿我也都好好记住了哦~",
+        "みなはんの英姿、ちゃんと見とったよ～",
+        "I done saw how fine ya'll fought~"
+      ],
+      "defeat": [
+        "只是一次失败而已，大家不要灰心哦",
+        "ちょっとした失敗で、落ち込んじゃいけへんよ～",
+        "Ya can't let a small setback getcha feelin' blue~"
+      ],
+      "skillActivation": [
+        "为了舰队的大家！",
+        "艦隊のみんなのためやで～",
+        "For the sake of the fleet~"
+      ],
+      "lowHP": [
+        "大家不要勉强！",
+        "無理せんでええんやで～",
+        "We don't gotta force ourselves~"
+      ],
+      "affinityDisappointed": [
+        "果然跟指挥官还是无法心意相通吗…",
+        "やっぱ、指揮官とはわかり合えんようやわぁ……",
+        "I reckoned we'd never be able to understand each other..."
+      ],
+      "affinityStranger": [
+        "女孩子们都那么可爱，怎么会有人不喜欢呢？",
+        "女のコはみな可愛いもんや～可愛いもんを嫌う人なんて、おらんちゃうん？",
+        "Girls are just the cutest darn thing~ And who on earth doesn't like cute things?"
+      ],
+      "affinityFriendly": [
+        "无论男女，只要是优秀又可爱的孩子，我都会动心哟。重要的不是性别，而是内在呢~",
+        "おとこもおなごも、優秀で可愛い子ならなんでも好きや～大事なんは性別じゃのーて、心なんや～",
+        "Whether they're boys or girls, if they're talented 'n cute, I love 'em all the same~ It's not yer gender that matters, it's what's inside~"
+      ],
+      "affinityLike": [
+        "指挥官人真好呢，感觉能够理解舰队的大家为什么都这么信任指挥官了，我也…",
+        "指揮官はええ人や～艦隊のみんながなんで指揮官のことを信じちゃったか、今わかったんよ～実はあたしも指揮官のことが……ふふふ～",
+        "Yer a good person, Commander~ Now I get why the fleet believes in ya~ I'll letcha in on a li'l secret: I done fallen for a certain someone... Hehehe~"
+      ],
+      "affinityLove": [
+        "呵呵~我只是普通地喜欢上了优秀又可爱的指挥官而已，指挥官呢，喜欢大潮吗？",
+        "ふふふ～優秀で可愛い指揮官のこと、好きになってしもたわ～♡　指揮官は？大潮のこと、好きなん？",
+        "Hehehe~ Yer the talented and cute person I fell for~ How 'bout you, Commander? Do ya love me too?"
+      ],
+      "pledge": [
+        "我喜欢的是独一无二的指挥官，而指挥官喜欢的，也是独一无二的大潮，一定不会有比这更美好的事了，对吧，指挥官~",
+        "あたしが指揮官のことを好きで、指揮官も大潮のことが好きっちゅうこと、ほんまええことやね～ねえ、し・き・かん♡",
+        "I love you, 'n you love me too, ain't that just the darndest thing~ Don'tcha agree, Com-man-der? ♡"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Yuudachi) 夕立，过来我这边~",
+        "(Sortie with Yuudachi) 夕立、こっちや～",
+        "(Sortie with Yuudachi) Yuudachi, I'm over here~"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Asashio, Michishio) 第八驱，出击~",
+        "(Sortie with at least 1 of: Asashio, Michishio) 第八駆逐隊、出撃～",
+        "(Sortie with at least 1 of: Asashio, Michishio) Set sail, Destroyer Division 8~"
+      ],
+      "giftDescriptionValentines2019": [
+        "这是给可爱的指挥官的巧克力~啊，指挥官，不要误会哦，大潮我呀，对可爱的定义，可不只是看外表，还有心灵呢~",
+        "可愛い指揮官へのチョコや～指揮官、勘違いしちゃわないな～あたし、うわべだけじゃなく、心も可愛いコにしかチョコを渡さへんよ～",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here's some chocolate for the sweetest darned Commander I ever did have~ I snuck some hooch into it, so be careful where ya tuck in~♡"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Ooshio_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Ooshio_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Ooshio_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Ooshio_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Ooshio_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Ooshio_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Ooshio_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Ooshio_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Ooshio_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Ooshio_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Ooshio_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Ooshio_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Ooshio_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Ooshio_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Ooshio_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Ooshio_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Ooshio_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Ooshio_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Ooshio_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Ooshio_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Ooshio_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Ooshio_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Ooshio_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Ooshio_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Ooshio_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Ooshio_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Ooshio_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Ooshio_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Ooshio_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Ooshio_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Ooshio_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Ooshio_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Ooshio_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Ooshio_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Ooshio_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Ooshio_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Ooshio_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Ooshio_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Ooshio_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ooshio_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ooshio_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ooshio_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ooshio_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ooshio_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ooshio_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Ooshio_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Ooshio_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Ooshio_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Ooshio_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Ooshio_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Ooshio_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Ooshio_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Ooshio_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Ooshio_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Ooshio_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Ooshio_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Ooshio_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Ooshio_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Ooshio_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Ooshio_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Ooshio_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Ooshio_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Ooshio_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Ooshio_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Ooshio_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Ooshio_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Ooshio_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Ooshio_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Ooshio_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ooshio_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ooshio_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ooshio_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Ooshio_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Ooshio_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Ooshio_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Ooshio_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Ooshio_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Ooshio_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Ooshio_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Ooshio_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Ooshio_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Ooshio_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Ooshio_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Ooshio_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Reindeer's Present",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "驯鹿与圣诞礼物",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "トナカイさんの土産や～♪",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Operation: Christmas - Complete the event tasks",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/fc/OoshioChristmas.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/71/OoshioChristmasChibi.png",
+      "shipDescription": [
+        "Merry Christmas ~指挥官，我们一起去给驱逐妹妹们送圣诞礼物吧，指挥官是圣诞老人，而我就是驯鹿，嘻嘻~",
+        "メリークリスマス～指揮官、一緒に駆逐艦の子たちにクリスマスプレゼントを渡しに行っちゃいな～指揮官はサンタさん、あたしはトナカイさんや～",
+        "Merry Christmas~ Commander, we gotta go hand out presents to them destroyers~ You be Santa, I'll be yer reindeer~"
+      ],
+      "acquisition": [
+        "Merry Christmas ~指挥官，我们一起去给驱逐妹妹们送圣诞礼物吧，指挥官是圣诞老人，而我就是驯鹿，嘻嘻~",
+        "メリークリスマス～指揮官、一緒に駆逐艦の子たちにクリスマスプレゼントを渡しに行っちゃいな～指揮官はサンタさん、あたしはトナカイさんや～",
+        "Merry Christmas~ Commander, we gotta go hand out presents to them destroyers~ You be Santa, I'll be yer reindeer~"
+      ],
+      "details": [
+        "这件衣服果然有些太紧了呢……来年换一件新的好了",
+        "この服、やっぱしちっとキツキツなん……来年新しいものに変えたほうがええんやろか…",
+        "This costume here's a bit too tight... I oughta get a new one next year..."
+      ],
+      "secretaryIdle1": [
+        "说起来，指挥官想要什么礼物呢，说不定我可以为你准备哦？",
+        "そういや、指揮官はどんな贈り物がええ？あたしが用意したるさかい、探してもええんこ？",
+        "Oh yeah, whaddya want for Christmas, Commander? I can get it for ya, even if it takes some lookin' 'round."
+      ],
+      "secretaryIdle2": [
+        "说起来，圣诞的话果然把大家聚集在一起开个派对会比较热闹呢~",
+        "クリスマスは皆集まって、パーティーでも開いちゃったほうが盛り上がるわ～",
+        "Christmas is more fun when ya get everyone together 'n throw a big party~"
+      ],
+      "secretaryIdle3": [
+        "到了年末，果然大家脸上都会洋溢着笑容呢，嘻嘻，我也很开心哦",
+        "年末になると、どの子も笑顔笑顔♪ふふふ、あたしも嬉しいんや～",
+        "By the end of the year, everyone'll be smilin'~♪ Hehe, it makes me happy, too~"
+      ],
+      "secretaryTouch": [
+        "为什么想要给大家送礼物？那当然是因为能看到大家可爱的睡颜呢~",
+        "なんでプレゼントを配る役になりたいんかて？皆の可愛い笑顔を見たいからに決まっとるやない～",
+        "You wonderin' why I wanna be the one handin' out presents? Cause I wanna see those cute smiles on everyone's faces, ya silly~"
+      ],
+      "secretarySpecialTouch": [
+        "真是没办法呢……圣诞特别服务哦",
+        "しゃあない……クリスマスのサービスにしといたる～♡",
+        "Well, fine... Think of it as my Christmas gift to you~♡"
+      ],
+      "taskComplete": [
+        "把任务奖励看作司令部给我们的圣诞礼物会不会高兴一点呢~",
+        "任務報酬、本部からのクリスマスプレゼントってことにしよった方が楽しんちゃう？",
+        "Ain't it more fun if we treat these mission rewards as presents from headquarters?"
+      ],
+      "mail": [
+        "指挥官，有邮件呢，说不定是哪个孩子对圣诞老人的感谢信哦？",
+        "指揮官、お手紙や～ふふ、いい子さんからの、サンタさんへの感謝のお便りだとええかもねぇ？",
+        "Letter for ya, Commander~ Hehe, wouldn't it be nice if it's a thank-you letter from a good girl to Santa?"
+      ],
+      "returnFromMission": [
+        "呵呵，为平安归来的姐妹们我准备了礼物哦，当然指挥官也有份~",
+        "無事に帰った子に、プレゼントを用意したんやな～指揮官の分もちゃんとあるんやで～",
+        "I got presents for all you girls who made it back safely~ There's one for you too, Commander~"
+      ],
+      "affinityLove": [
+        "指挥官，等到给大家派送完礼物后有空吗？嘻嘻，我为心爱的指挥官准备了一份特别的礼物呢，到时候不要太惊讶哦~",
+        "指揮官、プレゼントを配り終わったら空いてへん？ふふ、あたしの大好きな指揮官にスペシャルなプレゼントを用意しちゃったかんね～あとで見よっても、あまりビックリせぇとんて",
+        "Commander, ya got time once we're done handin' out presents? Heheh, cause I've got a special present for you, my sweetheart~ Just don't be too surprised when I show it to ya~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ooshio_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ooshio_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ooshio_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Ooshio_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Ooshio_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Ooshio_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Ooshio_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Ooshio_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Ooshio_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Ooshio_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Ooshio_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Ooshio_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Ooshio_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Ooshio_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Ooshio_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Ooshio_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Ooshio_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Ooshio_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Ooshio_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Ooshio_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Ooshio_Sec2Skin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Ooshio_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Ooshio_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Ooshio_TaskCSkin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Ooshio_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Ooshio_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Ooshio_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Ooshio_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ooshio_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ooshio_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Ooshio_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Ooshio_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Ooshio_Affinity4Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Woozy Party",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "夜宴微醺",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "ほろ酔いパーティー",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Woozy Party - Complete the event tasks",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/48/OoshioParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/68/OoshioPartyChibi.png",
+      "shipDescription": [
+        "难得的庆典～今天可要好好的玩哦？我也会边远远的看着可爱的女孩子边享受宴会的～指挥官，请自便～",
+        "せっかくのパーティーやから、今日は思いっきり楽しんどいたほうがええよ？あたしもあたしなりに、可愛いみなはんを眺めながら楽しむわ～指揮官、気遣ってくれておおきにな～",
+        "Happy anniversary~ Today's a day to enjoy to yer heart's content, ya know? I'm just havin' fun in my own way, checkin' out cute girls from afar~ I appreciate yer concern though, Commander~"
+      ],
+      "acquisition": [
+        "难得的庆典～今天可要好好的玩哦？我也会边远远的看着可爱的女孩子边享受宴会的～指挥官，请自便～",
+        "せっかくのパーティーやから、今日は思いっきり楽しんどいたほうがええよ？あたしもあたしなりに、可愛いみなはんを眺めながら楽しむわ～指揮官、気遣ってくれておおきにな～",
+        "Happy anniversary~ Today's a day to enjoy to yer heart's content, ya know? I'm just havin' fun in my own way, checkin' out cute girls from afar~ I appreciate yer concern though, Commander~"
+      ],
+      "login": [
+        "指挥官也来一杯吗？这个可是很好喝的哦～不用客气，喝醉了我也不会把指挥官吃掉的～",
+        "指揮官も飲むん？これは結構美味しいな～ふふふ、遠慮せんでええよ？酔い潰れちゃってもあたしが食べたりはせんよ～",
+        "Fancy a drink, Commander? It's pretty darn nice stuff~ Hehehe, don't be shy now! I might be heckin' drunk, but I won't bite~"
+      ],
+      "details": [
+        "朝潮，还没来呢…不会被什么坏人给拐跑了吧…指挥官，我是不是有点想多了？",
+        "朝潮ちゃん、来とんのかな…誰か悪い人にさらわれたりしてないやろな…指揮官、あたし、ちょっと気にしすぎなんかな？",
+        "Wonder if Asashio's here yet... Not done been abducted by some criminal, has she... Am I just worryin' over nothin', Commander?"
+      ],
+      "secretaryIdle1": [
+        "大青花鱼，在宴会上可不能做恶作剧哦？指挥官也说下她吧…？",
+        "アルバコア、パーティーでいたずらしちゃメッ、やで？指揮官も言うといたほうがええよ…？",
+        "Albacore, don't go causin' mischief durin' the party, all right? Commander, I reckon you oughta tell her too."
+      ],
+      "secretaryIdle2": [
+        "满潮和荒潮她们也是和我一样喜欢朝潮酱，喜欢和朝潮酱一起开茶会的哦。指挥官也更喜欢朝潮酱一些吧～",
+        "満潮と荒潮、あたしと同じぐらい朝潮ちゃんが好きなんよ～。だからみーんな、朝潮ちゃんとお茶会するのが好きやで。指揮官も、朝潮ちゃんのことをもっと好きになったらええな～",
+        "Michishio 'n Arashio almost love Asashio as much as I do~ That's why we all love havin' tea parties with her. You too, Commander, go become buddy buds with her~"
+      ],
+      "secretaryIdle3": [
+        "指挥官，和女孩子说话的时候看向别处可不好哦？注意下习惯啦",
+        "指揮官、話しとる最中にほかの子に目移りするんは良くないな～マナー、注意せなあかんよ？",
+        "Commander, it ain't nice of ya to check out other girls while yer talkin' to me~! Where are yer manners?"
+      ],
+      "secretaryTouch": [
+        "指挥官，为么这么盯着我……？",
+        "指揮官？なんであたしをじろじろ見とるん…？",
+        "Commander? What're ya starin' at me for...?"
+      ],
+      "secretarySpecialTouch": [
+        "真是的…稍微喝了点酒就变成这个样子…幸好对方是我呢～",
+        "もぉ…お酒が入るやいなやこないなこと…あたしが相手で良かったな～",
+        "Gawsh... Girl has a sip of wine 'n this happens... Yer lucky it's me ya did it to~!"
+      ],
+      "returnFromMission": [
+        "转啊转～好像我有点醉了…指挥官～要怎么办才好…？",
+        "お目々がぐるぐる～あたしのほうこそ、ちょっと酔っとんのかも……しきかん～あたし、何すればええの…？",
+        "The world is all spinny~ I guess I am pretty drunk... Commander~ What do I oughta do to sober up...?"
+      ],
+      "startingMission": [
+        "大家跟上我～",
+        "みなはん、あたしに着いてきて～",
+        "C'mon, ya'll, follow my lead~"
+      ],
+      "affinityLove": [
+        "嗯…？我好像又迷上指挥官了，感觉指挥官比平时帅气好多呢…有没有觉得大潮比平时更可爱了？指挥官？",
+        "ん…？あたし、指揮官に惚れ直したんかな？指揮官、いつにも増してかっこよく見えるわ…あたしのことも、いつもより可愛く見えはるん？指揮官？",
+        "Hm...? I've might've fallen for ya again, Commander... You look even more charmin' than usual... What about me? Ya think I'm cuter than usual?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Ooshio_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Ooshio_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Ooshio_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ooshio_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ooshio_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ooshio_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ooshio_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ooshio_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ooshio_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Ooshio_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Ooshio_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Ooshio_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Ooshio_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Ooshio_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Ooshio_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Ooshio_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Ooshio_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Ooshio_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Ooshio_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Ooshio_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Ooshio_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Ooshio_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Ooshio_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Ooshio_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ooshio_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ooshio_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ooshio_MissionFinSkin2JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Ooshio_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Ooshio_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Ooshio_MissionStartSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Ooshio_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Ooshio_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Ooshio_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

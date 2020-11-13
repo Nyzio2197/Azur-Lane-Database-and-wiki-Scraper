@@ -1,0 +1,443 @@
+{
+  "name": "Juneau",
+  "constructionTime": "01:10:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Atlanta",
+  "ID": "035",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Juri_Kimura",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3517,
+      179,
+      18,
+      129,
+      157,
+      95,
+      32,
+      422,
+      0,
+      9,
+      168,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      3126,
+      156,
+      18,
+      112,
+      137,
+      73,
+      32,
+      380,
+      0,
+      9,
+      150,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      605,
+      66,
+      18,
+      24,
+      29,
+      28,
+      32,
+      81,
+      0,
+      2,
+      58,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "100% → 105%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "140% → 160%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Light cruiser (CL) Reload  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    10,
+    10,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Anti-Air Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Martyr; CN: 战争之殇 JP: 戦争の悲劇",
+  "skill1Description": "When sunk, all other members in the fleet recovers 15% (25%) of their max Health.",
+  "skill2Name": "Anti-Air Mode; CN: 防空模式 JP: 対空配置",
+  "skill2Description": "When firing Anti-Air Guns, 25% chance to increase own Anti-Air by 20% (40%), and decrease own Firepower by 40% (20%) for 3 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-アトランタ級",
+  "skill3Description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Atlanta Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/ac/Juneau.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png",
+      "shipDescription": [
+        "亚特兰大级轻巡洋舰—朱诺，舷号CL-52",
+        "アトランタ級軽巡洋艦・ジュノー（CL-52)",
+        "Atlanta-class light cruiser – Juneau, Hull Number CL-52!"
+      ],
+      "selfIntroduction": [
+        "我、我是亚特兰大级的朱诺。好像是因为防空很强所以加入了航空母舰特遣舰队，但是我其实很怕被打中的……真遗憾没能回到埃斯皮里图桑托岛……",
+        "ア、アトランタ級のジュノーです…対空能力が高いからって機動艦隊に配属されましたけど、実は撃たれるのが怖くて……エスピリトサントには帰れなかったのは残念でした…",
+        "I-I'm Juneau, an Atlanta-class anti-aircraft cruiser... Because I have high anti-air capabilities, I was assigned to a Task Force, but I'm actually scared of getting shot... Unfortunately I couldn't make it back home from Espiritu Santo..."
+      ],
+      "acquisition": [
+        "巡、巡洋舰……朱诺……的说……我比较怕疼……呜！指挥官看起来好可怕！",
+        "じゅ、巡洋艦……ジュノーです……痛いのは怖い……うぅ！指揮官さんも怖いです…！",
+        "I-I'm Juneau... I'm a cruiser... I'm scared of pain... *Sob* And I'm scared of you, Commander...!"
+      ],
+      "login": [
+        "指、指挥官……朱诺有一、一直在这里等着你哦……",
+        "し、指揮官さん…ジュノーはず、ずっと待っていますからね……",
+        "C-Commander... I'll always be w-waiting for you here..."
+      ],
+      "details": [
+        "脚上的旧伤吗？嗯……虽然还是有点别扭，但是朱诺不会拖大家的后腿的",
+        "足の…古傷ですか？うん……まだちょっとぎこちないけど、みんなの足は引っ張りません…！",
+        "The... old injury to my foot? Well... my foot's still a bit stiff, but I won't ever let myself drag everyone else down...!"
+      ],
+      "secretaryIdle1": [
+        "呀！吓，吓死我了，原来是指挥官呀……",
+        "きゃ！…指揮官さん？び、びっくりしました…",
+        "*Eek* Commander?! Y-you scared me..."
+      ],
+      "secretaryIdle2": [
+        "勇敢……比想象的要难好多呢",
+        "もっと勇敢になりたい…でもとっても難しいですよぉ・・・",
+        "I want to be brave... But it's really hard..."
+      ],
+      "secretaryIdle3": [
+        "指挥官，朱诺给你带来麻烦了吗…",
+        "指揮官さん、ジュノーが迷惑をかけましたか…？",
+        "Commander, have I annoyed you in any way...?"
+      ],
+      "secretaryTouch": [
+        "请……请温柔一点……朱诺很容易受伤的……",
+        "や…優しくしてください…ジュノーは痛いのを感じやすいから……",
+        "Pl... please be gentle... I'm very susceptible to pain..."
+      ],
+      "secretarySpecialTouch": [
+        "呜……",
+        "んっ……あぅ……",
+        "Mmh... *Whimper*..."
+      ],
+      "task": [
+        "欸？任务？——呜……希望不是反潜……",
+        "え？任務ですか？ーーほぇ……対潜任務じゃなければいいけど…",
+        "What? A mission? I don't mind as long as we aren't fighting submarines..."
+      ],
+      "taskComplete": [
+        "奖励什么的……能看到大家在一起就是最大的快乐了",
+        "ボーナスなんて……みんなと一緒にいられるだけで十分です…",
+        "I don't need any rewards... just being here with everyone is enough for me..."
+      ],
+      "mail": [
+        "指挥官……打扰一下……你的信……",
+        "指揮官さん……す、すみません……メールです……",
+        "Commander... excuse me... here's your mail..."
+      ],
+      "returnFromMission": [
+        "真希望战争能早点结束……虽然不知道那时候会在哪",
+        "早く戦争が終わらないかなぁ……そうしたらみんなとどこに行こう…",
+        "I'm really hoping this war will end soon... Once it's over, let's all go someplace together..."
+      ],
+      "commission": [
+        "那个……指挥官……有委托完成了喔……",
+        "あのぉ…指揮官さん…完了した委託がありますよ…？",
+        "Umm... Commander... there's a commission that's been completed..."
+      ],
+      "strengthening": [
+        "朱诺……会加油的……！",
+        "ジュノー……頑張ります……！",
+        "I'll... try to work harder...!"
+      ],
+      "startingMission": [
+        "大家……注意保护好自己……小心那些讨厌的潜艇……",
+        "みんな…、守りに気を配って…嫌な潜水艦に注意して…",
+        "Everyone... look after yourselves... and watch out for those mean submarines..."
+      ],
+      "mvp": [
+        "呼……真是好险，差点就被击中了……呜，第一名什么的——能活着回来就谢天谢地了……",
+        "ふぅ…‥危うく被弾するところだった…うう…一位とかーー帰ってこれるだけでもせいいっぱいなのに……",
+        "Phew... I almost got hit... *Sob*... I don't care about being the MVP... I'm just trying my best so I can come home in one piece..."
+      ],
+      "defeat": [
+        "好痛！……左脚、左脚不能动了……谁来，救救我……",
+        "痛い！……左足が動かない……誰か、助けて……",
+        "That hurts! ... I can't feel my left foot... Someone come save me....!"
+      ],
+      "skillActivation": [
+        "朱诺，也想努，努力的说！",
+        "ジュノーも！が、頑張るのです！",
+        "Me too! I-I'll give it my best shot!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "不要靠近我！——对不起……觉得指挥官有点可怕……",
+        "来ないで！ーーごめんなさい……指揮官さんがちょっと怖くて……",
+        "Don't come near me! ...Sorry, I think you're a little scary, Commander..."
+      ],
+      "affinityStranger": [
+        "我……经常会做噩梦，梦到有五个看不清脸但是彼此很像的人叫我和他们一起走……我很害怕……",
+        "ジュノーは……よく悪い夢を見ますけど、なぜか顔がぼやけた似ている人が５人いて、ジュノーに一緒に行こうって……怖いです……",
+        "I... often have nightmares about five brothers whose faces are all blurred, and they tell me to come with them... It's really scary..."
+      ],
+      "affinityFriendly": [
+        "指挥官，今天能一起睡吗……和指挥官一起睡很安心……",
+        "指揮官さん、今日も一緒に寝てもいいですか……指揮官さんと一緒に寝るととても安心します……",
+        "Commander, can I go to bed with you again tonight? ... I feel very safe when I sleep next to you..."
+      ],
+      "affinityLike": [
+        "就算不怕噩梦了……也，也还能和指挥官一起睡吗？",
+        "悪夢がもう怖くなくても……し、指揮官さんと一緒に寝てもいいですか…？",
+        "I'm not afraid of having nightmares anymore... b-but can I still sleep together with you, Commander...?"
+      ],
+      "affinityLove": [
+        "最近梦到那五个人时……看清了他们的脸，他们还笑着祝福我……但我反而觉得好难过，好想哭，我真的可以和指挥官一起得到幸福吗，这不是梦吧…",
+        "最近あの5人の人達の夢を見た時……顔がはっきり見えていて、笑顔で祝福してくれていました……でもすごく悲しくて泣きそうで（咽び泣く）…ジュノーは指揮官さんと一緒に幸せになれますか？夢じゃないですか……？",
+        "Now when I dream about those five brothers... I can see their faces clearly, and they bless me with their smiles... But somehow it was so sad it almost made me cry... *Tearful sobbing*... Can I really live happily together with you, Commander? It's not just a dream, right...?"
+      ],
+      "pledge": [
+        "……嗯，我相信指挥官……我会告诉他们我找到了幸福，而且会连带他们的份一起努力活着的……我现在……非常幸福",
+        "……はい、指揮官さんのこと信じています……あの人たちには今は幸せ、あなたたちの分も生きていきますって話してきました……今は……本当に幸せです…",
+        "...Mhm, I have faith in you, Commander... I told the people in my dreams that I've found happiness and would do my best to live on for their sake as well... I'm truly... truly happy right now..."
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，情人节的巧克力······诶？手指这里······是在切生巧克力的时候不小心划到的···已经没事了哟？亚特兰大姐姐和圣地亚哥帮了我很多忙······",
+        "指揮官、チョコレートをどうぞ…え？指は…素材のチョコを切る時少し傷つけちゃいましたけど…もう平気ですよ…？アトランタ姉さんとサンディエゴちゃん、色々助けてくれました…",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "那个……这是情人节的巧克力。啊，是用圣地亚哥种的可可豆做成的。如果可以的话，请尝一尝……",
+        "えっと、バレンタインのチョコレートです。あっ、サンディエゴちゃんが育てたカカオ豆を使っています。よかったら、どうぞ……？",
+        "Please have this chocolate, Commander... What? My finger? I... got a small cut when I was slicing the chocolate... but I'm fine, I promise... Atlanta and San Diego were a big help..."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Please accept my Valentine's chocolate, Commander. By the way, Arizona was kind enough to help me a lot in making it... It strangely feels like, umm, someone's always there to help me, every year..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Juneau_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Juneau_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Juneau_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Juneau_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Juneau_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Juneau_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Juneau_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Juneau_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Juneau_LogJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Juneau_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Juneau_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Juneau_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Juneau_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Juneau_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Juneau_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Juneau_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Juneau_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Juneau_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Juneau_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Juneau_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Juneau_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Juneau_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Juneau_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Juneau_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Juneau_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Juneau_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Juneau_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Juneau_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Juneau_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Juneau_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Juneau_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Juneau_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Juneau_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Juneau_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Juneau_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Juneau_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Juneau_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Juneau_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Juneau_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Juneau_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Juneau_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Juneau_StrJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Juneau_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Juneau_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Juneau_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Juneau_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Juneau_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Juneau_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Juneau_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Juneau_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Juneau_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Juneau_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Juneau_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Juneau_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Juneau_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Juneau_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Juneau_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Juneau_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Juneau_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Juneau_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Juneau_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Juneau_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Juneau_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Juneau_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Juneau_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Juneau_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Juneau_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Juneau_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Juneau_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

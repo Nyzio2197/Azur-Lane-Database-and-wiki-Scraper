@@ -1,0 +1,557 @@
+{
+  "name": "Nakiri Ayame",
+  "constructionTime": "03:22:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Hololive",
+  "ID": "Collab055",
+  "faction": "Hololive",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "Kagura Nana",
+  "pixiv": "https://www.pixiv.net/en/users/5816407",
+  "twitter": "https://twitter.com/nana_kaguraaa",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/64/Nakiri_Ayame_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      4168,
+      174,
+      65,
+      234,
+      0,
+      50,
+      26,
+      197,
+      0,
+      11,
+      106,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3473,
+      152,
+      65,
+      203,
+      0,
+      24,
+      26,
+      172,
+      0,
+      11,
+      97,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      672,
+      64,
+      65,
+      43,
+      0,
+      9,
+      26,
+      37,
+      0,
+      3,
+      37,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "90% → 110%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "50% → 55%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    24,
+    0,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "All Weapon Efficiency +5%",
+  "skill1Name": "Oni Goddess☆Nakiri; CN: 鬼神☆百鬼 JP: 鬼神☆百鬼",
+  "skill1Description": "Every 20 seconds, Ayame would attempt to enhance herself with her spirits, which has 40% (70%) chance to increase damage dealt by her by 3.5% (8%); effect can stack up to 3 times.",
+  "skill2Name": "Demon Cutter Asura-Rakshasa; CN: 阿修罗修罗刹鬼神斩 JP: 阿修羅修羅刹鬼神斬り",
+  "skill2Description": "Every 20 (15) seconds, triggers a special Ashura-Rakshasa slash that has 50% chance to inflict Armor Break on hit enemies, lasting for 6 seconds. Damage is based on skill level.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d6/Nakiri_Ayame.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/30/Nakiri_AyameChibi.png",
+      "shipDescription": [
+        "你好百鬼！余乃hololive所属的虚拟鬼神百鬼绫目！与式神一同自幽世而来，请多指教了!",
+        "こんなきりー！ホロライブ所属のバーチャル鬼神の百鬼あやめ だぞ！式神と共に幽世からやってきたからよろしくな！",
+        "Be cheery, for here's Nakiri! Ay am Nakiri Ayame, Hololive's virtual demon! Ay have come from the great beyond with my accompanying spirits!"
+      ],
+      "selfIntroduction": [
+        "想不到余之实力竟然被看破到如此地步！既然如此，拔出「罗刹」和「阿修罗」的话…",
+        "まさか余の力をここで見せつける事ができるとは思わなかったぞ！この「羅刹」と「阿修羅」の二刀を抜いたら…",
+        "What an unexpected joy that this place allows me to brandish all my power! Were I to take my blades, Rasetsu and Asura, and unsheathe them…"
+      ],
+      "acquisition": [
+        "你好百鬼！余乃hololive所属的虚拟鬼神百鬼绫目！与式神一同自幽世而来，请多指教了!",
+        "こんなきりー！ホロライブ所属のバーチャル鬼神の百鬼あやめだぞ！式神と共に幽世からやってきた。よろしくな！",
+        "Be cheery, for here's Nakiri! Ay am Nakiri Ayame, Hololive's virtual demon! Ay have come from the great beyond with my accompanying spirits!"
+      ],
+      "login": [
+        "啊，指挥官大人欢迎回来~余正在做直播前的准备，稍微等一下哦~",
+        "あっ、指揮官様、お帰り～。今から配信の準備をするから、ちょっと待っててな～",
+        "Ay must deepen my bond with humanity now after my arrival in this world! And you must watch my stream today!"
+      ],
+      "details": [
+        "听说这里也有同样拥有着“鬼神”之名的同伴，余也挺想会会她的啊！",
+        "鬼神の名を持つ者、こっちにもいるそうだな。そいつとは会ってみたいものだ！",
+        "It appears there is another who goes by the name of \"demon\" here. It is my hope to meet with them!"
+      ],
+      "secretaryIdle1": [
+        "指挥官大人在人类大人之中也是特别伟大的人吗？",
+        "指揮官様は人間様の中でも偉い人なのか？",
+        "Does all of humanity view you as a celebrated individual, Commander?"
+      ],
+      "secretaryIdle2": [
+        "别直愣愣地盯着余看！",
+        "余のことをジロジロ見るなぁ〜",
+        "Don't gaze upon me so intently!"
+      ],
+      "secretaryIdle3": [
+        "这里有大家和指挥官在，余并不觉得寂寞！",
+        "ここは皆も指揮官様もいるから寂しくないぞ！",
+        "With you and your followers for company, of course Ay am not lonely!"
+      ],
+      "secretaryTouch": [
+        "嗯？这些吗？这把红色的刀是「阿修罗」，那一把是「罗刹」。怎么样，很帅吧~",
+        "ん？これか？この赤い刀は阿修羅で、こっちが羅刹。かっこいいだろ？",
+        "Hm? My swords? The red one is Asura, and this is Rakshasa. Aren't they cool?"
+      ],
+      "secretarySpecialTouch": [
+        "有传闻说余的姓氏也可以解释为「抚斩」，指挥官想要验证一下么？",
+        "「なきりのなで斬り」指揮官様、まさかその身で試したいのではあるまいな？",
+        "Some believe my surname \"Nakiri\" originates from the phrase \"cut the hand that pats\"... Surely you wishn't to find out if that is truly the case, Commander?"
+      ],
+      "secretaryHeadpat": [
+        "不要随便触摸余之鬼角！",
+        "ツノを気軽に触るでない！",
+        "Do not touch my horns on a whim!"
+      ],
+      "task": [
+        "人类大人们的工作烦恼就让余来消解吧！余会好好协助你完成任务！",
+        "指揮官様の仕事の悩みは余が解消してやろう！任務をこなす手助けをするぞ！",
+        "Ay shall relieve humanity of its stressful workload! Ergo, Ay shall lend a hand in completing missions!"
+      ],
+      "taskComplete": [
+        "任务完成！指挥官大人了不起了不起！",
+        "任務完了！指揮官様、偉い偉い！",
+        "Mission completed! 'Tis a praiseworthy accomplishment, Commander!"
+      ],
+      "mail": [
+        "哼哼哼♪~指挥官大人，邮件到了哦，余给你拿来了哦~",
+        "ふんふふん♪～指揮官様、メールが来てたぞ！ほら、余が取ってきたんだ～",
+        "Hmm-hmmhm~♪ Mail has arrived, Commander! Ay have brought it for you~"
+      ],
+      "returnFromMission": [
+        "指挥官大人，辛苦百鬼！余已经把饭做好了，是不是很能干？嘿嘿，和余一起吃吧！唔~好吃！",
+        "指揮官様、おつなきりー。軽食は用意してあるぞ。ふふ、偉いだろ？余と一緒に食べよう！うむ～うまい！",
+        "Nakirificent work, Commander! Ay have prepared us a light meal. Heheh, aren't Ay attentive? You may partake with me in the eating of it. Mmh, delicious!"
+      ],
+      "commission": [
+        "余也真想去做做委托什么的啊…啊，委托的孩子们回来了？余也要去帮忙！",
+        "委託ってやつ、余も一度してみたいな…あ、委託組が帰ってきた？余も手伝ってくる！",
+        "Ay wouldn't mind trying this \"commission\" task... Ah, it seems the commission team is back. Ay shall go assist them!"
+      ],
+      "strengthening": [
+        "力量…如泉涌！这个世界真是不可思议！",
+        "力が…どんどん湧いて来る！本当に不思議な世界だ！",
+        "Power... surging within me! What a truly strange world this is!"
+      ],
+      "startingMission": [
+        "现在正是展露余之实力的时候，「业」，还有「不知火」，一起上啦！",
+        "余の力を示す時だ！業（カルマ）！不知火（しらぬい）！畳み掛けるぞ！",
+        "Tis time to display my might! Karm, Sherry, onwards to victory!"
+      ],
+      "mvp": [
+        "余的完全胜利！",
+        "余の完全勝利！",
+        "A flawless victory for me!"
+      ],
+      "defeat": [
+        "居然…输了？下次绝对要取胜…！",
+        "敗北、だと…？次は絶対に勝つ…！",
+        "Ay am defeated... More training is necessary... Wait, no it's not!"
+      ],
+      "skillActivation": [
+        "阿修罗修罗刹鬼神斩！",
+        "阿修羅修羅刹鬼神斬り！",
+        "Demon Cutter Asura-Rakshasa!"
+      ],
+      "lowHP": [
+        "咳…业！不知火！剩下的就交给余吧……！",
+        "くっ！…業！不知火！後は余に任せろ……！",
+        "Ack! Karm, Sherry, beware…"
+      ],
+      "affinityDisappointed": [
+        "啊~啊，指挥官的实力就是这样子的么…真失望……",
+        "あ～あ、指揮官の実力はこんなもんか…がっかりだ…",
+        "Ay must speak like a puppy as punishment for losing! Now... Woof…"
+      ],
+      "affinityStranger": [
+        "那么！在这个世界里也可以把鬼火放出来吓人吧~咦？吓不了指挥官么！",
+        "さ～て！こっちの世界でも、鬼火を飛ばしてドッキリを仕掛けてやろうじゃないか！——あれ？指揮官様、こういうの平気なのか？",
+        "Now then! Another world, another place with people to play pranks with my will-o'-wisps on! ... What? You're tolerant of pranks, Commander?!"
+      ],
+      "affinityFriendly": [
+        "指挥官大人，和余一起在游戏里一决胜负到天亮吧！余可不会输哦~",
+        "指揮官様、余と朝までゲームで勝負しよう！負けないぞ～！",
+        "Sorry, Ay am easily amused! But as the saying goes, \"she who laughs much is blessed with luck.\" Which means soon everyone will start to like me!"
+      ],
+      "affinityLike": [
+        "快起床~快起床~快·起·床！再睡懒觉的话，可不管你了！",
+        "起きて～起きて～起·き·て！♪寝坊助は…放っておくぞ！",
+        "Get up~! Get up~! Ay said GET UP! If you insist on snoozing... then Ay am leaving!"
+      ],
+      "affinityLove": [
+        "指挥官大人~余搞到了一瓶好酒，今天晚上和余两个人一起喝吧~没、没什么特别的意思哦…？",
+        "指揮官様～、良い酒を手に入れたぞ！今宵は二人で一緒に飲もう！…べ、別に特別な意味は無いぞ…？",
+        "Commander, does alcohol tickle your tastes? If so, care for a drink with me? Oh no, Ay simply want to reward you for your diligence. There's no particular emotion behind it. Probably…"
+      ],
+      "pledge": [
+        "指挥官大人…？这、这个是…？余收下真的好么…哎嘿嘿，谢谢指挥官大人~从今往后也要一直在一起哦~！",
+        "指揮官様～…？こ、これって…？い、いいのか？余がもらっても…えへへ、ありがとう、これからもずっと一緒に居ような…！",
+        "Today you shall listen to my singing till the end! The final song is for you, Commander – 'tis my unending Love in Circulation for you! Let us begin!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Ayanami) 两倍的鬼神，百倍的强度！",
+        "(Sortie with Ayanami) 鬼神二人揃ったら強さは100倍だ！",
+        "(Sortie with Ayanami) Our demonic strength is a hundred-fold when combined!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Nakiri_Ayame_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Nakiri_Ayame_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Nakiri_Ayame_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Nakiri_Ayame_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Nakiri_Ayame_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Nakiri_Ayame_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Nakiri_Ayame_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Nakiri_Ayame_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Nakiri_Ayame_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Nakiri_Ayame_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Nakiri_Ayame_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Nakiri_Ayame_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nakiri_Ayame_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nakiri_Ayame_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nakiri_Ayame_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Nakiri_Ayame_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Nakiri_Ayame_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Nakiri_Ayame_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Nakiri_Ayame_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Nakiri_Ayame_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Nakiri_Ayame_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Nakiri_Ayame_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Nakiri_Ayame_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Nakiri_Ayame_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Nakiri_Ayame_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Nakiri_Ayame_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Nakiri_Ayame_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nakiri_Ayame_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nakiri_Ayame_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nakiri_Ayame_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Nakiri_Ayame_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Nakiri_Ayame_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Nakiri_Ayame_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Nakiri_Ayame_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Nakiri_Ayame_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Nakiri_Ayame_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Nakiri_Ayame_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Nakiri_Ayame_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Nakiri_Ayame_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Nakiri_Ayame_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Nakiri_Ayame_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Nakiri_Ayame_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Nakiri_Ayame_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Nakiri_Ayame_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Nakiri_Ayame_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Nakiri_Ayame_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Nakiri_Ayame_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Nakiri_Ayame_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Nakiri_Ayame_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Nakiri_Ayame_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Nakiri_Ayame_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Nakiri_Ayame_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Nakiri_Ayame_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Nakiri_Ayame_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Nakiri_Ayame_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Nakiri_Ayame_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Nakiri_Ayame_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Nakiri_Ayame_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Nakiri_Ayame_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Nakiri_Ayame_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Nakiri_Ayame_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Nakiri_Ayame_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Nakiri_Ayame_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Nakiri_Ayame_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Nakiri_Ayame_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Nakiri_Ayame_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Nakiri_Ayame_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Nakiri_Ayame_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Nakiri_Ayame_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Nakiri_Ayame_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Nakiri_Ayame_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Nakiri_Ayame_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Nakiri_Ayame_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Nakiri_Ayame_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Nakiri_Ayame_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Nakiri_Ayame_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Nakiri_Ayame_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Nakiri_Ayame_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Nakiri_Ayame_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Nakiri_Ayame_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Nakiri_Ayame_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Nakiri_Ayame_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Nakiri_Ayame_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Nakiri_Ayame_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Summertime Nakiri",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "夏之百鬼",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "夏の百鬼",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/5b/Nakiri_AyameSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/91/Nakiri_AyameSummerChibi.png",
+      "shipDescription": [
+        "你好百鬼！余乃虚拟鬼神百鬼绫目！穿着和平时不一样果然还是有点让人害羞啊…",
+        "こんなきり〜！いつもと違う格好だからちょっと恥ずかしいぞ…バーチャル鬼神の百鬼あやめだぞ！",
+        "Be cheery, for here's Nakiri~! Ay am not used to this outfit and am a little embarrassed... But Ay am Nakiri Ayame, Hololive's virtual demon!"
+      ],
+      "acquisition": [
+        "你好百鬼！余乃虚拟鬼神百鬼绫目！穿着和平时不一样果然还是有点让人害羞啊…",
+        "こんなきり〜！バーチャル鬼神の百鬼あやめだぞ！ちょっといつもと違う格好だから恥ずかしいなぁ…",
+        "Be cheery, for here's Nakiri~! Ay am not used to this outfit and am a little embarrassed... But Ay am Nakiri Ayame, Hololive's virtual demon!"
+      ],
+      "login": [
+        "久等了！接下来的战场，就是大海的深处！",
+        "またせたな！次なる戦場は、海辺なり！",
+        "Ay have waited for you! The ocean floor is where our next battlefield lies!"
+      ],
+      "details": [
+        "哎、要用这身衣服战斗么？！还想着能好好享受一下难得的假期呢----！",
+        "えっ、この格好で戦うのか！？せっかくバカンスを楽しめると思ったのにー！",
+        "Ay am afraid to swing my swords around looking like this... so Ay shall fight with you using my will-o'-wisps!"
+      ],
+      "secretaryIdle1": [
+        "等，等下，指挥官大人？是不是盯得太过头了？",
+        "ちょ、ちょっと指揮官様？じろじろ見過ぎだぞー？",
+        "Umm, Commander? Would you not stare at me so much?"
+      ],
+      "secretaryIdle2": [
+        "经常听到别人说余的笑点比较低…噗哈哈哈哈！指挥官大人，不要故意逗余笑啊！",
+        "皆から笑い上戸とよく言われるが…ぷっ、あははははは！…指揮官様！わざと余を笑わせるでない！はははは！",
+        "Many say Ay am easily amused, but that doesn't... Pfft, ahahahahah! Commander! Don't expressly try to make me laugh like this! Hahahahah!"
+      ],
+      "secretaryIdle3": [
+        "就算以现在这种模样去战斗的话，余的实力也不会受到影响哦！",
+        "この格好で戦っても、余の強さは変わらないぞ！",
+        "My appearance may have changed, but my skill in battle has not!"
+      ],
+      "secretaryTouch": [
+        "泳装的材质和样式很可爱？对吧对吧~可以再多夸夸余哦！",
+        "この水着、デザインも質感もかわいらしい、って？そうだろそうだろ～もっと余を褒めてもいいぞ！",
+        "Tis a swimsuit with a cute design and feel, you say? Quite so, quite so~ More praise wouldn't be undue!"
+      ],
+      "returnFromMission": [
+        "欢迎回来，指挥官大人~哎呀，海边的阳光真的很强烈啊~（偷瞄），这种时候要是有把遮阳伞就好了~啊（偷瞄）",
+        "おかえり～指揮官様～。いやぁ、海辺は日差しが強いなぁ（ﾁﾗｯ）、こんな時、パラソルがあったらなぁ～（ﾁﾗｯﾁﾗｯ）",
+        "Welcome back! Ay haven't merely been frolicking around. Ay was just about to commence a stream in this swimwear!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Nakiri_Ayame_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Nakiri_Ayame_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Nakiri_Ayame_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nakiri_Ayame_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nakiri_Ayame_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nakiri_Ayame_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Nakiri_Ayame_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Nakiri_Ayame_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Nakiri_Ayame_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Nakiri_Ayame_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Nakiri_Ayame_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Nakiri_Ayame_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Nakiri_Ayame_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Nakiri_Ayame_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Nakiri_Ayame_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Nakiri_Ayame_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Nakiri_Ayame_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Nakiri_Ayame_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nakiri_Ayame_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nakiri_Ayame_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nakiri_Ayame_Sec1Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Nakiri_Ayame_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Nakiri_Ayame_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Nakiri_Ayame_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

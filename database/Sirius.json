@@ -1,0 +1,706 @@
+{
+  "name": "Sirius",
+  "constructionTime": "00:55:00",
+  "constructionPools": [
+    true,
+    false,
+    true,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Dido",
+  "ID": "371",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "Kincora",
+  "pixiv": "https://www.pixiv.net/member.php?id=3054186",
+  "twitter": "https://twitter.com/KIncoraK",
+  "link": "http://weibo.com/u/2061731981",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/c/c9/Sirius_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3744,
+      182,
+      70,
+      151,
+      161,
+      97,
+      32,
+      385,
+      0,
+      11,
+      169,
+      164,
+      0,
+      0
+    ],
+    "Level 100": [
+      3343,
+      158,
+      70,
+      131,
+      140,
+      73,
+      32,
+      344,
+      0,
+      11,
+      151,
+      146,
+      0,
+      0
+    ],
+    "Base Stats": [
+      647,
+      67,
+      70,
+      28,
+      30,
+      28,
+      32,
+      74,
+      0,
+      3,
+      58,
+      40,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "115% → 135%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "130% → 130%",
+  "collectionStatBonus": "Light cruiser (CL) Anti-air  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 21,
+  "level120StatBonus": "Light cruiser (CL) Torpedo  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    12,
+    10,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Gained Special Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Mark of Sirius; CN: 苍狼之印 JP: 誇らしき青星の印",
+  "skill1Description": "Increases Air Power of all CVs/CVLs in the fleet by 1% (10%) and increases their hit rate against Destroyers, Light Cruisers, Heavy Cruisers by 1% (10%). During battle, increases own Firepower, Torpedo stat and Reload by 1.5% (7%) per CV/CVL in the same fleet (maximum is 21%).",
+  "skill2Name": "Cover Fire; CN: 火力覆盖 JP: 砲火制圧",
+  "skill2Description": "Increases own Firepower by 10% (20%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-天狼星 JP: 特殊弾幕-シリアス",
+  "skill3Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Sirius I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/18/Sirius.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cf/SiriusChibi.png",
+      "shipDescription": [
+        "黛朵级轻巡洋舰-天狼星，舷号82",
+        "ダイドー級軽巡洋艦・シリアス (HMS Sirius)",
+        "Dido-class light cruiser – Sirius."
+      ],
+      "selfIntroduction": [
+        "我是皇家黛朵级防空巡洋舰第二批第五号舰，参加过地中海的最后一场海战“斯科雷湾海战”。现在作为皇家战斗女仆，只为主人而战斗！",
+        "ロイヤルダイドー級防空巡洋艦第二グループ五番艦シリアスと申します。かつてはペテスタル作戦に参加しました。今はロイヤルメイドとして、我が誇らしきご主人様のために戦わせていただきます",
+        "I am Sirius, the 5th ship in the 2nd group of the Royal Navy's Dido-class of light cruisers. I participated in Operation Pedestal in the past, but now I serve as a Royal Maid and have the privilege of fighting for my honourable Master."
+      ],
+      "acquisition": [
+        "贵安，皇家女仆天狼星号，前来就任。自此刻起，将守护主人的荣耀与信念，直至永恒的终结——",
+        "ご機嫌麗しゅうございます。ロイヤルメイド隊所属、軽巡シリアス、参上しました。これより御身と、御身の栄光と信念を守るべくお仕えさせていただきます",
+        "It is an honour to meet you. I am Sirius of the Royal Maids, here to assume the position. Henceforth, Master, I shall serve you to protect your glory and your beliefs."
+      ],
+      "login": [
+        "欢迎回来，我骄傲的主人",
+        "よくお戻りになられました。誇らしきご主人様",
+        "It is good to see you return, my honourable Master."
+      ],
+      "details": [
+        "主人，今天想要探讨什么？文学名著？军事艺术？绘画雕塑？亦或是…“爱”的问题？",
+        "誇らしきご主人様、今日は何をお勉強なさるのですか？文学教養？兵站軍学？芸術百般？それとも…男女の「まぐわい」ということにご興味が……？",
+        "My honourable Master, what would you like to learn more about today? Literature and culture? Logistics and strategy? The fine arts? Or, perhaps, you are more interested in more... carnal knowledge...?"
+      ],
+      "secretaryIdle1": [
+        "“扫除”吗…战斗的话我一定不会让您失望的，主人",
+        "「お掃除」ですか……戦闘ならご期待に沿える働きをさせていただきます。誇らしきご主人様",
+        "\"Cleaning\"...? If it is combat you are referring to, then I vow to meet all expectations you set for me, my honourable Master."
+      ],
+      "secretaryIdle2": [
+        "请放心，无论遇到何种困难，我都永远会和您在一起，我骄傲的主人",
+        "どんなことがあってもご一緒します。誇らしきご主人様",
+        "Regardless of what may ever happen, I shall always accompany you, my honourable Master."
+      ],
+      "secretaryIdle3": [
+        "适量饮食是健康的基础，所以——即使天狼星的料理再怎么不尽如人意，也请不要挑食，我…骄傲的主人",
+        "バランスの取れた食事は健康の肝要でございます。――ですから、シリアスの料理の腕がお気に召さないからといって、食事を取らないのはおやめになってください。誇らしきご主人様",
+        "Achieving a balanced diet is essential for one's health. Therefore, although my cooking skill may be unsatisfactory to you, please do not forgo the meals I prepare, my honourable Master."
+      ],
+      "secretaryTouch": [
+        "这种肢体接触还请在他人看不到的地方做，我骄傲的主人",
+        "スキンシップは余人の見えないところでお願いします。誇らしきご主人様",
+        "Please refrain from intimate contact while others can see us, my honourable Master."
+      ],
+      "secretarySpecialTouch": [
+        "如果主人想要天狼星的话…是、是吗…非常抱歉，是我太心急了……",
+        "シリアスをご所望でしたら……そ、そうですか。申し訳ございません、早まったことをしてしまいまして……",
+        "If you wish for me to service you tonight, then... M-my apologies! I made a rather careless assumption..."
+      ],
+      "task": [
+        "这点任务算不上什么，对吧？我骄傲的主人",
+        "これしきの任務など物の数に入りません。そうですよね？誇らしきご主人様",
+        "A mission of this magnitude is inconsequential. Isn't that correct, my honourable Master?"
+      ],
+      "taskComplete": [
+        "主人，任务的报酬已经送达了",
+        "誇らしきご主人様、任務報酬が届いていました",
+        "My honourable Master, the mission rewards have arrived."
+      ],
+      "mail": [
+        "主人，最新的邮件在这里",
+        "誇らしきご主人様、メールはこちらに",
+        "My honourable Master, the mail is here."
+      ],
+      "returnFromMission": [
+        "欢迎回来，红茶与茶点已经准备好了。另外，我烤了…唔，让人烤了可丽饼，要来几块吗？",
+        "よくお戻りになられました。紅茶と軽食を手配しました。また、僭越ながらクレープの方もやき…焼いてもらいました。お召し上がりになりますか？",
+        "It is good to see you return. There is tea and a light meal prepared for you. And, if you'll pardon my initiative, I have also prepared a creep... a crêpe. Would you like to have it now?"
+      ],
+      "commission": [
+        "军事委托的结果会由我为您拿来，请先在沙发上休息片刻，我骄傲的主人",
+        "誇らしきご主人様。軍事委託の結果のお知らせを持ってまいりますので、今しばしソファでおくつろぎくださいませ",
+        "My honourable Master, I have information regarding the results of a commission, so please relocate to the sofa and get in a relaxing position."
+      ],
+      "strengthening": [
+        "骄傲的主人啊——天狼星，因您而变得更加美丽",
+        "誇らしきご主人様――シリアス、より美しくなってみせます",
+        "My honourable Master, I shall become even more gorgeous for you."
+      ],
+      "startingMission": [
+        "将胜利与荣耀献予我骄傲的主人！",
+        "勝利と栄光は我が誇らしき主に捧げます！",
+        "Let us bring victory and glory to our honourable Master!"
+      ],
+      "mvp": [
+        "我骄傲的主人，道路已经为您清扫完毕",
+        "誇らしきご主人様、御身が進む道はシリアスが掃除してまいりました",
+        "My honourable Master, I have cleared the path so that you may move forward."
+      ],
+      "defeat": [
+        "失策…请惩罚犯了错误的女仆吧，我…骄傲的主人",
+        "無念…誇らしきご主人様、どうか粗相をしてしまいました、この卑しきメイドに罰をお与えくださいませ",
+        "How shameful... My honourable Master, it seems I have made a mess of myself. Please give this naughty maid her due punishment."
+      ],
+      "skillActivation": [
+        "我骄傲的主人啊，请借给我力量！",
+        "誇らしきご主人様、どうかシリアスに力を！",
+        "My honourable Master, please grant me strength!"
+      ],
+      "lowHP": [
+        "主人的女仆，可不容你们损坏！",
+        "ご主人様のメイドはやらせはしません！",
+        "As the Masters maid, I shall not be defeated!"
+      ],
+      "affinityDisappointed": [
+        "……请骄傲起来，我那令人遗憾的主人",
+        "……どうか誇らしくなってくださいませ。少し残念になったご主人様",
+        "...I implore you to be more honourable, my slightly disappointing Master."
+      ],
+      "affinityStranger": [
+        "对于侍奉好主人这件事还是很有自信的，不过——若是有哪方面比起女仆长还有所不足，请您务必指出来",
+        "ご主人様へのご奉仕には自信があります。ただ、メイド長と比べてご満足いただけないところがありましたら、どうかご指摘くださいませ",
+        "I take honour in my service to you, Master. However, should you find my service unsatisfactory in any way compared to the Head Maid, I kindly ask of you to tell me."
+      ],
+      "affinityFriendly": [
+        "我最骄傲的地方就在于能够找到并侍奉您，我骄傲的主人",
+        "シリアスにとって一番誇らしいことは、あなた様にお仕えできることです。誇らしきご主人様",
+        "To me, there is nothing more honourable than to have the privilege of serving you, my honourable Master."
+      ],
+      "affinityLike": [
+        "如果天狼星的拥抱能给予您慰藉，那我随时乐意为您奉上，我骄傲的主人",
+        "シリアスの抱擁がお慰めになれるのでしたらいつでも喜んで致します。誇らしきご主人様",
+        "If you find my embrace to be relieving, then I would gladly do so again at your command, my honourable Master."
+      ],
+      "affinityLove": [
+        "请昂首挺胸，洋溢着笑容尽情焕发光彩照耀这个世界吧！我骄傲的…主人",
+        "どうか胸を張り、その輝く姿で世界を照らしてくださいませ！シリアスの誇らしきご主人様……",
+        "I ask of you to stand proud and illuminate all the world with your glorious image, my honourable Master...!"
+      ],
+      "pledge": [
+        "居然能得到主人的誓约…现在，请允许我闭上双眼，品尝您的温暖，我骄傲的…主人",
+        "こんな素晴らしき約束をいただけるなんて……どうかこの卑しきメイドに目を閉じて、貴方様のぬくもりを感じることをお許しくださいませ……シリアスの誇らしきご主人様……",
+        "Oh, the bliss of getting to make this wondrous vow... Please, close your eyes for this unseemly maid and permit her to feel your warmth... My honourable Master..."
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "申し訳ございません誇らしきご主人様、シリアスは思案を重ねましたが、やはりチョコを作るのを断念しました……チョコの代わりに、どうかシリアス自身を受け取ってくださいませ…！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Honourable Master, please forgive me... I tried making you a chocolate cake, and it was all going so well up until the step where I had to melt the chocolate. But then I didn't know where to put the melted chocolate... Please teach this ignorant maid. Please, Honourable Master...!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Sirius_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Sirius_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Sirius_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Sirius_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Sirius_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Sirius_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Sirius_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Sirius_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Sirius_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Sirius_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Sirius_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Sirius_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Sirius_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Sirius_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Sirius_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Sirius_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Sirius_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Sirius_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Sirius_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Sirius_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Sirius_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Sirius_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Sirius_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Sirius_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Sirius_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Sirius_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Sirius_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Sirius_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Sirius_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Sirius_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Sirius_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Sirius_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Sirius_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Sirius_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Sirius_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Sirius_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Sirius_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Sirius_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Sirius_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Sirius_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Sirius_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Sirius_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Sirius_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Sirius_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Sirius_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Sirius_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Sirius_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Sirius_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Sirius_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Sirius_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Sirius_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Sirius_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Sirius_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Sirius_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Sirius_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Sirius_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Sirius_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Sirius_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Sirius_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Sirius_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Sirius_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Sirius_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Sirius_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Sirius_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Sirius_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Sirius_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Sirius_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Sirius_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Sirius_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Sirius_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Sirius_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Sirius_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Sirius_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Sirius_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Sirius_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Sirius_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Sirius_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Sirius_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "White Rose",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "纯白蔷薇",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ホワイトローズ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/dd/SiriusParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/78/SiriusPartyChibi.png",
+      "shipDescription": [
+        "贵安，遵从您的指示，天狼星换上了新的衣装。若是能得到您的赞美，我会万分感激的，主人",
+        "ご機嫌麗しゅうございます。シリアス、ご指示通りにドレス姿に着替えました。ご賛辞をいただけるのでしたらありがたき幸せでございます。誇らしきご主人様",
+        "My dear, I changed into the new outfit as per your request. I would be most grateful were you to offer me words of praise, Master."
+      ],
+      "acquisition": [
+        "贵安，遵从您的指示，天狼星换上了新的衣装。若是能得到您的赞美，我会万分感激的，主人",
+        "ご機嫌麗しゅうございます。シリアス、ご指示通りにドレス姿に着替えました。ご賛辞をいただけるのでしたらありがたき幸せでございます。誇らしきご主人様",
+        "My dear, I changed into the new outfit as per your request. I would be most grateful were you to offer me words of praise, Master."
+      ],
+      "details": [
+        "无论身着什么样的服饰，我都是您的女仆，全力实现您的期望，我骄傲的主人",
+        "どんな服を着ていても、シリアスはお望みを全力で叶えるメイドでございます。誇らしきご主人様",
+        "No matter what clothing I wear, I am still your maid and live only to fulfill your expectations, my honourable Master."
+      ],
+      "secretaryIdle1": [
+        "区区女仆却妄想以这般身姿站在主人身边…请原谅我的僭越…",
+        "たかがメイドの分際でドレス姿でご主人様の側に控えるなどと妄想してしまう失態……どうかこのシリアスをお許しください…",
+        "Every single maid dreams of being able to stand beside her master in such a dress... Please forgive me for my presumptuousness..."
+      ],
+      "secretaryIdle2": [
+        "这样的装扮似乎不太利于战斗…不过既然是主人的愿望，天狼星一定会全力配合",
+        "戦闘に適さない格好ですが…ご主人様がお望みならば、シリアス、全力でお応え致します",
+        "This dress seems ill-suited for combat... but since it is your wish, Master, I shall humbly carry out your will."
+      ],
+      "secretaryIdle3": [
+        "项链很适合我…？谢谢您的夸奖，我骄傲的主人",
+        "ネックレスがお似合い、ですか…？このシリアスにそのような賞賛、感謝致します。誇らしきご主人様",
+        "This necklaces suits me well...? Thank you for praising this unworthy maid, my honourable Master."
+      ],
+      "secretaryTouch": [
+        "能收到您的舞蹈邀请是天狼星的荣幸，令我沉醉的主人",
+        "ダンスにお誘い頂き、誠にありがとうございます。シリアスが心酔するご主人様",
+        "Oh, my Master who has intoxicated me with passions so, it is an honour to have been chosen as your dance partner."
+      ],
+      "returnFromMission": [
+        "最让人高兴的事，莫过于主人的平安归来了，要把大家召集起来举行茶会吗？",
+        "ご主人様の無事のご帰還以上喜ばしいことはございません。皆を集めてお茶会でも致しましょうか？",
+        "There is no greater happiness than your safe return, Master. Would you like to gather everyone to have tea?"
+      ],
+      "affinityLove": [
+        "无论在宴会舞台的灯光下，还是硝烟弥漫的战场上，您都是我眼中最耀眼的存在。我骄傲的主人，请让我一直看着您，陪伴在您的身边，直到永远——",
+        "パーティーのダンスフロアでも、硝煙漂う戦場でも、貴方はシリアスにとって一番輝く存在です。誇らしきご主人様、どうかこのシリアスに永遠なる相伴をお許しくださいませ――",
+        "Whether it's under the swirling lights of the ballroom stage, or in the smoke and explosions of the battlefield, there will never be anything more radiant than you in my eyes. My honourable Master, please allow me to gaze upon you and be at your side, always..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Sirius_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Sirius_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Sirius_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Sirius_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Sirius_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Sirius_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Sirius_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Sirius_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Sirius_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Sirius_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Sirius_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Sirius_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Sirius_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Sirius_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Sirius_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Sirius_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Sirius_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Sirius_Sec1Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Sirius_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Sirius_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Sirius_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Sirius_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Sirius_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Sirius_Affinity4Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Scorching-Hot Seirios",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "盛夏的Seirios",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "盛夏のセイリオス",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b1/SiriusSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/20/SiriusSummerChibi.png",
+      "shipDescription": [
+        "从女仆队的同伴那里得到了许多的意见…这身泳装没有让您失望吧，我骄傲的主人？",
+        "メイド隊の仲間から色々アドバイス頂いて選ばせていただきました水着です。誇らしきご主人様、シリアスのこの姿にご満足いただけるでしょうか",
+        "I've received ample advice from my colleagues in the Maid Team regarding swimwear etiquette. My honourable Master, are you pleased with my appearance?"
+      ],
+      "acquisition": [
+        "从女仆队的同伴那里得到了许多的意见…这身泳装没有让您失望吧，我骄傲的主人？",
+        "メイド隊の仲間から色々アドバイス頂いて選ばせていただきました水着です。誇らしきご主人様、シリアスのこの姿にご満足いただけるでしょうか",
+        "I've received ample advice from my colleagues in the Maid Team regarding swimwear etiquette. My honourable Master, are you pleased with my appearance?"
+      ],
+      "login": [
+        "无论在何处，天狼星都会侍奉并保护好主人。主人只要做自己想做的事就好。",
+        "どこにいようと、シリアスは全力でお守りいたします。誇らしきご主人様、どうかお好きなことを、お好きなようになさってくださいませ",
+        "No matter where we are, I shall do my utmost to keep you safe. My honourable Master, simply enjoy yourself, however you please."
+      ],
+      "details": [
+        "请放心，天狼星已经为这次海滩之行做了充分的准备。食物，饮料，杂志，防晒油，舰装和救生器材，还有……猫？为什么会在这……?不，没什么，我骄傲的主人。",
+        "ご安心くださいませ。シリアスはあらゆる状況に備えて準備しておきました。お食事にお飲み物、雑誌、日焼け止め、緊急時の艤装に救命機材に……ネコ？…どうしてここに？……あ、いいえ、なんでもございません！",
+        "Worry not, for I have come prepared for every occasion. Food, drinks, magazines, sunscreen, contingency combat armaments, life-saving equipment, and... a cat? Why are you here? ...Oh, umm, I was just talking to myself!"
+      ],
+      "secretaryIdle1": [
+        "主人，为何一直看着天狼星？莫，莫非我给主人带来了困扰？…是我多虑了吗…",
+        "誇らしきご主人様、どうしてシリアスのことを凝視なさってるのですか？もしやこの卑しきメイドがまた粗相をしてしまいましたか？？…シリアスの考え過ぎ、ですか…？",
+        "My honourable Master, why are you staring at me so intently? Did this humble maid err somewhere?! ...I'm overthinking things...?"
+      ],
+      "secretaryIdle2": [
+        "游泳吗？如，如果主人能教我的话……不，区区女仆，无权劳烦主人……",
+        "泳ぎですか？ご、ご主人様が教えてくださるのでしたら……いいえ、たかがメイドの分際で誇らしきご主人様に教えを請うなど……",
+        "Swimming? If... if you wouldn't mind teaching me... Um, sorry, a lowly maid has no right to request your valuable time..."
+      ],
+      "secretaryIdle3": [
+        "主人是累了吗？方便休息的地方……唔……如果主人不嫌弃的话，就，就用天狼星的身体代替吧！",
+        "誇らしきご主人様、お疲れなのでしょうか？でしたら、おくつろぎになれる場所や機材とか…どこかにあれば………うっ、申し訳ございません…差し支えなければ、このシリアスが代わりを務めさせていただきます…！",
+        "My honourable Master, are you tired? Something to rest on...? ...Um, if you wouldn't mind, then... feel free to use my body...!"
+      ],
+      "secretaryTouch": [
+        "就让天狼星为你遮挡阳光吧，我骄傲的主人。",
+        "誇らしきご主人様、シリアスが日差しから守らせていただきます",
+        "My honourable Master, allow me to protect you from the sun."
+      ],
+      "secretarySpecialTouch": [
+        "我明白了，我骄傲的主人，如果您希望身着泳装的天狼星…—啊…又会错意了吗？万分抱歉……",
+        "かしこまりました。水着姿のシリアスをご所望でしたら――そ、そうですか？誠に申し訳ございません……シリアスまた早まったことをしてしまいまして…",
+        "Understood. If you would like to see me in a bikini, then... Is, is that so? I'm terribly sorry... I prematurely jumped to conclusions yet again."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Sirius_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Sirius_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Sirius_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Sirius_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Sirius_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Sirius_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Sirius_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Sirius_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Sirius_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Sirius_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Sirius_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Sirius_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Sirius_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Sirius_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Sirius_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Sirius_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Sirius_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Sirius_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Sirius_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Sirius_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Sirius_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Sirius_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Sirius_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Sirius_Sec2Skin2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Azure Horizons",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "碧波青云",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "青雲映す碧波",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/95/SiriusSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/23/SiriusSpringChibi.png",
+      "shipDescription": [
+        "随节日改变自己的服装，也是女仆修行重要的一环。我骄傲的主人，天狼星这身打扮，没有让您失望吧？",
+        "祝日に応じて、誇らしきご主人様の好みに合わせた衣装に変えるのもメイドの務めだとお聞きしました。シリアスのこの格好は…ご満足いただけますでしょうか？",
+        "I have heard it is part of a maid's duties to dress to her honourable Master's liking over the holidays. Would this outfit happen to... satisfy the honourable Master's wishes?"
+      ],
+      "acquisition": [
+        "随节日改变自己的服装，也是女仆修行重要的一环。我骄傲的主人，天狼星这身打扮，没有让您失望吧？",
+        "祝日に応じて、誇らしきご主人様の好みに合わせた衣装に変えるのもメイドの務めだとお聞きしました。シリアスのこの格好は…ご満足いただけますでしょうか？",
+        "I have heard it is part of a maid's duties to dress to her honourable Master's liking over the holidays. Would this outfit happen to... satisfy the honourable Master's wishes?"
+      ],
+      "login": [
+        "春节快乐，我骄傲的主人。茶水已经为您准备好了。",
+        "春節おめでとうございます。誇らしきご主人様、お茶を用意してあります",
+        "Happy Lunar New Year, honourable Master. I have made a cup of tea for you."
+      ],
+      "details": [
+        "尝试做了些东煌的料理，虽然结果……请放心，明年的这个时候，天狼星一定能做出让您赞不绝口的东煌美食的。",
+        "東煌の料理を作って…みたのですが……ご、ご安心ください！来年こそこのシリアス、誇らしきご主人様のお口に合う素晴らしい料理をお作りいたします！",
+        "I made some Dragon Empery dishes, however they turned out quite... Pl-Please, do not be concerned! *This* year, I vow to make delectable food that shall suit the honourable Master's palate!"
+      ],
+      "secretaryIdle1": [
+        "主人，您有吃到过一个形状有些独特，没有内馅的饺子吗？没什么，我只是随口问问而已……",
+        "誇らしきご主人様、恐れ入りますが、形がちょっと独特な、中身がない「ギョウザ」を食べませんでしたか？…い、いいえ！なんでもございません…",
+        "My honourable Master, if you'll forgive my asking, have you eaten any unusually shaped, unstuffed gyoza? ...P-Pardon me, I was merely wondering..."
+      ],
+      "secretaryIdle2": [
+        "明明只是一介女仆，却能在节日里一直侍奉在指挥官左右，实在是受宠若惊。",
+        "卑しいメイドの身で、こうして誇らしきご主人様と一緒に祝日を過ごさせていただけるなんて…シリアス、誠に恐縮千万でございます",
+        "This naughty maid is deeply obliged to have the privilege of spending the holidays with her honourable Master."
+      ],
+      "secretaryTouch": [
+        "嗯？我敏锐的主人，是我的衣服上沾了灰尘吗？",
+        "鋭いご主人様、シリアスの衣装に埃がついてしまっているのでしょうか…？",
+        "My perceptive Master, would there happen to be dust clinging to my dress...?"
+      ],
+      "secretarySpecialTouch": [
+        "主人，您是希望在节日与身着旗袍的天狼星……是我又想多了吗？真是抱歉……",
+        "はい、祝日に東煌風の衣装のシリアスをご所望でしたら……あっ、申し訳ございません！シリアス、また早まったことを…",
+        "If you wish me to service you in these Dragon Empery garments, then... Oh, my apologies! I've made yet another careless assumption..."
+      ],
+      "returnFromMission": [
+        "这身装扮如果风很大的话很危险…？难道是担心天狼星会感冒吗？能得到您的关心，天狼星受宠若惊…我骄傲的主人…！",
+        "この格好は風が強い天気だと危ない、ですか…？もしかして、シリアスが風邪を引かないようご心配いただいているのですか？誇らしきご主人様、恐れ入ります…！",
+        "My outfit is unsafe to wear in windy weather? Are you concerned with my wellbeing and would not want me catching a cold? Oh, honourable Master, your thoughtfulness humbles me!"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,608 @@
+{
+  "name": "West Virginia",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Colorado",
+  "ID": "062",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Chuzenji",
+  "twitter": "https://twitter.com/_Chuzenji_",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/8/8d/West_Virginia_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7456,
+      149,
+      61,
+      409,
+      0,
+      30,
+      21,
+      216,
+      0,
+      14,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6416,
+      130,
+      61,
+      368,
+      0,
+      11,
+      21,
+      188,
+      0,
+      14,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1241,
+      55,
+      61,
+      78,
+      0,
+      4,
+      21,
+      40,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 16,
+  "maxLimitBreakTechPoints": 32,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 24,
+  "enhancementValue": [
+    64,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Big Seven; CN: BIG SEVEN JP: BIG SEVEN",
+  "skill1Description": "When firing main gun: 20% (40%) chance to fire a frontal barrage (damage increases with skill level).",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/West_Virginia.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c1/West_VirginiaChibi.png",
+      "shipDescription": [
+        "科罗拉多级战列舰—西弗吉尼亚，舷号BB-48",
+        "コロラド級戦艦・ウェストバージニア（BB-48)",
+        "Colorado class battleship— West Virginia, hull number BB-48."
+      ],
+      "selfIntroduction": [
+        "在那段被称为“海军假日”的时间里，我和姐姐们有幸成为了世界最强战舰的一员，被赋予了“Big Seven”这个备受瞩目的称号。虽然时代在不断变化，但我们三姐妹依然拥有和敌人进行舰队决战的实力，这点请您务必不要忘记。",
+        "あの「海軍休日」といわれていた日々の中で、私と姉たちは世界最強の戦艦として「ビッグセブン」という輝かしい称号を授けられた。しかし時代が移り変わったとはいえ、私たち三姉妹が艦隊を支えるだけの実力を持っていることに変わりはない。これだけは、どうか忘れないでほしい",
+        "During a \"Naval Holiday\", my sisters and I were honored amongst the world's strongest battleships. We were granted the high-profile title of - BIG SEVEN. Although times are changing, the three of us still have the strength to fight any enemy fleet in a decisive battle, please don't forget that."
+      ],
+      "acquisition": [
+        "终于到我展现力量的时候了吗…“科罗拉多”级战列舰三号舰“西弗吉尼亚”，遵循命运的指引，加入您的舰队",
+        "ようやく私の力を見せる時が来たか……コロラド級戦艦三番艦、ウェストバージニア、運命の導きに従い、あなたの艦隊の一員となろう",
+        "It’s finally my time to show my strength... Under the guidance of fate, the third ship of Colorado class, West Virginia, reporting in."
+      ],
+      "login": [
+        "回来的有点迟呢…演习都要开始了，不要迟到了啊",
+        "遅かったな……そろそろ演習が始まる。遅刻するなよ",
+        "You’re late... the exercise has already begun, hurry!"
+      ],
+      "details": [
+        "不用怀疑我的战斗能力，指挥官",
+        "指揮官、私の力は疑わなくていい、心配には及ばない",
+        "Do not doubt my combat performance, Commander."
+      ],
+      "secretaryIdle1": [
+        "舰队演习的情况…不太理想。指挥官是不是又在偷懒了？",
+        "演習の結果は……あまりよくないようだ。指揮官、もしかしてまた怠けていたのか？",
+        "The combat exercise didn’t go well… Is the Commander being lazy again?"
+      ],
+      "secretaryIdle2": [
+        "那一天所遭受的屈辱，我一生都不会忘记",
+        "あの日受けた屈辱、一生忘れはしない",
+        "I will never forget the humiliation I suffered on that day."
+      ],
+      "secretaryIdle3": [
+        "在苏里高海峡的那个夜晚，我见证了一支重樱舰队的最后时刻，她们…确实是值得尊敬的对手…",
+        "あのスリガオ海峡の夜、私はある重桜艦隊の最後を見届けた。彼女たちは……間違いなく尊敬に値する相手だ……",
+        "On the night of the Surigao Strait, I witnessed the last moments of the Sakura Empire fleet... They truly are a worthy opponent..."
+      ],
+      "secretaryTouch": [
+        "这应该是……表示善意的举动吧。",
+        "これは……好意を表す行動、なのか？",
+        "This should be... a friendly gesture I suppose."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官看来已经做好觉悟了呢",
+        "…！？指揮官、覚悟はできているようだな",
+        "Commander, it seems you’re rather close to getting lectured by me."
+      ],
+      "task": [
+        "执行任务也是增强舰队实力的重要一环…",
+        "任務の遂行も、艦隊の実力をつけるために必要不可欠なことだ",
+        "Carrying out missions is an important part of enhancing the strength of the fleet."
+      ],
+      "taskComplete": [
+        "认真完成了任务呢，值得表扬。",
+        "しっかり任務を完了したようだな、見事だったぞ",
+        "The mission was nicely executed, good one."
+      ],
+      "mail": [
+        "会不会是姐姐她们寄来的信呢？",
+        "もしかして姉たちからの手紙か？",
+        "Could these be letters from my sisters?"
+      ],
+      "returnFromMission": [
+        "这里的港口真是平静，让人想起了大战前的夏威夷呢…",
+        "ここの港は静かだな、かの大戦前のハワイを思い出す……",
+        "What a peaceful port, it reminds me of Hawaii before the war."
+      ],
+      "commission": [
+        "委托组的效率可真高啊，希望指挥官也能稍微学学她们的工作效率呢…",
+        "委託組の仕事ぶりはなかなかのものだ、指揮官にも少し彼女たちを見習ってほしい……",
+        "The commission fleet is really efficient. I hope the Commander can learn a thing or two about efficiency."
+      ],
+      "strengthening": [
+        "看来这一次的斯波坎杯也能拿下了呢。",
+        "今回のスポケーントロフィーも行けそうだ",
+        "It seems the Spokane Cup this year will still be mine."
+      ],
+      "startingMission": [
+        "我曾经遭受的屈辱，都加倍奉还给你们吧！",
+        "かつて受けた屈辱、全て倍返しにしてやろう！",
+        "The humiliation I once suffered... I'll repay you double!"
+      ],
+      "mvp": [
+        "看到了么？这就是妄图挑战我等“Big Seven”实力的可悲下场",
+        "見たか？これが「ビッグセブン」に挑もうとした結果だ",
+        "Have you seen this? This is the inevitably tragic ending of those who dare challenge the BIG SEVEN."
+      ],
+      "defeat": [
+        "又想让我回忆起那一天遭受的屈辱吗…！",
+        "また、あの日受けた屈辱を思い出させようというのか……！",
+        "I don't want to recall the humiliation I suffered on that day...!"
+      ],
+      "skillActivation": [
+        "感受16英寸炮弹的重量吧！",
+        "16インチ砲弾の重さを思い知れ！",
+        "Have a taste of my 406mm guns!"
+      ],
+      "lowHP": [
+        "被鱼雷命中的感觉，让人不快…",
+        "魚雷に撃たれたこの感覚、実に不愉快だ……",
+        "Getting hit by a torpedo... it feels bad."
+      ],
+      "affinityDisappointed": [
+        "指挥官的怠惰差不多要超过我能忍受的底线了呢",
+        "指揮官、怠け過ぎだ。私にも我慢の限界がある。",
+        "Commander's laziness is almost beyond my bottom line."
+      ],
+      "affinityStranger": [
+        "虽然在那一天受了重伤，但在进行修理的时候，我反而得到了更强大的力量…这该说是“因祸得福”么？",
+        "かの大戦では大怪我をしてしまったが、修理を受けて更なる力を手にすることができた。これが……「怪我の功名」というやつだろうか？",
+        "I was once seriously injured, but then I was greatly enhanced during the process for my repairs…"
+      ],
+      "affinityFriendly": [
+        "Big Seven，是我引以为傲的称号。但是，航母们似乎要取代我们在海战中的地位了。我开始陷入迷惘：自己拥有的这份力量，如今究竟是为了什么而存在的？",
+        "「ビッグセブン」、これは私が誇りに思っている称号だ。だが、これからは空母の時代か……私は今、自分のこの力が一体何のために存在しているのか迷い始めている。",
+        "I’m proud of my BIG SEVEN title. But aircraft carriers seem to be replacing us battleships in naval battles. I am losing myself in all this confusion: this strength that I possess... what is it for?"
+      ],
+      "affinityLike": [
+        "加入了指挥官的舰队之后，我似乎逐渐找到疑问的答案了…这份力量，是为了守护包括指挥官在内的大家而存在的。即使不再成为战场上的主角，我和我的力量，也依然有它存在的价值。",
+        "指揮官の艦隊に入ったことで、ようやく答えを見つけられそうだ……この力は、指揮官とみんなを守るためにある。たとえ、二度と戦場の主役にはなれないとしても、私と私の力には、まだ価値があるはずだ",
+        "After joining your fleet, the answer to my question has been gradually answered... This power of mine is destined to protect everyone including you, Commander. My strength still has its value, even if I'm no longer the heroine of the battlefield."
+      ],
+      "affinityLove": [
+        "指挥官已经成为了一个能够在战场上独当一面的人物了呢。这样一来，我所拥有的力量，也终于有了值得托付的人……什么？爱的告白？别让我直说这种话啊，笨蛋——",
+        "指揮官はもう戦場を任せるに足る人物となれたようだな。これでようやく、私にも力を託すに値する人が……なに？愛の告白？そ、そんなこと私から言わせるんじゃないっ、このバカッーー",
+        "Commander, you have become someone who can completely take charge on the battlefield. At last, my powers have found a worthy partner... What? A love confession? Don't you trick me to say that, you fool——"
+      ],
+      "pledge": [
+        "要和我进行契约吗？指挥官可真是做了一个相当大胆的决定呢…既然如此，我也不会辜负指挥官的期待，就让我以这份力量，守护你直到生命的尽头吧",
+        "私と契りを交わすというのか？大胆な決断をしたな、指揮官……ならば、私もその期待に応えるとしよう。この力と命ある限り、あなたを守り続けよう",
+        "You’ve decided to perform a pledge ritual with me? Commander really made a bold decision... In that case, I will not let your expectation down. I'll guard you until the very end."
+      ],
+      "giftDescriptionValentines2018": [
+        "光是照顾船上的宠物就够麻烦了这个...虽然是这么说但是可不能输给华盛顿呢！我们BIG SEVEN巧克力也不能被人小瞧了",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，那个，我学着姐姐们的样子，试着挑战了一下巧克力的制作,不嫌弃的话请尝一尝。用掉了一整罐的糖浆，味道应该很充分了……",
+        "指揮官、その、コロラドたちを真似てチョコを作った。よかったら食べてくれ。……さすがにバケツレベルの砂糖水を使ったから、味気ないことにはならないはず……",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "A couple of us Big Sevens joined forces to make this chocolate. Please, take it. It should taste good, since Rodney gave us a hand... More than good, actually! I'm confident you'll love it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/West_Virginia_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/West_Virginia_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/West_Virginia_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/West_Virginia_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/West_Virginia_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/West_Virginia_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/West_Virginia_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/West_Virginia_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/West_Virginia_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/West_Virginia_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/West_Virginia_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/West_Virginia_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/West_Virginia_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/West_Virginia_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/West_Virginia_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/West_Virginia_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/West_Virginia_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/West_Virginia_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/10/West_Virginia_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/West_Virginia_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/West_Virginia_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/West_Virginia_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/West_Virginia_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/West_Virginia_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/West_Virginia_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/West_Virginia_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/West_Virginia_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/West_Virginia_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/West_Virginia_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/West_Virginia_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/West_Virginia_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/West_Virginia_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/West_Virginia_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/West_Virginia_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/West_Virginia_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/West_Virginia_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/West_Virginia_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/West_Virginia_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/West_Virginia_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/West_Virginia_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/West_Virginia_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/West_Virginia_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/West_Virginia_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/West_Virginia_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/West_Virginia_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/West_Virginia_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/West_Virginia_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/West_Virginia_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/West_Virginia_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/West_Virginia_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/West_Virginia_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/West_Virginia_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/West_Virginia_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/West_Virginia_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/West_Virginia_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/West_Virginia_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/West_Virginia_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/West_Virginia_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/West_Virginia_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/West_Virginia_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/West_Virginia_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/West_Virginia_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/West_Virginia_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/West_Virginia_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/West_Virginia_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/West_Virginia_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/West_Virginia_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/West_Virginia_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/West_Virginia_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/West_Virginia_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/West_Virginia_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/West_Virginia_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/West_Virginia_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/West_Virginia_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/West_Virginia_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/West_Virginia_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/West_Virginia_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/West_Virginia_PledgeJP.ogg"
+      ]
+    },
+    {
+      "CNClientName": "西弗吉尼亚",
+      "CNClientAvailability": "Permanently Available",
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/West_VirginiaOriginal.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/13/West_VirginiaOriginalChibi.png",
+      "shipDescription": [
+        "科罗拉多级战列舰—西弗吉尼亚，舷号BB-48",
+        null,
+        null
+      ],
+      "selfIntroduction": [
+        "白鹰科罗拉多级战列舰四号舰“西弗吉尼亚”，因姐姐“华盛顿”未完工，也被称为三号舰。BIG·SEVEN之一。珍珠港事件中坐沉，后被打捞起来进行现代化改造，并参与苏里高夜战完成复仇，参与魔毯行动后转入预备役，共获得五枚战役之星。摘下眼镜后性情大变？因为姐姐的灵魂与我同在",
+        null,
+        null
+      ],
+      "acquisition": [
+        "科罗拉多级四号舰西弗吉尼亚，指挥官，靠近些，让我好好看看你",
+        null,
+        null
+      ],
+      "login": [
+        "怎么，寂寞了吗？我可以陪你哦~",
+        null,
+        null
+      ],
+      "details": [
+        "指挥官，你想做些什么？呵呵，我可以~如你所愿哦",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "指挥官，我的炮塔是不是很有特点",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "华盛顿在天上保佑着我，所以我才能一直战无不胜",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "能再次见到亚利桑那真令人高兴",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "啊呀，指挥官真爱撒娇~",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "啊呀，指挥官，天上的姐姐在看着呢",
+        null,
+        null
+      ],
+      "task": [
+        "再怎么向我撒娇，没完成的任务也不会自动完成呀",
+        null,
+        null
+      ],
+      "taskComplete": [
+        "乖孩子~乖孩子~",
+        null,
+        null
+      ],
+      "mail": [
+        "指挥官，猜猜看，我把新邮件~放在哪里了？",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "指挥官，要和我们姐妹一起去小酌一杯吗？",
+        null,
+        null
+      ],
+      "commission": [
+        "执行委托的舰娘们回来了，指挥官还不去迎接一下吗？",
+        null,
+        null
+      ],
+      "strengthening": [
+        "指挥官，你想要什么样的奖励？",
+        null,
+        null
+      ],
+      "startingMission": [
+        "眼镜被摘下来了？看来又到吾活动的时间了！",
+        null,
+        null
+      ],
+      "mvp": [
+        "啊呀啊呀，摘下眼镜后的我刚刚都做了些什么？",
+        null,
+        null
+      ],
+      "defeat": [
+        "没有什么是能一直一帆风顺的……",
+        null,
+        null
+      ],
+      "skillActivation": [
+        "吾眼前之敌，四散溃逃吧！",
+        null,
+        null
+      ],
+      "lowHP": [
+        "要不要潜到海里避下风头……",
+        null,
+        null
+      ],
+      "affinityDisappointed": [
+        "指挥官好无趣啊",
+        null,
+        null
+      ],
+      "affinityStranger": [
+        "马里兰姐姐，你又受伤了！战斗中多少也保护下自己啊",
+        null,
+        null
+      ],
+      "affinityFriendly": [
+        "喜欢的事情就要大胆去做。如何，你有这种勇气吗？",
+        null,
+        null
+      ],
+      "affinityLike": [
+        "我养了三只猫、八只狗和一只狐狸。怎么？指挥官你也想加进来吗？",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "指挥官，你在看我哪里呢？嘻嘻……可以哦~把头伸过来吧~",
+        null,
+        null
+      ],
+      "pledge": [
+        "嘻嘻，因为害羞而面红耳赤正是指挥官最可爱的地方~",
+        null,
+        null
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Maryland) 姐姐，抢占到T头了吗？",
+        null,
+        null
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Pennsylvania) 复仇之战来了",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

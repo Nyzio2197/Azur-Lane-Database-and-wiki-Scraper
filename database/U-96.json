@@ -1,0 +1,379 @@
+{
+  "name": "U-96",
+  "constructionTime": "00:12:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "VIIC",
+  "ID": "467",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "黑猫",
+  "pixiv": "https://www.pixiv.net/member.php?id=2331978",
+  "link": "https://weibo.com/u/2959771544",
+  "voiceActor": "https://en.wikipedia.org/wiki/ja:%E5%B3%AF%E7%94%B0%E8%8C%89%E5%84%AA",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1306,
+      109,
+      62,
+      52,
+      536,
+      37,
+      14,
+      0,
+      0,
+      7,
+      183,
+      0,
+      188,
+      2
+    ],
+    "Level 100": [
+      1089,
+      95,
+      62,
+      46,
+      487,
+      18,
+      14,
+      0,
+      0,
+      7,
+      164,
+      0,
+      188,
+      2
+    ],
+    "Base Stats": [
+      211,
+      40,
+      62,
+      10,
+      103,
+      7,
+      14,
+      0,
+      0,
+      2,
+      63,
+      0,
+      188,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 24,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Accuracy  +2",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    1,
+    41,
+    0,
+    8
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "The Smiling Sawfish; CN: 微笑猎手 JP: ノコギリはクールに微笑む",
+  "skill1Description": "Increases this boat's Torpedo Crit Rate by 10% (20%). At the start of the battle: fires a torpedo barrage (damage and pattern of barrage is based on skill level).",
+  "skill2Name": "Wolf Pack Formation - U-96; CN: 狼群战术-U96 JP: ウルフパック-U96",
+  "skill2Description": "Increases Accuracy by 1% (10%) and Crit DMG by 5% (15%) for all your Iron Blood SSs. Additionally, for each SS in your fleet: increases this boat's Accuracy, RLD, and EVA by 1.5% (6%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-U96II JP: 特殊弾幕U-96Ⅱ",
+  "skill3Description": "When entering the battle, triggers Full Barrage - U-96 I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/04/U-96.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a9/U-96Chibi.png",
+      "shipDescription": [
+        "铁血VIIC型潜艇U-96",
+        "鉄血ⅦC型潜水艦U-96",
+        "Iron Blood Type VIIC submarine – U-96."
+      ],
+      "selfIntroduction": [
+        "我是铁血的VIIC型潜艇，第七潜艇编队的U96。在大战中的十一次巡航中，姑且算是取得了不少的战果吧，虽然最后还是被讨厌的飞机给摆了一道……哼哼，安心吧，“王牌”的实力，不会让你失望的。",
+        "第7潜水艦群所属、鉄血のVIIC型潜水艦のU96だ。かの大戦での11回に渡った任務で戦果を大量に手にしてきたぜ。まあ航空機には流石に敵わないが……なに、心配するほどのことじゃねえ。エースはいつだって指揮官をがっかりさせないぜ",
+        "The name's U-96, Iron Blood Type VIIC U-boat, part of the 7th U-boat Flotilla. I made some real juicy contributions over my 11 patrols in the war. Never did fare well against aircraft, though... But don't let that worry ya, Commander. I'm still an ace, and I ain't never gonna let ya down."
+      ],
+      "acquisition": [
+        "我是VIIC型潜艇U96，曾经的“前进狼群<Vorwärts>”中的一员。哼哼，尽管看着吧，指挥官。我会给你带来更多的战果的。",
+        "VIIC型のU96、こう見えても「Vorwärts」のメンバーなんだぜ。ふふ、いまに見てろ。戦果をどっさりくれてやる",
+        "Sup. I'm U-96, Type VIIC U-boat and member of the famous Vorwärts wolfpack. Hehe, I'll have you drowning in reports of my success soon enough."
+      ],
+      "login": [
+        "来得挺早得嘛？还想看看迟到的指挥官会有多慌张呢",
+        "随分と早いじゃないか。遅れた指揮官があたふたする姿を楽しみにしてたんだぜ",
+        "Look who's early. Here I was hoping to see you panicking over being late."
+      ],
+      "details": [
+        "怎么？难道是被U艇出击前的英姿迷住了吗？",
+        "どうした？出撃前のUボートに見惚れてるのか？",
+        "Yeah, what? You fancy how a U-boat in her off time looks?"
+      ],
+      "secretaryIdle1": [
+        "比起可见的威胁，还是潜伏的未知更令人恐惧，对，就像我们潜艇一样——",
+        "見える敵より見えない敵のほうが怖い。そう、アタシら潜水艦みたいな――",
+        "It's not the foes you can see that you should fear, it's the ones you can't see. Like us U-boats, for instance..."
+      ],
+      "secretaryIdle2": [
+        "潜航和等待，是我们潜艇的强项，不过未来有机会的话，还是挺希望能一直悠闲地航行在水面之上的呢。",
+        "潜って、待つ。息を潜めるのは潜水艦の得意分野だが、時々ずっと潜らずただゆったりと航海してみたいもんだ",
+        "Step one: dive. Step two: wait. While we U-boats can hold our breaths for ages, sometimes I just like goin' for a leisurely swim."
+      ],
+      "secretaryIdle3": [
+        "“橡树叶的巡逻队”啊…是个充满荣誉的名头呢，其实我们不过是作为狼群，不断地狩猎目标猎物而已。",
+        "「オークリーブズパトロール」……へへ、いい響きだ。まあアタシらは狼として群れて、そして狩っていただけなんだがな",
+        "\"The Oak-Leaves Patrol\"... Heheh, that's got a nice ring to it. Still, all we really did was make a pack and go huntin' for targets."
+      ],
+      "secretaryTouch": [
+        "怎么，有求于我了吗？",
+        "アタシに用でもあった？",
+        "Did ya need something, or?"
+      ],
+      "secretarySpecialTouch": [
+        "怎么？对这里这么感兴趣的吗？",
+        "なんだ？ここがそんなに気になるんだ",
+        "What? You seriously like touching me here?"
+      ],
+      "task": [
+        "怎么？还没发现有未完成的任务吗？",
+        "なんだ？未完了の任務がまだ残っているのか？",
+        "What's this? Still got unfinished missions, do we?"
+      ],
+      "taskComplete": [
+        "怎么？要我帮你把任务报酬都领了搬到你面前吗？",
+        "どうした？目の前まで報酬を運ぶのをお望みかい？",
+        "So, what is it? Need someone to fetch ya those rewards?"
+      ],
+      "mail": [
+        "信箱，再不处理下早晚要满了哦？到时候可别说我没提醒你……",
+        "メールボックス、いよいよ満杯寸前、と――秘書艦が言わなかったなんて言わせねえぜ",
+        "That mailbox is gonna get full sooner or later. And don't say I didn't warn ya."
+      ],
+      "returnFromMission": [
+        "指挥官，地图借我下——嘿咻…好啦，我标记的这几个点，很适合伏击哦，下次要不要考虑安排下？",
+        "指揮官、地図を借りるぜーーんっしょ…よし、マークつけた海域、待ち伏せにもってこいの場所だから、次の出撃でやってみてもいいんだぜ",
+        "Lemme see that map, Commander... All right, cool... 'Kay, so the spot I marked would be perfect for an ambush next sortie. If ya need it done, just hit me up."
+      ],
+      "commission": [
+        "委托组回来了，似乎敌人并没有像我们这样的“狼群”呢，真是太好了。",
+        "委託組が戻ってきた。羊が狼に出会わなかったようでよかったな",
+        "The commission team's back. Good thing those sheep didn't get eaten by wolves, eh."
+      ],
+      "strengthening": [
+        "我很期待下一次的出击哦，嘿嘿~",
+        "次の出撃、楽しみにしてるぜ",
+        "Oh man, I can't wait for the next sortie."
+      ],
+      "startingMission": [
+        "让我们开始新的一轮狩猎吧！",
+        "狩りを始めるぜ…！",
+        "Time to get huntin'!"
+      ],
+      "mvp": [
+        "稍微见识到一点王牌的风范了吧~",
+        "エースの格の違いを見たか？",
+        "Now do ya see what an ace is capable of?"
+      ],
+      "defeat": [
+        "算了，下次再来找回场子吧。",
+        "まあいい、次はいいとこ見せてやるぜ",
+        "Whatever. Next time's gonna be much better."
+      ],
+      "skillActivation": [
+        "Jetzt(就是现在)！",
+        "Jetzt（イエッツ）!",
+        "Jetzt!"
+      ],
+      "lowHP": [
+        "差不多该见好就收了吧…",
+        "引き際も肝心ってところか…！",
+        "Should probably retreat while I still can, I guess!"
+      ],
+      "affinityDisappointed": [
+        "像你这样的，大概只适合被扔到海里喂鲨鱼了。开玩笑的",
+        "お前はサメに食われるのがお似合いなんだぜ。なんてな",
+        "You know where you belong? In a shark's stomach. Meh, whatever."
+      ],
+      "affinityStranger": [
+        "潜艇作战其实大部分时候还是挺无聊的，所以大家都很懂得怎么找乐子呢。你要是觉得无聊了，可以尽管找港区的潜艇同伴们玩哦。",
+        "潜水艦の任務、実はほとんどの時間がどうしようもなく退屈で、面白いものを見つけないとやってられないんだぜ。お前もつまらなく感じたら、母港の潜水艦たちと遊んでみるといいさ",
+        "During most my missions I'm honestly just bored out of my mind and pray I find somethin' worth my time. If you ever feel bored, go hit up some of the U-boats at port."
+      ],
+      "affinityFriendly": [
+        "怎么？对潜艇的战斗体验感兴趣？那下次跟着我们一起出战看看嘛？……啊，指挥官没办法像我们这么长时间潜水呢，要不，你先练习练习潜水技巧？",
+        "潜水艦の戦いっぷりがそんなに気になるなら、次の出撃時一緒に来てくれたっていいんだぜ？あっ、そういえば指揮官はそんなに長く潜れないな。なら潜ることを先に教えてやろうか？",
+        "If ya think U-boat combat is that fascinating, you could always come with me on the next sortie. Oh wait, you can't stay underwater all that long, can ya? Then how's about I teach you how to dive like a pro?"
+      ],
+      "affinityLike": [
+        "想了想，水面上的巡航，就能带上指挥官了吧？安心，就算在水面上我的驾驶技巧也是很好的！不会把你甩下去或者突然下潜什么的啦~要不，现在就去体验一下？",
+        "まあ、浮上したままなら指揮官を艤装に載せられるだろ？それにアタシなら、お前を海の中に落としたりする心配もないぜ。どうだ？アタシと一緒に乗ってみるか？",
+        "You can get onto my rigging while I'm surfaced, can'tcha? Don't worry, I ain't gonna just dump ya in the middle of the ocean. So, how's that sound? Wanna ride with me?"
+      ],
+      "affinityLove": [
+        "我现在在想，有机会的话，能带着你一起，悠闲地游遍这片海洋就好了呢。对了，到时候，就由你把我们的故事写成小说吧！最好还能拍成电影什么的！……唔，想了下这样好像有点羞耻…还是作为我们俩的回忆就够了！",
+        "機会があったらお前をこいつに乗せて、二人だけで海にゆったりと旅行に出かけるのも良さそうだな。そしたら小説なり映画なりアタシらの物語を書き記してもらって……いや、恥ずかしいからやっぱりなしだ。ふふ、二人の思い出だけで十分だぜ",
+        "Someday I wanna take you with me on a trip across the sea, just the two of us. We could write a journal as we go and make a book or even movie out of it... Actually, that'd be weird, so let's not. But as long as we make some fond memories, I'm happy."
+      ],
+      "pledge": [
+        "呜哇！？被指挥官先下了一城呢…不，我还有反击的机会…指挥官，闭上眼睛！——(啾)哼哼，怎么样，有没有感觉被我“击沉”了呢~？",
+        "お前にしてやられたな……いや、まだアタシに反撃のチャンスはある。ほら、指揮官目を閉じな！――（チュッ）ふふん、どうだ？アタシなりに射止められたかい？",
+        "You got me, I'll give ya that much... But I've still got the chance to strike back. Close your eyes! ...Mwah! Heheh, hit ya right in the heart with that one, didn't I?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 2 of: U-81, U-47, U-557, U-556, U-73, U-101, U-522, U-110) 没有能从“狼群”口中逃脱的猎物！",
+        "(Sortie with at least 2 of: U-81, U-47, U-557, U-556, U-73, U-101, U-522, U-110) 狼からは逃げられないんだぜ",
+        "(Sortie with at least 2 of: U-81, U-47, U-557, U-556, U-73, U-101, U-522, U-110) There ain't no escaping the wolfpack!"
+      ]
+    },
+    {
+      "ENClientName": "Secret Gaming Session",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "秘密的游戏时间",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "秘密の遊戯タイム",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/ad/U-96Casual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8e/U-96CasualChibi.png",
+      "shipDescription": [
+        "来得正好，我这刚结束了一场“战斗”哦。结果…？当然是我的胜利啦。怎么？你也想跟我来一场吗？",
+        "いいタイミングで来たじゃないか。今ちょうど「戦闘終了」したところだぜ。結果は…？ふん、アタシの勝ちに決まっているだろう。どうだ？お前もアタシとやってみないか？",
+        "Nice timing. I just finished an intense battle. The result...? Of course I won. What? Did you want to have a match against me?"
+      ],
+      "acquisition": [
+        "来得正好，我这刚结束了一场“战斗”哦。结果…？当然是我的胜利啦。怎么？你也想跟我来一场吗？",
+        null,
+        null
+      ],
+      "login": [
+        "零食饮料都在边上，你的话，自己随便拿就行了，不用客气。",
+        null,
+        null
+      ],
+      "details": [
+        "这一身穿着很舒服的哦，活动起来也很方便。反正是在自己房间里，而且，给你看到也没什么关系就是。",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "想要赢过我，再回去练个几年吧，日出之国的武士，哈哈哈~",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "唔…稍等等，好像听到了什么奇怪的声音，不会是U81她们玩捉迷藏又偷偷溜进我的房间了吧？",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "我还挺喜欢“东煌姐妹”的哦，怎么说呢，努力的孩子，总是让人讨厌不起来的，不是吗？",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "要再来玩一盘？好！输的人要接受惩罚哦~",
+        null,
+        null
+      ],
+      "mail": [
+        "新消息！？唔，是指挥官的邮件啊，还以为是L.I发来的对战邀请呢。",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "对了对了，我刚研究了一套新的战术，来陪我练练手吧！",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

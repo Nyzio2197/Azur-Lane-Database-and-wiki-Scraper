@@ -1,0 +1,477 @@
+{
+  "name": "Arizona",
+  "constructionTime": "04:10:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Pennsylvania",
+  "ID": "055",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "SA",
+  "pixiv": "https://www.pixiv.net/member.php?id=5529284",
+  "link": "http://weibo.com/u/3405529060",
+  "voiceActor": "https://en.wikipedia.org/wiki/ja:%E7%99%BD%E5%A3%81%E7%88%BD%E5%AD%90",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7137,
+      139,
+      17,
+      399,
+      0,
+      27,
+      21,
+      219,
+      0,
+      14,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6116,
+      121,
+      17,
+      358,
+      0,
+      11,
+      21,
+      190,
+      0,
+      14,
+      54,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1183,
+      51,
+      17,
+      76,
+      0,
+      4,
+      21,
+      41,
+      0,
+      5,
+      21,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 25,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    63,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Eagle's Tears; CN: 白鹰之泪 JP: 白鷲の黒い涙",
+  "skill1Description": "When firing main gun, 50% chance to heal the Vanguard Fleet for 4% (10%) of their max Health.",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/9a/Arizona.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png",
+      "shipDescription": [
+        "宾夕法尼亚级战列舰—亚利桑那，舷号BB-39",
+        "ペンシルベニア級戦艦・アリゾナ（BB-39）",
+        "Pennsylvania-class Battleship – Arizona, Hull Number BB-39!"
+      ],
+      "selfIntroduction": [
+        "我是宾夕法尼亚级战列舰二号舰亚利桑那号，我的生日是在夏天。 是的……那个“亚利桑那之泪”就是我的，那种东西却是泪，稍微有点讽刺呢……",
+        "夏に生まれた、ペンシルベニア級戦艦の二番艦アリゾナです。 はい……あの「アリゾナの涙」とは私のことですが、涙と言われて少しだけやるせない…ですね…",
+        "I am the second ship of the Pennsylvania class battleships, born during summer, Arizona. Yes... the 'Tears of Arizona' is referring to me, but it's a little sad to call them tears... you see..."
+      ],
+      "acquisition": [
+        "我是宾夕法尼亚级战列舰的二号舰亚利桑那号，我的生日是在夏天。这次，一定不会再让悲剧重演……",
+        "ペンシルベニア級二番艦、アリゾナです。夏に生まれました。今度は悲劇を絶対繰り返させません……",
+        "I am the second ship of the Pennsylvania class, born during summer, Arizona. This time, I won't let that tragedy repeat itself..."
+      ],
+      "login": [
+        "指挥官，你能理解我这种想要保护同伴的心情吗……",
+        "指揮官、仲間を守りたい私の気持ちがお分かりですか…",
+        "Commander, do you understand my feelings for wanting to protect my friends?"
+      ],
+      "details": [
+        "就算是这样的我您也不会介意的话……真是太感谢了",
+        "こんな私でも……ありがとうございます！",
+        "Even me? ... Thank you very much!"
+      ],
+      "secretaryIdle1": [
+        "指挥官，只要你记得我，我就不会孤单",
+        "指揮官の記憶に残りさえすれば、私はもう寂しくありません",
+        "As long as I'm in Commander's memory, I'll never be alone"
+      ],
+      "secretaryIdle2": [
+        "为了纪念和牢记……他们……一直跟我在一起",
+        "忘れないために……彼らはずっと私と一緒にいるのです",
+        "In order to not forget about them... they... have always been with me"
+      ],
+      "secretaryIdle3": [
+        "指挥官，这样的表情让你困扰了吗？对不起……",
+        "指揮官、今の表情……ご迷惑をおかけしましたでしょうか？ごめんなさい…",
+        "Commander, did my facial expression bother you? I'm sorry..."
+      ],
+      "secretaryTouch": [
+        "心里好像没那么难过了……",
+        "少し落ち着いてきました……",
+        "I've become calmer now..."
+      ],
+      "secretarySpecialTouch": [
+        "呜……就当刚刚的事情没发生过好么？",
+        "う…さっきのことは、なかったことにしてもらえます？",
+        "Uh- Let's pretend that it didn't happen, alright?"
+      ],
+      "task": [
+        "指挥官啊……那个、任务……没完成呢（小声）",
+        "指揮官…あの、任務…まだ終わってませんよ？",
+        "Commander... the... the missions. They're not done, you know?"
+      ],
+      "taskComplete": [
+        "这里是清单，不过物质上的奖励真的有那么重要吗……？",
+        "リストはこちらです。ですが、物理的な報酬ってそんなに大事なのでしょうか……？",
+        "Here's the list, but... Are the physical rewards really that important...?"
+      ],
+      "mail": [
+        "指挥官，有您的信，人和人之间的联系是很重要的喔",
+        "指揮官、メールです。人間関係も大切ですよ",
+        "Commander, there's a mail for you. Interpersonal relationships are important."
+      ],
+      "returnFromMission": [
+        "能平安回来真是太好了",
+        "無事に帰ってこれてよかったです",
+        "It's great to be back, safe and sound."
+      ],
+      "commission": [
+        "风……这是姐妹们回来了的预兆",
+        "風……あの娘たちが帰ってきた兆しですね",
+        "The wind... A sign of the girls' return"
+      ],
+      "strengthening": [
+        "我要保护大家……！",
+        "みんなを守ります……！",
+        "I will protect everyone...!"
+      ],
+      "startingMission": [
+        "这次一定要把想守护的东西守护到底……！",
+        "今度こそ守りたいものを守りきって…！",
+        "This time, I will protect all that I want...!"
+      ],
+      "mvp": [
+        "胜利的感觉…好棒……希望那两天的噩梦可以消散",
+        "とってもステキな気分です…このままあの日の悪夢が消え去ってくれればいいけど…",
+        "This feels great... It would be good if the nightmares go away at this rate..."
+      ],
+      "defeat": [
+        "亚利桑那有点不行了，请让我任性这一回……",
+        "もうだめ……お願い、一度だけわがままを聞いて…！",
+        "No more... Just this once, please let me have it my way..."
+      ],
+      "skillActivation": [
+        "这一次我一定要保护好！",
+        "私、今度こそ絶対守らなきゃならないんです！",
+        "This time, I'll protect everyone!"
+      ],
+      "lowHP": [
+        "不能哭，眼泪要流在高兴的时候！",
+        "泣き…ません…！涙は笑う時まで…！",
+        "I can't cry!... I have to cry for happy times...!"
+      ],
+      "affinityDisappointed": [
+        "哪里才是我的居所呢……",
+        "私の居場所はどこなんでしょうか……",
+        "I wonder where I truly belong?"
+      ],
+      "affinityStranger": [
+        "啊……抱歉，我又在想些伤感的事情了……",
+        "あぁ……すみません、また悲しいこと考えて……",
+        "Ahh... Apologies. I was thinking about something sad again..."
+      ],
+      "affinityFriendly": [
+        "……谢谢你每次都听我说这么多话……我感觉好多了……",
+        "……いつも私の長話を聞いてくださってありがとうございます……今だいぶ良くなりました……",
+        "...Thank you for always listening to me... I've been feeling much better now..."
+      ],
+      "affinityLike": [
+        "指挥官的肩膀，好有安全感……感觉想起那时的事也不会很害怕了",
+        "指揮官の胸を借りると、すごく安心します……あの時のことを思い出してももう怖くない気がして……",
+        "I feel safe around you, Commander... I feel as if I'm not afraid to look ahead after thinking about what happened back then..."
+      ],
+      "affinityLove": [
+        "抱歉……啊，不是，我只是有些害怕……要是这一次指挥官离开我……光是想想，眼泪就止不住了",
+        "ごめんなさい……！あ、いいえ、ただ少し怖くて……今度指揮官がいなくなったら……考えるだけで涙が止まらないんです……",
+        "I'm sorry... Ah, no, I'm just a little afraid... 'What if Commander doesn't come back after this mission?'... I can't stop my tears just thinking about it..."
+      ],
+      "pledge": [
+        "——不会再让那一天的事重演……吗，谢谢，这是我听过的最动听的誓言了，我相信你",
+        "ーーあの日のことを二度と繰り返させない、ですか？……ありがとうございます。いままでで一番心に響く言葉でした…あなたのことを信じます！",
+        "I won't let that day happen again' you say? ...Thank you. Those are the words that resonated with my heart the most in my life... I believe in you!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Pennsylvania) 姐姐，我会努力的！",
+        "(Sortie with Pennsylvania) 姉さん、私頑張ります！",
+        "(Sortie with Pennsylvania) I'll work hard, big sis!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 1 of: Oklahoma, Tennessee, California) 这次我一定要保护大家！",
+        "(Sortie with at least 1 of: Oklahoma, Tennessee, California) 今度は私がみんなを守ります！",
+        "(Sortie with at least 1 of: Oklahoma, Tennessee, California) I'm going to protect everyone this time!"
+      ],
+      "giftDescriptionValentines2018": [
+        "这是我和姐姐一起做的巧克力，请收下。看到大家热闹我心情也会好很多呢……指挥官，谢谢你。",
+        "姉さんと一緒に作ったチョコ、よかったら受け取ってください。みんなが盛り上がっているのを見ると気分も良くなります…指揮官、ありがとうございます。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "抱歉，今天这个日子还是开心一点比较好呢……呼，指挥官，一直以来多谢你了。今后也请你多多指教。",
+        "すみません、この日は悲しまない方がいいですね……ふふ、指揮官、いつも感謝しています。これからもよろしくお願いします",
+        "My sister and I made this chocolate together. Please take it if you'd like. Even I cheer up when I see people having fun while making sweets... And thank you so much, Commander."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, Happy Valentine's. Good lord, back when I first arrived at this port, I never imagined there would come a day when I would offer you a gift with a smile. I hope I'll get to do this again and again, year after year."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Arizona_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Arizona_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Arizona_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Arizona_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Arizona_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Arizona_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Arizona_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Arizona_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Arizona_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Arizona_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Arizona_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Arizona_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Arizona_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Arizona_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Arizona_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Arizona_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Arizona_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Arizona_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Arizona_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Arizona_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Arizona_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Arizona_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Arizona_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Arizona_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Arizona_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Arizona_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Arizona_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Arizona_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Arizona_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Arizona_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Arizona_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Arizona_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Arizona_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Arizona_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Arizona_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Arizona_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Arizona_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Arizona_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Arizona_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Arizona_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Arizona_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Arizona_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Arizona_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Arizona_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Arizona_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Arizona_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Arizona_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Arizona_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Arizona_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Arizona_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Arizona_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Arizona_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Arizona_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Arizona_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Arizona_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Arizona_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Arizona_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Arizona_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Arizona_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Arizona_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Arizona_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Arizona_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Arizona_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Arizona_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Arizona_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Arizona_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Arizona_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Arizona_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Arizona_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Arizona_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Arizona_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Arizona_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Arizona_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Arizona_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Arizona_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Arizona_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Arizona_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Arizona_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Arizona_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Arizona_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Arizona_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Arizona_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Arizona_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Arizona_Extra2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

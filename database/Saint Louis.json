@@ -1,0 +1,451 @@
+{
+  "name": "Saint Louis",
+  "constructionTime": "Research",
+  "rarity": "Priority",
+  "shipClass": "Saint Louis",
+  "ID": "Plan006",
+  "faction": "Iris Libre",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "木shiyo",
+  "pixiv": "https://www.pixiv.net/member.php?id=40222",
+  "twitter": "https://twitter.com/kishiyo1943",
+  "link": "https://weibo.com/u/2481339344",
+  "voiceActor": "https://en.wikipedia.org/wiki/Asami_Seto",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      5363,
+      190,
+      0,
+      276,
+      226,
+      80,
+      26,
+      248,
+      0,
+      13,
+      137,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4876,
+      165,
+      0,
+      242,
+      196,
+      42,
+      26,
+      216,
+      0,
+      13,
+      122,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      943,
+      70,
+      0,
+      52,
+      42,
+      10,
+      26,
+      46,
+      0,
+      7,
+      47,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "110% → 120%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "125% → 125%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Firepower  +1",
+  "collectionTechPoints": 34,
+  "maxLimitBreakTechPoints": 70,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Evasion  +1",
+  "level120TechPoints": 52,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "skill1Name": "Augmented HE Ammo; CN: 高爆穿甲弹 JP: 徹甲加工榴弾",
+  "skill1Description": "Increases own HE damage dealt by 15% (35%), and lowers chance to ignite by 3%.",
+  "skill2Name": "Engine Boost; CN: Engine boost JP: エンジンブースト",
+  "skill2Description": "Increases own Speed by 3 (8). After battle begins: increases own Evasion by 15% (35%) for 40 seconds.",
+  "skill3Name": "(Fate Simulation) Engine Boost+; CN: Engine boost+ JP: エンジンブースト+",
+  "skill3Description": "Increases own Speed by 3 (8). After battle begins: increases own Evasion by 15% (35%) for 50 seconds.",
+  "skill4Name": "Siren Killer; CN: 塞壬之敌 JP: 対セイレーン特化改修",
+  "skill4Description": "Increases own damage dealt to Sirens by 5% (15%).",
+  "level5": "Health  +230, Anti-air  +11, Evasion  +5\n\nMain Gun Mount +1\n",
+  "level10": "Gains Full Barrage I\nGains Siren Killer I\n\n Main Gun Efficiency +5%\nShip Rarity increases to ★★★★☆☆\n",
+  "level15": "Health  +460, Anti-air  +23\n\nMain Gun Efficiency +10% \n",
+  "level20": "Upgrades Siren Killer I→II\nTorpedo Efficiency +10%\nShip Rarity increases to ★★★★★☆\n",
+  "level25": "Health  +690, Anti-air  +34, Evasion  +10\n\n",
+  "level30": "Upgrades Full Barrage I→II\nUpgrades Siren Killer II→III\n Main Gun Efficiency +15%\nShip Rarity increases to ★★★★★★\n",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/41/Saint_Louis.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/ba/Saint_LouisChibi.png",
+      "shipDescription": [
+        "重巡洋舰-—路易九世",
+        "重巡洋艦・サン・ルイ",
+        "Heavy cruiser – Saint Louis."
+      ],
+      "selfIntroduction": [
+        "因为故土突逢苦难，我的诞生被迫取消。而神说，你的使命留待来日。所以我出现在了这里。指挥官，你将为我指引方向，而我，则为你扫平前路",
+        "故郷が戦火に巻き込まれたがゆえ、一度建造そのものが水泡に帰された私は、今や幻想の具現にすぎない――だが指揮官、あなたが導いてくれる限り、あなたの道に立ちはだかる障害はこの私が振り払おう",
+        "Because ruination befell my homeland, I was returned to nothingness before I was born. As I am now, I am but an illusion, a manifestation of an ideal. But as long as you continue to lead my way, I shall in return clear all obstacles standing before yours."
+      ],
+      "acquisition": [
+        "很荣幸见到你，我的先知，我的引路人，我的指挥官。路易九世，听从神的旨意来到你的麾下，只要不违背公理道德，我手中之枪，任凭驱使",
+        "会えて光栄だ。導く者よ。私はサン・ルイ、神の思し召しによりあなたの元に仕えるもの。あなたが人の世の理に反しない限り、この槍はあなたのために振るおう",
+        "It is an honor to meet you at last - my prophet, my leader. I am Saint Louis, brought to your side by God's will. As long as it is justice that guides your hand, then this humble spear shall be yours to wield."
+      ],
+      "login": [
+        "bonjour，指挥官，告诉我，接下来我该做什么？",
+        "ボンジュール、指揮官。教えてくれ、次は何をすればいい？",
+        "Bonjour, Commander. Please instruct me, what should we do next?"
+      ],
+      "details": [
+        "指挥官，你也要来向神祷告吗？",
+        "指揮官、あなたも神に祈りを捧げるのか？",
+        "Commander, have you come here to offer your prayers to God?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，你的时间不应该花在这里，杂务就交给我吧",
+        "指揮官、あなたの時間は雑務に費やされるべきではない。ここは私が引き受けよう",
+        "Commander, your time should not be squandered here. Leave the chores to me."
+      ],
+      "secretaryIdle2": [
+        "指挥官，同僚之间如果有什么纠纷，就交给我来仲裁吧，那是我的强项",
+        "戦友たちの中でいざこざがあるなら、その仲裁は私に任せてほしい。なにぶん得意なのでな",
+        "If there are any disputes within our ranks, allow me to handle the arbitration. That is my specialty."
+      ],
+      "secretaryIdle3": [
+        "战斗的胜利是我的终点，但指挥官，你应该将目光放在更高更远的地方",
+        "私は戦に勝てればそれで良いが、指揮官、あなたはもっと遠い先まで見渡すべきだ",
+        "Just winning the battle alone is enough to satisfy me, but you, Commander, ought to look far beyond that."
+      ],
+      "secretaryTouch": [
+        "以战止战，这是我唯一能做的",
+        "戦いをもって平和をもたらす。これこそ私ができるたった一つの役目である",
+        "I fight so that there may be peace. That is the single role that I can play."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，请自重……",
+        "指揮官、ご自重を",
+        "Commander, your self-respect..."
+      ],
+      "task": [
+        "指挥官，虽然不是神的旨意，不过军部的任务下达了",
+        "指揮官、神の思し召しではないが…海軍部より新たな任務が通達された",
+        "Commander, it may not be the will of God, but you do have new missions issued from headquarters."
+      ],
+      "taskComplete": [
+        "奖励吗……虽然都是些不错的东西，不过我没有兴趣",
+        "報奨か……良い物ではあるだろうが、興味はないな",
+        "While rewards may certainly be nice... I have no interest in them."
+      ],
+      "mail": [
+        "指挥官，信件不拆封没有关系吗",
+        "指揮官、この手紙は開封しなくても良いのか？",
+        "Commander, does it not matter if these letters remain unopened?"
+      ],
+      "returnFromMission": [
+        "战士承受苦难，不过大家都挺了过来",
+        "受難こそ戦士の証。みな、よくぞ持ちこたえてくれた",
+        "Suffering is the brand of a warrior. Everyone, I'm proud of you for making it through."
+      ],
+      "commission": [
+        "指挥官，我看到委托的同僚们返回了",
+        "指揮官、委託に出掛けた戦友たちが戻ってくるのが見えた",
+        "Commander, my sisters in arms have returned from their commission."
+      ],
+      "strengthening": [
+        "为了我们的使命……",
+        "我らの役目のために……",
+        "For the sake of the role that we all must play..."
+      ],
+      "startingMission": [
+        "赐你们平等的毁灭",
+        "等しく破滅をくれてやる…！",
+        "You shall all be purged equally!"
+      ],
+      "mvp": [
+        "尘归尘，土归土……",
+        "塵は塵に、灰は灰に……",
+        "Ashes to ashes, dust to dust..."
+      ],
+      "defeat": [
+        "我的神，为什么背弃我……",
+        "神よ、なにゆえ私を見捨てたのだ…",
+        "My Lord, why have you abandoned me..."
+      ],
+      "skillActivation": [
+        "神爱世人",
+        "我らが神よ、等しく愛憎をくれ給え",
+        "God's love is boundless."
+      ],
+      "lowHP": [
+        "这也是神的考验……",
+        "これも…我が神より下されし試練……！",
+        "This too... is God's trial...!"
+      ],
+      "affinityDisappointed": [
+        "这里的同僚皆是义人，唯独你不是。接受神的审判吧，罪人",
+        "ここにいる戦友たちは等しく義人だ。…あなたを除いて。罪人よ、神の裁きを心して待つが良い",
+        "My sisters in arms here may be righteous, but not you. Prepare to face divine punishment, sinner."
+      ],
+      "affinityStranger": [
+        "这里就是我未来的容身之所吗……那么，这里究竟是索多玛，还是迦南呢……",
+        "ここは私が未来を過ごす場所……ならばここは、果たしてソドムか、それともカナンか",
+        "So this is the land that I was promised... Tell me, will this place be Sodom, or Canaan?"
+      ],
+      "affinityFriendly": [
+        "在这里的同僚们总是那么阳光，似乎没有什么能让她们烦恼，这里就是属于她们的迦南吗……",
+        "戦友たちの顔はまるで悩みなど一つもないように眩しい。ここは彼女たちのカナンだろうか",
+        "I see my sisters in arms smile every day as if without a worry in the world. Perhaps this is their Canaan..."
+      ],
+      "affinityLike": [
+        "我能感觉到我正在被这支舰队接纳，但是这里真的是我的应许之地吗……我并不是怀疑，只是觉得，应该还有更深的含义",
+        "この艦隊に私は受け入れられた気がする。だが、ここが私にとっての約束の地だとしたら……いいや、みんなを疑っているわけではないが、もっと深い意味があるとつい勘ぐってしまう…",
+        "I feel like I have earned the acceptance of the fleet. However, is this truly the land that I was promised? ... No, I do not mean to cast doubt upon anyone. I merely feel that... I may yet have a deeper purpose."
+      ],
+      "affinityLove": [
+        "我明白了，指挥官，现在我能体会到和同僚们一样……不，甚至在那之上的充实感。迦南并不是这里，而是你的身边",
+        "なるほど、指揮官、そういうことか。今の私は戦友たちと同じくらい……いいや、それ以上の充実感を感じる。この艦隊…ふふん、あなたのそばこそ私にとってのカナンだ",
+        "I finally understand now, Commander. What I experience now is the same as my sisters in arms - nay, perhaps even more fulfilling. Being a part of this fleet, by your side... is truly my Canaan."
+      ],
+      "pledge": [
+        "你的身边将是我的归所，你的胜利将是我的荣光，你的喜悦将是我唯一的动力。感谢神将我送到了你的面前，我的先知，我的爱人，我的……光",
+        "では誓おう。あなたの喜びは私の意志、あなたの勝利は私の栄光、あなたのそばは私の帰るべき場所……あなたのそばに私を遣わした神に感謝しよう――私の指揮官、私の恋、そして…私の光",
+        "This I do swear. Your joy is my will, your victory is my glory, and the place that I can call home, is by your side... Blessed be the Lord who has brought me together with you - my commander, my love, and... my light."
+      ],
+      "giftDescriptionValentines2019": [
+        "瓦伦丁节——于我来说原本不应是令人喜悦的节日…但此时此地，就顺应你所知悉的风俗，收下它吧，我的指挥官。",
+        "ラ・サンヴァロンタン――聖教騎士（タンプル・シュヴァリエ）である私にとって、この日はいささか別の意味合いを有している。…ここはあなたの知ってるバレンタインに合わせよう。指揮官、受け取ってくれ",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Though separated by various seas, the hearts of people who desire peace are all equally precious existences. As a member of the holy knights, I believe it is an honor to bear arms as a member of a fleet that exists to attain such a world. Commander, may you also have Iris' blessing..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Saint_Louis_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Saint_Louis_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Saint_Louis_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Saint_Louis_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Saint_Louis_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Saint_Louis_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Saint_Louis_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Saint_Louis_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Saint_Louis_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Saint_Louis_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Saint_Louis_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Saint_Louis_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Saint_Louis_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Saint_Louis_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Saint_Louis_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Saint_Louis_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Saint_Louis_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Saint_Louis_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Saint_Louis_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Saint_Louis_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Saint_Louis_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Saint_Louis_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Saint_Louis_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Saint_Louis_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Saint_Louis_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Saint_Louis_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Saint_Louis_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Saint_Louis_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Saint_Louis_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Saint_Louis_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Saint_Louis_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Saint_Louis_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Saint_Louis_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Saint_Louis_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Saint_Louis_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Saint_Louis_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Saint_Louis_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Saint_Louis_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Saint_Louis_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Saint_Louis_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Saint_Louis_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Saint_Louis_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Saint_Louis_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Saint_Louis_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Saint_Louis_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Saint_Louis_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Saint_Louis_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Saint_Louis_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Saint_Louis_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Saint_Louis_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Saint_Louis_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Saint_Louis_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Saint_Louis_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Saint_Louis_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Saint_Louis_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Saint_Louis_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Saint_Louis_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Saint_Louis_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Saint_Louis_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Saint_Louis_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Saint_Louis_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Saint_Louis_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Saint_Louis_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Saint_Louis_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Saint_Louis_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Saint_Louis_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Saint_Louis_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Saint_Louis_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Saint_Louis_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Saint_Louis_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Saint_Louis_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Saint_Louis_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Saint_Louis_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Saint_Louis_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Saint_Louis_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Saint_Louis_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Saint_Louis_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Saint_Louis_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Holy Knight's Resplendence",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "华服的圣骑士",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "華麗なる聖騎士",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1200",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/49/Saint_LouisParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b2/Saint_LouisPartyChibi.png",
+      "shipDescription": [
+        "恕我直言，指挥官，华服与王座与我并不相称，虽然继承了路易九世之名，但我只是一名战士——好吧，你似乎很喜欢的样子，我就悉听遵命吧",
+        "率直に申すが、このドレスと玉座は私にはふさわしくないな。聖人の名を預かるとて私は一介の戦士に過ぎない。――あなたが気に入ってくれるというのなら、それもまたよし、か",
+        "With all due respect, Commander, this finery and this throne are not fit for one such as myself. Despite the hallowed name I have inherited, I am nothing more than a warrior. —However, if such an arrangement pleases you, then I shall hold my objections."
+      ],
+      "acquisition": [
+        "恕我直言，指挥官，华服与王座与我并不相称，虽然继承了路易九世之名，但我只是一名战士——好吧，你似乎很喜欢的样子，我就悉听遵命吧",
+        "率直に申すが、このドレスと玉座は私にはふさわしくないな。聖人の名を預かるとて私は一介の戦士に過ぎない。――あなたが気に入ってくれるというのなら、それもまたよし、か",
+        "With all due respect, Commander, this finery and this throne are not fit for one such as myself. Despite the hallowed name I have inherited, I am nothing more than a warrior. —However, if such an arrangement pleases you, then I shall hold my objections."
+      ],
+      "login": [
+        "指挥官，让我一个人坐在这里是一种煎熬",
+        "指揮官、こうして一人で待たされるのもまた試練だ",
+        "Commander, making me sit up here waiting for you by myself is a tribulation in its own right."
+      ],
+      "details": [
+        "我并不是反感做这样的事，我只是并不能理解这么做的意义，难道我仅仅坐在这里就能让你获得快乐吗？",
+        "別にここでじっとしているのに抵抗があるわけではない。ただ…そうだな、一つだけ解せないことがある。あなたはもしや、私のこの姿を楽しんでいるのではなかろうか？",
+        "I have no serious objections to sitting up here, but... there is one thing I cannot figure out. Are you perhaps deriving pleasure from seeing me up here like this?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，现在的我有这么惹人注目吗？我能感受到你的视线——不，我对此并不反感",
+        "今の私はそこまであなたの視線を惹き付けているのか。その目は――いや、嫌いではないが",
+        "So I've managed to capture your gaze? Your eyes are... Nevermind, it doesn't bother me."
+      ],
+      "secretaryIdle2": [
+        "坐在这里仲裁同僚之间的纠纷？那就…失礼了，让我先好好听听她们所言所感吧。",
+        "仲間たちの仲裁か？…では少し失礼させてもらう。彼女たちの話をちゃんと聞いてからだ",
+        "My arbitration is needed? ...Very well, please excuse me for a moment. I will make sure to hear them out."
+      ],
+      "secretaryIdle3": [
+        "指挥官，你是这里的统帅，我想这王座应当由你来坐才最合适",
+        "この艦隊を導く者として――指揮官、この席はあなたが一番ふさわしい",
+        "As the one guiding this fleet forward... Commander, you are the one best suited to this throne."
+      ],
+      "secretaryTouch": [
+        "武器就在我的身边，如果要上战场，我随时都可以",
+        "武器なら手の届くところにある。戦うことを望まれればいつでも出動できる",
+        "My weapon is always within reach. Should you will it, I am ready to sortie at any time."
+      ],
+      "returnFromMission": [
+        "比起像一尊雕塑一样坐在这里，我更想与你一起踏上战场，指挥官",
+        "彫刻のようにここに座り続けることより、戦場に出て槍を振るうことこそ私の望みだ。指揮官",
+        "I would much rather wield my spear upon the seas of battle than sit up here like a statue, Commander."
+      ],
+      "affinityLove": [
+        "外在的修饰对一名战士而言毫无意义——本该是这样的。但神同样承认爱情，鼓励爱情。而我既是你的战士，也是你的爱人，那么，如果能让你喜悦，我愿意做任何事",
+        "神に仕える者として、虚飾は不要――ではあるが、あなたに愛される者として、あなたが悦ぶことならなんでもさせてもらおう――神はヒトの愛を許し、そして賞賛している故に",
+        "As a servant of God, there is no need for vanity— Having that said, as the recipient of your love, you are free to make any arrangements that please you. After all, great and permissive is God's love."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

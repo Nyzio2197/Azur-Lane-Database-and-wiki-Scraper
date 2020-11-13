@@ -1,0 +1,785 @@
+{
+  "name": "Z46",
+  "constructionTime": "00:39:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    true,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Type 1936C",
+  "ID": "267",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "黑猫",
+  "pixiv": "https://www.pixiv.net/member.php?id=2331978",
+  "link": "http://weibo.com/u/2959771544",
+  "voiceActor": "https://en.wikipedia.org/wiki/Minori_Chihara",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2595,
+      212,
+      63,
+      90,
+      452,
+      151,
+      43,
+      255,
+      0,
+      10,
+      180,
+      210,
+      0,
+      0
+    ],
+    "Level 100": [
+      2237,
+      184,
+      63,
+      78,
+      410,
+      146,
+      43,
+      222,
+      0,
+      10,
+      171,
+      190,
+      0,
+      0
+    ],
+    "Base Stats": [
+      433,
+      78,
+      63,
+      17,
+      87,
+      56,
+      43,
+      48,
+      0,
+      3,
+      66,
+      52,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "150% → 160%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 120%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 140%",
+  "collectionStatBonus": "Destroyer (DD) Anti-air  +1",
+  "collectionTechPoints": 22,
+  "maxLimitBreakTechPoints": 44,
+  "level120StatBonus": "Destroyer (DD) Firepower  +1",
+  "level120TechPoints": 32,
+  "enhancementValue": [
+    4,
+    29,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Special Barrage I / Anti-Air Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / Anti-Air Efficiency +15%",
+  "skill1Name": "Iron Wing Annihilation; CN: 铁翼陨灭 JP: 折れた鋼翼",
+  "skill1Description": "When enemy planes are shot down within her AA radius, increases own Firepower by 5% (15%) of own total Anti-Air stat (only base stat and gear is counted) for 8 seconds. If skill is reactivated within the 8 seconds, the buff does not stack and only the duration is refreshed.",
+  "skill2Name": "Piercing Shells; CN: 穿甲弹精通 JP: 徹甲弾専門",
+  "skill2Description": "Increases AP shell damage by 15% (25%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-Z46 JP: 特殊弾幕-Z46",
+  "skill3Description": "Every 15 (10) shots from the main gun, triggers Full Barrage - Z46 I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/23/Z46.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png",
+      "shipDescription": [
+        "1936C型驱逐舰—Z46",
+        "1936C型駆逐艦・Z46",
+        "Type 1936C destroyer, Z46"
+      ],
+      "selfIntroduction": [
+        "铁血海军Z级驱逐舰1936年C型。和四个妹妹一同列入建造计划，但最终只有我和Z47开工。由于进度缓慢，直到终战也没有完工…尚未出生便遭解体的舰娘，那就是我……期待着你不再称呼我为Z46的那天来临",
+        "鉄血海軍Zクラス駆逐艦1936C型のZ46である。同型艦の製造は四隻も計画されたが、起工したのは私とZ47（フィーズ）だけだった。終戦まで完成されなかった、未完成で解体された身である私――いつかZ46ではなく、本当の名前を呼んでいただきたい",
+        "Iron Blood Z-class destroyer, 1936-C Type. Four other sister ships were planned for construction, but only Z47 and I were built. I wasn’t even completed by the end of the war, and was scrapped without ever being finished. One day, I hope to be called not as Z46, but by a true name."
+      ],
+      "acquisition": [
+        "是你在召唤我吗？我是……很可惜，现在我还没有名字，你就暂时叫我Z46吧",
+        "私を呼ぶのはあなただろうか？私は……口悔しいが、名乗れる名前がない私を、今しばらくZ46（フィーゼ）と呼んでおくれ",
+        "Are you the one who summoned me? I am... unfortunately, still without a name. You may call me Z46 for now though."
+      ],
+      "login": [
+        "这个世界和我料想的大不相同，真有趣！",
+        "この世界はよもやこうも予想と違えるとは！面白い！",
+        "This world is so different that from what I was expecting. How interesting!"
+      ],
+      "details": [
+        "Z46只是一个代号，并不是我的名字。对船来说，有无名字并不重要，但……",
+        "Z46とはただの仮称、無論、名前ではない。船にとって名前の有無は大切ではない、しかし…",
+        "Z46 is but a codename, not my actual name. For a ship, something like a name should be unimportant, but..."
+      ],
+      "secretaryIdle1": [
+        "我不曾失败，也未尝受伤，因此，亦无武勋",
+        "失敗したこともなく、傷を受けたこともない。それゆえ、かのZ46に武勲などない",
+        "I have experienced neither failure nor suffering. Consequently, I have accomplished nothing."
+      ],
+      "secretaryIdle2": [
+        "名字不仅仅是一种称呼。它还是在这个世界中自身独一无二的证明",
+        "名前は単なる呼称ではなく、この世界で存在した証でもある。",
+        "A name is not merely a label. It is also proof that one exists in this world."
+      ],
+      "secretaryIdle3": [
+        "这个世界上，不亲身体验就无法真正认识的事物如那令人敬畏的漫天繁星般不可胜数",
+        "体験しないと分からない物事の数々――天にあまねく星々のように、恐ろしく数えられない",
+        "The things I have yet to experience and understand are as numerous as the countless stars in the night sky."
+      ],
+      "secretaryTouch": [
+        "能被碰触到是确实存在着的证明",
+        "触れられる、すなわちこの世界に存在する証明である",
+        "Being able to be touched is proof of one’s existence."
+      ],
+      "secretarySpecialTouch": [
+        "如果你的渴求是正确的，那你的手为何在颤抖？",
+        "自分の渇望が間違いないと信じていれば、その手はなにゆえ震えているのか",
+        "If your desire is righteous, then why do your hands tremble?"
+      ],
+      "task": [
+        "前去邂逅未知与相遇吧！",
+        "未知なる存在と、新たなる出会いーーめぐりあうために、いざ行かん！",
+        "Unknown beings and new acquaintances... let us sally forth to meet them!"
+      ],
+      "taskComplete": [
+        "自由与命运只垂青每天努力的人",
+        "自由と運命は、常に努力し続ける者にのみ祝福を授からん",
+        "Freedom and fortune only favor the hardworking."
+      ],
+      "mail": [
+        "有新邮件是被人期待与信赖的证明",
+        "新しいメールは、人に期待、そして信頼されている証明でもある",
+        "Receiving mail is proof of the expectations and trust that people have in you."
+      ],
+      "returnFromMission": [
+        "战争结束了吗？还是才刚刚开始？",
+        "戦争は終わったのだろうか？それとも始まったばかりだろうか？",
+        "Is the battle over, or has it just begun?"
+      ],
+      "commission": [
+        "在港口等待外出执行委托的舰船归来……这也是我来到这里前未曾拥有过的体验",
+        "委託に出た船の帰還を待つ。……これも体験したことのない一つの出来事であろう",
+        "Waiting at the harbor for dispatched ships to return... is something I’ve ever experienced before."
+      ],
+      "strengthening": [
+        "此为无足轻重之事，但我仍要嘉奖你的心意",
+        "語るに及ばない些細なことであろうが、指揮官の気配りには賛辞を送らせてほしい",
+        "Though this is but a trivial thing, I'll return the favor for your consideration."
+      ],
+      "startingMission": [
+        "我要夸赞你们看到我还没有逃跑的勇气与愚蠢！",
+        "私を見ても逃げない、その勇気と愚鈍さに賛美を！",
+        "For not fleeing upon seeing my visage, I applaud both your courage and your stupidity."
+      ],
+      "mvp": [
+        "是我太强了？还是你们太弱了？",
+        "私が強いのだろうか？それともあなた達が弱いのだろうか？",
+        "Am I too strong? Or are you all too weak?"
+      ],
+      "defeat": [
+        "向世界炫耀吧，为击败过我而骄傲吧！",
+        "世界に勝ち誇れるがよい！この私を、一度でも倒した栄光を！",
+        "Go and boast to the world. Be proud that you have bested me even once."
+      ],
+      "skillActivation": [
+        "虚假的，必将湮于尘世",
+        "虚しきものよ、汝の運命は消し去られる定めなり！",
+        "The unworthy are fated to drown in this world."
+      ],
+      "lowHP": [
+        "但凡不能杀死你的，最终都会使你变强",
+        "自分を破壊しかけたものこそ、自分を強くしてくれる…！",
+        "What doesn't kill you only makes you stronger."
+      ],
+      "affinityDisappointed": [
+        "这里或许并没有我渴求的东西……",
+        "私が渇望しているもの、ここにはないのかもしれない……",
+        "Perhaps what I seek... cannot be found here."
+      ],
+      "affinityStranger": [
+        "追寻着“名字”的踪迹，我来到了这里",
+        "私は「名前」の糸を辿り、ここに来た",
+        "The journey to find a name has lead me to this place."
+      ],
+      "affinityFriendly": [
+        "亲友、敌人、喜好、厌憎……来到这里之前，我什么都不曾拥有",
+        "友も敵も、親愛も憎悪も……ここに来る前に、等しく持っていなかった",
+        "Friendship, enmity, love, hate... these are things that I have never experienced prior to coming here."
+      ],
+      "affinityLike": [
+        "微风拂过海面，蝉鸣漾入云间。叽叽喳喳的笑声在沙滩上留下深浅不一的足迹，盛暑阳光夺神炫目，模糊了远近的归船……这里的风景真是令人缱绻",
+        "頬に感じる潮風、耳に伝わる波音、砂浜に残る歓喜の残響と足跡、頭上に輝く真夏の太陽、帰路に揺らぐ遠き白帆……去り難い思いの、景色…",
+        "The sea breeze caressing my cheeks, the crashing of waves resounding in my ear. The laughter echoing on the beach, the footprints left in the sand. The rays of summer shimmering overhead, the fluttering sails of ships about to return... What an unforgettable scenery."
+      ],
+      "affinityLove": [
+        "被需要、被期望、被信赖、被喜爱……经历了种种风风雨雨后，我这张白纸已然染上了你的颜色。请好好思考我的名字吧，我的挚爱。",
+        "必要とされ、期待され、信頼され、恋慕され……あなた色に染められた「私」という白糸。愛する人よ、どうか私の名を考えておくれ",
+        "To be needed, yearned for, trusted, and loved... \"I\" am a cloth dyed by your color. My beloved, please bestow a name upon me."
+      ],
+      "pledge": [
+        "我挚爱的人啊，我已经期待这一天很久了，你为我准备了怎样的名字？",
+        "待ち遠しく思ったこの日がついに来たり。愛する人よ、「私」にはどんな名前をくれるのだろうか",
+        "My beloved, I have long awaited this day. What name have you decided to bestow upon me?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Graf Zeppelin) 战斗结束以后，请教我今天便当的做法吧",
+        null,
+        null
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Z35) 偶像的名字与我不相配，请不要…加上“小”字……",
+        null,
+        null
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Z23) 记住，太过努力有时反而会有反效果。",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        "和我了解的“瓦伦汀”不同···世界的变化、文明的变迁···指挥官，请告诉我，就算有同样的名字，也会在历史与时代的传承下产生这么巨大的变化吗？",
+        "私が知り得た「バレンタイン」の情報とはいささか違う…世界の変化、文明の流れ…指揮官、教えてくれ。同じ名前でも、その伝承はこうも変わったりするものだろうか？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "思想、信条、感情、言葉でもなく黙示でもなく、即物的に伝えようとする儀礼――私の愛を乗せた形ある供物の名前は「チョコレート」。指揮官、あなたにそれを渡したい",
+        "A \"Valentine\" unlike any I've known... A changing new world, a changing culture... Commander, please tell me. Though the name is the same, has this tradition changed so much in this era?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "What need could there be, to blush before me? There should be no need, to repay this gift. Our relationship, should be quite well known. What is so shameful, about feeding you?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Z46_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Z46_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Z46_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Z46_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Z46_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Z46_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Z46_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Z46_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Z46_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Z46_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Z46_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Z46_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Z46_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Z46_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Z46_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Z46_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Z46_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Z46_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z46_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z46_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z46_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Z46_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Z46_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Z46_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Z46_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Z46_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Z46_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z46_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z46_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z46_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Z46_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Z46_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Z46_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Z46_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Z46_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Z46_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z46_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z46_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z46_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Z46_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Z46_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Z46_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Z46_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Z46_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Z46_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Z46_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Z46_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Z46_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Z46_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Z46_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Z46_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Z46_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Z46_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Z46_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Z46_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Z46_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Z46_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z46_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z46_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z46_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Z46_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Z46_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Z46_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Z46_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Z46_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Z46_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Z46_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Z46_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Z46_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Z46_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Z46_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Z46_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Z46_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Z46_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Z46_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Z46_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Z46_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Z46_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Z46_Extra1JP.ogg",
+        null,
+        null
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Z46_Extra2JP.ogg",
+        null,
+        null
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Z46_Extra3JP.ogg",
+        null,
+        null
+      ]
+    },
+    {
+      "ENClientName": "Her First Summer",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "夏之初体验",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ファーストサマー",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/bb/Z46Summer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/36/Z46SummerChibi.png",
+      "shipDescription": [
+        "躁动的沙滩，欢笑的海边…初次体验到的别样夏天，我并不讨厌",
+        "喧騒な砂浜、笑顔溢れる海辺……はじめて体験した別様の夏、嫌悪などするはずもなく",
+        "The bustling beach, clamoring with waves of joyfulness... experiencing this kind of summer is a first for me, but I don't dislike it..."
+      ],
+      "acquisition": [
+        "躁动的沙滩，欢笑的海边…初次体验到的别样夏天，我并不讨厌",
+        "喧騒な砂浜、笑顔溢れる海辺……はじめて体験した別様の夏、嫌悪などするはずもなく",
+        null
+      ],
+      "login": [
+        "盛夏的海边，充满了未知与谜团…一起去探索吧！",
+        "謎と未知に溢れる真夏の海岸…ともに探検を始めよう！",
+        null
+      ],
+      "details": [
+        "潮起，潮落，留下了这个难忘的夏天。",
+        "満ち潮、引き潮、残せしものは忘れがたい夏の思い出――",
+        null
+      ],
+      "secretaryIdle1": [
+        "酷暑与冰，真是妙不可言的一对矛盾。",
+        "酷暑と氷、言葉で表せぬ美しき対極……",
+        null
+      ],
+      "secretaryIdle2": [
+        "相信你心中的直觉与勇气吧，它会指引你前进的。",
+        "勇気と直感を信じたまえ。あなたの進む先を導く",
+        null
+      ],
+      "secretaryIdle3": [
+        "无论多少次，我都会相信你的话。只要是你，一定指引我走向正确道路的吧。",
+        "幾度だろうと、あなたの言葉を信じ続ける。あなたならきっと、私の正しい道を指し示すがために――",
+        null
+      ],
+      "secretaryTouch": [
+        "我确实的存在着，被大家需要着……",
+        "私は存在している。そしてみんなに必要とされている……",
+        null
+      ],
+      "secretarySpecialTouch": [
+        "为何…你的双眼正诉说着犹豫？",
+        "その目……なにゆえ躊躇いを見せているのか？",
+        null
+      ],
+      "returnFromMission": [
+        "准备好了吗？那就前往下一个战场吧，名为「海水浴场」的战场——",
+        "用意は出来たか？では次なる戦場へと参ろう。「海水浴」という名の戦場へと――！",
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Z46_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Z46_IntroSkin1JP.ogg",
+        null
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Z46_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Z46_LogSkin1JP.ogg",
+        null
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z46_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z46_DetailsSkin1JP.ogg",
+        null
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Z46_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Z46_SecIdle1Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Z46_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Z46_SecIdle2Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z46_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z46_SecIdle3Skin1JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Z46_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Z46_Sec1Skin1JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Z46_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Z46_Sec2Skin1JP.ogg",
+        null
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Z46_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Z46_MissionFinSkin1JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Girls' Relay",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "少女的借物竞赛",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "スカベンジハントレス",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3e/Z46Sport.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/87/Z46SportChibi.png",
+      "shipDescription": [
+        "奔跑与汗水，努力与希望，失落与欢笑……这就是…“运动会”…有点期待",
+        "努力と根性、目標と希望、歓喜と消沈……「運動会」……楽しみだ",
+        "Through the sweat and tears, striving for your goals. Rejoice in victory, sink within defeat... How fascinating, this \"sports meet\" may be."
+      ],
+      "acquisition": [
+        "奔跑与汗水，努力与希望，失落与欢笑……这就是…“运动会”…有点期待",
+        "努力と根性、目標と希望、歓喜と消沈……「運動会」……楽しみだ",
+        "Through the sweat and tears, striving for your goals. Rejoice in victory, sink within defeat... How fascinating, this \"sports meet\" may be."
+      ],
+      "details": [
+        "我也想如猎豹一样跑得更快，想像鸟儿那般飞得更高。",
+        "私も……ヒョウのように早く走り、鳥のように高く飛べるようになりたい",
+        "I wish to run as fast as a leopard, and fly to great heights like a soaring bird."
+      ],
+      "secretaryIdle1": [
+        "与他人竞争，通过战斗之外的方式证明自己，夺取“冠军”……这样的感觉，很奇妙",
+        "「戦闘」の「競争」ではなく、「競走」で「一位」を目指す……新鮮な気分",
+        "To compete with others and prove your worth, through different means than fighting battles... To be crowned \"champion,\" 'tis a great feeling."
+      ],
+      "secretaryIdle2": [
+        "光是在小小的学园中，就还有这么多我未曾经历与体验的事物…",
+        "小さい学園の中でも、まだ体験したことのない物事が数々……",
+        "Even in this little academy, there are so many things to do and see..."
+      ],
+      "secretaryIdle3": [
+        "无论是在赛道上挥洒汗水，还是在赛道旁为她人加油，都是令人难忘的体验",
+        "レースで汗をかいたことも、応援に励んだことも、忘れがたい体験なり",
+        "Whether your sweat is falling on the track, or your words are encouraging others, all of this is an unforgettable experience."
+      ],
+      "secretaryTouch": [
+        "仅凭小小的纸条，就能与她人产生不一样的联系…「借物竞赛」，比想象中的更加有趣",
+        "小さな紙切れ一枚に、人とのつながりを生み出す…「借り物競走」、思っていたより面白い",
+        "Just a small piece of paper... can create such a profound tie between people... this \"scavenger hunt\" is more interesting than I thought."
+      ],
+      "secretarySpecialTouch": [
+        "这里…有什么值得探索的事物吗？",
+        "一体どんな存在が……その指先を巡らせているのか？",
+        "Where are your fingers... Is there really anything worth exploring right there?"
+      ],
+      "returnFromMission": [
+        "新的战斗已经迫在眉睫，做好准备吧，迎接名为“运动会”的紧张战斗——",
+        "来たる新たな戦いに備えよう！「運動会」という、緊迫する戦いを――",
+        "Steel yourselves for this upcoming battle! Intense fights await, at our next sports meet!"
+      ],
+      "affinityLove": [
+        "你所期望的我应有的色彩，无论是黑色，还是红色，亦或青色，我都将全盘接受。让我为了你赋予我的“名字”，真正的“Z46”，献上祝福——",
+        "あなたが望む私という存在の色彩……黒だろうと、赤だろうと、青だろうと、私は受け入れる。愛する人よ、あなたがくれた名前というアイデンティティに祝福を――",
+        "Whatever color you may wish to bestow upon my existence – be it black, red, or blue, I shall accept it all. My beloved, please bestow upon me my name, the identity you choose to bless me with."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z46_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z46_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z46_IntroSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Z46_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Z46_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Z46_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Z46_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Z46_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Z46_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Z46_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Z46_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Z46_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Z46_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Z46_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Z46_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Z46_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Z46_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Z46_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Z46_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Z46_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Z46_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Z46_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Z46_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Z46_MissionFinSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Z46_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Z46_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Z46_Affinity4Skin2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Star-Lit★Chocolate",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "未知的闪亮舞台",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "Schokolade★Schicksal",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1200",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/82/Z46Idol.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bc/Z46IdolChibi.png",
+      "shipDescription": [
+        "挥舞的彩色荧光，闪耀的舞台，热烈的欢呼与跃动的音符…我正站在…未知的舞台之上。这种悸动的感觉…并不坏",
+        "輝けるサイリウム、影映すホリゾント、歓声とメロディ、歌声、迴響が織りなす多重層（クインテット）……未知の舞台に登っている私……ときめく感情、悪くない",
+        "Dancing beams of light, shimmering on-stage; uplifted voices, joined as one by song... Upon this unknown stage, my heart doth flutter... Yet this sensation, is quite refreshing."
+      ],
+      "acquisition": [
+        "挥舞的彩色荧光，闪耀的舞台，热烈的欢呼与跃动的音符…我正站在…未知的舞台之上。这种悸动的感觉…并不坏",
+        "輝けるサイリウム、影映すホリゾント、歓声とメロディ、歌声、迴響が織りなす多重層（クインテット）……未知の舞台に登っている私……ときめく感情、悪くない",
+        "Dancing beams of light, shimmering on-stage; uplifted voices, joined as one by song... Upon this unknown stage, my heart doth flutter... Yet this sensation, is quite refreshing."
+      ],
+      "login": [
+        "只要你注视着，我就有在舞台之上一直唱下去的勇气。",
+        "あなたが見つめてくれる限り、ステージで歌い続ける勇気が尽きぬであろう",
+        "As long as your eyes are fixed upon me; Upon this stage I shall sing bravely."
+      ],
+      "details": [
+        "无数日夜的努力，只为舞台上闪耀的一瞬，如同流星跨越苍穹，留在人们眼中的却只有刹那的光芒。",
+        "数え切れない努力はステージでの一瞬の輝きのため。流れ星のごとく、刹那の思い出を残す光――",
+        "Countless days and nights of hard work congeal into a single flash of brilliance onstage. Like a shooting star, leaving only a fleeting trail of light—"
+      ],
+      "secretaryIdle1": [
+        "光芒照耀下的舞台，是一方独立的世界，未知的世界之门，正在向我打开……",
+        "光差すステージは現実から離れたもう一つの世界。その未知なる扉が今、私を出迎えようとしている",
+        "The star-lit stage is another world of its own, an ajar door to the unknown that now beckons me..."
+      ],
+      "secretaryIdle2": [
+        "吾友，无须为我担心。这一切皆是Z23和Z35、斯佩和希佩尔，以及我等铁血全员之羁绊所创造之物",
+        "友よ案ずることはない。すべてはニーミ、フュン、シュペー、そしてヒッパーたち、私たち鉄血の絆から編み出されたものだ",
+        "My dear friend, there is no reason to worry about me. All of this was made possible by Z23, Z35, Graf Spee, Admiral Hipper... We are all connected by the bonds of the Iron Blood."
+      ],
+      "secretaryIdle3": [
+        "望向同台上演出者与台下之观众们的视线…原来如此，确实很重要，其被称为“魔眼”的原因也一块告诉我吧",
+        "演者と、観客への目配り…なるほど、重要ではあるが、それを魔眼と呼ぶ所以も教えてくれないだろうか",
+        "Take heed of where the other performers and your audience are looking? ...I see. I understand why such a thing is important, but can you explain to me why it is called the \"Evil Eye?\""
+      ],
+      "secretaryTouch": [
+        "这“歌声”，便是此刻的我存在于此的证明。",
+        "この歌声こそ、私がここにいる証明",
+        "My singing voice... is proof of my existence."
+      ],
+      "returnFromMission": [
+        "此处亦是战场，是名为“偶像”的存在赌上一切战斗的，唤作“舞台”的战场。",
+        "こここそ偶像たちが魅力を、全てをかけて競う戦場。その名を「ステージ」と呼ぶ",
+        "The stage is yet another battlefield, where wars are fought not with steel and fire, but with our charm and earnest desire."
+      ],
+      "commission": [
+        "委托的舰船回港了。作为受人崇拜的偶像，向她们展示自己的存在吧",
+        "委託から船たちが戻ってきた。崇拝される偶像として、皆に姿を見せよう",
+        "A commission fleet has returned to port. I wish for them to see me as I am now, as a beloved idol."
+      ],
+      "startingMission": [
+        "万人崇拜之偶像…我会努力扮演好的。",
+        "崇拝されし熱狂の偶像……上手く演じてみせよう",
+        "In front of tens and thousands of adoring fans... I must do my very best."
+      ],
+      "mvp": [
+        "以至高之歌为演出者们的胜利献上祝福！",
+        "演者たちの勝利を最高の歌で祝おう！",
+        "Let us sing this song of celebration; For our friends' displays of dedication."
+      ],
+      "defeat": [
+        "是练习不足吗，亦或是…胸中的这股热情没能传达到…",
+        "レッスンが足りないのだろうか。それとも、この情熱が通じていないのだろうか",
+        "Have my lessons been so insufficient; or are my emotions simply deficient?"
+      ],
+      "affinityLove": [
+        "在舞台灯光的照耀下，不安，紧张，仓皇，一切都无处躲藏。指挥官，我心中这份“热情”，有通过歌声好好传达到你的心中吗？",
+        "不安、緊張、数々の光が集うステージの上で、心の色彩を隠しようがない…愛する人よ、この感情はあなたに伝わっているのだろうか",
+        "Anxiety and nervousness gather along with the light upon this stage, and the colors of my heart cannot be concealed... O you who I love, are these feelings reaching you?"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

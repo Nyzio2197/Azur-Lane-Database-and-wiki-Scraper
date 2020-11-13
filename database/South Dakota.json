@@ -1,0 +1,620 @@
+{
+  "name": "South Dakota",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "South Dakota",
+  "ID": "065",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Tomoyo_Kurosawa",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      8031,
+      159,
+      76,
+      414,
+      0,
+      33,
+      27,
+      400,
+      0,
+      15,
+      71,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6953,
+      138,
+      76,
+      379,
+      0,
+      18,
+      27,
+      368,
+      0,
+      15,
+      59,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1345,
+      58,
+      76,
+      80,
+      0,
+      7,
+      27,
+      79,
+      0,
+      5,
+      23,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 20,
+  "maxLimitBreakTechPoints": 40,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Anti-air  +2",
+  "level120TechPoints": 30,
+  "enhancementValue": [
+    67,
+    0,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    10
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "The Strongest Shield; CN: 最强之盾 JP: 最強の盾",
+  "skill1Description": "Every 30 seconds, absorbs 50% of damage taken by the Main Fleet for 8 seconds. At the end of the effect, heals for 20% (50%) of the damage taken.",
+  "skill2Name": "Focused Assault; CN: 重点打击 JP: 集中攻撃",
+  "skill2Description": "When firing main gun: 15% (30%) chance to inflict double damage.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/45/South_Dakota.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png",
+      "shipDescription": [
+        "南达科他级战列舰—南达科他，舷号BB-57",
+        "サウスダコタ級戦艦・サウスダコタ（BB-57)",
+        "South Dakota-class battleship – South Dakota, Hull Number BB-57!"
+      ],
+      "selfIntroduction": [
+        "我是来自白鹰的战列舰，南达科他号。在战场上请不要离开我的身边，我会保护指挥官的——最强的盾？虚名并没有价值，能提供帮助才有意义",
+        "ユニオンの戦艦サウスダコタだ。戦場では僕から離れないでほしい。指揮官は僕が守るーー最強の盾？虚名に価値などない、役に立てればそれで意義がある",
+        "Battleship of Eagle Union, South Dakota. When it comes to battlefields, I wish for you to not leave my side. I will protect you, Commander. 'The Strongest Shield'? Vain titles are worthless. There's meaning only in being useful."
+      ],
+      "acquisition": [
+        "战舰南达科他，为你效劳。我将成为你最坚固的盾，为你抵御一切炮火",
+        "僕はサウスダコタ、指揮官。君の盾となって、全ての砲火から君を守護ってあげよう",
+        "I am South Dakota, Commander. I shall become your shield and protect you from all cannon fire."
+      ],
+      "login": [
+        "指挥官，请下令吧",
+        "指揮官、ご命令を",
+        "Commander, your orders please."
+      ],
+      "details": [
+        "南达科他随时等待你的差遣，指挥官",
+        "サウスダコタ、いつでも命令を待っているぞ。指揮官",
+        "South Dakota, standing by 24/7, Commander."
+      ],
+      "secretaryIdle1": [
+        "我曾在黑暗中磨练了自己的意志，所以无所畏惧",
+        "闇に磨かれた僕の意志、恐れるものはなにもない",
+        "In the darkness, my will was tempered. I fear nothing."
+      ],
+      "secretaryIdle2": [
+        "只要确实为指挥官出了力，那么功劳让给别人也无妨",
+        "確実に指揮官の役に立ったのなら、功績ぐらいはほかの人に譲っても構わない",
+        "As long as I am of use to Commander, I am fine with handing my credit over to others."
+      ],
+      "secretaryIdle3": [
+        "站在指挥官对立面的，无论是谁，都将是我的敌人",
+        "指揮官に敵対するものは、誰であろうと敵だ",
+        "Those who stand as Commander's enemies, are enemies all the same."
+      ],
+      "secretaryTouch": [
+        "我随时能够行动",
+        "いつでも行動できる",
+        "I'm ready to move out anytime."
+      ],
+      "secretarySpecialTouch": [
+        "如果这就是指挥官想做的事的话……",
+        "これが指揮官がしたいことなら……",
+        "If this is what you want to do..."
+      ],
+      "task": [
+        "不要忘了完成任务，指挥官",
+        "指揮官、任務を完成するのを忘れないでほしい",
+        "Commander, please do not forget about completing the missions."
+      ],
+      "taskComplete": [
+        "指挥官，任务的奖励发放了",
+        "指揮官、ミッションボーナスが届いたぞ",
+        "Commander, the mission rewards have arrived."
+      ],
+      "mail": [
+        "有新的邮件，指挥官",
+        "新しいメールだ。指揮官",
+        "There's new mail, Commander."
+      ],
+      "returnFromMission": [
+        "漂亮的战斗，指挥官",
+        "いい戦いだ。指揮官",
+        "Good fight out there, Commander."
+      ],
+      "commission": [
+        "委托组回来了……有必要的话，我也可以出动",
+        "委託組が戻ってきた……必要だったら、僕も動こう",
+        "The commission teams are back... If it is necessary, send me off as well."
+      ],
+      "strengthening": [
+        "盾变得更坚固了",
+        "この盾がより強固になった",
+        "My shields have become stronger"
+      ],
+      "startingMission": [
+        "拼尽全力攻过来吧！",
+        "全力でかかってこい！",
+        "Come at me with all you got!"
+      ],
+      "mvp": [
+        "局部战斗的胜利并不值得欢呼，指挥官",
+        "局所的な勝利は歓喜に値しないぞ、指揮官",
+        "Partial victories aren't worth celebrating, Commander."
+      ],
+      "defeat": [
+        "抱歉，指挥官……这是我的耻辱……！",
+        "すまない、指揮官……屈辱だ……！",
+        "I am sorry, Commander... It's a shame...!"
+      ],
+      "skillActivation": [
+        "你们将止步于此",
+        "ここまでだ！",
+        "This is your stop!"
+      ],
+      "lowHP": [
+        "我的盾还没碎……！",
+        "手加減はしないよ……！",
+        "I won't hold back now...!"
+      ],
+      "affinityDisappointed": [
+        "…………我会听从你的命令",
+        "……命令には従う",
+        "... I shall follow your orders."
+      ],
+      "affinityStranger": [
+        "你的意志，就是我前进的方向，指挥官",
+        "君の意志は僕の行き先さ。指揮官。",
+        "Your will is my command, Commander."
+      ],
+      "affinityFriendly": [
+        "我是为了实现指挥官的目标而存在的，除此之外我没有任何价值——裙子？那种轻飘飘的东西我没有穿过",
+        "指揮官の目標を実現するために生まれたんだ。それ以外何の価値もないさ。ーースカート？そんなふわふわしたものを着たことないが",
+        "I exist to help you achieve your goals, Commander. Other than that, I have no real value... A skirt? I've never worn something so fluffy before."
+      ],
+      "affinityLike": [
+        "除了战斗还有别的生存方式？我……不知道该怎么做，一直以来我都是这样的……指挥官能教给我吗？",
+        "戦闘以外の生き方か？僕は……どうするべきかわからない。今までこうしてきたから……指揮官が教えてくれるか？",
+        "Another way to live other than fighting? I... do not know what to do, Commander. I have always lived like this... Can you teach me?"
+      ],
+      "affinityLove": [
+        "这就是指挥官所见到的景色……指挥官说过我应该自己选择生存方式，那这一次，我选择不是为了使命，而是为了指挥官的笑容而战",
+        "これが指揮官が見てきた景色、か……生き方は自分で選ぶべきだと仰ったが……今度は自分の使命ではなく、指揮官の笑顔のために戦うよ",
+        "So this is your perspective, Commander... I choose how I live, was what you said... This time, I fight not for my duty, but for the sake of your smile, Commander."
+      ],
+      "pledge": [
+        "你的身边令我温暖，你的目标令我振奋，你的话语令我欢欣……我曾把我的盾献给你，那么现在，把我的心献给你吧，指挥官",
+        "指揮官がそばにいると温かい気持ちになる。指揮官の目標が闘志を振るわせる。指揮官の言葉を聞くだけで嬉しくなる……かつてこの盾を捧げたけど、これからは……心も指揮官に捧げる",
+        "I feel warm when you're by my side, Commander. Your goals bring me the drive to fight. I become happy when I hear your words... I once offered you my shields. From now on... I give you my heart."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Tennessee) 别只顾着开火，注意周围",
+        "(Sortie with Tennessee) 背後は僕に任せろ！撃ちまくれ！",
+        "(Sortie with Tennessee) Don't just focus on firing. Keep surveying the area!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Vestal) 抱歉，可能又要麻烦你了",
+        "(Sortie with Vestal) すまん、また君に迷惑をかけてしまった。",
+        "(Sortie with Vestal) Sorry, I might have to bother you again."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Enterprise, Vestal) 企业，决一胜负吧！",
+        "(Sortie with Enterprise, Vestal) エンタープライズ、勝負だ！",
+        "(Sortie with Enterprise, Vestal) Enterprise! Victory is now!"
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with Washington) 华盛顿，再来比一场吗？",
+        "(Sortie with Washington) ワシントン、もう一回やるか？",
+        "(Sortie with at least 5 ships designed by the same artist) Kaede's Legion... Nice name!"
+      ],
+      "additionalVoiceLine5": [
+        "(Sortie with Massachusetts) 马萨诸塞，战场上认真点",
+        "(Sortie with Massachusetts) マサチューセッツ、戦場では真面目にやって",
+        null
+      ],
+      "additionalVoiceLine6": [
+        "(Sortie with at least 5 ships designed by the same artist) 枫之军……好名字",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        "这是我的情人节礼物。呃，感谢指挥官的照顾。那个…怎么说呢……今后也请多多关照…",
+        "バレンタインのプレゼントだ。えっと、いつも感謝している。それと…何と言えば…よ、よろしく頼む…///",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "是马萨诸塞教给我的，情人节是，啊……说什么比较好……我的表达不太好，那个……嗯，尝一下，这个……吧//",
+        "マサチューセッツに教えられた。バレンタインは、あぁ……なんと言えばいいだろ…上手く言えないが、その…うん、これを、食べて…ね//",
+        "Here's a Valentine's present. I'm, uh, grateful as always. And I... how should I put this... h-hope we can stay together like this... (Blushes)"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's. I made you this chocolate. What? Is there something on my face...? Sorry, it might be a splotch of chocolate... Could you, umm... take care of that... for me?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/South_Dakota_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/South_Dakota_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/South_Dakota_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/South_Dakota_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/South_Dakota_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/South_Dakota_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/South_Dakota_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/South_Dakota_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/South_Dakota_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/00/South_Dakota_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/South_Dakota_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/South_Dakota_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/38/South_Dakota_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/South_Dakota_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/South_Dakota_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/South_Dakota_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/South_Dakota_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/South_Dakota_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/South_Dakota_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/South_Dakota_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/South_Dakota_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/South_Dakota_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/South_Dakota_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/South_Dakota_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/South_Dakota_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/South_Dakota_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/South_Dakota_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/South_Dakota_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/South_Dakota_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/South_Dakota_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/South_Dakota_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/South_Dakota_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/South_Dakota_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/South_Dakota_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/South_Dakota_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/South_Dakota_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/South_Dakota_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/South_Dakota_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/South_Dakota_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/South_Dakota_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/South_Dakota_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/South_Dakota_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/South_Dakota_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/South_Dakota_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/South_Dakota_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/South_Dakota_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/South_Dakota_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/South_Dakota_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/South_Dakota_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/South_Dakota_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/South_Dakota_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/South_Dakota_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/South_Dakota_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/South_Dakota_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/South_Dakota_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/South_Dakota_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/South_Dakota_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/South_Dakota_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/South_Dakota_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/South_Dakota_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/South_Dakota_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/South_Dakota_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/South_Dakota_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/South_Dakota_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/South_Dakota_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/South_Dakota_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/South_Dakota_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/South_Dakota_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/South_Dakota_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/South_Dakota_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/South_Dakota_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/South_Dakota_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/South_Dakota_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/South_Dakota_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/South_Dakota_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/South_Dakota_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/South_Dakota_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/South_Dakota_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/94/South_Dakota_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/South_Dakota_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/South_Dakota_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_Extra3JP.ogg"
+      ],
+      "additionalVoiceLine4Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/South_Dakota_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/South_Dakota_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/South_Dakota_Extra4JP.ogg"
+      ],
+      "additionalVoiceLine5Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/South_Dakota_Extra5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/South_Dakota_Extra5JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Solo Concert",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "剧场上的独奏",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ソロコンサート",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/46/South_DakotaParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/83/South_DakotaPartyChibi.png",
+      "shipDescription": [
+        "为了在战场之外也能派上用场，马萨诸塞建议我学习了钢琴。虽然一开始觉得自己不是这块料，实际上手之后意外地有挑战的价值……",
+        "マサチューセッツから戦い以外に何か役に立てるものを探そうと勧められ、それでピアノを始めたわけだが……無理と思っていたけど、いざやってみると意外と手応えはあるな",
+        "Massachusetts suggested I learn something useful that's unrelated to combat, so I started playing the piano... It seemed impossible at first, but after actually trying it, I've developed a pretty good feel for it."
+      ],
+      "acquisition": [
+        "为了在战场之外也能派上用场，马萨诸塞建议我学习了钢琴。虽然一开始觉得自己不是这块料，实际上手之后意外地有挑战的价值……",
+        "マサチューセッツから戦い以外に何か役に立てるものを探そうと勧められ、それでピアノを始めたわけだが……無理と思っていたけど、いざやってみると意外と手応えはあるな",
+        "Massachusetts suggested I learn something useful that's unrelated to combat, so I started playing the piano... It seemed impossible at first, but after actually trying it, I've developed a pretty good feel for it."
+      ],
+      "login": [
+        "今天练习哪首曲子好呢……",
+        "今日はどの曲を練習しようか…",
+        "What song should I play for you today..."
+      ],
+      "details": [
+        "欧若拉来邀请我一起合奏……稍微试一试吧",
+        null,
+        "Aurora asked me to perform with her... I guess it can't hurt to try."
+      ],
+      "secretaryIdle1": [
+        "这种轻飘飘的衣服我果然难以习惯，还是便服更适合我……",
+        "このふわっとした服はやはり慣れない。前の私服のほうがまだ……",
+        "I can't get used to this flimsy dress. I'd rather wear my regular clothes..."
+      ],
+      "secretaryIdle2": [
+        "喂，别在键盘上乱按，难道你也想弹钢琴吗？",
+        "この子、僕が弾いていないと鍵盤を押したがるな……あなたもピアノの練習をしたかった？",
+        "My cat goes for the keyboard when I'm not playing... Do you want to practice the piano too, kitty?"
+      ],
+      "secretaryIdle3": [
+        "音乐能够表达各种各样感情，其实挺适合我这样不擅表达感情的人的……",
+        "音楽を通して、色んな気持ちを表す。感情表現が苦手な僕には意外と合っているかもね",
+        "We can express so much through music. I suppose that's fitting for someone bad at expressing their feelings like I am."
+      ],
+      "secretaryTouch": [
+        "跳舞？我吗？……还请小心不要被我踩到脚",
+        null,
+        null
+      ],
+      "task": [
+        "音乐只是战场之外的兴趣，指挥官，任务优先",
+        "楽器も音楽も趣味に限る。指揮官、任務の方を優先しよう",
+        "Music and instruments are simply hobbies. We ought to prioritize our missions, Commander."
+      ],
+      "returnFromMission": [
+        "各位都平安回来了吗，那我可以安心继续练琴了",
+        "みんな無事に戻ったか。なら安心して練習に戻れるな",
+        "Everyone's back safe and sound. Now I can resume practicing with peace of mind."
+      ],
+      "affinityLove": [
+        "如果没有你在，我一定不会知道这个世界是这么的五彩缤纷，也不会坐在这里按下琴键……指挥官，听我为你弹奏一曲吧",
+        "君がいなければ、僕はきっと世界の素晴らしさに気づかず、そしてここでピアノを引くことも……指揮官、この一曲、君にぜひ聞いてほしい",
+        "Without you, I doubt I would've ever come to understand what splendor this world holds, or started playing the piano either... Commander, I'd like to play you a song that's important to me."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/South_Dakota_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/South_Dakota_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/South_Dakota_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/South_Dakota_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/South_Dakota_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/South_Dakota_LogSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/South_Dakota_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/South_Dakota_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/South_Dakota_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/South_Dakota_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/South_Dakota_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/South_Dakota_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_SecIdle3Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/South_Dakota_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/South_Dakota_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/South_Dakota_TaskSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/South_Dakota_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/South_Dakota_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/South_Dakota_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/South_Dakota_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/South_Dakota_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/South_Dakota_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

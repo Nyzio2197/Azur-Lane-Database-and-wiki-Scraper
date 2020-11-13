@@ -1,0 +1,664 @@
+{
+  "name": "Essex",
+  "constructionTime": "04:25:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Essex",
+  "ID": "357",
+  "faction": "Eagle Union",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "德意志的科学",
+  "pixiv": "https://www.pixiv.net/member.php?id=6054803",
+  "twitter": "https://twitter.com/ls809251250",
+  "link": "https://www.weibo.com/onlykexue",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/65/Essex_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6647,
+      131,
+      90,
+      0,
+      0,
+      54,
+      33,
+      331,
+      433,
+      13,
+      88,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5730,
+      114,
+      90,
+      0,
+      0,
+      34,
+      33,
+      293,
+      391,
+      13,
+      79,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1108,
+      48,
+      90,
+      0,
+      0,
+      13,
+      33,
+      63,
+      83,
+      4,
+      30,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "125% → 140%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "115% → 130%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "105% → 120%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 17,
+  "maxLimitBreakTechPoints": 35,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +2",
+  "level120TechPoints": 26,
+  "enhancementValue": [
+    0,
+    0,
+    68,
+    9
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Fighters +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +7%",
+  "skill1Name": "Valorous Avengers; CN: 善战之舰 JP: 善戦のファーストライン",
+  "skill1Description": "When this ship launches an Airstrike: launches an additional TBF Avenger squadron that inflicts flood damage on hit (Damage based on own Aviation stat and skill level). Increases damage dealt to Battleships by 4% (10%).",
+  "skill2Name": "Covering Formation; CN: 航空阵列 JP: 直掩配置",
+  "skill2Description": "During battle, increases own Air Power and Anti-Air by 1.5% (5%) per Eagle Union CV/CVL in the fleet. When own aircraft shoots down an enemy aircraft, increases own Air Power by 1% (3%) (Effect can be stacked up to 5 times).",
+  "skill3Name": "Absolute Evasion; CN: 绝对回避 JP: 絶対回避",
+  "skill3Description": "During battle, if the fleet consists of 4 or more Eagle Union ships: all ships in the fleet have a 4.5% (12%) chance to reduce aircraft damage taken to 1 (except end-of-screen damage)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/be/Essex.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ed/EssexChibi.png",
+      "shipDescription": [
+        "埃塞克斯级航空母舰—埃塞克斯，舷号CV-9",
+        "エセックス級航空母艦・エセックス（CV-9)",
+        "Essex-class aircraft carrier – Essex, Hull Number CV-9."
+      ],
+      "selfIntroduction": [
+        "我是埃塞克斯级首舰埃塞克斯号，从诞生起就备受大家的期待。不过，果然相比之下，还是企业前辈的活跃更加受到关注呢。要是我也能够早点加入战局的话…",
+        "エセックス級のネームシップエセックスです。建造されてから多くの期待を寄せられていましたが、やはり私よりエンタープライズ先輩の活躍の方がもっと注目されていましたね。……私だってもっと早く戦闘に参加していたら……",
+        "I am the nameship of the Essex-class carriers. Although I was built with great expectations, I was always overshadowed by Enterprise's success. If only I could have been deployed sooner..."
+      ],
+      "acquisition": [
+        "这里就是企业前辈也在的…咳、咳咳，来自白鹰的最新锐航母、埃塞克斯号，正式报到！我不会辜负大家期望的，请期待我的表现吧，指挥官",
+        "ここがエンタープライズ先輩の…こ、コホン！ユニオンの最新鋭空母・エセックス、正式に着任しました。指揮官、私の活躍を期待していてください！みんなの期待を絶対に裏切ったりはしません！",
+        "So this is where Enterprise is... A-ahem! I am Essex, one of the Union's state-of-the-art aircraft carriers. Commander, you can expect great things from me! I swear that I won't disappoint you!"
+      ],
+      "login": [
+        "您终于来了吗…一切都已经就绪，准备出击吧，指挥官！",
+        "やっと来ましたか。…全ては準備万端です。指揮官、出撃の指示を！",
+        "There you are. I've already finished preparing everything. Commander, give us your orders!"
+      ],
+      "details": [
+        "指挥官想要知道什么？我会知无不言的——",
+        "指揮官は何を知りたいですか？私が知っていることならなんでもお答えしますが――",
+        "What would you like to know, Commander? I'll answer to the best of my abilities."
+      ],
+      "secretaryIdle1": [
+        "大家都知道埃塞克斯级很强，但是每个人的嘴上却又都挂着企业前辈…哈啊…",
+        "みんなエセックス級は強いと認めていても、いざ口にするとやはりエンタープライズ先輩ばっかり…はあ……",
+        "Everyone knows that the Essex class is strong, but still, Enterprise is all they ever talk about... *sigh*..."
+      ],
+      "secretaryIdle2": [
+        "说起来，我有很多个妹妹呢。身为年长者的我更得努力给她们一个好榜样才行…",
+        "私には同型艦がたくさんいますね。ネームシップとして頑張って手本を見せてあげないと……",
+        "There are a lot of ships in my class. As the nameship, I have to do everything I can to be a good role model..."
+      ],
+      "secretaryIdle3": [
+        "鳄和鲸吗？她们…都是值得尊敬的对手…要是有一天能再次与她们相遇就好了呢",
+        "武蔵と大和ですか？彼女たちは…うん、尊敬すべき素晴らしいライバルです。いつかまた出会えたらいいですね",
+        "Musashi and Yamato? They were... yes, formidable rivals worthy of respect. I hope I can meet them again one day."
+      ],
+      "secretaryTouch": [
+        "嗯？要出击了吗？尽管交给我吧！——啊，只是闲聊吗…",
+        "！出撃ですか？私に任せてください！――はあ、雑談したかっただけですか……",
+        "Time to sortie?! Just leave it to me! Oh... you just wanted to chat...?"
+      ],
+      "secretarySpecialTouch": [
+        "这，这种事情！我，我……",
+        "こ、こんなこと！私、私……",
+        "Wh-what is this?! I, I..."
+      ],
+      "task": [
+        "还有新的任务……这次让我试试如何？",
+        "まだ新しい任務が……私にも任せてみませんか？",
+        "There are still unfinished missions? Mind letting me handle things this time...?"
+      ],
+      "taskComplete": [
+        "任务奖励发放了，不去管没关系吗？",
+        "任務報酬が届きました。受け取りに行かなくてもいいですか？",
+        "The mission rewards have arrived. Are you sure you don't need me to go get it?"
+      ],
+      "mail": [
+        "新邮件，给你。",
+        "新しいメールです。どうぞ",
+        "There's new mail for you. Here you go."
+      ],
+      "returnFromMission": [
+        "出击部队…平安回港了呢。战斗报告已经准备好了，时间宝贵，现在就开始战术总结吧，指挥官。",
+        "出撃艦隊…無事母港に帰投しました。指揮官、戦闘報告の下準備は完了済みです。時間が惜しいので、今からその振り返りをしましょう",
+        "The fleet has safely returned. Commander, I've prepared the battle report for you. Time is of the essence, so please review it right away."
+      ],
+      "commission": [
+        "正是强大的后勤部门成就了我和妹妹们的诞生，要好好感谢她们才行。",
+        "私たちエセックス級の誕生は、強い兵站部署があってのことです。ちゃんとみんなに感謝しないと",
+        "The birth of the Essex-class would not have been possible without the hard work of the logistics teams. I have to show my gratitude to everyone."
+      ],
+      "strengthening": [
+        "不知道什么时候能搭载喷气机呢…",
+        "ジェット機はいつになったら……",
+        "When will I be able to get jets..."
+      ],
+      "startingMission": [
+        "舰载机就位，防空准备就绪——全舰队，最大舰速！",
+        "航空隊直掩配置に到達、防空態勢移行完了――全艦、最大戦速！",
+        "All carrier-based aircraft in position, anti-air defense preparations complete. All forces, full speed ahead!"
+      ],
+      "mvp": [
+        "企业前辈，看到我的表现了吗！",
+        "エンタープライズ先輩、私の活躍を見ましたか！",
+        "Enterprise, did you see my feat?"
+      ],
+      "defeat": [
+        "绝对…不会就这么结束的！",
+        "このままでは終わらない……絶対に！",
+        "I won't let it end like this... I swear it!"
+      ],
+      "skillActivation": [
+        "展翅高飞吧！",
+        "大空を翔けよ！",
+        "Spread your wings and soar!"
+      ],
+      "lowHP": [
+        "战斗…才刚刚开始！",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "原来企业前辈一直忍受着这样的指挥官……",
+        "エンタープライズ先輩、こんな指揮官に我慢して従っているのか……",
+        "I wonder how Enterprise puts up with someone like you..."
+      ],
+      "affinityStranger": [
+        "我曾见证过大舰巨炮时代的终结。航空母舰的时代，也会在某个时候终结吗……",
+        "大艦巨砲主義の時代の終焉をこの目で見届けました。航空母艦の時代も、いつか終わりを迎えるのでしょうか……",
+        "I witnessed the end of the era of battleships with my own eyes. Will carriers share the same fate some day...?"
+      ],
+      "affinityFriendly": [
+        "嫉妒？不，我从未这么想过，前辈是值得我们每一个人尊敬的英雄。只是那种一直处在前辈光环之下的感觉，让我多少感到有些……",
+        "妬み？いいえ、そんなことはありません。エンタープライズ先輩は私達全員に尊敬される英雄です。ただ、彼女の七光だとされていることは、私にはやっぱり……",
+        "Jealousy? No, that's not the case. Enterprise is a true hero worthy of all the respect she gets. However, compared to her dazzling aura, I'm just..."
+      ],
+      "affinityLike": [
+        "埃塞克斯不会输给任何人，企业前辈也一样。但是，我怎样才能让大家认同这一点？指挥官，是你的话，应该知道该怎么做吧",
+        "私エセックスは誰にも負けません。たとえ相手がエンタープライズ先輩だとしても、です。……しかし、どうやってみんなにそれ認めてもらえるか――指揮官、あなたならきっと分かっていますよね？",
+        "I won't lose to anyone, not even to Enterprise. But how do I get everyone to acknowledge this? Commander, if you were in my shoes, what would you do?"
+      ],
+      "affinityLove": [
+        "或许，我没法成为像企业前辈那样独当一面的英雄。但是我总感觉，和你一起，好像很多事情都能做到呢。",
+        "エンタープライズ先輩のようなヒーローになれないかもしれません。ですが、彼女と同じく人々の記憶に残る存在になれるような気がします。……だって指揮官となら私、どんなことでもできる気がしますから…",
+        "I might never be able to become a hero like Enterprise... But when I'm with you, I feel like I can do so much more than just that..."
+      ],
+      "pledge": [
+        "两人互相支持的那种幸福感，一旦尝到了就会被俘获其中。谢谢你，指挥官。我不需要再独自去证明什么了。无论前行多远，我都会在你身旁，陪你一起继续走下去。",
+        "お互いが支え合っている幸せな気持ちは、一度でも感じたら虜にされますね。指揮官、ありがとうございます。エセックスがどうやってみんなに認めてもらえるか、一人で悩む必要はなくなりました――エセックス、これからはずっとあなたのそばで、あなたと共に歩むことを誓います",
+        "Once you've experienced the happiness of two people supporting each other, it becomes something you can't live without. Thank you, Commander. I no longer have to walk alone in my quest to prove my worth. I promise to always be at your side, wherever you go."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Enterprise) 前辈，请看着吧，我是不会轻易输给你的！",
+        null,
+        null
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 3 Aircraft Carriers) 现在是航母时间！",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "尝试了难度比较高的情人节巧克力，失败了好几次才顺利完成…这个应该…没问题吧…指挥官，请收下这份巧克力吧！接、接下来还要送、送给前辈，唔唔……",
+        "バレンタインのチョコレート、高難易度のオペラに挑戦しました……しましたけど、これで本当に大丈夫でしょうか…指揮官、よかったらまずこれを食べてみてください！あとはエンタープライズ先輩の分もありますので…！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Please, accept my deluxe Valentine's chocolate, Commander! I put my whole being into making it and held nothing back! When you start eating it, please pay particular attention to the taste! I assure you it is packed with my secret ingredient: affection!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Essex_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Essex_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Essex_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Essex_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Essex_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Essex_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Essex_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Essex_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Essex_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Essex_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Essex_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Essex_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Essex_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Essex_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Essex_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Essex_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Essex_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Essex_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Essex_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Essex_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Essex_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Essex_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Essex_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Essex_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Essex_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Essex_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Essex_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Essex_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Essex_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Essex_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Essex_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Essex_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Essex_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Essex_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Essex_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Essex_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Essex_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Essex_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Essex_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Essex_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Essex_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Essex_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Essex_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Essex_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Essex_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Essex_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Essex_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Essex_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Essex_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Essex_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Essex_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Essex_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Essex_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Essex_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Essex_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Essex_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Essex_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Essex_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Essex_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Essex_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Essex_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Essex_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Essex_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Essex_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Essex_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Essex_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Essex_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Essex_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Essex_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Essex_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Essex_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Essex_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Essex_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Essex_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Essex_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Essex_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Essex_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Essex_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Essex_Extra1JP.ogg",
+        null,
+        null
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Essex_Extra2JP.ogg",
+        null,
+        null
+      ]
+    },
+    {
+      "ENClientName": "A Trip Down Route 66",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "66号公路之旅",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ルート66の旅",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c6/EssexCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c5/EssexCasualChibi.png",
+      "shipDescription": [
+        "不为追求终点，只是欣赏沿途风景的骑行之旅，似乎也挺有意思的。指挥官，一起来感受下公路之旅的乐趣吧。",
+        "移動するためではなく、道中の風景を楽しむツーリング――面白そうですね。指揮官、一緒に旅を楽しみましょう",
+        "I'm not trying to go anywhere in particular; I just want to enjoy the scenery along the way. Commander, let's go experience the thrills of the road together."
+      ],
+      "acquisition": [
+        "不为追求终点，只是欣赏沿途风景的骑行之旅，似乎也挺有意思的。指挥官，一起来感受下公路之旅的乐趣吧。",
+        "移動するためではなく、道中の風景を楽しむツーリング――面白そうですね。指揮官、一緒に旅を楽しみましょう",
+        "I'm not trying to go anywhere in particular; I just want to enjoy the scenery along the way. Commander, let's go experience the thrills of the road together."
+      ],
+      "login": [
+        "指挥官，安全帽戴好了吗？我们要继续出发了！",
+        "指揮官、ヘルメットは被りましたか？そろそろ出発しますよ",
+        "Commander, have you put on your helmet yet? We're about to get going!"
+      ],
+      "details": [
+        "2448英里，仅仅一小段的景色就让人心旷神怡…即使没能跑完全程，能有这样的体验，已经让人非常满足了",
+        "全長2448マイル…の、ほんの少しだけでこんなにスッキリとした気持ちになれるなんて！ルートを全部走りきれなくても、忘れがたい体験になりましたね",
+        "Even being able to see a small portion of these 2448 miles has been an eye-opening experience. Though I wasn't able to ride from sea to shining sea, what an unforgettable journey it's been!"
+      ],
+      "secretaryIdle1": [
+        "企业前辈和我说过，除了战斗之外还有很多值得我去尝试的事情…这应该就是其中一件吧！",
+        "戦うこと以外にもやってみたほうがいいと、エンタープライズ先輩から言われたことがあります。……これもそのうちの一つですね",
+        "Enterprise advised me to pursue some hobbies that aren't related to combat... This should count as one of those."
+      ],
+      "secretaryIdle2": [
+        "战斗时要全力以赴，但是骑行的时候可不能一直开足马力呢，嗯…",
+        "戦いにいつも全力全開で挑みますが、走るときにずっとフルスロットルにしてはいけませんね。ふむ……",
+        "Combat is something that must be done at full throttle. It'd be dangerous to do that while riding though..."
+      ],
+      "secretaryIdle3": [
+        "你也一路跟着我们过来了呢，真是只了不起的鹰",
+        "ずっと着いてきたの？偉い子！",
+        "You followed us the entire way? What an incredible eagle!"
+      ],
+      "secretaryTouch": [
+        "呼…嗯？这是给我的水吗？那我就不客气了",
+        "ふぅ…ん？このドリンクを私に？ありがとうございます！遠慮なくいただきますね",
+        "Phew... Hm? This bottle of water is for me? Thank you very much! I'll help myself then."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官该不会是……骑行太久头晕了？！还，还是休息一下吧。",
+        "指揮官もしかして……疲れすぎて頭が回ってないんですか？やっぱりちょっと休憩したほうがいいですよ…",
+        "Commander, could you be... too tired to know what you're doing? I knew we should have stopped to rest..."
+      ],
+      "returnFromMission": [
+        "想休息一下吗？没问题，我等你。",
+        "少し休憩しますか？大丈夫、ごゆっくり",
+        "Did you want to rest for a bit? That's fine, take your time."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Essex_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Essex_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Essex_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Essex_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Essex_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Essex_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Essex_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Essex_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Essex_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Essex_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Essex_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Essex_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Essex_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Essex_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Essex_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Essex_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Essex_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Essex_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Essex_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Essex_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Essex_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Essex_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Essex_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Essex_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Essex_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Essex_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Essex_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Craft Fairytail",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "Craft Fairytail",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "Craft Fairytail",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1200",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7b/EssexParty.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/44/EssexPartyWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7f/EssexPartyChibi.png",
+      "shipDescription": [
+        "哎？我可不是因为喝醉了才出来透风的哦。好吧，可能确实喝的稍微有点点多…仅，仅此而已啦，指挥官帮我保密哦！",
+        "指揮官？！あ、いいえ、別に酔いつぶれたわけじゃありません！…す、少しだけ飲みすぎて……少しだけです！ほかの子には教えないでください！",
+        "Commander?! Ah, um, no, I'm not drunk! ...I, uh, just had a bit too much to drink... just a bit! Please don't tell the others though!"
+      ],
+      "acquisition": [
+        "哎？我可不是因为喝醉了才出来透风的哦。好吧，可能确实喝的稍微有点点多…仅，仅此而已啦，指挥官帮我保密哦！",
+        null,
+        null
+      ],
+      "login": [
+        "那个，指挥官，能扶我一下吗？谢谢。哎，为什么礼裙的拖尾要弄得那么长啊……",
+        null,
+        null
+      ],
+      "details": [
+        "那个，指挥官，没有人往这边来吧？那，那就好。要是给企业前辈看到或者被香格里拉拍下来现在的样子……我，我得赶紧…呜，脑袋…欸！？香、香格里拉！？不行不行！不要拍啊啊啊啊啊啊！",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "我给鹰酱也准备了一套特别的礼服。你看，现在的它是不是很有管家的感觉？",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "请问...指挥官，那个，你有见过……企业前辈她喝醉过么？只是有点好奇哦，毕竟完全想象不出来前辈醉酒的样子……",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "啊，指挥官，我休息一会就好，不用担心我。如果指挥官离席太久的话，反而会成为被大家担心的对象吧？",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "只再来一杯的话...指挥官，这一杯敬你——！指挥官平时为大家做了这么多，这算是我的一点感谢之情吧。",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "指挥官！你这是在干什么啊——！难，难道你也喝醉了！这，这可怎么办才好……",
+        null,
+        null
+      ],
+      "task": [
+        "新的任务吗？那，那我得赶快调整好状态才行——唔，脑，脑袋还是有点晕……",
+        null,
+        null
+      ],
+      "taskComplete": [
+        "任务奖励收到了？那，那就好……",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "宴会上，大家一个接一个的向我问好，我当时想，“原来我也是这么受欢迎吗！”，一时冲动就把敬过来的酒全接下来了…咕…！还是太嫩了啊…！",
+        null,
+        null
+      ],
+      "commission": [
+        "唔，在这种时候还有委托队回来么，要不要我去——哎，抱歉，现在的我好像帮不上忙……",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "公主依偎在王子身上欣赏着城堡上空的星海.....哎？！指挥官听到了么！算了，就当成我彻底醉了，就这一次，让我在你身边多靠一会吧！嘿嘿，欸嘿嘿…",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

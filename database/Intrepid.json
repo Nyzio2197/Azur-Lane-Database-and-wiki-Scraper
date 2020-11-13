@@ -1,0 +1,590 @@
+{
+  "name": "Intrepid",
+  "constructionTime": "04:25:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Essex",
+  "ID": "442",
+  "faction": "Eagle Union",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "小吃_chill",
+  "pixiv": "https://www.pixiv.net/en/users/12827844",
+  "twitter": "https://twitter.com/XChichichichi",
+  "link": "https://www.weibo.com/songyuandu",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/7/71/Intrepid_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6634,
+      131,
+      68,
+      0,
+      0,
+      54,
+      33,
+      331,
+      430,
+      13,
+      85,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5719,
+      114,
+      68,
+      0,
+      0,
+      34,
+      33,
+      293,
+      388,
+      13,
+      76,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1106,
+      48,
+      68,
+      0,
+      0,
+      13,
+      33,
+      63,
+      82,
+      4,
+      29,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "125% → 140%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "115% → 130%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "105% → 120%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 17,
+  "maxLimitBreakTechPoints": 35,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +2",
+  "level120TechPoints": 26,
+  "enhancementValue": [
+    0,
+    0,
+    68,
+    9
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Fighters +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +7%",
+  "skill1Name": "Soaring Silver Wings; CN: 翱翔的战斗者 JP: 空駆ける銀翼",
+  "skill1Description": "After this ship finishes loading an Airstrike: launches an additional Lv.1 (Lv.10) SB2C Helldiver airstrike (DMG is based on the skill's level.) This airstrike inflicts Armor Break to all BBs, BCs, and BBVs hit by it. Armor Break debuff does not stack.",
+  "skill2Name": "Formation Shift; CN: 双重战斗模式 JP: ツイン・ドライ",
+  "skill2Description": "On the 1st, 3rd, and 5th battles of each sortie that this ship takes part in: increases this ship's AVI by 5.0% (15.0%). On the 2nd, 4th, and 6th battles: decreases this ship's DMG taken by 4.5% (12.0%).",
+  "skill3Name": "The Fearless Fighting I; CN: 英勇无畏 JP: 恐れなきFighting",
+  "skill3Description": "Once per battle, when this ship's HP falls below 20.0%, activates the following buffs:",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2a/Intrepid.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b0/IntrepidChibi.png",
+      "shipDescription": [
+        "埃塞克斯级航空母舰—无畏，舷号CV-11",
+        "エセックス級空母「イントレピッド」（CV-11）",
+        "Essex-class aircraft carrier – Intrepid, Hull Number CV-11."
+      ],
+      "selfIntroduction": [
+        "我是埃塞克斯级三号舰无畏。虽然在大战中运气不太好，甚至被起了奇怪的绰号…咳咳，没什么！重要的是现在，这次在指挥官的麾下，我一定会表现得比之前更好的！",
+        "私はエセックス級3番艦、イントレピッド！あの大戦ではちょっと不運が重なって、変なあだ名をたくさんつけられちゃったけど……ふふん、重要なのは今！指揮官のもとで、全力で戦ってみせる！",
+        "I'm the third ship of the Essex class, Intrepid! Although my poor luck during the war earned me quite a few unflattering nicknames... Heheh, that's all behind me now! Commander, under your command, I'll show you just how powerful I am!"
+      ],
+      "acquisition": [
+        "埃塞克斯级的战斗者(The Fighting “I”)，无畏号，报到！指挥官，请尽管把战斗任务交给我吧，我将为你带来胜利与荣耀！",
+        "エセックス級の「The Fighting “I”（ファイティング・アイ）」、イントレピッド参上！指揮官、戦闘任務があれば任せてくれ！勝利と栄光を君に！",
+        "\"The Fighting I\" of the Essex-class, Intrepid, is here! Commander, leave the combat missions to me! I'll bring home victory and glory!"
+      ],
+      "login": [
+        "今天的作战计划上有我的名字吗？没有的话就帮我加上吧！",
+        "今日の出撃メンバーに私の名前は入っているか？ないなら付け加えてくれ！",
+        "Am I slated to sortie today? If not, hurry up and fix that!"
+      ],
+      "details": [
+        "应当勇于挑战任何强敌——话虽这么说，却总是因为各种原因没法全力地战斗呢…",
+        "相手が誰であろうと挑んでみせる――というのは当然だけど、正直色々あって思いっきり戦えなかったな…",
+        "One should always go all out, no matter the enemy... Having that said, there are various practical reasons why that isn't always possible..."
+      ],
+      "secretaryIdle1": [
+        "指挥官喜欢眺望星空吗？啊，没到观星那么正经爱好的程度也没关系。如果你有兴趣的话，我们来聊聊宇宙如何？",
+        "指揮官は星々を眺めるのが好き？あはは、天体観測とかガチの趣味じゃなくてもいいよ。興味があったらちょっと話そう？",
+        "Commander, do you like stargazing? Ahaha, it's fine if you aren't really into astronomy. If you're ever interested, just let me know."
+      ],
+      "secretaryIdle2": [
+        "潜艇们…好像也挺厉害的。不过，我觉得自己可以试着应对一下",
+        "潜水艦か…まあ強いよ。私ならちょっと対応できるかもしれないよ",
+        "Submarines are... quite strong. But I think I might be able to go toe-to-toe with them."
+      ],
+      "secretaryIdle3": [
+        "埃塞克斯级的姐妹舰虽然挺多，但还是有各自特点的…欸？你说舰船性能之外的？这个倒是没细想呢，唔…",
+        "エセックス級は数こそ多いもののみんな特徴がある…え、艦としての性能の特徴以外は？あんまり考えたことがなくて、ちょっと悩ましいな…",
+        "Despite the fact that there are many Essex-class carriers, we all have our good spots, you say? ...Uhh, you're not talking about our ship performance? I've never given much thought to those bothersome things..."
+      ],
+      "secretaryTouch": [
+        "我想喝点什么？那就——“一杯干马天尼，摇匀，不要搅拌！”——Just Kidding！",
+        "なんか飲みたいものないかって？んじゃあ――「マティーニを、ステアせずシェイクして」――Just kidding！",
+        "Want something to drink? Then, how about a martini – shaken, not stirred? Just kidding!"
+      ],
+      "secretarySpecialTouch": [
+        "你这…哈啊，比起称赞你的勇敢，我更想揍你一顿。",
+        "っ……はあ、褒めるどころかぶっ飛ばされる行動だよ、これ",
+        "You... *sigh*...I'm way more inclined to beat you to a pulp than to praise you for your bravery."
+      ],
+      "secretaryHeadpat": [
+        "哇啊！？头发都被你揉乱了！？",
+        "うお！？髪の毛が！？",
+        "Wooahh?! You're messing up my hair?!"
+      ],
+      "task": [
+        "任务很难吗？如果实在解决不了，交给我如何？",
+        "任務って難しいの？どうしてもこなせなら試しに私にも任せてみる？",
+        "Having trouble with your missions? If you're stumped, why don't you let me try my hand?"
+      ],
+      "taskComplete": [
+        "Mission accomplished！你看，只要勇敢去做，就没有完成不了的事情！",
+        "Mission accomplished！ほら、やリさえすればできないことなんてないじゃない！",
+        "Mission accomplished! See, there's nothing you can't do if you put your mind to it!"
+      ],
+      "mail": [
+        "新邮件…会是新的作战任务安排吗？",
+        "新しいメール…作戦任務の指示かな？",
+        "There's new mail... do we have new orders?"
+      ],
+      "returnFromMission": [
+        "呼~回来了！啊，修理补给战斗汇报加上战术总结，我想5分钟应该够了吧？然后我们就准备准备再次出击吧！",
+        "ふぅ～戻った！あ、修理補給戦闘報告戦術振り返りブリーフィング、5分で片付けられる？次の出撃にpush ahead（プッシュアヘッド）！",
+        "Phew, I'm back! Oh, you need a battle report, repair and resupply overviews, and a mission debriefing? Sure, five minutes should be enough, right? After that, send me back out there!"
+      ],
+      "commission": [
+        "委托完成，补给已收到。嗯嗯，不愧是指挥官，知道只有强大的后勤才能保障强大的战斗力！",
+        "軍事委託完了、補給受領も完了～へへ、さすが指揮官、戦力は兵站あってこそってよく分かってる！",
+        "Commission completed, resources received~! Hehe, way to go, Commander. You know exactly how important logistics are to our fleet operations!"
+      ],
+      "strengthening": [
+        "我觉得能变强的地方还有很多呢。比方说，给我一打喷气舰载机怎样？",
+        "強化できるとこ、いくらでもあるよ！ジェット機1ダースとか？",
+        "I feel like I can always keep improving! For example, how 'bout giving me a dozen jets?"
+      ],
+      "startingMission": [
+        "起飞准备完成——舰载机队，去吧！Roll out！",
+        "発艦準備問題なし――攻撃隊、かっ飛べ！Roll out！",
+        "Flight preparations complete! Attack squadrons, roll out!"
+      ],
+      "mvp": [
+        "只有无畏者才能摘取胜利的桂冠！",
+        "勝利の栄冠は、恐れなきイントレピッドの手にあり！",
+        "The crown of victory goes to me, the one who knows no fear!"
+      ],
+      "defeat": [
+        "又要去维修了么…(小声)怎么倒霉的总是我…—不，没什么",
+        "またもや修理ドック行き…（小声）なんでいつも私が…な、なんでもない！",
+        "I have to go to the docks again...? Damnit, why is it always me... Y-you didn't hear anything!"
+      ],
+      "skillActivation": [
+        "无畏、Getting on!",
+        "イントレピッド、Getting on!",
+        "Let's get this done!"
+      ],
+      "lowHP": [
+        "糟了，敌机比想象的更多…",
+        "しまった、思ったより敵が多い……",
+        "Crap, I didn't think there'd be so many of them..."
+      ],
+      "affinityDisappointed": [
+        "指挥官啊，你现在的所作所为，和懦夫可没有半点区别啊",
+        "指揮官、今の君の行動は卑怯者のそれよ！",
+        "Commander, the way you're acting now makes you no different from a coward!"
+      ],
+      "affinityStranger": [
+        "无所畏惧的勇气，就是我无畏，记好了哦！",
+        "何も恐れない大いなる勇気、それが私、イントレピッド！覚えてくれよ！",
+        "The great symbol of fearlessness is none other than I – Intrepid! Don't you forget that!"
+      ],
+      "affinityFriendly": [
+        "哟，指挥官！下午好——啊好疼…是谁把推车放在这里的啊！我怎么又碰上这种倒霉的事情……呃，没，没什么。那个，我是说，有我的出击任务吗？",
+        "あ、指揮官！これ――いったー！誰よここに台車を置いたのは！もうなんで私はいつもこんな目に……あ、いや、なんでもない！それより指揮官、私の出番は？",
+        "Oh, Commander! This– yeowwwch! Who decided it was a good idea to leave a trolley here?! Jeez, why does this always happen to me...Ah, um, nevermind, I'm fine! More importantly, when do I get to sortie?"
+      ],
+      "affinityLike": [
+        "闲着的时候，我会看看书，或者看看电影，不过，最喜欢的，还是眺望无垠的星空呢。啊，对了，我这里有两张卡萨布兰卡推荐的电影的票，明天我们一起去看吧？",
+        "暇なときは本を読んだり、映画を見たり、星を眺めたりするのが好きよ。――あ、そういえばカサブランカから映画のチケットもらったけど、見に行かない？",
+        "During my free time, I like to read, watch movies, or stargaze. Oh, by the way, I got a movie ticket from Casablanca. Why don't we go watch it?"
+      ],
+      "affinityLove": [
+        "天上的星星距离我们几光年，几十光年，甚至更远，就算有无畏的勇气，也需要无数的努力和时间才能触碰到它们吧——不过，眼前指挥官的话，只要伸出手就能抓到了呢。就像这样…！嘿嘿，没错吧？",
+        "夜空の星々は遠い。恐れずに勇気を持って挑むにしろ、手が届くには途轍もない時間も努力も必要よ――それはそれとして、そばにいる指揮官なら今すぐ捕まえられる。つまりこういうこと……へへ、そうだろ？",
+        "The stars in the night sky are distant. So distant that even with all the courage in the world, the effort it would take to reach them is unfathomable... However, all it takes to catch the commander in front of me is.... this! Hehe, isn't that right?"
+      ],
+      "pledge": [
+        "没想到在这件事情上，还是指挥官更有勇气呢…真是没办法…今后也请多多关照了！有我在你身边，就无畏地向你的理想的世界进发吧，指挥官！",
+        "まさか指揮官が先に手を出してくるとは思わなかったね…もう、しょうがない。指揮官、これからもよろしく！私がそばにいるから、君は何も恐れず望む未来に突き進め！",
+        "I didn't expect you to be the one to take the initiative... but I suppose that's fine too. Commander, guess I'll continue to be in your care then! As long as I am with you, I want you to push forward and face the future fearlessly!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Bunker Hill, Independence) TaskForce38、Let's Rock！",
+        "(Sortie with at least 1 of: Bunker Hill, Independence) TaskForce38、Let's Rock！",
+        "(Sortie with at least 1 of: Bunker Hill, Independence) Task Force 38, let's rock and roll!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Intrepid_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Intrepid_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Intrepid_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Intrepid_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Intrepid_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Intrepid_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Intrepid_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Intrepid_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Intrepid_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Intrepid_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Intrepid_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Intrepid_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Intrepid_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Intrepid_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Intrepid_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Intrepid_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Intrepid_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Intrepid_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Intrepid_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Intrepid_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Intrepid_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Intrepid_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Intrepid_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Intrepid_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Intrepid_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Intrepid_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Intrepid_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Intrepid_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Intrepid_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Intrepid_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Intrepid_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Intrepid_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Intrepid_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Intrepid_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Intrepid_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Intrepid_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Intrepid_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Intrepid_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Intrepid_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Intrepid_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Intrepid_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Intrepid_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Intrepid_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Intrepid_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Intrepid_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Intrepid_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Intrepid_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Intrepid_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Intrepid_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Intrepid_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Intrepid_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Intrepid_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Intrepid_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Intrepid_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Intrepid_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Intrepid_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Intrepid_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Intrepid_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Intrepid_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Intrepid_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Intrepid_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Intrepid_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Intrepid_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Intrepid_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Intrepid_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Intrepid_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Intrepid_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Intrepid_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Intrepid_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Intrepid_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Intrepid_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Intrepid_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Intrepid_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Intrepid_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Intrepid_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Intrepid_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Intrepid_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Intrepid_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Intrepid_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Intrepid_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Intrepid_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Intrepid_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Intrepid_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Intrepid_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "One Intrepid Pitch",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "无畏的一投",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "恐れなき一投",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c0/IntrepidSport.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4a/IntrepidSportChibi.png",
+      "shipDescription": [
+        "最近港区里好像要组织棒球比赛，在和白鹰的伙伴们正式组成队伍前，我想先进行些提高个人能力的训练，指挥官，能来陪我做投球的练习吗？",
+        "母港の野球試合――ユニオンの仲間たちとチームを組む前に自分を高めないと…指揮官、練習に付き合ってもらえる？",
+        "There's been a lot of inter-port meets recently... But before I can join a team with my other Eagle Union colleagues, I've got to up my game first! So, Commander, mind training with me?"
+      ],
+      "acquisition": [
+        "最近港区里好像要组织棒球比赛，在和白鹰的伙伴们正式组成队伍前，我想先进行些提高个人能力的训练，指挥官，能来陪我做投球的练习吗？",
+        "母港の野球試合――ユニオンの仲間たちとチームを組む前に自分を高めないと…指揮官、練習に付き合ってもらえる？",
+        "There's been a lot of inter-port meets recently... But before I can join a team with my other Eagle Union colleagues, I've got to up my game first! So, Commander, mind training with me?"
+      ],
+      "login": [
+        "光是投球还不够，打击也需要练习呢…啊，对了，蓝鳃鱼最近应该也在练习投球，喊上她一起来训练好了",
+        "ピッチャーだけじゃなく、バッターの方も…あ、ブルーギルちゃんも特訓してたっけ。あの子も呼んでみようか",
+        "It's not enough to just be a pitcher. I've gotta be a good batter as well! Oh, Bluegill's also out there training. Let's grab her for our practice!"
+      ],
+      "details": [
+        "nice catch！和指挥官的配合感觉非常不错呢，怎么样，要不要来做我的专属捕手？",
+        "Nice catch！いい感じね！指揮官は私のキャッチャーでもやらない？",
+        "Nice catch! You've got skill! How about becoming my catcher?"
+      ],
+      "secretaryIdle1": [
+        "太长的头发对投球好像有点影响…唔，下次试试盘起来好了",
+        "ポニーテールにしてもやっぱりちょっとピッチングには影響あるよね…今度はまとめてみるかな…",
+        "A ponytail really does get in the way, huh... Next time, maybe I'll try putting it up..."
+      ],
+      "secretaryIdle2": [
+        "啊，一旦全力投球就很容易控制不好方向呢，抱歉抱歉",
+        "あ！全力で投げたら明後日の方向に行っちゃった…ごめんごめん",
+        "Gah! I threw the ball full power and lost control of it... My bad, my bad!"
+      ],
+      "secretaryIdle3": [
+        "好！这一球要一直投到宇宙的尽头！啊，那样的话捕手就接不了了呢…",
+        "よし！この一球は宇宙の果まで！……って、それだとキャッチャーが掴めないね…",
+        "All righty! This one's headed towards the ends of the universe! Wait, how's the catcher gonna get it then..."
+      ],
+      "secretaryTouch": [
+        "啊，我想到了一个新的投球方式，来陪我试试吧，指挥官！",
+        "あ、新しいフォームのほうがいいかも！指揮官、ちょっと練習に付き合ってもらえる？",
+        "Woah! I just thought of a new kind of pitch! Commander, let's go try it out!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，就算带着护具，直接被高速球命中的话也是很疼的哦？",
+        "防具があっても、高速球が直撃すると痛いわよー",
+        "Even if you brought protection, getting hit by my fastball is gonna hurt like hell~"
+      ],
+      "returnFromMission": [
+        "呼，休息一下吧！谢谢你一直陪着我呢，运动饮料和毛巾都在这，别客气，拿去用吧",
+        "ふぅ…ちょっと休憩しよっか！指揮官、付き合ってくれてありがとう！備品は好きに使っていいよ！",
+        "Phew, time for a break! Commander, thanks for coming out with me! Feel free to use the equipment however you'd like!"
+      ],
+      "mvp": [
+        "你们是绝对打不到我投出的球的！",
+        "私の攻撃は打ち返されない！",
+        "Nobody can return one of my pitches!"
+      ],
+      "defeat": [
+        "啊，被对手打了个全垒打呢…",
+        "一本取られたわね……",
+        "Gah, I gave up a run..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Intrepid_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Intrepid_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Intrepid_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Intrepid_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Intrepid_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Intrepid_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Intrepid_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Intrepid_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Intrepid_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Intrepid_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Intrepid_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Intrepid_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Intrepid_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Intrepid_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Intrepid_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Intrepid_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Intrepid_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Intrepid_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Intrepid_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Intrepid_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Intrepid_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Intrepid_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Intrepid_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Intrepid_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Intrepid_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Intrepid_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Intrepid_MissionFinSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Intrepid_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Intrepid_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Intrepid_MVPSkin1JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Intrepid_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Intrepid_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Intrepid_DefeatSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

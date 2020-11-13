@@ -1,0 +1,588 @@
+{
+  "name": "Shirakami Fubuki",
+  "constructionTime": "00:17:30",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Hololive",
+  "ID": "Collab051",
+  "faction": "Hololive",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "凪白みと",
+  "pixiv": "https://www.pixiv.net/member.php?id=8189060",
+  "twitter": "https://twitter.com/lemon_mito",
+  "link": "https://mito-nagishiro.tumblr.com",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/4/46/Shirakami_Fubuki_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1830,
+      217,
+      69,
+      76,
+      484,
+      191,
+      40,
+      178,
+      201,
+      10,
+      191,
+      200,
+      0,
+      0
+    ],
+    "Level 100": [
+      1525,
+      188,
+      69,
+      66,
+      440,
+      184,
+      40,
+      155,
+      175,
+      10,
+      182,
+      180,
+      0,
+      0
+    ],
+    "Base Stats": [
+      295,
+      80,
+      69,
+      14,
+      93,
+      71,
+      40,
+      33,
+      37,
+      3,
+      70,
+      49,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "80% → 85%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Dive Bombers",
+  "slot3Efficiency": "75% → 80%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    5,
+    31,
+    4,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "All Weapon Efficiency +5% / Number of All Planes +1",
+  "skill1Name": "Mach 2.42 Blossom; CN: 2.25马赫之华 JP: マッハ2.42の華",
+  "skill1Description": "Dive Bomber slot is equipped with \"Mach 2.42 Bermbew Sprawt\" skin. Airstrike spawning time is increased by 100%. Every 20 seconds, calls in air support plane (damage scales with Torpedo stat and skill level).",
+  "skill2Name": "Two-Faced Fox; CN: 二重存在之狐 JP: 表裏の狐",
+  "skill2Description": "During battle, increases own Firepower stat by 5% (15%). After defeating 3 enemy nodes in a sortie, increases own Torpedo stat by 4.5% (12%).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0c/Shirakami_Fubuki.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8c/Shirakami_FubukiChibi.png",
+      "shipDescription": [
+        "终于见面了呢！我是hololive所属的虚拟狐狸、白上吹雪！应指挥官的邀请前来就任！好啦，加油干吧！",
+        "やっと会えましたね！ホロライブ所属のバーチャル狐！白上フブキ！指揮官に呼ばれてこんこーんっと着任しました！さてさて！がんばっちゃいますよー！",
+        "We meet at last! I'm Hololive's virtual fox, Shirakami Fubuki! Commander, now that you've called me, we're gonna have a foxin' good time! Now then, let's get to work!"
+      ],
+      "selfIntroduction": [
+        "我是Hololive Gamers的队长，白上吹雪~在这个世界应该是驱逐舰白上吹雪才对了呢~",
+        "ホロライブゲーマーズのリーダー「白上フブキ」でーす。こっちの世界では駆逐艦「白上フブキ」ですよー",
+        "I'm the leader of Hololive Gamers, Shirakami Fubuki! In this world, I am destroyer Shirakami Fubuki!"
+      ],
+      "acquisition": [
+        "终于见面了呢！我是hololive所属的虚拟狐狸、白上吹雪！应指挥官的邀请前来就任！好啦，加油干吧！",
+        "やっと会えましたね！ホロライブ所属のバーチャル狐！白上フブキ！指揮官に呼ばれてこんこーんっと着任しました！さてさて！がんばっちゃいますよー！",
+        "We meet at last! I'm Hololive's virtual fox, Shirakami Fubuki! Commander, now that you've called me, we're gonna have a foxin' good time! Now then, let's get to work!"
+      ],
+      "login": [
+        "指挥官！欢迎回来！准备好了美味的茶等着你哦！好了！和我一起出击吧♫",
+        "指揮官さん！お帰りなさい！美味しいお茶を用意してお待ちしてましたよ！さぁ！私と一緒に出撃しましょ♫",
+        "Commander, welcome back! I've prepared some delicious tea for you! C'mon, let's set out together~♫"
+      ],
+      "details": [
+        "我可是正统派的可爱Vtuber哦~性格有点安静害羞…诶，看不出来？只是喜欢跟人多聊天嘛~",
+        "私、正統派のかわいいVTuberですよ～。おとなしくて恥ずかしがり屋…そうは見えないって？だって人と話すのが好きなんだもん～",
+        "I'm a normal, wholesome, cute Vtuber~ I'm a bit shy but... Eh, you can't tell? Well, that's because I just like to talk to people~!"
+      ],
+      "secretaryIdle1": [
+        "哼~哼哼~啊！呃…那个！我没有在偷懒哦！",
+        "ふんふーんっ（鼻歌）あっ！えっと…その！サボってないですよ！",
+        "Hum~ hum~ Ack! Um, I wasn't slacking off!"
+      ],
+      "secretaryIdle2": [
+        "今天的茶也很好喝呢！要一起喝点吗？现在的话，可以给你泡一杯超棒的茶哦！",
+        "今日もお茶が美味しいですね！ご一緒にどうですか？今ならとびっきりのお茶を用意できますよ！",
+        "The tea is really delicious today as well! Shall we enjoy some together? I can make the perfect cup of tea now!"
+      ],
+      "secretaryIdle3": [
+        "桐型的桐…蓬松的尾巴…好想摸摸看啊！！",
+        "吹雪型の吹雪ちゃん・・・ふわふわのしっぽ…触ってみたいっ！！ ー",
+        "The Fubuki-class Fubuki sure has a fluffy tail... I want to floof it!!"
+      ],
+      "secretaryIdle4": [
+        "呼呼呼，指挥官，我的这身新衣服是不是很厉害啊~",
+        "ふんふんふーん、指揮官さん、私のこの新衣装、すごいでしょう～",
+        "Heheh~ Commander, don't I look awesome in this outfit?"
+      ],
+      "secretaryTouch": [
+        "指挥官，有什么需要帮助的么？",
+        "指揮官さん？なにかお困りですか？",
+        "Commander, do you need my help with something?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官！尾巴很敏感的，不可以乱碰啦！",
+        "指揮官さん！シッポはデリケートなんだから、触っちゃダメですよ～！",
+        "Commander! My tail is really sensitive, so don't just go around touching it!"
+      ],
+      "secretaryHeadpat": [
+        "呜~~~哈啊哈啊…饶了我吧~耳朵一直挠下去会很痒的~",
+        "う～～～う、うぅ…もう許して～耳はくすぐったいですよ～",
+        "Uwaah~ Ahaha, p-please have mercy~ My ears are really ticklish~"
+      ],
+      "task": [
+        "任务好多啊~不过没关系，我会试着帮帮你~",
+        "任務がいっぱいですね～でも大丈夫、私がお手伝いしますから～",
+        "We have a lot of missions to get through... But don't worry, I'll help you out~!"
+      ],
+      "taskComplete": [
+        "领完这些奖励，要不要一起把任务继续做下去呢？",
+        "報酬をもらって、次の任務にしましょうか？",
+        "Here are the mission rewards. Shall we start on the next one?"
+      ],
+      "mail": [
+        "啊稍等片刻，有邮件过来了~哦？是指挥官的啊，就给大家念念吧~",
+        "あっ、ちょっと待、メールが来てるよ…ほほー、指揮官宛ですね～。みんなに読み聞かせちゃいますよぉ",
+        "Ah, wait, the mail's here... Ohh, this one's addressed to you, Commander~ Maybe I'll let the others read it~"
+      ],
+      "returnFromMission": [
+        "哦~指挥官看起来状态不错嘛…接下来稍事休息，喝杯茶吧",
+        "おー、指揮官さん調子いいですね…ではちょっと休憩して、お茶でも飲みましょ",
+        "Yo~ Looks like you're doing fine, Commander... Well then, rest up a bit and come have some tea~"
+      ],
+      "commission": [
+        "大家都很厉害啊，满载而归！就让我去迎接她们吧~",
+        "みんな凄いよ！大漁大漁！私、ちょっと出迎え行ってきまーす！",
+        "Wow, everyone did a great job! Look at that huge haul! I'm going to go help them out~!"
+      ],
+      "strengthening": [
+        "对的对的，就是这种越来越强的感觉呢~",
+        "そうそう、これですよ～この段々強くなってるって感じ～",
+        "Right, right! That's the feeling of getting stronger~!"
+      ],
+      "startingMission": [
+        "Gamers领队！白上吹雪！出击！",
+        "ゲーマーズリーダー！白上フブキ！いきますよー！",
+        "Gamers leader Shirakami Fubuki, setting sail~!"
+      ],
+      "mvp": [
+        "作为Hololive Gamers的领队，这种程度的战斗还是很轻松的！",
+        "ホロライブゲーマーズのリーダーとして、これぐらいの戦いは楽勝ですよっ！",
+        "As the leader of Hololive Gamers, stuff like this is a piece of cake!"
+      ],
+      "defeat": [
+        "呜喵~~！这里的难度设置是不是有点奇怪？！",
+        "うにゃあ！？ここの難易度設定、ちょっとおかしくないですか！？",
+        "Nya! Isn't this difficulty setting a bit strange, nya?!"
+      ],
+      "skillActivation": [
+        "Kon----！！",
+        "こやーーーん！！（狐の鳴き声）",
+        "Cooooooooorrnnnn!"
+      ],
+      "lowHP": [
+        "啊——等等……这下糟糕了",
+        "ああーー待て待て待て！まずいですね！？",
+        "Ah, waitwaitwait! ... Isn't this bad?!"
+      ],
+      "affinityDisappointed": [
+        "指挥官这样可不行的，太废柴了…嘿咻~就让我稍微帮你一把，一起通关这个游戏吧！",
+        "指揮官さん、ダメダメですねー…よいっしょ～クリアまでちょっとだけ手伝ってあげますよ！",
+        "Commander, you really suck at this, huh... Oh well~ I'll help you out. Let's clear this stage together!"
+      ],
+      "affinityStranger": [
+        "快看指挥官！这个！是我一直很想喝的茶呢！居然被我偶然发现了！啊，指挥官也要一起喝吗？",
+        "見てください指揮官さん！これ！私が飲みたかったお茶ですよー！！たまたま見つけちゃって！あっ指揮官さんも一緒に飲みます？",
+        "Ah, look at this, Commander! It's the tea I've always wanted to try! I just happened to find it here! Want to share some with me?"
+      ],
+      "affinityFriendly": [
+        "聊着聊着就要到深夜了呢~为了回报刚才一直叫着“猫咪猫咪”的指挥官，我决定了！要在你耳边报菜名，深夜放毒哦~",
+        "こんな時間までお話しちゃいましたねっですが…たまにはこういうのも楽しいですねっ指揮官♫",
+        "Woah, we really stayed up late chatting, didn't we... But doing this every once in a while is pretty fun. Right, Commander~♫"
+      ],
+      "affinityLike": [
+        "我很开心哦，指挥官一直以来都这么关注着我！好！今晚一起去吃烤肉吧！也约约看茳酱好了…",
+        "指揮官さん！私の事沢山見てくれて嬉しいです！よし！今夜は一緒に焼き肉行きましょう！江風ちゃんも…誘ってみようかなー",
+        "Commander, thanks for supporting me all this time! All right, we're going to throw a barbecue party tonight! Maybe I should... invite Kawakaze as well~"
+      ],
+      "affinityLove": [
+        "总觉得越来越适应这个地方了呢！当然！对指挥官也是！",
+        "なんだかやっとこの場所に馴染めてきた気がします！勿論！指揮官さんとも！",
+        "I've grown to really like this place. Of course, I feel the same way about you, Commander!"
+      ],
+      "pledge": [
+        "非常感谢，指挥官！一直以来都为了指挥官努力着，接下来也请继续多多指教了哦！指挥官也是，一直以来都这么努力，好乖好乖~！",
+        "指揮官さんありがとうございます！もっともっと指揮官の為にがんばるので、これからも私をよろしくね！指揮官さんもここまでよく頑張りました！いいこいいこですよー！",
+        "Thank you so much, Commander! I'll keep striving to improve for your sake, so please continue to look after me as well! Of course, you've also worked hard as well. Good job, good job!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Fubuki) Wfubiki，开演！",
+        "(Sortie with Fubuki) Wフブキ、開演します！",
+        "(Sortie with Fubuki) Twice the Fubuki, twice the fun!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Kawakaze) 茳酱！终于可以并肩战斗了呢",
+        "(Sortie with Kawakaze) 江風ちゃん！やっと一緒に戦えますねー！",
+        "(Sortie with Kawakaze) Kawakaze, we finally get to fight together!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 5 of: Tokino Sora, Minato Aqua, Natsuiro Matsuri, Nakiri Ayame, Murasaki Shion, Ookami Mio) hololive舰队，出击！",
+        "(Sortie with at least 5 of: Tokino Sora, Minato Aqua, Natsuiro Matsuri, Nakiri Ayame, Murasaki Shion, Ookami Mio) ホロライブ艦隊、出撃！",
+        "(Sortie with at least 5 of: Tokino Sora, Minato Aqua, Natsuiro Matsuri, Nakiri Ayame, Murasaki Shion, Ookami Mio) Hololive Fleet, set sail!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Shirakami_Fubuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Shirakami_Fubuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Shirakami_Fubuki_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Shirakami_Fubuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Shirakami_Fubuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Shirakami_Fubuki_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Shirakami_Fubuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Shirakami_Fubuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Shirakami_Fubuki_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Shirakami_Fubuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Shirakami_Fubuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Shirakami_Fubuki_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Shirakami_Fubuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Shirakami_Fubuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Shirakami_Fubuki_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Shirakami_Fubuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Shirakami_Fubuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Shirakami_Fubuki_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Shirakami_Fubuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Shirakami_Fubuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Shirakami_Fubuki_SecIdle3JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Shirakami_Fubuki_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Shirakami_Fubuki_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Shirakami_Fubuki_SecIdle4JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Shirakami_Fubuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Shirakami_Fubuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Shirakami_Fubuki_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Shirakami_Fubuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Shirakami_Fubuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Shirakami_Fubuki_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Shirakami_Fubuki_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Shirakami_Fubuki_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Shirakami_Fubuki_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Shirakami_Fubuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Shirakami_Fubuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Shirakami_Fubuki_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Shirakami_Fubuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Shirakami_Fubuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Shirakami_Fubuki_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Shirakami_Fubuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Shirakami_Fubuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Shirakami_Fubuki_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Shirakami_Fubuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Shirakami_Fubuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Shirakami_Fubuki_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Shirakami_Fubuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Shirakami_Fubuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Shirakami_Fubuki_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Shirakami_Fubuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Shirakami_Fubuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Shirakami_Fubuki_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Shirakami_Fubuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Shirakami_Fubuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Shirakami_Fubuki_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Shirakami_Fubuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Shirakami_Fubuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Shirakami_Fubuki_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Shirakami_Fubuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Shirakami_Fubuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Shirakami_Fubuki_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Shirakami_Fubuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Shirakami_Fubuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Shirakami_Fubuki_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Shirakami_Fubuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Shirakami_Fubuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Shirakami_Fubuki_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shirakami_Fubuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shirakami_Fubuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shirakami_Fubuki_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Shirakami_Fubuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Shirakami_Fubuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Shirakami_Fubuki_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Shirakami_Fubuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Shirakami_Fubuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Shirakami_Fubuki_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Shirakami_Fubuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Shirakami_Fubuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Shirakami_Fubuki_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Shirakami_Fubuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Shirakami_Fubuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Shirakami_Fubuki_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Shirakami_Fubuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Shirakami_Fubuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Shirakami_Fubuki_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Shirakami_Fubuki_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Shirakami_Fubuki_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Shirakami_Fubuki_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Shirakami_Fubuki_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Shirakami_Fubuki_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Shirakami_Fubuki_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Shirakami_Fubuki_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Shirakami_Fubuki_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Shirakami_Fubuki_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Beachside Fox",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "沙滩之狐",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ビーチのキツネ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/00/Shirakami_FubukiSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/26/Shirakami_FubukiSummerChibi.png",
+      "shipDescription": [
+        "锵锵~是Hololive Summer Ver的白上吹雪哦！指挥官请多指教狐狸！",
+        "じゃじゃーん、ホロライブサマーバージョンの「白上フブキ」でーす！指揮官さんよろしくきーつね",
+        "Tada~! It's your favorite Shirakami Fubuki, Hololive Summer version! Commander, pleased to be your fox!"
+      ],
+      "acquisition": [
+        "锵锵~是Hololive Summer Ver的白上吹雪哦！指挥官请多指教狐狸！",
+        "じゃじゃーん、ホロライブサマーバージョンの「白上フブキ」でーす！指揮官さんよろしくきーつね",
+        "Tada~! It's your favorite Shirakami Fubuki, Hololive Summer version! Commander, pleased to be your fox!"
+      ],
+      "login": [
+        "说到大海自然就想到泳装！是在Summer Ver下变得有点开放的吹雪哦~",
+        "海といえば水着！サマーバージョンでちょっとだけ開放的なフブキですよー。",
+        "It's not a trip to the ocean without... swimsuits! The summery, slightly liberated version of Fubuki is here~!"
+      ],
+      "details": [
+        "难得穿上了泳装，不去海边吗？啊哇哇哇…不是那种意思，只是想要为演习帮点忙而已啦",
+        "せっかく水着ですし、海でも行きませんか？わわわ…っ、そういう意味じゃなくて、演習をお手伝いしてほしいなーって。",
+        "Since I went through all the effort of putting a swimsuit on, why don't we head down into the water? Woahh... that's not what I meant! I just wanted to help out a little with the exercises…"
+      ],
+      "secretaryIdle1": [
+        "盯……指挥官，用有点奇怪的眼神看我了吧…？不行哦！",
+        "ジー・・・、指揮官さん、私のこと変な目で見てませんか・・・？メッですよ！",
+        "*stare*... Commander, are you ogling me...? That's no good!"
+      ],
+      "secretaryIdle2": [
+        "还有许多其他伙伴都穿着泳装呢，看来这边一年到头，都可以去海边玩呢",
+        "他にも水着の方がいっぱいいらっしゃるんですが、こっちの世界では、一年中海水浴ができるんですね。",
+        "I see a lot of my friends in swimsuits as well. Looks like over here, you can play on the beach all year long."
+      ],
+      "secretaryIdle3": [
+        "有点害羞，请不要一直盯着看…",
+        "恥ずかしいから、あまり見ないでくださいー",
+        "It's a little embarrassing.. so please stop staring at me so much."
+      ],
+      "secretarySpecialTouch": [
+        "这里也不可以乱碰啦！",
+        "こっちも触っちゃダメですぅー！",
+        "You're not allowed to touch right there either!"
+      ],
+      "affinityLove": [
+        "作为对一直以来都很努力的指挥官的奖励，偶尔穿着泳装和指挥官出去也不是不行呢。真的只是偶尔而已哦",
+        "いつも頑張ってる指揮官さんへのご褒美に、たまには水着で一緒にお出かけしてもいいんですよ。本当にたまーにだけですからね。",
+        "I'm okay with putting on my swimsuit and going out with you every once in a while, Commander, as a special treat. But only sometimes."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Shirakami_Fubuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Shirakami_Fubuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Shirakami_Fubuki_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Shirakami_Fubuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Shirakami_Fubuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Shirakami_Fubuki_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Shirakami_Fubuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Shirakami_Fubuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Shirakami_Fubuki_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Shirakami_Fubuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Shirakami_Fubuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Shirakami_Fubuki_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Shirakami_Fubuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Shirakami_Fubuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Shirakami_Fubuki_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Shirakami_Fubuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Shirakami_Fubuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Shirakami_Fubuki_SecIdle3Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Shirakami_Fubuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Shirakami_Fubuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Shirakami_Fubuki_Sec2Skin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Shirakami_Fubuki_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Shirakami_Fubuki_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Shirakami_Fubuki_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

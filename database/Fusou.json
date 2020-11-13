@@ -1,0 +1,954 @@
+{
+  "name": "Fusou",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Fusou",
+  "ID": "208",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": true,
+  "artist": "Rain Lan",
+  "pixiv": "https://www.pixiv.net/member.php?id=2922722",
+  "twitter": "https://twitter.com/h49889577",
+  "link": "https://weibo.com/u/2120756483",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ami_Koshimizu",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      6916,
+      138,
+      13,
+      390,
+      0,
+      31,
+      23,
+      222,
+      0,
+      13,
+      66,
+      0,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      7266,
+      134,
+      13,
+      390,
+      0,
+      31,
+      23,
+      303,
+      202,
+      13,
+      77,
+      0,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      6261,
+      118,
+      13,
+      352,
+      0,
+      13,
+      23,
+      268,
+      151,
+      13,
+      63,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5911,
+      120,
+      13,
+      349,
+      0,
+      13,
+      23,
+      193,
+      0,
+      13,
+      52,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1143,
+      51,
+      13,
+      74,
+      0,
+      5,
+      23,
+      41,
+      0,
+      4,
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130% → 165%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 80% → 85%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 11,
+  "maxLimitBreakTechPoints": 22,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Reload  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    61,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    1
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Cover Fire; CN: 火力覆盖 JP: 砲火制圧",
+  "skill1Description": "Increase own Firepower by 10% (20%).",
+  "skill2Name": "(Retrofit) Aviation Preparations; CN: 航空预备 JP: 予備攻撃隊",
+  "skill2Description": "Once per battle, when launching the first airstrike: perform an additional aerial machine-gun barrage (damage increases with skill level).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c6/Fusou.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a8/FusouChibi.png",
+      "shipDescription": [
+        "扶桑级战列舰一番舰—扶桑",
+        "扶桑型戦艦一番艦・扶桑",
+        "First ship of the Fusou-class battleships, Fusou."
+      ],
+      "selfIntroduction": [
+        "我是重樱的第一艘超弩级战舰扶桑，为了祓除从诞生时就缠绕我与妹妹身上的厄运而一直向神明祈祷，当然，我自己也有在努力，唯有莱特湾时的悲剧我绝不会让它在我和妹妹身上重演，要是能得到殿下的帮助就再好不过了",
+        "重桜最初の超弩級戦艦、扶桑です。生まれついた厄（わざわい）を祓うため、妹と同じく日々神々に祈りを捧げ、厄に負けぬよう精進してまいりました。レイテ沖のあの悲劇だけは絶対に二度と起こさせません。どうかどうか指揮官様からもお力添えいただければ幸いです",
+        "I am the Sakura Empire's first super-dreadnought, Fusou. In order to cleanse ourselves of the misfortune we were born with, my sister and I offer prayers to the gods every day. We will do whatever it takes to prevent another tragedy like Leyte Gulf from befalling us again. Milord, we would be most grateful should you lend us your aid."
+      ],
+      "acquisition": [
+        "初次见面，您就是指挥官殿下吧，扶桑已经等候多时了~这也是神明的指引，从今往后，还请多多指教",
+        "お初にお目にかかります。あなたは指揮官様でいらっしゃいますね？はい、扶桑ずっとお待ちしておりました。これも何かのお導きです。今後ともよろしくお願い申し上げます。",
+        "It is an honor to meet you. Milord, you must be the commander. I, Fusou, have been waiting a long time for you. Surely, this is also the guidance of the gods. From now on, please allow me to serve youI"
+      ],
+      "login": [
+        "殿下，欢迎回来~来占卜一下接下来的运势吗？",
+        "指揮官様、おかえりなさいませ。一つお神籤でもいかがでしょうか？",
+        "Welcome back, Milord. Would you like to have your fortune told?"
+      ],
+      "details": [
+        "殿下，要一起喝杯茶吗？",
+        "指揮官様、一緒にお茶でもいかがですか？",
+        "Milord, shall we have tea together?"
+      ],
+      "secretaryIdle1": [
+        "即使是不幸的命运，只要努力也是能够改变的，所以向神明祈祷的同时自己也不能懈怠……我是这么认为的",
+        "不幸な運命は努力で変えられます。神々に祈りを捧げると同時に、自身の鍛錬も怠るわけにはいかないと……",
+        "I believe that we can change our misfortunes, as long as we work hard and pray..."
+      ],
+      "secretaryIdle2": [
+        "只要山城那孩子能够茁壮成长，我就心满意足了",
+        "山城さえ何事もなく育っていれば満足です",
+        "I'll be happy as long as Yamashiro has a chance to grow up."
+      ],
+      "secretaryIdle3": [
+        "我的主炮因为是火力特化型的，发射时的反作用力总是让身体晃得很厉害，稍微有些困扰……",
+        "この主砲は火力に特化したもので、発射すると、いつも身体がすごく揺れてしまい…ちょっと困ります",
+        "My main gun specializes in heavy firepower, but is enough to shake my entire body! It can cause me some trouble, every now and then..."
+      ],
+      "secretaryTouch": [
+        "殿下，请过来躺好，我来为您掏耳朵",
+        "指揮官様？こちらにおいでくださいませ、お耳掃除させていただきますね",
+        "Milord, please rest your head here and allow me to clean your ears."
+      ],
+      "secretarySpecialTouch": [
+        "殿下，这样是不洁的！",
+        "あの、これは…！",
+        "M-milord... this is improper..."
+      ],
+      "task": [
+        "殿下，发布了新的任务，请确认一下吧",
+        "新しい任務が通達されました。ご確認いただけますか？",
+        "Milord, a new mission is available. Please take a look."
+      ],
+      "taskComplete": [
+        "殿下，不领取奖励可不是好习惯哦",
+        "報酬を放置するのはよくありませんよ",
+        "Milord, not claiming your rewards is a bad habit."
+      ],
+      "mail": [
+        "有新的信件，殿下，请过目",
+        "新しいお手紙です。指揮官様、ご確認を",
+        "You have a new letter, milord. Please give it a look."
+      ],
+      "returnFromMission": [
+        "殿下，您辛苦了，请来扶桑这里好好休息一下吧",
+        "指揮官様、お疲れ様でございます。扶桑のところでごゆっくりお休みくださいませ。",
+        "You've worked hard, Milord. Why don't you come to me and take a rest?"
+      ],
+      "commission": [
+        "殿下，委托组的姐妹们已经回来了，一起去迎接她们吗？",
+        "委託組の子たちが戻りました。一緒に出迎えにいきませんか？",
+        "Milord, your girls have returned from commission. Shall we welcome them back together?"
+      ],
+      "strengthening": [
+        "这样就能多为殿下出力了",
+        "これでもっと力になれます。",
+        "Now, I can be of greater service to Milord."
+      ],
+      "startingMission": [
+        "挡在殿下面前的话，我是不会留手的",
+        "立ちはだかるものには容赦しません！",
+        "Milord, those who stand in your way shall find no mercy by my hand."
+      ],
+      "mvp": [
+        "愿你们魂归故土，不在这海上游荡",
+        "そなたたちの魂に故郷の安らぎがあらんこと…",
+        "May thy lost souls return home in peace."
+      ],
+      "defeat": [
+        "糟了，难道说弹药库又被诅咒了！？",
+        "これは……弾薬庫がまた呪いを受けてましたの？",
+        "Oh no... has my ammunition storage been cursed again?"
+      ],
+      "skillActivation": [
+        "请赐祓除，请赐清净！",
+        "祓い給い、清め給え！",
+        "Grant them peace and purity!"
+      ],
+      "lowHP": [
+        "神明们，请保佑我们……！",
+        "神さま、私達をお守りください……！",
+        "Gods, please protect us…!"
+      ],
+      "affinityDisappointed": [
+        "殿下是祸津日神的化身吗……！",
+        "指揮官様はマガツカミの化身ですか……！",
+        "Milord, might you be the reincarnation of a god of calamity?"
+      ],
+      "affinityStranger": [
+        "殿下对重樱的八百万神灵感兴趣吗？呵呵，即使没有兴趣也没有关系，我会连同您的份一起向神明祈祷的",
+        "指揮官様は重桜の神々にご興味がおありですか？うふふ、ご興味がおありでなくも結構ですよ。私、指揮官様の分も合わせて神々に祈りを捧げて参ります",
+        "Milord, are you interested in the eight million gods of the Sakura Empire? It is fine if you aren't... I shall offer them your share of prayers."
+      ],
+      "affinityFriendly": [
+        "殿下最近有些疲惫呢，过度工作可不是好习惯，请来我这边，我为您做一些能消除疲劳的仪式吧",
+        "指揮官様は最近お疲れのようですね…仕事のし過ぎはお体によくありません。疲れた身体をお祓いいたしますので、こちらにおいでください",
+        "Milord, you seem exhausted as of late. Too much work is bad for your health. Please come with me, and allow me to purify you of your fatigue."
+      ],
+      "affinityLike": [
+        "神乐？那是用在神明之前的舞蹈……对了，那我为殿下跳一支里神乐吧~不过要是被其他姐妹看到会很害羞的，请不要告诉其他人，当做我和殿下两个人的秘密可以吗？",
+        "神楽ですか？あれは神前に捧げる舞ですが……そうですね、では指揮官様のために巫女舞の一つでも、いかがでしょう。他のみんなに見られると恥ずかしいので、ご内密に、どうか二人だけのヒミツということで…",
+        "Kagura? That is a dance dedicated to the gods... Ah, why don't I perform just for you, milord? I would be embarrassed if others found out, so please keep it a secret between us, all right?"
+      ],
+      "affinityLove": [
+        "殿下，您知道吗？重樱的巫女虽然是侍奉神明之身，不过本身并没有恋爱方面的禁令，不如说为了神社的继承，巫女有时候还要努力地寻找夫婿呢……不知道殿下……意下如何呢？",
+        "ご存知ですか？実は重桜の巫女たちは神を奉る身ではあるものの、色事に関する制限が特にございません。むしろ、お社を継ぐ方を探すためにも、夫探しに励むことも……指揮官様は私のこと...どうお思いですか？",
+        "Milord, did you know that although a miko of the Sakura Empire must dedicate herself to the gods, she is not actually forbidden from romance? As a matter of fact, she is encouraged to find a husband in order to pass down traditions. Milord, what do you think about me?"
+      ],
+      "pledge": [
+        "……愿如高砂之同根松，如大椿之八千年般，门楣广大，家名高响，有奋发图强之志。谨以拜言，诚惶诚恐——这样我与殿下就是一心同体了……小女子不才，从今往后也请多多指教",
+        "高砂の尾上の松の相生に立並びつつ玉椿八千代を掛けて、家門広く、家名高く、弥立栄えしめ給へと、恐み恐みも白すーーこれで私と指揮官様とは一心同体……不束者ですが、よろしくお願いします。",
+        "May our love last as long as the Great Pines in Takasago and the eternal Tsubaki. May we bring glory to our family, our name heard across the land. These words are said with my highest respect. With this, Milord, you and I become one. Though I may be inexperienced, let us care for and love each other for the rest of eternity."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Yamashiro) 山城，不要离姐姐太远",
+        "(Sortie with Yamashiro) 山城、あまり離れすぎないでね？",
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官様、バレンタインチョコをどうぞ。巫女の身ですが、妹に進められてたまには舶来の祭りにも参加してみましたけど…いかがかしら？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "指揮官様、今年のチョコレートです。私、こういうのを作るのにはちょっと不慣れで、春月ちゃんと宵月ちゃんたちにも手伝ってもらって、なんとか作れましたけど…受け取っていただけますか？",
+        "Commander, please accept this Valentine's chocolate. Even though I am a shrine maiden, my sister encouraged me to participate in a Western tradition... What do you think of it?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I wish you a blessed Valentine's Day, milord. It may just be a little thing I bought from the procurement department, but I think this will please milord better... will you accept this chocolate?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Fusou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Fusou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Fusou_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Fusou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Fusou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Fusou_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Fusou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Fusou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Fusou_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Fusou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Fusou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Fusou_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Fusou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Fusou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Fusou_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Fusou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Fusou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Fusou_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Fusou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Fusou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Fusou_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Fusou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Fusou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Fusou_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Fusou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Fusou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Fusou_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Fusou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Fusou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Fusou_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Fusou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Fusou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Fusou_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Fusou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Fusou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Fusou_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Fusou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Fusou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Fusou_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Fusou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Fusou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Fusou_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Fusou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Fusou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Fusou_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Fusou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Fusou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Fusou_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Fusou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Fusou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Fusou_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Fusou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Fusou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Fusou_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Fusou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Fusou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Fusou_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Fusou_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Fusou_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Fusou_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Fusou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Fusou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Fusou_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Fusou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Fusou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Fusou_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Fusou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Fusou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Fusou_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Fusou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Fusou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Fusou_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Fusou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Fusou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Fusou_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Fusou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Fusou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Fusou_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Fusou_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Fusou_Extra1JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b1/FusouKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/05/FusouKaiChibi.png",
+      "shipDescription": [
+        "殿下，谢谢你哦~不只是改造，还有许多许多事。嘻嘻，我和山城能遇到殿下真是太好了呢",
+        "指揮官様、ありがとうございます～ううん、改造だけでなく、色々感謝したいですよ。うふふ、扶桑も山城も、指揮官様に出会えて本当によかったと思っていますよ",
+        "Milord! Thank you~ Not just for the retrofit, but for many many things. Hehe, it was the greatest of fortune for me and Yamashiro to meet you."
+      ],
+      "acquisition": [
+        "殿下，谢谢你哦~不只是改造，还有许多许多事。嘻嘻，我和山城能遇到殿下真是太好了呢",
+        "指揮官様、ありがとうございます～ううん、改造だけでなく、色々感謝してるんですよ。うふふ、扶桑も山城も、指揮官様に出会えて本当によかったと思っていますよ",
+        "Milord! Thank you~ Not just for the retrofit, but for many many things. Hehe, it was the greatest of fortune for me and Yamashiro to meet you."
+      ],
+      "login": [
+        "殿下，欢迎回来~占卜显示，今天会有好事发生哦~",
+        "指揮官様、おかえりなさいませ。おみくじでは「今日良いことが起きる」とのことですよ",
+        "Milord, welcome back~ The profits show that today good things will happen~"
+      ],
+      "details": [
+        "其实我有好多想尝试的事呢，比如像山城那样活蹦乱跳的……欸，杀伤力太大？",
+        "試してみたいことはいっぱいありますね。例えば山城のようにぴょんぴょんっと……えっ、「刺激的すぎる」…ですか？",
+        "I actually got a lot of things that I want to try, such as be as lively as Yamashiro... hmm, is that too much?"
+      ],
+      "secretaryIdle1": [
+        "变得活泼了……吗？嘻嘻，那一定是殿下的功劳哦",
+        "「扶桑が前向きになった」…ですか？……ふふ、きっと指揮官様のおかげですよ",
+        "Becoming more… lively? Hehe, that must be merrited by Milord."
+      ],
+      "secretaryIdle2": [
+        "感觉……厄运虽然还是存在，但是和殿下在一起，就会被幸福感冲散呢",
+        "まだ悪運に憑りつかれている感じがしますけど、指揮官様と一緒なら、悪運だって幸せによって薄められますよね",
+        "I feel… that bad luck still exists, but being together with you, Milord, has washed away all my bad luck."
+      ],
+      "secretaryIdle3": [
+        "山城总是让我也去寻找幸福，不过我觉得我已经找到了呢~",
+        "山城から「姉さまには幸せになってほしい」とよく言われますけど、扶桑はもう幸せになっていますよ。うふふ",
+        "Yamashiro always tells me to look for my own happiness, and I think I’ve finally found it~"
+      ],
+      "secretaryTouch": [
+        "殿下是喜欢端庄的扶桑呢，还是活泼的扶桑呢~",
+        "お淑やかな扶桑とお茶目な扶桑、どっちがお好みですか？",
+        "Milord, do you like the dignified Fusou or the livelier Fusou?"
+      ],
+      "task": [
+        "殿下，新的任务我也能一起去吗？",
+        "指揮官様、扶桑も新しい任務にご一緒してもいいですか？",
+        "Milord, can I also join you on this new mission?"
+      ],
+      "returnFromMission": [
+        "殿下，稍等一下，我做了很好吃的点心哦，这就端给你",
+        "指揮官様、少々お待ちいただけますでしょうか？実は美味しいお料理を作っておいたんです。今持ってきますね",
+        "Milord, please wait, I’ve made really delicious treats meant especially for you."
+      ],
+      "defeat": [
+        "呜……不行，不能把失败都归到诅咒上",
+        "くっ……呪いのせいにしては…ダメですっ！",
+        "Oh... no, we can’t blame all failures on our curse."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Fusou_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Fusou_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Fusou_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Fusou_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Fusou_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Fusou_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Fusou_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Fusou_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Fusou_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Fusou_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Fusou_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Fusou_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Fusou_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Fusou_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Fusou_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Fusou_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Fusou_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Fusou_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Fusou_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Fusou_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Fusou_Sec1Skin9JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Fusou_TaskSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Fusou_TaskSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Fusou_TaskSkin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Fusou_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Fusou_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Fusou_MissionFinSkin9JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Fusou_DefeatSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Fusou_DefeatSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Fusou_DefeatSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Celebration of Spring",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "春之祝",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "春の祝い",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 680",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/16/FusouSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/ce/FusouSpringChibi.png",
+      "shipDescription": [
+        "山城说总是穿巫女服太古板了，就给我找了一套新衣服，那孩子真是……殿下，您觉得……合身吗？",
+        "そろそろ姉さまにも新しい衣装を着てほしいって、山城が用意してくれた服です。もうあの子ったら……指揮官様？この装いは……私に似合っていますか？",
+        "Yamashiro's always saying that I would look better in more trendy clothing, so she went out of her way to pick this out for me. Jeez, that girl... Oh, Commander? Does this outfit... suit me?"
+      ],
+      "acquisition": [
+        "山城说总是穿巫女服太古板了，就给我找了一套新衣服，那孩子真是……殿下，您觉得……合身吗？",
+        "そろそろ姉さまにも新しい衣装を着てほしいって、山城が用意してくれた服です。もうあの子ったら……指揮官様？この装いは……私に似合っていますか？",
+        "Yamashiro's always saying that I would look better in more trendy clothing, so she went out of her way to pick this out for me. Jeez, that girl... Oh, Commander? Does this outfit... suit me?"
+      ],
+      "login": [
+        "殿下，最近的运势都是大吉哦，一定是神明大人也很高兴的缘故呢~",
+        "指揮官様の最近の運勢は上々ですね。きっとカミさまもお喜びになっているからですわ",
+        "Commander, your luck has been very good recently. Surely, it must be because the gods are also happy."
+      ],
+      "details": [
+        "殿下，要一起出门散步吗？",
+        "指揮官様、一緒にお散歩でもいかがですか？",
+        "Commander, would you like to accompany me for a stroll?"
+      ],
+      "secretaryIdle1": [
+        "殿下，要是下雪的话，就来我的伞下躲一躲吧~",
+        "指揮官様、雪が降ったら私の傘にお入りくださいませ",
+        "Commander, if it begins to snow, please take cover under my umbrella~"
+      ],
+      "secretaryIdle2": [
+        "下次也帮山城那孩子做一套衣服好了，殿下，您觉得什么款式比较好呢？",
+        "お返しに山城に服を作ってあげたほうがいいでしょうか……指揮官様、どんな服がよろしいですか？",
+        "Perhaps I should return the favor and make something for Yamashiro to wear... Commander, what kind of outfit do you think is best?"
+      ],
+      "secretaryIdle3": [
+        "能有现在这么幸福的时光，一定都是祈祷……不对，都是殿下的功劳吧",
+        "今のような幸せはきっとお祈り……ううん、指揮官様のおかげですね",
+        "The happiness we can enjoy right now is surely a blessing from the gods... No, it's because of your hard work, Commander."
+      ],
+      "secretaryTouch": [
+        "殿下，这是给您的礼物，是特意为殿下准备的~",
+        "このプレゼントは指揮官様のために用意したのですよ～",
+        "Commander, please accept this present. It was prepared specially for you."
+      ],
+      "secretarySpecialTouch": [
+        "殿下，就算是节日，这样也是不行的！",
+        "指揮官様？いくらお祝いの日でも、こういうことは…！",
+        "Commander? Even though it's a holiday, this kind of thing is...!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Fusou_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Fusou_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Fusou_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Fusou_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Fusou_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Fusou_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Fusou_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Fusou_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Fusou_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Fusou_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Fusou_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Fusou_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Fusou_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Fusou_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Fusou_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Fusou_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Fusou_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Fusou_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Fusou_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Fusou_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Fusou_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Fusou_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Fusou_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Fusou_Sec2Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Perfect Partner?",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "家有贤妻？",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "モフモフ内助？",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c6/FusouCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f0/FusouCasualChibi.png",
+      "shipDescription": [
+        "换上日常的居家服装，像这样全心全意等待着挂念的人回来…殿下，自从认识您之后，我也变了很多呢",
+        "こうして部屋着姿で気になる人を心待ちしているなんて…指揮官様と出会ってから、私も随分と変わりましたね。うふふ",
+        "Being able to wait for my beloved in this homely attire... Milord, my life has changed so much since meeting you. *giggles*"
+      ],
+      "acquisition": [
+        "换上日常的居家服装，像这样全心全意等待着挂念的人回来…殿下，自从认识您之后，我也变了很多呢",
+        "こうして部屋着姿で気になる人を心待ちしているなんて…指揮官様と出会ってから、私も随分と変わりましたね。うふふ",
+        "Being able to wait for my beloved in this homely attire... Milord, my life has changed so much since meeting you. *giggle*"
+      ],
+      "login": [
+        "殿下，我刚做了一些点心，要吃吗？",
+        "指揮官様。扶桑、お菓子を作りました。お召し上がりになりますか？",
+        "Milord, I just made some snacks. Would you like to try some?"
+      ],
+      "details": [
+        "和殿下一起的时候，感觉厄运都不翼而飞了…殿下，谢谢您",
+        "指揮官様と一緒にいると、悪運もどこかに飛んでいったような気がします…指揮官様、ありがとうございます",
+        "Milord, I feel my bad luck melting away when I am with you... Thank you very much."
+      ],
+      "secretaryIdle1": [
+        "糟、糟了，都这个时间了，和殿下一起时间过得太快了，都忘了要带山城去买东西的……",
+        "あ、やだ、もうこんな時間…指揮官様と一緒にいると時の流れが早いようで、山城と買い物にいく約束を忘れるところでした……",
+        "Ah... oh no, look at the time... Milord, time passes so quickly when I'm with you. I forgot that I was supposed to take Yamashiro shopping..."
+      ],
+      "secretaryIdle2": [
+        "殿下也会花牌吗？啊，是跟苍龙小姐那里学的吗？那…要不要一起来玩呢？",
+        "指揮官様も花札がわかりますか？蒼龍さんに教えてもらったのですか？じゃあ……一緒に遊びませんか？",
+        "Milord, do you know how to play Hanafuda cards? Ah, was it Souryuu who taught you how to play? Um, in that case... shall we play together?"
+      ],
+      "secretaryIdle3": [
+        "殿下，刚晒好的被子味道很好闻呢，晚上用这个被子好好睡一觉会很舒服哦？",
+        "指揮官様、干した布団はいい匂いがしますね。これで寝るときっと気持ちよく眠れますよ",
+        "Milord, the freshly washed blankets sure smell nice. Surely, they'll also be very comfortable to sleep on."
+      ],
+      "secretaryTouch": [
+        "诶，一起出门？真的可以吗？那……我有很多想和殿下一起去的地方呢，呵呵…",
+        "一緒にお出かけですか？いいんですか？そうですね……私も指揮官様と一緒に行きたい場所がいっぱいありますよ。ふふふ",
+        "You'd like to take me out? Are you sure? Um, in that case... there are a lot of places I'd like to go with you. Ehehe~"
+      ],
+      "secretarySpecialTouch": [
+        "殿、殿下…",
+        "し、指揮官様……",
+        "M-Milord..."
+      ],
+      "task": [
+        "殿下，该去完成任务了呢，我会陪着您的",
+        "指揮官様、任務をこなす時間ですよ。扶桑もご一緒します",
+        "Milord, I believe it's time to complete your missions. I shall accompany you."
+      ],
+      "mail": [
+        "殿下，我把您的信件带过来了呢",
+        "指揮官様、メールを持ってまいりました",
+        "Milord, I have brought the mail."
+      ],
+      "returnFromMission": [
+        "殿下……刚才的战斗一定很辛苦吧？嗯嗯，请在这边躺下好好休息一番吧（拍拍）",
+        "指揮官様、さっきの戦闘は大変だったでしょう？ええ、こちらで横になって、お休みになってくださいね",
+        "Milord, the last battle must have been very strenuous, yes? In that case, please come lie down and rest for a while."
+      ],
+      "mvp": [
+        "和殿下共处的时光，是我最珍贵的宝物",
+        "指揮官様とともにいる時間は大切な宝物です",
+        "Milord, I treasure the time I spend with you above all else."
+      ],
+      "affinityDisappointed": [
+        "殿下，是对我厌倦了吗…？",
+        "指揮官様、扶桑のことをお嫌いになったのでしょうか…",
+        "Milord, have you grown tired of me...?"
+      ],
+      "affinityStranger": [
+        "“约会”这个词真是不可思议呢，即使已经习惯了和殿下相处，也会因为这个词雀跃不已……",
+        "「デート」という言葉は不思議ですね。指揮官様と知り合って久しいのに、この言葉を聞くと胸がドキドキして…",
+        "\"Dating\" is such an incredible word. Milord, even though I've become accustomed to living with you, my heart skips a beat every time I hear that word..."
+      ],
+      "affinityLike": [
+        "殿下，我有一个小小的请求，说出来您不要笑哦？我一直很羡慕明石那样在您的怀里撒娇呢，但总是不好意思开口，所以……",
+        "指揮官様、一つお願いが…聞いても笑わないでくださいね？じ、実は明石ちゃんのように指揮官の胸の中で甘えるのに憧れていますが、中々こう…口にすることができなくて……ええと……",
+        "Milord, I have a small request... but please promise not to laugh. I've always been jealous of the way Akashi jumps into your arms like a spoiled child, but... it's a bit embarrassing to ask... so, um..."
+      ],
+      "affinityLove": [
+        "像这样和殿下两个人一起生活，总觉得就像是夫妇一样……啊，不，我、我刚才什么都没说！",
+        "指揮官様とこうして毎日を過ごしていると、なんだかふ、ふうふっぽくて……い、いえ、なんでもありませんっ！",
+        "Milord, being able to spend every day with you like this makes it almost feel like we're a married couple... Ah, um, please forget I said anything!"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +100 ",
+      "materials": "2x BattleshipT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x BattleshipT1BP ",
+      "coinCost": 300,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x BattleshipT1BP ",
+      "coinCost": 400,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "3x BattleshipT1BP ",
+      "coinCost": 500,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x BattleshipT1BP ",
+      "coinCost": 600,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "4x BattleshipT1BP ",
+      "coinCost": 800,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +100 / Health +150 ",
+      "materials": "1 / 2x BattleshipT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Main Gun Improvement Ⅱ",
+      "attributes": "Equip 1 Efficiency +5.0% / Equip 1 Efficiency +5.0% ",
+      "materials": "2 / 2x BattleshipT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Firepower Enhancement Ⅱ",
+      "attributes": "Firepower +5 / Firepower +15 ",
+      "materials": "2 / 2x BattleshipT2BP ",
+      "coinCost": 1400,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "H"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Modernization",
+      "attributes": "Change Ship Type into Aviation battleship (BBV) Category:Aviation battleships<br>Firepower -26, Reload -8, Anti-air +60, Aviation+131<br>Main Gun Efficiency +20%, Main Gun Mount Firepower -1 <br>Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes and Air Attack becomes available)<br>Unlock Skill \"Air Reserve\" ",
+      "materials": "3x BattleshipT3BP and 60x PlaneT3Plate ",
+      "coinCost": 5000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Aviation Enhancement Ⅰ",
+      "attributes": "Aviation +20 ",
+      "materials": "2x CarrierT3BP ",
+      "coinCost": 1600,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "F",
+        "J"
+      ]
+    }
+  ]
+}

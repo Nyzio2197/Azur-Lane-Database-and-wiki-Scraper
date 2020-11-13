@@ -1,0 +1,1570 @@
+{
+  "name": "Z23",
+  "constructionTime": "00:33:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Type 1936A",
+  "ID": "236",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://www.imdb.com/name/nm11062264/",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2125,
+      199,
+      65,
+      120,
+      327,
+      157,
+      42,
+      150,
+      0,
+      9,
+      175,
+      201,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      2290,
+      199,
+      65,
+      170,
+      347,
+      162,
+      42,
+      215,
+      0,
+      9,
+      175,
+      221,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1951,
+      173,
+      65,
+      154,
+      309,
+      157,
+      42,
+      196,
+      0,
+      9,
+      167,
+      201,
+      0,
+      0
+    ],
+    "Level 100": [
+      1786,
+      173,
+      65,
+      104,
+      289,
+      152,
+      42,
+      131,
+      0,
+      9,
+      167,
+      181,
+      0,
+      0
+    ],
+    "Base Stats": [
+      345,
+      73,
+      65,
+      22,
+      61,
+      58,
+      42,
+      28,
+      0,
+      2,
+      64,
+      49,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "140% → 160% → 175%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "115% → 120% → 120%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 85%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Destroyer (DD) Firepower  +1",
+  "level120TechPoints": 20,
+  "enhancementValue": [
+    7,
+    20,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Iron Blood Vanguard; CN: 铁血先锋 JP: 鉄血先鋭",
+  "skill1Description": "When firing main gun, 5% chance to increase own Firepower by 30% (60%) for 8 seconds.",
+  "skill2Name": "(Retrofit) Destruction Mode; CN: 毁灭模式 JP: 重装形態",
+  "skill2Description": "Every 20 seconds, 40% (70%) chance to release a powerful barrage and spawn 2 rotating shields that can block 5 enemy shells each while launching a wave of 4 slow homing torpedoes; own main gun's critical rate becomes 100% for 10 seconds.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-Z23 JP: 特殊弾幕-Z23",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Z23 I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/07/Z23.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d3/Z23Chibi.png",
+      "shipDescription": [
+        "1936A “纳尔维克”型驱逐舰—Z23",
+        "1936A型「ナルヴィク」駆逐艦・Z23",
+        "Type 1336A destroyer, Z23."
+      ],
+      "selfIntroduction": [
+        "我是1936A型驱逐舰的大姐，Z23，从我开始的妹妹们都只有代号，不像姐姐们有继承前人的名字。 虽然有些不近人情不过确实比较方便，所以请不要客气直接叫我Z23就好",
+        "1936A型駆逐艦の長女Z23です。わたしの妹たちは番号だけで、姉たちのように先人からの襲名はありません。 あまり親切ではないけれど、便利だと思います。遠慮なさらずにZ23と呼んでください",
+        "I’m Z23, the eldest sister of the 1936A-class destroyers. Unlike my sisters before me, who all had a namesake, my younger sisters and I only had a serial code for our names. It might be a little cold and impersonal, but I believe it’s also more convenient. So please, feel free to call me Z23."
+      ],
+      "acquisition": [
+        "Guten Tag，指挥官阁下。 我是Z23，让我们共同学习，一起向顶点前进吧",
+        "Guten Tag、指揮官閣下。Z23と申します。 一緒に勉強して頂点を目指しましょう！",
+        "Guten Tag, Commander. I am Z23. Let’s study hard together and aim for the top!"
+      ],
+      "login": [
+        "今天还有好多事情要做呢，可不要偷懒哦",
+        "今日はやることがいっぱいありますから、サボってはダメですよ",
+        "There's still quite a lot to be done today. No procrastinating!"
+      ],
+      "details": [
+        "比起看我，不如多看看书啦！我也是会害羞的嘛……（小声）",
+        "わたしを見る時間がありましたら、より字の本を読んだほうがいいですよ！わたしだって恥ずかしがったりはするもん……",
+        "If you have the time to stare at me, shouldn’t you go back to your studies? Even I... can get embarrassed..."
+      ],
+      "secretaryIdle1": [
+        "不用担心，我的话，指挥官有这份心就够了",
+        "心配する必要はありません。指揮官にその心があれば十分ですから",
+        "Don’t worry, Commander. The fact that you care about me is enough."
+      ],
+      "secretaryIdle2": [
+        "给指挥官准备什么点心好呢……最近好像也挺累的，稍微给他按摩一下吧……",
+        "指揮官になにを用意すればいいだろう……最近疲れているようだしマッサージとか……",
+        "I wonder if there’s something I can do for you, Commander. You seem tired lately, so maybe a massage would be good?"
+      ],
+      "secretaryIdle3": [
+        "嗯嗯，指挥官只要用心的话还是办得到的呢",
+        "うんうん、指揮官もやればできる子ですね",
+        "See, Commander? You can do it if you set your mind to it!"
+      ],
+      "secretaryIdle4": [
+        "欸？我负责的部分？啊，啊哈哈……糟了，真的忘了……",
+        "え？わたしの担当ですか？あ、あははは……しまった、忘れてた…",
+        "Huh? What am I in charge of? A-ahaha... I, uh... forgot..."
+      ],
+      "secretaryIdle5": [
+        "摸头？哦，你是说这个动作吧？",
+        "ナデナデ？あ、これのことですね？",
+        "Headpat? You mean like this...?"
+      ],
+      "secretaryTouch": [
+        "有这个时间多处理些公文如何？",
+        "暇でしたら書類の処理でもしたらどうです？",
+        "If you’re free, why not help with some paperwork?"
+      ],
+      "secretarySpecialTouch": [
+        "这可不是指挥官应有的行为哦",
+        "これは指揮官のすべきことじゃありませんよ？",
+        "This isn’t something a commander should be doing..."
+      ],
+      "secretaryHeadpat": [
+        "我可不是那种被摸摸头就可以蒙混过去的女孩子哦，指挥官，请好好工作",
+        "頭撫でるだけでごまかせる子じゃないです！指揮官、ちゃんと仕事してくださいね！",
+        "I’m not the kind of girl who you can fool with just a few headpats. Get back to work, Commander."
+      ],
+      "task": [
+        "完成任务是熟练技巧的好途径哦，不要忘了",
+        "技術を習熟するには任務をこなすことがすごく役に立ちます。忘れないで下さいね",
+        "Completing missions is a great way to hone your skills. Don't ever forget that!"
+      ],
+      "taskComplete": [
+        "任务奖励发放了喔",
+        "任務の報酬が届きましたよ",
+        "Commander, the mission rewards have arrived."
+      ],
+      "mail": [
+        "有你的信，指挥官意外地挺受欢迎嘛",
+        "メールです。指揮官は意外と人気者ですね",
+        "There’s mail for you, Commander. You sure are popular."
+      ],
+      "returnFromMission": [
+        "刚才的战斗还有许多要检讨的地方呢……",
+        "今の戦闘、反省するところが多いですね…",
+        "We still have so much to review about the previous battle..."
+      ],
+      "commission": [
+        "时间到了，工作先放一放，去检查委托成果吧",
+        "時間になりました。お仕事を一旦止めて、委託の戦果を確認しましょう",
+        "It’s about time! Please put aside your work, and check on the results of your commissions."
+      ],
+      "strengthening": [
+        "指挥官，我希望能跟你一起进步",
+        "指揮官と、一緒に上に行きたいです！",
+        "Commander, I hope that we'll improve, together!"
+      ],
+      "startingMission": [
+        "走吧，到了检验努力成果的时候了！",
+        "よし、努力の成果を試す時です！",
+        "Let’s go! It’s time to reap the rewards of our hard work!"
+      ],
+      "mvp": [
+        "战斗就像是考试，第一就意味着高分哟~",
+        "戦闘は試験と同じ、戦果一位を取るのはすなわちいい成績を取るものですよ~",
+        "Battles are like exams. Earning MVP is like getting the top score on a test."
+      ],
+      "defeat": [
+        "呜……不行，我不能哭……",
+        "うぅ…だめ、まだ泣いちゃ…！",
+        "*sobs* ... No, I mustn’t cry..."
+      ],
+      "skillActivation": [
+        "命中吧！",
+        "当たれ！",
+        "Take this!"
+      ],
+      "lowHP": [
+        "我得想想办法……",
+        "対策を考えないと……",
+        "I've got to find a way out of this mess..."
+      ],
+      "affinityDisappointed": [
+        "指挥官，我要学习了，能不要打扰我吗？",
+        "指揮官、今勉強中です。邪魔しないでいただけます？",
+        "Commander, can you not bother me when I’m trying to study?"
+      ],
+      "affinityStranger": [
+        "学习是很重要的喔，伟人说过：“知识就是力量”……法国就是培根？真是的，再耍小聪明我可要生气了哦",
+        "勉強は大切ですよ。「知識は力なり」と偉人の方が仰っていました……フランスといえばベーコン？ったく、もう何を言ってるんですか",
+        "Studying is important! A wise man once said, \"knowledge is power.\" ... France is bacon? Jeez... just what is going through that head of yours?"
+      ],
+      "affinityFriendly": [
+        "有点累了吗，嗯，休息也是很重要的。膝枕？真是没办法，就一会儿喔",
+        "疲れましたか？はい、休憩も大切です。膝枕ですか？しょうがない、少しだけですよ？",
+        "You’re a bit tired? Very well, getting rest is important. You want a lap pillow? I guess it’s fine... just for a little while..."
+      ],
+      "affinityLike": [
+        "指挥官，看着我干什么……认真的我很漂亮？笨，笨蛋，做自己的事去啦！",
+        "指揮官、なんで私を見るんですか……？真剣な表情が綺麗？ば、ばかぁ！自分のことでもしてよ～！",
+        "Commander, why are you staring at me? You think I’m pretty when I look serious? I-idiot! Go do your own work..."
+      ],
+      "affinityLove": [
+        "指挥官，你知道吗，人站得越高，看得越远，也会变得更冷……我希望指挥官你能登上高峰，但我也希望你在那时能和现在一样每天过得开心",
+        "指揮官は知っていますか？高いところに立っていれば遠くが見えるけど、より孤独を感じることを……指揮官には高いところを目指してほしいですけど、その時にも今のように毎日楽しんでいて貰いたいです",
+        "Commander, did you know that the higher you stand, the further you can see, but also the lonelier you will be? I hope that you can rise to great heights one day, but still be as happy then as you are now."
+      ],
+      "pledge": [
+        "这就是指挥官对我的认可……我明白了，我Z23从今往后也会一直陪在指挥官你的身边，为你能够正确又愉快的生活努力的",
+        "これが指揮官が認めてくれた証……分かりました。Z23はこれからも指揮官のそばにいて、正しく楽しく生きていくように努力します！",
+        "This is the proof that Commander acknowledges me... Understood. From now on, I shall stay by your side and work hard to ensure that your life is happy and upstanding."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Z25) Z25，一起加油吧！",
+        "(Sortie with Z25) 25、一緒に頑張ろう！",
+        "(Sortie with Z25) Z25, let's do our best together!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、いつもありがとうございます！この艦隊は指揮官のおかげでここまで大きくなりました！これからもみんなと一緒に頑張りましょう！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "指揮官、いつもお疲れ様です！ケルンさんとグラーフ・ツェッペリンさんと一緒に、参考書を調べて鉄血式のチョコレートを作りました！食べてください！",
+        "Commander, thank you for everything you've done for us! It is only because of you that the fleet has grown to what it is today. Let's all continue to work hard together!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, great work this year as well! Please enjoy this chocolate! It's the end result of looking into different ways of making chocolate together with Ayanami. While it's not on the same level as always being alert on the battlefield, I think it's important to always be ready to study and learn more!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Z23_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Z23_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Z23_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Z23_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Z23_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Z23_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Z23_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Z23_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Z23_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Z23_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Z23_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Z23_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Z23_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Z23_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Z23_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z23_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z23_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z23_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Z23_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Z23_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Z23_SecIdle3JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Z23_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Z23_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Z23_SecIdle4JP.ogg"
+      ],
+      "secretaryIdle5Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z23_SecIdle5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z23_SecIdle5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z23_SecIdle5JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Z23_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Z23_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Z23_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Z23_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Z23_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Z23_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Z23_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Z23_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Z23_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Z23_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Z23_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Z23_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Z23_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Z23_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Z23_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z23_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z23_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Z23_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Z23_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Z23_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Z23_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Z23_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Z23_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Z23_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Z23_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Z23_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Z23_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Z23_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Z23_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Z23_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Z23_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Z23_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Z23_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Z23_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Z23_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Z23_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Z23_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Z23_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Z23_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z23_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z23_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z23_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Z23_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Z23_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Z23_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Z23_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Z23_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Z23_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Z23_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Z23_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Z23_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Z23_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Z23_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Z23_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Z23_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Z23_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Z23_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Z23_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Z23_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Z23_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Z23_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Z23_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Z23_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f4/Z23Kai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png",
+      "shipDescription": [
+        "既然能力提升了，效率也要提升，公文也好，作战计划也好，尽管来吧！指挥官，做好心理准备，接下来会很忙哦~",
+        "性能の向上はすなわち、業務効率の上昇です！さあ、文書の処理でも、作戦計画の立案でも、なんでも任せてください！指揮官、これからはどんどん忙しくなりますから、覚悟をしていてくださいね",
+        "My efficiency should be upgraded along with my performance. Paperwork, battle plans... I can handle them all! Commander, be prepared, we’ll be very busy~"
+      ],
+      "acquisition": [
+        "既然能力提升了，效率也要提升，公文也好，作战计划也好，尽管来吧！指挥官，做好心理准备，接下来会很忙哦~",
+        "性能の向上はすなわち、業務効率の上昇です！さあ、文書の処理でも、作戦計画の立案でも、なんでも任せてください！指揮官、これからはどんどん忙しくなりますから、覚悟をしていてくださいね",
+        "My efficiency should be upgraded along with my performance. Paperwork, battle plans... I can handle them all! Commander, be prepared, we’ll be very busy~"
+      ],
+      "login": [
+        "指挥官，打起精神，投入紧张的工作中吧",
+        "指揮官、しっかりしてください。これからお仕事ですよ",
+        "Commander, look alive, let’s make a greater effort on our attacks."
+      ],
+      "details": [
+        "嗯，这样就完成得差不多了…好，去找标枪她们玩——欸，指、指挥官？！咳咳，正好，这里有一些文件……",
+        "これでよし、と…うん、そろそろジャベリンたちに会いに――え、し、指揮官！？コホン！ちょうどいいです！確認してほしい書類が……",
+        "Ok, just little bit more and the retrofit will be complete... let’s go find Javelin and play with them—— Hey, *points*, it’s the Commander?! *Cough*, great timing, here are some documents..."
+      ],
+      "secretaryIdle3": [
+        "俯瞰战场的战术，纵观全局的战略……除此之外！知道自己在为什么而战也是很重要的哟",
+        "戦場を見渡す戦術、大局を見る戦略……のほかに！何のために戦っているかを知ることも大事ですよ",
+        null
+      ],
+      "secretaryIdle4": [
+        "指挥官，休息够了的话，就开始处理这座公文山吧",
+        "指揮官、休憩が済んだら、引き続きこの文書の山の対応に励みましょう",
+        "Once we complete today’s mission, then come back and confirm our schedule for sorties over the next few days, there are still many things left to do."
+      ],
+      "secretaryIdle5": [
+        "今天的任务完成了的话，就来确认一下接下来几天的日程吧，事情还多的是呢",
+        "今日の任務完了しました？これからの数日間のスケジュールを確認しましょう。やることはいっぱいありますよ",
+        null
+      ],
+      "secretaryTouch": [
+        "指挥官，战场上气势也是很重要的哦，来，跟我一起练习出击姿势吧！",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，做好在禁闭室办公的准备了吗？",
+        "指揮官、独房で仕事をする準備は出来ていますよね…？",
+        "Commander, are you prepared to work in a lockdown environment?"
+      ],
+      "mvp": [
+        "很好，大家再接再厉！",
+        "よし！次もがんばりましょう！",
+        "Well done, let’s keep this up, everyone!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Z23_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Z23_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Z23_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Z23_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Z23_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Z23_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Z23_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Z23_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Z23_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Z23_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Z23_SecIdle3Skin9JP.ogg",
+        null
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Z23_SecIdle4Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Z23_SecIdle4Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Z23_SecIdle4Skin9JP.ogg"
+      ],
+      "secretaryIdle5Url": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Z23_SecIdle5Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Z23_SecIdle5Skin9JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Z23_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Z23_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Z23_Sec2Skin9JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Z23_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Z23_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Z23_MVPSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Schwarze Hochzeit",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "黑曜的嫁衣",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ハイラーテンシュヴァルツ",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/Z23Wedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/34/Z23WeddingChibi.png",
+      "shipDescription": [
+        "呼…让你久等了。挑选衣服花费了不少时间，因为每一件都很好看……那个，这件感觉怎么样？",
+        "ふぅ…おまたせしました。どの衣装もすごく素敵ですから、準備するのはちょっと時間がかかりまして……あ、あの……この衣装はいかがですか？",
+        "Whew... Sorry to keep you waiting. I was having a hard time deciding which outfit to wear... Ah, um... how do I look?"
+      ],
+      "acquisition": [
+        "呼…让你久等了。挑选衣服花费了不少时间，因为每一件都很好看……那个，这件感觉怎么样？",
+        "ふぅ…おまたせしました。どの衣装もすごく素敵ですから、準備するのはちょっと時間がかかりまして……あ、あの……この衣装はいかがですか？",
+        "Whew... Sorry to keep you waiting. I was having a hard time deciding which outfit to wear... Ah, um... how do I look?"
+      ],
+      "login": [
+        "指挥官，给你做的东西有好好吃掉吗？嗯嗯，好孩子好孩子~",
+        "指揮官、この間作った料理、ちゃんと食べてくれましたか？うんうん、いい子いい子～",
+        "Commander, did you make sure to eat the meal I made for you? Mmhmm, good, good~"
+      ],
+      "details": [
+        "真是的，你这样一直看着我，我要怎么静下心来看书啦…",
+        "指揮官、そんなにじっと見つめられては本も落ち着いて読めないですっ！もう……///",
+        "Commander, I can't concentrate on my reading if you're staring at me like that! Gosh..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，我在旁边看书，有事叫我哦？为了不被你抛下，我也要努力才行呢",
+        "指揮官、ここで読書していますから、なにかありましたら声をかけてください。指揮官に相応しい子でいられるよう、常に勉強しないと",
+        "Commander, I'll be here reading, so just call my name if something happens. I have to study hard so that I can keep up with you!"
+      ],
+      "secretaryIdle2": [
+        "指挥官努力工作的样子…真帅呢…啊，咳咳，我什么都没说！你要吃点什么吗，指挥官？",
+        "指揮官が真面目に頑張っている姿、なんだか格好よくて…こ、コホン！なんでもありませんっ！それよりなにか軽く食べませんか？",
+        "You look so cool and hardworking like that... Uh, ahem! Disregard that! A-anyway, would you like a light snack?"
+      ],
+      "secretaryIdle3": [
+        "怎么样才能让指挥官更有效率更舒适地工作呢…嗯，真是个复杂的课题呢，不过值得挑战！",
+        "どうやったら指揮官が効率よく、気分良く執務できるか…うん、難しそうな課題だけど、挑戦してみる価値はあるわ！",
+        "How to help the Commander work more efficiently and comfortably... Hmm, it'll be quite the challenge, but well worth it!"
+      ],
+      "secretaryTouch": [
+        "是是是，我的婚纱很好看，好了，快点继续工作！真的是，让人拿你没办法呢……",
+        "はいはい、この姿がカワイイのは分かりましたから早く仕事に戻ってください！もう、しょうがない指揮官ですね……",
+        "Yes, yes, I know I look cute in this outfit, so hurry up and get back to work! Jeez, what am I to do with you, Commander..."
+      ],
+      "secretarySpecialTouch": [
+        "现在还在工作中啦，这种事留到下班再说！真是的，就算是我也……咳咳，没什么！",
+        "こういうのは執務中ではなく、せめて仕事が上がってからにしてください！（小声）もう、いくら私だって……な、なんでもありませんっ！",
+        "Wait, if you're going to do this kind of stuff, at least save it for after work! Even if I like... I mean, err, d-disregard what I just said!"
+      ],
+      "returnFromMission": [
+        "嗯…作战还有许多要检讨的地方呢…不过首先，你没事就好。",
+        "うん…この作戦、やっぱり検討すべきことがいっぱいありましたね…指揮官が無事でなによりです",
+        "Mm... there really was a lot to consider on that last operation... but most importantly, I'm glad you're safe, Commander."
+      ],
+      "mvp": [
+        "指挥官老师，我刚才的战斗能打几分呢？噗，开玩笑的~",
+        "「いまの戦闘、何点でしたか？指揮官せんせー」――ふふ、冗談ですよ",
+        "Instructor, how many points did my combat performance score? ...Heheh, just kidding~"
+      ],
+      "defeat": [
+        "指挥官，我没事…回去之后要加倍训练了呢",
+        "だ、大丈夫です…帰ったらもっと訓練しないと…",
+        "I-I'm all right... but I'll have to train more after we get back..."
+      ],
+      "affinityLove": [
+        "无论指挥官选择什么样的目标，无论是在高峰还是在半途，无论喜怒哀乐，我都会陪伴在你的身边，绝对不会让你感到孤单的。",
+        "指揮官が目指す先がどんなところだろうと、うれしい時でも悲しい時でも、私はずっと側にいます。うん、一人には絶対にしませんから",
+        "Commander, no matter what destination you're aiming for, I'll be with you every step of the way, whether you're at the summit or just setting out, through both joys and disappointments. Mhm, you'll never be alone again, I swear it."
+      ]
+    },
+    {
+      "ENClientName": "Philosophy Sensei",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "哲学讲师",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "哲学講師",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Class Z-23 Sensei - Complete the event tasks",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e1/Z23Bilibili.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/89/Z23BilibiliChibi.png",
+      "shipDescription": [
+        "这里是重点！（敲黑板）不乖乖记笔记的话，Z23老师就要惩罚你了哦！",
+        "ここは重点です！ちゃんとメモ取らないと、ニーミ先生が宿題を増やしますよ！",
+        "This is going to be on the exam! If you don't take thorough notes, I am going to punish you!"
+      ],
+      "acquisition": [
+        "这里是重点！（敲黑板）不乖乖记笔记的话，Z23老师就要惩罚你了哦！",
+        "ここは重点です！ちゃんとメモを取らないとニーミ先生が宿題を増やしますよ！",
+        "This is going to be on the exam! If you don't take thorough notes, I am going to punish you!"
+      ],
+      "details": [
+        "都记住了吗？这些内容之后会出测验哦？不及格的话——",
+        "覚えました？これあとでテストに出ますよ？合格出来なければ――",
+        "Have you memorized this? This part's going to show up on the test. If you don't pass, you'll..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，之前讲的海域情报没有忘吧，我来考考你怎么样？",
+        "指揮官、この前に説明しました海域情報はまだ覚えていますか？……質問しますよ？",
+        "Commander, do you remember the naval intelligence I explained to you earlier? ... I'm asking you a question here..."
+      ],
+      "secretaryIdle2": [
+        "等会儿一起吃点什么吧，我请客，也算是对指挥官你辛苦一天的犒劳",
+        "あとで何か食べましょうか。私の驕りで。指揮官が一日頑張ったことへのご褒美も兼ねて",
+        "Afterwards, let's get something to eat. It's on me. Consider it a reward for all your hard work today."
+      ],
+      "secretaryIdle3": [
+        null,
+        null,
+        "Commander, pain is temporary. Victory is forever."
+      ],
+      "secretaryIdle5": [
+        "为了最终的胜利，一时的辛苦是必要的哦，指挥官",
+        "指揮官、最後の勝利のため、一時的な苦労も必要ですよ。",
+        null
+      ],
+      "secretaryTouch": [
+        "有不懂的地方要马上问哦",
+        "わからないところがあったらいつでも聞いてください",
+        "If there's a part you don't understand, speak up and ask."
+      ],
+      "secretarySpecialTouch": [
+        "对、对老师恶作剧是不行的！(///",
+        "せ、先生にイタズラしちゃダメですっ！///",
+        "P-playing pranks on your instructor is prohibited! *blushes*"
+      ],
+      "secretaryHeadpat": [
+        "之前分析的内容有派上用场吧？",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        null,
+        "この前分析したもの、役に立ちましたよね？",
+        "What we analyzed earlier sure came in handy!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Z23_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Z23_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Z23_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Z23_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Z23_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Z23_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Z23_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Z23_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Z23_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Z23_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Z23_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Z23_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle5Url": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Z23_SecIdle5Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Z23_SecIdle5Skin1JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Z23_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Z23_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Z23_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Z23_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Z23_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Z23_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        null,
+        "https://azurlane.koumakan.jp/w/images/c/c4/Z23_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Z23_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Breezy Doubles",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "非正式沙滩排球赛",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ツーマンセルマッチ！",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/81/Z23Summer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fa/Z23SummerChibi.png",
+      "shipDescription": [
+        "嘿~！柚，进攻就交给你了！—呼…指挥官，有好好计分了吗？就算是非正式的沙滩排球比赛，裁判成天发呆也是不行的哦？",
+        "はあああ！綾波、次は任せるよ！――って指揮官！ちゃんとポイント集計してます？ちゃんとした試合ではなくても、そこでぼーっとしてはいけませんよ？",
+        "Haiyaaah! It's up to you, Ayanami! Oh, Commander! Are you actually keeping score? We might not be having a serious match, but that's no excuse for you to stand around and do nothing."
+      ],
+      "acquisition": [
+        "嘿~！柚，进攻就交给你了！—呼…指挥官，有好好计分了吗？就算是非正式的沙滩排球比赛，裁判成天发呆也是不行的哦？",
+        "はあああ！綾波、次は任せるよ！――って指揮官！ちゃんとポイント集計してます？ちゃんとした試合ではなくても、そこでぼーっとしてはいけませんよ？",
+        "Haiyaaah! It's up to you, Ayanami! Oh, Commander! Are you actually keeping score? We might not be having a serious match, but that's no excuse for you to stand around and do nothing."
+      ],
+      "login": [
+        "今天是个适合运动的好天气呢，指挥官",
+        "運動にはいい日ですね！指揮官",
+        "What a great day for exercise it is today, Commander!"
+      ],
+      "details": [
+        "欸？被可爱的泳装吸引了注意力所以忽略了球？真、真是的，都在干什么啊指挥官！",
+        "み、水着姿に見とれてボールを見ていなかった？！なにをしているんですか…もう！",
+        "Y-you were too enraptured by my swimsuit to keep track of the ball?! Come on, please focus, Commander! Geez..."
+      ],
+      "secretaryIdle1": [
+        "标枪的便当真美味呀~下次再跟她请教下做法好了",
+        "ジャベリンのお弁当、美味しそうですね！うん、今度は私も作り方を教えてもらおう！",
+        "Javelin's boxed lunches look really good! I should ask her to teach me how to make them like she does!"
+      ],
+      "secretaryIdle2": [
+        "拉菲？快醒醒！呜…究竟是怎么办到一边打瞌睡一边打排球的…",
+        "ラフィー？ラフィー！起きて！もう、ビーチバレーをやりながらどうやったら寝られるの！",
+        "Laffey? Laffey! Wake up! Good grief, how do you manage to fall asleep while playing volleyball?!"
+      ],
+      "secretaryIdle3": [
+        "不管怎么说，今年也算是在海边留下难忘的回忆了呢，指挥官",
+        "今年も海辺で思い出を作りましたね！指揮官！",
+        "Another year, another unforgettable visit to the beach! Right, Commander?"
+      ],
+      "secretaryTouch": [
+        "啊，指挥官小心！——哦哦…漂亮的接球！抱、抱歉，不小心打歪了…",
+        "あ、指揮官危ない！――な、ナイスキャッチ…すみません、ボールを変な方向に飛ばしちゃいました……",
+        "Oops! Look out, Commander...! Oh, nice catch. Sorry about that, I bounced the ball at an odd angle..."
+      ],
+      "secretarySpecialTouch": [
+        "你、你在做什么啊！？",
+        "な、何をやっているんですか？！",
+        "Wh-what do you think you're doing?!"
+      ],
+      "startingMission": [
+        "无论比赛还是战斗，都不会轻易输掉的！",
+        "試合でも戦いでも、負けるわけにはいきません！",
+        "Be it ballgames or combat, I won't let anyone beat me!"
+      ],
+      "defeat": [
+        "呜…还要多加练习才行…",
+        "うぅ…もっと練習しないと……",
+        "Darn... I need more practice..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z23_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z23_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z23_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Z23_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Z23_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Z23_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Z23_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Z23_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Z23_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Z23_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Z23_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Z23_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Z23_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Z23_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Z23_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z23_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z23_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z23_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Z23_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Z23_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Z23_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Z23_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Z23_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Z23_Sec2Skin2JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Z23_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Z23_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Z23_MissionStartSkin2JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Z23_DefeatSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Z23_DefeatSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Z23_DefeatSkin2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Perfect Smile?",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "标准笑容？",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "マニュアルスタイル",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c1/Z23CoCo.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/39/Z23CoCoChibi.png",
+      "shipDescription": [
+        "欢迎光临，请问客人只有一位吗？……那个，指挥官，我的笑容看起来应该不算僵硬……吧？",
+        "いらっしゃいませ、お一人様ですか？……ええと、指揮官、今の笑顔は固くないですよね…？",
+        "Welcome! A table for one today? Um... Commander, my smile doesn’t look stiff... right?"
+      ],
+      "acquisition": [
+        "欢迎光临，请问客人只有一位吗？……那个，指挥官，我的笑容看起来应该不算僵硬……吧？",
+        "いらっしゃいませ、お一人様ですか？……ええと、指揮官、今の笑顔は固くないですよね…？",
+        "Welcome! A table for one today? Um... Commander, my smile doesn’t look stiff... right?"
+      ],
+      "login": [
+        "啊……指挥官，欢迎光临！",
+        "あっ、指揮官…い、いらっしゃいませ！",
+        "Ah... Commander, please come in!"
+      ],
+      "details": [
+        "呼……保持笑容可真是一件麻烦的事情，感觉嘴角都僵了……",
+        "ふぅ……笑顔でいつづけるのは疲れますね…なんだか口元もしびれてきました……",
+        "Ugh... how am I supposed to keep smiling all day long? My jaw's gone stiff already..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，不要总是盯着……啊，笑容笑容……咳咳！请问您要点些什么呢？",
+        "指揮官、あまりジロジロ見ては……ダメ、笑顔笑顔……こ、コホン！ご注文はなんですか？",
+        "Commander, it's not polite to stare... oh! Smiling, I'm smiling... *cough cough*! What can I get for you?"
+      ],
+      "secretaryIdle2": [
+        "如果您要点这份套餐的话，这里推荐再点一份这个或者这个，会有一个不错的折扣哦？",
+        "こちらのメニューを注文されるのでしたら、こちらとご一緒に注文されることをおすすめします。割引になってお得ですよ",
+        "So if you order this set, you can choose from one of these, or these. Not a bad deal, eh?"
+      ],
+      "secretaryIdle3": [
+        "唔，趁这个机会，或许学习一下厨艺是个不错的选择呢……啊，抱歉，这是您的餐点~",
+        "このお仕事で料理も勉強したほうがいいよね……あっ、すみません、ご注文のものはこちらになります！",
+        "Hmm... I should really take this opportunity to learn some new recipes. Oh, sorry, this is your menu~"
+      ],
+      "secretaryTouch": [
+        "指挥官，不要随便和我搭话，会影响工作的",
+        "指揮官、あまり話しかけないでください。お仕事の邪魔ですからっ",
+        "Commander, you can't just chat with me while I'm on duty. I've got work to do."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，再影响我工作可要请你出去了哦！",
+        "指揮官…これ以上邪魔したら出ていってもらいますよ！",
+        "Commander, if you get in my way again I'll have to ask you to leave!"
+      ],
+      "returnFromMission": [
+        "指挥官，今天的推荐菜单是这些哦~",
+        "指揮官、今日のオススメはこちらになります",
+        "Please, have a look at today's specials, Commander."
+      ],
+      "affinityLove": [
+        "呼，当服务员可真是一件辛苦的事……不过，总算是有些收获呢。嘻嘻，指挥官，你看……这个笑容，是不是比之前自然许多呢？",
+        "ふぅ、お仕事はなかなか大変ですね……でも、いい勉強になりました！指揮官、ほら、この笑顔、前よりずっといい感じになっていませんか？",
+        "*Sigh* Being a waitress is a brutal job... but, there are some upsides. Hehe, Commander, what do you think...? Does my smile look a bit more natural now?"
+      ]
+    },
+    {
+      "ENClientName": "The Banquet's Honor Student",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "宴会上的优等生",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "麗しきアーベントクライト",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/de/Z23Party.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5a/Z23PartyChibi.png",
+      "shipDescription": [
+        "咦，指挥官，晚上好。我正在找标枪她们……那个，不介意的话，一起在会场里走一走如何？",
+        "あっ、指揮官、こんばんは。今ジャベリンたちと……あの、もしよかったらパーティー会場で一緒に歩きませんか？",
+        "Oh, good evening, Commander. I was just looking for Javelin and the others... Say, would you like to keep me company for a bit?"
+      ],
+      "acquisition": [
+        "咦，指挥官，晚上好。我正在找标枪她们……那个，不介意的话，一起在会场里走一走如何？",
+        "あっ、指揮官、こんばんは。今ジャベリンたちと……あの、もしよかったらパーティー会場で一緒に歩きませんか？",
+        "Oh, good evening, Commander. I was just looking for Javelin and the others... Say, would you like to keep me company for a bit?"
+      ],
+      "login": [
+        "指挥官，在宴会里过得愉快吗？",
+        "指揮官、パーティーを楽しんでいますか？",
+        "Are you enjoying the party, Commander?"
+      ],
+      "details": [
+        "我的笑容变多了吗？嗯……那一定是因为，指挥官逐渐变得可靠了吧",
+        "最近笑顔が多くなった理由、ですか？……指揮官が頼れるようになったからではないでしょうか",
+        "I've been smiling a lot more lately? ... Well, that's because you've gotten so much more respectable."
+      ],
+      "secretaryIdle1": [
+        "看着大家的笑容，我总会想，我们真的一步一步努力到了今天呢。是吧，指挥官？",
+        "みんなの笑顔を見ると、今日まで頑張ってきた実感がわきますね。指揮官、そうですよね？",
+        "When I see everyone's smiling faces, I can't help but think about all the hard work that got us here. How about you, Commander?"
+      ],
+      "secretaryIdle2": [
+        "拉菲、标枪、还有柚……呵呵，一开始，谁会想到，我们四个会成为形影不离的好朋友呢？",
+        "ラフィーとジャベリン、そして綾波……私たち四人がいつも一緒にいるような友だちになるなんて思いもしませんでしたね",
+        "The four of us: Laffey, Javelin, Ayanami, and I... Who would have thought we'd all become such good friends?"
+      ],
+      "secretaryIdle3": [
+        "酒？这里面装的可是橙汁哦，指挥官",
+        "お酒、ですか？ううん、指揮官、これはオレンジジュースですよ？",
+        "Champagne? Oh, heavens no, Commander! This is just sparkling orange juice."
+      ],
+      "secretaryTouch": [
+        "欸？跳舞？……糟、糟了，我完全没有想过这个状况……指挥官，你可以现场教我吗？",
+        "だ、ダンスですか！？……し、しまった、こうなるのを想定していなかった……指揮官、このまま教えてもらいながらや、やってもいいですか…？",
+        "D-D-Dance?! ... Oh my, I never thought it might come to this... Commander, can you teach me how to do it...?"
+      ],
+      "task": [
+        "指挥官，今天的话，可以稍微把任务放一放哦",
+        "指揮官、今日ぐらいは任務を少し後回しにしてもいいですよ",
+        "Just for today, Commander, I don't mind you putting off your missions for a while."
+      ],
+      "taskComplete": [
+        "这些是……不愧是指挥官呢",
+        "これは……さすが指揮官です！",
+        "This is... exactly what I'd expect from my Commander."
+      ],
+      "mail": [
+        "收到了这么多邀请，指挥官，真受欢迎呢",
+        "招待状がこれほどまで……指揮官はすごく歓迎されていますね。ふふふ",
+        "Look how many invitations you've gotten, Commander. Aren't you popular? Hehehe."
+      ],
+      "returnFromMission": [
+        "指挥官，今天稍微放松一些也没关系哦？",
+        "指揮官、今日ぐらいは少し楽にしても大丈夫ですよ？",
+        "Commander, you don't mind if I cut a bit loose today, do you?"
+      ],
+      "mvp": [
+        "今天的我，可是状态绝佳哦",
+        "今日の私は絶好調ですよ！",
+        "I'm doing splendidly today."
+      ],
+      "defeat": [
+        "没办法……不是很想弄脏礼服呢",
+        "仕方ないですね……ドレスを汚したくありませんし…",
+        "What can I do? ... I don't want to get my dress dirty."
+      ],
+      "affinityLove": [
+        "说起来，指挥官，虽然平时，我很少去关注这方面，但是，今晚，在你的面前，我果然还是想要知道，那个，就是……在你的眼中，我漂亮吗？",
+        "そ、そういえば指揮官！わたしはこういうのには疎いと自覚がありますけど、ええと、つまりその、きょ、今日のわたしのこの格好は、指揮官からしてはですね、その、き、キレイ……ですか？",
+        "Erm, well, Commander! I don't usually think about things like this but, you know, tonight, I'm wondering, Commander, when I'm all dressed up like this, do you think I'm... well... pretty?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Z23_IntroSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Z23_IntroSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Z23_IntroSkin4JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z23_LogSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z23_LogSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z23_LogSkin4JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Z23_DetailsSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Z23_DetailsSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Z23_DetailsSkin4JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Z23_SecIdle1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Z23_SecIdle1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Z23_SecIdle1Skin4JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Z23_SecIdle2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Z23_SecIdle2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Z23_SecIdle2Skin4JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Z23_SecIdle3Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Z23_SecIdle3Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Z23_SecIdle3Skin4JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Z23_Sec1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Z23_Sec1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Z23_Sec1Skin4JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Z23_TaskSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Z23_TaskSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Z23_TaskSkin4JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z23_TaskCSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z23_TaskCSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z23_TaskCSkin4JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Z23_MailSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Z23_MailSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Z23_MailSkin4JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z23_MissionFinSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z23_MissionFinSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z23_MissionFinSkin4JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Z23_MVPSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Z23_MVPSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Z23_MVPSkin4JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Z23_DefeatSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Z23_DefeatSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Z23_DefeatSkin4JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Z23_Affinity4Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Z23_Affinity4Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Z23_Affinity4Skin4JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Café Trainee @New Base",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "新设基地・茶店体验",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "新設基地・体験喫茶制服",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 6 bonus",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f6/Z23Bluray.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3f/Z23BlurayChibi.png",
+      "shipDescription": [
+        "欢迎光临！一名客人…指挥官？！啊，唔，这个是重樱的喫茶店服务生体验活动…所以才换上这身…你觉得…怎么样？",
+        "いらっしゃいませ！おひとりさま……指揮官？！あっ、ええと、これは重桜の喫茶店の店員体験イベントで…この格好、どうですか？",
+        "Hi, welcome! How may I serve y– It's you, Commander?! Err, well, I'm working as a trainee at this Sakura Empire-style café, you see... What do you think of this outfit?"
+      ],
+      "acquisition": [
+        "欢迎光临！一名客人…指挥官？！啊，唔，这个是重樱的喫茶店服务生体验活动…所以才换上这身…你觉得…怎么样？",
+        "いらっしゃいませ！おひとりさま……指揮官？！あっ、ええと、これは重桜の喫茶店の店員体験イベントで…この格好、どうですか？",
+        "Hi, welcome! How may I serve y– It's you, Commander?! Err, well, I'm working as a trainee at this Sakura Empire-style café, you see... What do you think of this outfit?"
+      ],
+      "login": [
+        "指挥官，想要来点什么呢？",
+        "指揮官、ご注文はいかがですか？",
+        "What would you like to order, Commander?"
+      ],
+      "details": [
+        "欧根小姐，又在调戏店员了…呜呜，胃好疼",
+        "オイゲンさん、また店員さんをからかったり変なところを触ろうとしたりしていますね…うぅ、胃が痛いかも…",
+        "Eugen is going around teasing and feeling up the café employees again... Ugh, it's giving me an upset stomach..."
+      ],
+      "secretaryIdle1": [
+        "梅好像很紧张呢…我得想想办法……",
+        "初春、すごく緊張していますね…なにかいい方法は……",
+        "Hatsuharu looks extremely nervous... Maybe there's a way to soothe her..."
+      ],
+      "secretaryIdle2": [
+        "棭？怎么了？额，烧水壶？…啊糟糕！忘记了！",
+        "夕暮？なに？やかん？…しまった！忘れてた！",
+        "What's up, Yuugure? The kettle? Oh shoot! I totally forgot!"
+      ],
+      "secretaryIdle3": [
+        "在店里请保持安静！…真是的，椿她们为什么能总是这么闹腾呢…",
+        "お店では静かにしてください！…もう夕立たち、なんでいつも騒がしいのですか…",
+        "Please try to keep quiet in the store! Why do Yuudachi and her friends always need to cause such a commotion..."
+      ],
+      "secretaryTouch": [
+        "要续杯茶水是吗。请稍等！",
+        "お茶のおかわりですね。かしこまりました！",
+        "More tea, you say? Coming right up!"
+      ],
+      "secretarySpecialTouch": [
+        "请不要学欧根小姐的行为啦！",
+        "オイゲンさんの真似をしないでください！",
+        "Please, don't try to imitate Eugen's bad behavior!"
+      ],
+      "mail": [
+        "非常感谢！帮大忙了！指挥官，你的信！",
+        "ありがとうニコ！助かったよ！指揮官、お手紙です！",
+        "Thanks for the help, Zweifunf! Here, Commander, a letter for you!"
+      ],
+      "returnFromMission": [
+        "重樱的点心有许多是用蒸的呢…学到了…",
+        "重桜のお菓子は蒸して作るものが多いですね…勉強になります…",
+        "Many of the Sakura Empire's sweets are made through steaming... That's very interesting."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Z23_IntroSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Z23_IntroSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Z23_IntroSkin5JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Z23_LogSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Z23_LogSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Z23_LogSkin5JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Z23_DetailsSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Z23_DetailsSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Z23_DetailsSkin5JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Z23_SecIdle1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Z23_SecIdle1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Z23_SecIdle1Skin5JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Z23_SecIdle2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Z23_SecIdle2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Z23_SecIdle2Skin5JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Z23_SecIdle3Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Z23_SecIdle3Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Z23_SecIdle3Skin5JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Z23_Sec1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Z23_Sec1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Z23_Sec1Skin5JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Z23_Sec2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Z23_Sec2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Z23_Sec2Skin5JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Z23_MailSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Z23_MailSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Z23_MailSkin5JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Z23_MissionFinSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Z23_MissionFinSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Z23_MissionFinSkin5JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Serious Idol @Acting Manager?!",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "正经偶像·经纪人担当？",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "真面目アイドル・マネージャー兼任!?",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f6/Z23Idol.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ae/Z23IdolChibi.png",
+      "shipDescription": [
+        "真是的，标枪还好，拉菲和柚这两个人做偶像根本让人放心不下。没有办法，只好由我来帮她们规划了…啊，指挥官，也请不要忘记支持我哦？",
+        "ジャベリンはいいけど、ラフィーと綾波がアイドルをやるなんてすごく心配ですから、私が面倒を見るしかないですね…あっ、指揮官、私への応援もわ、忘れないでくださいっ！",
+        "Jeez... Javelin's got what it takes, but I'm really concerned about Laffey and Ayanami. Oh well, I guess it's up to me to manage them... Commander, please don't forget to support me too."
+      ],
+      "acquisition": [
+        "真是的，标枪还好，拉菲和柚这两个人做偶像根本让人放心不下。没有办法，只好由我来帮她们规划了…啊，指挥官，也请不要忘记支持我哦？",
+        "ジャベリンはいいけど、ラフィーと綾波がアイドルをやるなんてすごく心配ですから、私が面倒を見るしかないですね…あっ、指揮官、私への応援もわ、忘れないでくださいっ！",
+        "Jeez... Javelin's got what it takes, but I'm really concerned about Laffey and Ayanami. Oh well, I guess it's up to me to manage them... Commander, please don't forget to support me too."
+      ],
+      "login": [
+        "既然要做，就要做到最好！目标是，top idol！",
+        "やるからには頂点を目指しましょう！目標、トップアイドル！",
+        "If you're going to do something, you've got to do it right! I'm aiming for the top!"
+      ],
+      "details": [
+        "我并不讨厌一边做经纪人一边做偶像的感觉呢，不如说，或许这样才适合我也说不定",
+        "アイドルをやりながら、マネージャーのような立場でもある感じは嫌いじゃありません。むしろ私、向いている気がします。ふふ",
+        "I don't mind balancing my work as both a manager and as an idol. As a matter of fact, I think I might actually be well suited to it."
+      ],
+      "secretaryIdle1": [
+        "拉菲今天我记得是有一个试镜，她人呢？…啊啊啊！不好意思，我有急事要先离开一下！",
+        "ラフィー、このあとオーディションがあるけど…ああもう！すみません、急用ができましたのでちょっと外します！",
+        "I just remembered, Laffey has an audition today... so where is she?! ...Gaaaah!! Sorry, I have something to attend to!"
+      ],
+      "secretaryIdle2": [
+        "……总觉得，最近拜托我来做经纪人的舰船多了起来，真是的，我也有很多偶像活动要做的啊！",
+        "……マネージャーのお仕事を頼まれるのは嬉しいですけど、私だってアイドルカツドウがありますよ！もう！",
+        "...Recently, more and more girls have been asking me to become their manager. Jeez, I have my own idol activities to take care of!"
+      ],
+      "secretaryIdle3": [
+        "指挥官，虽然用这样的企划来让大家享受生活是好事，不过，可不要忘记我们本来的职责哦",
+        "指揮官、この企画でみんなに楽しんでもらうのもいいですけど、私たちの本来の任務を覚えていてくださいね",
+        "Commander, I have no objections to your laissez-faire approach towards management, but don't lose sight of our responsibilities."
+      ],
+      "secretaryIdle4": [
+        "指挥官，我去参加今天的课程了，你也不要忘记完成任务哦？",
+        "指揮官、今日のレッスンに行ってきますから、任務をこなすのを忘れないでくださいね？",
+        "Commander, I'm heading off to lessons, so don't forget to finish your missions!"
+      ],
+      "secretaryTouch": [
+        "指挥官，你觉得，我应该向哪个方向发展比较好呢？",
+        "指揮官、私はどの路線で行けばいいでしょうか…？",
+        "Commander, which area should I improve on next?"
+      ],
+      "returnFromMission": [
+        "指挥官在努力工作，我也不能懈怠了",
+        "指揮官が頑張ってるし、私もしっかりしなきゃ…！",
+        "Commander, seeing you work so hard like this makes me realize, I can't slack off either!"
+      ],
+      "startingMission": [
+        "无论是战斗还是偶像，我都要做好！",
+        "戦闘でも、アイドルでも、上手にこなします！",
+        "Whether as an idol or as a warship, I'll be the best I can be!"
+      ],
+      "defeat": [
+        "呼，看来需要加倍努力了",
+        "うぅ…もっと頑張らないといけませんね…",
+        "Phew... I'll have to work even harder."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Z23_IntroSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Z23_IntroSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Z23_IntroSkin6JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Z23_LogSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Z23_LogSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Z23_LogSkin6JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Z23_DetailsSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Z23_DetailsSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Z23_DetailsSkin6JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Z23_SecIdle1Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Z23_SecIdle1Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Z23_SecIdle1Skin6JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Z23_SecIdle2Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Z23_SecIdle2Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Z23_SecIdle2Skin6JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Z23_SecIdle3Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Z23_SecIdle3Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Z23_SecIdle3Skin6JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Z23_SecIdle4Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Z23_SecIdle4Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Z23_SecIdle4Skin6JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Z23_Sec1Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Z23_Sec1Skin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Z23_Sec1Skin6JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Z23_MissionFinSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Z23_MissionFinSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Z23_MissionFinSkin6JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z23_MissionStartSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z23_MissionStartSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Z23_MissionStartSkin6JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Z23_DefeatSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Z23_DefeatSkin6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Z23_DefeatSkin6JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Eyecatch in the Rye?",
+      "ENClientAvailability": "Event Limited",
+      "obtainedFrom": "Z23’s Picture Report - Complete all the drawings",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/78/Z23Kinokuniya.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6b/Z23KinokuniyaChibi.png",
+      "shipDescription": [
+        null,
+        null,
+        "Commander, please help hold onto the ladder. I've almost got the book... Just a little more... All right... C-Commander?! Please don't look up!"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Evasion Enhancement (I)",
+      "attributes": "Evasion + 5 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement (I)",
+      "attributes": "Main Gun Efficiency + 5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement (II)",
+      "attributes": "Firepower + 5 / + 15 ",
+      "materials": "2x / 3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Improvement (II)",
+      "attributes": "Anti-Air Efficiency + 5% / + 5% ",
+      "materials": "1x / 2x DestroyerT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement (II)",
+      "attributes": "Anti-air + 15 / + 25 ",
+      "materials": "1x / 1x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health + 45 / + 75 ",
+      "materials": "2x / 3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Torpedo Enhancement (II)",
+      "attributes": "Torpedo + 5 / + 15 ",
+      "materials": "1x / 2x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Main Gun Improvement (II)",
+      "attributes": "Main Gun Efficiency + 5% / + 5% ",
+      "materials": "1 / 1x DestroyerT3BP ",
+      "coinCost": 2500,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Firepower Enhancement (III)",
+      "attributes": "Firepower + 5 / +10 / + 15 ",
+      "materials": "1 / 1 / 1x DestroyerT3BP and 5x / 10x / 15x GunT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 3,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air + 25, Anti-submarine warfare + 20 ",
+      "materials": "3x DestroyerT3BP and 1x Z23 or Universal Bulin ",
+      "coinCost": 4000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Destruction Mode\" ",
+      "materials": "2x DestroyerT3BP and 20x GunT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "K"
+      ]
+    }
+  ]
+}

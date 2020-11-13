@@ -1,0 +1,560 @@
+{
+  "name": "Astoria",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "New Orleans",
+  "ID": "046",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "Sky-FreeDom",
+  "pixiv": "https://www.pixiv.net/member.php?id=1017056",
+  "twitter": "https://twitter.com/sky_freedom_",
+  "link": "https://weibo.com/skyfreedom",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/d/d4/Astoria_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      3881,
+      161,
+      15,
+      218,
+      0,
+      57,
+      26,
+      226,
+      0,
+      11,
+      122,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3465,
+      140,
+      15,
+      190,
+      0,
+      24,
+      26,
+      196,
+      0,
+      11,
+      104,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      670,
+      59,
+      15,
+      40,
+      0,
+      9,
+      26,
+      42,
+      0,
+      3,
+      40,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "105% → 115%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "50% → 60%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 21,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Anti-air  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    22,
+    0,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Main Gun Mount +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Nasty Asty; CN: Nasty Asty JP: Nasty Asty",
+  "skill1Description": "When sortied with , increase Accuracy and Anti-Air by 5% (20%) and Firepower by 4% (10%) for all New Orleans-class cruisers.",
+  "skill2Name": "Protective Armor; CN: 防护装甲 JP: 防護装甲",
+  "skill2Description": "Reduce gun-based damage from enemy destroyers and light cruisers by 5% (20%).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ニューオーリンズ級",
+  "skill3Description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - New Orleans-Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d2/Astoria.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6b/AstoriaChibi.png",
+      "shipDescription": [
+        "新奥尔良级重巡洋舰——阿斯托利亚，舷号CA-34",
+        "ニューオリンズ級重巡洋艦――アストリア（CA-34）",
+        "New Orleans-class heavy cruiser – Astoria, hull number CA-34."
+      ],
+      "selfIntroduction": [
+        "嗨，我是阿斯托利亚，新奥尔良级的大姐~为什么不是命名舰？那个嘛……也发生了不少事呢，欸嘿嘿……不过对于做姐姐还是有经验的哦，指挥官愿意的话，尽管依靠我吧~",
+        "ちわーす、私はアストリア、ニューオリンズ級の一番長女~なんでネームシップじゃないかって？そりゃ……色々あったからね、えへへ……まあお姉ちゃんとしての心得はあるから、指揮官さえよければいっぱい私に頼っていいわよ~",
+        "Heyyo! I'm Astoria, the eldest sister of the New Orleans class! Why am I not the nameship? Um... it's kind of a long story, hehe... But that doesn't make me any less of a big sister. Commander, you can rely on me, that is if you want to~"
+      ],
+      "acquisition": [
+        "喽哈，指挥官~我是阿斯托利亚，新奥尔良级的姐·姐哦！有什么困扰的事情就来找我商量吧，我会好好听着的~",
+        "ちわーす！指揮官、私はアストリア、ニューオリンズ級のおねえちゃんだよ！困ったことあったら私に教えて~相談に乗るから~",
+        "Yo, Commander! I'm Astoria, eldest sister of the New Orleans-class! If you're ever having any troubles, you can always come talk to me~"
+      ],
+      "login": [
+        "指挥官，多依赖我一点也没关系哦~",
+        "指揮官、もっと私に頼っていいよ~",
+        "Commander, you can totally rely on me more!"
+      ],
+      "details": [
+        "喽哈，指挥官很闲嘛",
+        "ちわーす、指揮官暇そうだね~",
+        "Heyyo~ Commander, you look awfully bored~"
+      ],
+      "secretaryIdle1": [
+        "虽然我不是很聪明，深奥的事情可能帮不上你的忙，不过要是你愿意的话，我什么都会听你说的！",
+        "私あまり頭よくないから、頭使う仕事はパスだけど、相談ならなんでも乗ってあげるよ？",
+        "I'm not very smart, so I'll pass on the complicated stuff, but when it comes to life advice, I'm your gal!"
+      ],
+      "secretaryIdle2": [
+        "新奥尔良成为了好姐姐呢，那个新奥尔良……真好啊",
+        "ニューオリンズ、いいお姉ちゃんになったよね。あのニューオリンズが……",
+        "New Orleans sure matured into a fine big sister. What a gal!"
+      ],
+      "secretaryIdle3": [
+        "指挥官虽然懂得很多，不过有些事果然还是不明白呢",
+        "指揮官って物知りね！でもそんな指揮官でもやっぱりわからないことはあるんじゃない？",
+        "Commander, even though you're very knowledgeable, I'm sure there's some stuff that not even you know~"
+      ],
+      "secretaryTouch": [
+        "怎么了怎么了，有什么事吗？",
+        "なになに、どゆこと？",
+        "What's up? What is it?"
+      ],
+      "secretarySpecialTouch": [
+        "欸，等……指挥官你这个笨蛋！",
+        "え、ちょっ……指揮官の馬鹿ぁ！",
+        "Ah... wait... Jeez, Commander, you jerk!"
+      ],
+      "task": [
+        "老是坐着也不好呢，完成些任务来转换心情吧~",
+        "座ってばっかじゃ良くないよ。気分転換にミッションでもこなすのはどぉ？",
+        "Sitting for too long is no good. After you finish your work, why don't we go for a change in pace?"
+      ],
+      "taskComplete": [
+        "这里是奖励~指挥官果然好厉害呢",
+        "はい、ボーナス~指揮官やっぱすごいじゃん~",
+        "Here, the rewards have arrived~ Commander, you're pretty awesome~"
+      ],
+      "mail": [
+        "有新的信~指挥官意外地受欢迎啊",
+        "新しいメール~指揮官って意外と人気ものだね~",
+        "There's new mail~ Comander, you're quite the popular one~"
+      ],
+      "returnFromMission": [
+        "平安回来了呢，嗯嗯，指挥官了不起，了不起~",
+        "無事帰ってきたか~うんうん♪指揮官は偉い偉い～",
+        "Commander, you made it back without a scratch on you! Well done, well done!"
+      ],
+      "commission": [
+        "指挥官，完成委托的姐妹们回来啦~来，我们快去接她们吧！",
+        "しきかーん！委託を完了したみんなが戻ったよ~迎えに行こ？",
+        "Commander! The girls have returned from their commission~ let's hurry up and welcome them back!"
+      ],
+      "strengthening": [
+        "指挥官真能干~",
+        "指揮官、やるわね~",
+        "Way to go, Commander~"
+      ],
+      "startingMission": [
+        "我绝不允许你们伤害我重要的人！",
+        "大切な人達を傷つけるなんて、絶対許さないんだから！",
+        "I won't let you harm the people who are important to me!"
+      ],
+      "mvp": [
+        "嗯嗯，我也挺能干的呢~",
+        "ふんふん♪私ってデキる子！",
+        "Hehe, I'm pretty capable, aren't I~"
+      ],
+      "defeat": [
+        "哎呀，输了啊……指挥官，我们快跑吧~",
+        "あらら、負けた……指揮官、もう逃げちゃおう",
+        "Oh my, looks like we lost... Commander, let's get out of here~"
+      ],
+      "skillActivation": [
+        "就算是我，该做的时候也会好好做的啦！",
+        "私だってやる時はちゃんとやるっしょ！",
+        "Even I can get serious when it's do or die!"
+      ],
+      "lowHP": [
+        "大家加油！",
+        "みんな頑張ってー！",
+        "Everyone, go get 'em!"
+      ],
+      "affinityDisappointed": [
+        "我有点生气了……明明说过了有什么事依赖我就好了的……",
+        "ちょっとムカつく……もう~私に頼ってって言ったのに……",
+        "I'm getting a little pissed off... I know I said you can rely on me more, but..."
+      ],
+      "affinityStranger": [
+        "其实我没有指挥官想的那么温柔呢……",
+        "私、指揮官が思ってるほど優しくないの……",
+        "I'm not as nice as you take me for..."
+      ],
+      "affinityFriendly": [
+        "虽然和妹妹们相处得很好，我也很喜欢她们，不过有时候就是忍不住去想呢……如果，如果这一级还是叫阿斯托利亚级就好了呢……",
+        "妹たちとは仲いいし、あの子たちのことも好きだけど、時々つい考えちゃうよね……もしアストリア級って呼ぶことが出来たらもっといいのになぁって……",
+        "I get along with my sisters very well, and like them a whole lot... But sometimes, I just can't help thinking... what if we were called the Astoria-class instead..."
+      ],
+      "affinityLike": [
+        "不过已经没关系了，现在的话，比起姐姐，有更重要的身份被承认了呢……（瞟）指挥官，接下来也尽管依赖我吧",
+        "でももう大丈夫、今はお姉ちゃんよりもっと大事な私を見つけたから……（チラッ）指揮官、これからもどんどん私を頼ってね~",
+        "But, I'm totally over it. I've found something even more important than being a big sister... *sparkles* Commander, rely on me more and more, okay~"
+      ],
+      "affinityLove": [
+        "爱是平等的？……诶嘿嘿嘿，指挥官有好好考虑我的事情啊，好高兴呀~不过果然指挥官不明白呢，真的喜欢一个人的话，这种事根本不会去在意哦",
+        "アストリアの妹たちには今後どう接するかって？……えへへへ、やっぱ指揮官私のことを大切に思ってくれてるんだ…嬉しい！でも指揮官～本当に相手のことが好きになったら、考えなくてもいいのよ、こういうの♪",
+        "Love is equal? ... Ehehe, you're always thinking about me, that makes me very happy~ However, here's what you don't understand: if you truly like someone, then these kinds of things don't matter at all."
+      ],
+      "pledge": [
+        "我呢，只要能为指挥官付出就很开心了，不过能得到指挥官的回应的话，当然会更加高兴……这个我会作为一生的宝物好好保管的……谢谢",
+        "私ね、指揮官に何かしてあげられるだけですごい嬉しいんだけど、指揮官が私の想いに応えてくれるなら、もちろんもっと嬉しくなるよ。これは一生の宝物として、大事に大事に預かっておくね。ありがとう。",
+        "Commander, just being able to exert myself for your sake is enough to make me happy, but for you to reciprocate my feelings like this... This is truly the greatest treasure I could ask for. Thank you."
+      ],
+      "giftDescriptionValentines2019": [
+        "收下吧！我的情人节巧克力！实际上，做这个巧克力的时候，选要做哪种巧克力比实际制作花的时间要多得多…选择这种事情，还真是困难呢，啊哈哈",
+        "はい！バレンタインチョコよ！実はこれ、作るのと比べてレシピを選ぶのにずっと時間がかかったけどさ…悩ましいよね、こういうの！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "It wasn't easy picking the right recipe. Or the right packaging, or the right box... I stressed out over the whole deal, really! I don't think I'm cut out for tasks that require a lot of brainpower. Anyway, try it, Commander!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Astoria_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Astoria_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Astoria_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Astoria_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Astoria_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Astoria_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Astoria_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Astoria_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Astoria_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Astoria_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Astoria_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Astoria_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Astoria_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Astoria_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Astoria_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Astoria_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Astoria_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Astoria_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Astoria_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Astoria_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Astoria_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Astoria_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Astoria_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Astoria_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Astoria_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Astoria_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Astoria_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Astoria_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Astoria_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Astoria_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Astoria_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Astoria_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Astoria_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Astoria_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Astoria_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Astoria_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Astoria_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Astoria_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Astoria_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Astoria_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Astoria_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Astoria_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Astoria_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Astoria_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Astoria_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Astoria_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Astoria_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Astoria_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Astoria_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Astoria_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Astoria_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Astoria_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Astoria_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Astoria_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Astoria_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Astoria_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Astoria_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Astoria_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Astoria_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Astoria_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Astoria_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Astoria_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Astoria_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Astoria_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Astoria_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Astoria_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Astoria_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Astoria_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Astoria_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Astoria_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Astoria_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Astoria_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Astoria_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Astoria_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Astoria_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Astoria_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Astoria_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Astoria_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Pure \"Gurl?\"",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "清纯系辣妹？",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "純情ギャル？",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f8/AstoriaSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c1/AstoriaSchoolChibi.png",
+      "shipDescription": [
+        "嗯？指挥官？干嘛跟看珍稀动物一样盯着我看啦…很可爱？啊哈哈…谢、谢谢",
+        "うん？指揮官？…ってなによその珍種動物でも見てるような目は～か、カワイイ！？あはは……あ、ありがとう……",
+        "Huh? Commander? ... Wait, why are you staring at me like I'm some exotic animal? C-cute? Ehehe... Th-thanks..."
+      ],
+      "acquisition": [
+        "嗯？指挥官？干嘛跟看珍稀动物一样盯着我看啦…很可爱？啊哈哈…谢、谢谢",
+        "うん？指揮官？…ってなによその珍しい動物でも見てるかのような目は～か、カワイイ！？あはは……あ、ありがとう……",
+        "Huh? Commander? ... Wait, why are you staring at me like I'm some exotic animal? C-cute? Ehehe... Th-thanks..."
+      ],
+      "login": [
+        "今天的运势…恋爱运五颗星？！真、真的吗…",
+        "今日の運勢は…恋愛運五つ星！？ほ、本当かな",
+        "Today's horoscope says... Romance... five stars?! Like, no way~!"
+      ],
+      "details": [
+        "指挥官，买台卡拉OK机放指挥室怎么样？工作娱乐两不误，嗯，感觉是个好主意呢",
+        "指揮官、執務室にカラオケでも置いたらどうかな？お仕事とお遊び、両方出来る！うんうん、私的にいいアイデアだと思う！",
+        "Commander, wanna put a karaoke machine in the office? Like, we should totally work hard and play hard!"
+      ],
+      "secretaryIdle1": [
+        "说起来，指挥官有在用社交软件吗？其实在姐妹们之间还蛮流行的哦？",
+        "そういえば、指揮官ってSNSとか使ってる？実はみんなの間ではひっそりと流行ってたりして～",
+        "By the way, Commander, do you use any social media sites? They're quite popular among the girls, you know~"
+      ],
+      "secretaryIdle2": [
+        "指挥官，你喜欢什么颜色的指甲？下次我去做一个给你看~",
+        "指揮官、どんなネイルが好き？今度作って見せてあげようか？",
+        "Commander, what color nails do you prefer? Next time I get them done, I'll let show them to you~"
+      ],
+      "secretaryIdle3": [
+        "社团活动？啊哈哈…还是回家社比较适合我吧",
+        "サークル？あはは……私ってやっぱ帰宅部が一番似合ってるかも…",
+        "Club activities? Ahaha... I think I have a date with my sofa today..."
+      ],
+      "secretaryTouch": [
+        "啊，指挥官，你看，这个地方约会推荐指数五颗星呢~",
+        "指揮官、ほらここ、デートスポットとしては五つ星だって",
+        "Look, Commander! This place is a five-star recommended dating spot!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，防狼器和主炮，你选哪个？",
+        "指揮官～主砲とチカン対策スプレー、どっちを食らってみたいの？",
+        "Commander, would you prefer the pepper spray or a shot from my cannons?"
+      ],
+      "returnFromMission": [
+        "呀，欢迎回来。要一起去吃点什么吗？",
+        "あ、おかえりーご飯でもどっか食べに行かない？",
+        "Oh, welcome back. Wanna go for some grub?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Astoria_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Astoria_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Astoria_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Astoria_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Astoria_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Astoria_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Astoria_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Astoria_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Astoria_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Astoria_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Astoria_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Astoria_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Astoria_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Astoria_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Astoria_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Astoria_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Astoria_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Astoria_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Astoria_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Astoria_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Astoria_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Astoria_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Astoria_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Astoria_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Astoria_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Astoria_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Astoria_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

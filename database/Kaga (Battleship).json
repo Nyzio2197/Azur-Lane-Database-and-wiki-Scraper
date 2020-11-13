@@ -1,0 +1,460 @@
+{
+  "name": "Kaga (Battleship)",
+  "constructionTime": "04:30:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Tosa",
+  "ID": "368",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "八才提督",
+  "pixiv": "https://www.pixiv.net/member.php?id=1393609",
+  "twitter": "https://twitter.com/haorabbit",
+  "link": "https://weibo.com/vihao",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/8/84/Kaga_%28Battleship%29_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      8303,
+      149,
+      42,
+      423,
+      217,
+      39,
+      26,
+      187,
+      0,
+      15,
+      71,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      7115,
+      130,
+      42,
+      381,
+      188,
+      20,
+      26,
+      162,
+      0,
+      15,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1376,
+      55,
+      42,
+      81,
+      40,
+      8,
+      26,
+      35,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "90% → 90%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 20,
+  "maxLimitBreakTechPoints": 40,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 30,
+  "enhancementValue": [
+    67,
+    4,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    10
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Fight to Win!; CN: 战无不胜 JP: 戦えば勝つ！",
+  "skill1Description": "When firing main gun: 30% (50%) chance to launch a frontal barrage (damage is based on skill level).",
+  "skill2Name": "Conquer to Loot!; CN: 攻无不取 JP: 征けば獲る！",
+  "skill2Description": "10 seconds after battle starts and every 40 (20) seconds after that: launches a torpedo barrage (damage is based on skill level).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "加贺级战列舰一番舰—加贺",
+        "加賀型戦艦一番艦・加賀",
+        "Tosa-class battleship number two – Kaga."
+      ],
+      "selfIntroduction": [
+        "我是加贺级战列舰的一号舰加贺，因为条约的关系原本要废弃，结果又要改造成航母…不过比起天城…啧，还想和她一决胜负的…",
+        "加賀型一番艦の加賀だ。長門型の改修型であり、かの「八八艦隊」計画において艦隊決戦の主力艦として建造された。天城さん……いつか彼女とは戦ってみたいな",
+        "I'm Kaga, second ship of the Tosa-class battleships. Built as an improvement to the Nagato-class, I was to serve as part of the Eight-Eight Fleet Program. Amagi... I would like to fight alongside her someday."
+      ],
+      "acquisition": [
+        "嚯～这里就是接下来我要一展拳脚的地方吗？不错，我是加贺，战列舰加贺，可别搞错了！",
+        "ふん、ここが私の腕を振るう場所だというのか。いいだろう。私は加賀――戦艦・加賀だ。間違えるでないぞ！",
+        "Hmm... is this the next place for me to flex my might? Very well. I am Kaga - Battleship Kaga. Make no mistake of it."
+      ],
+      "login": [
+        "指挥官，开始工作前先热热身吧",
+        "指揮官、執務を始める前に少し肩慣らしでもしておけ",
+        "Commander, why don't you warm up a bit before starting work?"
+      ],
+      "details": [
+        "光是看看可没办法让人变强啊，指挥官。快让我出击吧",
+        "見てるだけでは強くなれん。指揮官。早く私を出撃させろ",
+        "Getting stronger isn't a spectator sport. Let me at 'em already!"
+      ],
+      "secretaryIdle1": [
+        "航母的小飞机真的很厉害吗？我一点也不觉得，而且不能亲自战斗，你不觉得很无趣吗",
+        "空母のちっぽけな艦載機が強い？私はそうは思わない。それにだ、己の腕で戦に参加できないなど、つまらないとは思わんか？",
+        "Those puny carrier aircraft are \"strong?\" Nonsense. What's more, isn't it utterly insipid to fight without your own two hands?"
+      ],
+      "secretaryIdle2": [
+        "既然当了秘书舰，不做点什么也说不过去。所以，指挥官，有什么能给我做的？",
+        "秘書艦をやるからには、何もしないのは癪に障るな。指揮官、私にできることはないか？",
+        "As a secretary, the most frustrating thing is not having anything to do. Commander, don't you have anything you need me to take care of?"
+      ],
+      "secretaryIdle3": [
+        "天城是最好的对手，也是我最尊敬的人，即使是要辅佐她，我也心服口服",
+        "天城さんは私の好敵手であり、一番尊敬する人だ。彼女を補佐しろと言われたって不服などあるまい",
+        "Amagi is a worthy rival, and the one who I respect the most. Even if you asked me to be her support, I would have no objections."
+      ],
+      "secretaryTouch": [
+        "指挥官，整天呆在房间里你不会腻吗？跟我出去透透气吧",
+        "指揮官、執務室に引きこもるなど――つまらないとは思わんか？気分転換に私と軽く外に出てみたらどうだ？",
+        "Commander, don't you ever get tired of being in that cramped office all day? Why not come out with me for some fresh air?"
+      ],
+      "secretarySpecialTouch": [
+        "…总之先吃我一拳！",
+        "……まずは一発喰らいな！",
+        "... Let me get a shot in first if you're going to do that!"
+      ],
+      "task": [
+        "任务？跟战斗无关的就不要找我了",
+        "任務？戦闘に関わらないことをいちいち私に聞くな",
+        "Missions? If it's not combat-related, don't come looking for me."
+      ],
+      "taskComplete": [
+        "任务奖励？我去拿吧，正好活动一下身体",
+        "任務…報酬か。私が取ってくる。丁度体を動かしたかったところだ",
+        "Mission rewards are here, huh? I'll go grab 'em. I could use a bit of exercise."
+      ],
+      "mail": [
+        "接着，邮件",
+        "手紙だ。受け取れ",
+        "Catch, it's your mail."
+      ],
+      "returnFromMission": [
+        "没有什么比战胜强敌更令人愉快的事了，不是吗？",
+        "強敵に勝つことより楽しいことなどない。違うか？",
+        "Nothing is more exciting than defeating a strong enemy, don't you think?"
+      ],
+      "commission": [
+        "委托完成了。说起来，委托有趣吗，我也想去试试",
+        "委託が完了したようだ。そういえば、委託というのは面白いのか？私にも一度やらせてくれ",
+        "A commission has been completed. Speaking of commissions, are they any fun? I'd like to give 'em a try."
+      ],
+      "strengthening": [
+        "呵，我不会让你失望的",
+        "ふふふ、失望はさせん",
+        "Ahaha! I won't disappoint you!"
+      ],
+      "startingMission": [
+        "强敌吗…就让我期待一下吧，可不要让我失望啊",
+        "強敵か…楽しませてもらう！失望させるなよ！",
+        "A strong enemy? I'm looking forward to it. Don't let me down!"
+      ],
+      "mvp": [
+        "太弱了！给我回去重头练过再来吧",
+        "脆い！鍛え直してくるんだな",
+        "Too weak! Come back and face me again once you've had some more training."
+      ],
+      "defeat": [
+        "啧，我记住你们了！",
+        "くっ！その顔覚えたぞ……！",
+        "Kuh! I'll remember your face..."
+      ],
+      "skillActivation": [
+        "只有强者才有立于战场的资格！",
+        "戦場に立つ資格があるのは強き者だけだッ！",
+        "Only the strong have the right to stand on the battlefield!"
+      ],
+      "lowHP": [
+        "不错，你们值得我拿出全力！",
+        "いいぞ！私に全力を出させるだけの価値はあるな！！",
+        "Not bad! You are worthy of facing my full power!"
+      ],
+      "affinityDisappointed": [
+        "你不是我追求的强者…",
+        "お前は私が求める強者ではなかった",
+        "You aren't one of the strong that I seek."
+      ],
+      "affinityStranger": [
+        "认识到自己的弱小不是什么丢人的事，只要之后再变强就好了",
+        "己の弱さと向き合うのは恥ずべきことではない。弱さを認め、そして強くなれればいい。それだけだ",
+        "Realize your weakness is nothing to be ashamed of, as long as you work hard to become stronger."
+      ],
+      "affinityFriendly": [
+        "为什么想要变强？这种事不需要理由吧，不过硬要说的话，想要赢过天城吧",
+        "強さを求める理由？理由などいらん。……強いて言えば――天城さんに勝つためだ",
+        "Why do I wish to become stronger? Does that really require a reason? If I had to choose... it would be to defeat Amagi."
+      ],
+      "affinityLike": [
+        "指挥官你觉得怎样才能变强？原本我以为只要按照认定的道路走下去就行了，不过看着天城，看着你，又觉得只有这样似乎是不够的",
+        "指揮官、どうすればより強くなれる？このまま進み続ければいいと思っていたが、天城さん、そしてお前のことを見た限り、どうもそれだけでは足りんようだ",
+        "Commander, what should I do to become stronger? At first, I thought what I was doing was fine. But after seeing you and Amagi, I realized that it isn't enough."
+      ],
+      "affinityLove": [
+        "似乎在指挥官麾下，我才能成为更强的自己…呵呵，不过这样感觉，也不坏",
+        "私は指揮官に使役されてこそより強くなれるようだな。…ふふふ、こういうのも…悪くないな",
+        "I sometimes feel like I can only become stronger through following your commands... Hehe, it's not a bad feeling though."
+      ],
+      "pledge": [
+        "把一切交给值得托付的人，然后没有后顾之忧的战斗…这不正是我一直梦寐以求的东西吗。而且对象是你的话，求之不得！",
+        "全てを託せる相手に背中を預け、後顧の憂いなく戦う…これこそ私が夢見てきたこと、私の願いだ。その相手がお前というのなら――ふん、願ってもないことだな",
+        "To be able to trust someone who always has my back, to be able to fight without reservation... this has always been my dream! And for that someone to be you, what more could I ask for?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Amagi) 天城，可不要又一个人去很远的地方了啊",
+        "(Sortie with Amagi) 天城さん、また一人でいなくなったりはしないでおくれ",
+        "(Sortie with Amagi) Amagi, please don't go off to a distant place by yourself again"
+      ],
+      "giftDescriptionValentines2019": [
+        "哼，天城硬要我参加这种软绵绵的节日。给，想来想去，能送的对象也就你了。",
+        "ふん、まさか私をこのようなよくわからないお祭りに誘うとはな…しっかり持っていろ。お前のためのチョコだ。…何を言っている？ほかに贈る相手なんていないぞ",
+        "I cannot believe she convinced me to take part in this bizarre holiday... Here, just take it... What are you talking about? There is nobody else for me to give this to!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "That \"sister\" is giving you trouble, huh? Heh. That you can handle this so well really shows how gifted you are. Whether it's chocolate making or fleet management, you've got a lot on your plate."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Kaga_%28Battleship%29_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Kaga_%28Battleship%29_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Kaga_%28Battleship%29_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Kaga_%28Battleship%29_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Kaga_%28Battleship%29_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Kaga_%28Battleship%29_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Kaga_%28Battleship%29_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Kaga_%28Battleship%29_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Kaga_%28Battleship%29_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kaga_%28Battleship%29_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kaga_%28Battleship%29_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kaga_%28Battleship%29_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Kaga_%28Battleship%29_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Kaga_%28Battleship%29_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Kaga_%28Battleship%29_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Kaga_%28Battleship%29_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Kaga_%28Battleship%29_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Kaga_%28Battleship%29_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Kaga_%28Battleship%29_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Kaga_%28Battleship%29_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Kaga_%28Battleship%29_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Kaga_%28Battleship%29_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Kaga_%28Battleship%29_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Kaga_%28Battleship%29_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Kaga_%28Battleship%29_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Kaga_%28Battleship%29_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Kaga_%28Battleship%29_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Kaga_%28Battleship%29_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Kaga_%28Battleship%29_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Kaga_%28Battleship%29_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Kaga_%28Battleship%29_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Kaga_%28Battleship%29_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Kaga_%28Battleship%29_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Kaga_%28Battleship%29_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Kaga_%28Battleship%29_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Kaga_%28Battleship%29_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kaga_%28Battleship%29_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kaga_%28Battleship%29_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kaga_%28Battleship%29_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Kaga_%28Battleship%29_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Kaga_%28Battleship%29_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Kaga_%28Battleship%29_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Kaga_%28Battleship%29_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Kaga_%28Battleship%29_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Kaga_%28Battleship%29_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Kaga_%28Battleship%29_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Kaga_%28Battleship%29_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Kaga_%28Battleship%29_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Kaga_%28Battleship%29_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Kaga_%28Battleship%29_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Kaga_%28Battleship%29_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Kaga_%28Battleship%29_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Kaga_%28Battleship%29_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Kaga_%28Battleship%29_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Kaga_%28Battleship%29_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kaga_%28Battleship%29_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kaga_%28Battleship%29_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Kaga_%28Battleship%29_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Kaga_%28Battleship%29_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Kaga_%28Battleship%29_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_%28Battleship%29_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_%28Battleship%29_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Kaga_%28Battleship%29_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Kaga_%28Battleship%29_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Kaga_%28Battleship%29_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Kaga_%28Battleship%29_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Kaga_%28Battleship%29_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Kaga_%28Battleship%29_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Kaga_%28Battleship%29_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Kaga_%28Battleship%29_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Kaga_%28Battleship%29_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Kaga_%28Battleship%29_Extra1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

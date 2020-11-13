@@ -1,0 +1,521 @@
+{
+  "name": "Montpelier",
+  "constructionTime": "01:25:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Super Rare",
+  "shipClass": "Cleveland",
+  "ID": "329",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "幻象黑兔",
+  "pixiv": "https://www.pixiv.net/member.php?id=4462245",
+  "twitter": "https://twitter.com/coneyrivard",
+  "link": "https://weibo.com/u/3188613133",
+  "voiceActor": "https://en.wikipedia.org/wiki/Rie_Takahashi",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      4361,
+      193,
+      72,
+      170,
+      0,
+      92,
+      32,
+      333,
+      0,
+      11,
+      163,
+      104,
+      0,
+      0
+    ],
+    "Level 100": [
+      3929,
+      168,
+      72,
+      148,
+      0,
+      77,
+      32,
+      295,
+      0,
+      11,
+      146,
+      91,
+      0,
+      0
+    ],
+    "Base Stats": [
+      760,
+      71,
+      72,
+      31,
+      0,
+      30,
+      32,
+      63,
+      0,
+      3,
+      56,
+      25,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "75% → 75%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 120%",
+  "collectionStatBonus": "Light cruiser (CL) Anti-air  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 24,
+  "level120StatBonus": "Light cruiser (CL) Firepower  +1",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    13,
+    0,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Legend of the Solomons; CN: 所罗门的传说 JP: ソロモンの伝説",
+  "skill1Description": "Every 20 seconds: 30% (60%) chance to increase Firepower and Accuracy for all cruisers in the fleet by 5% (25%) and decrease damage taken by them by 5% (15%) for 8 seconds.",
+  "skill2Name": "Anti-Air Mode; CN: 防空模式 JP: 対空配置",
+  "skill2Description": "When firing Anti-Air Guns: 25% chance to increase own Anti-Air by 20% (40%), and decrease own Firepower by 40% (20%) for 3 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-クリーブランド級",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Cleveland Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/98/Montpelier.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/18/MontpelierChibi.png",
+      "shipDescription": [
+        "克利夫兰级轻巡洋舰—蒙彼利埃，舷号CL-57",
+        "クリーブランド級軽巡洋艦・モントピリア（CL-57)",
+        "Cleveland-class light cruiser – Montpelier, hull number CL-57."
+      ],
+      "selfIntroduction": [
+        "你知道吗，我们克利夫兰级是大战中白鹰最出色的轻巡，所以你要对大姐头更加尊敬一点才行。至于我，伦内尔，皇后湾，还有些其他作战，也算是参加过一些战斗吧",
+        "お前、クリーブランド級はあの大戦でのユニオンの最強軽巡だ。姉貴にはもっと敬意を払ってもらうぞ。――ぼくか？レンネル、オーガスタ湾、あと何個か作戦に出た。まあまあかな",
+        "Listen, the Cleveland-class were the most powerful cruisers the Eagle Union had in the war. You should show more respect for my big sis. ... Me? I was in the battles of Midway, Augusta Bay, and a few others. I guess I did okay."
+      ],
+      "acquisition": [
+        "指挥官吗？看起来…不是那么可靠啊…不过既然大姐头也在这里…没办法，蒙彼利埃、报道，不用请多指教也没关系",
+        "指揮官か？頼りに…ならなそう。でも姉貴はここにいる…仕方ない、モントピリア、着任した。指示なんてしなくても構わないよ",
+        "You're a commander? You don't... look reliable. But my big sis works for you... I've no choice, then. Montpelier, reporting for duty. I don't really care whether you give me orders or not."
+      ],
+      "login": [
+        "你回来了？那我出去透透气，好闷",
+        "戻ったか？じゃあ出掛けてくる。ここは窮屈だ",
+        "So, you're back. I'll take my leave, then. It's too crowded in here for me."
+      ],
+      "details": [
+        "大姐—原来是指挥官啊，有什么事吗？",
+        "姉貴ぃ！…って指揮官か。何か用？",
+        "Big sis! ... Oh, it's you. Need something?"
+      ],
+      "secretaryIdle1": [
+        "怎么才能变得像大姐头那样呢……笑容？……似乎，不太行",
+        "どうすればクリーブ姉貴のようになれるか……笑顔？……ちょっと、無理かも…",
+        "How can I be more like Cleveland... \"Smile\"? ... That might not be possible..."
+      ],
+      "secretaryIdle2": [
+        "我不太习惯和同级姐妹之外的人相处，至于指挥官你……唔，我会加油的",
+        "同型の姉妹たち以外の人は苦手だ。指揮官、お前は……努力する",
+        "I don't get along with anyone but my sisters. As for you, Commander... I'll try."
+      ],
+      "secretaryIdle3": [
+        "指挥官，我有点好奇，大姐头当秘书的时候是什么样的？",
+        "指揮官、ぼくは気になる。姉貴が秘書艦を勤める時はどんな感じか？",
+        "Commander, I'm curious: when my sister's doing secretary work, what's she like?"
+      ],
+      "secretaryTouch": [
+        "……？没有什么事的话请不要叫我",
+        "……？用がないなら呼ぶな",
+        "... Huh? If you've no need of me, don't call for me."
+      ],
+      "secretarySpecialTouch": [
+        "忍耐，我要忍耐…这一定是在考验我对大姐头的信任…",
+        "た、耐えるんだ……これは姉貴への信頼を試すことに決まっている…！",
+        "G-gotta put up with it... This is obviously a test of the trust I have for my big sis...!"
+      ],
+      "task": [
+        "指挥官，任务来了，时间就是金钱，赶快完成吧",
+        "指揮官、任務だ。時は金なり――早くしろ",
+        "Commander, we've got a mission. Time's money... get going already."
+      ],
+      "taskComplete": [
+        "奖励吗……好吧，这也是职责的一部分，我去拿吧",
+        "報酬か……これも職務だな。持ってくる",
+        "Rewards, eh... Guess this is part of my job. I'll go get them."
+      ],
+      "mail": [
+        "你的信，我放那了",
+        "メール、ここに置いた",
+        "I left your mail over here."
+      ],
+      "returnFromMission": [
+        "辛苦了，不休息会儿吗？",
+        "お疲れ。休めば？",
+        "Well done. You should get some rest."
+      ],
+      "commission": [
+        "委托完成了，不去接一下她们吗？",
+        "委託が完了した。出かけた子たちを迎えにいかないのか？",
+        "A commission's done. Aren't you gonna welcome the team back?"
+      ],
+      "strengthening": [
+        "这样就离大姐头更近一点了…",
+        "姉貴にもう一歩近づけた…！",
+        "I'm one step closer to my big sis...!"
+      ],
+      "startingMission": [
+        "海上骑士，出击！",
+        "海上騎士団、進軍！",
+        "Knights of the Sea, onwards!"
+      ],
+      "mvp": [
+        "胜利的感觉……还不坏",
+        "勝利の感触……悪くない",
+        "This is how victory feels... Not bad."
+      ],
+      "defeat": [
+        "对不起…大姐头…丢了海上骑士的脸…",
+        "姉貴…ごめんなさい…海上の騎士の名に泥を塗ってしまいました……",
+        "Big sis... I'm sorry... I've stained the reputation of the Knights of the Sea..."
+      ],
+      "skillActivation": [
+        "碍眼，消失吧",
+        "目障りだ。消えろ",
+        "You're an eyesore. Disappear!"
+      ],
+      "lowHP": [
+        "大姐头说了，不能放弃！",
+        "姉貴が言ってました…諦めてはならないって！！",
+        "Big sis told me... to never give up!"
+      ],
+      "affinityDisappointed": [
+        "大姐头果然看走眼了吗……",
+        "姉貴も人を見る目がないか……",
+        "Guess my big sis can't tell good and bad people apart..."
+      ],
+      "affinityStranger": [
+        "虽然还不理解大姐头为什么会选择你，不过我还是相信大姐头的眼光的",
+        "姉貴がお前を選ぶ理由はわからん。だが姉貴の目は信じている",
+        "I don't get why my big sis chose you. But I trust her intuition."
+      ],
+      "affinityFriendly": [
+        "大姐头又厉害又酷，而且总是笑的很帅，就好像没有什么能打倒她一样，我的梦想就是有一天变成她那样",
+        "姉貴は…強くてかっこよくて、笑顔が輝かしくて、まるでどんな相手でも倒せそうな……ぼくもいつか、ああなりたいな",
+        "My big sis is... strong, cool, has a golden smile, and she could probably beat anyone in a fight... I want to be like her one day."
+      ],
+      "affinityLike": [
+        "说起来，指挥这种工作，我以前一直以为就是趾高气扬地在那发号施令的家伙……实际看过之后才知道，当指挥官也很辛苦呢",
+        "指揮することって安全な場所で偉そうに命令しているだけって思ってた……実際身近で見て分かった。指揮官も大変だな",
+        "I used to think commanding was just about giving orders from a comfy room while sounding like a bigshot... But after seeing it for myself, now I understand. You have a tough job, Commander."
+      ],
+      "affinityLove": [
+        "倒也不是说大姐头的话我什么都会听，只是大姐头总是对的……比如我现在已经理解了，她选择的指挥官有多么优秀",
+        "姉貴の言うことを闇雲になんでも聞いているわけじゃない。姉貴がいつも正しいから聞いている……今分かった。姉貴が選んだお前はやっぱり優秀だ",
+        "I don't just blindly listen to everything my big sis says. I listen because she's always right... And I finally get why she chose you. It's because you're outstanding."
+      ],
+      "pledge": [
+        "大姐头说了，这种大事必须要遵从自己的内心。所以我现在站在了这里，指挥官你呢？",
+        "姉貴は自分のこころに従えって言ってた。だからぼくはここにいる――自分のこころに従って。指揮官、お前は？",
+        "Big sis told me to follow my heart. Which is why I'm here: to follow my heart. Are you following yours, Commander?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Cleveland) …不能给大姐头丢人！",
+        "(Sortie with Cleveland) ……姉貴に恥をかかせません！",
+        "(Sortie with Cleveland) ... I won't embarrass you, big sis!"
+      ],
+      "giftDescriptionValentines2019": [
+        "在给大姐头做的时候，想起来就把你的份一起做了。不用客气，毕竟你也是个很不错的指挥官。",
+        "姉貴のためにチョコを作った時、お前の分も一緒に作った。遠慮するな。お前もいい指揮官だからな",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I made some chocolate for my big sis, and for you. Yeah, I made it by myself, so don't be too hard on it... I'm giving you it first so I know what to expect when I give the other to Cleve. Eat it quick and tell me if it's any good."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Montpelier_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Montpelier_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Montpelier_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Montpelier_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Montpelier_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Montpelier_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Montpelier_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Montpelier_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Montpelier_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Montpelier_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Montpelier_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Montpelier_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Montpelier_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Montpelier_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Montpelier_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Montpelier_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Montpelier_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Montpelier_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Montpelier_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Montpelier_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Montpelier_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Montpelier_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Montpelier_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Montpelier_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Montpelier_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Montpelier_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Montpelier_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Montpelier_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Montpelier_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Montpelier_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Montpelier_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Montpelier_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Montpelier_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Montpelier_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Montpelier_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Montpelier_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Montpelier_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Montpelier_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Montpelier_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Montpelier_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Montpelier_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Montpelier_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Montpelier_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Montpelier_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Montpelier_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Montpelier_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Montpelier_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Montpelier_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Montpelier_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Montpelier_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Montpelier_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Montpelier_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Montpelier_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Montpelier_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Montpelier_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Montpelier_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Montpelier_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Montpelier_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Montpelier_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Montpelier_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Montpelier_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Montpelier_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Montpelier_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Montpelier_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Montpelier_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Montpelier_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Montpelier_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Montpelier_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Montpelier_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Montpelier_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Montpelier_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Montpelier_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Montpelier_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Montpelier_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Montpelier_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Montpelier_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Montpelier_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Montpelier_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Montpelier_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Montpelier_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Montpelier_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Flower of the Snowy Night",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "雪夜之花",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "雪夜の華",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/39/MontpelierNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/40/MontpelierNew_YearChibi.png",
+      "shipDescription": [
+        "这就是重樱风格的新年服饰吗，如果大姐头也能喜欢的话…嗯？指挥官你在啊…姑且说一声新年快乐吧",
+        "これが重桜風の新年衣装…姉貴が気に入ってくだされば……うん？指揮官、いたか？えっと、まあ、あけましておめでとう",
+        "So this is Sakura-style New Year's attire... If Cleve was also interested in this... Hm? Commander, were you watching? Um, well, Happy New Year's."
+      ],
+      "acquisition": [
+        "这就是重樱风格的新年服饰吗，如果大姐头也能喜欢的话…嗯？指挥官你在啊…姑且说一声新年快乐吧",
+        "これが重桜風の新年衣装…姉貴が気に入ってくだされば……うん？指揮官、いたか？えっと、まあ、あけましておめでとう",
+        "So this is Sakura-style New Year's attire... If Cleve was also interested in this... Hm? Commander, were you watching? Um, well, Happy New Year's."
+      ],
+      "details": [
+        "重樱的新年，和想象中的不太一样",
+        "重桜の新年、想像してたのとちょっと違うな",
+        "The Sakura Empire's New Year's celebration is... a bit different from my expectations."
+      ],
+      "secretaryIdle1": [
+        "这件衣服，袖子又长又重，裙子也不利于行动…重樱的人们都不会觉得不方便吗？",
+        "この服、袖が長くて重いし、この…えっとドレス？動きにくくてしょうがないな。重桜の人たちは不便だって思わないのか？",
+        "The sleeves on this outfit are long and heavy... and this, uh... dress? It's really hard to move around in. Don't they find this cumbersome?"
+      ],
+      "secretaryIdle2": [
+        "要是大姐头也穿上这样的衣服…唔，果然还是有点难以想象啊……",
+        "姉貴がこの服を着てる姿…うん、ちょっと想像できないな",
+        "If Cleve was to wear this outfit... Hmm, I can't picture it after all."
+      ],
+      "secretaryIdle3": [
+        "新年的愿望…？希望明年能够更加接近大姐头一些吧——",
+        "新年の願い事…？来年こそ姉貴にもう少し近づくことだな",
+        "My New Year's wish...? I'd like to get a bit closer with Cleve, I suppose..."
+      ],
+      "secretaryTouch": [
+        "……想看我穿这件衣服跳舞？指挥官还是这么异想天开呢",
+        "……この格好でダンスを？相変わらずわけのわからないことを考えつくな",
+        "...You'd like to see me dance in this outfit? Commander, you're as prone to flights of fancy as always."
+      ],
+      "secretarySpecialTouch": [
+        "大家都在准备新年的时候，指挥官的脑子里就在想这些事吗？",
+        "みんな新年の準備に忙しいのに、お前の頭の中はこれなのか？",
+        "Everyone is hard at work preparing for New Year's... but what in the world is going on inside that head of yours?"
+      ],
+      "affinityLove": [
+        "新年和指挥官一起度过…似乎也不赖。…还是想看我跳舞？唔…虽然有些生疏，不过…好吧，就当给大姐头表演之前的练习了。",
+        "お前と年越しするのも悪くないかもな。…やっぱりこの格好でダンスを？はぁ……まだちょっとぎこちないけど、姉貴に見せる前のリハーサルとして見せてやるとするか",
+        "Spending the end of the year with you isn't so bad... You really still want to see me dance in this outfit? Hmm... I'm probably a bit rusty, but let's just consider it a rehearsal for when I'm doing this for Cleve."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

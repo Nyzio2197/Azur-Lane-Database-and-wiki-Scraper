@@ -1,0 +1,650 @@
+{
+  "name": "Chapayev",
+  "constructionTime": "01:26:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Chapayev",
+  "ID": "436",
+  "faction": "Northern Parliament",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "股间少女",
+  "pixiv": "https://www.pixiv.net/member.php?id=12834728",
+  "twitter": "https://twitter.com/gujianshaonv",
+  "link": "https://www.weibo.com/u/5205759948",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/7/7d/Chapayev_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      4352,
+      195,
+      68,
+      172,
+      0,
+      94,
+      34,
+      334,
+      0,
+      11,
+      164,
+      148,
+      0,
+      0
+    ],
+    "Level 100": [
+      3921,
+      170,
+      68,
+      149,
+      0,
+      78,
+      34,
+      295,
+      0,
+      11,
+      146,
+      131,
+      0,
+      0
+    ],
+    "Base Stats": [
+      758,
+      72,
+      68,
+      32,
+      0,
+      30,
+      34,
+      63,
+      0,
+      3,
+      56,
+      36,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "75% → 75%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 120%",
+  "collectionStatBonus": "Light cruiser (CL) Accuracy  +2",
+  "collectionTechPoints": 24,
+  "maxLimitBreakTechPoints": 48,
+  "level120StatBonus": "Light cruiser (CL) Firepower  +1",
+  "level120TechPoints": 36,
+  "enhancementValue": [
+    13,
+    0,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Unlock All Out Assault Ⅰ / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Base +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrade All Out Assault Ⅰ→Ⅱ / Main Gun Efficiency +15%",
+  "skill1Name": "Cavalier of the Ether; CN: 虚空的白骑兵 JP: 虚空の白騎兵",
+  "skill1Description": "Every 15s: 40.0% (70.0%) chance to fire a special barrage and inflict Burn for 6s to all enemies hit by it. (Barrage DMG is based on skill level.)",
+  "skill2Name": "Cavalier's Acumen; CN: 精准诱导 JP: 白騎兵の目利き",
+  "skill2Description": "Increases this ship's Crit Rate by 5.0% (15.0%), DMG dealt to enemy DDs by 5.0% (20.0%), and Main Gun shell velocity by 15.0%. Additionally, decreases the Evasion Rate of enemy DDs by 4.0% (10.0%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-恰巴耶夫 JP: 特殊弾幕-チャパエフ",
+  "skill3Description": "Activates All Out Assault Ⅰ (Ⅱ): Chapayev once every 15 (10) times the Main Guns are fired.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c0/Chapayev.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4b/ChapayevChibi.png",
+      "shipDescription": [
+        "恰巴耶夫级轻巡洋舰—恰巴耶夫",
+        "チャパエフ級巡洋艦――チャパエフ",
+        "Chapayev-class cruiser – Chapayev."
+      ],
+      "selfIntroduction": [
+        "我是68-k型，恰巴耶夫级命名舰，恰巴耶夫哦。本应在大战中发挥作用，却因各种各样的原因而迟迟没能完全完工，结果并没有什么活跃…多少有些遗憾呢，呵呵",
+        "68-k型、つまりチャパエフ級のネームシップよ。かの大戦に参加できるはずだったけど、色々あって遅れて完成したわ。あまり活躍できなかったの、少し残念ね。ふふふ",
+        "I am the name ship of Project 68-K, also known as the Chapayev-class. I was meant to participate in the war, but due to a series of delays, I was not completed in time. I didn't really do anything. Too bad. Hehehe."
+      ],
+      "acquisition": [
+        "你就是指挥官呀~呼呼…真是不错……啊，失礼了。我是北方联合的轻巡洋舰恰巴耶夫，以后请多指教",
+        "貴方が指揮官ね。ふふ、これはなかなか……あ、失礼。私は北方連合所属・軽巡洋艦チャパエフよ。これからよろしく頼むわ",
+        "So you're the Commander? Hehe, I like what I see... Ah, excuse me. I'm Chapayev, a light cruiser from the Northern Parliament. Let's get along~"
+      ],
+      "login": [
+        "欢迎你，指挥官。这里是指挥室？…呵呵，是“我们两人的指挥室”，才对吧？",
+        "いらっしゃい指揮官。ふふ、ここは執務室って？…ええ、分かってるわ。「私たち二人の執務室」、でしょ？",
+        "Welcome, Commander. So this is your office...? Aha, of course, it's OUR office, isn't it?"
+      ],
+      "details": [
+        "指挥官，来聊聊天吧？互相了解才是最重要的，不是吗？",
+        "指揮官、少しお喋りでもどう？お互いを分かることに越したことない――そう思わなくて？",
+        "Commander, let's chat a bit? It's important that we get to know each other... don't you think?"
+      ],
+      "secretaryIdle1": [
+        "指挥官也想像这孩子一样吗？…哎呀？不想吗~？",
+        "指揮官もこの子のようになりたいのかしら？…あら、違うの？ふーん",
+        "Are you jealous of my little friend here, Commander...? Oh, you're not? Hmm."
+      ],
+      "secretaryIdle2": [
+        "我其实是很强的哦…至少在设计之初是这样的。至于现在，就要由指挥官来亲·自·确·认了呢~",
+        "私は強いわ。……少なくとも、設計された当初ではね。今はどうなのか、それは指揮官に確かめてもらうしかないけど",
+        "I'm actually very strong... Or at least, I was designed to be. I guess I would need you to check and make sure I actually turned out that way, Commander."
+      ],
+      "secretaryIdle3": [
+        "如果害怕信赖被辜负，只要牢牢抓紧对方就好。无论是用绳子还是链锁都可以…对吧？",
+        "信頼しても裏切られるのが怖いようでしたら、こう手綱をしっかり握りしめればいいわ。縄でも鎖でも、なんでも……ね？",
+        "If you're worried those you trust will betray you, you just have to keep them close. Either rope or chains will do the trick... right?"
+      ],
+      "secretaryTouch": [
+        "想摸摸看？哎呀，是说这孩子而不是我吧，呵呵呵~",
+        "お触り？あ、この子じゃなくて私のほうね。ふふふ",
+        "You want to feel? Ah, not this little guy. I mean me. Hehehe."
+      ],
+      "secretarySpecialTouch": [
+        "呵呵呵…指挥官，真是坏孩子呢",
+        "ふふふ、指揮官、悪い子ね",
+        "Hehehe... Commander, naughty naughty~"
+      ],
+      "task": [
+        "未完成的任务…是不是由我来帮指挥官完成比较好呢",
+        "未完了の任務は…私がちょっと代わりにやっておいたほうが良さそうね",
+        "All these unfinished tasks... Wouldn't it be better if I helped you take care of them?"
+      ],
+      "taskComplete": [
+        "哎呀，好好完成任务了呢，真棒。呵呵，想要我给你什么样的夸奖呢，指挥官~？",
+        "あら、任務をこなせて偉いね。ふふ、ご褒美はどんなのがいいの？",
+        "Wow, you completed that mission all by yourself! Hehe, were you hoping I'd give you a reward?"
+      ],
+      "mail": [
+        "新的信件已经整理好了，不要忘了确认哦",
+        "新しい手紙を整理したわ。確認を忘れないようにね",
+        "I sorted the mail for you. Don't forget to look it over."
+      ],
+      "returnFromMission": [
+        "我做的菜不知道味道如何？如果能合指挥官胃口就好了呢",
+        "私の手料理はどうだった？お口に合うと嬉しいわ",
+        "What do you think of my food? Is this the kind of thing you like to eat?"
+      ],
+      "commission": [
+        "指挥官，执行委托的孩子们刚刚回来了哦，请做好准备前去迎接吧",
+        "指揮官、委託に出た子たちが戻ってきたわよ。準備をお願いね",
+        "Commander, the girls you sent out on commission are back. Are you ready?"
+      ],
+      "strengthening": [
+        "继续强化舰装吧~我相信指挥官一定可以的~",
+        "どんどん兵装をつけてちょうだい。あなたのことは信頼してるわ",
+        "Keep strengthening my equipment. I know you can do it."
+      ],
+      "startingMission": [
+        "这孩子我也是能够驾驭的哦，出发吧~",
+        "この子も乗りこなしてみせるわよ！そら！",
+        "I can handle these girls just fine! Hiyah!"
+      ],
+      "mvp": [
+        "呼…差不多是这样吧",
+        "ふぅ…こんな感じかしらね",
+        "Hah... that seems about right."
+      ],
+      "defeat": [
+        "呼…看来还要加油呢",
+        "ふぅ…まだまだ頑張らないとね",
+        "Hah... I can do better."
+      ],
+      "skillActivation": [
+        "蹂躏一切吧！",
+        "蹂躙する！",
+        "Scorched earth!"
+      ],
+      "lowHP": [
+        "呜…有点大意了啊…",
+        "くっ…少し油断したかしら…",
+        "Gah... was I unprepared...?"
+      ],
+      "affinityDisappointed": [
+        "是不是给指挥官一些更严厉的“教育”比较好呢…嗯…真难办啊…",
+        "きつく躾けたほうがいいのかしら、悩ましいわね…",
+        "You may need some stricter training. Hm. Worrying..."
+      ],
+      "affinityStranger": [
+        "指挥官，想和我说什么？只是陪你聊聊也可以哦？这个舰队，看来能一直待很久呢。呵呵呵",
+        "指揮官、何か相談？お喋りならお付き合いするわよ？この艦隊、きっと先が長いものね。ふふふ",
+        "Commander, did you have something to talk about? Or are you just here for a little chat? With this fleet, we could go on and on. Hehehe."
+      ],
+      "affinityFriendly": [
+        "和部下的交流吗…没错，对于彼此托付性命的同伴来说，信赖是最重要的。希望指挥官能像我信赖你一样地信赖我呢",
+        "部下とのコミュニケーションねぇ…ええ、命を預ける相手を信頼するのが一番大事よ。私が指揮官を信じているように、指揮官にも私のことを信頼してほしいわ",
+        "Fraternizing with subordinates...? Yes, these among comrades who put our lives in each other's hands, trust is the most important thing. I hope you trust in me, Commander, the same way I trust in you."
+      ],
+      "affinityLike": [
+        "宠物？我没有养过呢。毕竟自己喜欢宠着的东西总在身边啊~莫非指挥官…想找个人宠着你吗？",
+        "ペット？どうかしら…飼ったことがないから正直わからないわ。だって愛でる相手ならずっと身近にいるもの。それとも指揮官…もしかして、もっと愛でられたいの？",
+        "A pet? I wonder... I've never had one before. The one I love and cherish is always right here with me, after all. Say, Commander... Do you need more affection?"
+      ],
+      "affinityLove": [
+        "原来如此…看起来似乎病得不轻呢。果然得一个完全信赖的人在身边才行呢…指挥官，把一切交给我吧，我会把你的烦恼全部解决的~",
+        "なるほど…それはちょっと重症ね。やっぱり心を預ける相手がそばにいないと…指揮官、いっそ私に任せてくれない？あなたの悩み、全部解決してあげるわ",
+        "Oh my... that looks serious. You really do need someone you love and cherish by your side... Commander, let me be here for you. I'll take care of all your worries for you."
+      ],
+      "pledge": [
+        "能从指挥官那里收到这么重要的戒指，我很高兴哦~作为交换…就把这个项圈送给指挥官吧—呵呵，很合适呢~这种彼此一直联系在一起的感觉…指挥官也很喜欢吧？",
+        "私はこの指輪を――こんなに綺麗なものを預けてくれるなんて嬉しいわ。ではあなたにはこの首輪を――ふふ、こっちも似合っているわ。こうして常につながってるの…好きでしょう？",
+        "To get such a ring... such a beautiful gift, it's wonderful. So let me give you this bridle in return... Hehe, it fits perfectly. Now it's like we're always connected, wherever we might be... Don't you love it?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Chapayev_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Chapayev_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Chapayev_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Chapayev_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Chapayev_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Chapayev_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Chapayev_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Chapayev_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Chapayev_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Chapayev_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Chapayev_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Chapayev_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Chapayev_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Chapayev_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Chapayev_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Chapayev_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Chapayev_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Chapayev_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Chapayev_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Chapayev_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Chapayev_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Chapayev_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Chapayev_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Chapayev_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Chapayev_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Chapayev_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Chapayev_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Chapayev_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Chapayev_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Chapayev_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Chapayev_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Chapayev_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Chapayev_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Chapayev_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Chapayev_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Chapayev_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Chapayev_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Chapayev_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Chapayev_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Chapayev_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Chapayev_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Chapayev_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Chapayev_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Chapayev_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Chapayev_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Chapayev_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Chapayev_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Chapayev_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Chapayev_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Chapayev_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Chapayev_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Chapayev_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Chapayev_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Chapayev_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Chapayev_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Chapayev_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Chapayev_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Chapayev_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Chapayev_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Chapayev_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Chapayev_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Chapayev_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Chapayev_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Chapayev_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Chapayev_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Chapayev_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Chapayev_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Chapayev_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Chapayev_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Chapayev_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Chapayev_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Chapayev_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Chapayev_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Chapayev_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Chapayev_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Chapayev_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Chapayev_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Chapayev_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Captive Cavalier",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "拘束的白骑兵",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "縛られし白騎兵",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/58/ChapayevPrison.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/92/ChapayevPrisonChibi.png",
+      "shipDescription": [
+        "指挥官，这究竟是要做什么？难道…我做错了什么吗…？这应该…只是单纯的演习吧？",
+        "指揮官、これは一体どういうこと？まさか私、何か悪いことでもしたの…？これってただの演習なの…？",
+        "Commander, what's going on? Did I... do something wrong...? This was all just... meant to be an exercise, right?"
+      ],
+      "acquisition": [
+        "指挥官，这究竟是要做什么？难道…我做错了什么吗…？这应该…只是单纯的演习吧？",
+        "指揮官、これは一体どういうこと？まさか私、何か悪いことでもしたの…？これってただの演習なの…？",
+        "Commander, what's going on? Did I... do something wrong...? This was all just... meant to be an exercise, right?"
+      ],
+      "login": [
+        "哈啊…哈啊…指挥官，今天要先做什么呢？",
+        "はぁ…はぁ…指揮官、今日は何から始めるの？",
+        "*Pant*... *pant*... Commander, what should we start with today?"
+      ],
+      "details": [
+        "明明随时都能出去，为什么我还要留在这……指挥官？没、没什么，我什么都没说…",
+        "いつでも出られるっていうけど、なぜ私はまだここに……指揮官？い、いいえ、なんでもないわ…",
+        "I could leave whenever I want, so why do I stay... Commander? N- nothing, it's nothing..."
+      ],
+      "secretaryIdle1": [
+        "这个房间，甚至让人感到有点恶趣味了呢…",
+        "この空間は正直、悪趣味に思うわね…",
+        "You know, this room might rub some people the wrong way..."
+      ],
+      "secretaryIdle2": [
+        "指挥官，没事吧？没事的话能回答一下吗？我有点…担心…",
+        "指揮官、大丈夫？大丈夫なら返事してちょうだい？私、ちょっと焦っちゃうわ…",
+        "Commander, are you okay? Please answer me if you're okay. You can't keep me waiting..."
+      ],
+      "secretaryIdle3": [
+        "在这里待太久的话，塔什干她们会担心的吧…",
+        "ここに長くいると、流石にタシュケントたちが心配するわね…",
+        "If I'm here too long, you know Tashkent will start to worry..."
+      ],
+      "secretaryTouch": [
+        "要、要把这个套在我脖子上吗？",
+        "こ、これを私の首につける気？",
+        "I- I have to keep this around my neck?"
+      ],
+      "secretarySpecialTouch": [
+        "呀？！指挥官，我其实没有这意思…！",
+        "きゃっ？！指揮官、私別にそんな気は……！",
+        "Hyah?! Commander, that's not what I meant...!"
+      ],
+      "task": [
+        "有未完成的任务。资料我已经让人拿来了哦",
+        "未完了の任務があるわ。資料なら取っておいてもらったわよ",
+        "There's an unfinished mission. I have all the details here."
+      ],
+      "taskComplete": [
+        "任务完成了。接下来该做什么呢…",
+        "任務完了ね。ここから何をすればいいのかしら…",
+        "Mission complete. What should we do now...?"
+      ],
+      "mail": [
+        "信…希望指挥官能快点看看呢…",
+        "お手紙は…早く読んでくれないかしら…",
+        "Mail's here... I think you should read it..."
+      ],
+      "returnFromMission": [
+        "这边没有厨房还真是遗憾呢。指挥官要喂我吃吗…？",
+        "ここに調理場がないのは残念ね。食べさせてくれるの…？",
+        "I really wish there was a kitchen in here. Are you going to feed me, Commander...?"
+      ],
+      "commission": [
+        "指挥官，执行委托的孩子们刚刚回来了哦。得快点去迎接她们才行呢…",
+        "委託に出た子たちが戻ってきたわ。早く出迎えに行かないと…",
+        "The commission girls just got back. You have to get out there and bring them in..."
+      ],
+      "strengthening": [
+        "还得再努力些才行呢",
+        "もっと頑張らなきゃ、ね",
+        "I have to try harder, right?"
+      ],
+      "startingMission": [
+        "我会认真战斗的！",
+        "真面目に戦うわ！",
+        "I fight with all my heart!"
+      ],
+      "mvp": [
+        "这样就能稍微放松些了…",
+        "これで少しは解放されるのね…",
+        "I guess I can relax a little..."
+      ],
+      "defeat": [
+        "指挥官，对不起……",
+        "指揮官、ごめんなさい……っ",
+        "Commander, I'm sorry..."
+      ],
+      "affinityDisappointed": [
+        "指挥官才是需要在这边受训的人呢…",
+        "ここで訓練すべきなのは指揮官の方ね…",
+        "I think you need some training in this area, Commander..."
+      ],
+      "affinityLove": [
+        "像这样和指挥官“单独相处”虽然不错，果然还是觉得缺了点什么…还是是要更能够…紧握住彼此双手的感觉比较…呀啊！？请、请不要拉这个可以吗！",
+        "こうして指揮官と「二人っきり」になるの、悪くないけど、やっぱりなにか足りない気がするわね…もっとこう、しっかり手に握りしめるものというか…ひゃぅ？！そ、それを引っ張らないでぇ！",
+        "I get that you wanted to be alone with me, and that's fine, but I just think we're missing something... If only we could... hold each other's hands tightly or... Ahhn?! D- don't pull on that!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Chapayev_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Chapayev_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Chapayev_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Chapayev_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Chapayev_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Chapayev_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Chapayev_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Chapayev_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Chapayev_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Chapayev_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Chapayev_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Chapayev_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Chapayev_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Chapayev_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Chapayev_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Chapayev_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Chapayev_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Chapayev_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Chapayev_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Chapayev_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Chapayev_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Chapayev_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Chapayev_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Chapayev_Sec2Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Chapayev_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Chapayev_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Chapayev_TaskSkin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Chapayev_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Chapayev_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Chapayev_TaskCSkin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Chapayev_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Chapayev_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Chapayev_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Chapayev_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Chapayev_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Chapayev_MissionFinSkin1JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Chapayev_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Chapayev_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Chapayev_CommissionSkin1JP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Chapayev_StrSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Chapayev_StrSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Chapayev_StrSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Chapayev_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Chapayev_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Chapayev_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Chapayev_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Chapayev_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Chapayev_MVPSkin1JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Chapayev_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Chapayev_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Chapayev_DefeatSkin1JP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Chapayev_Affinity0Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Chapayev_Affinity0Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Chapayev_Affinity0Skin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Chapayev_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Chapayev_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Chapayev_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

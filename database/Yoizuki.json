@@ -1,0 +1,570 @@
+{
+  "name": "Yoizuki",
+  "constructionTime": "00:29:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Akizuki",
+  "ID": "297",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "玛雅G",
+  "pixiv": "https://www.pixiv.net/member.php?id=1287983",
+  "twitter": "https://twitter.com/mayag_nya",
+  "link": "http://weibo.com/p/1005051970961102",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/09/Yoizuki_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2445,
+      210,
+      61,
+      74,
+      363,
+      179,
+      39,
+      199,
+      0,
+      9,
+      188,
+      200,
+      0,
+      0
+    ],
+    "Level 100": [
+      2037,
+      183,
+      61,
+      65,
+      323,
+      174,
+      39,
+      173,
+      0,
+      9,
+      179,
+      180,
+      0,
+      0
+    ],
+    "Base Stats": [
+      394,
+      77,
+      61,
+      14,
+      68,
+      67,
+      39,
+      37,
+      0,
+      2,
+      69,
+      49,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "90% → 100%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 135%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    5,
+    23,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Pre-Loaded Torpedo +1 / Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Aerial Support; CN: 防空支援 JP: 対空支援",
+  "skill1Description": "When enemy planes are shot down within own AA range: increases own Firepower and Anti-Air by 5% (25%) for 8 seconds. If skill is activated again during said 8 seconds, refreshes the buff duration.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-秋月型",
+  "skill2Description": "Every 24 (16) shots from the main battery, triggers Full Barrage - Akizuki Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/5d/Yoizuki.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/57/YoizukiChibi.png",
+      "shipDescription": [
+        "秋月级驱逐舰十番舰—宵月",
+        "秋月型駆逐艦十番艦・宵月",
+        "Akizuki-class destroyer number ten – Yoizuki."
+      ],
+      "selfIntroduction": [
+        "我是秋月级驱逐舰宵月，擅长防空支援。有什么麻烦的话尽管告诉我就好，我不会辜负你的期望的。",
+        "秋月型駆逐艦の宵月です。対空が得意です。困ったことがあったら宵月に教えてください。ご期待通りうまく解決してみせます",
+        "I am the Akizuki-class destroyer Yoizuki. I specialize in anti-air combat. If you ever have any problems, please tell me. I will solve them quickly for you."
+      ],
+      "acquisition": [
+        "初次见面，指挥官。我是前来协助你的宵月，接下来的工作就让我和你一起分担吧。",
+        "はじめまして指揮官さま。宵月、手伝いに来ました。これからは仕事を分担しましょう",
+        "I'm honored to meet you, Commander. I have come to assist you. From now on, I can help you with your work whenever needed."
+      ],
+      "login": [
+        "你来了啊，指挥官。文件都已经整理好了。",
+        "指揮官さま、来ましたね。文書はすべて整理済みになっています",
+        "You have returned, Commander. I have already sorted all your documents."
+      ],
+      "details": [
+        "一个人能做到的事终究是有限的。所以指挥官，不要客气，需要我的力量的时候就和我说吧，我会帮助你的。",
+        "ひとりでできることはたかが知れています。なので、宵月がお役にたてることがありましたら遠慮なく言ってください。お手伝いします",
+        "There is little I can do on my own. So, please, if I can assist in any way, don't be afraid to ask. I will help you."
+      ],
+      "secretaryIdle1": [
+        "帮助他人？只是感觉要这么做，所以就这么做了……很奇怪吗？",
+        "人助け？そうすべきだと感じたから、そうしたまでです……おかしいですか？",
+        "Why I help people? I feel I should; therefore I do it... Is that strange?"
+      ],
+      "secretaryIdle2": [
+        "我像巡洋舰？确实有人曾经把我认错来着……",
+        "巡洋艦に誤認されたことがありますが…なぜでしょう……そんなに似ていないのに……",
+        "Some have mistaken me for a light cruiser... I wonder why... I don't look like one..."
+      ],
+      "secretaryIdle3": [
+        "勉强自己？我不会那么做的，这样只会适得其反。",
+        "無理しているって？無理なんてしませんよ。そんな事したって逆効果なだけですからね",
+        "\"Forcing myself\"? Not at all. If I were, my help would only have the opposite effect."
+      ],
+      "secretaryTouch": [
+        "累了吗？需要我帮你捶捶肩膀吗？",
+        "疲れましたか？肩を揉んであげましょうか？",
+        "Do you feel tired? Shall I give you a shoulder massage?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，你想被大卸八块吗？",
+        "指揮官さま、ぶっ飛ばされたいのですか？",
+        "Commander, are you asking for a beating?"
+      ],
+      "task": [
+        "有任务，需要我做些什么吗？",
+        "任務があります。宵月にできることはありますか？",
+        "We have received a mission. Is it something I may take care of?"
+      ],
+      "taskComplete": [
+        "奖励我已经帮你取过来了，应该没有遗漏吧。",
+        "「ぼーなす」を持ってきました。これで全部のはずです",
+        "I have brought the mission rewards. These should be all of them."
+      ],
+      "mail": [
+        "指挥官，信我帮你放在这里了。",
+        "指揮官さま、メールはこちらに置きました",
+        "Commander, I have left your mail here."
+      ],
+      "returnFromMission": [
+        "出港一定累了吧，指挥官。喝杯茶休息一下吧。",
+        "出撃で疲れたのですね。指揮官、少し休んでお茶をお飲みになってはいかがですか？",
+        "You must be tired. Should I prepare tea while you rest for a while, Commander?"
+      ],
+      "commission": [
+        "委托完成了，大家都辛苦了呢。",
+        "委託が完了しました。お疲れ様です",
+        "A commission has been completed. Splendid work."
+      ],
+      "strengthening": [
+        "嗯，感觉不错。",
+        "はい、いい感じです",
+        "This feels rather nice."
+      ],
+      "startingMission": [
+        "小心点，不要离我太远",
+        "気をつけて。宵月からあまり離れないように",
+        "Be careful. Try to stay close to me."
+      ],
+      "mvp": [
+        "这场胜利，是大家的功劳。",
+        "この勝利、みんなのおかげです",
+        "We have everyone to thank for this victory."
+      ],
+      "defeat": [
+        "可恶……我来掩护，大家快点撤退！",
+        "謀りましたね……みんな、早く撤退を！殿はこの宵月に…！",
+        "They tricked us... Everyone, retreat! I will watch your backs...!"
+      ],
+      "skillActivation": [
+        "会心一击！",
+        "会心の一撃！",
+        "Critical hit!"
+      ],
+      "lowHP": [
+        "状况有点不利啊……",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "你最好离我远点。",
+        "宵月にあまり近づかないほうがいいです",
+        "I would prefer it if you'd stay away from me."
+      ],
+      "affinityStranger": [
+        "嗯？我看上去比较冷漠吗？春月也这么说我呢……唔……",
+        "うん？宵月は冷たくみえますか？春月にもそう言われていますね……ふむ……",
+        "Hm? I seem cold and distant to you? I've heard that from Harutsuki before... Oh, bother..."
+      ],
+      "affinityFriendly": [
+        "春月总是不够勇敢，虽然我也知道不能老是帮着她，但每次一看到她那样我就忍不住…",
+        "春月の臆病っぷりはずっと宵月が助けていくわけにもいかない事だと思っています。でも、いつも体が勝手に動いてしまって……",
+        "I know that I can't always be by Harutsuki's side to help when she feels nervous. Yet, my body always acts on its own accord..."
+      ],
+      "affinityLike": [
+        "不需要我的帮忙，但是又希望我陪在指挥官身边……这是为什么呢？我不是很懂……",
+        "宵月の手助けが必要ないのに、宵月を側に侍らせるなんて……なぜですか？宵月、よくわかりません……",
+        "You don't require my help, yet you keep me waiting by your side... Why is that? I don't quite understand..."
+      ],
+      "affinityLove": [
+        "约会？那是什么意思？……一起去玩？可以啊，如果这是指挥官的希望的话。……嗯？指挥官，你为什么在笑？好奇怪……",
+        "「でーと」？それはどういう意味ですか？……一緒に遊ぶ？いいですよ。指揮官さまがご希望でしたら。……なぜ笑っているのですか？ヘンですね……",
+        "A \"date\"? What does that mean? ... It means we'll play together? Certainly, if that's what you wish. ... Why are you smiling? You're quite strange..."
+      ],
+      "pledge": [
+        "一直以来，指挥官是这么看待我的吗…?我真的是有点笨啊…不过请放心吧，从今以后，宵月愿意赌上一切，保护指挥官，回应指挥官的每个期待，和指挥官永远在一起",
+        "指揮官さまは宵月のことをこう思っていたのですか…？宵月、ちょっとドンカンだったのですね…ご安心ください。宵月、約束します。これから全力で指揮官さまを守り、指揮官さまの望むがままに行動し、指揮官さまから二度と離れないことを――",
+        "This is how you've felt about me, Commander...? I've been slow to catch on, haven't I... But, do not worry, I pledge myself to you. I swear to always protect you, do exactly as you wish, and never again leave your side."
+      ],
+      "giftDescriptionValentines2019": [
+        "春月说，情人节宵月的巧克力是必要的。所以，请收下吧。如果需要宵月的其他帮助，请随时喊我",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Anticipating that the Commander would want Valentine's chocolate, I went ahead and made some. Please, enjoy... Right, I am also indispensable to you, aren't I, Commander?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Yoizuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Yoizuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Yoizuki_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Yoizuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Yoizuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Yoizuki_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Yoizuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Yoizuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Yoizuki_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Yoizuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Yoizuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Yoizuki_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Yoizuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Yoizuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Yoizuki_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Yoizuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Yoizuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Yoizuki_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Yoizuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Yoizuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Yoizuki_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Yoizuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Yoizuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Yoizuki_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Yoizuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Yoizuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Yoizuki_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yoizuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yoizuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yoizuki_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yoizuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yoizuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yoizuki_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yoizuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yoizuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yoizuki_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yoizuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yoizuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yoizuki_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Yoizuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Yoizuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Yoizuki_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Yoizuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Yoizuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Yoizuki_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Yoizuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Yoizuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Yoizuki_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Yoizuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Yoizuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Yoizuki_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Yoizuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Yoizuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Yoizuki_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Yoizuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Yoizuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Yoizuki_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yoizuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yoizuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yoizuki_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Yoizuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Yoizuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Yoizuki_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Yoizuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Yoizuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Yoizuki_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Yoizuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Yoizuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Yoizuki_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Yoizuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Yoizuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Yoizuki_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Yoizuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Yoizuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Yoizuki_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Yoizuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Yoizuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Yoizuki_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Sports Festival Preparations",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "运动会的准备",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "運動会の準備",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b4/YoizukiSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f8/YoizukiSchoolChibi.png",
+      "shipDescription": [
+        "欸，到我上场了吗？再等一等，马上就好……那个，指挥官，能不要一直盯着宵月看吗？有点…不好意思",
+        "宵月の出番ですか？少し待って……あの、指揮官、宵月のことをそんなにじっと見ないでくださいますか？ちょっと…恥ずかしいです",
+        "It's my turn? Hold on... Umm, could you please not stare at me like that? It's... making me feel uncomfortable."
+      ],
+      "acquisition": [
+        "欸，到我上场了吗？再等一等，马上就好……那个，指挥官，能不要一直盯着宵月看吗？有点…不好意思",
+        "宵月の出番ですか？少し待って……あの、指揮官、宵月のことをそんなにじっと見ないでくださいますか？ちょっと…恥ずかしいです",
+        "It's my turn? Hold on... Umm, could you please not stare at me like that? It's... making me feel uncomfortable."
+      ],
+      "login": [
+        "我这次报名了很多项目呢。运动会已经开始了，我可不能落后。",
+        "種目を何個かエントリーしました。皆の足を引っ張らないようにしないと…",
+        "I registered for several sporting events. I must give it my all so I won't slow down my teammates..."
+      ],
+      "details": [
+        "春月给了我一个她说能带来好运的御守……如果能显灵就太好了呢。",
+        "春月から幸運をもたらすお守りをもらいました。……ご利益があるといいですね",
+        "I received a good luck charm from Harutsuki... It's nice when someone offers you their blessings."
+      ],
+      "secretaryIdle1": [
+        "春月，不要慌，跟着我的节奏来就好了。一~二~一~二……",
+        "春月、落ち着いて宵月のペースに合わせて……いち、にー、いち、にー",
+        "Harutsuki, slow down and match your pace with mine... One, two! One two!"
+      ],
+      "secretaryIdle2": [
+        "指挥官，热吗？这是我带来的冷饮，只喝了一点，拿着吧",
+        "指揮官さま、暑いですね。宵月が持ってきたお飲み物……少し飲んでしまいましたけど……よろしければお飲みになりますか？",
+        "It's quite hot today, Commander. I brought a drink with me... I drank a little from it, but... would you like to have some?"
+      ],
+      "secretaryIdle3": [
+        "唔…长发弄起来有点麻烦，春月也不在……指挥官，能帮我一下吗？",
+        "あぅ…髪の毛がちょっと邪魔…春月もいません…指揮官さま、すみません、宵月を手伝ってもらえませんか？",
+        "Ugh... My hair is being annoying... Harutsuki's not here, either... Excuse me, Commander, could you give me a hand?"
+      ],
+      "secretaryTouch": [
+        "我现在身上粘乎乎的全是汗，指挥官最好不要碰我……",
+        "宵月は今、汗でびっしょりです。指揮官さま、あまり触らないほうがいいです",
+        "Commander, I'm completely soaked in sweat... You probably shouldn't touch me."
+      ],
+      "secretarySpecialTouch": [
+        "居然趁这个时候袭击。指挥官，做好心理准备了吗？",
+        "このタイミングで襲いかかってくるのですか。指揮官さま、心の準備はできていますか？",
+        "Are you taking advantage of me at a time like this? Are you mentally prepared for what comes next, Commander?"
+      ],
+      "returnFromMission": [
+        "参赛的大家都很强……下一个项目，我也要全力以赴才行。",
+        "エントリーした皆強いですね……次の種目は、宵月も頑張らないと",
+        "All the entrants are strong candidates... I'll need to exert myself for the next event, too."
+      ],
+      "affinityLove": [
+        "要和宵月一起参加两人三脚比赛吗？放心吧，我们的组合一定是最强的。",
+        "宵月と二人三脚にエントリーするのですか？ご安心ください、指揮官さまとのコンビは最強ですから",
+        "Will you enter with me for the three-legged race? Don't worry, we're unbeatable as a pair."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Yoizuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Yoizuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Yoizuki_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Yoizuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Yoizuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Yoizuki_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Yoizuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Yoizuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Yoizuki_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Yoizuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yoizuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yoizuki_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yoizuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yoizuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yoizuki_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Yoizuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Yoizuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Yoizuki_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Yoizuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Yoizuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Yoizuki_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Yoizuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Yoizuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Yoizuki_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Yoizuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Yoizuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Yoizuki_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Yoizuki_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Yoizuki_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Yoizuki_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,796 @@
+{
+  "name": "Bailey",
+  "constructionTime": "00:27:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Benson",
+  "ID": "263",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "团子",
+  "pixiv": "https://www.pixiv.net/member.php?id=7703737",
+  "twitter": "https://twitter.com/Tsundere_dango",
+  "link": "https://weibo.com/soramiao",
+  "voiceActor": "https://en.wikipedia.org/wiki/Eri_Suzuki",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1826,
+      204,
+      70,
+      87,
+      320,
+      162,
+      44,
+      172,
+      0,
+      8,
+      184,
+      192,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      2036,
+      224,
+      70,
+      102,
+      320,
+      162,
+      47,
+      262,
+      0,
+      8,
+      184,
+      192,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1731,
+      198,
+      70,
+      91,
+      282,
+      156,
+      47,
+      239,
+      0,
+      8,
+      175,
+      173,
+      0,
+      0
+    ],
+    "Level 100": [
+      1521,
+      178,
+      70,
+      76,
+      282,
+      156,
+      44,
+      149,
+      0,
+      8,
+      175,
+      173,
+      0,
+      0
+    ],
+    "Base Stats": [
+      294,
+      75,
+      70,
+      16,
+      60,
+      60,
+      44,
+      32,
+      0,
+      2,
+      67,
+      47,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 130% → 135%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "125% → 130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 125% → 125%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    5,
+    20,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gained Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Smokescreen; CN: 烟雾弹 JP: 煙幕散布",
+  "skill1Description": "After battle begins and 15% (30%) chance to activate every 15 seconds after that: deploy a smokescreen for 5 seconds. Escort ships within the smokescreen have 20% (40%) additional evasion. Does not stack with same skill effect.",
+  "skill2Name": "(Retrofit) Interference; CN: 火力干扰 JP: かく乱射撃",
+  "skill2Description": "Every 20 seconds: 25% chance to reduce a random enemy's Reload by 30% and damage by 15% for 5 (10) seconds. Effect prioritizes elite (human-form) enemies. Does not stack with the same skill.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ベンソン級",
+  "skill3Description": "Every 15 (10) shots from the main battery, trigger Full Barrage - Benson Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a2/Bailey.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/BaileyChibi.png",
+      "shipDescription": [
+        "本森级驱逐舰—贝利，舷号DD-492",
+        "ベンソン級駆逐艦・ベイリー（DD-492)",
+        "Benson-class Destroyer - Bailey, Hull Number DD-492!"
+      ],
+      "selfIntroduction": [
+        "贝利是兔兔星来的贝利，和姐姐们一样都是兔兔！最擅长的是火力支援，还受过嘉奖哦！嘿嘿，贝利可是很厉害的！",
+        "ベイリーは、ウサウサ星から来たベイリーだよ！姉たちと同じウサウサなの！火力支援が一番得意で、それで褒められたこともあるの！えへへ、ベイリーはとても強いよ~",
+        "I'm from Planet Bunny. I'm a bunny, just like my sisters! I'm super good at giving providing fire support. I've even earned awards for it, believe it or not! Hehe, I'm super strong!"
+      ],
+      "acquisition": [
+        "贝利是本森……不对，兔兔星来的贝利！指挥官有见到姐姐们吗？",
+        "ベイリーはベンソンきゅ……じゃなくてウサウサ星から来たの！指揮官、姉たちを見た？",
+        "I'm Bailey, a Benson-cla... Wait, no, I'm a bunny! Commander, have you seen any of my sisters?"
+      ],
+      "login": [
+        "指挥官今天有精神吗~让贝利来给你点兔兔能量吧！",
+        "指揮官元気～？ベイリーがウサウサパワーを注入してあげる！",
+        "Are you feeling good today, Commander? Let me inject some bunny power into you!"
+      ],
+      "details": [
+        "唧……吱……嗷……唔，兔兔的叫声好难学！",
+        "ギー……キー……アゥ……ブ、ブー…？うぅ…ウサウサの鳴き声、難しい…",
+        "Giiiy... Kiiie... Uh... Bwuuuh...? It's hard to speak like a bunny..."
+      ],
+      "secretaryIdle1": [
+        "最好吃的萝卜，永远是下一个！",
+        "一番美味しいニンジンは、次のニンジンだよ！",
+        "The most delish carrot is always going to be the next one!"
+      ],
+      "secretaryIdle2": [
+        "收到了兔兔星的电波，要贝利帮指挥官工作，嗯嗯，指挥官不要客气，尽管交给贝利吧~",
+        "ビビビ…ウサウサ星から受信…「ベイリーは指揮官に全力で協力すべし」指揮官も遠慮しなくていいから、全部ベイリーに任せて〜",
+        "I've received a transmission from Planet Bunny telling me to help you with your work. No need to thank me, just leave it to me!"
+      ],
+      "secretaryIdle3": [
+        "贝利将来要成为偶像，超级，超~级受欢迎的那种！",
+        "ベイリーの夢はアイドル！すごく、すーごく人気のアイドルなの！",
+        "I'm going to become a superstar one day! The most popular in the universe!"
+      ],
+      "secretaryTouch": [
+        "指挥官的手好暖哦",
+        "指揮官の手、温かいな~",
+        "Your hands are so warm, Commander~!"
+      ],
+      "secretarySpecialTouch": [
+        "好奇怪的感觉……",
+        "ヘンな感じ……",
+        "What a... strange feeling..."
+      ],
+      "task": [
+        "指挥官，虽然储存萝卜是好事，但储存任务可没有好处哦",
+        "指揮官、ニンジンを貯めるのはいいけど、任務を貯めても何も出ないよ？",
+        "You should definitely stock up on carrots, but you shouldn't stock up on unfinished missions!"
+      ],
+      "taskComplete": [
+        "指挥官，看，贝利把奖励拿来了，厉害吧！",
+        "指揮官、ほら、ベイリーが報酬を持ってきた！スゴイでしょー！",
+        "Look, Commander! I brought the rewards we got! Aren't I great~?"
+      ],
+      "mail": [
+        "指挥官，有邮件！是兔兔星来的吗？",
+        "指揮官、メールよ！ウサウサ星からのものなの？",
+        "Commander, new mail arrived! Is it from Planet Bunny?"
+      ],
+      "returnFromMission": [
+        "辛苦啦，就让贝利特制点心来抚慰指挥官的心灵吧！",
+        "お疲れちゃん！ベイリーが特製クッキーで指揮官の心を癒やしてあげる！",
+        "Good work, Commander! Want to try some of my handmade cookies?"
+      ],
+      "commission": [
+        "指挥官，委托组的姐妹们回来啦，走啦去接她们，不动动会生锈的！",
+        "指揮官、委託に出かけたみんなが帰ってきたよ！迎えにいこうよ~ずっと動かないと錆びついちゃうよ~！",
+        "Commander, the girls who were out on a commission have returned! Let's give them a warm welcome! If we don't have regular exercise then we'll start to rust!"
+      ],
+      "strengthening": [
+        "兔兔力提升了，yeah！",
+        "ウサウサパワー、さらにレベルアップ！Yeah！",
+        "My bunny level has gone up even higher! Yeah!"
+      ],
+      "startingMission": [
+        "贝利才不怕你们呢！",
+        "ベイリーはあんたたちが怖くないもん！",
+        "I'm not afraid of you!"
+      ],
+      "mvp": [
+        "哼哼，兔兔可是很厉害的！",
+        "ふふん、ウサウサはとっても強いから！",
+        "Haha! Bunnies are just super strong!"
+      ],
+      "defeat": [
+        "呜呜，兔兔星不会放过你们的……",
+        "うぅ……ウサウサ星は許してあげないんだからね！",
+        "*Sob*... Planet Bunny won't let you off so easily!"
+      ],
+      "skillActivation": [
+        "看招，兔兔无限……",
+        "いっくよーウサウサ暗黒無限破ッ！",
+        "Here I go! Bunny Boosted Bane Blaster!"
+      ],
+      "lowHP": [
+        "兔兔生气了……也会咬人的！",
+        "ウサウサだって…怒ったら人を噛んじゃうぴょん！",
+        "Bunnies bite when they're angry...!"
+      ],
+      "affinityDisappointed": [
+        "指挥官是兔兔的敌人！",
+        "指揮官はウサウサの敵だぴょん！",
+        "You're the enemy of the bunnies, Commander!"
+      ],
+      "affinityStranger": [
+        "贝利虽然是兔兔，也会好好加油的~",
+        "ベイリーはウサウサだけど、ちゃんと頑張るよ～！",
+        "I'll do my best, even though I'm just a bunny!"
+      ],
+      "affinityFriendly": [
+        "本森姐姐说贝利是兔兔星来的，贝利又不是小孩子了……但是但是，圣诞老人一定是存在的！",
+        "ベンソン姉はベイリーがウサウサ星から来たって言うけど、ベイリーはもう子供じゃないから別に……でもでも、サンタさんは絶対にいるよ！",
+        "Benson told me that I'm from Planet Bunny... Does she think I'm still a kid or something? But... but... I know for a fact that Santa is real!"
+      ],
+      "affinityLike": [
+        "指挥官，和兔兔去那边玩嘛~工作？哼哼哼，指挥官再看看？不用感谢贝利也没关系哦~",
+        "指揮官～ウサウサと遊んでよ～仕事？ふふふ、もう一度見てみて？ベイリーに感謝しなくてもいいよ？",
+        "C'mon, Commander, play with me~! Busy with work? Hehe, look again, Commander. No need to thank me!"
+      ],
+      "affinityLove": [
+        "姐姐说兔兔太寂寞会死翘翘的，所以贝利就来找指挥官啦~指挥官……不希望贝利来吗？",
+        "姉はウサウサは寂しすぎると死んじゃうと言ったから、指揮官に会いに来たの～指揮官は……ベイリーに来てほしくないの？",
+        "My sister told me that bunnies die if they get too lonely! That's why I came to see you~! Do you... not want to visit me, Commander?"
+      ],
+      "pledge": [
+        "shi……yue？虽然不太明白，这样指挥官也变成兔兔星人了吗？……太好啦，这样就能一直和指挥官在一起了！",
+        "ケッコン……？よくわからないけど、指揮官もウサウサ星人になったってことよね？……よかった！これで指揮官とはずっと一緒よ！",
+        "Pro...mise? Promise what? I don't really get it. Do you wanna become a bunny too? ... Great! That means we can be together forever!"
+      ],
+      "giftDescriptionValentines2018": [
+        "兔兔星特产的巧克力——送给指挥官！是本森姐教我怎么做的！",
+        "ウサウサ星特産のチョコレートーー指揮官にあげる！ベンソン姉が作り方を教えてくれた！ -- ベイリー",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "贝利送给指挥官的不是兔兔星特产，是贝利做的兔兔星名品巧克力……嗯？没区别？怎么回事？",
+        "ウサウサ星特産…ではなく、ベイリーの作ったウサウサ星名物チョコレート、指揮官にあげる！…うん？同じ？どういうこと？",
+        "Planet Bunny locally produced chocolate, just for you! Benson taught me how to make it!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Benson and I made this together, and now I'm giving it to you, Commander! It's packed with Planet Bunny's signature flavors that'll capture your heart! Or so Benson said, anyway. Here's hoping it'll work..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Bailey_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Bailey_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Bailey_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Bailey_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Bailey_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Bailey_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Bailey_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Bailey_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Bailey_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Bailey_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Bailey_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Bailey_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Bailey_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Bailey_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Bailey_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Bailey_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Bailey_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Bailey_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Bailey_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Bailey_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Bailey_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Bailey_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Bailey_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Bailey_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Bailey_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Bailey_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Bailey_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Bailey_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Bailey_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Bailey_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Bailey_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Bailey_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Bailey_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Bailey_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Bailey_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Bailey_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Bailey_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Bailey_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Bailey_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Bailey_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Bailey_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Bailey_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Bailey_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Bailey_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Bailey_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Bailey_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Bailey_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Bailey_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Bailey_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Bailey_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Bailey_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Bailey_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Bailey_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Bailey_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Bailey_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Bailey_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Bailey_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Bailey_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Bailey_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Bailey_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Bailey_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Bailey_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Bailey_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Bailey_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Bailey_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Bailey_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Bailey_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Bailey_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Bailey_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Bailey_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Bailey_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Bailey_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Bailey_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Bailey_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Bailey_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bailey_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bailey_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bailey_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/fe/BaileyKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bc/BaileyKaiChibi.png",
+      "shipDescription": [
+        "终于等到了这一天呢~兔兔们，准备好了吗？贝利的出道秀就要开始了哦。指挥官，姐妹们，都来看贝利的兔兔魔术吧！",
+        "ようやくこの日がきたね～ウサウサたち、準備はいい？ベイリーのデビューステージが始まるよ！指揮官、みんな！ベイリーのウサウサマジックを見に来てね！",
+        "This long-awaited day has finally come. My bunnies, are you all ready? Bailey's debut shall now begin! Commander, my sisters, let's all come see Bailey's bunny magic!"
+      ],
+      "acquisition": [
+        "终于等到了这一天呢~兔兔们，准备好了吗？贝利的出道秀就要开始了哦。指挥官，姐妹们，都来看贝利的兔兔魔术吧！",
+        "ようやくこの日がきたね～ウサウサたち、準備はいい？ベイリーのデビューステージが始まるよ！指揮官、みんな！ベイリーのウサウサマジックを見に来てね！",
+        "This day has finally arrived~ Are you ready, Rabbits? Bailey’s new debut is about to begin. Commander, sisters, come and witness Bailey’s rabbit magic!"
+      ],
+      "details": [
+        "兔美，兔吉，装备方面就麻烦你们了哦~",
+        "ウサ美、ウサ吉、装備は任せたよ～",
+        "Cutie, Lucky, I'm leaving the equipment to you two~!"
+      ],
+      "secretaryIdle1": [
+        "最闪耀的贝利，永远是下一秒的贝利~",
+        "一番輝くベイリーは、次の瞬間のベイリーだよ！",
+        "Bailey will always be shining brighter in the next moment~!"
+      ],
+      "secretaryIdle2": [
+        "指挥官指挥官，贝利可爱吗~……欸嘿嘿，被夸奖了~",
+        "指揮官指揮官！ベイリー可愛い～えへへ、褒められちゃった♪",
+        "Commander, Commander! Is Bailey cute? Ehehe... you can praise Bailey some more~!"
+      ],
+      "mail": [
+        "指挥官，有邮件！有贝利的粉丝来信吗？",
+        "指揮官、メールよ！ベイリーへのファンレターあるの？",
+        "Commander, there's mail! Is there any fanmail for Bailey?"
+      ],
+      "returnFromMission": [
+        "辛苦啦，就用贝利最棒的笑容来抚慰指挥官的心灵吧！",
+        "お疲れちゃん！ベイリーが最高の笑顔で指揮官の心を癒やしてあげる！",
+        "Good work! Bailey shall use her brighest smile to soothe Commander's heart!"
+      ],
+      "startingMission": [
+        "兔兔魔术可是超~强~的！",
+        "ウサウサマジックはちょーつよいぞー！",
+        "Bunny magic is suuuuper strong!"
+      ],
+      "mvp": [
+        "贝利是来自兔兔星的贝利，请大家多多支持~",
+        "ウサウサ星から来たベイリーだよ！みんなよろしく～！",
+        "It's Bailey from Planet Bunny! Everyone, please give me your support~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Bailey_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Bailey_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Bailey_IntroSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Bailey_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Bailey_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Bailey_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Bailey_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Bailey_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Bailey_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Bailey_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Bailey_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Bailey_SecIdle2Skin9JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Bailey_MailSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Bailey_MailSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Bailey_MailSkin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Bailey_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Bailey_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Bailey_MissionFinSkin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Bailey_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Bailey_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Bailey_MissionStartSkin9JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Bailey_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Bailey_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Bailey_MVPSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Trickster Black Rabbit",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "捣蛋黑兔",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "トリッキーベイリー",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Halloween - Finish the \"Mischievous Halloween\" questline",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/48/BaileyHalloween.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2b/BaileyHalloweenChibi.png",
+      "shipDescription": [
+        "哼哼，看到贝利身旁的幽灵了吗？来自兔兔星的黑色魔女——这就是今天的贝利！",
+        "となりのオバケさんが見えた？ふっふっふー、ウサウサ星からやってきた黒い魔女――それが今日のベイリーだよ！",
+        "Can you see the ghost next to me? Hehehe— the black witch from Planet Bunny is none other than me, Bailey!"
+      ],
+      "acquisition": [
+        "哼哼，看到贝利身旁的幽灵了吗？来自兔兔星的黑色魔女——这就是今天的贝利！",
+        "となりのオバケさんが見えた？ふっふっふー、ウサウサ星からやってきた黒い魔女――それが今日のベイリーだよ！",
+        "Can you see the ghost next to me? Hehehe— the black witch from Planet Bunny is none other than me, Bailey!"
+      ],
+      "login": [
+        "Trick or Treat！不给糖的话，贝利就要和兔兔们一起捣乱了！",
+        "トリック・オア・トリート！キャンディをくれなきゃベイリーとウサウサたちがいたずらしちゃうぞー！",
+        "Trick or treat! If you don't hand over the candy, Baily and the Bunnykin will play a trick on you!"
+      ],
+      "details": [
+        "兔美，兔吉，听好了！今天我们的任务是从指挥官那里要来很多很多的糖果！",
+        "ウサ美、ウサ吉、よーく聞いてね！今日の任務は指揮官からキャンディをたくさんもらうこと！",
+        "Cutie, Lucky, listen closely! Today's mission is to extract a whole bunch of candy from the commander!"
+      ],
+      "secretaryIdle1": [
+        "贝利要把从指挥官那里得到的糖分给兔兔星的大家！嘿嘿~",
+        "指揮官からもらったキャンディはウサウサ星のみんなに分けるの！えへへ☆",
+        "Commander, your candy contribution will be distributed among the residents of Planet Bunny! Ehehe~☆"
+      ],
+      "secretaryIdle2": [
+        "有没有胡萝卜味的糖果？贝利想多拿一点！",
+        "ニンジンのキャンディとかないかな？ベイリーはニンジンのキャンディがほしい！",
+        "Don't you have any carrot candy? Bailey craves carrot candy!"
+      ],
+      "secretaryIdle3": [
+        "今天的贝利是黑色的兔兔，和平时白色的兔兔可不一样！",
+        "今日のベイリーは黒いウサさんだよ？普段の白いウサさんとは一味違うよー",
+        "Bailey's a black bunny today. Don't mistake it for a regular ol' white bunny!"
+      ],
+      "secretaryTouch": [
+        "送出去的糖果，是没法要回来的呢！",
+        "あげちゃったキャンディは取り戻せないよ～",
+        "Candy given away can never be reclaimed~!"
+      ],
+      "secretarySpecialTouch": [
+        "这个奇怪的感觉，不是兔兔星的电波……",
+        "このヘンな感じ、ウサウサ星の電波じゃないよね……",
+        "This strange sensation... Could it be EM waves from Planet Bunny...?"
+      ],
+      "returnFromMission": [
+        "贝利不会做南瓜派，不过贝利做了好吃胡萝卜饼！",
+        "ベイリー、パンプキンパイは作れないから、代わりに美味しいキャロットケーキを作ったよ！",
+        "Bailey doesn't do pumpkin pie, but you can have this delicious carrot cake instead!"
+      ],
+      "startingMission": [
+        "兔美，兔吉，坐稳咯！",
+        "ウサ美、ウサ吉、しっかり捕まって～",
+        "Cutie, Lucky, hold on tight~!"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +60 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C",
+        "F"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Reload Enhancement Ⅱ",
+      "attributes": "Reload +5 / Reload +10 ",
+      "materials": "2 / 2x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +60 / Health +90 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Interference\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G",
+        "J"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Anti-Air Enhancement Ⅱ",
+      "attributes": "Anti-air +15 / Anti-air +25 ",
+      "materials": "2 / 2x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +15, Anti-air +35 ",
+      "materials": "1x DestroyerT3BP and 1x Bailey or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "name": "Norfolk",
+  "constructionTime": "01:30:00",
+  "constructionPools": [
+    false,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "County",
+  "ID": "123",
+  "faction": "Royal Navy",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "http://www.rme.jp/talent/women/hiromi-sakuma.html",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4621,
+      160,
+      69,
+      178,
+      141,
+      68,
+      25,
+      241,
+      0,
+      10,
+      116,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4126,
+      139,
+      69,
+      154,
+      123,
+      24,
+      25,
+      210,
+      0,
+      10,
+      99,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      798,
+      59,
+      69,
+      33,
+      26,
+      9,
+      25,
+      45,
+      0,
+      3,
+      38,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 160%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 120%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Reload  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    18,
+    9,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Forward Armor; CN: 正面装甲 JP: 正面装甲",
+  "skill1Description": "Upon taking damage: 15% chance to spawn a frontal shield for 5 (15) seconds that blocks up to 12 shots.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ノーフォーク級",
+  "skill2Description": "Every 9 (6) shots from the main guns, triggers Full Barrage - Norfolk I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/Norfolk.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/66/NorfolkChibi.png",
+      "shipDescription": [
+        "诺福克级重巡洋舰—诺福克，舷号78",
+        "ノーフォーク級重巡洋艦・ノーフォーク (HMS Norfolk）",
+        "Norfolk-class heavy cruiser - Norfolk, Hull Number 78!"
+      ],
+      "selfIntroduction": [
+        "诺福克是……那个……第三批郡级的重巡洋舰喔……呜，指挥官不要盯着我看…… 但是，丹麦海峡的时候是天线被冻住了……不，不是因为胆小哦！",
+        "ノーフォークは……あの……ううぅ、指揮官そんなにじっと見ないでください……デンマーク海戦ではアンテナが凍ってて……お、おくびょうじゃないんですよ！",
+        "I'm... part of... the third group of County-class heavy cruisers... Please don't stare at me... What happened at the Denmark Strait was because my antenna froze... and not because I was scared!"
+      ],
+      "acquisition": [
+        "你，你好，指挥官，我是诺福克……呜……那个……就是……请多关照……",
+        "は、初めまして、指揮官、私はノーフォークです…えっと…あの…その…よろしく…",
+        "H-hello, Commander... I'm... Norfolk... Um... Uh... It's a pleasure to meet you..."
+      ],
+      "login": [
+        "指挥官，欢迎回来……",
+        "指揮官、お帰りなさい…",
+        "Commander, welcome back..."
+      ],
+      "details": [
+        "好害羞……",
+        "恥ずかしいです…",
+        "I'm so embarrassed..."
+      ],
+      "secretaryIdle1": [
+        "我……不喜欢冬天……",
+        "私…冬は嫌いです…",
+        "I... don't like the winter..."
+      ],
+      "secretaryIdle2": [
+        "继承而来的名字……好重哦……",
+        "受け継いできたこの名前が…重い…",
+        "This name I inherited.... it's heavy....."
+      ],
+      "secretaryIdle3": [
+        "不和大家处理好关系……可不好哦",
+        "みんなと仲よくしないと…ダメです",
+        "If everyone doesn't get along... then that's no good."
+      ],
+      "secretaryTouch": [
+        "诺福克做错了什么吗……？",
+        "私、何か悪いことしましたか…？",
+        "Did I do something wrong...?"
+      ],
+      "secretarySpecialTouch": [
+        "呀，指挥官……坏……",
+        "やだ、指揮官…やめて…",
+        "Ahh, Commander... You baddie..."
+      ],
+      "task": [
+        "新的任务下达了……指挥官要看看吗？",
+        "新しい作戦指示が出ました…指揮官、ご覧になりますか？",
+        "We've received some new missions.... Would you like to take a look, Commander?"
+      ],
+      "taskComplete": [
+        "指挥官……任务奖励发放了，我去帮你取吧？",
+        "指揮官……指示達成ボーナスが届きました。私が取りに行きましょうか？",
+        "Commander, your mission rewards are ready. Want me to pick them up for you?"
+      ],
+      "mail": [
+        "……新的邮件，有点羡慕指挥官……",
+        "……新しいメールですね。指揮官が羨ましいです……",
+        "... New mail. I'm a bit jealous of you, Commander..."
+      ],
+      "returnFromMission": [
+        "指挥官……不介意的话，诺福克来按摩……呜，还是算了……",
+        "指揮官……もし大丈夫でしたらノーフォークがマッサージして‥…うぅ、やっぱりいいです……",
+        "Commander... if you don't mind, let me give you a massage... Uhh, never mind..."
+      ],
+      "commission": [
+        "委托好像完成了",
+        "委託が完了しましたようです…",
+        "It seems a commission's been completed."
+      ],
+      "strengthening": [
+        "指挥官给了诺福克勇气……",
+        "指揮官がノーフォークに勇気をくれました……",
+        "You've given me more courage, Commander..."
+      ],
+      "startingMission": [
+        "诺福克……会加油的……",
+        "ノーフォーク…が、がんばります…",
+        "I'll... give it my utmost..."
+      ],
+      "mvp": [
+        "这种评价给我真的好吗……",
+        "こんな名誉、ほんとにもらっていいんですか…？",
+        "Is it really fine for me to receive such an honor...?"
+      ],
+      "defeat": [
+        "呜呜呜……果然我不适合战斗……",
+        "うっうっ…やっぱり戦闘には向いてないみたいです…",
+        "*Cries*... I'm not so suitable for combat after all..."
+      ],
+      "skillActivation": [
+        "诺福克，会，会加油的！",
+        "ノーフォーク、が、頑張ります！",
+        "I'll g-give it my utmost!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "呜……",
+        "うぅ……",
+        "*Sob*..."
+      ],
+      "affinityStranger": [
+        "指挥官……找诺福克有什么事吗——想做的事……？想……听指挥官讲故事……可以吗？",
+        "指揮官……ノーフォークに何の話？ーーしたいことですか……？指揮官にお話を聞かせてほしいんですけど……いいですか？",
+        "Commander... why did you call for me...? Anything I want to do...? I...would like you to tell me a story... Is that okay?"
+      ],
+      "affinityFriendly": [
+        "指挥官……能再给诺福克讲故事吗……这次我带了想听的故事书……",
+        "指揮官……またノーフォークにお話を聞かせてもらえますか……えっと、今回は聞きたい絵本を持ってきました…",
+        "Commander, could you tell me more stories...? This time I brought a fairytale book I want you to read to me..."
+      ],
+      "affinityLike": [
+        "指挥官……诺福克怕黑，睡不着……能和指挥官一起睡吗……？",
+        "指揮官……ノーフォーク、暗いのが怖いのです……指揮官と一緒に寝てもいいですか……？",
+        "Commander... I'm afraid of the dark... I can't sleep...So can I sleep with you tonight...?"
+      ],
+      "affinityLove": [
+        "指挥官的身边好温暖……诺福克能一直呆在这里吗？",
+        "指揮官のそば、温かいです……ノーフォーク、ずっとここにいてもいいですか？",
+        "Commander, you're so warm... Can I stay here with you forever?"
+      ],
+      "pledge": [
+        "嗯……诺福克，也想要一直一直呆在指挥官身边……",
+        "はい……ノーフォークも、指揮官のそばにずっとずーっといたい、です……",
+        "Mm... I too want to stay with you, forever and ever..."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、ハッピー・バレンタインです…今日はノーフォークから指揮官にプレゼントしますね…？えっと、妹が作った、チョコレートです…ど、どうぞ！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，情人节快乐……今年的巧克力是妹妹做的……但我也有帮一点忙……感想的话……之后告诉我就可以！",
+        "指揮官、ハッピーバレンタインです…今年は妹が作ったチョコですが……私も少し手伝いました……感想は…あ、後ででいいです！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's Day, Commander. Eldridge melted your chocolate... S- so instead you can take mine! I'll make some more with Eldridge later!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Norfolk_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Norfolk_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Norfolk_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Norfolk_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Norfolk_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Norfolk_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Norfolk_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Norfolk_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Norfolk_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Norfolk_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Norfolk_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Norfolk_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Norfolk_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Norfolk_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Norfolk_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Norfolk_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Norfolk_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Norfolk_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Norfolk_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Norfolk_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Norfolk_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Norfolk_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Norfolk_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Norfolk_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Norfolk_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Norfolk_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Norfolk_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Norfolk_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Norfolk_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Norfolk_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Norfolk_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Norfolk_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Norfolk_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Norfolk_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Norfolk_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Norfolk_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Norfolk_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Norfolk_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Norfolk_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Norfolk_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Norfolk_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Norfolk_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Norfolk_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Norfolk_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Norfolk_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Norfolk_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Norfolk_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Norfolk_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Norfolk_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Norfolk_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Norfolk_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Norfolk_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Norfolk_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Norfolk_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Norfolk_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Norfolk_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Norfolk_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Norfolk_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Norfolk_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Norfolk_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Norfolk_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Norfolk_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Norfolk_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Norfolk_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Norfolk_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Norfolk_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Norfolk_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Norfolk_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Norfolk_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Norfolk_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Norfolk_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Norfolk_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Norfolk_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Norfolk_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Norfolk_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

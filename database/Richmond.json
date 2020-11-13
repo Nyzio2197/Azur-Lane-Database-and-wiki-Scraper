@@ -1,0 +1,452 @@
+{
+  "name": "Richmond",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Normal",
+  "shipClass": "Omaha",
+  "ID": "303",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "玛雅G",
+  "pixiv": "https://www.pixiv.net/member.php?id=1287983",
+  "twitter": "https://twitter.com/mayag_nya",
+  "link": "http://weibo.com/p/1005051970961102",
+  "voiceActor": "https://www.imdb.com/name/nm7840404/",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3237,
+      182,
+      69,
+      142,
+      207,
+      101,
+      35,
+      281,
+      0,
+      8,
+      151,
+      92,
+      0,
+      0
+    ],
+    "Level 100": [
+      2865,
+      158,
+      69,
+      123,
+      180,
+      79,
+      35,
+      246,
+      0,
+      8,
+      135,
+      81,
+      0,
+      0
+    ],
+    "Base Stats": [
+      554,
+      67,
+      69,
+      26,
+      38,
+      30,
+      35,
+      53,
+      0,
+      2,
+      52,
+      22,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Light cruiser (CL) Health  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    11,
+    13,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Artillery Command: Cruisers; CN: 炮术指挥·巡洋舰 JP: 砲術指揮・巡洋艦",
+  "skill1Description": "Increases Firepower of Cruisers in the same fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-オマハ級",
+  "skill2Description": "Every 12 (8) shots from the main guns, trigger Full Barrage - Omaha-Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/9f/Richmond.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a4/RichmondChibi.png",
+      "shipDescription": [
+        "奥马哈级轻巡洋舰—里士满，舷号CL-9",
+        "オマハ級軽巡洋艦・リッチモンド（CL-9)",
+        "Omaha-class light cruiser - Richmond, Hull Number CL-9!"
+      ],
+      "selfIntroduction": [
+        "我是奥马哈级的里士满~因为是旧型，主要负责护卫、运输之类的任务，虽然性能不足以拿来自夸，但也算是见多识广哦？指挥官有问题的话问我就好了~",
+        "オマハ級のリッチモンドよ~旧式だから主に護衛、輸送の任務についていたの。性能はちょっと自慢できないけど、結構色んな経験をしてきたのよ~指揮官、問題があったらあたしに相談してね~",
+        "I'm Richmond of the Omaha-class. Because I'm an old model, I was mainly tasked with things like escorts and transport. Although my performance is nothing to brag about, you can say that I've seen a lot of action! Feel free to ask me anything whenever you have questions~!"
+      ],
+      "acquisition": [
+        "嗨，你就是指挥官吗？啊哈太好了，我是里士满，请多关照啦",
+        "ハーイ！あなたが指揮官？ちょうどよかった♪あたしはリッチモンドよ。よろしく頼むねー",
+        "Hi! Are you the commander? That's great~! I'm Richmond. Hit me up whenever you feel like~!"
+      ],
+      "login": [
+        "指挥官，离开这么久是去做什么有趣的事了吗？也带我去呀",
+        "指揮官、結構時間経ったけど、なんかオモシロイことでもあった？あたしも連れてってよ~",
+        "Commander, did you do anything interesting while you were away for so long? You should bring me along next time~!"
+      ],
+      "details": [
+        "指挥官，有什么事吗~没事的话来聊聊天吧",
+        "指揮官、なんか用~？用がないなら、ちょっとおしゃべりでもしない？",
+        "Commander, do you need anything? You can always chat with me if you're free."
+      ],
+      "secretaryIdle1": [
+        "指挥官，你嘴角沾了东西……好，拿掉了！",
+        "指揮官、口になんかついてるよ……よし、取れた！",
+        "Commander, you've got something on your lips... Got it!"
+      ],
+      "secretaryIdle2": [
+        "能见到各个地方的大家真是开心~",
+        "色んなとこにいたみんなと出会えて、すっごく嬉しいよ♪",
+        "I'd love to be able to see everyone from all over the world~!"
+      ],
+      "secretaryIdle3": [
+        "我们众多姐妹都存活到了战后，很厉害吧？",
+        "あたしの姉妹達はみんなあの戦争を生き延びたのよ、すごいでしょ♪",
+        "Lots of my sisters have survived through this war. Impressive, right?"
+      ],
+      "secretaryTouch": [
+        "指挥官也喜欢肢体接触吗？",
+        "指揮官もスキンシップが好きなの？",
+        "Do you like getting physical too, Commander?"
+      ],
+      "secretarySpecialTouch": [
+        "指~挥~官~",
+        "しーきーかーん！",
+        "Com~man~der~"
+      ],
+      "task": [
+        "这个也是任务，那个也是任务……当指挥官也真辛苦耶，我来帮你吧~",
+        "これも任務、あれも任務……指揮官は大変だよね~あたしが手伝ってあげる♪",
+        "♪Mission here, mission there♪ Being a commander is so much work. Let me help you!"
+      ],
+      "taskComplete": [
+        "啊哈，指挥官，奖励来了~还是说指挥官想要我一个热情的拥抱？",
+        "キャハ♪指揮官、ボーナス来たよ♪…それともあたしの熱いハグのほうがいい？",
+        "Teehee~ Our rewards have arrived, Commander! ... Or would you rather get a passionate hug from me instead?"
+      ],
+      "mail": [
+        "指挥官，我去收信的时候顺便把你的信也带过来了~",
+        "メールボックスを確認して、ついでに指揮官宛のも持ってきたよ♪",
+        "Commander, I checked the mail box and brought your mail along with my own~"
+      ],
+      "returnFromMission": [
+        "刚下战场的指挥官真帅~",
+        "戦場から帰還したばかりの指揮官、かっこいい！",
+        "You look so cool coming right off the battlefield, Commander!"
+      ],
+      "commission": [
+        "指挥官，看着我发呆虽然无所谓，不过有委托完成了哦？",
+        "指揮官、ここであたしのことをずっと見ててもいいけど、委託が完了したよ？",
+        "Commander, you can stare at me all day if you want, but just know that a commission has been completed."
+      ],
+      "strengthening": [
+        "啊哈，这个感觉好舒服",
+        "キャハ♪いい気持ち♪",
+        "Teehee~ This feels good~"
+      ],
+      "startingMission": [
+        "嗯哼，来热身一下吧~",
+        "んっしょ、ウォーミングアップと行くよー",
+        "Alrighty, let's do some warm-ups!"
+      ],
+      "mvp": [
+        "这是团结的胜利，耶！",
+        "団結による勝利よ、イェイ！",
+        "Teamwork makes the dream work! Yay!"
+      ],
+      "defeat": [
+        "哎呀，输掉了呢，真可惜",
+        "あらら、負けちゃった…ざんね～ん",
+        "Oh no, we lost... Well that sucks~"
+      ],
+      "skillActivation": [
+        "就让你们看看经验的差距吧！",
+        "経験の差を見せてあげる♪",
+        "Let me show you what a difference experience makes!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "看来要找下一个地方了呢……",
+        "他のとこ探そうかな…",
+        "Seems like I have to find another place..."
+      ],
+      "affinityStranger": [
+        "虽然去过很多地方，不过这种很多地方的人聚在一起的舰队还是头一次，啊哈，真有意思~",
+        "色んなとこ行ってたけど、ここのような違う国の皆が集まった艦隊は初めてよ。キャハ♪たーのしー！",
+        "I've been to a lot of places, but this is the first time I've ever seen a fleet with girls from all around the world. This is so interesting!"
+      ],
+      "affinityFriendly": [
+        "指挥官~我刚刚对舰队熟悉起来，还有很多想知道的东西，能不能陪我出去走走呀？",
+        "指揮官~あたしこの艦隊に入ったばかりで、もっと色々知りたいの。なので、ちょっとお散歩、付き合ってもらっていい？",
+        "Commander~ I only just joined this fleet and there's still plenty I don't know yet. So, could I ask you to accompany me on a short walk?"
+      ],
+      "affinityLike": [
+        "嗯，这支舰队果然很棒，指挥官也很棒！所以我也把我的事告诉指挥官你吧~嗯，让我想想，第一次大战后呢……",
+        "うん、やっぱこの艦隊はいいよね！もちろん指揮官も！じゃあ、あたしのことも指揮官に教えてあげる♪うんうん、ちょっと考えさせて～…まずはこの前の前の大戦では……",
+        "This fleet is great! And you're awesome too, Commander! Let me tell you about myself... First thing: after that World War just before this one, I was..."
+      ],
+      "affinityLove": [
+        "说起来，指挥官，我虽然体验过许多事，不过还有一些事一直都想体验一下但是找不到对象呢~",
+        "指揮官、そういえばあたし色んなこと見てきたけど、一つだけ相手がいないから体験していないことがあるよね~",
+        "Commander, I've seen a lot during my time in this world, but there's still one thing I haven't experienced yet since I don't have a partner..."
+      ],
+      "pledge": [
+        "没错，就是恋爱啦恋爱，还有在那之后的事！一直没有合适的人耶，遇到指挥官总算是找到了~收下这个的话我就当指挥官也答应了哦？",
+        "うん！恋愛だよ♪恋愛！あと…そのあとのことも！指揮官と出会うまでいい相手がいなかったからね~これを受け取ちゃうと、指揮官が相手してくれるってことでイイよね♪",
+        "That's right, I was talking about love! ... And the things that follow! I've never met a suitable candidate, at least until I met you~! When I accept this, it'll mean you agree to be my partner as well, right~?"
+      ],
+      "giftDescriptionValentines2018": [
+        "这个巧克力送给指挥官♪我去过不少地方，所以学过不少做法~怎么说呢…全世界大集合的感觉？",
+        "揮官へのチョコよ♪まあ私いろんな所に行ってたから、ちょいちょいと作り方勉強してたんだ～なんというか…ワールドワイドな感じかも？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你巧克力♪今年除了欧若拉的玫瑰味，还加了一点伊吹的“时令山珍”呢～额，可能有点像“中药”的味道？",
+        "指揮官、チョコをあげるね♪ 今年はオーロラさんからのバラテイストに、伊吹さんから「旬の味」という要素を取り入れたよ～ちょっと「カンポウ」っぽい感じになるのかも？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here, try some of my handmade chocolate, Commander~ Heheh, I've got a hunch that this recipe will catch on with the masses! Hm? What did I add to the recipe...? Oh shoot, I forgot..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Richmond_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Richmond_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Richmond_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Richmond_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Richmond_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Richmond_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Richmond_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Richmond_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Richmond_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Richmond_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Richmond_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Richmond_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Richmond_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Richmond_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Richmond_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Richmond_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Richmond_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Richmond_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Richmond_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Richmond_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Richmond_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Richmond_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Richmond_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Richmond_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Richmond_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Richmond_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Richmond_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Richmond_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Richmond_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Richmond_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Richmond_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Richmond_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Richmond_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Richmond_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Richmond_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Richmond_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Richmond_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Richmond_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Richmond_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Richmond_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Richmond_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Richmond_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Richmond_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Richmond_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Richmond_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Richmond_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Richmond_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Richmond_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Richmond_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Richmond_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Richmond_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Richmond_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Richmond_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Richmond_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Richmond_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Richmond_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Richmond_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Richmond_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Richmond_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Richmond_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Richmond_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Richmond_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Richmond_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Richmond_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Richmond_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Richmond_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Richmond_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Richmond_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Richmond_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Richmond_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Richmond_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Richmond_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Richmond_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Richmond_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Richmond_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

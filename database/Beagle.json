@@ -1,0 +1,453 @@
+{
+  "name": "Beagle",
+  "constructionTime": "00:20:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Normal",
+  "shipClass": "A and B",
+  "ID": "086",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "林大B",
+  "pixiv": "https://www.pixiv.net/member.php?id=1245646",
+  "twitter": "https://twitter.com/lin_da_Bi",
+  "link": "https://weibo.com/312444618",
+  "voiceActor": "https://en.wikipedia.org/wiki/Eri_Suzuki",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1349,
+      190,
+      71,
+      65,
+      354,
+      209,
+      42,
+      150,
+      0,
+      7,
+      175,
+      192,
+      0,
+      0
+    ],
+    "Level 100": [
+      1124,
+      165,
+      71,
+      57,
+      315,
+      203,
+      42,
+      130,
+      0,
+      7,
+      167,
+      173,
+      0,
+      0
+    ],
+    "Base Stats": [
+      218,
+      70,
+      71,
+      12,
+      67,
+      78,
+      42,
+      28,
+      0,
+      1,
+      64,
+      47,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 2,
+  "maxLimitBreakTechPoints": 4,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 3,
+  "enhancementValue": [
+    4,
+    22,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill1Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-B級",
+  "skill2Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - B-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/fc/Beagle.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c2/BeagleChibi.png",
+      "shipDescription": [
+        "B级驱逐舰—小猎兔犬，舷号H30",
+        "B級駆逐艦・ピーグル（H30)",
+        "B-class destroyer ー Beagle, Hull Number H30!"
+      ],
+      "selfIntroduction": [
+        "自我介绍吗？嗯……虽然没有什么特别的战功，不过我参与过许多护卫任务哦，比如挪威，大西洋，火炬行动，还有……总之很多！要是能帮上指挥官的忙就好了！",
+        "自己紹介？うん……別に大した戦果はなかったけど、護衛任務ならいっぱい参加したよ？ノルウェー、大西洋、トーチ作戦、あとは……とにかくいっぱいなの！あたし、指揮官のお役に立てればいいなぁ！",
+        "Self introduction? Huh... I didn't accomplish much, but I took part in many escort missions, you know? Norway, Atlantic, Operation Torch, and then... Anyway, a lot of those! It will be nice if I can be of help, Commander!"
+      ],
+      "acquisition": [
+        "终于见到指挥官啦！我是B级的小猎兔犬，最擅长的是护卫任务！要是有需要帮忙的地方就尽管找我吧，我很能干的！",
+        "指揮官、やっと会えた！あたしB級のビーグルっていうの！護衛任務が一番得意なの！指揮官に助けが必要ならどんどんあたしに聞いてね！あたし、結構やれるんだから！",
+        "I finally got a chance to meet you, Commander! I'm B class' Beagle! The best of what I can do are escort missions! If you need my help just let me know! I am quite a worker!"
+      ],
+      "login": [
+        "指挥官，欢迎回来！",
+        "指揮官、おかえり！",
+        "Welcome back, Commander!"
+      ],
+      "details": [
+        "指挥官指挥官，今天要一起出去玩吗！",
+        "指揮官、今日は一緒にお出かけするの？",
+        "Commander, want to hang out together?"
+      ],
+      "secretaryIdle1": [
+        "欸？！抓，抓兔子吗……虽然不太清楚，不过为了指挥官，我来试一下好了！",
+        "え？！う、ウサギさんを捕まえるの？……よくわからないけど、指揮官のためなら、やってみる！",
+        "Eh?! Y-You want to catch a rabbit? ...I don't get it, but for you, Commander, I'll give it a try!"
+      ],
+      "secretaryIdle2": [
+        "指挥官，今天天气很好呀，一起去散步吧！",
+        "指揮官、今日はいい天気～一緒にお散歩しよっ？",
+        "Commander, what a nice weather today~ Let's take a walk, alright?"
+      ],
+      "secretaryIdle3": [
+        "嗯……我确实去过很多地方呢……啊，指挥官要是有兴趣，我给你讲讲我以前看到的东西吧！",
+        "うん？そういえばあたし、昔色んなところ行ってたんだよね。…あ、指揮官、あたしが行ったことあるとこ、色々教えてあげるよ！",
+        "Hmm? Now that I think about it, I used to go to a lot of different places. ...Ah, Commander, I'll tell you all sorts of things about the places I have been to!"
+      ],
+      "secretaryTouch": [
+        "欸嘿嘿，好痒啦指挥官",
+        "えへへ、くすぐったいよ指揮官～",
+        "Ehehe, that tickles, Commander!"
+      ],
+      "secretarySpecialTouch": [
+        "呀！指挥官，H……",
+        "きゃっ！指揮官のえっち……",
+        "Eeek! Commander, you perv..."
+      ],
+      "task": [
+        "指挥官，有新的任务！",
+        "指揮官、新しい任務よ！",
+        "Commander, there's a new mission!"
+      ],
+      "taskComplete": [
+        "指挥官，我把任务奖励领过来啦~",
+        "指揮官、任務報酬、持ってきたよ～",
+        "Commander, I brought the mission rewards~"
+      ],
+      "mail": [
+        "指挥官，有邮件！读完再陪我玩吧！",
+        "指揮官、メール！読んだらまたあたしと遊んで！",
+        "Commander, there's mail! Play with me after you're done reading it!"
+      ],
+      "returnFromMission": [
+        "指挥官辛苦了！",
+        "指揮官、お疲れ様～！（スリスリ）",
+        "Commander, good work out there~! *nuzzle*"
+      ],
+      "commission": [
+        "指挥官，完成委托的姐妹们回来啦！我们一起去接她们吧，走吧走吧！",
+        "指揮官、委託に行った姉妹たちが戻ってきたよ！迎えに行こ？早く行こうよ～",
+        "Commander, the girls out for commissions have returned! How about we greet them? Come on, hurry up~"
+      ],
+      "strengthening": [
+        "为了指挥官，我会更加努力的！",
+        "指揮官のために、もっと頑張るね！",
+        "For your sake, Commander, I'm gonna work harder!"
+      ],
+      "startingMission": [
+        "小猎兔犬，出击！",
+        "ビーグル、いっくよー！",
+        "Beagle, tally ho!"
+      ],
+      "mvp": [
+        "欸嘿嘿，指挥官能摸摸我的头吗",
+        "えへへ、指揮官、あたまナデナデして～",
+        "Ehehe, Commander, pat my head~"
+      ],
+      "defeat": [
+        "呜……输掉了……",
+        "うぅ……負けちゃった……",
+        "*cries*... I lost..."
+      ],
+      "skillActivation": [
+        "为了指挥官哥哥！",
+        "指揮官のために！",
+        "For the Commander!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官……讨厌我了吗……",
+        "指揮官……あたしのこと…嫌いになった?……",
+        "Commander... do you hate me...?"
+      ],
+      "affinityStranger": [
+        "指挥官，我今天也很有干劲哦！",
+        "指揮官！あたし、今日も元気だよ！",
+        "I'm full of energy today, Commander!"
+      ],
+      "affinityFriendly": [
+        "发型吗？欸嘿嘿，这个是天生的呢，和狗狗一样，指挥官要摸摸看吗？",
+        "髪型？えへへ、これは生まれつきだよ？ワンちゃんと一緒でふわふわ～指揮官、触ってみる？",
+        "My hairstyle? Ehehe, it was born this way you know? It's as fluffy as a puppy~ Commander, wanna touch it?"
+      ],
+      "affinityLike": [
+        "指挥官，和我一起出去散步吧~一个人太无聊了不要嘛，我就要和指挥官一起去！陪我嘛！",
+        "指揮官、お散歩にでかけよっ？…一人でって？やだやだ、一人じゃ楽しくないもん！指揮官と一緒に行くもん！指揮官～付き合って～！",
+        "Commander, how about a walk? ...Walk by yourself? No no, it's not fun having a walk alone! I'm walking with you, Commander! Commander~ walk with me~!"
+      ],
+      "affinityLove": [
+        "指挥官，有什么需要我帮忙的吗？什么都可以哦，我只要能帮上忙就很开心了！",
+        "指揮官、あたしになにかできることあるの？なんでもいいよ？だってあたし、指揮官の役に立てれば嬉しいの！",
+        "Commander, is there something I can do? Anything is alright, you know? You see, I'm happy being of use to you, Commander!"
+      ],
+      "pledge": [
+        "把这个交给我真的可以吗……？嗯……我知道了！为了不辜负指挥官的信任，我也会更加努力为指挥官做更多的事的！欸嘿嘿，感觉从来没有这么有干劲过！",
+        "あたしがこれをもらっていいの……？うん……分かった！じゃあ指揮官のために、もっともっと頑張っちゃう!えへへ、やる気がわいてきた！",
+        "Are you fine with giving me this...? Yes... I got it! Then for you, Commander, I'm gonna work extra, extra hard! Ehehe, I'm getting motivated!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、あたしのチョコを受け取ってー。うん！手作りじゃないけど、美味しいと思うよ？後で食べてね～",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你巧克力……今年我认真亲手制作了哦！看在我这么努力的份上，以后要告诉我你的感想哦～",
+        "指揮官、チョコあげるー。今年はちゃんと手作りだよ！頑張って作ったから、後で感想聞かせてね～",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here comes your Valentine's chocolate, Commander! I made it with your favorite things and flavours in mind! Hehehe, give it a taste!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Beagle_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Beagle_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Beagle_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Beagle_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Beagle_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Beagle_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Beagle_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Beagle_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Beagle_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Beagle_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Beagle_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Beagle_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Beagle_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Beagle_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Beagle_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Beagle_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Beagle_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Beagle_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Beagle_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Beagle_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Beagle_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Beagle_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Beagle_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Beagle_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Beagle_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Beagle_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Beagle_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Beagle_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Beagle_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Beagle_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Beagle_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Beagle_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Beagle_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Beagle_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Beagle_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Beagle_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Beagle_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Beagle_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Beagle_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Beagle_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Beagle_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Beagle_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Beagle_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Beagle_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Beagle_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Beagle_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Beagle_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Beagle_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Beagle_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Beagle_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Beagle_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Beagle_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Beagle_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Beagle_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Beagle_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Beagle_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Beagle_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Beagle_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Beagle_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Beagle_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Beagle_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Beagle_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Beagle_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Beagle_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Beagle_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Beagle_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Beagle_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Beagle_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Beagle_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Beagle_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Beagle_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Beagle_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Beagle_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Beagle_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Beagle_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

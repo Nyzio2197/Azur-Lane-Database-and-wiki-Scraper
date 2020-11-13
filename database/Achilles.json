@@ -1,0 +1,724 @@
+{
+  "name": "Achilles",
+  "constructionTime": "01:15:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Leander",
+  "ID": "105",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "https://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Yuri_Yamaoka",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2974,
+      175,
+      54,
+      163,
+      324,
+      97,
+      32,
+      295,
+      0,
+      9,
+      148,
+      128,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3214,
+      180,
+      54,
+      213,
+      359,
+      97,
+      32,
+      295,
+      0,
+      9,
+      148,
+      128,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      2872,
+      157,
+      54,
+      192,
+      321,
+      73,
+      32,
+      259,
+      0,
+      9,
+      132,
+      113,
+      0,
+      0
+    ],
+    "Level 100": [
+      2632,
+      152,
+      54,
+      142,
+      286,
+      73,
+      32,
+      259,
+      0,
+      9,
+      132,
+      113,
+      0,
+      0
+    ],
+    "Base Stats": [
+      509,
+      64,
+      54,
+      30,
+      61,
+      28,
+      32,
+      55,
+      0,
+      2,
+      51,
+      31,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "130% → 145% → 160%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 155% → 160%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100% → 100%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Light cruiser (CL) Anti-submarine warfare  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    13,
+    20,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill2Name": "(Retrofit) Giant Hunter; CN: 巨兽猎手 JP: 大物狩り",
+  "skill2Description": "Increase own damage against heavy cruisers by 15% (25%).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-リアンダー級",
+  "skill3Description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Leander Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/88/Achilles.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cc/AchillesChibi.png",
+      "shipDescription": [
+        "利安得级轻巡洋舰—阿基里斯，舷号70",
+        "リアンダー級軽巡洋艦・アキリーズ（HMS Achilles）",
+        "Leander-class light cruiser – Achilles, Hull Number 70!"
+      ],
+      "selfIntroduction": [
+        "利安得级轻型巡洋舰二号舰，阿—基—里—斯喔~名字来源于特洛伊之战的阿基里斯战神~所以！什么样的敌人都是小意思啦~",
+        "リアンダー級軽巡洋艦の二番艦、アーキーリーズだよ。名前はトロイの戦いでの戦神のアキリーズから来たんだ~だ・か・ら！どんな敵でもパパっとやつけちゃうぞ☆",
+        "I'm the second ship of Leander class ships, Achilles. My name is from the war god Achilles who fought in Troy~ That~ is~ why~, I'm gonna kick my enemies' butts no matter who they are~☆"
+      ],
+      "acquisition": [
+        "利安得级轻型巡洋舰二号舰，阿—基—里—斯喔~指挥官要不要一起去新西兰买点零食尝尝？",
+        "リアンダー級軽巡洋艦二番艦、アーキーリーズ、だよ☆指揮官、一緒にニュージーランドに行っておやつ買ってこない？",
+        "Leander class light cruiser number 2, A~chil~les~ is here~ Commander, want to buy snacks in New Zealand?"
+      ],
+      "login": [
+        "指挥官指挥官，别再叫错了~我叫阿基里斯，记住了吗？记住了吗？是阿-基-里-斯喔~☆",
+        "指揮官指揮官、もう間違えないでね。アキリーズよ？覚えた？覚えた？アーキーリーズ、だよ☆",
+        "Commander, Commander, don't pronounce my name wrong again~ I'm Achilles - remember that? Remember that? It's A-chil-les~☆"
+      ],
+      "details": [
+        "欸~喜欢吃土豆什么的…会和我的形象不配吗？！",
+        "え~じゃがいもが好きとか…私のイメージに合わない！？",
+        "Eh? Me liking potatoes... does not match with my image?!"
+      ],
+      "secretaryIdle1": [
+        "指~挥~官~~~你那看上去很好吃的东西是什么？",
+        "しーきーかーん！その美味しそうなものはなぁに？",
+        "Com~man~der! What is that delicious looking thing?"
+      ],
+      "secretaryIdle2": [
+        "好咧~是时候吃点男爵之金脉（黄油土豆）了~",
+        "よぉし～じゃがバターを食べるぞ～",
+        "Al~right~ Then I'm eating the butter~"
+      ],
+      "secretaryIdle3": [
+        "啊啊啊——头和身体都已经动不了了，接下来一个月我什么都不想做~~",
+        "あううーーもう頭も体も動かないよぉ~これからの一ヶ月は何もやりたくなぁい~",
+        "Oww-- I cannot move my head or body anymore~ I don't want to do anything for a month~"
+      ],
+      "secretaryTouch": [
+        "OK，阿基里斯理解了~指挥官是个呆子是也！",
+        "OK、アキリーズわかったよ~指揮官はバカだって！",
+        "OK, I got it now~ Commander is an idiot!"
+      ],
+      "secretarySpecialTouch": [
+        "呐呐，你是在找什么东西吧？",
+        "ねえねえ、なぁに探してるの？",
+        "Hey, hey, wha~t are you looking for?"
+      ],
+      "task": [
+        "没问～题，没问题！有多少任务尽管放马过来！",
+        "大丈夫大丈夫！任務なんていくらでもかかってこい！",
+        "No problem whatsoever! No matter how many missions there are, just bring them on!"
+      ],
+      "taskComplete": [
+        "记得领取奖励哦！",
+        "ボーナスも覚えててね☆",
+        "Remember your rewards too~☆"
+      ],
+      "mail": [
+        "有新的邮件哦！",
+        "新しいメールよ☆",
+        "New mails~"
+      ],
+      "returnFromMission": [
+        "指挥官真棒~！",
+        "指揮官グッジョブ~！",
+        "Commander, good job~!"
+      ],
+      "commission": [
+        "充满活力的阿基里斯充满活力地报告！委托完成啦",
+        "元気いっぱいのアキリーズちゃんからの～元気いっぱいのレポートだ！委託完了っと！",
+        "A happy report~ from Peppy Achilles~! The commissions are done!"
+      ],
+      "strengthening": [
+        "变强了就更不容易被伤到脚踝了~",
+        "強くなったら、足を傷めにくくなるもんね~",
+        "Since I've become stronger, my feet are more resilient now~"
+      ],
+      "startingMission": [
+        "哇哈哈，要上了喔，给我鼓足气势！",
+        "わはは、行くわよ~気合だ！",
+        "Wahaha! Let's go! It's action time!"
+      ],
+      "mvp": [
+        "能得到指挥官嘉奖的话，我会很开心的哦~☆",
+        "指揮官が褒めてくれるならもっと嬉しいなあ☆",
+        "If I'm praised by Commander, I'd be even happier~☆"
+      ],
+      "defeat": [
+        "呜……我的才能大概是还未绽放吧？",
+        "うう……まだ才能が未開花ってやつ？",
+        "Ooo... Maybe my talent has yet to bloom?"
+      ],
+      "skillActivation": [
+        "阿基里斯，上啦！",
+        "アキリーズ、いっけえ！",
+        "Achilles, attack!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官，你就继续以魔法师为目标努力吧！",
+        "指揮官は魔法使いを目指して頑張っちゃえ☆",
+        "Commander, work hard and aim to become a ☆magician☆"
+      ],
+      "affinityStranger": [
+        "知道吗？听说男性只要保守纯洁活过三十年，就会成为魔法使欸！",
+        "知ってる？男はドーテーで30歳をすぎると魔法使いになるよ！",
+        "Did you know, men who are virgins until 30 years old become wizards!"
+      ],
+      "affinityFriendly": [
+        "现充什么的……呜呜~我是不行的……",
+        "リア充なんて……あああ駄目だ私～（ブツブツと独り言）……",
+        "Living a real, normal life... Aaah, I'm doomed~ (mumbling to herself)..."
+      ],
+      "affinityLike": [
+        "指挥官……要和我试试吗？就是……那个……一起出去玩啦！我会给你做便当的！",
+        "指揮官さあ……アキリーズと試してみない？その……あれよ！一緒に遊びに出かけること！お弁当を作ってあげるよ☆",
+        "Say, Commander... Want to try it with me? I mean... that! Let's go out and play! I'll make a picknic for us~☆"
+      ],
+      "affinityLove": [
+        "嘿嘿，没想到给喜欢的人做饭还是挺开心的嘛……以后也都交给阿基里斯吧~☆",
+        "えへへ、好きな人にご飯を作ってあげるのは意外と楽しいよね……これからもアキリーズに任せてね～☆",
+        "Ehehe, I never thought that cooking for people I like would be this fun... Just leave it to me, Achilles, from here on~☆"
+      ],
+      "pledge": [
+        "指挥官也意识到没阿基里斯不行了吗~嘻嘻，不用担心，阿基里斯不会离开你的哦，约好了~",
+        "指揮官もアキリーズがいないと駄目だってわかったじゃない？フッフン～心配しないで、アキリーズは指揮官から離れないから～約束だよ☆",
+        "Commander, you understand that you cannot live without me, Achilles, right? Hmm hmm~ Don't worry. I will never leave you~ It's a promise~☆"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "しっきかーん！バレンタインおめでとう！ささ、私からのプレゼントを受け取って、モテ期におもいっきり突入しちゃえ☆",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指～挥～官！给你情人节的巧克力☆这样指挥官也算加入现充队伍了！可喜可贺！",
+        "しーきーかーんー！バレンタインのチョコをあげるぞ☆指揮官もこれでリア充の仲間入りだね！おめでとう！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commanderrrr! Wouldn't you like to take the next step in our relationship this year, beyond just Valentine's chocolate? Like we could go on a date somewhere romantic, take lots of pictures and such! Hehe!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Achilles_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Achilles_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Achilles_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Achilles_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Achilles_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Achilles_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Achilles_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Achilles_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Achilles_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Achilles_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Achilles_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Achilles_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Achilles_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Achilles_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Achilles_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Achilles_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Achilles_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Achilles_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Achilles_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Achilles_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Achilles_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Achilles_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Achilles_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Achilles_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Achilles_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Achilles_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Achilles_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Achilles_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Achilles_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Achilles_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Achilles_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Achilles_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Achilles_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Achilles_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Achilles_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Achilles_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Achilles_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Achilles_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Achilles_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Achilles_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Achilles_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Achilles_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Achilles_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Achilles_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Achilles_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Achilles_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Achilles_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Achilles_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Achilles_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Achilles_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Achilles_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Achilles_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Achilles_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Achilles_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Achilles_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Achilles_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Achilles_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Achilles_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Achilles_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Achilles_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Achilles_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Achilles_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Achilles_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Achilles_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Achilles_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Achilles_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Achilles_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Achilles_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Achilles_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Achilles_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Achilles_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Achilles_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Achilles_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Achilles_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Achilles_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d0/AchillesKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png",
+      "shipDescription": [
+        "可爱又迷人的阿基里斯～超进化~脚踝上的伤也不会有事了！虽然原本也没事就是了，啊哈哈~☆",
+        "キュートなアキリーズちゃんが超☆進☆化！腱の怪我もバッチリ回復OK！…まあもともと大したことなかったけどね、あははは～☆",
+        "The cute and charming Achilles is Super☆Retro☆Fitted! Even my heel won't give me any problems now! Well, not like it really ever did before, ahaha~☆"
+      ],
+      "acquisition": [
+        "可爱又迷人的阿基里斯～超进化~脚踝上的伤也不会有事了！虽然原本也没事就是了，啊哈哈~☆",
+        "キュートなアキリーズちゃんが超☆進☆化！腱の怪我もバッチリ回復OK！…まあもともと大したことなかったけどね、あははは～☆",
+        "The cute and charming Achilles is Super☆Retro☆Fitted! Even my heel won't give me any problems now! Well, not like it really ever did before, ahaha~☆"
+      ],
+      "login": [
+        "指挥官，要来点蜂蜜吗？很好吃的哦~",
+        "指揮官、ハチミツでもどう？美味しいよ～",
+        "Commander, want some honey? It's heckin' yummy~!"
+      ],
+      "details": [
+        "指挥官快看，那边有美少女在飞！……欸，真信啦？",
+        "指揮官ほらそこ！美少女が飛んでいる！……ってあれ？本当に信じたの？",
+        "Look, Commander! There's a gorgeous sheila in the sky! ... Really? You believed that?"
+      ],
+      "secretaryIdle2": [
+        "在这里可以随时见到姐姐和妹妹们，超开心的~",
+        "ここならいつでもみんなと会えるね！超ハッピー☆",
+        "Being here now, I can chat with anyone whenever! Stoked as a stove, I am!☆"
+      ],
+      "secretaryIdle3": [
+        "指挥官~你是不是偷藏了什么好吃的，也让我尝尝嘛！",
+        "指揮官、なんか美味しいもの隠してない？アキリーズにも食べさせて―☆",
+        "You trying to hide some good chow from me? C'mon, let me have a taste!☆"
+      ],
+      "secretaryTouch": [
+        "指挥官，让我们一起向着夕阳奔跑吧！这才是青春的标志！",
+        "夕日に向けてレッツゴー！いやぁ、これこそ青春ってやつね～",
+        "Let's go and sail off into the sunset! Strewth, this is what being a teeny's all about, eh~"
+      ],
+      "startingMission": [
+        "目标，前方敌军，开火~",
+        "目標・前方向の敵～シュート！",
+        "Target: enemy at 12 o'clock~! Shooooot!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Ajax) 阿贾克斯，我该怎么做来着？",
+        "(Sortie with Ajax) エイジャックス、私はどうすれば？",
+        "(Sortie with Ajax) Ajax, whaddya want me to do?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Achilles_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Achilles_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Achilles_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Achilles_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Achilles_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Achilles_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Achilles_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Achilles_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Achilles_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Achilles_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Achilles_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Achilles_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Achilles_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Achilles_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Achilles_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Achilles_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Achilles_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Achilles_Sec1Skin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Achilles_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Achilles_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Achilles_MissionStartSkin9JP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Achilles_Extra1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Achilles_Extra1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Achilles_Extra1Skin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +70 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement (I)",
+      "attributes": "Reload +5 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement (I)",
+      "attributes": "Main Gun Efficiency +5% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement (I)",
+      "attributes": "Firepower +10 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Torpedo Improvement (I)",
+      "attributes": "Torpedo Efficiency +5% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Torpedo Enhancement (I)",
+      "attributes": "Torpedo +10 ",
+      "materials": "4x CruiserT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health +70 / +100 ",
+      "materials": "1 / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Giant Hunter\" ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Main Gun Improvement (I)",
+      "attributes": "Main Gun Efficiency +5% / +5% ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G",
+        "H"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Firepower Enhancement (II)",
+      "attributes": "Firepower +5 / +15 ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +20, Torpedo +25 ",
+      "materials": "1x CruiserT3BP and 1x Achilles or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "name": "Jersey",
+  "constructionTime": "00:27:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "J",
+  "ID": "307",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "6音",
+  "pixiv": "https://www.pixiv.net/member.php?id=2118700",
+  "twitter": "https://twitter.com/sein_66",
+  "voiceActor": "http://www.rme.jp/talent/women/miho-takauma.html",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1536,
+      201,
+      20,
+      76,
+      364,
+      210,
+      43,
+      156,
+      0,
+      8,
+      194,
+      210,
+      0,
+      0
+    ],
+    "Level 100": [
+      1280,
+      175,
+      20,
+      66,
+      324,
+      204,
+      43,
+      135,
+      0,
+      8,
+      185,
+      190,
+      0,
+      0
+    ],
+    "Base Stats": [
+      248,
+      74,
+      20,
+      14,
+      69,
+      78,
+      43,
+      29,
+      0,
+      2,
+      71,
+      52,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "135% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 9,
+  "level120StatBonus": "Destroyer (DD) Anti-submarine warfare  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    5,
+    23,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Dark Side of Fate; CN: 命运的阴暗面 JP: 不運の運命",
+  "skill1Description": "When sortie with other J-Class destroyers in same fleet, reduce damage taken by other J-Class destroyers by 8% (20%), and take 8% (20%) more damage.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-J級",
+  "skill2Description": "Every 15 (10) shots from the main battery, trigger Full Barrage - J-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/20/Jersey.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/37/JerseyChibi.png",
+      "shipDescription": [
+        "J级驱逐舰—泽西，舷号F72",
+        "J級駆逐艦・ジャージー（F72)",
+        "J-class destroyer – Jersey (F72.)"
+      ],
+      "selfIntroduction": [
+        "我是泽西，J级的泽西，虽然并不是什么高贵的出身也没有什么出色的战历，但是性格就是这样，就算你不满也无济于事哦？马耳他？那只是不小心摔倒了而已，但是失误就是失误，这点我还是知道的啦",
+        "あたしはジャージー。Jクラスのジャージーよ。別に身分も高くないし戦歴も輝かしくない、それでもあたしはこういう性格よ。文句があっても聞かないわ。 マルタでのことはうっかり転んだだけよ。…まあ、うっかりはうっかりだわ。それぐらいは分かってるわよ",
+        "I'm Jersey, of the J class. While I have neither noble blood nor a particularly outstanding combat record, my personality is what it is, so spare me your complaints. What happened in Malta was just a slipup. But, admittedly, mistakes are mistakes. That much I know."
+      ],
+      "acquisition": [
+        "你就是指挥官？我叫泽西，好好记在心里吧",
+        "あなたは指揮官？あたしはジャージーよ、よーく覚えておきなさい",
+        "Are you the Commander? My name is Jersey, and don't you forget it."
+      ],
+      "login": [
+        "让我等这么久是什么意思，指挥官？",
+        "指揮官、あたしをこんなに待たせてどうする気？",
+        "Do you know how long you've kept me waiting, Commander? What's the meaning of this?"
+      ],
+      "details": [
+        "有事吗，还是说你只是想和我聊聊天？",
+        "なにか用？おしゃべりがしたいだけなの？",
+        "Do you need anything? Or are you just here to chat?"
+      ],
+      "secretaryIdle1": [
+        "我最讨厌别人因为体型小看我了",
+        "体の大きさで見くびられるのは大嫌いよ！",
+        "I hate it when others underestimate me because of my size!"
+      ],
+      "secretaryIdle2": [
+        "想法不说出来可就没人知道了，我可不喜欢那些扭扭捏捏的家伙",
+        "考えてることは言わないと誰にも伝わらないわ。ウジウジしてる人も嫌いよ",
+        "No one knows what's on a person's mind if they don't say it aloud. I do not like people who are roundabout."
+      ],
+      "secretaryIdle3": [
+        "比起可爱，我更希望你能夸我正直，不过多说几遍可爱我也不会介意的",
+        "カワイイより素直だって褒めてほしいけど――まあカワイイって褒めてくれても構わないわ",
+        "I wish you would compliment me for being honest, rather than for being \"cute.\" Not that I mind compliments like that."
+      ],
+      "secretaryTouch": [
+        "干什么，难道想要扑进我的怀里蹭蹭吗？不如去做梦吧",
+        "なによ、あたしにスリスリしたいの？寝言は寝て言いなさい",
+        "What, you want to nuzzle against my lap? You can keep your fantasies in your dreams where they belong."
+      ],
+      "secretarySpecialTouch": [
+        "我，我说指挥官，虽然直接是好事，不过也要分场合……",
+        "し、指揮官！？すすすストレートなのはいいけど時と場合を…！",
+        "C-Commander?! I-I-I appreciate your straightforwardness, but now isn't the time..."
+      ],
+      "task": [
+        "别假装没看到新任务了，早点解决掉比较好哦",
+        "新しい任務、見てないふりしてしないで早く片付けたほうがいいわよ",
+        "Stop pretending like you haven't seen the new missions and get them done already."
+      ],
+      "taskComplete": [
+        "指挥官，任务奖励下达了，干得不错嘛",
+        "指揮官、任務報酬が来たわ。よくできたじゃない",
+        "Commander, our rewards have arrived. Well done, I say."
+      ],
+      "mail": [
+        "有你的邮件，指挥官，别又忙着忘了看",
+        "指揮官、メールよ。忘れるんじゃないわよ",
+        "Your mail, Commander. Don't forget to read it."
+      ],
+      "returnFromMission": [
+        "刚下战场就不要逞强了，好好休息吧",
+        "戦場から帰ってきたばかりで無理しないのっ。休め休め",
+        "Don't overexert yourself after returning from the battlefield. Relax."
+      ],
+      "commission": [
+        "指挥官，委托完成了，你不会忘了吧？",
+        "指揮官、委託が完了したわ。忘れてないわよね？",
+        "Commander, a commission is done. You haven't forgotten about it, have you?"
+      ],
+      "strengthening": [
+        "我不会让你的付出白费的",
+        "無駄にはしないわ",
+        "I will not let your efforts go to waste."
+      ],
+      "startingMission": [
+        "无论什么敌人都要认真应对才行",
+        "どんな敵でも本気で相手するわ",
+        "We must face our enemies seriously, no matter who they are."
+      ],
+      "mvp": [
+        "这就是J级的实力，为自己的大意而后悔吧！",
+        "これがJクラスの実力よ！自分が油断したことを悔やむがいいわ！",
+        "This is the might of the J class! Regret your own carelessness!"
+      ],
+      "defeat": [
+        "咕……弄脏我裙子的代价可是很高的，给我记住了",
+        "うう……ドレスを汚したのは高く付くわよ！覚えてなさい！",
+        "Ugh... You will pay dearly for staining my dress! Know this!"
+      ],
+      "skillActivation": [
+        "还不到放松的时候哦！",
+        "のんびりしてる場合じゃないわ！",
+        "Now's not the time to be taking it easy!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "扭扭捏捏，不是个好人",
+        "あなた、ウジウジしていい子じゃないわ",
+        "You are a halfhearted and lousy individual."
+      ],
+      "affinityStranger": [
+        "指挥官，虽然我们还不是很熟，不过一起喝茶聊聊天应该还是没问题的",
+        "指揮官とは別に親しいわけじゃないけど、一緒にお茶を飲んだりおしゃべりしたりぐらいは出来ると思うわ",
+        "Commander, while we're not that familiar with each other, I wouldn't take issue with having tea and chatting with you."
+      ],
+      "affinityFriendly": [
+        "指挥官，有一点你要搞清楚，我只是想到什么说什么，可不是毒舌，比如说“你是萝○控吧”就是我发自内心的想法",
+        "一つ分かってほしい――あたしは別に毒舌なんかじゃなくて、思っていることをそのまま言ってるだけ。例えば…そうね、「あなたはロリコンなの？」",
+        "There is one thing I want to set straight with you; I'm not foul-mouthed, I simply say what's on my mind. For instance... do you have a thing for little children?"
+      ],
+      "affinityLike": [
+        "有什么不好，喜好而已，指挥官你喜欢我对我来说是件好事，不喜欢也没什么损失……唔，不对，还是有的",
+        "別にいいわよ。指揮官はあたしのことが好きになってもいいし、好きじゃなくても別に損するわけ……なくはないよね…",
+        "But that's all right. You may fancy me if you like, but if you don't, then it's... not *not* a problem..."
+      ],
+      "affinityLove": [
+        "指挥官，我是个有话直说的人，喜欢的对象也只会是有话直说的人哦？所以，能告诉我你对我的想法吗，作为回报，我也会告诉你我的想法的",
+        "指揮官、あたしはストレートに言っちゃうから、好きな相手にもそうであってほしいわ。だからあなたの思っていることを素直に言いなさい。代わりにあたしも素直に教えてあげる",
+        "Commander, I'm a straightforward person, and I'd like my partner to be as well. So be open-hearted and simply say what's on your mind. In return, I will be sincere with you as well."
+      ],
+      "pledge": [
+        "仔细回想一下的话，我和指挥官的感情还真是直接到毫无浪漫可言呢……唔，算了，现在我们比谁都了解彼此，就把浪漫交给以后的日子吧",
+        "今振り返ってみると、なんか指揮官とあたしって、ストレートすぎてロマンもなにもあったものじゃないわね……別に今は誰よりもお互いのことを分かっているつもりだし、そうね、ロマンはこれからのお楽しみとしましょう",
+        "Now that I think about it, we've been so straightforward that we've not even done anything romantic... But now at least we know each other better than anyone else. I say we let romance into our lives starting today."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Javelin) 姐姐，小心点不要又撞了",
+        "(Sortie with Javelin) みんな、遅れるんじゃないわよ！",
+        "(Sortie with Javelin) Everyone, try to keep up!"
+      ],
+      "giftDescriptionValentines2018": [
+        "给你的巧克力。先说好，只是单纯的礼物而已哦，不要想太多...不过你喜欢的话，以后每年都会送给你的",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你，这是情人节的巧克力。想送就送了，这不是挺正常的么？没必要扭扭捏捏的",
+        "はい指揮官、これバレンタインのチョコね。渡したいから渡しただけよ。別にそれくらい普通じゃない？ウジウジする必要なんかないわ",
+        null
+      ]
+    },
+    {
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/dd/JerseyOriginal.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8d/JerseyOriginalChibi.png"
+    }
+  ],
+  "retrofitNodes": []
+}

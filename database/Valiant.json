@@ -1,0 +1,400 @@
+{
+  "name": "Valiant",
+  "constructionTime": "04:10:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Queen Elizabeth",
+  "ID": "464",
+  "faction": "Royal Navy",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Alisa",
+  "pixiv": "https://www.pixiv.net/member.php?id=1966676",
+  "twitter": "https://twitter.com/16119831274",
+  "link": "https://weibo.com/u/6056658230",
+  "voiceActor": "https://en.wikipedia.org/wiki/Asuka_Nishi",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7467,
+      150,
+      72,
+      407,
+      0,
+      31,
+      24,
+      212,
+      0,
+      14,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6464,
+      130,
+      72,
+      372,
+      0,
+      15,
+      24,
+      185,
+      0,
+      14,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1250,
+      55,
+      72,
+      79,
+      0,
+      6,
+      24,
+      40,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Accuracy  +1",
+  "level120TechPoints": 21,
+  "enhancementValue": [
+    65,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Leading the Way; CN: 气魄一击 JP: カリスマ・ワンショット",
+  "skill1Description": "10s after this ship fires its Main Guns: fires a Lv.1 (Lv.10) special barrage that inflicts Armor Break to all enemies hit by it (barrage DMG is based on the skill's level.)",
+  "skill2Name": "Forward!; CN: 正面突袭 JP: カリスマ・フルチャージ",
+  "skill2Description": "When this ship fires its Main Guns: 20% (50%) chance to fire a special barrage (DMG is based on the skill's level.)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/df/Valiant.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/74/ValiantChibi.png",
+      "shipDescription": [
+        "伊丽莎白女王级战列舰—英勇，舷号02",
+        "クイーン・エリザベス級戦艦·ヴァリアント(HMS Valiant）",
+        "Queen Elizabeth-class battleship – Valiant (HMS Valiant.)"
+      ],
+      "selfIntroduction": [
+        "我是伊丽莎白女王级的英勇号。从日德兰到远东，都曾有我英勇战斗的身姿。而接下来，我将带领这支舰队继续前行。作为我的得力侍从，我相信你能辅佐好我的。",
+        "クイーン・エリザベス級のヴァリアントよ。ふふ、この艦隊はユトランドから極東にまで勇姿を知らしめた、このわたしが率いることにするわ。さて指揮官――我が配下として補佐にしっかり励んでもらうわよ",
+        "Queen Elizabeth-class battleship, Valiant. Hehe, this fleet is known from Jutland to the Far East for its heroic majesty, and I am the reason for that! Now, Commander, you shall become my assistant so that you may prove your worth as a subordinate."
+      ],
+      "acquisition": [
+        "英勇，是我，也是将要领导这个舰队的人的名字，好好铭记在心吧。……对了，你是哪位？指挥官…？我明白了，差不多把你当作侍从就行了吧！",
+        "ヴァリアントとはわたしのことよ。この艦隊のリーダーの顔としてよーく覚えておきなさい！……そういえばあんたは？指揮官…？じゃあわたしの従僕程度の扱いでいいわねっ！",
+        "To be Valiant is to be me. Remember this face, for it is the face of a fleet leader! ...Speaking of faces, who are you? The Commander? Very well! I shall treat you as my personal servant!"
+      ],
+      "login": [
+        "侍从，来得正好，把今天的报告拿出来吧。",
+        "来てくれたわね。今日のレポートを差し出しなさい",
+        "It's about time! Now, show me today's itinerary!"
+      ],
+      "details": [
+        "伊丽莎白作为领导者而言，多少有些任性过头了…厌战她们又太宠着她了，果然这里应该由我来…嗯？某种意义上我也差不多…？你说什么？",
+        "ほら、エリザベス様ってワガママすぎない？そしてウォースパイトたちもエリザベス様を甘やかしすぎじゃない？だからリーダーはこのわたしが…「ある意味似たもの同士」…？な、何を言うの！",
+        "Look, isn't Elizabeth acting a bit too spoiled? And Warspite and the others are totally enabling that. I knew I should have been the one in charge... Huhh? I'm more or less the same...? Wh-what did you say?!"
+      ],
+      "secretaryIdle1": [
+        "侍从，我渴了，帮我去通知女仆队准备红茶…不，那样太慢了。侍从，今天的茶就交给你了，没有问题吧？",
+        "喉が渇いた…コホン、我が配下よ、メイド隊に紅茶の用意を……じゃ遅いわね…んんっ、今日の紅茶はあんたに任せるわ！やってくれるわね？",
+        "So thirsty... Ahem. My attendant, do tell the Maid Team to brew me some black tea. Hmm, on second thought... that'd take too long. You can do it for me, can't you?"
+      ],
+      "secretaryIdle2": [
+        "当指挥官，最重要的就是“气场”。气场有了，才有威严，大家才会听从你的话。学到了吗，侍从？",
+        "リーダーに一番大事なのはカリスマよ！カリスマがあってこその威厳、そしてみんながなんでも聞いてくれるという……コホン！今ので分かった？",
+        "Charisma is the most important facet of a leader! To be charismatic is to command dignity, to imbue your every word with gravitas! Ahem... did you get all that?"
+      ],
+      "secretaryIdle3": [
+        "点心时间！？…咳、咳咳…懂得合理安排工作和休息也是身为指挥官应有的素质之一，好好学着吧，侍从。",
+        "お菓子タイム！？…コホン！…ワークライフバランスを優雅に整えるのもリーダーの素質よ。しっかり覚えておきなさい",
+        "Snack time?! ...Ahem! A proper leader must know how to balance their work with their life. Please do not forget that."
+      ],
+      "secretaryTouch": [
+        "有事就尽管说吧，我会听着的，侍从。",
+        "申し出ることがあれば申し出なさい。ちゃんと聞いてやるわ",
+        "Speak your mind, my attendant. You have my ear."
+      ],
+      "secretarySpecialTouch": [
+        "你干什么！？…宽容侍从也是上位者应有的“气场”…这次就不跟你计较了！",
+        "何をする！？……ぐぬぬ、は、配下に寛容なカリスマだから今回だけは許してやるわ！",
+        "What's the meaning of this?! Grrr... As a charismatic, generous, and VERY patient person, I will forgive you just this once!"
+      ],
+      "secretaryHeadpat": [
+        "你、你干什么啦！",
+        "な、何すんのよ！",
+        "Wh-what are you doing?!"
+      ],
+      "task": [
+        "这些琐碎的任务，就交给侍从你去做了。",
+        "この細かいクエストはあんたに任せるわ",
+        "I'll leave this these trifling quests to you."
+      ],
+      "taskComplete": [
+        "虽然只是琐碎的任务，但你出色地完成了，就应当收到嘉奖。",
+        "細かいクエストでも上出来じゃない。褒美を授かるべきよ",
+        "Even the most trivial quests at least deserve some rewards."
+      ],
+      "mail": [
+        "嘁，为什么邮件都是给侍从你的？",
+        "ちっ、なんであんたへのメールだけなの……",
+        "Tsk... Why is all the mail for you..."
+      ],
+      "returnFromMission": [
+        "侍从，战况如何？详细说给我听听吧。",
+        "我が配下よ、戦況はどうだったの？詳しく述べなさい",
+        "My attendant, how fares the combat situation? Do tell me in detail."
+      ],
+      "commission": [
+        "嗯哼，委托组似乎很顺利。替我去慰问一下她们吧，侍从。",
+        "ふふん、委託組は順調だったようね。わたしの代わりにねぎらって差し上げなさい",
+        "Heheh, it seems that the commission team has been doing well. Do send them my best regards in my stead."
+      ],
+      "strengthening": [
+        "呼，做得不错，侍从。想要什么奖赏吗？",
+        "ふふ、大義だったわ～ご褒美は何がいい？",
+        "Not bad, my attendant~ Do you want a reward?"
+      ],
+      "startingMission": [
+        "听我的指挥，一起上吧！",
+        "わたしの指揮に従って――前進よっ！",
+        "Heed my command! Forward!"
+      ],
+      "mvp": [
+        "准确的指挥，英勇的战斗，是一场完美的胜利呢。",
+        "優雅な指揮にして勇敢なる戦いっぷり、わたしにしては完璧な勝利だったわ",
+        "A heroic battle commanded elegantly by the Commander— now this is the kind of flawless victory that befits me."
+      ],
+      "defeat": [
+        "呜…怎么会这样…",
+        "うっ…ど、どうしてこうなったの……",
+        "Ugh... H-how is this possible..."
+      ],
+      "skillActivation": [
+        "一切都在掌握之中！",
+        "すべてわたしの手の中（うち）よ！",
+        "Everything dances within the palm of my hand!"
+      ],
+      "lowHP": [
+        "侍从，快、快想办法保护我……！",
+        "は、早く何とかしてよ…！",
+        "H-hey, hurry up and do something about this...!"
+      ],
+      "affinityDisappointed": [
+        "本来还对你有点期待的…",
+        "期待していたのに……",
+        "I had great expectations for you..."
+      ],
+      "affinityStranger": [
+        "侍从，来得正好。工作忙完了的话，来陪我下几盘国际象棋吧。",
+        "よく来てくれたわ。ほかにやるべき仕事がなかったらチェスに付き合ってもらうわよ",
+        "Good, you came. If you have no other work to do, play me in a game of chess."
+      ],
+      "affinityFriendly": [
+        "没、没想到侍从你的棋艺还挺厉害的啊。以、以后我就稍微认真点对付你吧！",
+        "あんたにしてはいい腕してるじゃない…つ、次からは本気を出すわよ…っ！",
+        "Y-you're better than I expected... F-fine, I won't go easy on you next time...!"
+      ],
+      "affinityLike": [
+        "等，等等！既然是下棋，就要考虑到所有的情况。刚刚那步，只是我没注意到，所以被侍从你钻了空子而已！所以，这，这步不算！侍从，你明白了吧！",
+        "ま、待って！チェスというのは実戦の演習みたいなものだからあらゆる状況を想定するべきだわ！つ、つまり今のはフェイク！まぐれ！ノーカウント！取り消し！分かった！？",
+        "H-hold up! Chess is like a real-world exercise, so you have to consider all the various external factors! Th-that's right! That last match was a fake! A fluke! Doesn't count! Cancelled! Got it?!"
+      ],
+      "affinityLove": [
+        "作为侍从，应该有能体察上级的心……我、我的意思是，差不多该让我赢一次了吧？（小声）总是输给你，我都快没有下棋的信心了…总、总之！你得输我一把！而且得是让我看不出故意输掉的那种！这是命令，侍从你明白了吧！",
+        "配下に少しは主の気持ちを察してもらいたいものね…つまり一度だけでも勝たせてほしいの！いつも負けてるから、もうモチベーションが……と、とにかく！一度だけ負けて！それもわざと負けるのはナシでお願いするわ！これは命令よ！分かった！？",
+        "As my subordinate, you should be considerate of your superior... I mean, sh-shouldn't you let me win at least once? I've lost to you so many times that I barely even have the confidence to play chess anymore... A-anyway! Lose to me! Just once! It can even be on purpose! This is an order, got it?"
+      ],
+      "pledge": [
+        "嗯，很好，我认可你为本指挥官身边最值得信赖的侍从！看在你一直以来如此忠诚的份上，特别允许你继续在我身边感受我的伟大吧！就让这戒指成为我们主从之绊的见证吧！",
+        "大儀である！あんたをわたしの配下の一番槍だと認めてやるわ！ふふん、その忠誠に免じて、私のカリスマに身近なところから酔いしれることを許す！わたしとあんたの絆は、この指輪が証明してくれているからね♪",
+        "Well done! You've gained my recognition as my trustiest spear in the arsenal! To reward you for your continued loyalty, I shall allow you to stay at my side and bask in my charisma! May this ring be a symbol of our bond~♪"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Queen Elizabeth, Warspite) 见识下高贵的伊丽莎白级的实力吧！",
+        "(Sortie with at least 1 of: Queen Elizabeth, Warspite) 见高貴なるクイーン・エリザベス級の力を見よ！",
+        "(Sortie with at least 1 of: Queen Elizabeth, Warspite) Feast your eyes upon the might of the noble Queen Elizabeth-class!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Warspite) 我会注意你的动向的。",
+        "(Sortie with Warspite) ちゃ、ちゃんと見ているからね！",
+        "(Sortie with Warspite) M-make sure you observe my every move!"
+      ]
+    },
+    {
+      "ENClientName": "Mischievous Little Nurse",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "小护士的时间",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "リトルナースタイム",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f4/ValiantMedical.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0a/ValiantMedicalChibi.png",
+      "shipDescription": [
+        "嗯哼，这次的“港区医院特别演习”是一次很有意义的活动，作为领导舰队之人，自然要大力支持…但是！为什么我只是个小护士！？侍从，这到底是怎么一回事！",
+        "ふふん、この「母港医療施設稼働特別演習」、非常に重要なイベントだから、このリーダーたるわたしもカリスマを発揮して…ってなんなのこの格好！？ちょっとあんた、一体どういうことか説明しなさい！",
+        "Hehe~ As this medical facility training is crucially important, a charismatic leader such as myself would be best suited to instruct everyone on– Wait a moment, what's with this outfit?! You there, explain the meaning of this at once!"
+      ],
+      "acquisition": [
+        "嗯哼，这次的“港区医院特别演习”是一次很有意义的活动，作为领导舰队之人，自然要大力支持…但是！为什么我只是个小护士！？侍从，这到底是怎么一回事！",
+        "ふふん、この「母港医療施設稼働特別演習」、非常に重要なイベントだから、このリーダーたるわたしもカリスマを発揮して…ってなんなのこの格好！？ちょっとあんた、一体どういうことか説明しなさい！",
+        "Hehe~ As this medical facility training is crucially important, a charismatic leader such as myself would be best suited to instruct everyone on– Wait a moment, what's with this outfit?! You there, explain the meaning of this at once!"
+      ],
+      "login": [
+        "你回来了，侍从。…不对，你现在扮演的是病人，为什么病人还那么生龙活虎？快回去躺在病床上啦！",
+        "来てくれたわね。…じゃなくて！あんたは患者役でしょ？そんなに歩き回ってどうすんのよ！早くベッドに戻りなさい！",
+        "It's about time! ...Wait, just kidding! You're supposed to be the patient, right? How about you stop walking around so much? Get back in bed this instant!"
+      ],
+      "details": [
+        "侍从，其实你很享受这样被照顾的感觉吧？呣呣…总感觉不太公平…这样吧！下次我来做病人，侍从你来当医生照顾我，怎么样？",
+        "ちょっとあんた、もしかして世話されるのを楽しんでない！？ぐぬぬ…不公平よ…！そうだ！次はわたしが患者役で、あんたに世話してもらうってのはどう？",
+        "Hey you, don't tell me you're actually enjoying being taken care of like this?! Grr... How unfair! How about this, next time, I'll be the patient, and you'll attend to my every whim!"
+      ],
+      "secretaryIdle1": [
+        "因为侍从现在扮演的是病人，我才勉为其难帮你泡次红茶的，可别误会了！",
+        "勘違いするんじゃないわ。あんたが患者役だからこうして紅茶を注いでやってるの！",
+        "Don't get any weird ideas. I'm only pouring tea for you because you're the patient!"
+      ],
+      "secretaryIdle2": [
+        "嗯哼，趁着演习的间隙来下盘棋怎么样？我把棋盘拿来了，就在病床上下就行！",
+        "演習中は暇だし、チェスでもどうかしら？ふふん、もうボードを持ってきてあるわ。準備するからそのままベッドでじっと待ってなさい！",
+        "When we're not training for this exercise, how about a game of chess? I already brought the board. I'll set it up, so just wait in bed!"
+      ],
+      "secretaryIdle3": [
+        "侍从，你现在是病人，病人要乖乖地听护士的话才行！唔，好像作为侍从本来也该乖乖听我的话才对？",
+        "あんたは患者役なんだから、ナース役のわたしの話をちゃんと聞きなさい！…むぅ、そもそも普段は配下なんだし、こういうのがなくてもわたしの話を聞くべきなのでは？",
+        "As a patient, so you're supposed to listen to the nurse! Mm... Besides, shouldn't you already be heeding my every instruction? You're my attendant after all..."
+      ],
+      "secretaryIdle4": [
+        null,
+        "今日のあんたはわたしの患者よ！ふふん、ありがたくこのカリスマナースヴァリアントの世話になりなさい！…べ、べべ別にノリノリでやってるわけじゃないわよ！",
+        "You're my patient today! Heheh, be grateful that you're now under the care of the charismatic nurse, Valiant, and heed my every command! ...It, it's not like I'm into this or anything, so don't expect me to do this every single time!"
+      ],
+      "secretaryIdle5": [
+        null,
+        "ほら採血よ、さっさと腕出しなさい！…あぅ……ヴァンパイアみたいな耐性がないだけよ…！",
+        "It's time to get your blood drawn, so stick your arm out! ...Geh... I can't handle this stuff like Vampire does..."
+      ],
+      "secretaryTouch": [
+        "怎么了侍从？莫非是没有我的照顾就不行了吗？",
+        "どうしたの？わたしが世話してやらないとダメなの～？",
+        "What's the matter? Are you going to die if I don't take care of you~?"
+      ],
+      "secretarySpecialTouch": [
+        "侍从！你，你的手在摸哪里！算，算了，你现在是病人，这次就不计较了！",
+        "…い、今のあんたは患者役だから大目に見てやるわ！",
+        "...I, I'm only overlooking this because you're the patient!"
+      ],
+      "returnFromMission": [
+        "侍从，我给你倒了水来，都说多喝水有益于身体健康，你一天一定要喝够八大杯才行！",
+        "水を持ってきてやったわ。健康のために毎日たくさん飲むのよ。…はい、一日コップ8杯！",
+        "I brought water for you. Make sure you drink plenty if you want to stay healthy... That's right, eight cups a day!"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

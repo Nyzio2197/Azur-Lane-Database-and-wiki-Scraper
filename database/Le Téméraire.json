@@ -1,0 +1,585 @@
+{
+  "name": "Le Téméraire",
+  "constructionTime": "00:26:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Le Hardi",
+  "ID": "359",
+  "faction": "Iris Libre",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "りいちゅ",
+  "pixiv": "https://www.pixiv.net/member.php?id=159905",
+  "twitter": "https://twitter.com/rityulate",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/7/79/Le_T%C3%A9m%C3%A9raire_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1571,
+      192,
+      41,
+      93,
+      394,
+      189,
+      42,
+      172,
+      0,
+      9,
+      189,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      1309,
+      167,
+      41,
+      81,
+      353,
+      182,
+      42,
+      150,
+      0,
+      9,
+      180,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      253,
+      70,
+      41,
+      17,
+      75,
+      70,
+      42,
+      32,
+      0,
+      2,
+      69,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "120% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "100% → 115%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Destroyer (DD) Evasion  +1",
+  "level120TechPoints": 20,
+  "enhancementValue": [
+    6,
+    25,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gained Special Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Bold But Reckless; CN: 猛进射击 JP: 大胆不敵",
+  "skill1Description": "When sortieing as Lead Ship, decreases own Anti-Air by 40% and Accuracy by 20% (5%) while increasing own Evasion by 6% (12%), Firepower by 13% (25%) and Speed by 3.",
+  "skill2Name": "Swift Defender; CN: 机动护卫 JP: 機動艦隊護衛",
+  "skill2Description": "While alive in fleet, reduces damage received by the main fleet by 3.5% (8%); reduces own damage received from Destroyers' and Light Cruisers' guns and torpedoes by 1% (10%).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ル・アルディ級",
+  "skill3Description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Le Hardi Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "自由鸢尾大胆级驱逐舰—鲁莽",
+        "ラントレピード級駆逐艦ル・テメレール",
+        "Le Hardi-class destroyer – Le Téméraire."
+      ],
+      "selfIntroduction": [
+        "我是自由鸢尾、大胆级的鲁莽(Le Téméraire)！因为各种各样的原因，那个时候的我最后未能完工呢……所以，现在能够在舰队和大家一起，我真的非常开心！",
+        "ラントレピート級のル・テメレールだよ！あの大戦では色々あって完成しなかった艦だけど……こうしてみんなと一緒にいられるなんて本当に嬉しいよ！",
+        "I am the Le Hardi-class destroyer, Le Téméraire! I was never completed during that war, but I'm really happy that I can be with all of you now!"
+      ],
+      "acquisition": [
+        "终于找到了！指挥官，请多指教啦！……名字吗？我是自由鸢尾所属，大胆级的鲁莽(Le Téméraire)哦！！",
+        "ようやく見つけました！指揮官、これからよろしくおねがいします！……名前？あ！私、自由アイリス教国所属のラントレピード級駆逐艦、ル・テメレールって言うんだ！",
+        "I've finally found you! Commander, it's a pleasure to meet you! Um, my name...? Ah! I'm Le Téméraire, a Le Hardi-class destroyer from Iris Libre!"
+      ],
+      "login": [
+        "打起精神吧！今天的工作才刚刚开始！",
+        "Vas-y！今日のお仕事はこれからだー！",
+        "Vas-y! Come on, the day's work is only beginning!"
+      ],
+      "details": [
+        "港区的大家都很友好呢。不过，也有一些人感觉很难说上话的样子……",
+        "母港のみんなは親切だよ。でもね、話しづらそうな人もちらほらいて……",
+        "Everyone here is so nice... but, there are some who seem hard to strike up a conversation with..."
+      ],
+      "secretaryIdle1": [
+        "今天又交到了别的阵营的朋友了呢！嘿嘿~",
+        "今日も違う勢力の友達ができたね！ふんふふん♪",
+        "I made friends from several different camps yesterday! Ehehe~♪"
+      ],
+      "secretaryIdle2": [
+        "啊，是昨天一起玩的人！指挥官，我先离开一下啦！",
+        "あ、昨日一緒に遊んだ子だ！指揮官、ちょっと席外すよ！",
+        "Ah, those are the girls I played with yesterday! Commander, I'm going to get up for a bit!"
+      ],
+      "secretaryIdle3": [
+        "如果所有人都能成为朋友的话，是不是就不会有战争了呢？",
+        "みんなお友達になれたら、戦争もなくなるよね！",
+        "If everyone all got along, then we wouldn't have any wars!"
+      ],
+      "secretaryTouch": [
+        "啊哈哈！这里有点痒啊！",
+        "あははは！ちょっとくすぐったいよ！",
+        "Ahahaha! That tickles!"
+      ],
+      "secretarySpecialTouch": [
+        "我，我还没做好心理准备啦！",
+        "こ、心の準備が！",
+        "W-wait, I'm not emotionally prepared yet!"
+      ],
+      "task": [
+        "还有任务呢，一鼓作气全部完成吧！",
+        "まだ任務があるよ！一気に片付けちゃお！",
+        "We still have missions left! Let's knock them out in one go!"
+      ],
+      "taskComplete": [
+        "任务奖励已经收到了哦！……欸，要确认的吗？",
+        "任務報酬をもらったよ！……ほえ？確認をするものなの？",
+        "Yay, the mission rewards are here! Huh...? We still have to check them?"
+      ],
+      "mail": [
+        "邮件！我已经帮你拆了哦！",
+        "メール！もう開封したよ！",
+        "Mail's here! I already opened it for you!"
+      ],
+      "returnFromMission": [
+        "欢迎回来！桌上的文件我都帮你收好了！……欸，那些是要回港的时候确认的吗？",
+        "おかえりー！書類は棚に戻したよ！……ほえ？戻った時に確認したかったものなの…？",
+        "Welcome back! I put the documents back on the shelves for you! ...Huh? You still wanted to check those?"
+      ],
+      "commission": [
+        "指挥官，我去接委托回来的大家吧！",
+        "指揮官、委託から戻ってきたみんなを出迎えに行くね！",
+        "Commander, I'm going to go welcome back the girls who are coming back from their commissions!"
+      ],
+      "strengthening": [
+        "变强了呢！",
+        "強くなったよ！",
+        "I've gotten stronger!"
+      ],
+      "startingMission": [
+        "总之向前冲就行了吧！",
+        "とにかく進めー！",
+        "Anyways, let's keep charging forward!"
+      ],
+      "mvp": [
+        "嘿嘿，见识到我的厉害了吧！",
+        "ふふーん、私の力を見たか！",
+        "Heheh~ Did you see me just now?"
+      ],
+      "defeat": [
+        "欸？我们输了？",
+        "ほえ？負けた？",
+        "Ehh? I lost...?"
+      ],
+      "skillActivation": [
+        "冲——啊！",
+        "すーっすめー！",
+        "CHAAARGE~!"
+      ],
+      "lowHP": [
+        "我，我在哪里？",
+        "わ、私はどこー？！",
+        "H-huh? Where am I?!"
+      ],
+      "affinityDisappointed": [
+        "这样下去的话指挥官会没有朋友的！",
+        "指揮官、このままでは友達がいなくなりますよ！",
+        "Commander, you're not going to have any friends left!"
+      ],
+      "affinityStranger": [
+        "今天也在港区里转转吧，说不定能交到新的朋友呢！",
+        "今日も母港でふらふらお散歩♪もしかしたら新しい友達ができるかも！",
+        "I'm gonna take a stroll around the port today~♪ Maybe I can make some new friends!"
+      ],
+      "affinityFriendly": [
+        "我约了朋友们一起在休息区玩游戏呢。指挥官也一起来吧！",
+        "友達と休憩スペースでゲームをするって約束したよ！指揮官も一緒にどう？",
+        "I have a play date with my friends today! Commander, want to join us?"
+      ],
+      "affinityLike": [
+        "虽然我交了很多朋友，不过指挥官是特别的！和指挥官一起的时候，感觉最开心啦！",
+        "友達はたくさん出来たけど、指揮官は特別だよ？だって私、指揮官と一緒にいれる時がいっちばん嬉しいんだ！",
+        "Commander, even though I've made a lot of friends, you're... something special. That's because I'm happiest when I'm with you!"
+      ],
+      "affinityLove": [
+        "比朋友更好的关系的话……恋人？但是，恋人之间要怎么做，我果然还是不太明白呢…欸？像平时那样就可以了吗？",
+        "友達より大切な関係……恋人？でも恋人ってどうすればいいかわからないよね……ほえ？いつもどおりでいいの？",
+        "A relationship more important than friendship... lovers? But, I don't know what it means to be lovers... Huh? Just do what we always do?"
+      ],
+      "pledge": [
+        "我不太理解誓约是什么，应该意思就是两人永远不分开吧！从今以后，我就一直陪在你身边啦，指挥官！",
+        "ケッコンってどんなことかよくわからないけど、きっと「ずっと一緒」って意味だよね！うん！これからはずっと一緒だね！指揮官！",
+        "I'm not sure what this \"marriage\" thing is all about, but surely it means that we'll always be together from now on! Mmhm! I'll always be at your side, Commander!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Dunkerque) 敦刻尔克小姐，我想吃马卡龙～",
+        "(Sortie with Dunkerque) ダンケルクさん、マカロンが欲しい！",
+        "(Sortie with Dunkerque) Miss Dunkerque, I'd like a macaron!"
+      ],
+      "giftDescriptionValentines2019": [
+        "把特别的心意送给特别的人，真是个很棒的节日呢！嘿嘿，指挥官，收下鲁莽的特别巧克力吧~",
+        "特別な気持ちを、チョコレートで特別な人に伝えることができるなんて――すごく嬉しい！指揮官、私からの特別なチョコレートを受け取ってね！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's Day! For the sake of the commander who is always working so hard, allow me to comfort you with these chocolatey confections. Dunkerque taught me how to make these! Ehehe, Commander, what kind of chocolate do you like?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Le_T%C3%A9m%C3%A9raire_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Le_T%C3%A9m%C3%A9raire_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Le_T%C3%A9m%C3%A9raire_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Le_T%C3%A9m%C3%A9raire_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Le_T%C3%A9m%C3%A9raire_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Le_T%C3%A9m%C3%A9raire_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Le_T%C3%A9m%C3%A9raire_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Le_T%C3%A9m%C3%A9raire_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Le_T%C3%A9m%C3%A9raire_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Le_T%C3%A9m%C3%A9raire_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Le_T%C3%A9m%C3%A9raire_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Le_T%C3%A9m%C3%A9raire_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Le_T%C3%A9m%C3%A9raire_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Le_T%C3%A9m%C3%A9raire_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Le_T%C3%A9m%C3%A9raire_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Le_T%C3%A9m%C3%A9raire_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Le_T%C3%A9m%C3%A9raire_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Le_T%C3%A9m%C3%A9raire_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Le_T%C3%A9m%C3%A9raire_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Le_T%C3%A9m%C3%A9raire_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Le_T%C3%A9m%C3%A9raire_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Le_T%C3%A9m%C3%A9raire_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Le_T%C3%A9m%C3%A9raire_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Le_T%C3%A9m%C3%A9raire_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Le_T%C3%A9m%C3%A9raire_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Le_T%C3%A9m%C3%A9raire_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Le_T%C3%A9m%C3%A9raire_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Le_T%C3%A9m%C3%A9raire_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Le_T%C3%A9m%C3%A9raire_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Le_T%C3%A9m%C3%A9raire_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Le_T%C3%A9m%C3%A9raire_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Le_T%C3%A9m%C3%A9raire_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Le_T%C3%A9m%C3%A9raire_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Le_T%C3%A9m%C3%A9raire_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Le_T%C3%A9m%C3%A9raire_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Le_T%C3%A9m%C3%A9raire_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Le_T%C3%A9m%C3%A9raire_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Le_T%C3%A9m%C3%A9raire_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Le_T%C3%A9m%C3%A9raire_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Le_T%C3%A9m%C3%A9raire_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Le_T%C3%A9m%C3%A9raire_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Le_T%C3%A9m%C3%A9raire_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Le_T%C3%A9m%C3%A9raire_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Le_T%C3%A9m%C3%A9raire_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Le_T%C3%A9m%C3%A9raire_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Le_T%C3%A9m%C3%A9raire_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Le_T%C3%A9m%C3%A9raire_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Le_T%C3%A9m%C3%A9raire_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Le_T%C3%A9m%C3%A9raire_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Le_T%C3%A9m%C3%A9raire_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Le_T%C3%A9m%C3%A9raire_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Le_T%C3%A9m%C3%A9raire_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Le_T%C3%A9m%C3%A9raire_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Le_T%C3%A9m%C3%A9raire_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Le_T%C3%A9m%C3%A9raire_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Le_T%C3%A9m%C3%A9raire_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Le_T%C3%A9m%C3%A9raire_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Le_T%C3%A9m%C3%A9raire_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Le_T%C3%A9m%C3%A9raire_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Le_T%C3%A9m%C3%A9raire_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Le_T%C3%A9m%C3%A9raire_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Le_T%C3%A9m%C3%A9raire_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Le_T%C3%A9m%C3%A9raire_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Le_T%C3%A9m%C3%A9raire_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Le_T%C3%A9m%C3%A9raire_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Le_T%C3%A9m%C3%A9raire_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Le_T%C3%A9m%C3%A9raire_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Le_T%C3%A9m%C3%A9raire_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Le_T%C3%A9m%C3%A9raire_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Le_T%C3%A9m%C3%A9raire_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Le_T%C3%A9m%C3%A9raire_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Le_T%C3%A9m%C3%A9raire_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Le_T%C3%A9m%C3%A9raire_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Le_T%C3%A9m%C3%A9raire_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Le_T%C3%A9m%C3%A9raire_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Le_T%C3%A9m%C3%A9raire_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Le_T%C3%A9m%C3%A9raire_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Le_T%C3%A9m%C3%A9raire_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Le_T%C3%A9m%C3%A9raire_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Le_T%C3%A9m%C3%A9raire_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Le_T%C3%A9m%C3%A9raire_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Summery Temeraire!",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "盛夏Festival！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "サマー・ルーちゃん！",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "shipDescription": [
+        "指挥官，我换好泳装啦！嘿嘿，夏日的海滩，要尽全力去享受才行呢！",
+        "指揮官、水着に着替えてきたよ！ふふーん、夏の海辺を全力で楽しんじゃうんだから！",
+        "Commander, I've finished changing into my swimsuit! Heheh~ let's head down to the beach and enjoy ourselves as much as we can!"
+      ],
+      "acquisition": [
+        "指挥官，我换好泳装啦！嘿嘿，夏日的海滩，要尽全力去享受才行呢！",
+        "指揮官、水着に着替えてきたよ！ふふーん、夏の海辺を全力で楽しんじゃうんだから！",
+        "Commander, I've finished changing into my swimsuit! Heheh~ let's head down to the beach and enjoy ourselves as much as we can!"
+      ],
+      "login": [
+        "喂——！指挥官，我在这边啦！",
+        "おーい！しきかーん！ここだよー！",
+        "Heyyy! Commander! I'm over here~!"
+      ],
+      "details": [
+        "指挥官，觉得我的泳装怎么样？啊，顺便一提，倔强她的泳装也是我帮忙选的哦！",
+        "指揮官、私の選んだ水着ってどうかな…？あ、ちなみにピーちゃんの水着も私が選んだよ！",
+        "Commander, what do you think about my choice of swimsuit...? Ah, by the way, I also picked out Opiniâtre's swimsuit!"
+      ],
+      "secretaryIdle1": [
+        "今天的沙滩排球比赛，我一定会和队友们一起赢下来的！",
+        "ビーチバレー大会、仲間たちと一緒に勝ってみせるよ！",
+        "Today's the day of the big beach volleyball meet! My friends and I are aiming for the top spot!"
+      ],
+      "secretaryIdle2": [
+        "倔强她又在一个人捣鼓，嗯，叫“魔法”的什么吗？难得来海边，大家一起玩才好嘛！",
+        "ピーちゃん、また「マホウ」の練習ばかりしてるのかな？せっかく海辺に来たんだし、みんなで一緒に楽しめばいいのに…",
+        "Opiniâtre, are you busy practicing your \"magic\" again? Since we came all the way out here, you might as well have some fun..."
+      ],
+      "secretaryIdle3": [
+        "啊，好像有螃蟹！……欸？刚刚还在的，到底跑到哪里去呢了？",
+        "ほえ、カニさん？……ほえ？？さっきまでいたのに、どこ行ったの？",
+        "Huh, a crab? ...Ehh?? It was just right there... Where'd it run off to?"
+      ],
+      "secretaryTouch": [
+        "海水凉凉的，感觉很舒服！指挥官，一起来游泳吧！",
+        "海は涼しくて気持ちいいよね！指揮官も一緒に泳ごうよ！",
+        "The sea is refreshing and feels great! Commander, you should come on in as well!"
+      ],
+      "secretarySpecialTouch": [
+        "呀！系，系带要松开了啊！",
+        "あわわわわ！ひ、紐がーー！",
+        "Awawawa! Th-the strings are coming loose...!"
+      ],
+      "task": [
+        "嗯？休假日也有任务的吗？",
+        "ほえ？非番の日にも任務が来るの？",
+        "Huh? We're getting work on our day off?"
+      ],
+      "returnFromMission": [
+        "指挥官，热吗？来吃个冰棒吧！",
+        "指揮官、暑いの…？うん！はい、アイスだよ！",
+        "Commander, aren't you hot...? Mm! Here, have an ice pop!"
+      ],
+      "affinityLove": [
+        "今天我玩得非常开心！嘿嘿~不过，最后的时光，果然还是想和指挥官两个人一起度过呢。指挥官，能……靠着你的肩膀吗？",
+        "今日はいっぱい楽しんだね！えへへ♪でも最後はやっぱり指揮官と二人っきりでいたいなぁ……指揮官、ええと、ちょっとだけ肩を借りても…いいかな…",
+        "I had a great time today! Ehehe~♪ But you know, it'd be nice to have some alone time with you, Commander... Hey, umm, can I... lean against your shoulder...?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Le_T%C3%A9m%C3%A9raire_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Le_T%C3%A9m%C3%A9raire_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Le_T%C3%A9m%C3%A9raire_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Le_T%C3%A9m%C3%A9raire_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Le_T%C3%A9m%C3%A9raire_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Le_T%C3%A9m%C3%A9raire_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Le_T%C3%A9m%C3%A9raire_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Le_T%C3%A9m%C3%A9raire_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Le_T%C3%A9m%C3%A9raire_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Le_T%C3%A9m%C3%A9raire_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Le_T%C3%A9m%C3%A9raire_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Le_T%C3%A9m%C3%A9raire_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Le_T%C3%A9m%C3%A9raire_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Le_T%C3%A9m%C3%A9raire_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Le_T%C3%A9m%C3%A9raire_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Le_T%C3%A9m%C3%A9raire_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Le_T%C3%A9m%C3%A9raire_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Le_T%C3%A9m%C3%A9raire_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Le_T%C3%A9m%C3%A9raire_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Le_T%C3%A9m%C3%A9raire_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Le_T%C3%A9m%C3%A9raire_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Le_T%C3%A9m%C3%A9raire_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Le_T%C3%A9m%C3%A9raire_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Le_T%C3%A9m%C3%A9raire_Sec2Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Le_T%C3%A9m%C3%A9raire_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Le_T%C3%A9m%C3%A9raire_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Le_T%C3%A9m%C3%A9raire_TaskSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Le_T%C3%A9m%C3%A9raire_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Le_T%C3%A9m%C3%A9raire_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Le_T%C3%A9m%C3%A9raire_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Le_T%C3%A9m%C3%A9raire_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Le_T%C3%A9m%C3%A9raire_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Le_T%C3%A9m%C3%A9raire_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

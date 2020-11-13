@@ -1,0 +1,1612 @@
+{
+  "name": "Ayanami",
+  "constructionTime": "00:23:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Fubuki",
+  "ID": "155",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "大月紅葉",
+  "pixiv": "https://www.pixiv.net/member.php?id=591937",
+  "twitter": "https://twitter.com/dayuehongye",
+  "link": "http://weibo.com/ootsukimomiji",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/63/Ayanami_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1798,
+      213,
+      36,
+      65,
+      509,
+      194,
+      45,
+      146,
+      0,
+      9,
+      183,
+      203,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1963,
+      228,
+      36,
+      75,
+      569,
+      214,
+      48,
+      146,
+      0,
+      9,
+      183,
+      203,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1663,
+      201,
+      36,
+      67,
+      523,
+      208,
+      48,
+      127,
+      0,
+      9,
+      174,
+      183,
+      0,
+      0
+    ],
+    "Level 100": [
+      1498,
+      186,
+      36,
+      57,
+      463,
+      188,
+      45,
+      127,
+      0,
+      9,
+      174,
+      183,
+      0,
+      0
+    ],
+    "Base Stats": [
+      290,
+      78,
+      36,
+      12,
+      98,
+      72,
+      45,
+      27,
+      0,
+      2,
+      67,
+      50,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "75% → 80% → 85%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 160% → 165%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 11,
+  "level120StatBonus": "Destroyer (DD) Torpedo  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    4,
+    32,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "The Demon; CN: 鬼神 JP: 鬼神",
+  "skill1Description": "When firing main gun, 5% chance to increase own Torpedo stat by 30% (60%) for 12 seconds.",
+  "skill2Name": "(Retrofit) Demon Dance; CN: 鬼神演舞 JP: 鬼神演舞",
+  "skill2Description": "Every 20 seconds, 40% (70%) chance to increase own Evasion by 30% for 5 seconds and release a powerful barrage while launching fast torpedoes in a helical pattern.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-柚 JP: 特殊弾幕-綾波",
+  "skill3Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Ayanami I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0a/Ayanami.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/08/AyanamiChibi.png",
+      "shipDescription": [
+        "指挥官，新年快乐。新的一年，也请多多指教…的说。",
+        "指揮官、あけましておめでとうです。この一年も、綾波をよろしく…です",
+        "Commander, Happy New Year's. In this coming year, please continue to look after me..."
+      ],
+      "selfIntroduction": [
+        "桐级驱逐舰的改良舰柚……的说，对我来说，战斗没什么好害怕的，所以虽然只是驱逐舰，但是无论什么敌人我都敢一战……",
+        "吹雪型駆逐艦の改良型、綾波……です。戦闘は怖くないです。駆逐艦だけど、どんな敵とも戦える、です……",
+        "I am Ayanami, an improved Fubuki-class destroyer. I am not afraid of combat. Though just a destroyer, I can fight any enemy..."
+      ],
+      "acquisition": [
+        "指挥官，新年快乐。新的一年，也请多多指教…的说。",
+        "指揮官、あけましておめでとうです。この一年も、綾波をよろしく…です",
+        "Commander, Happy New Year's. In this coming year, please continue to look after me..."
+      ],
+      "login": [
+        "节日里，大家都很开心。柚，也很开心…",
+        "祝日は皆、楽しいです。もちろん、綾波も楽しい…です",
+        "During holidays, everyone always has lots of fun. Of course, Ayanami is also having lots of fun..."
+      ],
+      "details": [
+        "桐在神社抽到了“凶”，不过，她好像不怎么在意。…我？“小吉”，有点高兴",
+        "吹雪、おみくじで凶が出たですけど、あまり気にしていなかったようです。綾波は…小吉、です。嬉しいです",
+        "Fubuki seems to have drawn \"Misfortune\" at the fortune-telling shrine, but she doesn't really seem to mind... Me? \"Small blessing.\" I'm glad."
+      ],
+      "secretaryIdle1": [
+        "新年的衣服，很华丽，但是行动有些不便。柚还没有完全适应…",
+        "お正月の衣装、とても綺麗です。でもちょっと動きづらいです…綾波、まだ慣れていないです……",
+        "New Year's outfits... are very pretty, but they're hard to move around in... Ayanami still isn't used to it yet..."
+      ],
+      "secretaryIdle2": [
+        "雪花很漂亮，但是，一落在手上，就消失不见了",
+        "雪の結晶、とても綺麗ですけど……手のひらに載せるとすぐ融けるです",
+        "Snowflakes are very beautiful, but, they melt as soon as they land in your palm."
+      ],
+      "secretaryIdle3": [
+        "新的一年，也希望能和指挥官，还有大家，一直在一起。",
+        "この一年も、指揮官とみんなと、一緒にいたいです",
+        "This year as well... I hope to stay together with everyone, and Commander as well."
+      ],
+      "secretaryIdle4": [
+        "说到新年的话…煮年糕？指挥官，要来一份吗？还热腾腾的",
+        "お正月といえば…お雑煮です。ホカホカです。どうぞ召し上がって、です",
+        "New Year's isn't complete... without ozoni. It's piping hot. Please have some if you'd like."
+      ],
+      "secretaryTouch": [
+        "柚，不冷的说",
+        "綾波、別に寒くないです",
+        "Ayanami... isn't cold."
+      ],
+      "secretarySpecialTouch": [
+        "不要把衣服弄乱了，不然柚也不知道该怎么弄好…",
+        "服に変なことしちゃダメですっ、綾波、着付けがわからないです……",
+        "Please do not mess up my clothes... Otherwise, Ayanami would not know how to fix them..."
+      ],
+      "secretaryHeadpat": [
+        "虽然不太明白这样有什么意义……但是有点高兴（蹭蹭）",
+        "よくわからないですけど……ちょっと嬉しい、です",
+        "I don't really get it but... I'm a bit happy..."
+      ],
+      "task": [
+        "指挥官的新任务下达了",
+        "指揮官、新しい任務が通達されたのです",
+        "Commander, we've been notified of new missions."
+      ],
+      "taskComplete": [
+        "之前完成的任务，奖励送来了……",
+        "この前の任務、報酬が来たのです……",
+        "The rewards for the previous mission are here."
+      ],
+      "mail": [
+        "有新的……邮件……",
+        "新しい……メールです",
+        "There's... new mail..."
+      ],
+      "returnFromMission": [
+        "新年有很多有趣的活动，柚想都试试…的说。",
+        "お正月には、面白いイベントがたくさん行われるそうです。綾波はどれも試してみたいです",
+        "During New Year's, there are many interesting-looking events. Ayanami would like to try going to some..."
+      ],
+      "commission": [
+        "……指挥官，有委托完成了",
+        "……指揮官、委託が完了したのです",
+        "Commander, a commission has finished."
+      ],
+      "strengthening": [
+        "力量涌出来了……",
+        "力が溢れてきたのです……",
+        "My power is overflowing..."
+      ],
+      "startingMission": [
+        "想去……所罗门吗？",
+        "ソロモンに……行きたい？",
+        "Want to go... to Solomon?"
+      ],
+      "mvp": [
+        "第一名吗？虽然并不是很懂那是什么意思，不过，谢谢",
+        "一位、ですか？よくわからないですけど、でも、ありがとです",
+        "MVP? I don't really get it, but... thanks."
+      ],
+      "defeat": [
+        "没关系……我自己很快就会好起来的",
+        "大丈夫です……自分でよくなるです…",
+        "It's okay... I'll recover quickly."
+      ],
+      "skillActivation": [
+        "“鬼神”之力，好好感受吧！",
+        "「鬼神」の力、味わうがいい…！",
+        "Bear witness to the true power of the \"Demon\""
+      ],
+      "lowHP": [
+        "我不要……一个人……",
+        "ひとりが…嫌…",
+        "I don't want... to be alone..."
+      ],
+      "affinityDisappointed": [
+        "……不是很想靠近指挥官……",
+        "……指揮官にはあまり近づきたくないのです…",
+        "I don't really want to get any closer."
+      ],
+      "affinityStranger": [
+        "对指挥官的看法？柚不是很明白……",
+        "指揮官のイメージですか？綾波わからないのです……",
+        "Ayanami's impressions of Commander? I don't really know."
+      ],
+      "affinityFriendly": [
+        "指挥官……你一直说柚的耳朵可爱，但是为什么不摸摸看呢？",
+        "指揮官……綾波のミミがかわいいとずっと言っているようですが、なぜ触らないのです？",
+        "Commander, you're always saying that my ears are cute... But why won't you touch them?"
+      ],
+      "affinityLike": [
+        "如果说有什么担心的事情……大概就是不在指挥官身边吧……",
+        "心配することと言えば……指揮官がそばにいないこと、ですね……",
+        "If there's one thing that worries me... it would be when you are not at my side."
+      ],
+      "affinityLove": [
+        "新的一年想做的事情？和指挥官还有大家在一起…不算吗？那…春天的时候，想和指挥官一起看樱花，可以吗？",
+        "この一年で新たにしたいこと、ですか？指揮官と皆と一緒…じゃ「したいこと」とは言えないですか？指揮官とお花見にいきたい、でもいい…ですか？",
+        "What I'd like to do this year? I'd like to continue being with you as well as my friends... That doesn't count? Um... in that case, I'd like to watch the petals with you during the spring? Is that better?"
+      ],
+      "pledge": [
+        "放心吧，这次我无论如何都会活下来，然后回到指挥官面前……因为……我想见指挥官……",
+        "安心して、今度こそどんなことがあっても生き延びて指揮官のもとに帰るのです……だって……指揮官にはまた会いたいんですもの……",
+        "Rest assured... This time, no matter what happens, I'll survive and return to you... because I'll always want to see you again..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 2 of: Laffey, Javelin, Z23) 柚，会保护大家的",
+        "(Sortie with at least 2 of: Laffey, Javelin, Z23) 綾波、みんなを守るのです",
+        null
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Laffey) 拉菲…房间里的氧气可乐又不够了…",
+        "(Sortie with Laffey) ラフィー、酸素コーラ、また足りなくなったのです…",
+        null
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Long Island) 长岛…战场上不要分神",
+        "(Sortie with Long Island) ロング・アイランド…戦場ではよそ見しないのです",
+        null
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with Shouhou) 航空支援就靠你了",
+        "(Sortie with Shouhou) 航空支援、任せるのです",
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "なんと言えばいいですか…とにかく、ここには指揮官がいて、みんながいて、楽しいです。これからもみんなと一緒にいたいです。うん…綾波のチョコです。よろしくです。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，情人节的巧克力，希望你能收下。里面有绫波的心意，应该会好吃……请多指教",
+        "指揮官、バレンタインのチョコ、受け取って欲しいです。綾波のキモチを込めたですから、美味しく作れたはず…です。よろしくです",
+        "How should I say this... Um, anyway, having Commander here, as well as all my friends here, is very fun. I would like to stay with everyone, together. Um... here is Ayanami's handmade chocolate, please enjoy it."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, this Valentine's chocolate is for you. It's too fancy and you can't take it…? Hm… I may have overdone it a bit… Commander, why don't you eat it with me… would that be okay?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Ayanami_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Ayanami_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Ayanami_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ayanami_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ayanami_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Ayanami_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Ayanami_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Ayanami_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Ayanami_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Ayanami_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Ayanami_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Ayanami_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Ayanami_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Ayanami_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Ayanami_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Ayanami_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Ayanami_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Ayanami_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Ayanami_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Ayanami_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Ayanami_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Ayanami_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Ayanami_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Ayanami_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Ayanami_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ayanami_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ayanami_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ayanami_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ayanami_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ayanami_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Ayanami_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Ayanami_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Ayanami_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Ayanami_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Ayanami_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Ayanami_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Ayanami_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Ayanami_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Ayanami_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ayanami_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ayanami_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ayanami_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Ayanami_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Ayanami_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Ayanami_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Ayanami_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Ayanami_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Ayanami_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Ayanami_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Ayanami_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Ayanami_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Ayanami_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Ayanami_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Ayanami_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Ayanami_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Ayanami_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Ayanami_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ayanami_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ayanami_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ayanami_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ayanami_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ayanami_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ayanami_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Ayanami_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Ayanami_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Ayanami_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Ayanami_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Ayanami_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Ayanami_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Ayanami_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Ayanami_Extra1JP.ogg",
+        null
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_Extra2JP.ogg",
+        null
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ayanami_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ayanami_Extra3JP.ogg",
+        null
+      ],
+      "additionalVoiceLine4Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_Extra4JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/df/AyanamiKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8b/AyanamiKaiChibi.png",
+      "shipDescription": [
+        "柚，改造完毕…的说。感觉变得更强了，不过…指挥官，能摸摸我的头吗？稍微有点…想要撒娇…",
+        "綾波、改造完了……です。強くなったのです、けど…指揮官、綾波をナデナデしてもらっていい…ですか？少しだけ、甘えたい気分……です",
+        "Ayanami, retrofit complete. I feel stronger, yes... Having that said, Commander, can you pat my head? I want to be spoiled a bit..."
+      ],
+      "acquisition": [
+        "柚，改造完毕…的说。感觉变得更强了，不过…指挥官，能摸摸我的头吗？稍微有点…想要撒娇…",
+        "綾波、改造完了……です。強くなったのです、けど…指揮官、綾波をナデナデしてもらっていい…ですか？少しだけ、甘えたい気分……です",
+        "Ayanami, retrofit complete. I feel stronger, yes... Having that said, Commander, can you pat my head? I want to be pampered a bit..."
+      ],
+      "secretaryIdle1": [
+        "和指挥官在一起，感觉就能有更多干劲——",
+        "指揮官と一緒なら、やる気ももっと出る、です",
+        "Commander, I feel like I can work a bit harder when I'm with you..."
+      ],
+      "secretaryIdle2": [
+        "和大家在一起很开心，所以我…想和大家在一起",
+        "みんなと一緒にいるのは楽しいですから、綾波も…みんなともっと一緒にいたいです",
+        "Being with everyone makes me happy... so I want to be able to stay together..."
+      ],
+      "secretaryIdle3": [
+        "指挥官不理我的话，会有点…伤心",
+        "指揮官が綾波をかまってくれないと、少しだけ悲しい…です",
+        "Commander, if you leave me alone... I'll be hurt..."
+      ],
+      "secretaryTouch": [
+        "指挥官的手，很温暖…",
+        "指揮官の手、温かいです…",
+        "Commander's hands... are so warm..."
+      ],
+      "startingMission": [
+        "没关系的，指挥官…相信我——",
+        "大丈夫です、指揮官…綾波を信じて――",
+        "It will be all right, Commander... Believe in me..."
+      ],
+      "mvp": [
+        "如果是为了大家，我愿意化身为“鬼神”…",
+        "みんなのためなら、「鬼神」になってもいい…です",
+        "If it is for everyone's sake... I am willing to become the \"Demon.\""
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Ayanami_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Ayanami_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Ayanami_IntroSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Ayanami_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Ayanami_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Ayanami_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Ayanami_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Ayanami_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Ayanami_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Ayanami_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Ayanami_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Ayanami_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Ayanami_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Ayanami_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Ayanami_Sec1Skin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Ayanami_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Ayanami_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Ayanami_MissionStartSkin9JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Ayanami_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Ayanami_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Ayanami_MVPSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Demon's Finest Dress",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "鬼神之华裳",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "鬼神華裳",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f4/AyanamiWedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/46/AyanamiWeddingChibi.png",
+      "shipDescription": [
+        "还是柚…的说。这样的服装，还不太习惯…指挥官，觉得合适吗？",
+        "綾波……です。この衣装、まだ慣れないですけど…指揮官、綾波に似合っているのですか？",
+        "I'm still... your Ayanami... though I'm not very used to this outfit... Commander, does it suit me?"
+      ],
+      "acquisition": [
+        "还是柚…的说。这样的服装，还不太习惯…指挥官，觉得合适吗？",
+        "綾波……です。この衣装、まだ慣れないですけど…指揮官、綾波に似合っているのですか？",
+        "I'm still... your Ayanami... though I'm not very used to this outfit... Commander, does it suit me?"
+      ],
+      "login": [
+        "无论去哪里，我都会跟上你的脚步的…一起出发吧，指挥官",
+        "どこに行っても、綾波はついていくのです。…指揮官、一緒に出発です",
+        "No matter where you go, Ayanami shall always walk three steps behind you. Commander... shall we go?"
+      ],
+      "details": [
+        "现在的话，能感觉到自己不是孤单一人…因为指挥官一直在这里",
+        "今は、綾波がひとりじゃないってわかるのです。…だって指揮官がここにいるんですもの",
+        "Now, I know that I'm not alone anymore... because you're here after all, Commander..."
+      ],
+      "secretaryIdle1": [
+        "不太明白这身衣服的含义…不过，如果指挥官喜欢，我会一直穿着的",
+        "この服の意味、よくわからないです。…でも指揮官が好きなら、ずっと着ていてもいいと思うです",
+        "I'm not sure... I understand the meaning of these clothes... but since you'd like me to wear them, I don't mind..."
+      ],
+      "secretaryIdle2": [
+        "大家都太过热情…一直在盯着我看。突然这样还不太习惯…",
+        "みんな、盛り上がっていたです。…綾波はじっと見られていたのですけど…まだ、ちょっと慣れない、です",
+        "Everyone was staring at me so excitedly... I'm not used to this..."
+      ],
+      "secretaryTouch": [
+        "这样和指挥官靠在一起的感觉很好，我很喜欢",
+        "指揮官と寄り添い合っている感触、気持ちよくて好きです",
+        "Commander, I like cuddling with you like this... It feels nice."
+      ],
+      "secretarySpecialTouch": [
+        "还是感觉…有点奇怪，不过…你喜欢就好",
+        "やっぱり、ちょっとだけ…変な感じ、です……ううん、指揮官が好きなら綾波、ダイジョウブです",
+        "This feels... a bit weird after all... But, if you like it, I don't mind..."
+      ],
+      "returnFromMission": [
+        "指挥官…需要揉一下肩膀？",
+        "指揮官…肩もみもみでもどうですか？",
+        "Commander... shall I rub your shoulders?"
+      ],
+      "mvp": [
+        "有指挥官在，就绝对不会输",
+        "指揮官さえいれば、絶対に負けないです",
+        "Commander, as long as you're by my side, I won't lose."
+      ],
+      "affinityLove": [
+        "和大家待在一起很开心，但是…还是会想要，和指挥官独处",
+        "みんなと一緒にいるのは嬉しいです。けど…綾波、指揮官と二人っきりでもっといたいです",
+        "I enjoy being with everyone, but... I'd also like to spend more time alone with you, Commander..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Ayanami_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Ayanami_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Ayanami_IntroSkin8JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Ayanami_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Ayanami_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Ayanami_LogSkin8JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Ayanami_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Ayanami_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Ayanami_DetailsSkin8JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_SecIdle1Skin8JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Ayanami_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Ayanami_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Ayanami_SecIdle2Skin8JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Ayanami_Sec1Skin8JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Ayanami_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Ayanami_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Ayanami_Sec2Skin8JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Ayanami_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Ayanami_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Ayanami_MissionFinSkin8JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Ayanami_MVPSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Ayanami_MVPSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Ayanami_MVPSkin8JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ayanami_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ayanami_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ayanami_Affinity4Skin8JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Witch in Ambush",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "待宵的魔女",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "宵闇待ちの魔女",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/dc/AyanamiHalloween.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f2/AyanamiHalloweenChibi.png",
+      "shipDescription": [
+        "听说参加万圣夜必须得穿上类似的衣服……指挥官……现在的我好看吗？",
+        "ハロウィンに参加するにはこういう服を着なければならない、と聞いたのです。指揮官…今の綾波はカワイイですか？",
+        "I heard that... I need to wear a costume like this to participate in Halloween festivities. Commander... do I look cute?"
+      ],
+      "acquisition": [
+        "听说参加万圣夜必须得穿上类似的衣服……指挥官……现在的我好看吗？",
+        "ハロウィンに参加するにはこういう服を着なければならない、と聞いたのです。指揮官…今の綾波はカワイイですか？",
+        "I heard that... I need to wear a costume like this to participate in Halloween festivities. Commander... do I look cute?"
+      ],
+      "secretaryIdle1": [
+        "这是……糖果？谢谢，我会尝尝看的……",
+        "これは……お菓子ですか？ありがとです。食べるです",
+        "Are these... sweets? Thank you. I will try them."
+      ],
+      "secretaryIdle2": [
+        "除去战斗与训练，世界上好像还存在其他形式的乐趣……",
+        "戦闘と訓練以外も、楽しいことはあるのです、ね……",
+        "There are fun things outside of combat and training too..."
+      ],
+      "secretaryIdle3": [
+        "如果站在南瓜灯上，会不会离天空更近些呢？",
+        "かぼちゃのライトの上に立っていれば、空により近づけるのですか？",
+        "If I stand on this pumpkin lantern... will I be closer to reaching the skies?"
+      ],
+      "secretaryTouch": [
+        "这身衣服，我很中意……",
+        "この服は…好き、です",
+        "I think... I like this costume."
+      ],
+      "secretarySpecialTouch": [
+        "今夜的我不是鬼神，而是魔女……",
+        "「今夜の私（わたくし）はキシンではなく、マジョ……」（ひらひら）",
+        "Tonight, I am not a demon... but a witch!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Ayanami_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Ayanami_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Ayanami_IntroSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Ayanami_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Ayanami_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Ayanami_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Ayanami_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Ayanami_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Ayanami_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Ayanami_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Ayanami_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Ayanami_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Ayanami_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Ayanami_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Ayanami_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ayanami_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ayanami_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ayanami_Sec2Skin1JP.ogg"
+      ]
+    },
+    {
+      "JPClientName": "ニコニコ",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "NicoNico Collaboration Event Questline",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f2/AyanamiNicoNico.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f4/AyanamiNicoNicoChibi.png",
+      "shipDescription": [
+        null,
+        "新着動画、発見です…指揮官、あとで生放送でも一緒にどうです？",
+        null
+      ],
+      "acquisition": [
+        null,
+        "新着動画、発見です…指揮官、あとで生放送でも一緒にどうです？",
+        null
+      ],
+      "acquisitionUrl": [
+        null,
+        "https://azurlane.koumakan.jp/w/images/3/30/Ayanami_IntroSkin2JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Rock 'n' Demon",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "乐队型鬼神",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ROCK'n KIJIN",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/AyanamiRock.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ea/AyanamiRockChibi.png",
+      "shipDescription": [
+        "指挥官，一起听歌吗？兵器以外的我…喜欢吗？",
+        "指揮官、一緒に音楽を聞くのはどうですか？兵器ではない綾波…お気に入りですか？",
+        "Commander, want to listen to music together? Do you like... this non-combat-oriented Ayanami?"
+      ],
+      "acquisition": [
+        "指挥官，一起听歌吗？兵器以外的我…喜欢吗？",
+        "指揮官、一緒に音楽を聞くのはどうですか？兵器ではない綾波…お気に入りですか？",
+        "Commander, want to listen to music together? Do you like... this non-combat-oriented Ayanami?"
+      ],
+      "login": [
+        "指挥官，工作之前，要先听一会儿音乐吗？",
+        "指揮官、仕事の前に、音楽でも一緒にどうですか？",
+        "Commander, before work starts, want to listen to music together?"
+      ],
+      "details": [
+        "戴上耳机后，感觉全世界就只剩下音乐，还有……眼前的人",
+        "ヘッドホンをつければ、流れる音…そして目の前にいる人だけが世界の全てです",
+        "When I put on my headphones, the music flows and washes away everything in the world... except you..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，标枪约我等会儿一起去玩，我可以去吗？",
+        "指揮官、ジャベリンから誘われたのですけど、行っていいですか？",
+        "Commander, Javelin asked if I could play later. Is that okay?"
+      ],
+      "secretaryIdle2": [
+        "指挥官喜欢什么样的歌呢？我的话……唔，摇滚？",
+        "指揮官はどんな曲が好きですか？綾波は…ロックンロール？",
+        "Commander, what kind of music do you like? I like... um, rock?"
+      ],
+      "secretaryIdle3": [
+        "梓说她最近在玩“手机游戏”……指挥官，“手机游戏”是什么？",
+        "雷は「そしゃげ」にハマっていると言っていたのですけど……指揮官、「そしゃげ」は何ですか？",
+        "Ikazuchi said she was playing something called a \"mobage.\" Commander, do you know what that is?"
+      ],
+      "secretaryTouch": [
+        "柚的武器，现在还能变形成乐器…指挥官，想听听看吗？",
+        "綾波の艤装、楽器になれるのです。…指揮官、綾波の演奏を聞きたいですか？",
+        "Ayanami's riggings... can also become musical instruments. Commander, do you want to hear me play?"
+      ],
+      "taskComplete": [
+        "今天的奖励，稍微有些期待…",
+        "今日の報酬、少し期待できるのです",
+        "I'm somewhat looking forward to today's rewards..."
+      ],
+      "commission": [
+        "训练与委托…无论何时都不能懈怠…",
+        "訓練と委託…どんな時でも怠けてはいけないのです",
+        "Training and commissions... there"
+      ],
+      "startingMission": [
+        "这首歌，正适合战场…",
+        "今聞いている曲、戦場にはピッタリです",
+        "This song... fits the battlefield well."
+      ],
+      "mvp": [
+        "“只要微笑就可以了”…那是什么意思？",
+        "「笑えばいい」…どういう意味ですか？",
+        "\"As long as you're smiling...\" What does that mean?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Ayanami_IntroSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Ayanami_IntroSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Ayanami_IntroSkin3JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Ayanami_LogSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Ayanami_LogSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Ayanami_LogSkin3JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Ayanami_DetailsSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Ayanami_DetailsSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Ayanami_DetailsSkin3JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Ayanami_SecIdle1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Ayanami_SecIdle1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Ayanami_SecIdle1Skin3JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_SecIdle2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_SecIdle2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Ayanami_SecIdle2Skin3JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Ayanami_SecIdle3Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Ayanami_SecIdle3Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Ayanami_SecIdle3Skin3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Ayanami_Sec1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Ayanami_Sec1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Ayanami_Sec1Skin3JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Ayanami_TaskCSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Ayanami_TaskCSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Ayanami_TaskCSkin3JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Ayanami_CommissionSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Ayanami_CommissionSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Ayanami_CommissionSkin3JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Ayanami_MissionStartSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Ayanami_MissionStartSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Ayanami_MissionStartSkin3JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Ayanami_MVPSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Ayanami_MVPSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Ayanami_MVPSkin3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Lunar Demon",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "新岁之鬼神",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "波濤新歳",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Lunar New Year 2019 Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/AyanamiSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fa/AyanamiSpringChibi.png",
+      "shipDescription": [
+        "东煌的新年和重樱的新年，氛围完全不一样…的说。不过，这样热闹的气氛也不坏，指挥官也…喜欢节日吗？",
+        "東煌のお正月と重桜のお正月、結構雰囲気が違う…です。みんなでワイワイやる雰囲気も悪くないです。指揮官もこういう祝日が好き…ですか？",
+        "Compared to the way we celebrate New Year in the Sakura Empire, the festivities of the Dragon Empery have a completely different atmosphere... But, I don't really mind the liveliness... Commander, do you like festivals?"
+      ],
+      "acquisition": [
+        "东煌的新年和重樱的新年，氛围完全不一样…的说。不过，这样热闹的气氛也不坏，指挥官也…喜欢节日吗？",
+        "東煌のお正月と重桜のお正月、結構雰囲気が違う…です。みんなでワイワイやる雰囲気も悪くないです。指揮官もこういう祝日が好き…ですか？",
+        "Compared to the way we celebrate New Year in the Sakura Empire, the festivities of the Dragon Empery have a completely different atmosphere... But, I don't really mind the liveliness... Commander, do you like festivals?"
+      ],
+      "login": [
+        "指挥官，东煌那边好像在吃“年夜饭”？……要不要和柚一起去看看？",
+        "指揮官、東煌の仲間たちはネンヤー……大みそかのご飯を食べているです。綾波と一緒に見にに行くです？",
+        "Commander, the girls from the Dragon Empery seem to be having a banquet... Want to come with me to have a look?"
+      ],
+      "details": [
+        "东煌风格的衣服，轻巧，感觉不坏…很可爱？谢谢…的说。",
+        "東煌風の衣装は軽くて、悪くない感じです。…かわいい、ですか？ありがと…です",
+        "This outfit feels light and easy to move in, not bad at all... Very cute? Um... thank you..."
+      ],
+      "secretaryIdle1": [
+        "东煌的春节好像要吃饺子…诶？不是煎饺而是水饺…的说？",
+        "東煌のお正月、餃子を食べるらしいです。……焼餃子ではなく、水餃子…です？",
+        "This year's zodiac animal is... Eh? Commander, did you see where the piglet ran off to?"
+      ],
+      "secretaryIdle2": [
+        "指挥官，为什么港区里会有爆炸的声音？诶？那是庆祝节日用的道具吗？有点有趣……的说。",
+        "指揮官、母港での爆発音はなんですか？祝日のアイテム…？面白そう…です",
+        "Commander, are we under attack? I hear a lot of explosions... Eh? So those are a form of celebration? That sounds interesting, yes..."
+      ],
+      "secretaryIdle3": [
+        "铃铃~铃铃~铃铛的音色…很适合新年的氛围……",
+        "（チリンチリン）鈴の音、春節の雰囲気とピッタリ、です",
+        "What is this \"ding-a-ling\" sound? It reminds me... of our New Year back home..."
+      ],
+      "secretaryTouch": [
+        "指挥官，这衣服的材质摸起来很舒服…要试试……？",
+        "指揮官、この衣装の素材、いい触り心地です。…触ってみたい…ですか？",
+        "Commander, this dress is made with really comfortable materials... Want to feel...?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，那里，不可以掀起来……的说。",
+        "指揮官、そこは……めくってはダメ…です",
+        "Commander, you can't... lift that part..."
+      ],
+      "affinityLove": [
+        "欢乐祥和的节日，柚希望就这样和指挥官一起度过…的说",
+        "楽しい祝日は綾波、こうして指揮官と一緒に過ごしたい…です",
+        "I wish you a happy and peaceful holiday~ Commander, I hope that we can continue being together like this forever..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ayanami_IntroSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ayanami_IntroSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ayanami_IntroSkin4JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Ayanami_LogSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Ayanami_LogSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Ayanami_LogSkin4JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ayanami_DetailsSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ayanami_DetailsSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ayanami_DetailsSkin4JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Ayanami_SecIdle1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Ayanami_SecIdle1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Ayanami_SecIdle1Skin4JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Ayanami_SecIdle2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Ayanami_SecIdle2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Ayanami_SecIdle2Skin4JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Ayanami_SecIdle3Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ayanami_SecIdle3Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ayanami_SecIdle3Skin4JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ayanami_Sec1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ayanami_Sec1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ayanami_Sec1Skin4JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Ayanami_Sec2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Ayanami_Sec2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Ayanami_Sec2Skin4JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Ayanami_Affinity4Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Ayanami_Affinity4Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Ayanami_Affinity4Skin4JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Grade A Sailor Uniform",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "一式水手风制服",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "壱式給仕海軍制服",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Coco Ichibanya and Pasta de Coco Collab Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f7/AyanamiCoCo.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bc/AyanamiCoCoChibi.png",
+      "shipDescription": [
+        "“欢迎光临，指挥官”…打招呼的时候是这样…吧？",
+        "「指揮官、いらっしゃいませ、です」…挨拶はこんな感じでいいですか？",
+        "\"Welcome, Commander...\" I should greet customers like this... yes?"
+      ],
+      "acquisition": [
+        "“欢迎光临，指挥官”…打招呼的时候是这样…吧？",
+        "「指揮官、いらっしゃいませ、です」…挨拶はこんな感じでいいですか？",
+        "\"Welcome, Commander...\" I should greet customers like this... yes?"
+      ],
+      "login": [
+        "指挥官，今天想要来点什么吗？菜单在这里…的说",
+        "指揮官、今日はなににするです？メニューはこちらにあるです",
+        "Commander, what would you like to order today? The menu is right here..."
+      ],
+      "details": [
+        "见习服务生，是柚没有经历过的体验，感觉很新鲜…的说",
+        "給仕の仕事、綾波初めてです。なんだか新鮮…です",
+        "Training to be a waitress is something that Ayanami has never experienced before. It's very novel, yes..."
+      ],
+      "secretaryIdle1": [
+        "拉菲说，有时候也需要换换口味，所以…今天要来点甜点吗，指挥官？",
+        "ラフィーが、たまには別のメニューもいいと言ったのです……指揮官、今日は甘いものでもどうですか？",
+        "Laffey said that it's important to diversify your diet. So... today, would you like something sweet, Commander?"
+      ],
+      "secretaryIdle2": [
+        "标枪无论做什么的时候都好有精神，有点羡慕…的说",
+        "ジャベリン、どんなことをやっても元気です……少し…羨ましいです",
+        "Javelin is always so energetic, no matter what she's doing. I'm a little jealous..."
+      ],
+      "secretaryIdle3": [
+        "服务生的工作…果然没有想象中的那么简单…的说",
+        "給仕さんのお仕事、やっぱり思ったほど簡単じゃない……です",
+        "Being a waitress... is harder work than I imagined..."
+      ],
+      "secretaryTouch": [
+        "餐盘要像这样端…的说？——指挥官想要帮柚？没关系的，还是让柚自己来吧",
+        "トレーはこう…ですか？――指揮官、綾波一人でも大丈夫です。手助け無用、です",
+        "I should hold the serving platter... like this? Commander, are you trying to help me? It's okay, I think I can manage on my own."
+      ],
+      "returnFromMission": [
+        "要来一份庆祝胜利回港的特别套餐吗…？",
+        "戦勝のスペシャルコースはいかがです…？",
+        "Would you like a special combo meal to celebrate your safe return?"
+      ],
+      "affinityLove": [
+        "等店里忙完以后，想要和指挥官一起…柚会给指挥官准备，在店里学会的，特别料理套餐…的说，指挥官，可以吗？",
+        "今度は、綾波……指揮官にお仕事で学んだお料理のスペシャルコースを用意したい…です。指揮官、いい…ですか？",
+        "When I'm off work, I want to spend some time with you, Commander... I'll make you a special bento that I learned how to make at work... Is that okay, Commander?"
+      ]
+    },
+    {
+      "ENClientName": "Covert Ops Cloak",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "特殊潜入作战披风",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "特殊潜入作戦雨覆",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Anime Blu-Ray First Press Edition Vol. 4 bonus",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1a/AyanamiBluray.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d9/AyanamiBlurayWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/AyanamiBlurayChibi.png",
+      "shipDescription": [
+        "这里是柚，成功潜入指挥室。…啊，被指挥官发现了， 作战失败…的说",
+        "こちら綾波、指揮官の執務室周辺に潜入成功したです。…あ、指揮官に見られたです。作戦失敗です…",
+        "Ayanami here. Successfully infiltrated Commander's office. Oh... Commander saw me. Operation failed..."
+      ],
+      "acquisition": [
+        "这里是柚，成功潜入指挥室。…啊，被指挥官发现了， 作战失败…的说",
+        "こちら綾波、指揮官の執務室周辺に潜入成功したです。…あ、指揮官に見られたです。作戦失敗です…",
+        "Ayanami here. Successfully infiltrated Commander's office. Oh... Commander saw me. Operation failed..."
+      ],
+      "login": [
+        "指挥官，要和柚一起进行潜入作战的训练吗？…好像不太行，的说",
+        "指揮官、綾波と潜入作戦の訓練をするです？…ちょっと無理そう、です",
+        "Commander, want to join Ayanami in cover ops training? ...Hmm, actually, that seems futile."
+      ],
+      "details": [
+        "虽然和鸾定了潜入作战用的代号，不过大家似乎都不怎么用，有点困扰的说…",
+        "潜入作戦中はコードネームで、と加賀さんに言われたです。みんな中々守らなくて、困ったです…",
+        "Even though we were supposed to use our codenames, Kaga just went and spilled the beans. It's a bit troublesome when nobody is going to use them..."
+      ],
+      "secretaryIdle1": [
+        "皇家的潜入用装备，非常硬核帅气的说。…有点羡慕，的说。",
+        "ロイヤルの人の潜入装備、本格的でカッコいいです。…ちょっと羨ましい、です",
+        "Those Cloak of Invisibility things that they have in the Royal Navy are really cool... they make me a bit jealous..."
+      ],
+      "secretaryIdle2": [
+        "烦恼的时候，可以找鹞和Z23聊天，也经常得到桐的关心，柚很高兴的说",
+        "困ったときは、祥鳳とニーミたちに相談したりするです。吹雪は…よく綾波にあれこれ聞きに来てくれるです。嬉しいです",
+        "When I need help, I usually turn to Shouhou or Zed. As for Fubuki... she always hears me out on a variety of stuff. I'm very thankful."
+      ],
+      "secretaryIdle3": [
+        "这个披风？狐开发的，据说是“披上以后绝对不会露出脸的超厉害款式”的说。是好东西的说…大概",
+        "このマントですか？夕張が開発した「かぶったら絶対顔バレしないスゴイステルス」があるらしいです。多分…いいものです",
+        "This cloak that Yuubari developed for me... has a function that \"always conceals its wearer's face.\" That's... probably good."
+      ],
+      "secretaryIdle4": [
+        "指挥官的房间，有大家守护着，有绝对的安全保障，不用担心的说",
+        "指揮官の部屋、みんなが守っているからセキュリティは大丈夫です。心配しなくていいです",
+        "Commander's office is always protected, and it is absolutely safe. There's no need to worry."
+      ],
+      "secretaryTouch": [
+        "指挥官要吃苹果吗？很好吃的说",
+        "指揮官、りんごを食べるです？美味しいです",
+        "Commander, want an apple? They're really good."
+      ],
+      "secretaryHeadpat": [
+        "这是耳朵，不是角的说…",
+        "耳です、角じゃないです……",
+        "They're ears, not horns..."
+      ],
+      "mail": [
+        "邮件已经由大f…负责护卫的女仆队成员确认过了。没问题，可以直接打开的说",
+        "メールはたい…護衛担当のメイド隊の人も確認したです。開けても大丈夫です",
+        "The mail's been... Oh, the members of the maid team responsible for protecting you have already looked it over. It's fine to open it."
+      ],
+      "strengthening": [
+        "这是为了同伴而存在的力量…的说!",
+        "この力は、仲間を守るためです…！",
+        "This power... is for the sake of protecting my friends...!"
+      ],
+      "startingMission": [
+        "见识下柚和伙伴们的力量！的说！",
+        "綾波と仲間たちの力、見せるです！",
+        "I'll show you the power... of Ayanami and her friends!"
+      ],
+      "mvp": [
+        "成功击破敌方侦察部队，指挥官，感谢的说",
+        "敵見張り部隊、撃破成功です。指揮官、感謝です",
+        "The enemy's lookouts have been taken out succcessfully. Thank you, Commander."
+      ],
+      "defeat": [
+        "狐开发的隐蔽功能，没派上用场的说…",
+        "夕張の開発した隠蔽機能、あまり役に立たなかったです…",
+        "The concealment function that Yuubari added was not very useful..."
+      ]
+    },
+    {
+      "ENClientName": "Low-Key Idol @Confused",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "冷静偶像·迷惑中",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "おませアイドル・困惑中",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c7/AyanamiIdol.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/43/AyanamiIdolChibi.png",
+      "shipDescription": [
+        "偶像，柚，出道？唔，因为标枪她们也出道了，所以，我也要一起……指挥官，偶像平时，都做些什么呢？",
+        "鬼神アイドル綾波、デビューです。ジャベリンたちも頑張ってるから、綾波も……指揮官、アイドルって何をすればいいです？",
+        "I guess I'm making my idol debut? Um, Javelin and the others are making their debuts, so, I also had to... Commander, what are idols supposed to do normally?"
+      ],
+      "acquisition": [
+        "偶像，柚，出道？唔，因为标枪她们也出道了，所以，我也要一起……指挥官，偶像平时，都做些什么呢？",
+        "鬼神アイドル綾波、デビューです。ジャベリンたちも頑張ってるから、綾波も……指揮官、アイドルって何をすればいいです？",
+        "I guess I'm making my idol debut? Um, Javelin and the others are making their debuts, so, I also had to... Commander, what are idols supposed to do normally?"
+      ],
+      "login": [
+        "指挥官，我正在练习跳舞，要看吗？",
+        "指揮官、綾波のダンス練習を見学するです？",
+        "Commander, I'm currently practicing my dance routine. Want to watch?"
+      ],
+      "details": [
+        "Z23，很关心大家……明明自己也有活动，还会帮大家做日程安排，很可靠",
+        "ニーミ、みんなの面倒をよく見てくれるです。……自分のオファーもあるのに、みんなのスケジュールまで組んでくれて…頼もしい、です",
+        "Z23 is always looking out for us... Even though she has her own schedule to worry about, she always helps us manage ours."
+      ],
+      "secretaryIdle1": [
+        "舞蹈和唱歌我都会，露出笑容，好难…但是，标枪说，这也是我的“萌点”，是真的吗，指挥官？",
+        "歌も踊りも楽勝です。笑顔は…難しいです。ジャベリン、綾波の萌えポイントだと言ってたですけど、指揮官、本当ですか？",
+        "Singing and dancing are no problem for me, but smiling is hard... Javelin said that's what makes me cute though. Is that true, Commander?"
+      ],
+      "secretaryIdle2": [
+        "Z23说，偶像和摇滚可能不是很搭，唔，这样的话，可爱金属？",
+        "ニーミ、このユニットの芸風はロックとちょっと合わないと言ったです。カワイイメタルのほうがいいです？",
+        "Commander, Z23 told me that rock n' roll and idols don't really go together. Do you think I could make metal cute?"
+      ],
+      "secretaryIdle3": [
+        "桐好像也在做偶像练习。一会…去看看她好了",
+        "吹雪もアイドルの練習やってるらしい、です。あとで見に行くです",
+        "Fubuki seems to also be doing idol training. We should go see her... in a little bit."
+      ],
+      "secretaryIdle4": [
+        "原来，当偶像每天有那么多的事情要做，感觉，燃起了斗志",
+        "スケジュールがいっぱいです。綾波、やる気出てきたです",
+        "I never knew that there were so many things to do as an idol. I'm getting all fired up."
+      ],
+      "secretaryTouch": [
+        "指挥官，这里是柚今天训练的成果",
+        "指揮官、綾波の今日のレッスンの成果です",
+        "Commander, this is what I learned from my lessons today."
+      ],
+      "returnFromMission": [
+        "把演出看作战斗，观众是敌人的话……唔，好像不行",
+        "ライブは戦い、観客は敵……と見てはだめです",
+        "If I imagine performances to be like battles, and think of the audience as enemies... Err, wait, that's not going to work."
+      ],
+      "commission": [
+        "训练与委托…无论何时都不能懈怠…",
+        null,
+        null
+      ],
+      "startingMission": [
+        "偶像的职责，是保护大家的笑容！",
+        "アイドルは、みんなの笑顔を守るものです！",
+        "An idol's duty is to protect everyone's smiles!"
+      ],
+      "mvp": [
+        "胜利的pose，yeah",
+        "勝利の決めポーズ、いえーい…です",
+        "Victory pose. Yeah."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_IntroSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_IntroSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Ayanami_IntroSkin7JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_LogSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_LogSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_LogSkin7JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Ayanami_DetailsSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Ayanami_DetailsSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Ayanami_DetailsSkin7JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Ayanami_SecIdle1Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Ayanami_SecIdle1Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Ayanami_SecIdle1Skin7JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Ayanami_SecIdle2Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Ayanami_SecIdle2Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Ayanami_SecIdle2Skin7JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Ayanami_SecIdle3Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Ayanami_SecIdle3Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Ayanami_SecIdle3Skin7JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ayanami_SecIdle4Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ayanami_SecIdle4Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ayanami_SecIdle4Skin7JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Ayanami_Sec1Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Ayanami_Sec1Skin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Ayanami_Sec1Skin7JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Ayanami_MissionFinSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Ayanami_MissionFinSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Ayanami_MissionFinSkin7JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ayanami_MissionStartSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ayanami_MissionStartSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ayanami_MissionStartSkin7JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_MVPSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_MVPSkin7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ayanami_MVPSkin7JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Pulse of the New Year",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "新年的愿望",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "年越しの鼓動",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/ab/AyanamiNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7b/AyanamiNew_YearChibi.png"
+    },
+    {
+      "ENClientName": "Nightfall Raiment",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "黯然礼装",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "闇然礼装",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1100",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/16/AyanamiParty.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/24/AyanamiPartyWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/17/AyanamiPartyChibi.png",
+      "shipDescription": [
+        "指挥官，谢谢你能来参加宴会。柚在这里等了很久了。……有点可怕？柚不大明白…的说。",
+        "指揮官、パーティーに来てくれてありがとうです。綾波、ずっとここで待っていたです。……ちょっと怖いです？綾波、よくわからない…です",
+        "Commander, thank you for coming to the party. Ayanami... has been waiting for you. ...I look a bit scary? I'm not sure I get it... I guess."
+      ],
+      "acquisition": [
+        "指挥官，谢谢你能来参加宴会。柚在这里等了很久了。……有点可怕？柚不大明白…的说。",
+        "指揮官、パーティーに来てくれてありがとうです。綾波、ずっとここで待っていたです。……ちょっと怖いです？綾波、よくわからない…です",
+        "Commander, thank you for coming to the party. Ayanami... has been waiting for you. ...I look a bit scary? I'm not sure I get it... I guess."
+      ],
+      "login": [
+        "“让淑女久等不是绅士所为”——开玩笑的。指挥官，欢迎回来的说。",
+        "「レディーを待たせるのは、ジェントルマンとしてどうかと思うです」――冗談です。指揮官、おかえりなさいです",
+        "\"It is unbefitting to keep a lady waiting.\" —That was just a joke. Commander, welcome back."
+      ],
+      "details": [
+        "指挥官，一会要跳舞吗？柚不大会跳…只能加油了。",
+        "指揮官、次はダンスです？綾波、ダンスは苦手……です。頑張るしか無いです",
+        "Commander, you'd like to dance with Ayanami next? I'm not very good at dancing though... I'll try not to step on your feet, I guess..."
+      ],
+      "secretaryIdle1": [
+        "Z23…感觉对这种场合很习惯了的说。柚…有点紧张…指挥官，不要离开柚身边。",
+        "ニーミ、すごく場慣れしている感じです。綾波、すごくソワソワしているです…指揮官、綾波の側から離れないでほしいです…",
+        "Z23 seems to be fitting in just fine, but... I'm still a bit nervous. Commander, don't leave me alone."
+      ],
+      "secretaryIdle2": [
+        "要缓解紧张的话，只能发动小伙伴传授的力量<Force>……不行吗？",
+        "緊張を紛らわすには――教えてもらった<†フォース†>を発動……してはダメ、です？",
+        "To get rid of my nerves... maybe I should try releasing the †Force† like that one person taught me... Is that a bad idea?"
+      ],
+      "secretaryIdle3": [
+        "听着弹钢琴的声音，总觉得有点困……指挥官不困吗？",
+        "ピアノの音を聞いていると、なんだかちょっと眠い…です。指揮官は眠くならないですか？",
+        "Listening to the piano makes me a bit sleepy... Commander, you're not getting sleepy?"
+      ],
+      "secretaryTouch": [
+        "……啊。柚，不困的……",
+        "……あ！綾波、眠くなっていないです…っ",
+        "...Ah! Ayanami... is awake now..."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官…感觉有点奇怪？",
+        "指揮官…変な気分になっているです？",
+        "Commander... you're acting a bit weird..."
+      ],
+      "startingMission": [
+        "优雅而华丽地出击…的说",
+        "優雅に、エレガントに行く、です",
+        "Let us go with grace and elegance."
+      ],
+      "mvp": [
+        "“宴会最闪亮的焦点，我拿下啦！”…桐估计会这样说",
+        "パーティーの注目の的、いただき！…吹雪ならそう言うかもしれないです",
+        "\"I'll become the life of the party!\" ...I'm sure Fubuki would say something like that."
+      ],
+      "defeat": [
+        "不会…就这样结束…！",
+        "このままでは…終わらないです…！",
+        "I can't... let it end like this...!"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Evasion Enhancement Ⅰ",
+      "attributes": "Evasion +5 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "5x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "2x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "5x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Reload Enhancement Ⅱ",
+      "attributes": "Reload +5 / Reload +10 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / Health +75 ",
+      "materials": "1 / 1x DestroyerT3BP ",
+      "coinCost": 2500,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Torpedo Enhancement Ⅱ",
+      "attributes": "Torpedo +5 / Torpedo +15 ",
+      "materials": "1 / 2x DestroyerT3BP and 5 / 15x TorpT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "F",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Torpedo +30, Evasion +15 ",
+      "materials": "3x DestroyerT3BP and 1x Ayanami or Universal Bulin ",
+      "coinCost": 4000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Demon Dance\" ",
+      "materials": "2x DestroyerT3BP and 20x TorpT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "K"
+      ]
+    }
+  ]
+}

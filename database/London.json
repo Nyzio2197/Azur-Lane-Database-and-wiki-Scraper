@@ -1,0 +1,742 @@
+{
+  "name": "London",
+  "constructionTime": "01:30:00",
+  "constructionPools": [
+    false,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "County",
+  "ID": "119",
+  "faction": "Royal Navy",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": true,
+  "artist": "时辰",
+  "pixiv": "https://www.pixiv.net/member.php?id=7514361",
+  "twitter": "https://twitter.com/shichen00",
+  "link": "https://weibo.com/u/3042386674",
+  "voiceActor": "http://www.rme.jp/talent/women/naomi-mukaiyama.html",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3561,
+      165,
+      62,
+      223,
+      223,
+      67,
+      25,
+      212,
+      0,
+      11,
+      116,
+      0,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3841,
+      165,
+      62,
+      233,
+      223,
+      82,
+      25,
+      297,
+      0,
+      11,
+      136,
+      0,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      3417,
+      144,
+      62,
+      204,
+      194,
+      37,
+      25,
+      270,
+      0,
+      11,
+      119,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3137,
+      144,
+      62,
+      194,
+      194,
+      22,
+      25,
+      185,
+      0,
+      11,
+      99,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      607,
+      61,
+      62,
+      41,
+      41,
+      9,
+      25,
+      40,
+      0,
+      3,
+      38,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "130% → 145% → 150%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 160% → 160%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100% → 115%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Torpedo  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    23,
+    14,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Artillery Command: Vanguard; CN: 炮术指挥·先锋 JP: 砲術指揮・前衛",
+  "skill1Description": "Increases the FP of your Vanguard by 5% (15%). Does not stack with any other Artillery Command skill.",
+  "skill2Name": "(Retrofit) Sharpshooter of Londinium; CN: Londinium JP: ロンディニウムショット",
+  "skill2Description": "When this ship fires its Main Gun: 15% (30%) chance to inflict double DMG with them. When this ship sinks an enemy: increases its own Accuracy by 0.5% (1.5%) (can be stacked up to 8 times.)",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ロンドン級",
+  "skill3Description": "Activates All Out Assault I: London Class once every 9 (6) times the Main Guns are fired (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e0/London.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png",
+      "shipDescription": [
+        "伦敦级重巡洋舰—伦敦，舷号69",
+        "ロンドン級重巡洋艦・ロンドン (HMS London）",
+        "London-class heavy cruiser – London, Hull Number 69!"
+      ],
+      "selfIntroduction": [
+        "我是伦敦级重巡洋舰首舰——伦敦，服役于第1巡洋舰队，在北大西洋、太平洋都有积极参与作战。阁下，请放心把任务交给我吧！",
+        "ロンドン級重巡洋艦のネームシップーーロンドンと申します。第一巡洋艦隊に所属して、北大西洋・太平洋ともに戦い抜きました。閣下、任務なら安心しておまかせください！",
+        "I am the lead ship of London class , London. I was a member of the First Cruising Fleet, and fought battles in North Atlantic and Pacific waters. Your Excellency, rest assured and leave the missions to me!"
+      ],
+      "acquisition": [
+        "我是伦敦级重巡洋舰首舰——伦敦，服役于第1巡洋舰队，在北大西洋、太平洋都有积极参与作战，请放心把任务交给我吧，阁下！",
+        "ロンドン級重巡1号艦、ロンドンです。第1巡洋艦戦隊に所属し、北大西洋、太平洋での戦いに参戦して参りました。任務なら、安心してお任せください！",
+        "First ship of the London class, London. Member of the First Cruising Fleet, while also having took part in battles of North Atlantic and Pacific missions. If there's a mission, rest assured and let me handle it!"
+      ],
+      "login": [
+        "贵安，伦敦今天仍会伴随阁下的左右",
+        "ごきげんよう、閣下、ロンドンは今日もおそばにおりますよ",
+        "Good day to you, your Excellency. I shall accompany you for today as well."
+      ],
+      "details": [
+        "怎么了吗？阁下如此认真，在看些什么呢？",
+        "どうされました？閣下、そんなに真剣に何を見ているんですか？",
+        "What's the matter? Your Excellency, what are you looking at so seriously?"
+      ],
+      "secretaryIdle1": [
+        "阁下…有看到紫石英那孩子吗？我到处都找不到她",
+        "閣下…アメジストちゃんを見かけませんでした？探してるんです",
+        "Your Excellency... have you seen Amethyst? I've been searching for her."
+      ],
+      "secretaryIdle2": [
+        "北极的天气太冷了，弄得我身体都出毛病了…",
+        "北極はとっても寒くて、病気になっちゃいそうです…",
+        "The Arctic was very cold. I still feel like i'm getting a cold from there..."
+      ],
+      "secretaryIdle3": [
+        "今天天气不错，也许我们可以稍微放松一下，不是吗？",
+        "あれ、今日はいいお天気ですね。えっと、まあ…会話のきっかけになればと…",
+        "My, this is a fine day. Erm, well... I thought it's a good time for a conversation..."
+      ],
+      "secretaryTouch": [
+        "身体的接触有一些……嗯，没事的，只是有些不习惯",
+        "ボディタッチはちょっと…いえ、かまいませんけど、慣れてなくて",
+        "Bodily contact is... No, I don't mind. I'm just not used to it."
+      ],
+      "secretarySpecialTouch": [
+        "请……请不要做这种不合礼仪的事情！",
+        "か…閣下、それはマナー違反ですよ！",
+        "Pl... please don't do such an improper thing!"
+      ],
+      "task": [
+        "今天的任务还是马上完成吧",
+        "今日の任務は、きっとすぐ終わります",
+        "Do your best to finish your missions today."
+      ],
+      "taskComplete": [
+        "奖励我已经清点好了，请过目",
+        "ボーナスについてリストアップしました。ご確認ください",
+        "I've already made a list of the rewards. Please take a look at them when you have a moment."
+      ],
+      "mail": [
+        "这里是新的信件，还请不要忘了拆阅",
+        "新しいメールはこちらにあります。ご確認ください",
+        "Your new mail is right over here. Please confirm it."
+      ],
+      "returnFromMission": [
+        "辛苦了，请先喝杯热茶，公务就交给我吧",
+        "お疲れ様です。公務は私に任せて、熱い紅茶でもお飲みになってください",
+        "Good work. I'll handle the official matters, so please go have some hot red tea."
+      ],
+      "commission": [
+        "嗯，委托准时完成了，我们去接收成果吧",
+        "はい、委託は時間通りでした。成果の検収に行きましょう",
+        "Yes, the commission is done on time. Let's verify the results, shall we?"
+      ],
+      "strengthening": [
+        "虽然令人高兴，不过阁下务必合理分配资源",
+        "嬉しいですが、資源の配分にはご注意ください",
+        "I'm glad, but please mind the allocation of resources."
+      ],
+      "startingMission": [
+        "大家都注意保护自己，受伤并不是一个可选项！",
+        "皆さん、自分を大切にしてください。できるだけケガしないように！",
+        "Everyone, please be mindful of yourselves. Do not get hurt if possible!"
+      ],
+      "mvp": [
+        "能获得阁下的赞赏，是我莫大的荣幸",
+        "閣下からお褒めの言葉をいただくことが、何より光栄です",
+        "Being praised by your Excellency is the greatest honor to me."
+      ],
+      "defeat": [
+        "……我不该和你们拘泥于礼节的",
+        "…あなたたちに対しては、礼儀を重んじるべきではありませんでしたね",
+        "...I shouldn't be showing you manners when it comes to this."
+      ],
+      "skillActivation": [
+        "那么，我不努努力可不行了",
+        "さてさて、私も頑張らなきゃ",
+        "Well then, I'm gonna try harder as well."
+      ],
+      "lowHP": [
+        "计算出了点偏差……",
+        "計算が少しはずれて…",
+        "There seems to be a slight miscalculation..."
+      ],
+      "affinityDisappointed": [
+        "阁下，请你去别的地方随便做些什么吧，我会把事情都处理好的",
+        "閣下、ほかのどこかに行ってください。こっちは私が全部上手くやれます",
+        "Your Excellency, please go elsewhere for your time. I shall handle everything here."
+      ],
+      "affinityStranger": [
+        "阁下，稍等一下，我刚刚发现这里有点问题……嗯，好了，有什么事吗？",
+        "閣下、少々お待ち下さい。ここに少し問題が……うん、よし！…何か御用でしょうか？",
+        "Your Excellency, a moment please. There's a bit of a problem here... Mmm, yes!... Is there anything you need?"
+      ],
+      "affinityFriendly": [
+        "阁下，要一起喝茶吗？不过要是工作还没做完的话，就请先努力吧。当然，我会陪着你的",
+        "閣下、一緒にお茶でもどうでしょう？あ、仕事が終わっていなければそちらを優先してください。もちろん私もついていきますから",
+        "Your Excellency, would you like to have tea together? If you're not done with your work yet, then please tend to it first. Of course, I will be with you."
+      ],
+      "affinityLike": [
+        "约会吗？阁下要是能够好好完成这几天的工作，我也不是不能答应您哦？怎么样，阁下要努力一下吗~（笑）",
+        "デートですか？ここ数日の仕事を上手くやりとげたら約束出来なくはないですよ？どうです？閣下も努力してみませんか？",
+        "A date? If your Excellency can finish all the work for the coming days, then there's no reason for me to refuse. How about it? Do you want to make the effort?"
+      ],
+      "affinityLove": [
+        "别动，真是的，说过多少次了领子要翻好，头发要梳平，阁下就是这一点太随意了……嗯，这样就行了。要去哪里约会呢？",
+        "じっとしててください。もう襟はちゃんととしてくださいって何回も言ったでしょう。あと髪も整えて…閣下そういうところは本当に大雑把なんですから…はい、これで大丈夫です。じゃあデートはどこに行きます？",
+        "Please stay still! I had already told you to dress yourself properly. And your hair... You can be far too casual with your appearance at times, your Excellency... Yes, that should do. Where do we go for our date?"
+      ],
+      "pledge": [
+        "谢谢~放那里就好，比起这个，阁下，过来看一下这里……惊讶？呵呵，以阁下和我的关系，这个不说也明白啦～不过机会难得，今晚我亲自下厨做些你喜欢吃的吧~",
+        "ありがとうございます～そこに置いてください。それより閣下、これを……驚かないかって？うふふ、閣下と私の関係ですから、わざわざ言わなくてもわかりますよ♪ふふふ。でも、せっかくですから、今日の夕食は私が代わりに好きなものをいっぱい作ってあげますね～",
+        "Thank you, please leave it there. More than that, look at this, Your Excellency... Surprised? Hehe. With our relationship, you should know why I'm not saying anything about this~ But, now that this is the occasion, let me handle the meal for today, with lots of what we like to eat."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 2 of: Shropshire, Kent, Suffolk, Norfolk, Dorsetshire) 城级的姐妹们，我们上吧",
+        "(Sortie with at least 2 of: Kent, Suffolk, Norfolk) カウンティ級の姉妹たち、行きましょう！",
+        "(Sortie with at least 2 of: Shropshire, Kent, Suffolk, Norfolk, Dorsetshire) County-class sisters, now is our time!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Sussex) 好啦，不要整天板着一张脸",
+        "(Sortie with Sussex) よしよし、もう少し表情を緩めた方がいいですよ",
+        null
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Shropshire) 再捉弄阁下，我要生气咯？",
+        "(Sortie with Shropshire) これ以上閣下をからかうと怒りますよ？",
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "閣下、ハッピーバレンタイン！私の故郷では殿方から女性にプレゼントするという風習もありますが、こちらの風習に合わせました。郷に入れば郷に従え、ですね♪",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "阁下对情人节感兴趣吗？我是很感兴趣的，因为这是个非常特别的日子，所以请收下我的巧克力吧。明年要不要继续送，全凭阁下的表现哦。请好好珍惜它哟",
+        "閣下はバレンタインにご興味あります？私はありますよ。何といっても特別な日ですからね。そんなわけでチョコのプレゼントです。来年もあげるかは閣下次第ですよ。大切にしてくださいね？",
+        "Happy Valentine's Day, your Excellency! In my home nation, the custom on this day was that men would give a present to their sweethearts, but I've adjusted to the customs of this place. \"When in Rome, do as Romans do,\" as they say♪"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Your Excellency, happy Valentine's Day. Here then, chocolate for you, as promised. Oh? Did you forget last year I said I would give you some again this year? Or am I remembering wrong...?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/London_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/London_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/London_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/London_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/London_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/London_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/London_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/London_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/London_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/London_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/London_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/London_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/69/London_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/London_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/London_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/London_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/London_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/London_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/03/London_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/London_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/London_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/London_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/London_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/London_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/London_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/London_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/London_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/London_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/London_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/London_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/London_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/London_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/London_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/London_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/London_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/London_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/London_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/London_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/London_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/London_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/London_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/London_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/London_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/London_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/London_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/London_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/London_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/London_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/London_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/London_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/London_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/London_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/London_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/London_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/London_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/London_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/London_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/London_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/London_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/London_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/London_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/London_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/London_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/London_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/London_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/London_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/London_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/London_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/London_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/London_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/London_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/London_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/London_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/London_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/London_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/London_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/London_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/London_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/02/London_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/London_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/London_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/27/LondonKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/64/LondonKaiChibi.png",
+      "shipDescription": [
+        "那个…阁下，能不能不要用“你是谁”的目光盯着我看，我也没有想到，改造后会换上这样的衣服。不过……稍微有些可爱呢，阁下觉得呢？",
+        "あの…閣下、その「どちら様？」というような顔をされましても…私も改造でこんな格好になるなんて思っていませんでしたよ？でも、そうですね…閣下、この服、かわいいとは思いませんか？ふふふ",
+        "Um... Your Excellency, could you please stop staring at me like you don't recognise me? I didn't think that I'd get a new look for my retrofit, either... But, don't you think it's rather cute?"
+      ],
+      "acquisition": [
+        "那个…阁下，能不能不要用“你是谁”的目光盯着我看，我也没有想到，改造后会换上这样的衣服。不过……稍微有些可爱呢，阁下觉得呢？",
+        "あの…閣下、その「どちら様？」というような顔をされましても…私も改造でこんな格好になるなんて思っていませんでしたよ？でも、そうですね…閣下、この服、かわいいとは思いませんか？ふふふ",
+        "Um... Your Excellency, could you please stop staring at me like you don't recognise me? I didn't think that I'd get a new look for my retrofit, either... But, don't you think it's rather cute?"
+      ],
+      "details": [
+        "虽然可以换回原来的衣服，不过，我其实一直有些憧憬这样的穿衣风格呢。阁下希望我换回去吗？",
+        "元の衣装もいいですけど、本当は今のようなちょっとおしゃれな衣装もずっと着てみたかったんですよ。閣下は…やっぱり前の衣装がいいですか？",
+        "I can always change back to my old outfit, but to be frank, I've always looked forward to being able to wear something like this. Your Excellency, would you like me to get changed?"
+      ],
+      "secretaryIdle1": [
+        "换了一身衣服以后，感觉心情也变得有些不一样了呢，阁下，稍后一起吃点心吗？",
+        "衣装を変えると、なんだか気持ちも少し変わりますね……閣下、仕事のあとは甘い物でもいかがですか？",
+        "I feel like my mood has been changing since I got my new outfit. Your Excellency, would you like to go for some dessert in a little bit?"
+      ],
+      "secretaryIdle2": [
+        "阁下，请不要忘记我是您的秘书舰这件事哦？那么，请收回目光，好好工作！",
+        "閣下。私が秘書艦であること、ちょっと忘れていませんか？ふふ、はい、よそ見はここまで、お仕事に戻ってくださいね",
+        "Your Excellency, please do not forget the fact that I am still your secretary ship. Now, please focus and get back to your work!"
+      ],
+      "secretaryIdle3": [
+        "阁下，你知道吗，苏塞克斯那孩子，夸奖这身打扮很漂亮哦？能被那孩子夸奖可是很少见的事呢，呵呵~",
+        "閣下？サセックスもこの格好を可愛いと言ってくれましたよ？あの子が何かを褒めるなんて珍しいことなんですよ。ふふ",
+        "Your Excellency, did you know that Sussex said that this outfit looks really pretty? You don't hear words of praise from her often, hehe~"
+      ],
+      "secretaryTouch": [
+        "真拿你没办法呢。那么，阁下，稍微休息一会儿吧，我来准备点心",
+        "致し方ありませんね…では閣下、少し休憩しましょう。軽食をご用意しますね",
+        "What am I going to do with you... Well then, Your Excellency, please rest for a while. I'll prepare the snacks."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/London_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/London_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/London_IntroSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/London_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/London_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/London_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/London_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/London_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/London_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/20/London_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/London_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/London_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/London_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/London_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/London_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/London_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/London_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/London_Sec1Skin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +80 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Hit Enhancement Ⅰ",
+      "attributes": "Accuracy +5 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "5x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "2x CruiserT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +80 / Health +120 ",
+      "materials": "2 / 3x CruiserT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Evasion Enhancement Ⅱ",
+      "attributes": "Evasion +5 / Evasion +10 ",
+      "materials": "1 / 2x CruiserT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Anti-Air Gun Improvement Ⅱ",
+      "attributes": "Equip 3 Efficiency +5.0% / Equip 3 Efficiency +5.0% ",
+      "materials": "1 / 1x CruiserT3BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Anti-Air Enhancement Ⅱ",
+      "attributes": "Anti-air +15 / Anti-air +25 ",
+      "materials": "1 / 2x CruiserT3BP and 5 / 15x AAT3Plate ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "F",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Accuracy +15, Anti-air +30, Equipment slot 2 can be equipped with DD gun ",
+      "materials": "3x CruiserT3BP and 1x London or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Sharpshooter of Londinium\" ",
+      "materials": "2x CruiserT3BP and 50x GunT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "K"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "name": "Z18",
+  "constructionTime": "00:31:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Type 1936",
+  "ID": "346",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "樱庭光",
+  "pixiv": "https://www.pixiv.net/member.php?id=1423422",
+  "twitter": "https://twitter.com/loveindog",
+  "link": "https://weibo.com/u/5574429612",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/7/74/Z18_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2033,
+      201,
+      38,
+      68,
+      440,
+      148,
+      43,
+      149,
+      0,
+      8,
+      182,
+      192,
+      0,
+      0
+    ],
+    "Level 100": [
+      1708,
+      175,
+      38,
+      59,
+      398,
+      143,
+      43,
+      129,
+      0,
+      8,
+      174,
+      173,
+      0,
+      0
+    ],
+    "Base Stats": [
+      330,
+      74,
+      38,
+      13,
+      84,
+      55,
+      43,
+      28,
+      0,
+      2,
+      67,
+      47,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 115%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 18,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 14,
+  "enhancementValue": [
+    4,
+    28,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Piercing Shells; CN: 穿甲弹精通 JP: 徹甲弾専門",
+  "skill1Description": "Increase AP shell damage by 15% (25%).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-1936型",
+  "skill2Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Type 1936 Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1a/Z18.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Z18Chibi.png",
+      "shipDescription": [
+        "1936型驱逐舰—Z18 汉斯·吕德曼",
+        "1936型駆逐艦・Z18ハンス・リューデマン",
+        "Type 1936 destroyer – Z18, Hans Lüdemann."
+      ],
+      "selfIntroduction": [
+        "1936型的二姐，Z18哟~虽然叫汉斯也可以，不过比较男孩子气多少有些不喜欢呢…… 觉得我和其他铁血的姐妹们很不一样？哼哼，笑容可是很重要的哦~",
+        "1936型の次女、Z18ですよ~ハンスと呼んでもいいけど、でも男の子っぽくてちょっとね……ん？ほかの鉄血の姉妹たちと違うって？ふふん、笑顔はやはり大切ですよ~",
+        "I'm the second Type 1936 destroyer, Z18~! You can call me Hans, although it sounds a little boyish... Hm? I'm really different from other Iron Blood girls? Heheh, a smile makes all the difference~"
+      ],
+      "acquisition": [
+        "初次见面～我是Z18~向大家的心底传达欢笑的Z18哟~",
+        "はじめまして、Z18で~す！みんなの心に笑顔を伝えるZ18ですよ~",
+        "Nice to meet you, I'm Z18! I'm the girl whose smile will reach everyone's hearts~"
+      ],
+      "login": [
+        "指挥官，欢迎回来~今天有开心地笑过吗~",
+        "指揮官、おっかえり~今日は笑いました~？",
+        "Welcome back, Commander~ Have you smiled yet today?"
+      ],
+      "details": [
+        "指挥官，来，跟我一起——笑一个~",
+        "指揮官、はい、一緒に~~スマイル☆",
+        "Okay, Commander! Let's see aaaa... SMILE!"
+      ],
+      "secretaryIdle1": [
+        "铁血的姐妹们不是战斗狂就经常说些很深奥的话，所以我的任务就是为这样的姐妹们带来笑容~",
+        "鉄血のみんなは戦闘狂か、よくわからない話ばかりする子たちか…わたしの任務はどっちも笑顔にすること！",
+        "Everyone from Iron Blood are either obsessed with war or say a bunch of stuff that doesn't make sense... and my mission is to make them all smile!"
+      ],
+      "secretaryIdle2": [
+        "笑是解除恐惧的解药哦~",
+        "笑顔は恐怖への処方箋ですよ～",
+        "I prescribe a smile to anyone who's feeling afraid~"
+      ],
+      "secretaryIdle3": [
+        "我相信笑容住在每个人的心底，只要能传达到，大家都会露出笑容的！",
+        "人々の心の底に、笑顔があると信じています！思いさえ伝われば、だれでも笑顔になれますよ！",
+        "I believe that, deep down, there's a smile in everyone's hearts! Anyone can smile once they know that!"
+      ],
+      "secretaryTouch": [
+        "找Z18有事吗？",
+        "Z18になにか用ですか？",
+        "Do you need anything from me?"
+      ],
+      "secretarySpecialTouch": [
+        "对你笑可不是说你做什么都可以哦！（鼓脸）",
+        "笑ってるからって、なんでもしていいわけじゃないですよ！ぶーぶー",
+        "You can't do whatever you want just because I'm smiling! Hmph!"
+      ],
+      "task": [
+        "指挥官，有新的任务，加油哦！",
+        "指揮官、新しい任務です！頑張って~！",
+        "Commander, there's a new mission! Let's get to it~!"
+      ],
+      "taskComplete": [
+        "不愧是指挥官，奖励有不少呢~",
+        "さっすがは指揮官です！報酬がいっぱい出ましたね~",
+        "Way to go, Commander! We got so many rewards from that~"
+      ],
+      "mail": [
+        "指挥官，有信件~要带着笑容回复人家唷",
+        "指揮官、メールです~笑顔で返すのですよ~",
+        "Commander, mail for you~ But first, give me a smile~"
+      ],
+      "returnFromMission": [
+        "辛苦了~茶点和Z18的笑容，请用吧~",
+        "お疲れ様です~！お菓子とZ18の笑顔、召し上がってください~",
+        "Nice work~! Replenish your energy with these snacks and my smile~"
+      ],
+      "commission": [
+        "委托组完成任务回来啦~不去欢迎她们吗？",
+        "委託組が任務を完了してきましたよ~迎えに行かないの？",
+        "The commission team's done~ Shouldn't you go greet them?"
+      ],
+      "strengthening": [
+        "Z18的笑容一定能更好地传到大家的心中！",
+        "Z18の笑顔、もっとみんなの心に伝わると信じます！",
+        "Now my smile can reach the hearts of more people!"
+      ],
+      "startingMission": [
+        "Z18会为大家加油的~",
+        "Z18はみーんなを応援するよ！",
+        "I'm rooting for you, everyone!"
+      ],
+      "mvp": [
+        "大家一起笑一个吧~",
+        "みんな笑って~",
+        "Gimme a smile, everyone~"
+      ],
+      "defeat": [
+        "即使输了也不能放弃笑容唷~",
+        "負けても笑顔を捨てないよ~",
+        "I'll always smile, even when defeated~!"
+      ],
+      "skillActivation": [
+        "就算是敌人，也要将笑容传达到！",
+        "敵にも笑顔を伝えるよ~！",
+        "My smile will reach even the enemy!"
+      ],
+      "lowHP": [
+        "这下有点糟糕了……",
+        "ちょっとやばいかも……",
+        "This might not be so good..."
+      ],
+      "affinityDisappointed": [
+        "Z18的笑容传达不到指挥官的心里呢……",
+        "Z18の笑顔、指揮官の心に届かないようですね……",
+        "It doesn't look like my smile will reach your heart, Commander..."
+      ],
+      "affinityStranger": [
+        "失败的时候总有人会难过，懊恼，这个时候Z18就会去安慰她~",
+        "失敗するとしょんぼりしたり悩んだりする人がいるでしょう？その時はZ18が励ましてあげるんです！",
+        "People feel sad and anxious when they lose, right? That's why I'll be there to cheer them up!"
+      ],
+      "affinityFriendly": [
+        "虽然笑容是好事，但是面对残忍的事却能笑出来的人果然很可怕呢",
+        "笑顔はいいものですけど、残酷なことに笑える人間が…やはりちょっと怖いですね…",
+        "A smile is always good, but when cruelty makes someone smile... it's kind of creepy..."
+      ],
+      "affinityLike": [
+        "Z18的笑容有传达到了指挥官的心里吗？虽然Z18的笑容是大家的，不过可以多分一些给指挥官哦~",
+        "Z18の笑顔、指揮官の心に届きましたか？笑顔はみんなのものですけど、指揮官にはちょっぴり多く分けてもいいですよ～",
+        "Has my smile reached your heart, Commander? My smile belongs to everyone, but I can smile a little more just for you~"
+      ],
+      "affinityLove": [
+        "指挥官的笑容传达到了Z18的心里了呢，暖暖的，好开心~",
+        "指揮官の笑顔、Z18の心に届きました。暖かくて、嬉しいです！",
+        "Your smile has reached MY heart, Commander! It makes me feel so warm and happy!"
+      ],
+      "pledge": [
+        "这是对Z18笑容最好的肯定呢~嘻嘻，往后Z18也会努力为舰队的大家还有指挥官带来笑容的！",
+        "Z18の笑顔への最高の褒め言葉です～えへへ、これからも、Z18が艦隊のみんな、そして指揮官に笑顔を届けます！",
+        "There's no higher praise for my smile than this~ Ehehe, just like always, I will smile for everyone in the fleet, and for you too, Commander!"
+      ],
+      "giftDescriptionValentines2019": [
+        "这是注入了Z18笑容的巧克力哦，希望收到Z18巧克力的指挥官也能露出开心的笑容~",
+        "ハンスちゃんのスマイルを込めたチョコだよ！食べて、ハンスちゃんのようにいつも笑ってほしいな～えへへ",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, add Hans' smile to your day! Ehehe, for this year, I even shaped my chocolate into a smile! Since it's a 'Happy' Valentine's, eat Hans' chocolate and spend the rest of your day happily!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Z18_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Z18_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Z18_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Z18_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Z18_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Z18_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Z18_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Z18_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Z18_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Z18_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Z18_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Z18_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Z18_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Z18_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Z18_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Z18_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Z18_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Z18_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Z18_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Z18_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Z18_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Z18_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Z18_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Z18_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Z18_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Z18_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Z18_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Z18_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Z18_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Z18_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Z18_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Z18_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Z18_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Z18_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Z18_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Z18_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Z18_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Z18_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Z18_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Z18_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Z18_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Z18_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Z18_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Z18_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Z18_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Z18_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Z18_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Z18_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Z18_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Z18_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Z18_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Z18_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Z18_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Z18_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Z18_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Z18_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Z18_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Z18_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Z18_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Z18_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Z18_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Z18_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Z18_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Z18_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Z18_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Z18_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Z18_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Z18_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Z18_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Z18_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Z18_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Z18_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Z18_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Z18_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Z18_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Z18_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Z18_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Z18_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

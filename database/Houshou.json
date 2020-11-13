@@ -1,0 +1,524 @@
+{
+  "name": "Houshou",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Houshou",
+  "ID": "220",
+  "faction": "Sakura Empire",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "artist": "Sky-FreeDom",
+  "pixiv": "https://www.pixiv.net/member.php?id=1017056",
+  "link": "https://weibo.com/skyfreedom",
+  "voiceActor": "https://en.wikipedia.org/wiki/Chiaki_Takahashi_(actress)",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      3621,
+      176,
+      79,
+      0,
+      0,
+      66,
+      25,
+      257,
+      286,
+      11,
+      81,
+      92,
+      0,
+      0
+    ],
+    "Level 100": [
+      3095,
+      153,
+      79,
+      0,
+      0,
+      47,
+      25,
+      224,
+      251,
+      11,
+      68,
+      81,
+      0,
+      0
+    ],
+    "Base Stats": [
+      599,
+      65,
+      79,
+      0,
+      0,
+      18,
+      25,
+      48,
+      53,
+      3,
+      26,
+      22,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "100% → 100%",
+  "slot2Equipment": "Fighters",
+  "slot2Efficiency": "115% → 130%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "115% → 130%",
+  "collectionStatBonus": "Light aircraft carrier (CVL) Anti-submarine warfare  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Reload  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    0,
+    0,
+    35,
+    12
+  ],
+  "retireValue": [
+    0,
+    7,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Fighters +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +7%",
+  "skill1Name": "First-Generation Carrier; CN: 航空先驱 JP: 初期正規空母",
+  "skill1Description": "Increase battle experience gained by all CVs and CVLs in the same fleet as this ship by 5.0% (15.0%).",
+  "skill2Name": "Air Support; CN: 制空支援 JP: 制空支援",
+  "skill2Description": "When this ship launches an airstrike, increase the AVI stat of each CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds. This buff does not apply to the airstrike that triggered it.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8f/Houshou.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/ff/HoushouChibi.png",
+      "shipDescription": [
+        "凤翔号航空母舰",
+        "鳳翔型航空母艦・鳳翔",
+        "Aircraft carrier, Houshou."
+      ],
+      "selfIntroduction": [
+        "我是世上第一艘被专门设计的航母，可以算作所有航母的姐姐，呵呵，说是母亲也可以，最擅长的就是照顾孩子们了——不过虽然是这么说，还请指挥官不要介意，轻松地和我搭话就好~",
+        "私は世界初の空母として設計された艦で、いわばすべての空母のお姉さん、うふふ、お母さんとも言えるかもしれませんね。小さい子たちのお世話が得意なの――お気軽に話しかけてくださいね～",
+        "I guess you could say that I was the first aircraft carrier ever in the world. You could call me the eldest sister, or mother, of them all! Feel free to consult with me whenever you'd like, Commander. I'm always here for you."
+      ],
+      "acquisition": [
+        "哎呀，原来是指挥官……小女子凤翔，请多多指教~呵呵，照顾舰队的孩子们就放心地交给我吧，不会让你失望的~",
+        "あら、指揮官様でしたか……鳳翔と申します。宜しくお願い致しますね～うふふ、艦隊の子たちのお世話はお任せくださいね、失望はさせませんよ～",
+        "Ah, it's the Commander... My name is Houshou, and I'll be in your care from now on. Please leave the children of the fleet in my care. I won't let you down!"
+      ],
+      "login": [
+        "指挥官，吃了吗？没有的话我为你做点什么吧，身心准备不足可是无法投入工作的哟～",
+        "指揮官様？お食事はいかがですか？もしなければ私がご用意しましょうか？お腹が減ってはお仕事には集中できませんよ~",
+        "Commander, have you eaten yet? No? Let me make something for you. You can't head to work without first preparing your body and mind!"
+      ],
+      "details": [
+        "指挥官有时候就像个孩子一样……过来吧~",
+        "指揮官様は時にお子様のようですね……はい、おいで",
+        "You're like a kid sometimes, Commander... Come over here~"
+      ],
+      "secretaryIdle1": [
+        "腿长也不是好事呢，重心不稳定，一不注意就容易摔倒……",
+        "足が長いのも時に困るもので…重心が不安定ですから、時々バランスを崩しやすくなりますわ…",
+        "Having long legs isn't necessarily a good thing. A high center of mass makes it easy to tip over..."
+      ],
+      "secretaryIdle2": [
+        "指挥官，我准备了些点心，要休息一下吗？",
+        "指揮官様？お菓子を用意しました。少し休憩なさってはいかがですか？",
+        "Commander, I prepared some snacks for us. Do you want to relax for a while?"
+      ],
+      "secretaryIdle3": [
+        "看到妹妹们那么有出息我这个姐姐有时候很开心，有时候又有点伤感呢",
+        "こんなにも出来のいい妹たちを見ると，姉としては嬉しいけれど、時々少しやるせなくなりますね。",
+        "It's amazing to see how much my younger sisters have accomplished, but sometimes it makes me a bit sad to see everything they've gone through..."
+      ],
+      "secretaryTouch": [
+        "指挥官，叫我吗？",
+        "指揮官様、お呼びですか？",
+        "Are you looking for me, Commander?"
+      ],
+      "secretarySpecialTouch": [
+        "呀！……指挥官，在这里不行~",
+        "きゃっ！……し、指揮官様、ここは駄目です！",
+        "Ahh! ... Commander, that's naughty. You can't touch me there."
+      ],
+      "task": [
+        "有新的任务，指挥官，要挑战一下吗？",
+        "新しい任務です。指揮官様、一つお受けになってはいかがでしょうか？",
+        "You've got new missions, Commander. Care for a challenge this time?"
+      ],
+      "taskComplete": [
+        "指挥官真是健忘呢，总是要我提醒才会去领奖励",
+        "あらあら、任務が完了しておりますよ？もう、指揮官様ったら忘れっぽいんですから。",
+        "Commander is sure forgetful, always needing my reminder just to claim the rewards."
+      ],
+      "mail": [
+        "指挥官，有你的邮件~",
+        "指揮官様、お手紙です～",
+        "Commander, there's mail for you!"
+      ],
+      "returnFromMission": [
+        "指挥官辛苦了，那么是要先吃饭呢，先洗澡呢，还是……先喝一杯呢~呵呵",
+        "指揮官様、お疲れ様です。まずはお食事になさいますか？お風呂になさいますか？それとも……お先に一杯、お飲みになってはどうですか？",
+        "Good work, Commander! Would you like dinner? A bath? Or perhaps... a drink first? Hehe~!"
+      ],
+      "commission": [
+        "指挥官，有妹妹完成委托回来了，我先去接她们，你也赶快过来吧",
+        "指揮官様、妹たちが戻ってきましたわ。私が先に迎えに行きますから、あとで来てくださいね。",
+        "Commander, your girls have returned from commission. I'll welcome them back now, but you should hurry over as well."
+      ],
+      "strengthening": [
+        "这样就能帮上指挥官更多的忙了……",
+        "これでもっと指揮官様のお役に立てますね~",
+        "Now I can help you even more, Commander!"
+      ],
+      "startingMission": [
+        "虽然不太擅长实战……不过可不能让指挥官蒙羞呢～",
+        "実戦は苦手ですが……指揮官様には恥をかかせられません！",
+        "I'm not very skilled in real combat... but I shall not betray your expectations!"
+      ],
+      "mvp": [
+        "指挥官，这样的程度应该就可以了吧？",
+        "指揮官様、これぐらいでよろしいかしら？",
+        "Commander, will this be enough?"
+      ],
+      "defeat": [
+        "指挥官，万分抱歉……",
+        "指揮官様、申し訳ございません……",
+        "I'm so sorry, Commander..."
+      ],
+      "skillActivation": [
+        "宴会时间到~",
+        "宴の始まりよ～",
+        "It's time for a feast!"
+      ],
+      "lowHP": [
+        "看起来不是悠哉的时候了呢……",
+        "のんびりしてはいられないようね……",
+        "Looks like I can't afford to take it easy just yet."
+      ],
+      "affinityDisappointed": [
+        "指挥官，有什么事吗？",
+        "指揮官様、何かご用でしょうか。",
+        "Is something the matter, Commander?"
+      ],
+      "affinityStranger": [
+        "指挥官，要小睡一会儿吗？",
+        "旦那様、少し仮眠をなされてはいかがでしょうか？",
+        "Want to take a nap, Commander?"
+      ],
+      "affinityFriendly": [
+        "我看起来有点像花魁？呵呵，那么……官人，今夜便是我们最后一场幽会，请好好感受咱的温暖，然后忘了咱吧——这样如何？",
+        "オイランさんに見えます？うふふ、では……旦那様、今宵今生の別れでありんす、わっちの温もりをいっぱい感じてから、今までのことをみなお忘れてくんなましーーどうですか？",
+        "I look a bit like a courtesan? Hehe~ Well then, mister, it seems like tonight shall be our one and only night together. Let us feel the warmth of our embrace, then let the memories fade to nothing. How does that sound?"
+      ],
+      "affinityLike": [
+        "有位大人物夸奖过我漂亮呢，但是我不太自信……要是能得到指挥官的承认我就能有自信了，所以指挥官，我……漂亮吗？",
+        "とある御方から綺麗と褒められましたけど、私あまり自信がないの……指揮官様に褒めていただけたらもっと自信がつきますわ。だから指揮官様、私……綺麗…ですか？",
+        "A prominent person once praised my beauty, but to be honest, I am not so sure about myself. But if Commander was to acknowledge me, perhaps I could find my confidence. So... Commander, am I beautiful?"
+      ],
+      "affinityLove": [
+        "指挥官，今晚的月色很美呢，我准备了些小酒，要来赏月吗？呵呵，这不是为别人，是只为指挥官提供的特别服务哦",
+        "指揮官様、今夜は月が綺麗ですね。お酒を用意致しました。お酌をいたしますので、お月見でもいかがでしょうか？うふふ、他の方には提供しない指揮官様だけの「特別さーびす」ですよ",
+        "Commander, the moon is beautiful tonight, isn't it? I've prepared some drinks... would you like to stargaze together? I wouldn't do this for anyone else - this is a special service just for you, my dear."
+      ],
+      "pledge": [
+        "我的梦想是有一天安定下来后和心爱的人一起开一家小酒馆……现在看来，这个梦想离实现的日子不远了呢，是吧，老·爷~",
+        "私の夢は戦いが終わったら、いつか愛する人と一緒に小さな旅籠を営むこと…今ならその夢が叶うのもそう遠くならなさそうですね。そうでしょう？旦那様～",
+        "My dream is to one day settle down with the person I love and open a small bar somewhere... Now, it doesn't seem like my dream is so distant anymore. Right, my dear?"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官様、今日の献立に特別なもの──バレンタインのチョコレートを用意しました。私からの気持ち、ぜひご賞味くださいませ♪",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "指揮官様、バレンタイン、楽しみにしていました？不肖鳳翔、今年もチョコレートをお作りしました。ぜひご賞味くださいませ♪",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Oh, Commander? I'm sorry, I have to get these banquet invitations to Hermes and Langley... Ah, and of course I can't forget you, Commander. Here, and take this chocolate too, hehe ♪"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Houshou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Houshou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Houshou_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Houshou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Houshou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Houshou_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Houshou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Houshou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Houshou_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Houshou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Houshou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Houshou_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Houshou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Houshou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Houshou_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Houshou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Houshou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Houshou_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Houshou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Houshou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Houshou_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Houshou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Houshou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Houshou_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Houshou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Houshou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Houshou_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Houshou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Houshou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Houshou_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Houshou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Houshou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Houshou_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Houshou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Houshou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Houshou_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Houshou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Houshou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Houshou_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Houshou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Houshou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Houshou_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Houshou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Houshou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Houshou_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Houshou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Houshou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Houshou_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Houshou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Houshou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Houshou_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Houshou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Houshou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Houshou_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Houshou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Houshou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Houshou_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Houshou_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Houshou_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Houshou_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Houshou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Houshou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Houshou_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Houshou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Houshou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Houshou_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Houshou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Houshou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Houshou_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Houshou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Houshou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Houshou_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Houshou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Houshou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Houshou_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Houshou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Houshou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Houshou_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Dream of the Autumn Pillow",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "秋枕梦",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "宵の夢",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Memory Lane - Collect Memory Cards",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/14/HoushouFestival.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/56/HoushouFestivalChibi.png",
+      "shipDescription": [
+        "在大家沉浸在庆典余韵中酣然入梦时，房间内传来衣物滑过肌肤的声音……老爷，今夜能有幸与您共赏繁星吗？",
+        "祭の余韻に浸って眠りにつく時間に、隣から伝わってきた衣擦れる音…うふふ、今夜は一緒に夜空を楽しんではいかがかしら？「旦那さま」？",
+        "While everyone slips into sweet dreams from the night's festivities, the sound of gossamer sliding off of smooth skin reaches your ears... Hehe, would you like to spend this night under the stars with me, Master~?"
+      ],
+      "acquisition": [
+        "在大家沉浸在庆典余韵中酣然入梦时，房间内传来衣物滑过肌肤的声音……老爷，今夜能有幸与您共赏繁星吗？",
+        "祭の余韻に浸って眠りにつく時間に、隣から伝わってきた衣擦れる音…うふふ、今夜は一緒に夜空を楽しんではいかがかしら？「旦那さま」？",
+        "While everyone slips into sweet dreams from the night's festivities, the sound of gossamer sliding off of smooth skin reaches your ears... Hehe, would you like to spend this night under the stars with me, Master~?"
+      ],
+      "secretaryIdle1": [
+        "至少仅在今夜，我想追求和你的幸福……",
+        "「今宵だけでも御前様と幸せを感じたいのでありんす……」",
+        "At least for tonight, I wish you and I to pursue the happiness of being together..."
+      ],
+      "secretaryIdle3": [
+        "老爷，乞巧节的礼物——还满～意～吗～",
+        "旦那様、七夕のおもてなしはーーま・ん・ぞ・く、ですか～？",
+        "Master, what do you think of your Tanabata present? Are~ you~ satisfied~?"
+      ],
+      "secretaryTouch": [
+        "嘻嘻，如果老爷心动了，那就是我赢了哦",
+        "うふふ、旦那様がときめいたら私の勝ち、ですよ",
+        "Hehe... Master, if your heart races, then it's my victory~"
+      ],
+      "secretarySpecialTouch": [
+        "秋宵春梦，总不过黄粱一枕……",
+        "「艶しき秋宵も、儚き夢でありんす……」",
+        "The ephemeral autumn is but a fleeting dream"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Houshou_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Houshou_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Houshou_IntroSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Houshou_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Houshou_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Houshou_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Houshou_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Houshou_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Houshou_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Houshou_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Houshou_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Houshou_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Houshou_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Houshou_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Houshou_Sec2Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

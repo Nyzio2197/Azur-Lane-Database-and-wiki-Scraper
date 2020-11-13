@@ -1,0 +1,854 @@
+{
+  "name": "Hiryuu",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Hiryuu",
+  "ID": "227",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": true,
+  "artist": "小叶",
+  "pixiv": "https://www.pixiv.net/member.php?id=617248",
+  "twitter": "https://twitter.com/leaf_plus",
+  "link": "http://weibo.com/u/1810348711",
+  "voiceActor": "https://en.wikipedia.org/wiki/Shizuka_Ishigami",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      5468,
+      121,
+      36,
+      0,
+      0,
+      56,
+      34,
+      311,
+      391,
+      12,
+      85,
+      0,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      5678,
+      141,
+      36,
+      0,
+      0,
+      66,
+      34,
+      361,
+      426,
+      12,
+      85,
+      0,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      4924,
+      125,
+      36,
+      0,
+      0,
+      46,
+      34,
+      324,
+      385,
+      12,
+      76,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4714,
+      105,
+      36,
+      0,
+      0,
+      36,
+      34,
+      274,
+      350,
+      12,
+      76,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      912,
+      45,
+      36,
+      0,
+      0,
+      14,
+      34,
+      59,
+      74,
+      4,
+      29,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 110% → 125%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "110% → 110% → 115%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "120% → 150% → 150%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 11,
+  "maxLimitBreakTechPoints": 22,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Accuracy  +2",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    0,
+    0,
+    62,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / Torpedo Bomber Efficiency +5%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Fighters +1 / Torpedo Bomber Efficiency +10%",
+  "limitBreak3": "Number of All Planes +1 / Torpedo Bomber Efficiency +15%",
+  "skill1Name": "Final Counter; CN: 最后的反击 JP: 飛龍ハ健在ナリ",
+  "skill1Description": "Once per battle, upon taking lethal damage: become invincible and evade all attacks for 5 (15) seconds; simultaneously, launch an additional airstrike.",
+  "skill2Name": "Second Carrier Division; CN: 二航战 JP: 二航戦",
+  "skill2Description": "When paired with in the same fleet, increase own Air Power by 15% (35%).",
+  "skill3Name": "(Retrofit) Flowers of Fate (Hiryuu); CN: 花之牌 JP: 式機花札",
+  "skill3Description": "10 seconds after the start of a battle and every 20 seconds after that: launch special torpedo bomber attack (number of planes launched are random). Each torpedo bomber carry 2 torpedoes that each do 91 (172) damage.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/ff/Hiryuu.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png",
+      "shipDescription": [
+        "飞龙号航空母舰",
+        "飛龍型航空母艦・飛龍",
+        "Aircraft carrier, Hiryuu."
+      ],
+      "selfIntroduction": [
+        "我是苍龙级航空母舰的飞龙，我和苍龙虽然是姐妹舰，但不是同型舰。 作为航空母舰，在战斗中一旦大意可不行，慎重地前进，以最好的战果为目标来战斗吧！",
+        "蒼龍級航空母艦の飛龍です。蒼龍姉様とは姉妹艦ですけど、同型艦ではありません。 空母ですから、戦闘中は慢心してはいけません。慎重に進み、最高の戦果を目標に戦います！",
+        "I'm Hiryuu, a Souryuu-class aircraft carrier. Although I'm Souryuu\"s sister, we're not actually the same type. As an aircraft carrier, I simply can't afford to let my guard down during battles. Let's advance carefully, and aim for the best possible results in combat!"
+      ],
+      "acquisition": [
+        "空母飞龙听候差遣。有任务就交给我吧，我会战斗到最后一刻！",
+        "空母飛龍、ご指示をお待ちしております！任務なら任せてください！最後まで戦ってみせます！",
+        "Aircraft carrier, Hiryuu, awaiting orders! Leave the missions to me. I’ll fight until my dying breath."
+      ],
+      "login": [
+        "哈！欸，啊！指挥官，躲开！",
+        "ハッ！えっ！あ、指揮官避けてー！",
+        "Eh? Ah! Commander! Watch out!!"
+      ],
+      "details": [
+        "这个姿势很酷……吗？",
+        "このポーズはかっこいい…ですか？",
+        "Isn’t this pose... super cool?"
+      ],
+      "secretaryIdle1": [
+        "状态良好，随时待命！",
+        "コンディション良好！いつでも御命令を！",
+        "All systems go! Ready to sortie at any time."
+      ],
+      "secretaryIdle2": [
+        "嗯……我一直觉得，姐姐的脚踝曲线，真是优美……",
+        "ふぅん…ぼく、姉様のあのくるぶしの脚線美が綺麗だなぁって、ずっと思っていました…",
+        "Is it strange... that I find Souryuu’s ankle to be elegant?"
+      ],
+      "secretaryIdle3": [
+        "指挥官没事做的话，和我过过招如何？",
+        "指揮官が暇なら、ぼくと手合わせでもしませんか？",
+        "Commander, if you’re bored, how about we spar?"
+      ],
+      "secretaryTouch": [
+        "当心，随意靠近我可能会受伤",
+        "気をつけてください。不用心に近づきますと怪我しますよ",
+        "Be careful. You might get hurt if you get too close!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，在我出拳前姑且问一下，你莫非不把我当女性？",
+        "指揮官、一発殴る前に聞きますけど、まさかぼくを女の子として扱っていない、ということはないでしょうね？",
+        "Commander, before I smack you, I’d like to ask: Do you not see me as a woman?"
+      ],
+      "task": [
+        "任务啊，会有什么挑战呢，真期待",
+        "任務ですか。どんなチャレンジがあるか楽しみですね",
+        "A mission, huh? I’m looking forward to any kind of challenge."
+      ],
+      "taskComplete": [
+        "奖励清单，请过目",
+        "報酬一覧です。ご確認を",
+        "Your rewards, Commander. Please take a look."
+      ],
+      "mail": [
+        "信。这样飞很危险？我会注意",
+        "メールです。こう飛ばすのが危ない、ですか？気をつけます…",
+        "Mail! Eh, it’s dangerous to throw them around like airplanes? Fine..."
+      ],
+      "returnFromMission": [
+        "这是刚才的记录，开始战术总结吧",
+        "先の戦闘記録です。振り返りをやりましょう！",
+        "Here are the combat logs. Let's start reviewing the battle.."
+      ],
+      "commission": [
+        "指挥官，前去完成委托的姐妹们应该回来了",
+        "指揮官、委託に出かけた娘たちは帰ってきたっぽいですね",
+        "Commander, your commission fleet should be back."
+      ],
+      "strengthening": [
+        "喝！……嗯，状态很不错",
+        "喝ッ！……うん、いいコンディション！",
+        "Hey! I’m in pretty great shape!"
+      ],
+      "startingMission": [
+        "先手必胜！舰载机，起飞！",
+        "先手必勝！艦載機、翔べ！",
+        "Victory goes the one who strikes first! Planes, take off!"
+      ],
+      "mvp": [
+        "预料之中的胜利，不值一提",
+        "予想内の勝利だ、別に大したことじゃない",
+        "An expected victory. It’s not even worth mentioning."
+      ],
+      "defeat": [
+        "胜败乃兵家常事",
+        "勝敗は時の運ってことね…",
+        "Win some, lose some. It's only normal."
+      ],
+      "skillActivation": [
+        "花！见！那个……！",
+        "ハナ！ミ！え、ええと…ええい！",
+        "Cherry! Blossom... Umm... whatever, Hiyah!"
+      ],
+      "lowHP": [
+        "不要害怕炮火！",
+        "砲火に怯えるな！",
+        "Don't be afraid of gunfire!"
+      ],
+      "affinityDisappointed": [
+        "哈！（拳头停在你的脸颊旁边）离我远点",
+        "ハッ！（拳が顔の間近に寸止めて）ぼくに近寄らないで",
+        "Haa! (Her fist stops next to your face) Stay away from me."
+      ],
+      "affinityStranger": [
+        "我因为满脑子都是战斗所以一直被姐妹们说没有女子力，所以……那个……就是，想在您这里修行一下！",
+        "頭の中は戦ばかりで、いつもみんなに女子力がないと言われていますから、その……あの……えっと、指揮官のもとで女子力の修行をさせてください！",
+        "Since I am always thinking about combat, the other girls keep saying that I’m not feminine at all. So, um... that’s what I’m trying to improve here."
+      ],
+      "affinityFriendly": [
+        "要说女子力……你不觉得姐姐那样有点不近人情的感觉反而有魅力吗？还有姐姐的脚踝也超棒的！我要是有一天也能像姐姐一样就好了",
+        "姉様のようなクールのほうがむしろ魅力的だと思いませんか？あとはあのくるぶしも！あぁ…いつか姉様のようになれればいいなぁ…",
+        "About acting more feminine... do you think Souryuu is more attractive because of her cold demeanor? Oh, and her ankles are amazing. It would be great if I could become like her."
+      ],
+      "affinityLike": [
+        "不过修行要做什么好呢，战斗的修行我倒是很拿手……欸，不用做特别的事只要呆在你身边？……既然你这么说了……",
+        "でも修行って何をするでしょうか…戦闘なら得意ですけど……え、指揮官のそばにいるだけで何もしなくていいんですか？……そ、そういうことでしたら……",
+        "Hmm, feels like nothing has changed. But at least Commander sees me as a woman now. Whenever I’m around you, my heart skips a beat, just like Souryuu described. Is this... girly enough?"
+      ],
+      "affinityLove": [
+        "唔，感觉好像没什么变化……不过至少确认了指挥官是把我当女孩子看的，我在指挥官身边也有姐姐说的女孩子心动的感觉，这就……足够了吧？",
+        "むっ、あまり変わっていないような気がしますけど……でも少なくとも指揮官はぼくを女の子として扱っているのを確認しました。ぼくも指揮官のそばにいると女の子のようにドキドキしますし、これで……大丈夫かな…",
+        "Umm, Even though I didn't feel like anything changed.... At least the Commander has accepted to look me as a woman, When I'm by the Commander's side, I also have those girly feelings that my sis mentioned before, is that.... enough?"
+      ],
+      "pledge": [
+        "那个……我一点也不像其他姐妹们那么温柔，身材也不像姐姐那么好，唯一有自信的就是战斗，即使是这样的女孩子你也……愿意接纳吗？",
+        "ぼくは他のみんなのように優しくはないし、姉様のようにスタイルがよくないけど、戦闘だけは自信があります！…こんな女の子でも…受け入れてくれますか？",
+        "I’m neither gentle like the other girls nor attractive like my sister. The only thing I’m confident about is my combat prowess. Would you still be willing... to accept a girl like me?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Souryuu) 姐姐的美足天下第一",
+        "(Sortie with Souryuu) 姉様の脚線美は天下無双よ！",
+        "(Sortie with Souryuu) Big sister's feet are the best in the world~!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Enterprise) 天下无双真有气势啊",
+        "(Sortie with Enterprise) こういう無双っぷりはいいですね~",
+        "(Sortie with Enterprise) Simply unparallaled! What an aura!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、ハッピーバレンタイン！姉様に助けてもらってチョコレートを作りました！これでしき…コホン！じょ、女子力が少し上がるといいですね！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给您情人节的礼物！今年我终于能自己做了！只要有心意，外观和味道什么的都是次要的，对吧！",
+        "指揮官、バレンタインのプレゼントです！今年はなんとか自力で作ることが出来ました！気持ちさえ込めていれば味でも形でも二の次ですね！はい！",
+        "Commander! Happy Valentine's Day! With my sister's help, I managed to make some chocolate! Now, I'll have something to give you... Ahem! Anyway, I should be a bit more girlish now!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander! I hope Valentine's Day hasn't been too hard on you! I thought and thought about it and I decided that a sort of simple style chocolate is more me than any cutesy type. Commander, um... if any chocolate or whatever is bothering you , you can always come to me and Souryuu to talk about it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Hiryuu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Hiryuu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Hiryuu_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Hiryuu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Hiryuu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Hiryuu_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Hiryuu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Hiryuu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Hiryuu_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiryuu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiryuu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiryuu_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Hiryuu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Hiryuu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Hiryuu_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Hiryuu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Hiryuu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Hiryuu_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Hiryuu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Hiryuu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Hiryuu_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hiryuu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hiryuu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hiryuu_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Hiryuu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Hiryuu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Hiryuu_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Hiryuu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Hiryuu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Hiryuu_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Hiryuu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Hiryuu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Hiryuu_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Hiryuu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Hiryuu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Hiryuu_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Hiryuu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Hiryuu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Hiryuu_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Hiryuu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Hiryuu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Hiryuu_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Hiryuu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Hiryuu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Hiryuu_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Hiryuu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Hiryuu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Hiryuu_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Hiryuu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Hiryuu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Hiryuu_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hiryuu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hiryuu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hiryuu_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Hiryuu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Hiryuu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Hiryuu_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Hiryuu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Hiryuu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Hiryuu_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Hiryuu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Hiryuu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Hiryuu_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Hiryuu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Hiryuu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Hiryuu_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Hiryuu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Hiryuu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Hiryuu_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Hiryuu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Hiryuu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Hiryuu_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Hiryuu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Hiryuu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Hiryuu_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Hiryuu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Hiryuu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Hiryuu_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Hiryuu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Hiryuu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Hiryuu_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Hiryuu_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Hiryuu_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Hiryuu_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6c/HiryuuKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ef/HiryuuKaiChibi.png",
+      "shipDescription": [
+        "改装完成，空母飞龙，参上！……终于也有机会说出这样的台词了呢，哈哈！以后也请多多指教了啦！",
+        "改修完了！空母飛龍、推して参ります！……はははは！ぼくにもようやくこのセリフを言える用になったのですね！これからもよろしくお願いします！",
+        "Retrofit complete! Aircraft Carrier Hiryuu, reporting for duty! Hahaha! I finally got the chance to use that line! I'll be counting on you once more!"
+      ],
+      "acquisition": [
+        "改装完成，空母飞龙，参上！……终于也有机会说出这样的台词了呢，哈哈！以后也请多多指教了啦！",
+        "改修完了！空母飛龍、推して参ります！……はははは！ぼくにもようやくこのセリフを言えるようになったのですね！これからもよろしくお願いします！",
+        "Retrofit complete! Aircraft Carrier Hiryuu, reporting for duty! Hahaha! I finally got the chance to use that line! I'll be counting on you once more!"
+      ],
+      "login": [
+        "沉静，要沉静……欸，指挥官，你是什么时候来的？",
+        "落ち着け、飛龍、落ち着け……あ、指揮官？いつ来たのですか？",
+        "Calm down, Hiryuu, calm down... Oh, Commander? When'd you get here?"
+      ],
+      "details": [
+        "大家都说我变得更酷了。我是很高兴的啦，但是……",
+        "カッコよくなったって言われるのは嬉しいですけど、でも……",
+        "I'm glad that everyone is saying that I look cooler, but..."
+      ],
+      "secretaryIdle1": [
+        "我也想变得像姐姐那样沉稳一点，但是总觉得很难啊……",
+        "姉様のように落ち着いた感じになりたいですけど、結構難しいですね……",
+        "I want to become as calm and collected as Souryuu, but it's no easy feat..."
+      ],
+      "secretaryIdle2": [
+        "你说如果现在比试的话，我们俩谁会赢呢？",
+        "へへ、今手合わせしたらどっちのほうが勝つと思いますか？",
+        "Hehe, if the two of us were to square off right now, who do you think would win?"
+      ],
+      "secretaryIdle3": [
+        "如果能和姐姐一起出击就好了呢，这次我可要让她大吃一惊！",
+        "姉さまと一緒に出撃できたらいいですね。今度は驚かせてみせます！",
+        "It would be great to sortie with Souryuu. I'm not gonna lose again!"
+      ],
+      "secretaryTouch": [
+        "唔，我也要慢慢适应你的行动模式才行了呢。",
+        "うっ、ぼくも指揮官の動きに慣れておきませんと",
+        "Ugh... I have to slowly get used to your behavior patterns..."
+      ],
+      "secretarySpecialTouch": [
+        "看拳！……（收住）这样你就能长点记性了吧？",
+        "喝ッ！……これで指揮官も懲りてくれますよね？",
+        "Hiyah! Commander, are you here for some punishment too?"
+      ],
+      "mail": [
+        "信……不飞起来总觉得少了点什么呢。",
+        "メールです！……飛ばさないとやっぱりなんか物足りない感じですよね",
+        "The mail's here! Not being able to fly feels a bit unsatisfying though..."
+      ],
+      "returnFromMission": [
+        "辛苦了。那么和平常一样，开始战斗总结吧。",
+        "お疲れ様です。いつも通り、戦闘記録の振り返りを始めましょう！",
+        "Good work out there. As usual, I'll start working on the combat report."
+      ],
+      "skillActivation": [
+        "五光炸裂！",
+        "爆ぜろ五光!",
+        "Five brights explosion!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Hiryuu_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Hiryuu_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Hiryuu_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Hiryuu_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Hiryuu_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Hiryuu_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Hiryuu_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Hiryuu_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Hiryuu_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Hiryuu_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Hiryuu_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Hiryuu_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Hiryuu_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Hiryuu_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Hiryuu_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Hiryuu_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Hiryuu_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Hiryuu_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Hiryuu_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Hiryuu_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Hiryuu_Sec1Skin9JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Hiryuu_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Hiryuu_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Hiryuu_Sec2Skin9JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Hiryuu_MailSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Hiryuu_MailSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Hiryuu_MailSkin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Hiryuu_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Hiryuu_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Hiryuu_MissionFinSkin9JP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hiryuu_SkillActivationSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hiryuu_SkillActivationSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hiryuu_SkillActivationSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "After School Bullies",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "放学后的极道少女",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "放課後スケバンガール",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/fd/HiryuuSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0a/HiryuuSchoolChibi.png",
+      "shipDescription": [
+        "有了风纪委员，就得有不良少女呢，那么，在被姐姐抓到前，先在学校大闹一番吧！",
+        "風紀委員役がいるなら不良役も必要ですね。じゃあ、姉さまに捕まる前に、まずは学園で大暴れとしましょう!",
+        "The disciplinary committee wouldn't exist if there weren't bad chicks like me! C'mon, let's totally own this school before my sister catches us!"
+      ],
+      "acquisition": [
+        "有了风纪委员，就得有不良少女呢，那么，在被姐姐抓到前，先在学校大闹一番吧！",
+        null,
+        "The disciplinary committee wouldn't exist if there weren't bad chicks like me! C'mon, let's totally own this school before my sister catches us!"
+      ],
+      "login": [
+        "图书馆里有一位皇家妖精？唔，一直待在图书馆该不会是被谁欺负了吧……？",
+        null,
+        "There's a fairy hiding in the library, you say? If she's confined to the library all the time, do you think she's being bullied...?!"
+      ],
+      "details": [
+        "虽然自称不良少女，但到底应该怎么做呢……",
+        null,
+        "I'm supposed to be a bully, but how exactly do you do that...?"
+      ],
+      "secretaryIdle1": [
+        "逃课？放弃学生的本分可不行，打架？我不喜欢欺负人啦……",
+        null,
+        "Playing hooky? I don't think it's right to abandon your duties as a student. F-fighting? Picking on others is even worse!"
+      ],
+      "secretaryIdle2": [
+        null,
+        null,
+        "nil"
+      ],
+      "secretaryIdle3": [
+        "如何才能使姐姐认为我真的是不良少女呢……好苦恼……",
+        null,
+        "How am I supposed to become the bad girl counterpart to rival my sister...? I just don't get it..."
+      ],
+      "secretaryTouch": [
+        "这个链锤虽然看起来很吓人，但其实里面是空心的喔",
+        null,
+        "My club looks pretty scary, right?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，你这样绝对是违反风纪了吧！",
+        null,
+        "Commander, that's a disciplinary violation!"
+      ],
+      "commission": [
+        "如果不去迎接委托队，就太对不起委托队中喜欢我的那些孩子们了……不良少女飞龙，今天破例迎接一次委托队好啦！",
+        null,
+        "I won't be able to face all the girls who look up to me if we don't go greet the commission fleet... This school bully will make an exception and welcome the girls back!"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health + 60 ",
+      "materials": "2x CarrierT1BP ",
+      "coinCost": 400,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement (I)",
+      "attributes": "Reload + 5 ",
+      "materials": "3x CarrierT1BP ",
+      "coinCost": 600,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Air Combat Proficiency (I)",
+      "attributes": "Fighter Efficiency +4% ",
+      "materials": "3x CarrierT1BP ",
+      "coinCost": 800,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement (I)",
+      "attributes": "Anti-air + 15 ",
+      "materials": "5x CarrierT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Dive Bomber Proficiency (I)",
+      "attributes": "Dive Bomber Efficiency + 5% ",
+      "materials": "3x CarrierT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Air Power Enhancement (I)",
+      "attributes": "Aviation + 10 ",
+      "materials": "2x CarrierT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health + 60 / Health + 90 ",
+      "materials": "2 / 3x CarrierT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Reload Enhancement (II)",
+      "attributes": "Reload +5 / Reload + 10 ",
+      "materials": "1 / 2x CarrierT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B ",
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Air Combat Proficiency (II)",
+      "attributes": "Fighter Efficiency +4% / +7% ",
+      "materials": "1 / 1x CarrierT3BP ",
+      "coinCost": 2500,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Air Power Enhancement (II)",
+      "attributes": "Aviation + 10 / Aviation + 15 ",
+      "materials": "1 / 2x CarrierT3BP and 15 / 35x PlaneT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air + 35 / Evasion + 10 ",
+      "materials": "3x CarrierT3BP and 1x Hiryuu or Universal Bulin ",
+      "coinCost": 4000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I ",
+        "J"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Deck of Aces\" ",
+      "materials": "2x CarrierT3BP and 50x AuxT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "K"
+      ]
+    }
+  ]
+}

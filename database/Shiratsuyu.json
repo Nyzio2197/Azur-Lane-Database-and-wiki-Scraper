@@ -1,0 +1,525 @@
+{
+  "name": "Shiratsuyu",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Shiratsuyu",
+  "ID": "163",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Saru(猴妈)",
+  "pixiv": "https://www.pixiv.net/member.php?id=1422579",
+  "twitter": "https://twitter.com/saru_1127",
+  "link": "http://weibo.com/p/1005051054234800",
+  "voiceActor": "https://twitter.com/narumi_Shino",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1712,
+      196,
+      41,
+      65,
+      509,
+      190,
+      40,
+      150,
+      0,
+      8,
+      182,
+      165,
+      0,
+      0
+    ],
+    "Level 100": [
+      1427,
+      171,
+      41,
+      56,
+      463,
+      184,
+      40,
+      130,
+      0,
+      8,
+      174,
+      147,
+      0,
+      0
+    ],
+    "Base Stats": [
+      276,
+      72,
+      41,
+      12,
+      98,
+      71,
+      40,
+      28,
+      0,
+      2,
+      67,
+      40,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 9,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    4,
+    32,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gained Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapons Efficiency +5%",
+  "skill1Name": "Torpedo Command: Vanguard; CN: 雷击指挥·先锋 JP: 雷撃指揮・前衛",
+  "skill1Description": "Increases Torpedo stat of all ships in the escort fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-白露型",
+  "skill2Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Shiratsuyu Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/44/Shiratsuyu.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d7/ShiratsuyuChibi.png",
+      "shipDescription": [
+        "白露级驱逐舰一番舰—白露",
+        "白露型駆逐艦一番艦・白露",
+        "Shiratsuyu-class destroyer number one - Shiratsuyu."
+      ],
+      "selfIntroduction": [
+        "我是白露级驱逐舰首舰，虽然原本应该是初春级的…… 话说回来……这里是？为什么我在做自我介绍……？唔，虽然不太明白，以后也请多多指教……",
+        "白露型の1番艦だけど、元々は初春型のはずだったけど……そう言えばここは？私なんで自己紹介してるの？よくわからないけど…これからよろしくね",
+        "I'm the first ship of the Shiratsuyu-class, but I was meant to be part of the Hatsuharu-class... Anyway, where am I? Why am I introducing myself...? I don't really know... But I hope I can be of service."
+      ],
+      "acquisition": [
+        "唔，白露级首舰，白露……指挥官你好，我叫白露——欸？我刚说过了？唔……因为实在找不到方法回去了，只好留在这里，以后都麻烦指挥官了",
+        "う、白露型1番艦、白露…指揮官こんにちは、白露だよ―え？さっきも言ったって？う……帰る方法が分からないから、ここにいるしかないの。これからよろしくね",
+        "Um, I'm Shiratsuyu, the first ship of the Shiratsuyu-class... Hello, Commander. My name is Shiratsuyu... Huh? I just said that? Hm... I don't know how to get back home, so I guess I'll stay here. I hope I can be of service."
+      ],
+      "login": [
+        "欸？指挥官你在这边啊……欸嘿嘿……",
+        "え？指揮官、ここにいたのね…えへへ…",
+        "Huh? So this is where you were, Commander... *Giggles*"
+      ],
+      "details": [
+        "指挥官在看什么呢？咦？告诉人家啦……",
+        "指揮官、何見てるの？え？教えてよ～…",
+        "Commander, what are you looking at? Hm? Come on, tell me..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，有看到我的鱼雷嘛……刚才它突然窜出去了",
+        "指揮官、私の魚雷を見なかった？…さっき急に出て行っちゃったの",
+        "Commander, did you see my torpedo? ... It went off somewhere suddenly."
+      ],
+      "secretaryIdle2": [
+        "指挥官，我最近总是忘记我忘了什么东西怎么办……",
+        "あれ…最近、何を忘れたかも忘れちゃうの、どうしよう…",
+        "Weird... lately I seem to forget what I'm forgetting... What am I gonna do..."
+      ],
+      "secretaryIdle3": [
+        "唔，好困……指挥官好像没在看……继续睡…",
+        "うぅ、眠い…（ちらり）指揮官は見てないよね…もうちょっと寝よう…",
+        "*Yawn*... So tired... I hope the commander isn't looking... so I'll sleep for a bit longer..."
+      ],
+      "secretaryTouch": [
+        "呼喵……被摸困了……",
+        "ふぁ…触られると眠くなっちゃう…",
+        "*Yawn*... I get so tired when people touch me..."
+      ],
+      "secretarySpecialTouch": [
+        "呜……这种地方摸起来感觉怪怪的……",
+        "うぅ…そんなとこ触られると変な感じ…",
+        "Whua... it feels weird when you touch me like that..."
+      ],
+      "task": [
+        "有任务！这次白露记得！",
+        "お仕事ですね！今度は忘れないから！",
+        "We've got a job to do! This time I won't forget!"
+      ],
+      "taskComplete": [
+        "指挥官，我把……咦，我抱着的是什么？",
+        "指揮官、今……白露、何を持ってるの？？",
+        "Commander, I brought... Huh, what's this in my hand?"
+      ],
+      "mail": [
+        "指挥官，有信！",
+        "指揮官、めーる！",
+        "Commander, there's mail!"
+      ],
+      "returnFromMission": [
+        "指挥官，没有迷路吗？好厉害！",
+        "指揮官、迷ってなかったの？すごーい！",
+        "Commander, you didn't get lost out there? Wooow!"
+      ],
+      "commission": [
+        "指挥官，白露刚才迷路的时候好像看到出去完成委托的姐妹们回来了……",
+        "指揮官、さっき白露が道を迷ってた時にね、ちょうど委託を完了した娘たちと出会ったの……",
+        "Commander, while I was lost just earlier, I ran into some girls who'd just completed a commission..."
+      ],
+      "strengthening": [
+        "欸……指挥官，这里是哪儿，我怎么感觉全身暖洋洋的……",
+        "あれ……指揮官、ここはどこ？体が温かいなぁ……",
+        "Huh... Commander, where are we? My body feels so warm..."
+      ],
+      "startingMission": [
+        "都、都都都闪开啦~~我刹不住船啦！！！",
+        "み、みみみ、みんな、どいて～ブレーキが効かないー！",
+        "L-l-l-look out, get out of the way! My breaks aren't working!"
+      ],
+      "mvp": [
+        "全舰开火！咦……欸，已经赢了？",
+        "全艦、発射！あ…あれ…もう勝ったの？",
+        "All ships, open fire! Wa... wait... we've already won?"
+      ],
+      "defeat": [
+        "咕……好痛好痛……到底是被什么打到了啊……",
+        "ぐ…イテテ…一体何に叩かれたのかな…",
+        "Gah... ow ow... what in the world hit me...?"
+      ],
+      "skillActivation": [
+        "咦，这里是哪……哇，是敌人！",
+        "あれ、ここはどこ？あわわ、敵さんだ！",
+        "Huh? Where are we? Oh no, it's the enemy!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "糟了……怎么会迷路到指挥官旁边……跑吧……（小声）",
+        "ほぇ……迷って指揮官のそばに……もう逃げよう……",
+        "Huh...? I got lost and ended up next to the commander... I'd better run..."
+      ],
+      "affinityStranger": [
+        "欸，指挥官？太好了，我还以为我又迷路了……看我在这里绕了五圈？欸嘿嘿，我还挺能干的嘛",
+        "ほえ？指揮官？よかった～また迷ったかと思ったよ……ここを５回も回ったの？えへへ、今日は意外とついてるよね～",
+        "Huh? Commander? Thank goodness~ I thought I'd gotten lost again... You saw me leave and come back here 5 times? *Giggles* Then today's a surprisingly lucky day~"
+      ],
+      "affinityFriendly": [
+        "唔……？指挥官？最近回过神来总是会在指挥官旁边，指挥官身上有什么魔力吗？",
+        "ほえ……？指揮官？最近気づいたらいつも指揮官のそばにいるけど、指揮官は何か魔法掛けたの？",
+        "Huh...? Commander? I realized a while back that I'm always by your side, did you cast some kind of magic on me?"
+      ],
+      "affinityLike": [
+        "呜呜，指挥官欺负白露……明明是我要先对指挥官做点什么的~要怎么抱抱都想好了……",
+        "うへぇ…指揮官白露にいじわる……指揮官になんかしようと思ったのに～抱っこさせてあげる……",
+        "*Whimper*... Commander, you're being mean... I thought I'd do something to you in return~ So I'll let you hug me..."
+      ],
+      "affinityLove": [
+        "最近见到指挥官的时候总是很想说些什么，但是想跟上指挥官说话的时候又老是跟丢，然后就忘了要说什么……好像是很重要的话……到底是什么呢",
+        "最近は指揮官に会うたびに何か言おうとしたり、指揮官と会話するとついていけなかったり、それで何を話そうとしたか忘れたり……大切なお話のようで……なんだろう……",
+        "Commander, recently whenever I see you I've wanted to tell you something, and I try to catch up to you, but then I forget what I wanted to say... It has to be something important... But what could it be..."
+      ],
+      "pledge": [
+        "啊……！终于想起来要说什么了！呜……但是已经先被指挥官说了……明明人家想要先对指挥官说的……",
+        "あ！！今何言おうとしたか思い出した！うう……でも指揮官に先越された……白露から言おうとしたのに……",
+        "Ah! Now I remember what I wanted to say! But... you said it first... even though I wanted to be the first to say it..."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "白露、いつも忘れっぽいけど…こんな大事な日はちゃんと覚えてるよ！白露の気持ち、受け取って下さい！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "白露记得的！因为今天是重要的“情人节”呀……收下白露亲手做的巧克力吧，指挥官！",
+        "白露、覚えているよ！今日は大切な「バレンタイン」だって…！白露の手作りチョコを受け取ってね！指揮官！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Valentine's Day is an important day when you give chocolate to your important Commander... Ehehe, I remembered that pretty well, huh? I've been preparing since the day before yesterday...! Shigure was really surprised when she found out. I wonder why...?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Shiratsuyu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Shiratsuyu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Shiratsuyu_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Shiratsuyu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Shiratsuyu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Shiratsuyu_IntroJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Shiratsuyu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Shiratsuyu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Shiratsuyu_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Shiratsuyu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Shiratsuyu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Shiratsuyu_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Shiratsuyu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Shiratsuyu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Shiratsuyu_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Shiratsuyu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Shiratsuyu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Shiratsuyu_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Shiratsuyu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Shiratsuyu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Shiratsuyu_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Shiratsuyu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Shiratsuyu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Shiratsuyu_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Shiratsuyu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Shiratsuyu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Shiratsuyu_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Shiratsuyu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Shiratsuyu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Shiratsuyu_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Shiratsuyu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Shiratsuyu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Shiratsuyu_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Shiratsuyu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Shiratsuyu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Shiratsuyu_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Shiratsuyu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Shiratsuyu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Shiratsuyu_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Shiratsuyu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Shiratsuyu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Shiratsuyu_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Shiratsuyu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Shiratsuyu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Shiratsuyu_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Shiratsuyu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Shiratsuyu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Shiratsuyu_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Shiratsuyu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Shiratsuyu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Shiratsuyu_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Shiratsuyu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Shiratsuyu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Shiratsuyu_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Shiratsuyu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Shiratsuyu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Shiratsuyu_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Shiratsuyu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Shiratsuyu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Shiratsuyu_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Shiratsuyu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Shiratsuyu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Shiratsuyu_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Shiratsuyu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Shiratsuyu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Shiratsuyu_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Shiratsuyu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Shiratsuyu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Shiratsuyu_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Shiratsuyu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Shiratsuyu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Shiratsuyu_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Is The Order A Torpedo?",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "要来点鱼雷吗？",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ご注文はギョライですか？",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/ea/ShiratsuyuMaid.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5f/ShiratsuyuMaidChibi.png",
+      "shipDescription": [
+        "久、久等了，您点的萌萌女仆套c——呜哇啊啊啊啊！对对对对不起请躲开～～",
+        "お、おまたせしましたーご注文のも、モエモエメイド…うわああああ！ごめんなさい避けて―！！",
+        "H-here they come... Your order, and your cutesy dutesy maid... Whoaahh! I'm sorry! Look out!"
+      ],
+      "acquisition": [
+        "久、久等了，您点的萌萌女仆套c——呜哇啊啊啊啊！对对对对不起请躲开～～",
+        "お、おまたせしましたーご注文のも、モエモエメイド…うわああああ！ごめんなさい避けて―！！",
+        "H-here they come... Your order, and your cutesy dutesy maid... Whoaahh! I'm sorry! Look out!"
+      ],
+      "secretaryIdle1": [
+        "指挥官，有看到我的鱼雷吗？低头？啊哇哇哇哇——",
+        "指揮官、私の魚雷を見なかった…？足元？…え…うええええ！！？",
+        "Commander, have you seen my torpedo...? Standing on it...? Wait... Oh noooo!"
+      ],
+      "secretaryIdle3": [
+        "指挥官肚子饿了吗？这边三明治和咖啡…还有草莓蛋糕和曲奇…",
+        "指揮官お腹減った？ええと、サンドイッチ…イチゴケーキ…クッキーとコーヒーなら…",
+        "Are you hungry, Commander? Umm, I have a sandwich... strawberry cake, and some coffee, if you want..."
+      ],
+      "secretaryTouch": [
+        "呜哇！——谢、谢谢指挥官扶住我…",
+        "うあああ!......あ、危なかった...指揮官ありがと…",
+        "Whooahhh! ... Gosh, that was too close... Thanks, Commander..."
+      ],
+      "secretarySpecialTouch": [
+        "呀啊！这、这样很危险的啦！",
+        "きゃっ!し、指揮官、危ないよ!!",
+        "Eek! C-Commander! Look out!"
+      ],
+      "defeat": [
+        "呜呜呜…又搞砸了…",
+        "ううう…またドジしちゃったよぉ……",
+        "*Sob*... I messed up again..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Shiratsuyu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Shiratsuyu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Shiratsuyu_IntroSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Shiratsuyu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Shiratsuyu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Shiratsuyu_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Shiratsuyu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Shiratsuyu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Shiratsuyu_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Shiratsuyu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Shiratsuyu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Shiratsuyu_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Shiratsuyu_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Shiratsuyu_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Shiratsuyu_Sec2Skin1JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Shiratsuyu_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Shiratsuyu_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Shiratsuyu_DefeatSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

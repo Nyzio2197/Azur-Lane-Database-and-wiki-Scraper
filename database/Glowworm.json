@@ -1,0 +1,472 @@
+{
+  "name": "Glowworm",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "G",
+  "ID": "094",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Lino(番茄)",
+  "pixiv": "https://www.pixiv.net/member.php?id=238071",
+  "twitter": "https://twitter.com/lino__",
+  "link": "https://weibo.com/p/1005051859846292",
+  "voiceActor": "https://en.wikipedia.org/wiki/Hiromi_Igarashi",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1412,
+      201,
+      36,
+      79,
+      370,
+      210,
+      43,
+      164,
+      0,
+      9,
+      186,
+      215,
+      0,
+      0
+    ],
+    "Level 100": [
+      1177,
+      175,
+      36,
+      69,
+      330,
+      204,
+      43,
+      143,
+      0,
+      9,
+      177,
+      195,
+      0,
+      0
+    ],
+    "Base Stats": [
+      228,
+      74,
+      36,
+      15,
+      70,
+      78,
+      43,
+      31,
+      0,
+      2,
+      68,
+      53,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 11,
+  "level120StatBonus": "Destroyer (DD) Evasion  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    5,
+    23,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Meteor Slam; CN: 彗星头槌 JP: コメットヘッドスマッシュ",
+  "skill1Description": "All Vanguard ships deal 50% (100%) more ramming damage and take 20% (30%) less damage from ramming.",
+  "skill2Name": "Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill2Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-萤火虫 JP: 特殊弾幕-グローウォーム",
+  "skill3Description": "Every 15 (10) shots from the main battery, triggers Full Barrage - Glowworm I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/50/Glowworm.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7b/GlowwormChibi.png",
+      "shipDescription": [
+        "G级驱逐舰—萤火虫，舷号H92",
+        "G級駆逐艦・グローウォーム（H92)",
+        "G-class destroyer ー Glowworm, Hull Number H92!"
+      ],
+      "selfIntroduction": [
+        "我是G级驱逐舰，萤火虫！虽然大家总说我不好接近，但其实我很喜欢和别人亲密接触的哦~指挥官指挥官，萤火虫的活力，可是用不完的—哎呀！",
+        "私はGクラスの駆逐艦、グローウォーム！近寄り難いと言われるけど、実はわたしスキンシップが好きなんだ～！指揮官、指揮官、グローウォームの元気は尽きないんだから！う、うわあ！",
+        "I am G class' Glowworm! People say it's hard getting near me, but I actually like skinship engagements~! Commander, Commander, I am always energetic! W-whaa!"
+      ],
+      "acquisition": [
+        "HELLO~我是皇家舰队G型驱逐舰，萤火虫哦！呀吼~指挥官，今天也要元气满满的和萤火虫一起玩哟~我可是很会躲猫猫的！",
+        "ハロー！わたしがロイヤルネイビーGクラスの駆逐艦、グローウォームよ！ヤホー指揮官さん！今日も元気いっぱいにグローウォームと遊んでね！わたし、かくれんぼは得意だから！",
+        "Hello! I am the Royal Navy's G-class destroyer, Glowworm! Commander, want to play with me today? I'm pretty good at hide and seek!"
+      ],
+      "login": [
+        "指挥官指挥官~你好慢哦，这么久才过来！快点快点~我们出发去玩吧！",
+        "指揮官指揮官~来るのがおっそいよ！早く出発して~遊びにいこうよ~！",
+        "Commander, Commander, you're so slow! What took you so long? Hurry up, let's go have some fun!"
+      ],
+      "details": [
+        "指挥官指挥官，快看快看，我怎么转都不会晕哦，是不是很厉害？快夸我！",
+        "指揮官指揮官、見て見て、わたし何周ぐるぐるしても酔わないよ！すごい？褒めて褒めて~！",
+        "Commander, watch me, watch me! I don't become dizzy no matter how many times I spin myself! Amazing, right? Praise me, praise me~!"
+      ],
+      "secretaryIdle1": [
+        "HOLA~指挥官看起来没有防备！吃我大萤火虫CQC！呜哇！撞、撞到脚趾了……",
+        "ほーら、無防備な指揮官、このグローウォームのCQCをくらえ！うにゃあ！あ、足ぶつけちゃった……",
+        "Hey there, you defenseless commander, eat my Glowworm CQC! Unya! Ah, I stubbed my toe..."
+      ],
+      "secretaryIdle2": [
+        "别动，汽水好像会溢出来，所以我在用嘴压住它",
+        "じっとしてて、ソーダが溢れちゃうから、押さえてあげる！（ガブッ",
+        "Stay still, the cola is going to overflow. I'm gonna drink it before it makes a mess! *chugs*"
+      ],
+      "secretaryIdle3": [
+        "指挥官，如果在水里回旋的话，会不会引起水龙卷？",
+        "指揮官、水の中でぐるぐるしたら、竜巻ができちゃうかな？",
+        "Commander, do you think we can make a whirlpool if we spin on the water fast enough?"
+      ],
+      "secretaryTouch": [
+        "嘻嘻~好痒喔，萤火虫也要摸摸指挥官~",
+        "えへへ~くすぐったいよぉ~グローウォームも指揮官を触りたぁい~",
+        "Hehe... That tickles! I'm going to tickle you back, Commander!"
+      ],
+      "secretarySpecialTouch": [
+        "唔姆姆！！！hentai指挥官！吃我头槌！",
+        "むむむ！ヘンタイ指揮官め！ヘッドスマッシュをくらえ！",
+        "Nnngggh! Damn you, perverted Commander! I'm gonna headbutt you! *donk*"
+      ],
+      "task": [
+        "喔吼吼，指挥官~任务任务任务！",
+        "おははは！指揮官~任務任務任務！",
+        "Ohoho, Commander! Mission, mission, mission!"
+      ],
+      "taskComplete": [
+        "YAHO！~这么多的奖励，那我就不客气咯！",
+        "やっほぉ！~こんなにたくさん！遠慮なくもらうよ！",
+        "Yahoo! So many rewards! Don't mind if we do!"
+      ],
+      "mail": [
+        "指挥官吼，邮件邮件邮件~",
+        "指揮官ほい！メール、メール、メール！",
+        "Commander, catch! Mail mail mail!"
+      ],
+      "returnFromMission": [
+        "Dala~♪来个爱意满满的拥抱吧",
+        "ジャジャーン！はい、抱っこして☆",
+        "Tadaa! Now, give me a big hug!"
+      ],
+      "commission": [
+        "委托组好像给萤火虫大人带回了贡品！",
+        "委託チームから、このグローウォーム様に貢ぎ物を進呈~っと！",
+        "I, Glowworm, have received tribute from the commission team!"
+      ],
+      "strengthening": [
+        "萤火虫大人变得更强啦！",
+        "グローウォーム様がもっともっと強くなったよ！",
+        "I, Glowworm, have become even stronger!"
+      ],
+      "startingMission": [
+        "冲（zhuang）啊~第一个倒下的要接受惩罚游戏喔~☆",
+        "つっこめ~！一番先に倒れるやつはあとで罰ゲームだよぉ~☆",
+        "Let's ram~! The first one to fall will play the punishment game later~"
+      ],
+      "mvp": [
+        "喔呵呵~愚蠢的敌人哟，我的勇气是无法被击败的~",
+        "敵も馬鹿だなぁ~わたしの勇気は負けないんだから！",
+        "The enemies were idiots~ My courage is second to none, after all!"
+      ],
+      "defeat": [
+        "啊~太…太过分啦！我的战斗才刚开始！I Shall Return！",
+        "ああ~！ちょ、ちょっと！わたしの戦いがまだこれからだから！I Shall Return！",
+        "Ah~! W-wait a minute! My fighting has just begun! I shall return!"
+      ],
+      "skillActivation": [
+        "百万头槌！我撞！",
+        "ミリオンヘッドスマッシュ！くらえー！",
+        "Eat these Million Headbutts!"
+      ],
+      "lowHP": [
+        "只能撞了！",
+        "ぶつけるしかない！",
+        "No choice but to ram!"
+      ],
+      "affinityDisappointed": [
+        "就算是宽容的萤火虫大人，对笨蛋也是绝不宽容的！",
+        "寛容なグローウォーム様もバカには寛大じゃないのだ！",
+        "Even as the magnanimous Glowworm, I will not be giving any quarter to idiots!"
+      ],
+      "affinityStranger": [
+        "萤火虫大人可是最强的！",
+        "グローウォーム様は最強だよ☆",
+        "The great Glowworm is the strongest!"
+      ],
+      "affinityFriendly": [
+        "指挥官~~会被你攻略的是笨~蛋～笨——蛋！！",
+        "指揮官になんて攻略されないよーばーかばーか！",
+        "I'm not gonna be 'cleared' by you Commander. Stupid, stu-pid!"
+      ],
+      "affinityLike": [
+        "最近做梦老想到指挥官……可不能被他知道……",
+        "最近は夢にも指揮官が出てくるようになっちゃった……これは知られてはいけないよね…",
+        "Recently the Commander has been popping up in my dreams... I can't let him find out about this..."
+      ],
+      "affinityLove": [
+        "放弃了！喜欢喜欢喜欢~！被当做笨蛋也不管了！（萤火虫 使用了 头槌）感到荣幸吧！",
+        "諦めたー！好き好き好き！バカにされてもいいからありがたく思うのだー！",
+        "I give up! I like you lots and lots! I don't care if I'm made fun of (Glowworm headbutts you), so be thankful!"
+      ],
+      "pledge": [
+        "不能反悔哦？就算反悔也已经晚了哦！……嘿嘿，嘿嘿嘿嘿，那你说一遍，萤火虫最可爱！……再来几遍，多来几遍！",
+        "後悔しないでね？後悔してももう遅いよ！……えへへ、えへへへ、じゃあグローウォームがいっちばーんカワイイって言って！……もっと、もっと言って！",
+        "You won't regret this, right? It's too late if you want to! ... Ehehe, hehehe. Then, say 'Glowworm is the cutest'! ...Say it. Say it even more!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Omaha, San Diego) 笨蛋三枪手，冲呀！",
+        "(Sortie with Omaha, San Diego) バカ三銃士、いっくよー！",
+        "(Sortie with Omaha, San Diego) Three Musketeers, charge!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 3 ships designed by the same artist) 番茄大队，跟我撞~",
+        null,
+        "(Sortie with at least 3 ships designed by the same artist) Tomato Squad, ramming speed!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、グローウォームさまがチョコをあげるよ！あーんして！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "把巧克力塞到毫无防备的指挥官嘴里！怎么样？好吃吗？",
+        "無防備な指揮官の口にチョコをつっこめー！どう？おいしかった？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "The Commander's guard is down! Time to sneak some chocolate into that mouth of– Blimey! You woke up! But I got a headpat for at least trying... Hehehe~ I love you!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Glowworm_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Glowworm_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Glowworm_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Glowworm_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Glowworm_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Glowworm_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Glowworm_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Glowworm_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Glowworm_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Glowworm_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Glowworm_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Glowworm_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Glowworm_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Glowworm_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Glowworm_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Glowworm_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Glowworm_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Glowworm_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Glowworm_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Glowworm_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Glowworm_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Glowworm_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Glowworm_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Glowworm_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Glowworm_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Glowworm_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Glowworm_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Glowworm_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Glowworm_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Glowworm_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Glowworm_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Glowworm_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Glowworm_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Glowworm_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Glowworm_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Glowworm_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Glowworm_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Glowworm_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Glowworm_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Glowworm_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Glowworm_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Glowworm_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Glowworm_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Glowworm_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Glowworm_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Glowworm_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Glowworm_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Glowworm_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Glowworm_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Glowworm_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Glowworm_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Glowworm_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Glowworm_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Glowworm_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Glowworm_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Glowworm_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Glowworm_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Glowworm_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Glowworm_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Glowworm_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Glowworm_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Glowworm_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Glowworm_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Glowworm_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Glowworm_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Glowworm_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Glowworm_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Glowworm_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Glowworm_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Glowworm_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Glowworm_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Glowworm_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Glowworm_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Glowworm_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Glowworm_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Glowworm_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Glowworm_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Glowworm_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Glowworm_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Glowworm_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Glowworm_Extra1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

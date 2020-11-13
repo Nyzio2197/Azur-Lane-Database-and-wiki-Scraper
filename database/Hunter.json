@@ -1,0 +1,451 @@
+{
+  "name": "Hunter",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "H",
+  "ID": "100",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Alisa",
+  "pixiv": "https://www.pixiv.net/member.php?id=1966676",
+  "link": "https://weibo.com/u/6056658230",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ayaka_Nanase",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1370,
+      196,
+      24,
+      76,
+      356,
+      210,
+      43,
+      156,
+      0,
+      8,
+      191,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      1142,
+      171,
+      24,
+      66,
+      316,
+      204,
+      43,
+      136,
+      0,
+      8,
+      182,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      221,
+      72,
+      24,
+      14,
+      67,
+      78,
+      43,
+      29,
+      0,
+      2,
+      70,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "105% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "125% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Destroyer (DD) Anti-submarine warfare  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    5,
+    22,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gained Special Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Rapid Response; CN: 应急战备 JP: 即応態勢",
+  "skill1Description": "At the beginning of battle, increase own Firepower and Torpedo stat by 9% (24%). Every 12 seconds after, decrease own Firepower and Torpedo stat by 3% (8%), which can be stacked 3 times.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-H級",
+  "skill2Description": "Every 15 (10) shots from the main gun, trigger Full Barrage - H-Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4b/Hunter.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/36/HunterChibi.png",
+      "shipDescription": [
+        "H级驱逐舰—猎人，舷号H35",
+        "H級駆逐艦・ハンター（H35)",
+        "H-class destroyer – Hunter (H35)"
+      ],
+      "selfIntroduction": [
+        "我是皇家海军H级的猎人，参与纳尔维克海战时输给了铁血的驱逐……猎人被猎物咬死，大概也是一种宿命吧",
+        "ロイヤルネイビーHクラス、ハンター。ナルヴィク海戦で鉄血の駆逐艦に敗れた。獲物に噛まれるハンター、別におかしくない……",
+        "Royal Navy H-class destroyer, Hunter. I was taken down by Iron Blood destroyers in the battle of Narvik. It's nothing new for a hunter to end up being eaten by their prey..."
+      ],
+      "acquisition": [
+        "指挥官，你好，我是猎人。……？我还要说些什么吗？",
+        "指揮官、こんにちは。わたしはハンター。……ほかに、言うべきことは…？",
+        "Hello, Commander. I'm Hunter... Was there something else I was supposed to say...?"
+      ],
+      "login": [
+        "指挥官，要和我一起去打猎吗？",
+        "指揮官、ハンティング、いい？",
+        "Commander. How about we go hunting?"
+      ],
+      "details": [
+        "指挥官，我收集的战利品，想看吗？",
+        "指揮官、わたしの戦利品コレクション…見たい？",
+        "Commander, I'm pretty proud of my trophies... Would you like to take a look?"
+      ],
+      "secretaryIdle1": [
+        "这孩子？是我最重要的小伙伴哦",
+        "この子？大切な仲間",
+        "This guy over here? He's my treasured companion."
+      ],
+      "secretaryIdle2": [
+        "其实我也不讨厌勇敢，但她有时候真的有点啰嗦……",
+        "ハーディのことは嫌じゃない。時々、うるさく感じるけど……",
+        "I don't dislike Hardy. It's just that she tends to be annoying when she's around."
+      ],
+      "secretaryIdle3": [
+        "指挥官，一般打猎是不会穿成我这样的，这只是兴趣而已",
+        "この格好は……指揮官、ハンティングする時は真似しなくていい",
+        "These clothes...? Commander, you don't have to copy my dress when we go hunting."
+      ],
+      "secretaryTouch": [
+        "这不是猎枪，是鱼雷管",
+        "猟銃ではない、魚雷発射管",
+        "This isn't a hunting rifle. It's a torpedo tube."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，Lock on……",
+        "「指揮官に、ロックオン」",
+        "[New Target: The Commander. Target: Locked-on.]"
+      ],
+      "task": [
+        "这次的悬赏令是要猎杀什么？",
+        "今度の賞金首は…？",
+        "What's the bounty this time...?"
+      ],
+      "taskComplete": [
+        "怎么？难道想让我给你吹胜利号吗？",
+        "なに？勝利のラッパを吹いてほしいと…？",
+        "What? You want me to sound the horn of victory...?"
+      ],
+      "mail": [
+        "信件，会有狩猎情报吗？",
+        "メール。ハンティングの情報はないかな？",
+        "Here's your mail. Is there any information on what we should hunt next?"
+      ],
+      "returnFromMission": [
+        "指挥官，有战利品吗？",
+        "指揮官、獲物は？",
+        "Commander, what's our next target?"
+      ],
+      "commission": [
+        "战斗前的准备越充分越好",
+        "準備しておくに越したことはない",
+        "You can never be too prepared."
+      ],
+      "strengthening": [
+        "嗯，下次可以尝试一些大家伙了……",
+        "うん、次は大きいのを狙おう……",
+        "Hm, I guess I'll go for some bigger prey next time..."
+      ],
+      "startingMission": [
+        "你们已经跑不了了",
+        "…逃さない",
+        "...I won't let you get away."
+      ],
+      "mvp": [
+        "把敌人当做猎物的话，还是挺简单的……",
+        "獲物だと考えていれば、獲りやすい……",
+        "It's easy as long as I think of the enemy as my prey..."
+      ],
+      "defeat": [
+        "猎人与猎物的关系可不是一成不变的",
+        "追う者も、追われる者も、変わらない者はいない……",
+        "The hunter can become the hunted at any point..."
+      ],
+      "skillActivation": [
+        "越是挣扎，越是痛苦……",
+        "もがけばもがくほど、苦しむだけ",
+        "You'll only suffer more the more you struggle."
+      ],
+      "lowHP": [
+        "这次的猎物，有点凶猛呢……",
+        "獲物…手強いね……",
+        "The prey this time... is pretty tough..."
+      ],
+      "affinityDisappointed": [
+        "……（猎人的小伙伴在冲你狂吠不止）",
+        "……（ハンターの仲間があなたに向かって吠えてきた）",
+        "...... (Hunter's companion barks at you)"
+      ],
+      "affinityStranger": [
+        "港区附近…有猎场吗？",
+        "母港周辺で…狩場ある？",
+        "Is there... a hunting ground around here?"
+      ],
+      "affinityFriendly": [
+        "对于猎人而言，没有不能猎杀的猎物，只有不够充分的准备",
+        "ハンターに狩れないものは、ない。あるとしたら、それはまだ準備が十分じゃないだけ",
+        "There is no prey a hunter cannot take down. Any failure should be attributed to a lack of sufficient preparation."
+      ],
+      "affinityLike": [
+        "指挥官，你今天晚餐想吃什么？我看看能不能打下来几只",
+        "指揮官、夜はなにを食べたい？何匹か獲ってくる",
+        "Commander, what would you like to eat tonight? I'll go catch some of whatever you want."
+      ],
+      "affinityLove": [
+        "战争结束的话，想和指挥官一起去打猎……嗯，就我们两个人",
+        "戦争が終わったら、指揮官と狩りに行きたい……うん、ハンターと指揮官だけで",
+        "When this war ends, I want to go hunting with you, Commander. ...Yes, just the two of us."
+      ],
+      "pledge": [
+        "真正的猎人，是会为了寻找猎物而四处漂泊的……不过有个据点，不、有个家，好像也不错",
+        "ハンターは獲物を求めてさまよう者……だけど、拠点、ううん、「お家」を持っても…良さそうね",
+        "A hunter should always stalk his prey, but... having a base... no, a \"home\"... doesn't sound bad at all."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Hardy) 勇敢，我听到了，别那么大声",
+        "(Sortie with Hardy) ハーディ、聞いてるから、そんなに大声出さなくても",
+        "(Sortie with Hardy) Hardy, lower your voice. You're too loud."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Hunter_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Hunter_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Hunter_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Hunter_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Hunter_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Hunter_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Hunter_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Hunter_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Hunter_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Hunter_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Hunter_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Hunter_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hunter_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hunter_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hunter_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Hunter_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Hunter_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Hunter_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Hunter_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Hunter_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Hunter_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Hunter_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Hunter_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Hunter_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Hunter_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Hunter_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Hunter_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hunter_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hunter_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hunter_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Hunter_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Hunter_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Hunter_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hunter_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hunter_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hunter_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hunter_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hunter_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hunter_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hunter_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hunter_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hunter_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Hunter_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Hunter_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Hunter_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Hunter_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Hunter_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Hunter_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Hunter_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hunter_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hunter_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Hunter_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Hunter_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Hunter_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Hunter_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Hunter_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Hunter_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Hunter_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Hunter_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Hunter_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hunter_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hunter_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hunter_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Hunter_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Hunter_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Hunter_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Hunter_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Hunter_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Hunter_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Hunter_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Hunter_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Hunter_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Hunter_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Hunter_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Hunter_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hunter_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hunter_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hunter_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hunter_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hunter_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hunter_Extra1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

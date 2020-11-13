@@ -1,0 +1,564 @@
+{
+  "name": "Monarch",
+  "constructionTime": "Research",
+  "rarity": "Priority",
+  "shipClass": "Monarch",
+  "ID": "Plan002",
+  "faction": "Royal Navy",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Liduke",
+  "pixiv": "https://www.pixiv.net/member.php?id=38088",
+  "twitter": "https://twitter.com/lidukelaya",
+  "link": "https://weibo.com/liduke",
+  "voiceActor": "https://en.wikipedia.org/wiki/Miyuki_Sawashiro",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7967,
+      168,
+      0,
+      423,
+      0,
+      35,
+      28,
+      230,
+      0,
+      16,
+      66,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6897,
+      146,
+      0,
+      388,
+      0,
+      18,
+      28,
+      200,
+      0,
+      16,
+      54,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1334,
+      62,
+      0,
+      83,
+      0,
+      7,
+      28,
+      43,
+      0,
+      9,
+      21,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 145%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "210% → 210%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 110%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 22,
+  "maxLimitBreakTechPoints": 44,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +2",
+  "level120TechPoints": 33,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "skill1Name": "Monarch's Coercion; CN: 君王之睥睨 JP: 帝王の威圧",
+  "skill1Description": "When firing main gun: 40% (70%) chance to fire a special barrage (damage is based on skill level) and enemies hit by the barrage have their movement speed decreased by 40% for 6 seconds.",
+  "skill2Name": "Against the Current; CN: 底力爆发 JP: 力戦奮闘",
+  "skill2Description": "Increases own Reload by 0.6 (1) for every 1% loss in her HP. Additionally, when HP is 20% or less, heals for 3% max HP every 2 seconds for 8 seconds. This effect only occurs once per battle.",
+  "skill3Name": "(Fate Simulation) Against the Current+; CN: 底力爆发+ JP: 力戦奮闘+",
+  "skill3Description": "Increases own Reload by 0.6 (1) for every 1% loss in her HP. Additionally, when HP is 20% or less, heals for 3% max HP every 2 seconds for 10 seconds. This effect only occurs once per battle.",
+  "skill4Name": "Siren Killer; CN: 塞壬之敌 JP: 対セイレーン特化改修",
+  "skill4Description": "Increases own damage dealt to Sirens by 5% (15%).",
+  "level5": "Health  +325, Anti-air  +11\nMain Gun Efficiency +5%\n",
+  "level10": "Main Gun Mount +1\nGains Siren Killer I\n\nMain Gun Efficiency +5%\nShip Rarity increases to ★★★★☆☆\n",
+  "level15": "Health  +651, Anti-air  +21\nAnti-Air Efficiency +10%\n",
+  "level20": "Secondary Gun Mount +2\nUpgrades Siren Killer I→II\nMain Gun Efficiency +10%\nShip Rarity increases to ★★★★★☆\n",
+  "level25": "Health  +976, Anti-air  +31\nMain Gun Efficiency +5% \n",
+  "level30": "Main Gun Mount +1\nUpgrades Siren Killer II→III\nMain Gun Efficiency +15%\nShip Rarity increases to ★★★★★★\n",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/96/Monarch.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ae/MonarchChibi.png",
+      "shipDescription": [
+        "战列舰—君主",
+        "戦艦・モナーク",
+        "Battleship – Monarch."
+      ],
+      "selfIntroduction": [
+        "皇家海军战列舰君主号，英王乔治五世级战列舰的废弃方案之一。她们即使已经落伍，即便存在瑕疵，也可以理所当然地继续存在着呢……",
+        "ロイヤルネイビー、戦艦・キングジョージV級の廃案の一つにして、名前はモナークと言う。ふん、例え落ちこぼれでも、作られたからにはこうしていられる…",
+        "I am the battleship named Monarch, one of the rejected King George V-class designs. Hmph, though I was once forgotten, now I live and breathe..."
+      ],
+      "acquisition": [
+        "初次见面，我是战列舰君主，皇家已经凄惨到要求助于曾被抛弃的我了吗？",
+        "お初にお目にかかる。私は戦艦・モナークだ。ふん、この一度捨てられた身にまで助けを求めるとは…ロイヤルはもうそこまで落ちぶれているのか？",
+        "We meet for the first time. I am the battleship Monarch. Hmph, once I was discarded, but now I am needed; how ironic... Is this how low the Royal Navy has sunk?"
+      ],
+      "login": [
+        "欢迎回来，我比威尔士与约克更加优秀，指挥官，这是我们的共识吧？",
+        "よくぞ帰った。このモナーク、ウェールズやヨークよりも優秀である――指揮官もそう思うだろ？",
+        "Splendid; you're back. I, Monarch, am superior to the likes of Wales and York. Wouldn't you agree, Commander?"
+      ],
+      "details": [
+        "对我而言，你是这个世界上唯一特殊的存在……在遇到你之前，没有任何人对我有过任何期待",
+        "私にとってお前がこの世界のたった一つの特異点…お前と出会うまで、この私に期待を寄せてくれる人間など誰ひとりいなかった",
+        "You are the one and only being who matters to me... Until I met you, there was nary a single soul who believed in me."
+      ],
+      "secretaryIdle1": [
+        "威尔士和约克……我既厌恶夺去了我存在位置的她们，又喜爱秉承我的消失而生的她们",
+        "ウェールズとヨーク……私の存在を奪った彼女たちを嫌ってはいるが、私の存在を継いだ彼女たちを恨みきれない",
+        "Wales and York... I despise them for bereaving me of my existence, but I cannot resent them for succeeding me."
+      ],
+      "secretaryIdle2": [
+        "如果我有妹妹，会为她取什么名字呢……“威尔士亲王”或许真的不错呢",
+        "妹？そういう存在がいるとしたら、名前は……「プリンス・オブ・ウェールズ」…今思えば悪くないな",
+        "A younger sister? If I have one, her name would be... Prince of Wales... That has a rather nice ring to it."
+      ],
+      "secretaryIdle3": [
+        "我会使整个世界知晓，当初没有选择我是多么地愚蠢！",
+        "私を選ばなかったことがどこまで愚かなのか…この世界に知らしめてやる",
+        "I will make the world understand how foolish it was not to choose me."
+      ],
+      "secretaryTouch": [
+        "指挥官？需要我了吗？",
+        "指揮官、私の存在は必要か",
+        "Is my presence needed, Commander?"
+      ],
+      "secretarySpecialTouch": [
+        "请不要沾染上那些KGV的恶习",
+        "あいつらの悪習に染まるのではないぞ",
+        "Do not fall victim to those degenerate habits of theirs."
+      ],
+      "task": [
+        "这份任务请交给我，我会证明自己的优秀！",
+        "この任務は私に任せてほしい。「最優」の証明として！",
+        "Let me handle this mission. I shall prove my excellence!"
+      ],
+      "taskComplete": [
+        "我不是理所应当就可以存在的，所以理所当然要比它们更加优秀",
+        "存在しているままでは終わらない。「最優」であるがゆえに存在しなければならないのだ",
+        "For as long as I exist, it isn't over. I am excellence itself, therefore I must exist."
+      ],
+      "mail": [
+        "是关于战争的邮件，指挥官，请检阅",
+        "戦局に関するメールだ。指揮官、確認するがいい",
+        "You've received mail regarding the war. You would do best to check it."
+      ],
+      "returnFromMission": [
+        "前来迎接的人好多呢，真好啊，如果是我一个人回港，会有人前来迎接……吗？",
+        "盛大な出迎えだったな。ふん、もし私一人なら、迎えてくれる人は果たしているのだろうか……？",
+        "That was a marvellous welcome. Hmph, were I the only one returning, would anyone welcome me at all...?"
+      ],
+      "commission": [
+        "指挥官，建造我花费了多少物资？放心，无论花费了多少我都一定能加倍回报你！",
+        "具現化させるまでにどれほどの努力があったのか……ふん、どれぐらいだろうと倍にして報いるまでだ",
+        "I wonder what efforts it took to materialise me... Hmph, regardless, I will see to it they are repaid in double."
+      ],
+      "strengthening": [
+        "哼，果然，我才是最强的KGV方案",
+        "ふん、やはり私こそがキングジョージV級の「最優」に相応しい",
+        "Hmph, sure enough, I am the most excellent of the King George V class."
+      ],
+      "startingMission": [
+        "请放心，我会将这支舰队完整地带回来的！",
+        "頼るがいい！この艦隊を一隻たりとも欠けることなく連れ帰ってみせる！",
+        "Depend on me! I will make sure this fleet returns home without as much as a scratch!"
+      ],
+      "mvp": [
+        "相信我，我会永远胜利下去！",
+        "さあ！頼るがいい！私がずっと勝ち続けてみせる！",
+        "Heed my words: depend on me! I will always win!"
+      ],
+      "defeat": [
+        "又要……被放弃了吗？",
+        "また……捨てられるというのか？",
+        "Am I... being discarded yet again?"
+      ],
+      "skillActivation": [
+        "女王可无法号令我",
+        "女王の号令でも、この幻想なる帝王を従えられない！",
+        "Not even the Queen's orders can subdue me!"
+      ],
+      "lowHP": [
+        "哼！如果是威尔士，现在已经回归大海了吧",
+        "ウェールズならとうに沈んでいるだろうがな",
+        "If Wales were me, she would probably have sunk long ago."
+      ],
+      "affinityDisappointed": [
+        "无论如何，我都永远比不上那些KGV吗！？",
+        "この私はあいつらより劣っているというのか！？",
+        "Are you saying that I am inferior to them?!"
+      ],
+      "affinityStranger": [
+        "在被所有人抛弃后，我凭恃着“自己是最优秀的KGV方案”这股信念，一直坚持到了现在……",
+        "あの世界で捨てられた私は、自分こそがたったひとりの「最優」と信じて、今まで生き抜いたものの……",
+        "I only survived in that dark world by believing that I am excellence itself, and thus irreplaceable..."
+      ],
+      "affinityFriendly": [
+        "爱是不应期待回报的，所以，无论皇家对我做过什么，我对皇家的感情都不会改变",
+        "愛は報いを求めぬ。この身に対する王家の仕打ちがあろうとも、私の王家に対しての忠誠心は揺るがない",
+        "Love needs no repayment. No matter how much the Royal Family neglects me, my loyalty to them is unwavering."
+      ],
+      "affinityLike": [
+        "看到了那些KGV的灿烂笑容，稍微有些觉得自己当初被放弃并不完全没有价值",
+        "あいつら、笑い合えているのか。…捨てられた自分でも無価値ではなかった…初めてそんな気がする",
+        "So, they can still laugh together... Perhaps I wasn't discarded for nought, then... I have never felt this way before."
+      ],
+      "affinityLove": [
+        "指挥官，你在我的心中，自始至终永远都是最重要最特殊的存在喔！",
+        "指揮官、お前は私にとって――なによりも特別で、なによりも大切な存在だ――最初から、ずっと……",
+        "Commander, to me, you are the most special, most dear person in existence. You always have, and always will be..."
+      ],
+      "pledge": [
+        "我很幸福喔，即使这个世界不再需要我，你也会需要我，这对我已经足够了……指挥官，或许我是为了与你相爱，才来到这里的吧",
+        "例えこの世界が私の事を必要としなくなったとしても、お前は私のことを必要としてくれる。私にとってはそれでもう十分だ。……ふふ、もしかして、私はお前と出会うためだけにこの世界に具現化されたのかもしれない。だとすれば…それだけで幸せだ",
+        "Even if the world no longer needs me, you will always need me. That is more than enough for me... Hahah, perhaps I was materialised with the sole purpose of meeting you. Even if so... I am happy."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Prince of Wales) 我的名字会是乔治、伊丽莎白、爱德华，但决不会是威尔士！",
+        "(Sortie with Prince of Wales) 私はジョージ、エリザベス、エドワード…だが決して「ウェールズ」ではない！",
+        "(Sortie with Prince of Wales) I am George, Elizabeth, and Edward... but I will never be \"Wales\"!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Duke of York) 或许在某个世界，我是你真正的姐姐也说不定……",
+        "(Sortie with Duke of York) 別の世界なら、お前の本当の姉になるやもしれんな",
+        "(Sortie with Duke of York) In another world, perhaps I would've been your real big sister."
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "指揮官、お前にチョコを与える。ウェールズ達にできて「最優」の私がチョコごとき作れないとでも？ふん…見くびるな。「最優」のチョコを堪能するがいい",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, I'm not sure if you were expecting chocolates from me or not, but... you have the right and responsibility to test my chocolate. As the one who guides me, do your best to show everyone else that I am the most gentle one here."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Monarch_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Monarch_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Monarch_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Monarch_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Monarch_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Monarch_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Monarch_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Monarch_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Monarch_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Monarch_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Monarch_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Monarch_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Monarch_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Monarch_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Monarch_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Monarch_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Monarch_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Monarch_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Monarch_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Monarch_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Monarch_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Monarch_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Monarch_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Monarch_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Monarch_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Monarch_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Monarch_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Monarch_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Monarch_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Monarch_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Monarch_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Monarch_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Monarch_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Monarch_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Monarch_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Monarch_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Monarch_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Monarch_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Monarch_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Monarch_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Monarch_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Monarch_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Monarch_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Monarch_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Monarch_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Monarch_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Monarch_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Monarch_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Monarch_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Monarch_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Monarch_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Monarch_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Monarch_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Monarch_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Monarch_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Monarch_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Monarch_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Monarch_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Monarch_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Monarch_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Monarch_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Monarch_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Monarch_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Monarch_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Monarch_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Monarch_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Monarch_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Monarch_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Monarch_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Monarch_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Monarch_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Monarch_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Monarch_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Monarch_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Monarch_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Monarch_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Monarch_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Monarch_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Monarch_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Monarch_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Monarch_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Monarch_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Monarch_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Monarch_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "White Warrick",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "素罗华威",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ホワイト・ウォリック",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/db/MonarchParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9e/MonarchPartyChibi.png",
+      "shipDescription": [
+        "哼，服饰不过是衬托，真正的高贵应当来源于自身。你不这么认为吗，指挥官？",
+        "ふん、服など所詮飾り、真なる高貴さとは自身の本質に拠って決まるものだ――指揮官、お前もそう思わないか？",
+        "Hmph. One's outfit is merely superficial. True nobility must come from within. Don't you agree, Commander?"
+      ],
+      "acquisition": [
+        "哼，服饰不过是衬托，真正的高贵应当来源于自身。你不这么认为吗，指挥官？",
+        "ふん、服など所詮飾り、真なる高貴さとは自身の本質に拠って決まるものだ――指揮官、お前もそう思わないか？",
+        "Hmph. One's outfit is merely superficial. True nobility must come from within. Don't you agree, Commander?"
+      ],
+      "login": [
+        "你在发什么呆，指挥官？今天还有许多事情在等着你呢",
+        "指揮官、なにをとぼけている。まだやるべき仕事がたくさんあるぞ",
+        "Don't just stand there gawking, Commander. There remains much to be done today."
+      ],
+      "details": [
+        "抬头挺胸，指挥官。你可是我唯一认同的存在—不知道视线该看哪里？？那就看着我的眼睛吧",
+        "指揮官、お前は私が唯一認めた存在だ。さあ、顔を上げ、胸を張ってみるといい――目のやり場に困る？なら、私の目をじっと見つめるといい",
+        "Stand up straight and puff out your chest, Commander. You're the only one I deign to— You're not sure where to look? Well, why not look me in the eyes then?"
+      ],
+      "secretaryIdle2": [
+        "要我教你皇家的宫廷舞怎么跳吗？",
+        "ロイヤルの王家ダンスを教えてやろうか？",
+        "Shall I teach you the Royal Navy's courtly dances?"
+      ],
+      "secretaryIdle3": [
+        "华服属于节日，不过对我来说，存在于此的每一天，都是值得欢庆的节日",
+        "礼装は祝祭日に着るものだが……ここにいられる全ての日々は、私にとっては祝うべき日だからな",
+        "Such splendid dress is normally reserved for special occasions. But for me, every day I exist is a day to be celebrated."
+      ],
+      "secretaryTouch": [
+        "衣服很适合我？哼，指挥官也学会了威尔士那般的花言巧语啊，不过姑且…还是谢谢了…",
+        "この服が似合ってるって？ふん、ウェールズに口説き文句でも教えてもらったのか？まあ、その…ありがとう……",
+        "You like this dress, do you? Hmph, I see you've learned the art of empty flattery from Wales. But nonetheless... thank you..."
+      ],
+      "secretarySpecialTouch": [
+        "就称赞一下你的勇气吧，想要被刺还是被踩？还是吃一发炮击？",
+        "ひとまずその勇気を褒めてやろう。さあ、このヒールで踏まれたいのか？それとも砲撃でもされたいのか？",
+        "I admire your bravery. Now would you rather I stab or trample you? Or would you prefer to taste a volley from my guns?"
+      ],
+      "startingMission": [
+        "就让你们见识一下，什么是皇家式的优雅从容吧",
+        "ロイヤルの優雅とはどんなものか、思い知らせてやろう！",
+        "Allow me to demonstrate the elegance with which a lady of the Royal Navy comports herself."
+      ]
+    },
+    {
+      "ENClientName": "Black Gerard",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "赭红爵祿",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ブラック・ジェラード",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/42/MonarchSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/64/MonarchSpringChibi.png",
+      "shipDescription": [
+        "这次是东方的服饰吗…哼，对我来说，无论什么样的服装都一样，不过既然是特意为我准备的衣服，若是不表达几分感谢与欣喜，岂不是太不解风情了。感谢",
+        "今度はオリエンタルな衣装か。…ふん、服などどうだっていいのだが、わざわざ用意してくれたものに賛辞や感謝を述べないほど、風雅の分からない私ではあるまい。感謝する",
+        "So, an Eastern outfit this time... Hmph. My nobility is evident regardless of what I wear. However, since you prepared this outfit especially for me, it would be unbecoming of me to not express my gratitude. Thank you."
+      ],
+      "acquisition": [
+        "这次是东方的服饰吗…哼，对我来说，无论什么样的服装都一样，不过既然是特意为我准备的衣服，若是不表达几分感谢与欣喜，岂不是太不解风情了。感谢",
+        "今度はオリエンタルな衣装か。…ふん、服などどうだっていいのだが、わざわざ用意してくれたものに賛辞や感謝を述べないほど、風雅の分からない私ではあるまい。感謝する",
+        "So, an Eastern outfit this time... Hmph. My nobility is evident regardless of what I wear. However, since you prepared this outfit especially for me, it would be unbecoming of me to not express my gratitude. Thank you."
+      ],
+      "login": [
+        "难得的节日，你也不必那么辛苦，把事务暂时交给我，好好休息一下也无妨",
+        "せっかくの祝日だ、そう苦労する必要はあるまい。事務仕事を私に任せて休むがいい",
+        "This festival comes but once a year. I shan't let you waste it working yourself to death. Come, let me handle that. The fleet will survive you taking a break."
+      ],
+      "details": [
+        "“为节日留下点美好的回忆”？哼，那家伙还是一如既往地油嘴滑舌",
+        "「祝日にいい思い出を残そう」だと？ふん、あいつは相変わらず口が達者のようだな…",
+        "\"Paint our jubilant memories of this festival into history\"? Hmph, she's as grandiloquent as ever, isn't she?"
+      ],
+      "secretaryIdle1": [
+        "啧，威尔士，不需要你一一介绍东煌的习俗，这些东西我会自己去了解",
+        "ちっ、ウェールズ、お前に紹介されるまでもない――東煌の風習は私自ら調べさせてもらうぞ",
+        "Tsk, Wales, must you always pester me with this Eastern Radiance chinoiserie? I'll learn about their customs myself, without you."
+      ],
+      "secretaryIdle2": [
+        "新年的愿望么，当然是要证明你当初选择我是多么有价值了，这一点是不会改变的",
+        "新年の願い？お前が選んだ私の価値を証明するのだ。このことは変わらないぞ",
+        "A New Year's wish? Naturally, I wish to prove you were right to choose me. That isn't going to change."
+      ],
+      "secretaryIdle3": [
+        "作为皇家的一员存在于此，还能领略到异乡的节日与文化，想一想还真令人感慨啊",
+        "ロイヤルの一員として存在するだけでなく、異郷の風習にも触れられる――よく考えれば、感慨深い話だな…",
+        "Though I am a proud lady of the Royal Navy, I find myself deeply moved to have this chance to experience a festival from an exotic culture."
+      ],
+      "secretaryTouch": [
+        "想让我陪你一会？这种事早点说不就好了",
+        "もう少し付き合ってほしい、か？最初から言えばよかろうに",
+        "You desire my company? You should have said so."
+      ],
+      "secretarySpecialTouch": [
+        "你也沾染上了威尔士那般的恶习了吗，指挥官",
+        "ちっ、ウェールズの悪習に染まったというのか。指揮官",
+        "Have you been afflicted with Wales's vile proclivities? Commander?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Monarch_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Monarch_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Monarch_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Monarch_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Monarch_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Monarch_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Monarch_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Monarch_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Monarch_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Monarch_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Monarch_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Monarch_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Monarch_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Monarch_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Monarch_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Monarch_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Monarch_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Monarch_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Monarch_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Monarch_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Monarch_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Monarch_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Monarch_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Monarch_Sec2Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

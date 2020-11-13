@@ -1,0 +1,597 @@
+{
+  "name": "Natsuiro Matsuri",
+  "constructionTime": "00:12:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Hololive",
+  "ID": "Collab054",
+  "faction": "Hololive",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Minamura Haruki",
+  "pixiv": "https://www.pixiv.net/en/users/6098",
+  "twitter": "https://twitter.com/blackgate_info",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/0a/Natsuiro_Matsuri_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1763,
+      207,
+      87,
+      70,
+      468,
+      190,
+      40,
+      165,
+      0,
+      9,
+      189,
+      207,
+      0,
+      0
+    ],
+    "Level 100": [
+      1469,
+      180,
+      87,
+      61,
+      425,
+      184,
+      40,
+      143,
+      0,
+      9,
+      180,
+      187,
+      0,
+      0
+    ],
+    "Base Stats": [
+      284,
+      76,
+      87,
+      13,
+      90,
+      71,
+      40,
+      31,
+      0,
+      2,
+      69,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "105% → 125%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    4,
+    30,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "All Weapon Efficiency +5%",
+  "skill1Name": "The Summer Flower We Watch; CN: 与你眺望的夏日之花 JP: 君と眺める夏の花",
+  "skill1Description": "Every 25 seconds, 40% (70%) to fire a special barrage.",
+  "skill2Name": "The Third Day of Flirting; CN: 第三日的见异思迁 JP: 3日目の浮気",
+  "skill2Description": "During battle, if the number of Hololive ships in the fleet is odd: increases own damage dealt with Main Gun by 4.5% (12%); otherwise decreases damage taken from bullets by self by 1% (5%). Every 20 seconds after battle starts, reduces damage taken by a random allied ship by 1% (5%) for 10 seconds.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8a/Natsuiro_Matsuri.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/92/Natsuiro_MatsuriChibi.png",
+      "shipDescription": [
+        "我是hololive所属的美少女女子高中生夏色祭！！我会充满精神地做些唱歌或是聊天这类的有趣实况，大家一定要看哦！！",
+        "ホロライブ所属の美少女JK夏色まつりです！！ 歌ったりみんなとおお話しながら元気に楽しく配信していくから、みんな見てねー！！！",
+        "I'm the lovely high school girl affiliated with Hololive, Natsuiro Matsuri!! I love singing and having all kinds of lively conversations with people, so make sure to keep your eyes on me!"
+      ],
+      "selfIntroduction": [
+        "hololive清楚担当，夏色祭、参上！因为是啦啦队的一员，所以应援什么的尽管交给我吧！指挥官也要尽全力加油哦！",
+        "ホロライブの清楚担当、夏色まつり見参！チア部だからみんなの応援はまつりに任せて！指揮官さんも全力で行こう！",
+        "I'm Hololive's official cleaner, Natsuiro Matsuri! I'm on the cheer team, so let me handle all the cheering! And you can't slack off either, Commander!"
+      ],
+      "acquisition": [
+        "我是hololive所属的美少女女子高中生夏色祭！！我会充满精神地做些唱歌或是聊天这类的有趣实况，大家一定要看哦！！",
+        "ホロライブ所属の美少女JK夏色まつりでーす！！歌ったりみんなとお話しながら元気に楽しく配信していくから、みんな見てねー！！！",
+        "I'm the lovely high school girl affiliated with Hololive, Natsuiro Matsuri!! I love singing and having all kinds of lively conversations with people, so make sure to keep your eyes on me!"
+      ],
+      "login": [
+        "指挥官好啊~今天又是鼓足干劲的一天。可不要期待有什么奇怪的企划，我可是超——正经的Vtuber哦！",
+        "こんにちはー、指揮官さん！今日もはりきって行こう！あ、でも変な企画を期待はしないでねー！まつり、超ーー真面目なVTuberだから！",
+        "Good morning, Commander! Let's get hype! But don't get any funny ideas - I'm a pure Vtuber after all!"
+      ],
+      "details": [
+        "喂喂，别边看着我的身体边说“抱歉”啊！祭好歹也是女孩子，要注意点啦。既然要道歉，不如说说祭的可爱之处吧！",
+        "こらー！ジロジロ見ながら「ごめん」って言うんじゃない！まつりだって女の子なんだから、気を使ってね。謝るくらいなら、まつりの可愛いところを語ろうね！",
+        "Hey now! You should at least say sorry if you're gonna stare like that. I'm a girl, after all, mind your manners. Or at least tell me I'm pretty!"
+      ],
+      "secretaryIdle1": [
+        "指挥官在看哪里呢~就算祭再有魅力，也要适可而止哦！",
+        "指揮官さんは、どこを見てるのかなー、まつりがいくら魅力的だからって程々にしてね！",
+        "Just what are you looking at, Commander~ I guess I'm just that gorgeous, huh?"
+      ],
+      "secretaryIdle2": [
+        "这边有好多好~~~多可爱的女孩子，真开心啊！",
+        "こっちの世界はかわいい女の子がい～っぱいいて楽しいねー！",
+        "There's sooooo many cute girls in this world! I love it!"
+      ],
+      "secretaryIdle3": [
+        "指挥官！嗯？指挥官也在做耐久实况吗？",
+        "しっきかーんさーん！ん？指揮官さんも耐久配信やってるの？",
+        "Commander! Hm? Are you doing an endurance stream too?"
+      ],
+      "secretaryIdle4": [
+        "DD？没错，祭确实是DD哦，从各种意义上来讲。指挥官也是DD么？",
+        "DD？そだよ～まつりはDDだよ？駆逐艦だしいろんな意味でね～えっ、指揮官さんも？",
+        "DD? Oh yeah~ I'm a DD, in all kinds of ways. Are you a DD, Commander?"
+      ],
+      "secretaryTouch": [
+        "嗅嗅…嗅嗅……可爱的女孩子们都跑去哪里了啊……",
+        "くんくん…くんくん…かわいいかわいい女の子たち、どこにいるんだろ...",
+        "Sniff sniff... Sniff Sniff... Where the cute girls at...?"
+      ],
+      "secretarySpecialTouch": [
+        "哇啊啊啊！对.....对祭出手可是禁止事项哦！",
+        "うわあああ！ま、まつりに手を出すのは、禁止事項なんだからね！",
+        "Waaaahhh! Raising your hand against Matsuri is absolutely forbidden!"
+      ],
+      "secretaryHeadpat": [
+        "如果祭开启猫耳模式的话，摸起来更舒服哦？",
+        "ネコミミモードになったまつりを触るともっと気持ちいいんだぞ！",
+        "Kitty ear mode: on. Don't they look soft?"
+      ],
+      "task": [
+        "任务一个接一个啊...指挥官，现在才八点，打起精神来，全部消灭干净吧！",
+        "はぁ…任務、次から次へと…まっ、まだ8時だし、元気出して、片っ端から片付けましょう！",
+        "Give a mission, take a mission... Commander, it's only 8 o'clock. Buck up and get to cleaning!"
+      ],
+      "taskComplete": [
+        "任务的奖励有够多的~嘿嘿，晚上去吃烤肉吧！",
+        "任務報酬がいーっぱい～へへ、夜は焼き肉っしょ！",
+        "Woweeee that's a lot of mission rewards! Hehe, let's have yakiniku tonight!"
+      ],
+      "mail": [
+        "啊，是送给指挥官的邮件。指挥官意外的有人气呢",
+        "お、指揮官さんあてのメールだぞ。見かけによらず人気者だな、この～",
+        "Oh, mail for you, Commander. You're more popular than I thought."
+      ],
+      "returnFromMission": [
+        "唱吧，跳吧，旋转吧~♪ 呼，真尽兴，出了好多汗~啊，指挥官欢迎回来~你也要跟着我一起练习么？",
+        "歌って踊って廻ってー！ふぅ……今日はいっぱい頑張ったな～もう汗でびしょびしょだよ～あ、指揮官さんお帰りなさいー、どう？まつりと一緒に練習しない？",
+        "And one and two and spin! Whew... I'm working hard today~ I'm dripping sweat all over~ Hey, welcome back, Commander, did you wanna train with me?"
+      ],
+      "commission": [
+        "委托队的孩子们已经回来了，指挥官！我们来一期突击采访吧！",
+        "委託組の子たちももう帰ってきたよ、指揮官さん、突撃インタビューしましょう！",
+        "The commission girls are back, Commander! Let's go do an ambush interview!"
+      ],
+      "strengthening": [
+        "Yeah~！似乎变得更强了！真厉害啊",
+        "わっしょーい！なんか強くなった！凄いね！",
+        "Yeah~! I feel stronger! Sick!"
+      ],
+      "startingMission": [
+        "哼哼哼，让敌人见识一下天灾女子高中生的火力吧！",
+        "ふっふっふー天災JKの火力、敵にみせてやるぞ！",
+        "Hah hah haah! Behold the power of a mad genius high school girl!"
+      ],
+      "mvp": [
+        "MVP就由祭收下咯~☆",
+        "MVP、まつりがいっただきー☆",
+        "Matsuri will be taking this MVP~☆"
+      ],
+      "defeat": [
+        "哇啊啊！作为天才女子高中生的祭居然输了.....",
+        "うわぁぁぁぁぁ！この天才JKまつりが負けるなんて…",
+        "Waaaah! How could a genius like me be defeated…"
+      ],
+      "skillActivation": [
+        "鼓起精神大闹一场了哦！",
+        "さーて、いっちょ暴れますか！",
+        "Here, we, go! Get 'em!"
+      ],
+      "lowHP": [
+        "快到极限了？放心吧，祭还能继续坚持呢~",
+        "もう限界？安心して、まつり、まだまだ我慢できるよ～",
+        "Almost there? Don't worry, I can still hold it in a little longer~"
+      ],
+      "affinityDisappointed": [
+        "再这样下去，可爱的女孩子们，祭都要包揽了哦？",
+        "そんなんじゃ、可愛い女の子たちをまつりが貰っちゃうよ？",
+        "Then you're giving me all the cute girls?"
+      ],
+      "affinityStranger": [
+        "啦啦队的演出可是体力活~指挥官，快来陪我进行体能锻炼吧~",
+        "チアは体力勝負！指揮官さん、体力作りに付き合ってくれよ～",
+        "Doing cheer takes a lot of strength. Hey Commander, come train with me~"
+      ],
+      "affinityFriendly": [
+        "指挥官喜欢清纯可爱的声线么？那就立即切换~“konkon狐狸~”…嘿嘿，厉害吧？我的声线有很多种变化呐~",
+        "清楚でかわいい声がお好き？じゃさっそく…「こんこんきーつね」…へへ、凄いでしょう？私、いろんな声真似できるんだぞ～",
+        "Do you like a sweet, pure voice? Well then... Hehe, pretty neat, huh? I'm pretty good at doing voices~"
+      ],
+      "affinityLike": [
+        "指挥官，难得两个人独处，该改改对我的称呼了吧？夏妹，祭妹二选一哦~夏哥？什、什么意思啦！",
+        "指揮官さん、せっかく二人きりだし、可愛く呼んでほしいなー。「なっちゃん」か「まつりちゃん」の二択で！…「なつニキ」？ど、どういうことなのさ！",
+        "Commander, we're finally alone together. You should give me a pet name, right? How about \"Nacchan?\" Or just \"Matsuri-chan?\" ... \"Natsuniki\"? Wh- what's that supposed to mean?!"
+      ],
+      "affinityLove": [
+        "谢谢指挥官配合祭做实况呢！下次我会想出更厉害的企划的，请多多指教啦，指挥官！",
+        "まつりの配信に付き合ってくれてありがとね！今度はもっと凄い企画考えるから、指揮官さんもよろしくね！",
+        "Thanks for collaborating with me, Commander! Next time I'll come up with something even cooler. Great work, Commander!"
+      ],
+      "pledge": [
+        "指挥官一直以来给了我许多的鼓舞与应援，下次要和祭一起开心才行哦！",
+        "指揮官さん、今までいーっぱい応援してあげたんだから、今度はまつりのことをいーっぱい笑顔にしてね！",
+        "Commander, you've given me so much encouragement and support. Now I want you to give me lots of smiles!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Fubuki, Shirakami Fubuki) Fubuki↓,Fubuki↑ Fubuki↑ FUBUKI!!!!!",
+        "(Sortie with at least 1 of: Fubuki, Shirakami Fubuki) フブキ↓フブキ↑フブキ↑ フブキ!!!!!",
+        "(Sortie with at least 1 of: Fubuki, Shirakami Fubuki) Fubuki↓,Fubuki↑ Fubuki↑ FUBUKI!!!!!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Ark Royal) 无需多言，那种眼神，我懂！",
+        "(Sortie with Ark Royal) なんにも言うな、その目、わかるぞ！",
+        "(Sortie with Ark Royal) Don't speak. Your eyes tell me everything!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Natsuiro_Matsuri_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Natsuiro_Matsuri_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Natsuiro_Matsuri_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Natsuiro_Matsuri_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Natsuiro_Matsuri_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Natsuiro_Matsuri_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Natsuiro_Matsuri_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Natsuiro_Matsuri_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Natsuiro_Matsuri_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Natsuiro_Matsuri_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Natsuiro_Matsuri_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Natsuiro_Matsuri_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Natsuiro_Matsuri_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Natsuiro_Matsuri_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Natsuiro_Matsuri_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Natsuiro_Matsuri_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Natsuiro_Matsuri_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Natsuiro_Matsuri_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Natsuiro_Matsuri_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Natsuiro_Matsuri_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Natsuiro_Matsuri_SecIdle3JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Natsuiro_Matsuri_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Natsuiro_Matsuri_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Natsuiro_Matsuri_SecIdle4JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Natsuiro_Matsuri_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Natsuiro_Matsuri_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Natsuiro_Matsuri_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Natsuiro_Matsuri_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Natsuiro_Matsuri_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Natsuiro_Matsuri_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Natsuiro_Matsuri_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Natsuiro_Matsuri_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Natsuiro_Matsuri_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Natsuiro_Matsuri_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Natsuiro_Matsuri_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Natsuiro_Matsuri_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Natsuiro_Matsuri_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Natsuiro_Matsuri_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Natsuiro_Matsuri_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Natsuiro_Matsuri_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Natsuiro_Matsuri_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Natsuiro_Matsuri_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Natsuiro_Matsuri_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Natsuiro_Matsuri_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Natsuiro_Matsuri_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Natsuiro_Matsuri_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Natsuiro_Matsuri_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Natsuiro_Matsuri_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Natsuiro_Matsuri_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Natsuiro_Matsuri_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Natsuiro_Matsuri_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Natsuiro_Matsuri_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Natsuiro_Matsuri_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Natsuiro_Matsuri_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Natsuiro_Matsuri_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Natsuiro_Matsuri_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Natsuiro_Matsuri_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Natsuiro_Matsuri_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Natsuiro_Matsuri_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Natsuiro_Matsuri_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Natsuiro_Matsuri_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Natsuiro_Matsuri_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Natsuiro_Matsuri_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Natsuiro_Matsuri_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Natsuiro_Matsuri_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Natsuiro_Matsuri_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Natsuiro_Matsuri_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Natsuiro_Matsuri_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Natsuiro_Matsuri_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Natsuiro_Matsuri_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Natsuiro_Matsuri_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Natsuiro_Matsuri_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Natsuiro_Matsuri_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Natsuiro_Matsuri_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Natsuiro_Matsuri_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Natsuiro_Matsuri_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Natsuiro_Matsuri_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Natsuiro_Matsuri_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Natsuiro_Matsuri_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Natsuiro_Matsuri_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Natsuiro_Matsuri_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Natsuiro_Matsuri_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Natsuiro_Matsuri_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Natsuiro_Matsuri_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Natsuiro_Matsuri_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Natsuiro_Matsuri_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Natsuiro_Matsuri_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Natsuiro_Matsuri_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Natsuiro_Matsuri_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Natsuiro_Matsuri_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Matsuri's Day Off",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "祭的居家日",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "まつりの休日",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d7/Natsuiro_MatsuriSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e8/Natsuiro_MatsuriSummerChibi.png",
+      "shipDescription": [
+        "我是换上睡衣清楚度加倍的女子高中生，夏色祭哦！喂喂指挥官！这幅模样算不算很惊喜？看呆了可不行哦~",
+        "パジャマに着替えて清楚さ2倍のJK、夏色まつりです！ほらほら指揮官さん、この格好ってどう？驚いた？見惚れちゃダメだぞ～？",
+        "I'm the lovely high school girl, now in her extra-pure pajamas, Natsuiro Matsuri! Hey hey, Commander, what do you think? Surprised? Don't gawk at me too much~"
+      ],
+      "acquisition": [
+        "我是换上睡衣清楚度加倍的女子高中生，夏色祭哦！喂喂指挥官！这幅模样算不算很惊喜？看呆了可不行哦~",
+        "パジャマに着替えて清楚さ2倍のJK、まつりちゃんでーす！ほらほら指揮官さん、この格好ってどう？驚いた？見惚れちゃダメだぞ～？",
+        "I'm the lovely high school girl, now in her extra-pure pajamas, Natsuiro Matsuri! Hey hey, Commander, what do you think? Surprised? Don't gawk at me too much~"
+      ],
+      "login": [
+        "哈~（打呵欠）新的一天开始了？还有点没睡够呢…不过，得赶快打起精神来，总感觉还有很多好事会发生！指挥官也别偷懒哦~",
+        "はぁぁぁああ……もう朝？まだちょっと寝足りないよ…ううん、そろそろしっかりしなきゃ！だって今日はいいことがいっぱい起きる気がする！指揮官さん、サボるんじゃないよ！",
+        "Yaaaawn... Morning already? Gimme five more minutes... Uuunngg... I gotta sober up! I got a lot of great stuff to be pumped for today! Commander, you gotta perk up too!"
+      ],
+      "details": [
+        "喜欢这样松松挎垮的感觉？哼哼！终于明白祭的可爱之处了吧~接下来祭会再换几个POSE，指挥官可以多拍几张照片，不用客气哦",
+        "このふわふわな感じがいい？ふふん、指揮官さんようやくまつりのかわいいとこに気づいた？ポーズを変えるから、写真どんどん撮ってもいいよ～",
+        "Feels nice and soft, huh? Hehee. You finally get how pretty I am, Commander? Here, I'll pose for you, so take a bunch of pictures~"
+      ],
+      "secretaryIdle1": [
+        "一天到晚待在家里可不行。就穿成这样出门吧！诶，不行么？",
+        "いつまでも部屋にこもるわけにはいかないか…よしっ、外に出よう！—ええ！この格好じゃダメ？",
+        "I can't just stay in my room all day...? Fine, let's go! Huuh? I can't go out like this?"
+      ],
+      "secretaryIdle2": [
+        "想和其他伙伴做个联合睡衣实况~因为睡衣可是让大家关系变好的最强道具不是嘛？",
+        "みんなとパジャマパーティー配信したいな～だってパジャマって、みんなと仲良くできる最強アイテムでしょう？",
+        "I wanna do a pajama party stream with everybody! That's like the best way to get close to people, right?"
+      ],
+      "secretaryIdle3": [
+        "指挥官的脑海里，肯定有什么「祭的魅力翻倍了！」的念头一闪而过吧？嘿嘿，你的眼睛可不会说谎哦~",
+        "あぁ！いま指揮官さん、「まつりの魅力が倍になった！」て閃いたでしょ！へへ、指揮官さんの目は嘘をつかないよ～",
+        "Commander, you're thinking I'm twice as cute as I was before, aren't you? Hehe, it just struck you, huh? No, you're seeing clearly~"
+      ],
+      "secretaryIdle4": [
+        "坚硬中带着柔软，尺寸恰到好处…炸虾狮真是太棒了~",
+        "外はパリッとしてて中身はふわふわ、サイズもお手頃…エビフライオン、最高～！",
+        "Crunchy on the outside, soft on the inside, bite sized... Man, I love fried prawntheras~!"
+      ],
+      "secretaryHeadpat": [
+        "这可是和吹雪一样，真正的兽耳哦！怎么样，很舒服吧~",
+        "フブキのと同じケモ耳だよ！どう？触ると気持ちいいでしょう～",
+        "Now I got animal ears just like Fubuki! How about it? Wanna give 'em a feel~?"
+      ],
+      "returnFromMission": [
+        "指挥官，回来得正是时候~哼哼哼，祭给你准备了特别的好处哦~（拍自己的腿）",
+        "指揮官さん、いいところに帰ってきたね～ふふん、まつりからスペシャルなご褒美、してあげる！（自分の太ももを軽く叩いてる）",
+        "Commander, you're just in time~ Hehee, Matsuri's got a special treat for you, check it! (She's lightly patting her thigh)"
+      ],
+      "affinityStranger": [
+        "坚硬中带着柔软，尺寸恰到好处…炸虾狮真是太棒了~",
+        null,
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Natsuiro_Matsuri_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Natsuiro_Matsuri_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Natsuiro_Matsuri_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Natsuiro_Matsuri_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Natsuiro_Matsuri_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Natsuiro_Matsuri_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Natsuiro_Matsuri_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Natsuiro_Matsuri_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Natsuiro_Matsuri_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Natsuiro_Matsuri_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Natsuiro_Matsuri_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Natsuiro_Matsuri_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Natsuiro_Matsuri_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Natsuiro_Matsuri_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Natsuiro_Matsuri_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Natsuiro_Matsuri_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Natsuiro_Matsuri_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Natsuiro_Matsuri_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Natsuiro_Matsuri_SecIdle4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Natsuiro_Matsuri_SecIdle4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Natsuiro_Matsuri_SecIdle4Skin1JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Natsuiro_Matsuri_HeadpatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Natsuiro_Matsuri_HeadpatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Natsuiro_Matsuri_HeadpatSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Natsuiro_Matsuri_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Natsuiro_Matsuri_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Natsuiro_Matsuri_MissionFinSkin1JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Natsuiro_Matsuri_Affinity1Skin1JP.ogg",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

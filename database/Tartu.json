@@ -1,0 +1,568 @@
+{
+  "name": "Tartu",
+  "constructionTime": "00:26:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Vauquelin",
+  "ID": "452",
+  "faction": "Vichya Dominion",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "和茶",
+  "pixiv": "https://www.pixiv.net/member.php?id=3312169",
+  "twitter": "https://twitter.com/hecha01964237",
+  "link": "https://weibo.com/538001251",
+  "voiceActor": "https://www.imdb.com/name/nm9806307/",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1868,
+      204,
+      45,
+      120,
+      273,
+      212,
+      43,
+      141,
+      0,
+      9,
+      183,
+      208,
+      0,
+      0
+    ],
+    "Level 100": [
+      1469,
+      177,
+      45,
+      104,
+      239,
+      204,
+      43,
+      123,
+      0,
+      9,
+      174,
+      204,
+      0,
+      0
+    ],
+    "Base Stats": [
+      301,
+      75,
+      45,
+      22,
+      51,
+      78,
+      43,
+      26,
+      0,
+      2,
+      67,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "120% → 140%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "135% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 16,
+  "maxLimitBreakTechPoints": 32,
+  "level120StatBonus": "Destroyer (DD) Anti-submarine warfare  +1",
+  "level120TechPoints": 24,
+  "limitBreak1": "Main Gun Efficiency +5% / Unlock All-Out-Assault",
+  "limitBreak2": "Main Gun Efficiency +10% / Torpedo Base +1 / Torpedo Preload +1",
+  "limitBreak3": "All Weapon Efficiency +5% / Upgrade All-Out-Assault",
+  "skill1Name": "Arbiter of Z; CN: 圣裁之Z JP: 聖裁のZ",
+  "skill1Description": "At the start of the battle, if there is an or CL or CA in your fleet: increases this ship's FP and EVA by 5% (15%), and increase FP and AA by 3.5% (8%) for all your and CLs and CAs.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ヴォークラン級",
+  "skill2Description": "Activates All Out Assault Ⅰ (Ⅱ): Vauquelin-class once every 15 (10) times the Main Guns are fired.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b7/Tartu.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a2/TartuChibi.png",
+      "shipDescription": [
+        "维希教廷沃克兰级驱逐舰—塔尔图",
+        "ヴォークラン級駆逐艦タルテュ",
+        "Vauquelin-class destroyer – Tartu."
+      ],
+      "selfIntroduction": [
+        "我是维希教廷的塔尔图，在战争中一直在陆间海服役，也参与了皇家发动的那场战役，最后在土伦和其他姐妹们一同迎来了结局…嗯？我对过去没有什么特别的想法呢…“重要的是现在！”如果是沃克兰的话，大概会这么说吧，呵呵…",
+        "ヴィシア聖座のタルテュです。かの大戦では地中海に配属され、ロイヤルとの戦いに参加しました。トゥーロンで他の皆と……ううん、昔のことを思い詰める必要はありません。大事なのは今！と、ヴォークランなら言いそうですね。ふふ",
+        "I am Tartu of the Vichya Dominion. During the war, I was assigned to the Mediterranean and joined the fight against the Royal Navy. At Toulon, the others and I were... No, I can't get caught up about the past. The important thing is what's now in front of us! That's what Vauquelin would say, hehe."
+      ],
+      "acquisition": [
+        "你好，指挥官，我是沃克兰级的塔尔图…—啊，抱歉，我只是在想，这座港口真大呢…",
+        "こんにちは、指揮官。ヴォークラン級のタルテュです。…………ん？あっ、ごめんなさい、母港が大きいなぁって考えてました…",
+        "Good day, Commander. I'm Tartu of the Vauquelin-class. ...Huh? Oh, I'm so sorry, I got caught up in thinking about how large the port is..."
+      ],
+      "login": [
+        "啊，指挥官，你好。我正在想你怎么还没有来呢",
+        "指揮官、こんにちは。……あっ、どうして今まで来なかったのかなぁって考えてました…",
+        "Commander, good day...... Oh, I was deep in thought about why you hadn't shown up yet..."
+      ],
+      "details": [
+        "照顾人的敦刻尔克，优雅大方的阿尔及利亚，正气凛然的黎塞留…大家都是充满成熟魅力的女性呢，嗯，我也要以她们为目标，努力加油才行！",
+        "世話焼きのダンケルクさんに、エレガントのアルジェリーさん、リシュリュー様…みんな魅力的な女性です。タルテュもみんなを目標に頑張っています",
+        "The motherly Dunkerque, the elegant Algérie, and Lady Richelieu... They all represent the pinnacles of womanhood. I must strive to be more like them."
+      ],
+      "secretaryIdle1": [
+        "指挥官，你觉得我能够成为敦刻尔克那样可以照顾别人的成熟女性么？",
+        "指揮官、タルテュがダンケルクさんのような、人を思いやれる、大人の女性に成長できると思いますか？",
+        "Commander, do you think I can grow up to become a mature, caring woman like Dunkerque?"
+      ],
+      "secretaryIdle2": [
+        "沃克兰说想要成为成熟的女性，首先要有成熟的精神，于是推荐我多读读推理小说，实际读过以后，其实还挺有趣的呢，呵呵",
+        "大人になるためには、まず精神を鍛えないと――と、ヴォークランが探偵小説を読むよう薦めてくれました。結構面白いですよ。ふふ",
+        "Vauquelin, about the donuts last time... Oh, you already heard about that? ...Sorry, I must have gotten lost in my thoughts again..."
+      ],
+      "secretaryIdle3": [
+        "沃克兰很喜欢运动呢。运动，疲劳，休息，营养，糖分……唔，有点想吃敦刻尔克做的甜点了",
+        "ヴォークランは運動が好きですね。運動して疲れて、休んで、お腹が減って……あっ、ごめんなさい、今ダンケルクさんのお菓子について考えてました…",
+        "Vauquelin is really athletic. Getting tired from exercising, resting, and getting hungry... Oh, sorry, I started thinking about Dunkerque's sweets..."
+      ],
+      "secretaryTouch": [
+        "……啊！指挥官，关于前面你问的的那个问题…欸？已经没问题了吗？这样啊…",
+        "指揮官、さっき聞いてくださったことですが…え？も、もう大丈夫ですか？そうですか…",
+        "Commander, regarding what you asked me earlier... Eh? You've already taken care of it? I, I see..."
+      ],
+      "secretarySpecialTouch": [
+        "唔…按照沃克兰推荐的书来说…这种时候应该是…证据确凿，人赃俱获…吧？",
+        "ヴォークランが薦めてくれた本によれば、この場合……証拠を押さえて現行犯逮捕…ですか？",
+        "According to the book Vauquelin recommended me, what I should do in this situation is... gather the evidence, and... detain the offender?"
+      ],
+      "task": [
+        "上次任务得到的奖励，要怎么使用比较好呢…咦，又有新的任务发下来了吗？",
+        "この前の任務で頂いたものはたしか…あ、新しい任務ですか？",
+        "How should we spend the rewards from last time... Oh, we have new missions?"
+      ],
+      "taskComplete": [
+        "任务完成。报告的排序，应该按照优先级、完成时间、还是报酬多少呢，唔.......",
+        "任務完了です。次は任務報告の書き方、優先順位と終了時間、報酬と…うん…",
+        "Mission complete. Should I arrange the report based upon priority, completion time, payout, or... Mmm..."
+      ],
+      "mail": [
+        "啊…对了，我是来给指挥官送信的",
+        "あら、タルテュは、今…そうですね、指揮官への手紙を届けに来たんです",
+        "Ah, um... Right, Commander, I came to bring you the mail."
+      ],
+      "returnFromMission": [
+        "该用什么样的方式欢迎指挥官回来比较好呢…",
+        "うーん、指揮官をどう出迎えれば良いかなぁ…",
+        "Hmm... What would be the optimal way to welcome back the Commander..."
+      ],
+      "commission": [
+        "差点忘记了。指挥官，远征完成了哦。",
+        "委託が完了しました。ごめんなさい指揮官、言い忘れるところでした…",
+        "The commission has been completed. Sorry, Commander, I forgot to tell you..."
+      ],
+      "strengthening": [
+        "感觉，好像变得厉害了一点",
+        "ちょっと強くなりました…気がします",
+        "I feel like... I've become stronger."
+      ],
+      "startingMission": [
+        "集中精神…！",
+        "集中、集中…！",
+        "Focus, focus...!"
+      ],
+      "mvp": [
+        "……啊，抱歉，谁是MVP来着？欸，我是MVP？",
+        "………あっ、ごめんなさい、MVPが誰かなぁって…タルテュですか？",
+        "......Oh, sorry, who got MVP again? Oh, it was me?"
+      ],
+      "defeat": [
+        "嗯…果然，刚才那一发炮弹应该再右移一点比较好…啊，对不起，已经要撤退了对吧…！",
+        "んー今の砲撃はもう少し右にしたほうが…あ、ごめんなさいっ。もう撤退するんですねっ…！",
+        "Hmm... I knew I should have aimed a bit more to the left on that last shot... Oh, I'm sorry... I should be retreating right now...!"
+      ],
+      "skillActivation": [
+        "这种情况下应该…这样！",
+        "この状況では…こう！",
+        "The right thing to do in this situation is... this!"
+      ],
+      "lowHP": [
+        "唔，要更加集中注意力！",
+        "…っ！もっと集中しないと……",
+        "...Eep! I've got to stay focused..."
+      ],
+      "affinityDisappointed": [
+        "指挥官，能安静一些吗，思路要被打断了。",
+        "ごめんなさい、静かにしていただけますでしょうか。ちょっと考えるのに集中できないです…",
+        "Commander, please be quiet. I can't even hear my own thoughts over your ruckus..."
+      ],
+      "affinityStranger": [
+        "疼--！原来是树枝...啊，指挥官，早上好。嗯？我只是在散步的时候想事情入迷了。请不要在意，对我来说，这是很常有的事。",
+        "いたっ？！うう、木の枝に……あ、指揮官、こんにちは。タルテュは…ええ、大丈夫です。ただ散歩中にほかのことを考えていただけでした。よくあることです。気にしないでくださいませ",
+        "Ow...! Ugh, where did that tree branch come from... Oh, Commander, good morning. I'm... Mm, I'm fine. I just got lost in my thoughts while I was walking. Don't worry, this kind of stuff happens all the time."
+      ],
+      "affinityFriendly": [
+        "我的坏习惯是一旦开始想事情，很容易无视周围环境陷入沉思之中。这样的话，没有办法成为可以照顾他人的成熟女性吧......",
+        "タルテュ、考え込んでしまいますと、周りのことが全然見えなくなって……このままでは思いやることのできる大人の女性にはなれませんよね…",
+        "Listen up, me, if I keep overthinking everything, I won't notice what's going on around me... and then won't be able to become a mature and compassionate woman..."
+      ],
+      "affinityLike": [
+        "指挥官一直都在配合着我的节奏聊天呢……谢谢你。不过，有时候也请直接地打断我，如果是指挥官的话，我是不会生气的…",
+        "指揮官はいつも、タルテュのペースに付き合ってくださいますね。…ありがとうございます。でも、タルテュが急に何かを考え込んでいたときは、注意してくださってもだいじょうぶですよ。指揮官ならタルテュ、怒ったり困ったりはしませんよ",
+        "Commander, you're always trying to follow my pace during conversations... Thank you. However, if I end talking to myself, feel free to snap me out of it. I won't get angry or embarrassed if it's you..."
+      ],
+      "affinityLove": [
+        "最近，只要一想到指挥官的事，就会陷入比以往更久的深思之中。感觉状况更严重了.....唔—啊！抱歉，指挥官，我又走神了…",
+        "最近はタルテュ、指揮官のことになると、どうしても今まで以上に考え込んでしまいまして……あ！ごめんなさい…タルテュ、今また……",
+        "Nowadays, when I think about you, I end up even deeper in thought than ever... Ah! I'm so sorry... Just now, I..."
+      ],
+      "pledge": [
+        "指挥官喜欢现在这样的我吗？嗯，我也喜欢现在这样的指挥官哦。但是，总觉得一直在被指挥官单方面照顾......我一定会努力成为成熟的女性，成为可以照顾指挥官的人！",
+        "こんなタルテュでも好きでいてくださるのですか？タルテュも…指揮官のことが好きですけど、このままではお世話をされてばかりで……いつか、指揮官のお世話をできるよう、頑張ります…！",
+        "Commander, do you like me as I am now? I also... like you a lot, but it feels like you're always looking after me... I'll do my best to grow up into someone who can look after you, Commander...!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Vauquelin) 沃克兰，不要逞强哦",
+        "(Sortie with Vauquelin) ヴォークラン、無理をしないでね",
+        "(Sortie with Vauquelin) Vauquelin, don't push yourself too hard."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Dunkerque) 和敦刻尔克一起……要、要加油！",
+        "(Sortie with Dunkerque) ダンケルクさんと一緒……が、頑張ります…！",
+        "(Sortie with Dunkerque) Miss Dunkerque is with us... I-I'll have to do my best!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Tartu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Tartu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Tartu_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Tartu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Tartu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Tartu_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Tartu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Tartu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Tartu_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Tartu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Tartu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Tartu_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Tartu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Tartu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Tartu_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Tartu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Tartu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Tartu_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Tartu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Tartu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Tartu_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Tartu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Tartu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Tartu_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Tartu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Tartu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Tartu_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Tartu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Tartu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Tartu_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Tartu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Tartu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Tartu_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Tartu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Tartu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Tartu_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Tartu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Tartu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Tartu_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Tartu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Tartu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Tartu_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Tartu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Tartu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Tartu_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Tartu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Tartu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Tartu_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Tartu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Tartu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Tartu_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Tartu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Tartu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Tartu_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Tartu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Tartu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Tartu_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Tartu_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Tartu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Tartu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Tartu_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Tartu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Tartu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Tartu_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Tartu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Tartu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Tartu_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Tartu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Tartu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Tartu_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Tartu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Tartu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Tartu_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Tartu_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Tartu_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Tartu_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Overthinking Summer",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "多虑的盛夏",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "考え込む夏",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/02/TartuSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/05/TartuSummerChibi.png",
+      "shipDescription": [
+        "指挥官不去海里玩吗？……嗯？我就不去了。之前有过因为走神而被海浪冲到远方的经历，被沃克兰笑了好久啊……嗯，我坐在这里就好",
+        "指揮官は海に入らないのですか？…あ、タルテュのことはいいです。実は昔、海で流されたことがあって、そのときはヴォークランにすごく笑われました…ですから、タルテュはこのままでいいですよ",
+        "Commander, you're not going to get into the water? ...Ah, I'm fine right here. To tell you the truth, I once got washed away by the waves, and then got laughed at by Vauquelin... so I'm perfectly fine right here."
+      ],
+      "acquisition": [
+        "指挥官不去海里玩吗？……嗯？我就不去了。之前有过因为走神而被海浪冲到远方的经历，被沃克兰笑了好久啊……嗯，我坐在这里就好",
+        "指揮官は海に入らないのですか？…あ、タルテュのことはいいです。実は昔、海で流されたことがあって、そのときはヴォークランにすごく笑われました…ですから、タルテュはこのままでいいですよ",
+        "Commander, you're not going to get into the water? ...Ah, I'm fine right here. To tell you the truth, I once got washed away by the waves, and then got laughed at by Vauquelin... so I'm perfectly fine right here."
+      ],
+      "login": [
+        "啊，指挥官，你好。要吃棒冰吗？",
+        "あ、指揮官、こんにちは。アイスを食べませんか？",
+        "Oh, Commander, good day. Would you like some ice cream?"
+      ],
+      "details": [
+        "啊，指挥官，我正在回忆最近读过的一本，关于发生在沙滩上的凶杀案的侦探小说呢",
+        "最近読んだ本で、確かビーチと言えば……ビーチでの殺人事件、でしたっけ？",
+        "The book I last read took place on the beach, if I remember properly... It was a murder mystery on the beach, right?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，我和白鹰的麦考尔还有皇家的萨福克成为朋友了，大家都是很有趣的人呢。",
+        "ユニオンのマッコールさん、ロイヤルのサフォークさん、仲良くなれました。皆面白い人です。ふふ",
+        "McCall from the Eagle Union and Suffolk from the Royal Navy seem to get along really well. The two of them are pretty funny, hehe."
+      ],
+      "secretaryIdle2": [
+        "沃克兰，这次我是绝对不会下水的，我要一直待在岸上，就这样度过美好的一天。",
+        "ヴォークラン、タルテュは海に絶対に入りませんよ。このままビーチで、平穏に一日を過ごすのですから",
+        "Vauquelin, I'm not going into the water. I'll just spend a nice, peaceful day on the beach like this."
+      ],
+      "secretaryIdle3": [
+        "指挥官不穿泳装吗？唔，嗯，我有点在意，很想看……",
+        "指揮官は水着に着替えないのですか？…少し、ええと、いえ、気になります……",
+        "Commander, aren't you going to change into a swimsuit? ...Um, I'm slightly curious, just a little..."
+      ],
+      "secretarySpecialTouch": [
+        "怎么了，指挥官？棒冰？…啊，滴下来了，好冰！",
+        "指揮官、どうしました？アイスが……あ。ひゃぅ？！",
+        "Commander, what's wrong? The ice cream? ...Hyaa?!"
+      ],
+      "mail": [
+        "唔，和指挥官聊的太开心好像忘了一件事……啊，是新的信件！",
+        "あ、そういえば手紙が……ごめんなさい、指揮官とおしゃべりして、つい忘れちゃいまして…",
+        "Oh, speaking of letters... I'm so sorry, Commander, I got engrossed in our conversation and totally forgot..."
+      ],
+      "startingMission": [
+        "才不会被浪吹走呢…！",
+        "流されませんよ…！",
+        "I won't get washed away...!"
+      ],
+      "mvp": [
+        "想吃敦刻尔克做的甜甜圈…",
+        "ダンケルクさんのドーナツも、いいかなぁ……",
+        "I could really go for one of Dunkerque's donuts right about now..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Tartu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Tartu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Tartu_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Tartu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Tartu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Tartu_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Tartu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Tartu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Tartu_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Tartu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Tartu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Tartu_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Tartu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Tartu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Tartu_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Tartu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Tartu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Tartu_SecIdle3Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Tartu_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Tartu_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Tartu_Sec2Skin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Tartu_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Tartu_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Tartu_MailSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Tartu_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Tartu_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Tartu_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Tartu_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Tartu_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Tartu_MVPSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

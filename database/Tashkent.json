@@ -1,0 +1,580 @@
+{
+  "name": "Tashkent",
+  "constructionTime": "00:42:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Tashkent",
+  "ID": "433",
+  "faction": "Northern Parliament",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Kincora",
+  "pixiv": "https://www.pixiv.net/member.php?id=3054186",
+  "twitter": "https://twitter.com/KIncoraK",
+  "link": "http://weibo.com/u/2061731981",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/7/73/Tashkent_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2648,
+      204,
+      86,
+      179,
+      279,
+      179,
+      51,
+      176,
+      0,
+      10,
+      186,
+      208,
+      0,
+      0
+    ],
+    "Level 100": [
+      2207,
+      178,
+      86,
+      156,
+      244,
+      172,
+      51,
+      153,
+      0,
+      10,
+      177,
+      187,
+      0,
+      0
+    ],
+    "Base Stats": [
+      427,
+      75,
+      86,
+      33,
+      52,
+      66,
+      51,
+      33,
+      0,
+      3,
+      68,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "145% → 165%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 125%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Firepower  +1",
+  "collectionTechPoints": 22,
+  "maxLimitBreakTechPoints": 44,
+  "level120StatBonus": "Destroyer (DD) Health  +2",
+  "level120TechPoints": 32,
+  "enhancementValue": [
+    11,
+    17,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Unlock All Out Assault Ⅰ / Main Gun Efficiency +5%",
+  "limitBreak2": "Torpedo Base +1 / Torpedo Preload +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrade All Out Assault Ⅰ→Ⅱ / All Weapons' Efficiency +5%",
+  "skill1Name": "The Blue Cruiser; CN: 天蓝色的巡洋舰 JP: 空色の氷結兵装",
+  "skill1Description": "At the start of the battle: increases this ship's FP by 4.0% (10.0%) and spawns Snezhinka, a summon which fights for 20 (50)s and lowers the Speed of enemies hit by it by 1.5% stacking up to 15% for 4 seconds (its DMG dealt is based on skill level). Additionally, when this ship sinks an enemy: increases this ship's FP by 0.5% (2.0%) (can be stacked up to 5 times.)",
+  "skill2Name": "Trajectory Marking; CN: 火力向导 JP: 火力投射指示",
+  "skill2Description": "At the start of the battle, increases Main Gun Efficiency by 4.0% (10.0%) and Accuracy by 5.0% (15.0%) for all your Northern Parliament DDs that have a Northern Parliament Main Gun equipped.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-塔什干 JP: 特殊弾幕-タシュケント",
+  "skill3Description": "Activates All Out Assault Ⅰ (Ⅱ): Tashkent once every 15 (10) times the Main Guns are fired.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/83/Tashkent.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c3/TashkentChibi.png",
+      "shipDescription": [
+        "塔什干级驱逐舰—塔什干",
+        "タシュケント級駆逐艦――タシュケント",
+        "Tashkent-class destroyer – Tashkent."
+      ],
+      "selfIntroduction": [
+        "塔什干是北方联合的驱逐领舰，同型舰有3…没什么…因为出生在撒丁帝国，加上这样的设计，所以也被叫做“天蓝色的巡洋舰”。明明是驱逐…算了，塔什干也不讨厌这个名字就是了。塔什干会像塞瓦斯托波尔那时一样努力战斗的，同志酱就敬请期待吧",
+        "北方連合所属の嚮導駆逐艦タシュケントよ。同型艦は3…なんでもないわ。サディア帝国風のこの格好で「空色の巡洋艦」と呼ばれてるの。ったく、駆逐艦なのに…まあ、悪い気はしないわね。セバストポリの戦いのように頑張ってやるから楽しみにしてなさいな",
+        "I'm Tashkent, flotilla leader destroyer from the Northern Parliament. There are three other... actually, nevermind. I'm called the \"Blue Cruiser\" because of my Sardegna-style construction. Of course, I'm a destroyer, and I have nothing against that. I'll put up results just like I did during the Battle of Sevastopol, so look forward to it."
+      ],
+      "acquisition": [
+        "我是塔什干，大家都叫塔什干“天蓝色的巡洋舰”。同志酱也是慕名而追寻塔什干的人吗…这样？真是个没办法的人呢",
+        "タシュケントよ。「空色の巡洋艦」と呼ばれてるわ。同志ちゃんもタシュケントを味方にしたいわけ？タシュケントのことを……あっそ。しょうがないやつね",
+        "I'm Tashkent. Some call me the Blue Cruiser. Another comrade who wants to woo me? It's just about recruitment...? I see. What a hopeless fellow you are."
+      ],
+      "login": [
+        "看着塔什干就这么开心？……这样？随你高兴吧",
+        "タシュケントを見てて楽しいわけ？……あっそ。好きにしなさい",
+        "Is it that fun staring at Tashkent? ...Is that so? Well, do as you please."
+      ],
+      "details": [
+        "同志酱是来参观塔什干练习的吗？这样。于是你到底看不看？",
+        "タシュケントが練習してるのを見学しに来たの？…あっそ。で、結局見るの？",
+        "Did you come to watch me practice? ...So, are you staying or what?"
+      ],
+      "secretaryIdle1": [
+        "塔什干是撒丁建造的，撒丁的料理的倒是挺熟悉的。不过嘛，合不合北方联合的口味就不管了",
+        "タシュケントはサディア生まれだから、サディアの料理は詳しいわ。ま、北方連合の子たちの口に合うかどうかは別だけど",
+        "I was born in Sardegna, so I'm quite familiar with their cuisine. Well, it's not like it matters if the people here like that kind of food."
+      ],
+      "secretaryIdle2": [
+        "为什么港区会这么热啊…同志酱，快给塔什干开空调啦",
+        "なんでこの母港はこんなに暑いの…同志ちゃん、タシュケントのためにエアコンつけてくれない？",
+        "Why is so g'damn hot here? Dear comrade, go turn the air conditioning on for me?♡"
+      ],
+      "secretaryIdle3": [
+        "真奇怪，明明塔什干对大家也没有多亲切友好，为什么大家反而更喜欢塔什干了…喂，同志酱，这是为什么？",
+        "おっかしいわね…タシュケント別にみんなに親切じゃないのに、どうしてみんなタシュケントのことを良くしてくれるわけ？同志ちゃん、ちょっと理由教えてくれない？",
+        "How strange... It's not like I make any effort to be friendly or sociable, so why do people end up liking me more? Hey, do you know why that might be, dear comrade?"
+      ],
+      "secretaryTouch": [
+        "嗯？有事情要交给塔什干吗？…这样。我给你干掉就好吧",
+        "なに？タシュケントにこれ任せたいの？……あっそ。頼まれてやるわ",
+        "What is it? Oh, you have work for me? Is that so... Fine, I'll take care of it."
+      ],
+      "secretarySpecialTouch": [
+        "……嗯？你在干什么？要玩塔什干衣服上的球球吗？",
+        "……？何をやってるの？服のこの丸っこいので遊んでるの？",
+        "Eh...? What are you trying to do? Are the puffy balls on my outfit that interesting?"
+      ],
+      "task": [
+        "任务？有什么好玩的东西吗？",
+        "任務？面白そうなものとかない？",
+        "Missions? Is there anything that looks interesting?"
+      ],
+      "taskComplete": [
+        "任务奖励？让塔什干看看。…这样。于是呢？没有什么好吃的吗？",
+        "任務報酬…タシュケントにも見せて。…あっそ。で？食べ物とかないの？",
+        "Mission rewards, huh... Lemme take a look. So...? Is there any food?"
+      ],
+      "mail": [
+        "有你的邮件，塔什干只是顺便帮你拿的，不用感谢塔什干也没关系",
+        "メールよ。持ってきたのはタシュケントだけど、別に感謝しなくてもいいわ",
+        "I brought the mail. You don't have to thank me for it or anything."
+      ],
+      "returnFromMission": [
+        "欢迎回来……茶？只有伏特加你要吗？",
+        "おかえりなさい。…お茶？ウォッカならあるわ",
+        "Welcome back. ...Tea? Nah, I have vodka though."
+      ],
+      "commission": [
+        "喂，你是不是忘了委托？真是笨呢，还是塔什干记性好",
+        "同志ちゃん、委託忘れてない？なに？馬鹿にしてるの？タシュケントのほうがちゃんと覚えてるのに",
+        "Dear comrade, did you forget about the commissions? Are you dumb? Even I remembered."
+      ],
+      "strengthening": [
+        "让塔什干去战斗吗？这样。塔什干会去做的",
+        "タシュケントに戦えって？あっそ。やってやるわ",
+        "It's my turn to fight? ...Is that so? Fine, I'll do it."
+      ],
+      "startingMission": [
+        "看塔什干把你们揍扁！Ура！",
+        "ボコってやるよ！Ура（ウラ―）!",
+        "Let's beat them to a pulp! Ура!"
+      ],
+      "mvp": [
+        "Ура! 尝到塔什干的厉害了吧！",
+        "Ура（ウラ―）!タシュケントの力を思い知ったか！",
+        "Ура! Did you witness my true power!"
+      ],
+      "defeat": [
+        "你这…！塔什干还能再战斗！",
+        "このっ！タシュケントはまだ戦えるからね！",
+        "Curses! Tashkent can still fight!"
+      ],
+      "skillActivation": [
+        "见识一下塔什干的实力吧！",
+        "見せてやるわよ、私の力を！",
+        "I'll have you witness my true power!"
+      ],
+      "lowHP": [
+        "塔什干才不认输！",
+        "負けないわよ！",
+        "I won't concede defeat!"
+      ],
+      "affinityDisappointed": [
+        "不要靠近塔什干，你这个讨厌鬼！",
+        "タシュケントに近づくんじゃないこのバカ！",
+        "Stay away from me, moron."
+      ],
+      "affinityStranger": [
+        "同志酱找塔什干有事吗？塔什干这边忙着呢，要没什么事的话…这样？于是你其实来找塔什干玩的？唔，正好事情告一段了，要玩的话陪你就好……",
+        "同志ちゃんはタシュケントに用があるの？こっちは忙しいわ。用がないなら……あっそ。じゃあタシュケントと遊びに来たわけ？あーちょうど今一段落ついたし、いいかな…",
+        "Do you need me for anything, dear comrade? I'm busy, so make it quick... Oh, is that so...? You just wanted to play? Well, I suppose I have some time to burn, so..."
+      ],
+      "affinityFriendly": [
+        "凭着“天蓝色的巡洋舰”这样的称号就擅自认为塔什干是可爱听话的好孩子，和塔什干接触以后又擅自失望…困扰的可是塔什干，你不觉得吗，同志酱？",
+        "空色の巡洋艦って勝手にタシュケントを可愛い子ちゃんだと思い込んで、いざ会ってみたら勝手に幻滅して…タシュケントの方も困っているけど。同志ちゃんもそう思わない？",
+        "With a nickname like \"the Blue Cruiser,\" you'd expect me to be someone who's cute and well-behaved right? People are always disillusioned as all hell after meeting me... and, well, I can't blame them. What do you think, dear comrade?"
+      ],
+      "affinityLike": [
+        "塔什干只是普通的驱逐舰。并不想得到特殊对待，只要像现在这样就好。同志酱也是这样…嗯，这样就好",
+        "タシュケントは普通の子よ。別に特別扱いされたくないし、このままでいいわけ。同志ちゃんのこともそう……うん、きっとそうだよね",
+        "I'm just a normal girl. I don't want special treatment or anything. The same goes for you, dear comrade, I'm sure of it..."
+      ],
+      "affinityLove": [
+        "虽然还没有完全认识港区的所有舰船，不过塔什干很喜欢这里。大家在认识了真正的塔什干以后都还愿意和塔什干交朋友。…对同志酱当然也…很喜欢！",
+        "母港の艦船みんなとはまだ知り合っていないけど、タシュケントは結構ここ気に入ってるわ。タシュケントがどんな子か分かってもみんな良くしてくれるし。……同志ちゃんももちろん…好きだからね！",
+        "I don't really know anyone here, but everyone seems to genuinely like me. That's even after knowing what kind of person I am, so I want to be better. Of course I feel the same way about you, dear comrade. After all, I like you!"
+      ],
+      "pledge": [
+        "什么啊，重要的事就是指这个吗？这样。没问题哦，我收下了……咦？塔什干没有说过吗，塔什干喜欢指挥官。所以和指挥官定下誓约不是很正常的事情吗？",
+        "なんだ、大事なことってこれ？…あっそ。いいわよ、受け取ってあげる。……ん？タシュケント、同志ちゃんのことが好きって言ってなかった？ケッコンとか普通だと思ってるけど？",
+        "So, this was the important thing you were telling me about? ...Sure, I'll take it. ...What, didn't I already tell you before that I like you? So, nothing wrong with us getting married, right?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Kongou) 不像你那样，塔什干可没有能一起享受撒丁料理的小伙伴",
+        "(Sortie with Kongou) あんたと違って、一緒にサディア料理を楽しめる子中々いないわね…",
+        "(Sortie with Kongou) Unlike you, I don't have anyone to enjoy Sardegnian cooking with..."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 1 of: Le Malin, Le Triomphant) 塔什干认真起来是绝对不会输的！",
+        "(Sortie with at least 1 of: Le Malin, Le Triomphant) 本気になったらあんたなんかに負けないんだからね！！",
+        "(Sortie with at least 1 of: Le Malin, Le Triomphant) When we get serious, nothing can keep us down!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Tashkent_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Tashkent_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Tashkent_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Tashkent_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Tashkent_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Tashkent_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Tashkent_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Tashkent_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Tashkent_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Tashkent_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Tashkent_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Tashkent_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Tashkent_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Tashkent_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Tashkent_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Tashkent_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Tashkent_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Tashkent_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Tashkent_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Tashkent_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Tashkent_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Tashkent_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Tashkent_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Tashkent_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Tashkent_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Tashkent_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Tashkent_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Tashkent_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Tashkent_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Tashkent_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Tashkent_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Tashkent_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Tashkent_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Tashkent_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Tashkent_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Tashkent_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Tashkent_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Tashkent_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Tashkent_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Tashkent_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Tashkent_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Tashkent_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Tashkent_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Tashkent_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Tashkent_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Tashkent_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Tashkent_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Tashkent_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Tashkent_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Tashkent_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Tashkent_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Tashkent_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Tashkent_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Tashkent_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Tashkent_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Tashkent_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Tashkent_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Tashkent_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Tashkent_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Tashkent_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Tashkent_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Tashkent_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Tashkent_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Tashkent_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Tashkent_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Tashkent_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Tashkent_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Tashkent_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Tashkent_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Tashkent_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Tashkent_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Tashkent_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Tashkent_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Tashkent_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Tashkent_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Tashkent_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Tashkent_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Tashkent_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Tashkent_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Tashkent_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Tashkent_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Tashkent_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Tashkent_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Tashkent_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Bound Cruiser",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "受缚的巡洋舰",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "解かされし巡洋艦",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/66/TashkentPrison.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0d/TashkentPrisonChibi.png",
+      "shipDescription": [
+        "……哈啊，没想到会被这些小家伙反将一军…同志酱，塔什干非得参加这种演习不可吗？",
+        "……はぁ、まさか饅頭に遅れを取ってしまうなんて……同志ちゃん、タシュケントがこの演習に参加する必要なくない？",
+        "...*Sigh*, I never thought I'd get captured by these little guys... Dear comrade, does Tashkent really have to play along with this?"
+      ],
+      "acquisition": [
+        "……哈啊，没想到会被这些小家伙反将一军…同志酱，塔什干非得参加这种演习不可吗？",
+        "……はぁ、まさか饅頭に遅れを取ってしまうなんて……同志ちゃん、タシュケントがこの演習に参加する必要なくない？",
+        "...*Sigh*, I never thought I'd get captured by these little guys... Dear comrade, does Tashkent really have to play along with this?"
+      ],
+      "login": [
+        "同志酱以为只有这点程度就能关住塔什干？……这样？太天真了~呼呼",
+        "同志ちゃん、この程度でタシュケントを縛り付けられると思ってるわけ？…あっそぉ？甘ちゃんね。ふふ",
+        "Dear comrade, do you really think you can keep me bound like this? ...Is that so? Naive fool. Hehe~"
+      ],
+      "details": [
+        "同志酱，塔什干得保持这个状态到什么时候？…这样…欸？要一直这样！？",
+        "同志ちゃん、これいつまでやるつもりなの？…あっそ。…えっ、そんな！？",
+        "Dear comrade, how long are you going to keep me like this? ...Is that so... Ehh? Forever?!"
+      ],
+      "secretaryIdle1": [
+        "果然那个巧克力…有古怪…塔什干竟然落到这地步…呜…头还是晕晕的…",
+        "あのチョコ、怪しいわね…タシュケントがこんな目に遭うなんて、考えられない……うぅ、頭がクラクラ…",
+        "I knew there was something... wrong about that chocolate... I never thought this would happen to me... my head's still spinning..."
+      ],
+      "secretaryIdle2": [
+        "塔什干经常和扎拉她们聊天哦。也是她们说这样的打扮更加充满魅惑…你觉得怎么样？同志酱♡",
+        "ザラちゃんたちと話したら、この格好のほうが魅惑的だって…どう？同志ちゃん♡",
+        "When I was talking to Zara, she said I look more appealing in this outfit. So... what do you think, dear comrade?"
+      ],
+      "secretaryIdle3": [
+        "塔什干又不像阿芙乐尔，塔什干其实完全不能喝的…啊，说的可不是伏特加哦！",
+        "アヴローラさんじゃあるまいし、タシュケントはこういうの一切飲まないタイプよ。…うぉ、ウォッカのことじゃないんだからね！",
+        "I'm not like Avrora. I can't drink at all... Ah, wait, I'm not talking about vodka!"
+      ],
+      "secretarySpecialTouch": [
+        "反了啦反了！应该是塔什干摸你才对啦，同志酱！",
+        "逆よ逆！タシュケントのほうから触るもん！",
+        "Wait, I'm not okay with this role reversal! I should be the one touching you, dear comrade!"
+      ],
+      "returnFromMission": [
+        "回来啦。今天大家要一起开party哦。…才没骗你！塔什干准备招待北方联合的各位一起来！",
+        "お帰りー。今日はみんなでパーティーよー。…嘘じゃない！タシュケントが北方連合の子たちを招待してるもん！",
+        "Welcome back. We're all throwing a big party tonight. ...I'm not lying! I'm going to invite everyone from the Northern Parliament over!"
+      ],
+      "commission": [
+        "委托奖励太重了搬不动？这样。真是丢人啊。看塔什干的…哼！好了，放在这里就行了吧？",
+        "委託報酬が重すぎて持ち上げられないの？あっそ。情けないわね。ほら…ふん！はい、ここに置いていいわね？",
+        "You can't lift the mission rewards? ...Is that so? What a wimp. Here, I'll do it for you. I can leave it over here, right?"
+      ],
+      "mvp": [
+        "哼哼，塔什干打得很漂亮吧！",
+        "ふふん、上手く戦えたでしょう！",
+        "Heheh, not a bad display of power, right?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Tashkent_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Tashkent_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Tashkent_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Tashkent_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Tashkent_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Tashkent_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Tashkent_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Tashkent_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Tashkent_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Tashkent_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Tashkent_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Tashkent_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Tashkent_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Tashkent_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Tashkent_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Tashkent_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Tashkent_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Tashkent_SecIdle3Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Tashkent_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Tashkent_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Tashkent_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Tashkent_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Tashkent_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Tashkent_MissionFinSkin1JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Tashkent_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Tashkent_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Tashkent_CommissionSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Tashkent_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Tashkent_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Tashkent_MVPSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

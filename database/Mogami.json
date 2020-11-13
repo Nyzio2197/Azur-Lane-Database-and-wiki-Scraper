@@ -1,0 +1,770 @@
+{
+  "name": "Mogami",
+  "constructionTime": "01:48:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Mogami",
+  "ID": "188",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "realmbw",
+  "pixiv": "https://www.pixiv.net/member.php?id=529070",
+  "twitter": "https://twitter.com/realmbw",
+  "link": "https://weibo.com/realmbw",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/8/87/Mogami_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4015,
+      189,
+      14,
+      201,
+      185,
+      82,
+      29,
+      186,
+      0,
+      11,
+      149,
+      45,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      4623,
+      188,
+      14,
+      264,
+      202,
+      80,
+      28,
+      233,
+      0,
+      11,
+      129,
+      0,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      4141,
+      164,
+      14,
+      234,
+      177,
+      34,
+      28,
+      208,
+      0,
+      11,
+      115,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3547,
+      164,
+      14,
+      175,
+      161,
+      36,
+      29,
+      162,
+      0,
+      11,
+      133,
+      39,
+      0,
+      0
+    ],
+    "Base Stats": [
+      686,
+      69,
+      14,
+      37,
+      34,
+      14,
+      29,
+      35,
+      0,
+      3,
+      51,
+      11,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "100% → 110% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 160% → 160%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100% → 105%",
+  "collectionStatBonus": "Light cruiser (CL) Torpedo  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 24,
+  "level120StatBonus": "Light cruiser (CL) Firepower  +1",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    21,
+    11,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill2Name": "AP Protection; CN: 穿甲防护 JP: 徹甲弾防御",
+  "skill2Description": "Reduces AP damage taken by self by 10% (20%).",
+  "skill3Name": "(Retrofit) Suppression Fire; CN: 持续打击 JP: 制圧射撃",
+  "skill3Description": "Whenever own torpedoes hit 5 times, increases own Firepower by 3.5% (8%). Can be stacked up to 3 times.",
+  "skill4Name": "(Retrofit) All Out Assault; CN: 全弹发射改 JP: 全弾発射-最上型改",
+  "skill4Description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Mogami I (II) (Kai after retrofit).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4f/Mogami.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/MogamiChibi.png",
+      "shipDescription": [
+        "最上级轻巡洋舰一番舰—最上",
+        "最上型軽巡洋艦一番艦・最上",
+        "Mogami-class Heavy Cruiser no. 1 - Mogami"
+      ],
+      "selfIntroduction": [
+        "我是最上级的命名舰最上……话是这么说，在中途岛和莱特湾把三隈和那智害成那样，一点也没有当命名舰的资格就是了，虽然撞了那智之后我自己也……总之，工作交给我是没关系，不要太抱期望比较好",
+        "最上型のネームシップ最上よ。……といっても、ミッドウェイで三隈と那智をあんな感じにしちゃって、もうネームシップ失格ね、私。まああの後も……とにかく、私に仕事を任せてもいいけど、あまり期待しないでね",
+        "I am Mogami, nameship of the Mogami-class... on paper, anyway. After what happened to Mikuma and Nachi at Midway, I have no right to call myself that anymore... In any case, feel free to hand me your work, but just don't expect much."
+      ],
+      "acquisition": [
+        "最上，报道……不用太在意我，放我一个人随便地找个地方呆着就好",
+        "最上、着任したよ。……私のことはどうでもいいから、どっかにほっとけばいいわよ",
+        "Mogami, reporting for duty... Don't worry too much about me, just leave me be and I'll find my own place to crash."
+      ],
+      "login": [
+        "欢迎回来。嗯？再热情一点？那还真是抱歉",
+        "おかえり。うん？もっと親切にできないかって？そりゃごめんね",
+        "Welcome back. Huh? You want me to say it with more emotion? Sorry, chief. Not sure I can help with that one."
+      ],
+      "details": [
+        "不说话的时候看起来有点酷？……大概也只有你会这么想了吧",
+        "黙っていればクールに見える？……そう思うのはあんただけでしょうね",
+        "Not saying anything makes you look cool? Figures... you would believe something like that."
+      ],
+      "secretaryIdle1": [
+        "三隈现在不知道在干什么……不过她跟我不一样，应该不需要担心吧",
+        "三隈、今なにしてるかな……ま、私と違ってあの子なら心配いらないよね",
+        "I wonder what Mikuma is doing right now... Well, I suppose there's nothing to worry about. She's not like me, after all..."
+      ],
+      "secretaryIdle2": [
+        "选我做秘书真的好吗，还有其他比我好得多的人选吧？我是认真的，可不是想逃避工作",
+        "私を秘書艦にしていいの？もっと適任な子がいるでしょ？…別に、逃げるつもりはないけど",
+        "Are you sure you want me to be your secretary? Just about anybody else would be better for the job. I'm serious... I'm not just saying that to avoid work."
+      ],
+      "secretaryIdle3": [
+        "我要不要也学一学那智，私下练习怎么才能阳光一点什么的……啊，糟了，说漏嘴了……",
+        "こっそり那智を見習って明るくなってみようかな……しまった、口に出しちゃった……",
+        "Perhaps I should get Nachi to teach me how to be a little more cheerful... crap, hope nobody heard that..."
+      ],
+      "secretaryTouch": [
+        "不用你提醒我也会好好工作的",
+        "言われなくても仕事はちゃんとするよ",
+        "You don't have to remind me, I'll get the work done."
+      ],
+      "secretarySpecialTouch": [
+        "噫？！！！指、指挥官对我这样的人也有兴趣吗…",
+        "きゃっ！？し、指揮官は私のような子にも興味あるの…？",
+        "Eek!! Commander, are you seriously interested in someone like me...?"
+      ],
+      "task": [
+        "任务已经整理好了……这点程度我还是不会出错的，大概",
+        "任務の資料は片付けておいた。……これぐらいは間違えないよ。多分",
+        "I finished organizing the task list. Even I couldn't mess something like this up... probably."
+      ],
+      "taskComplete": [
+        "任务奖励的话，我去拿吧，你继续工作就好",
+        "任務報酬なら私が取ってくる。指揮官はそのまま仕事してて",
+        "I'll go pick up the mission rewards. Commander, you can just stay put and keep working."
+      ],
+      "mail": [
+        "新邮件我取来了，放在这里就好吗？",
+        "お手紙持ってきた。ここに置いていい？",
+        "I picked up the mail. Can I leave it here?"
+      ],
+      "returnFromMission": [
+        "大家都平安回来了吗，这不是挺好的",
+        "みんな帰ったの。いいんじゃない？",
+        "Everyone made it back safely. Isn't that enough?"
+      ],
+      "commission": [
+        "要去迎接委托组吗？我就算了，免得撞到别人…",
+        "委託の子たちを迎えにいくの？私は…私はいいよ。誰かにぶつかったら大変だし",
+        "You're going to go greet the commission fleet? I'll just stay here, so I don't end up ramming into someone."
+      ],
+      "strengthening": [
+        "谢谢……怎么了，我说谢谢很奇怪吗？",
+        "どうも……なに？私がお礼を言うのってそんなにおかしいわけ？",
+        "Thanks... What's the matter? Am I not allowed to express gratitude?"
+      ],
+      "startingMission": [
+        "虽然我不想战斗，但也……不想输",
+        "戦闘は別にやりたくないけど、でも……負けたくはないっ！",
+        "Fighting is a drag... but losing is an even bigger drag!"
+      ],
+      "mvp": [
+        "我是第一…有什么意见吗？",
+        "一位よ。…文句ある？",
+        "First place, huh. Got a problem with it?"
+      ],
+      "defeat": [
+        "果然我也就这种程度吗……",
+        "私ってこんなもんかな…",
+        "So this is what I'm made of..."
+      ],
+      "skillActivation": [
+        "这次不会再失败了！",
+        "今度は失敗しないっ！",
+        "I won't fail this time!"
+      ],
+      "lowHP": [
+        "是我的霉运害了大家吗……",
+        "私の悪運がみんなにメイワクをかけたのか……",
+        "Have I spread my misfortune to everyone...?"
+      ],
+      "affinityDisappointed": [
+        "反正，我这种倒霉的家伙，也只能摊上这样的指挥官了……",
+        "私のような運のない子にはこんな指揮官しかつかないのね……",
+        "Well, a hapless fellow like me was bound to get stuck with a hapless commander..."
+      ],
+      "affinityStranger": [
+        "想和我这种倒霉的人交流，你的好奇心也真是够旺盛的。算了，只是聊天的话……就陪陪你吧",
+        "私のような運のない子と仲良くしようとするなんて、指揮官は結構物好きね。まあ、いいよ。雑談ぐらいなら……付き合ってあげる",
+        "You must really have some strange hobbies, to want to associate with hapless folks like me. Oh well, if it's just talking... I suppose I can entertain you..."
+      ],
+      "affinityFriendly": [
+        "说到我的角……虽然不是很在意，但是额头长角不是会比较显眼吗，我实在是不太习惯在人群里被大家注目这种事……哈……",
+        "この角は…そこまで気にしてないけど、でもおデコに角があるって結構目立つじゃない？ほんと目立つのが苦手で……はぁ……",
+        "My horn, huh... Well, I don't really mind, but... it kind of sticks out, doesn't it? I don't really like the attention... *sigh*..."
+      ],
+      "affinityLike": [
+        "……我当然知道那智和三隈都不怪我，但就是这样我才不能原谅我自己……呼，不过跟你说了之后感觉好多了……角很可爱？！！！………………笨、笨蛋",
+        "那智も三隈も気にしてないってわかっているけど、私どうしても自分が許せなくて……ふぅ…指揮官に話したら、なんかスッキリした…「そんなことより角がカワイイ」って…！？！？…………ば、馬鹿……",
+        "I already know that Mikuma and Nachi don't hold anything against me, but I can't forgive myself... *sigh*... Huh? My horn is cute?! ...I-idiot..."
+      ],
+      "affinityLove": [
+        "那个……指挥官……就是，如果，我是说如果，你真的喜欢的话……就是……你，你要不要……摸、摸一摸我的角？",
+        "えっと……指揮官……その…もしかして、ええと…もしも指揮官が私のことが好きっていうのなら……あぅ……角を…さ、触ってみたり…してみない？",
+        "Um... Commander, uh... maybe, umm, since you said you liked it... would you like to try... t-touching it?"
+      ],
+      "pledge": [
+        "选择像我这样的…真的不会后悔吗…唔，我知道啦，往后我也会为了能成为足以和你共同前进的人好好努力的……总之，请、请多关照",
+        "私なんか…こ、後悔しないよね？…わかった。じゃあ指揮官と釣り合うようにはちょっと頑張るかな……とにかく…よ、よろしくおねがい…します",
+        "Are you sure you won't regret choosing someone like me? If you say so... I suppose I can put in a bit more effort for our sake... A-anyway, please take care of me..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Mikuma) 三隈，果然还是对不起……",
+        "(Sortie with Mikuma) 三隈、やっぱごめん……",
+        "(Sortie with Mikuma) Mikuma, I'm sorry..."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Nachi) 那智，抱歉……",
+        "(Sortie with Nachi) 那智、ごめん……",
+        "(Sortie with Nachi) Forgive me, Nachi..."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Fusou) 扶桑姐，结束后能不能帮我驱邪一下……",
+        "(Sortie with Fusou) 扶桑さん、終わったらお祓いしてくれない？",
+        "(Sortie with Fusou) Fusou, exorcism party at your place after we're done here?"
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "ハッピーバレンタイン。もしかしたら私ってこういう日に一番合わないかなって思ったけど、指揮官が楽しみにしてくれたから結局頑張って作ったのね。ふふ、指揮官に渡せてよかった。",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, have you been looking forward to Valentine's Day? Hehe, I've been looking forward to giving you this chocolate. I've been eager to show you my gratitude. No matter how many others have already given you chocolate."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Mogami_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Mogami_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Mogami_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Mogami_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Mogami_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Mogami_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Mogami_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Mogami_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Mogami_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Mogami_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Mogami_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Mogami_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Mogami_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Mogami_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Mogami_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Mogami_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Mogami_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Mogami_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Mogami_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Mogami_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Mogami_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Mogami_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Mogami_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Mogami_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mogami_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mogami_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mogami_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Mogami_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Mogami_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Mogami_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Mogami_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Mogami_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Mogami_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Mogami_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Mogami_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Mogami_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Mogami_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Mogami_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Mogami_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Mogami_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Mogami_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Mogami_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Mogami_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Mogami_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Mogami_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Mogami_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Mogami_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Mogami_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mogami_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mogami_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mogami_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Mogami_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Mogami_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Mogami_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Mogami_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Mogami_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Mogami_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Mogami_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Mogami_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Mogami_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Mogami_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Mogami_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Mogami_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Mogami_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Mogami_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Mogami_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Mogami_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Mogami_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Mogami_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Mogami_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Mogami_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Mogami_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mogami_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mogami_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mogami_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Mogami_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Mogami_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Mogami_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Mogami_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Mogami_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Mogami_Extra3JP.ogg"
+      ]
+    },
+    {
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/52/MogamiOriginal.png"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/ce/MogamiKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7b/MogamiKaiChibi.png",
+      "shipDescription": [
+        "你确定这是改造而不是什么惩罚游戏吗，这一身…不过好像真的变强了…好吧，我会更加努力的，稍微期待一下也没关系",
+        "この格好、改造とかじゃなくて罰ゲームじゃ……でもたしかに強くなったし…まあ、もう少し頑張るから、少し期待しても…いいかもよ？",
+        "Are you sure this is a retrofit and not some weird hazing ritual? I look... Well, I suppose I do feel stronger. Guess I'll try to work a bit harder. Wouldn't hurt for you to look forward to it a little."
+      ],
+      "acquisition": [
+        "你确定这是改造而不是什么惩罚游戏吗，这一身…不过好像真的变强了…好吧，我会更加努力的，稍微期待一下也没关系",
+        "この格好、改造とかじゃなくて罰ゲームじゃ……でもたしかに強くなったし…まあ、もう少し頑張るから、少し期待しても…いいかもよ？",
+        "Are you sure this is a retrofit and not some weird hazing ritual? I look... Well, I suppose I do feel stronger. Guess I'll try to work a bit harder. Wouldn't hurt for you to look forward to it a little."
+      ],
+      "login": [
+        "你回来了。嗯？你的脚步声我早就记住了",
+        "おかえり。うん？まあ…指揮官の足音、とっくに覚えているからね",
+        "Commander, you're back. Huh? I just happen to remember what your footsteps sound like."
+      ],
+      "details": [
+        "现在不说话看起来更酷了？……算了，就这样吧",
+        "改造前よりも、黙っていればクールに見える？……まあ、別に…いいけど",
+        "I look even cooler now when I don't say anything? Whatever... have it your way..."
+      ],
+      "secretaryIdle1": [
+        "三隈说我最近自信了不少…我倒是没什么感觉",
+        "最近、三隈が言うには、私自信ついたように見えるって…別に私、なにも変わっていないけど",
+        "Recently, Mikuma has been telling me that I have more self-esteem... Not sure about that one though, I don't think I've really changed..."
+      ],
+      "secretaryIdle2": [
+        "秘书的工作吗？虽然不知道和其他人比起来怎么样……你喜欢的话，我会一直做下去的",
+        "秘書艦の仕事？ほかの子と比べてどうか知らないけど……あんたがいいなら、ずっとやってあげるよ",
+        "Secretary ship duties? Well, I still think I'm not really cut out for it compared to the others... but if it's what you want, I'll keep doing it."
+      ],
+      "secretaryIdle3": [
+        "实话说，指挥官，你觉得改造后的这一身好看吗？……呃，你要是喜欢的话，就这样好了",
+        "指揮官、改造後のこの格好について正直どう思う？……ええと、気に入っているなら、ずっとこのままでもいいかなって",
+        "Commander, be honest. What do you think about my new outfit after the retrofit? Um... if you like it, I suppose we can keep it like this..."
+      ],
+      "secretaryTouch": [
+        "要不干脆练一练薙刀术什么的好了……",
+        "ナギナタとか勉強してみようかな",
+        "Maybe I should go practice using this naginata or something..."
+      ],
+      "startingMission": [
+        "有期待我的人在……我不想输",
+        "期待してくれる人がいるの……負けはしないよっ！",
+        "There are people waiting for me... so I refuse to lose!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Mogami_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Mogami_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Mogami_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Mogami_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Mogami_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Mogami_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Mogami_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Mogami_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Mogami_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Mogami_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Mogami_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Mogami_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Mogami_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Mogami_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Mogami_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Mogami_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Mogami_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Mogami_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Mogami_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Mogami_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Mogami_Sec1Skin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mogami_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mogami_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Mogami_MissionStartSkin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +80 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "5x CruiserT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "2x CruiserT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +80 / Health +120 ",
+      "materials": "2x /3x CruiserT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Main Gun Improvement Ⅱ",
+      "attributes": "Equip 1 Efficiency +5.0% / Equip 1 Efficiency +5.0% ",
+      "materials": "1x / 1x CruiserT3BP ",
+      "coinCost": 2500,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Firepower Enhancement Ⅱ",
+      "attributes": "Firepower +5 / Firepower +15 ",
+      "materials": "1x / 2x CruiserT3BP and 15x / 35x GunT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D,I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower + 10, Anti-air + 25 <br> Main Gun Mount Firepower +1, Max Torpedo Capacity Torpedo -1, barrage changes to Kai version <br> Change Ship Type into Heavy cruiser (CA) ",
+      "materials": "3x CruiserT3BP and 1x Mogami or Universal Bulin ",
+      "coinCost": 4000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I,J"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Suppression Fire\" ",
+      "materials": "2x CruiserT3BP and 50x AuxT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "K"
+      ]
+    }
+  ]
+}

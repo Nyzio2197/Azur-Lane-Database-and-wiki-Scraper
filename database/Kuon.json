@@ -1,0 +1,584 @@
+{
+  "name": "Kuon",
+  "constructionTime": "02:05:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Utawarerumono",
+  "ID": "Collab031",
+  "faction": "Utawarerumono",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "甘露樹",
+  "twitter": "https://twitter.com/amaduyu",
+  "voiceActor": "https://en.wikipedia.org/wiki/Risa_Taneda",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4138,
+      161,
+      90,
+      237,
+      198,
+      54,
+      28,
+      175,
+      0,
+      12,
+      131,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3662,
+      140,
+      90,
+      206,
+      172,
+      28,
+      28,
+      153,
+      0,
+      12,
+      119,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      708,
+      59,
+      90,
+      44,
+      37,
+      11,
+      28,
+      33,
+      0,
+      4,
+      46,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "100% → 110%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "85% → 105%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "75% → 75%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    24,
+    12,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Ten Sisters Lv.1 / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Torpedo Efficiency +15%",
+  "skill1Name": "Four Gods Convert; CN: 四神变幻 JP: 四神変転",
+  "skill1Description": "Depending on main battery shell type, increase same shell type damage by 10% (20%), decrease damage received from same shell type by 10% (20%).",
+  "skill2Name": "Ten Sisters; CN: 十姊妹 JP: 十姉妹",
+  "skill2Description": "When taking damage, 4% (10%) chance to fire a special barrage; 5 seconds cool down after activation. The skill can be activated up to 6 times each battle.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/Kuon.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5a/KuonChibi.png",
+      "shipDescription": [
+        "该说初次见面、吧？我是久远，今天开始要在这里受你照顾了呢。我会尽可能努力帮上忙的，敬请期待吧",
+        "はじめまして、かな。私はクオン、今日からお世話になるからよろしくね。お世話になる以上、しっかりお仕事するから期待してほしいな",
+        null
+      ],
+      "selfIntroduction": [
+        "我叫久远，是旅行的药师哦。如果受伤或是生病了，尽管跟我说吧。我会准备特效药……呃？哪个国家出身的？啊哈哈，这是秘密哦？",
+        "私はクオン、旅の薬師かな。怪我や病気で困っていたら遠慮なく言ってね。良く効くお薬を……え、生まれはどこの国かって？　アハハ、それは秘密、だよ？",
+        null
+      ],
+      "acquisition": [
+        "该说初次见面、吧？我是久远，今天开始要在这里受你照顾了呢。我会尽可能努力帮上忙的，敬请期待吧",
+        "はじめまして、かな。私はクオン、今日からお世話になるからよろしくね。お世話になる以上、しっかりお仕事するから期待してほしいな",
+        null
+      ],
+      "login": [
+        "早安，指挥官。睡得还好吗？好啦，今天也要努力工作哦",
+        "おはよう、指揮官。よく眠れた？　さあ、今日もはりきってお仕事しよっか",
+        null
+      ],
+      "details": [
+        "想了解我的事？那…为了加深彼此的了解，得好好聊聊了呢",
+        "私のことが知りたい？じゃあ、お互いをよく知るためにお話ししないとね",
+        null
+      ],
+      "secretaryIdle1": [
+        "这个港区里集结了来自许多国家的人们。不断有新的邂逅，不断能听到新的故事，完全不会腻呢。让人不禁想起在大和的时候啊",
+        "この港、たくさんの国の人が集まってるんだね。会う人会う人、色んな話を聞けるから飽きないよ。ヤマトにいた頃を思い出すなぁ",
+        null
+      ],
+      "secretaryIdle2": [
+        "文件…呜、头疼…肚子也…对不起，我能躺一会吗？啊、疼，头好疼～",
+        "書類……うっ、頭痛が……腹痛も。ゴメン、ちょっと横になってくるね？　アイタタ、頭痛が痛い～",
+        null
+      ],
+      "secretaryIdle3": [
+        "指挥官，手停下有好一会了哦……不是在摸鱼吧？（摇尾巴）",
+        "指揮官、さっきから手が止まってるみたいだけど……サボったりしてないよね？（しっぽブンブン）",
+        null
+      ],
+      "secretaryTouch": [
+        "啊～好累。好想在工作结束以后泡个澡啊……诶？宿舍里有吗？而且是大浴池！？指挥官，我能现在去看看吗！？",
+        "あー疲れたぁ。お仕事終わったら湯浴みしたいなぁ……え、寮舎にあるの？しかも大きいやつ！？指揮官、ちょっと行ってきていいかな！？",
+        null
+      ],
+      "secretarySpecialTouch": [
+        "呀啊！？突、突然干什么呢！？一声不吭地就、就摸女孩子的尾巴什么的…要好好反省了啦！（尾巴炸毛）",
+        "ひゃあっ！？い、いきなり何するの！？何の断りもなく、女の尻尾に触るなんて……反省するかな！（しっぽでギュウ～）",
+        null
+      ],
+      "secretaryHeadpat": [
+        "呜…！没、没事…只是突然想起了母亲大人们。特别是卡缪姐姐和阿露露姐姐……呜呜",
+        "うわっ……！ううん、なんでもない……ちょっと、姉様たちを思い出しただけ。特にカミュ姉さまとアル姉さま……ううっ",
+        null
+      ],
+      "task": [
+        "任务堆得有点多了哦？不劳动者不得食哦，指挥官",
+        "任務がちょーっと溜まってるよ？　働かざる者喰うべからずかな、指揮官",
+        null
+      ],
+      "taskComplete": [
+        "任务辛苦了。不过劳动过后的饭会更香哦",
+        "任務お疲れさま。働いた後のご飯はとっても美味しいよ",
+        null
+      ],
+      "mail": [
+        "邮件送到了哦。不尽快阅读的话，会忘掉的吧？",
+        "お便りが届いてるよ。読んでおかないと忘れちゃうかも？",
+        null
+      ],
+      "returnFromMission": [
+        "欢迎回来，今天也辛苦了呢。在下个工作来之前，还是先好好休息一下比较好",
+        "お帰りなさい、今日も頑張ったね。次のお仕事の前にちょっと一休みもいいかな",
+        null
+      ],
+      "commission": [
+        "出门办事的孩子们回来了呀。这种时候可得像个指挥官一样好好去迎接她们才行呢",
+        "お使いに出てた子たちが帰ってきたよ。ここは指揮官らしくお出迎えしてあげないとね",
+        null
+      ],
+      "strengthening": [
+        "这下能发挥更大作用了！",
+        "これでもっと頑張れる！",
+        null
+      ],
+      "startingMission": [
+        "全力以赴地上吧！",
+        "それじゃあ本気で行くよ！",
+        null
+      ],
+      "mvp": [
+        "我是MVP？不，这场胜利是由大家的努力带来的",
+        "私が一番頑張った？ううん、この勝利はみんなのおかげだよ",
+        null
+      ],
+      "defeat": [
+        "我来拖住敌人…指挥官带着大家先逃吧！",
+        "私が敵を引きつけるから……指揮官はみんなを連れて逃げて！",
+        null
+      ],
+      "skillActivation": [
+        "这是…我的全力一击！",
+        "これが……全力の一撃！",
+        null
+      ],
+      "lowHP": [
+        "还不会、在这种地方结束…吧",
+        "まだ、こんなところで終われない……かな",
+        null
+      ],
+      "affinityDisappointed": [
+        "虽然不成器的孩子也有可爱之处…不过废柴到这个地步就不太行了吧。要给点惩·罚·措·施了呢（尾巴逼近过来",
+        "ダメな子ほど可愛いっていうけど……ここまでダメダメなのはいただけないかなぁ。オ・シ・オ・キ、だね（しっぽでギリギリ……",
+        null
+      ],
+      "affinityStranger": [
+        "啊，指挥官欢迎。稍等一下，我这给你端杯茶。要吃个烤莫洛洛吗？",
+        "あ、指揮官いらっしゃい。お茶入れるから待っててね。蒸かしたモロロもあるけど食べる？",
+        null
+      ],
+      "affinityFriendly": [
+        "为什么呢，总觉得指挥官不是陌生人。要打比方的话…对，就像克罗一样的感觉？就连有点坏心眼的地方都很像",
+        "なんだろう、指揮官って他人の気がしないんだよね。たとえるなら……そう、クロウと一緒にいる感じ？　ちょっと意地悪なとこも似てるかな",
+        null
+      ],
+      "affinityLike": [
+        "经常说教？那是当然了。想要喜欢的人变得更好…不知道乌露托利母亲大人是不是也是这种心情呢？",
+        "お説教が多い？当然かな。好きな人にはキチンとしてほしいし……ウルお母様もこんな気持ちだったのかな？",
+        null
+      ],
+      "affinityLove": [
+        "对啊…指挥官跟父亲大人很像啊。所以我才不觉得是陌生人呢。温柔又坚强，总是为我着想……嗯，跟父亲大人一模一样！",
+        "そっか……指揮官ってお父様に似てるんだ。道理で他人の気がしないわけだよね。優しくて強くて、いつも私のこと想ってくれて……うん、お父様そっくり！",
+        null
+      ],
+      "pledge": [
+        "是你像对待家人一样，接受了来自遥远世界的我，并且珍惜着我…所以，我也会好好回应这份感情的",
+        "遠い世界から来た私を、あなたは家族として受け入れてくれた。大切にしてくれた……だから、その想いに私も応えるよ",
+        null
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Kuon_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Kuon_SelfIntroJP.ogg",
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Kuon_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Kuon_IntroJP.ogg",
+        null
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Kuon_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Kuon_LogJP.ogg",
+        null
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kuon_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kuon_DetailsJP.ogg",
+        null
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kuon_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Kuon_SecIdle1JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Kuon_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Kuon_SecIdle2JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Kuon_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Kuon_SecIdle3JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Kuon_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Kuon_Sec1JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Kuon_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Kuon_Sec2JP.ogg",
+        null
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Kuon_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Kuon_HeadpatJP.ogg",
+        null
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kuon_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kuon_TaskJP.ogg",
+        null
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Kuon_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Kuon_TaskCJP.ogg",
+        null
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Kuon_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Kuon_MailJP.ogg",
+        null
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Kuon_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Kuon_MissionFinJP.ogg",
+        null
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Kuon_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Kuon_CommissionJP.ogg",
+        null
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Kuon_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Kuon_StrJP.ogg",
+        null
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Kuon_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Kuon_MissionStartJP.ogg",
+        null
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Kuon_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Kuon_MVPJP.ogg",
+        null
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Kuon_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Kuon_DefeatJP.ogg",
+        null
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Kuon_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Kuon_SkillActivationJP.ogg",
+        null
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kuon_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kuon_LowHPJP.ogg",
+        null
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kuon_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Kuon_Affinity0JP.ogg",
+        null
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Kuon_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Kuon_Affinity1JP.ogg",
+        null
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kuon_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Kuon_Affinity2JP.ogg",
+        null
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Kuon_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Kuon_Affinity3JP.ogg",
+        null
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kuon_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Kuon_Affinity4JP.ogg",
+        null
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Kuon_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Kuon_PledgeJP.ogg",
+        null
+      ]
+    },
+    {
+      "CNClientName": "久远(传颂之物)",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "クオン(うたわれるもの)",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e2/KuonCollab.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2d/KuonCollabChibi.png",
+      "shipDescription": [
+        "久远。这是我的名字",
+        "クオン。それが私の名前。",
+        null
+      ],
+      "acquisition": [
+        "久远。这是我的名字",
+        "クオン。それが私の名前。",
+        null
+      ],
+      "login": [
+        "早安，睡饱了吗？",
+        "おはよう、目が覚めた？",
+        null
+      ],
+      "secretaryIdle1": [
+        "还想前往更多的地方，见识更多未知的事物，想要感受那些气息，感受不同的风",
+        "もっといろんな所を歩いて、見たことのないものを見て回って、その匂いを、その風を感じたいって。",
+        null
+      ],
+      "secretaryIdle2": [
+        "还想看看更多、更多不同的世界。正是受到这股冲动指引……我才会像这样持续着旅程",
+        "もっと、もっと、いろいろな世界が見てみたい。それに突き動かされて……だからこうして旅を続けてるのかな。",
+        null
+      ],
+      "secretaryIdle3": [
+        "毕竟只有年轻的时候才能尽情沉浸在自己喜欢的事物中，所以趁着这时候自由地生活也是不错的选择吧",
+        "好きなことが出来るのは若いうちだけだから、自由に生きてみるのもいいだろうって…本当だったな。",
+        null
+      ],
+      "secretaryTouch": [
+        "真、真是的，别吓我嘛",
+        "も、もう、驚かせないで。",
+        null
+      ],
+      "secretarySpecialTouch": [
+        "要，要干什么啊……",
+        "……な、何がしたいのかな？",
+        null
+      ],
+      "mail": [
+        "要稍微试着读下这段文字吗？",
+        "ちょっと、試しにこの文を読んでみてくれるかな？",
+        null
+      ],
+      "returnFromMission": [
+        "辛苦了。今天不如就休息一下吧……",
+        "何時もお疲れ様。今はゆっくりとお休みかな……",
+        null
+      ],
+      "commission": [
+        "呵呵，看来进行得很顺利呢",
+        "ふふん、順調みたいかな♪",
+        null
+      ],
+      "startingMission": [
+        "我马上就回来，边做宴席的准备边等着我吧",
+        "すぐに戻って来るから、宴の用意でもして待ってて。",
+        null
+      ],
+      "affinityLove": [
+        "我已经不会再受过去所束缚了。我会积极向前地生活下去",
+        "私はもう、過去に囚われたりしない。前を向いて生きていく。",
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Kuon_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Kuon_IntroSkin1JP.ogg",
+        null
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Kuon_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Kuon_LogSkin1JP.ogg",
+        null
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Kuon_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Kuon_SecIdle1Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Kuon_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Kuon_SecIdle2Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Kuon_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Kuon_SecIdle3Skin1JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Kuon_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Kuon_Sec1Skin1JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Kuon_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Kuon_Sec2Skin1JP.ogg",
+        null
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Kuon_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Kuon_MailSkin1JP.ogg",
+        null
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kuon_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kuon_MissionFinSkin1JP.ogg",
+        null
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Kuon_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kuon_CommissionSkin1JP.ogg",
+        null
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Kuon_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Kuon_MissionStartSkin1JP.ogg",
+        null
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kuon_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Kuon_Affinity4Skin1JP.ogg",
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

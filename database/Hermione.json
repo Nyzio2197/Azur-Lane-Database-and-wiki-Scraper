@@ -1,0 +1,443 @@
+{
+  "name": "Hermione",
+  "constructionTime": "00:55:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Dido",
+  "ID": "463",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "羽織イオ",
+  "pixiv": "https://www.pixiv.net/member.php?id=3211072",
+  "twitter": "https://twitter.com/haori_crescendo",
+  "voiceActor": "https://en.wikipedia.org/wiki/Hiroko_Taguchi",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3744,
+      193,
+      58,
+      159,
+      173,
+      96,
+      32,
+      381,
+      0,
+      11,
+      160,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      3343,
+      168,
+      58,
+      138,
+      150,
+      72,
+      32,
+      340,
+      0,
+      11,
+      143,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      647,
+      71,
+      58,
+      29,
+      32,
+      28,
+      32,
+      73,
+      0,
+      3,
+      55,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "120% → 140%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "130% → 130%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 21,
+  "level120StatBonus": "Light cruiser (CL) Anti-air  +2",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    12,
+    11,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Gained Special Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Bombarda Geminio; CN: Blast Geminio JP: ブラスト・ジェミニオ",
+  "skill1Description": "Every 15s after the start of the battle: fires a Lv.1 (Lv.10) special barrage; if there are no enemy units within 30 units of this ship when the barrage procs: fires a separate Lv.1 (Lv.10) special barrage.",
+  "skill2Name": "Supporting Role; CN: 砥柱下的应援 JP: 縁の下の応援",
+  "skill2Description": "At the start of the battle, if this ship is NOT in the frontmost position of the Vanguard: increases this ship's FP, TRP, AA, and RLD by 10.0% (20.0%). Furthermore, if there are other Royal Navy ships in the same fleet: also increases this ship's DMG dealt by 3.5% (8.0%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-赫敏II JP: 特殊弾幕-ハーマイオニーⅡ",
+  "skill3Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Hermione I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1e/Hermione.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/HermioneChibi.png",
+      "shipDescription": [
+        "黛朵级轻巡洋舰—赫敏",
+        "ダイドー級軽巡洋艦・ハーマイオニー（HMS Hermione）",
+        "Dido-class light cruiser – Hermione (HMS Hermione.)"
+      ],
+      "selfIntroduction": [
+        "我是皇家黛朵级的赫敏哦~舰历的话…参加过对俾斯麦的追击，还对付过撒丁的潜艇…除此之外，好像也没有什么太值得一提的了呢，还想知道什么吗，指挥官？",
+        "ロイヤルネイビー所属、ダイドー級のハーマイオニーです。カンレキは…ビスマルク様の追撃戦や、サディアの潜水艦との交戦…これといったものはありませんね。指揮官様、何かご質問はありますか？",
+        "I'm Hermione, a Dido-class ship belonging to the Royal Navy. In the past... I chased after Bismarck and participated in anti-submarine warfare in Sardegna... Besides that, there's nothing worth mentioning. Commander, do you have any questions?"
+      ],
+      "acquisition": [
+        "你好呀，我是黛朵级的赫敏，是皇家女仆队的一员，希望我们能够好好相处呢，指挥官。",
+        "こんにちは、メイド隊のハーマイオニーと申します。これからよろしくお願いしますね、指揮官様",
+        "Good day. I am Hermione, from the Royal Maids. I'm delighted to make your acquaintance, Commander."
+      ],
+      "login": [
+        "早上好呀，指挥官。有好好休息过了吗？",
+        "指揮官様、おはようございます。よくお休みになれましたか？",
+        "Good morning, Commander. Did you sleep well?"
+      ],
+      "details": [
+        "女仆长…贝尔法斯特小姐能力很强，又有着坚定的意志…我很憧憬呢，要是有一天，能成为那样的存在就好了…",
+        "メイド長さん…ベルファストさんは何でもこなせて、心も強くて…ハーマイオニー、ベルファストさんにすごく憧れているんです。いつかあんな風になれたらいいなあ…",
+        "I really admire the head of the Royal Maid, Miss Belfast... She can do anything and has a strong will to boot... I hope I can become like her one day."
+      ],
+      "secretaryIdle1": [
+        "用眼过度可不是什么好事哦？来，先洗把脸精神一下吧。",
+        "張り詰めすぎるのはよくありませんよ？顔でも洗ってリフレッシュしませんか？",
+        "It's not good to strain yourself by overworking. How about splashing some water on your face to refresh yourself?"
+      ],
+      "secretaryIdle2": [
+        "嗯…最近这些食材的价格好像上涨了一些呢…指挥官，接下来包含这些食材的菜会减少一些哦？",
+        "この食材、値上がりしましたね…指揮官様、今後の献立ではこの素材を使うものを控えめにしますね",
+        "It seems like the price for this ingredient has gone up... Commander, from now on, we'll have fewer dishes that use this."
+      ],
+      "secretaryIdle3": [
+        "看着指挥官顺利解决一个个工作的样子，不知为何连我都变得开心起来了呢…真是不可思议。",
+        "指揮官がお仕事をこなしている姿を見ていると、ハーマイオニーもいい気分になります…なんででしょう…？",
+        "Commander, watching you easily handle your work makes me feel happy... I wonder why?"
+      ],
+      "secretaryTouch": [
+        "碳酸饮料？唔，真是没办法呢，今天只能喝一瓶哦？",
+        "炭酸のお飲み物ですか？…しょうがありませんね、今日は一本までですよ？",
+        "A fizzy drink? ...What am I going to do with you? I suppose you can have just one bottle, all right?"
+      ],
+      "secretarySpecialTouch": [
+        "做这种事还是要注意一下场合哦？",
+        "こういうことは、シチュエーションに気を使っていただいたほうがいいですよ？",
+        "Commander, it's good to pay attention to the time and place when doing something like this, you know?"
+      ],
+      "task": [
+        "指挥官，任务不做的话只会越来越多哦？",
+        "指揮官様、お仕事は片付けない限り増えていくだけですよ？",
+        "Commander, the more you don't deal with your work now, the more you'll have to deal with later."
+      ],
+      "taskComplete": [
+        "哇，任务奖励还不少呢，指挥官真厉害~",
+        "任務報酬、たくさんありますね。指揮官様、おめでとうございます！",
+        "This mission's reward is quite sizeable. Congratulations, Commander!"
+      ],
+      "mail": [
+        "指挥官，这是你的邮件吧？我放在这里了哦。",
+        "指揮官様へのメールでしょうか…？すみません、ここに置いておきますね",
+        "Is this mail for you, Commander...? I apologize. I'll leave it here."
+      ],
+      "returnFromMission": [
+        "指挥官，接下来禁止工作了哦？你需要先好好休息一下才行呢。",
+        "指揮官様、しばらくお仕事禁止ですよ？しっかり休憩をとっていただかないと",
+        "Commander. For the time being, you're forbidden from doing more work, okay? You need to make sure to take a break from now and then."
+      ],
+      "commission": [
+        "指挥官，手边的工作先放一放，去迎接回来的委托组吧。",
+        "指揮官様、執務室での仕事はひとまず置いておいて、委託から戻ってきた皆様を出迎えに行きましょう",
+        "Commander, let's put our work on hold and go to greet the team that's just returned from commissions."
+      ],
+      "strengthening": [
+        "咦，我变强了吗？",
+        "あら、強くなりました？",
+        "My, have I gotten stronger?"
+      ],
+      "startingMission": [
+        "发现敌人咯~",
+        "敵、発見しました～",
+        "The enemy's been detected~"
+      ],
+      "mvp": [
+        "指挥官一定也会很高兴吧~",
+        "指揮官様もきっとお喜びになるでしょう～",
+        "I'm sure Commander will be elated~"
+      ],
+      "defeat": [
+        "哎呀呀，失败了呢…",
+        "あらら、失敗しちゃった……",
+        "Oh my, what a failure..."
+      ],
+      "skillActivation": [
+        "能命中就好了呢~",
+        "当たればいいですね～",
+        "I hope this hits~"
+      ],
+      "lowHP": [
+        "有些大意了呢…",
+        "油断しちゃいましたね…",
+        "It seems I let my guard down..."
+      ],
+      "affinityDisappointed": [
+        "指挥官…为什么这么顽固呢…",
+        "指揮官様、どうしてそんなに頭が固いのでしょうか…",
+        "Commander, why are you so stubborn..."
+      ],
+      "affinityStranger": [
+        "黛朵…很害怕失去主人呢，她那么努力，又那么能干，指挥官怎么可能讨厌她呢…不过我说了多少次都没用…还是要麻烦指挥官多照顾她一些了呢。",
+        "ダイドーちゃんは…心配しすぎじゃないでしょうか？あんなに努力していますし、指揮官様に嫌われるなんてないと思いますが…指揮官様、ダイドーちゃんのことをもっと見てあげてくださいね",
+        "Doesn't Dido worry a bit... too much? She works so hard, and I know you don't hate her, but... please, watch over her some more, Commander."
+      ],
+      "affinityFriendly": [
+        "指挥官，你今天打算加班吗？这样的话，我稍后准备一壶咖啡带去办公室吧。欸？没关系，不麻烦的。即使没有要交给我的工作，只是在你身边陪着你也好呀~",
+        "指揮官様、今日は残業なさるのですか？でしたらコーヒーを持ってきますね。……んー別に手間なんてほどではありませんよ？手伝える仕事がなくても側にいるのがメイドですから",
+        "Commander, are you working overtime today? Then I'll bring over some coffee. ...Um, it's not a bother, you know? After all, being by your side no matter what is a Royal Maid's duty."
+      ],
+      "affinityLike": [
+        "指挥官，要是不介意的话，把你的换洗衣服也交给我来洗吧，一起洗比较方便，而且，也想让你感受一下手洗的衣服呢~",
+        "指揮官様、差し支えなければお洗濯のほうもハーマイオニーにまかせていただけますでしょうか。お洋服は一緒に洗濯したほうが手間かかりませんし、指揮官様にメイド隊の手洗いはどんな感じか知っていただきたくて♪",
+        "Commander, if it doesn't bother you, would you mind leaving your laundry to me? Washing our clothes together saves time, but more than that, I want you to personally feel how great your clothes feel after being hand-washed by the Royal Maids♪"
+      ],
+      "affinityLove": [
+        "呼…房间这样就算打扫完毕了，接下来…啊，你回来了呀，那我就先开始做饭吧，请先做点别的什么事等一下吧~",
+        "ふぅ…部屋のお掃除はこれでオッケー、と。次は…あ、おかえりなさいませ。すぐお食事を用意しますから、少しお待ちくださいね、指揮官様",
+        "Whew... I've finished cleaning the room. Next... Oh, welcome back. I'll prepare your meal right now, so please wait a moment, Commander."
+      ],
+      "pledge": [
+        "希望我永远留在身边？可以哦，照顾指挥官本来就是我的职责呢。……欸，难道说，这是告白吗？……嗯，我的回答，依然是——yes哦。从今往后，也请多多指教了，指挥官~",
+        "ハーマイオニーにずっとそばにいてほしい、ですか…？もちろんです。指揮官様のお世話をするのはハーマイオニーのお仕事ですから。あっ、もしかしてこれは告白というものですか…？ええ、もちろんですよ。指揮官様、これからもよろしくお願いいたしますね",
+        "You'd like for me to stay by your side, forever...? Of course, Commander. Taking care of you is my job, after all. Ah, would this be what's called a \"confession\"...? Yes, of course. Commander, I'll be in your care, from now, 'til the end of time."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Dido) 黛朵，不要太烦恼啦",
+        "(Sortie with Dido) ダイドーちゃん、悩み過ぎはよくありませんよ",
+        "(Sortie with Dido) Dido, it's not good to worry so much"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Belfast) 我会好好向您学习的！",
+        "(Sortie with Belfast) ベルファストさん、色々見習わせてください！",
+        "(Sortie with Belfast) Miss Belfast, please allow me to watch and learn!"
+      ]
+    },
+    {
+      "ENClientName": "Pure White Angel",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "温柔的纯白天使",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ピュアホワイトエンジェル",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/HermioneMedical.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c9/HermioneMedicalWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/77/HermioneMedicalChibi.png",
+      "shipDescription": [
+        "哎呀，指挥官，你怎么来这里了，难道是身体不舒服吗？来这边坐好，我先来给你测量一下体温吧。",
+        "あら、指揮官様、どうしてここに…？具合が悪いのですか？大変…こちらにおかけになってくださいね。まず体温を測りますから――",
+        "My, what brings you here, Commander? Are you feeling unwell? That's no good... Why don't you come sit over here first? I'll start by taking your temperature..."
+      ],
+      "acquisition": [
+        "哎呀，指挥官，你怎么来这里了，难道是身体不舒服吗？来这边坐好，我先来给你测量一下体温吧。",
+        "あら、指揮官様、どうしてここに…？具合が悪いのですか？大変…こちらにおかけになってくださいね。まず体温を測りますから――",
+        "My, what brings you here, Commander? Are you feeling unwell? That's no good... Why don't you come sit over here first? I'll start by taking your temperature..."
+      ],
+      "login": [
+        "指挥官，你怎么又来了，啊，是来…视察的吗？",
+        "ん？指揮官様どうしてまたここに…？ええと、ご視察…ですか？",
+        "Hm? Commander, what brings you back here...? Umm, are you here to be... inspected?"
+      ],
+      "details": [
+        "就算是舰船也是会生病的呢…指挥官也要注意自己的身体哦？",
+        "艦船も病気になりますから…指揮官様、お体は大事になさってくださいね",
+        "Commander... Even ships can get sick. Please, make sure to take care of yourself, alright?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，装病的话我可是会生气的哦？",
+        "もう指揮官様？仮病はハーマイオニーでも怒りますよ？",
+        "Gosh, Commander... If you pretend to be sick, even I'm going to get mad at you!"
+      ],
+      "secretaryIdle2": [
+        "指挥官，你不觉得这件衣服稍微有些小吗…唔唔，我穿的稍微有些不习惯呢…",
+        "指揮官様、この衣装少しサイズが小さいと思いませんか…？いえ…ちょっと着こなせていない気が……",
+        "Commander, don't you think this dress is a bit too small for me...? Um... I just feel like it doesn't fit me..."
+      ],
+      "secretaryIdle3": [
+        "指挥官，平时不注意作息健康是很容易得病的哦，就算是我，也不可能每时每刻在你身边呢",
+        "指揮官様、ご自分でも普段から養生に気を使わないと。ハーマイオニーは四六時中は側にいてサポートしてあげられませんからね",
+        "Commander, please make sure that you pay attention to your own health. After all, I can't attend to you around the clock."
+      ],
+      "secretaryTouch": [
+        "指挥官，来这边躺下吧，我先为您做一些检查",
+        "指揮官様、こちらに横になってくださいね。健康診断をさせていだきます",
+        "Commander, let me perform an examination on you. Please come here and lie down on your side."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官…想当医生吗？",
+        "お医者さんごっこ…ですか？",
+        "Are we... playing doctor?"
+      ],
+      "returnFromMission": [
+        "指挥官，稍等一会哦，我先给这孩子做个检查…",
+        "指揮官様、ちょっと待ってくださいね。今はこの子の検査を……",
+        "Commander, please wait there for a moment. I'm examining someone else right now..."
+      ]
+    },
+    {
+      "ENClientName": "Pure White Holiday",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "纯白的悠闲假日",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ピュアホワイトホリデー",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3e/HermioneSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b3/HermioneSummerChibi.png",
+      "shipDescription": [
+        "指挥官，我把椅子拿过来了，你如果不下水的话，就坐在这张椅子上吧。欸？我吗？我当然是陪在你的身边了~",
+        "指揮官様、椅子を持ってきました。海に行かないのでしたらどうぞこれをお使いください。…ん？ハーマイオニーはもちろんおそばにいますよ",
+        "Commander, I've brought the chair. If you don't want to get in the water, feel free to sit here. ...Hm, me? Of course, I will remain by your side."
+      ],
+      "acquisition": [
+        "指挥官，我把椅子拿过来了，你如果不下水的话，就坐在这张椅子上吧。欸？我吗？我当然是陪在你的身边了~",
+        "指揮官様、椅子を持ってきました。海に行かないのでしたらどうぞこれをお使いください。…ん？ハーマイオニーはもちろんおそばにいますよ",
+        "Commander, I've brought the chair. If you don't want to get in the water, feel free to sit here. ...Hm, me? Of course, I will remain by your side."
+      ],
+      "login": [
+        "今天不用考虑工作的事，好好放松吧，指挥官。",
+        "指揮官様、今日はお仕事の話はなしで、ゆっくりおくつろぎくださいね",
+        "Commander, please leave work at the office, and relax to your heart's content today."
+      ],
+      "details": [
+        "这件泳装其实是趁着打折的时候买的呢，呵呵，你能喜欢真是太好了~",
+        "この水着は…セールのときに買ったものですね。気に入ってくださって安心しました…",
+        "Actually... I bought this swimsuit back when it was on sale. I'm relieved that you like it..."
+      ],
+      "secretaryIdle1": [
+        "海浪冲在脚上的感觉真舒服呢，指挥官也可以来试一下…欸，好大的浪…呀啊！",
+        "波が気持ちいいです～指揮官様もどうですか？…ん？大きな波が……きゃっ！",
+        "These waves feel so nice~ Why don't you dip your feet in too, Commander? ...Hm? A big wave is... Eek!"
+      ],
+      "secretaryIdle2": [
+        "长时间被阳光照射其实对身体不好哦，再玩一会就换个地方吧。",
+        "日差しに晒されすぎると体によくありませんよ？あとちょっとしたら移動しませんか？",
+        "Overexposure to the sun isn't good for your skin. Why don't we move somewhere else in a little bit?"
+      ],
+      "secretaryIdle3": [
+        "你要睡一会儿吗？没关系，安心地睡吧，我会在合适的时候把你叫醒的。",
+        "仮眠、ですか…？は、はい、どうぞゆっくりおくつろぎくださいね。何かがあったときはそうですね…ハーマイオニーがきちんと指揮官様を起こしますから",
+        "A nap? Y-yes! Please take your time and relax to your heart's content. If something happens, hm... don't worry, I'll make sure you wake up when that happens."
+      ],
+      "secretaryTouch": [
+        "大海真漂亮呢…欸…？我更漂亮？真是的，我可不吃这一套哦，指挥官。",
+        "海、綺麗ですね～…ん？ハーマイオニーのほうがキレイでは…？もう指揮官様、今のは流石にちょっとお古いですよ？",
+        "Wow, the sea is so pretty~ ...Hmm? I'm even prettier than the sea...? Jeez, Commander... Don't get all sappy on me now."
+      ],
+      "returnFromMission": [
+        "我为了今天特意准备了清凉的饮料哦，请喝吧~",
+        "涼しくしてくれるお飲み物を準備しておきました。どうぞ",
+        "I've prepared a cool, refreshing drink for you. Please enjoy."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

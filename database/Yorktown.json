@@ -1,0 +1,711 @@
+{
+  "name": "Yorktown",
+  "constructionTime": "04:20:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Yorktown",
+  "ID": "076",
+  "faction": "Eagle Union",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "八才提督",
+  "pixiv": "https://www.pixiv.net/member.php?id=1393609",
+  "twitter": "https://twitter.com/haorabbit",
+  "link": "http://weibo.com/vihao",
+  "voiceActor": "https://en.wikipedia.org/wiki/Kana_Y%C5%ABki",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      5797,
+      121,
+      39,
+      0,
+      0,
+      54,
+      32,
+      317,
+      395,
+      12,
+      96,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5041,
+      105,
+      39,
+      0,
+      0,
+      34,
+      32,
+      280,
+      354,
+      12,
+      85,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      975,
+      45,
+      39,
+      0,
+      0,
+      13,
+      32,
+      60,
+      75,
+      4,
+      33,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "110% → 125%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +2",
+  "collectionTechPoints": 11,
+  "maxLimitBreakTechPoints": 22,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Reload  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    0,
+    0,
+    62,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Fighters +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +7%",
+  "skill1Name": "Vengeance; CN: 复仇打击 JP: 最後のワルツ",
+  "skill1Description": "Upon taking damage: launches a SBD Dauntless squadron (damage is based on skill level); has a cooldown of 20 seconds. Once per battle, when Health falls below 20%: recovers 15% (25%) of max Health.",
+  "skill2Name": "Fleet Carrier; CN: 舰队空母 JP: 編隊空母",
+  "skill2Description": "When this ship launches an Airstrike: increases the damage of your Vanguard by 5% (15%) for 8 seconds. Does not stack with the same skill.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8d/Yorktown.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3d/YorktownChibi.png",
+      "shipDescription": [
+        "约克城级航空母舰—约克城，舷号CV-5",
+        "ヨークタウン級航空母艦・ヨークタウン（CV-5)",
+        "Yorktown-class aircraft carrier ー Yorktown, Hull Number CV-5!"
+      ],
+      "selfIntroduction": [
+        "我是约克城级航母首舰，约克城。 被抛弃吗？虽然我明白并不能怪他们，但是我已经失去了寻找黑暗之后的光明的勇气了…… 指挥官，你也会离我而去吗，还是会牵住我的手呢……",
+        "ヨークタウン型航空母艦のネームシップ、ヨークタウン。見捨てられた……？あの娘たちのせいではないけれど、私にはもうあの暗闇から光に手を差し伸べる勇気がないわ。指揮官様、あなたも私からいなくなるの？それともこんな私の手を引いてくださるのかしら……？",
+        "Lead ship of the Yorktown class aircraft carriers, Yorktown. Abandoned...? It wasn't their fault, but I do not have the courage to reach out for light from that darkness. Will you leave me, Commander? Or will you guide me by my hand...?"
+      ],
+      "acquisition": [
+        "我是约克城级航空母舰的首舰——约克城，我的名字似乎是为了纪念白鹰独立战争中的约克城围城战役。态度中立？不、那只是是交手前的礼节而已……",
+        "私はヨークタウン型航空母艦のネームシップーーヨークタウン。名前はかのユニオン独立戦争でのヨークタウン包囲戦から来ているわ。中立…？あれは戦いを交じえる前のマナーに過ぎないわ",
+        "I am the lead ship of Yorktown class aircraft carriers, Yorktown. My name comes from the Siege of Yorktown... You know? In the Revolutionary War. Neutrality...? That's just a pre-war courtesy."
+      ],
+      "login": [
+        "指挥官，贵安~有什么难题的话就让我去做吧",
+        "指揮官様、ごきげんよう。問題があれば、私におまかせください",
+        "Greetings, Commander. If there's a problem, please leave it to me."
+      ],
+      "details": [
+        "不用理会我也没事的……",
+        "私のことを覚えなくても……",
+        "It's alright if you don't remember me..."
+      ],
+      "secretaryIdle1": [
+        "这孩子很喜欢我呢，但我真的配饲养它吗……",
+        "この子私に懐いているわ。でも私なんかこの子を飼ってもいいの……",
+        "This eagle really likes being with me, but is it alright for me to feed it...?"
+      ],
+      "secretaryIdle2": [
+        "指挥官，42和24可别看反了哦~",
+        "指揮官様、42と24、くれぐれも間違えないようにね",
+        "Commander, please do not confuse 42 with 24, no matter what"
+      ],
+      "secretaryIdle3": [
+        "请多将时间分给妹妹们吧，我的话怎样都好",
+        "お時間があれば、妹たちと過ごしたほうが…私なんてどうだっていいわ",
+        "If there's time, maybe you should spend it with my younger sisters... I'm fine on my own"
+      ],
+      "secretaryTouch": [
+        "指挥官，怎么了吗？",
+        "指揮官様、何があったの？",
+        "Commander, what happened?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官有为我刻上印记的觉悟吗？",
+        "こんな私にあなたの印を刻む覚悟があるというの？",
+        "Are you truly prepared to leave your mark on someone like me?"
+      ],
+      "task": [
+        "新下达的任务已经整理好了",
+        "新たに通達されたミッションの資料は片付いたわ",
+        "Your new missions have been organized, Commander."
+      ],
+      "taskComplete": [
+        "任务奖励送来了，请查收吧",
+        "ミッションボーナスが届いたわ。ご確認ください",
+        "The mission rewards have been delivered. Please check them."
+      ],
+      "mail": [
+        "这孩子把信件取过来了，请过目",
+        "この子がメールを持ってきたわ。ご確認ください",
+        "My eagle got the mail. Please read it carefully."
+      ],
+      "returnFromMission": [
+        "指挥官没有受伤……真是太好了",
+        "お怪我がなくて……よかった",
+        "You're not hurt... That's good"
+      ],
+      "commission": [
+        "怎么了，小鹰？原来如此，委托组回来了吗，指挥官，快去吧",
+        "どうしたの、いーぐるちゃん？なるほど、委託チームが戻ってきたの？指揮官様、迎えに行きましょう",
+        "What's wrong, little eagle? So, the commission team has returned? Commander, let us greet them."
+      ],
+      "strengthening": [
+        "谢谢…",
+        "ありがとう…",
+        "Thanks..."
+      ],
+      "startingMission": [
+        "寻找光明吧",
+        "光を見出そう…！",
+        "Let's search for the light!"
+      ],
+      "mvp": [
+        "如果胜利能够带来和平，那我……",
+        "勝利が平和をもたらすというのなら、私は……！",
+        "If victory can bring peace, then I...!"
+      ],
+      "defeat": [
+        "请尽快先撤退吧，指挥官",
+        "先に撤退してください。指揮官様",
+        "Please retreat first, Commander."
+      ],
+      "skillActivation": [
+        "为了自由……！",
+        "自由のために……！",
+        "For the sake of freedom...!"
+      ],
+      "lowHP": [
+        "距离光明还很遥远……",
+        "光は、まだ遠く……",
+        "The light is still far away..."
+      ],
+      "affinityDisappointed": [
+        "果然，指挥官也终将离我而去……",
+        "やっぱり指揮官様もいつか私から……",
+        "So you truly will leave me one day..."
+      ],
+      "affinityStranger": [
+        "我希望和指挥官只保持上下级的关系，是的，请不要过多的理会我，我也……",
+        "指揮官様とは上司と部下の関係でいてほしくて…はい、私のことを構わずに、私……",
+        "I want to maintain the current superior-subordinate relationship, Commander... Don't mind me..."
+      ],
+      "affinityFriendly": [
+        "指挥官是个很奇怪的人……明明我不想再有悲伤的离别了，你却一而再再而三地闯进我的内心……",
+        "指揮官様、変なお人……もう悲しい物別れをしたくないというのに、私の心に踏み込んで……",
+        "Commander, you're weird... Even though I don't want to experience more painful departures, you keep stepping into my heart..."
+      ],
+      "affinityLike": [
+        "我可以相信指挥官吗……不，这一次，我还能相信自己吗……我想……再试试看",
+        "指揮官様を信じていいの……？いいえ、今度こそ自分を信じていいの……？信じて……みたい……",
+        "Can I believe in you, Commander...? I mean, can I believe in myself this time...? I want... to try..."
+      ],
+      "affinityLove": [
+        "嗯，我相信指挥官，我相信现在的自己……黑暗之后的光明……我想我终于找到了",
+        "はい、指揮官様のこと、そして今の自分を信じている……闇の後に来る光……私ついに見つけたと思う",
+        "Yes. I believe in you, Commander, as well as myself and the present day... The light beyond the darkness... I think I've finally found it"
+      ],
+      "pledge": [
+        "我曾经堕入黑暗深渊，是指挥官你给了我光明，把我拉了回来。所以现在轮到我了……就让我将约克城这个名字代表的自由与和平带给你吧",
+        "かつて闇に落ちた私に、指揮官様が光を与え、救いの手を差し伸べて、私を引き上げてくれた。だから今度は私が……ヨークタウン、この名が背負った自由と平和を、あなたに…",
+        "I had fallen into the darkness. It was you, Commander who gave me light and a helping hand which pulled me out of it. That's why this time, I, Yorktown, will give you my name. The name that shoulders the burden of liberty and peace..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Shouhou) 只是学腔调可不算大人哦",
+        "(Sortie with Shouhou) しゃべり方が変わっただけでは、大人とはいえないわ。",
+        "(Sortie with Shouhou) Just because you speak like an adult doesn't mean you are one!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Enterprise, Hornet) 真是久违的团聚呢",
+        "(Sortie with Enterprise, Hornet) 久しぶりに集まったね。",
+        "(Sortie with Enterprise, Hornet) What a long overdue reunion!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Enterprise) 展翅高飞吧，企业",
+        "(Sortie with Enterprise) エンタープライズ、羽ばたけ！",
+        "(Sortie with Enterprise) Spread your wings and fly, Enterprise!"
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with Hammann) 指挥官喜欢爱撒娇的孩子吗？",
+        "(Sortie with Hammann) 指揮官様は甘えん坊が好き？",
+        "(Sortie with Hammann) Commander, do you like to spoil your girls?"
+      ],
+      "additionalVoiceLine5": [
+        "(Sortie with at least 3 ships designed by the same artist) 八才吗，很热闹呢",
+        null,
+        "(Sortie with at least 3 ships designed by the same artist) 8 Talents? We're a pretty lively bunch!"
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，能收下这盒巧克力吗？…我想要让自己所爱的指挥官也知道，自己在这里，而且自己很幸福……",
+        "指揮官様、このチョコレートを受け取っていただけないでしょうか…私がここにいて、そして幸せであること、愛する指揮官様にも感じてほしくて……",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这个巧克力，是我融入了平素的感谢之情制作出来的。虽然我相信你会收下，但还是很担心做得不够好……指挥官，今后……也请你多多关照",
+        "私、日頃の感謝を込めてチョコレートを作ってきたわ。受け取ってくれると信じているけど、やっぱり出来栄えが不安で……指揮官様、これからも…よろしく頼むわ",
+        "Could I ask you to please accept my Valentine's chocolate...? I hope you'll feel the same happiness as I do, and feel the same love as I do for you..."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Hey, Commander~ I'm over– *hic*! Over here! Sooorry, I'm just playing hide-n-seek with Enty~ Come on, try out thissss new liqueur chocolate~! Open your mouth and I'll feed you some~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Yorktown_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Yorktown_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Yorktown_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Yorktown_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Yorktown_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Yorktown_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Yorktown_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Yorktown_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Yorktown_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Yorktown_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Yorktown_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Yorktown_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yorktown_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yorktown_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Yorktown_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Yorktown_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Yorktown_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Yorktown_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Yorktown_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Yorktown_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Yorktown_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Yorktown_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Yorktown_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Yorktown_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Yorktown_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Yorktown_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Yorktown_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Yorktown_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Yorktown_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Yorktown_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Yorktown_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Yorktown_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Yorktown_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Yorktown_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Yorktown_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Yorktown_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Yorktown_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Yorktown_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Yorktown_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Yorktown_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Yorktown_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Yorktown_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Yorktown_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Yorktown_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Yorktown_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Yorktown_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Yorktown_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Yorktown_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Yorktown_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Yorktown_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Yorktown_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Yorktown_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Yorktown_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Yorktown_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Yorktown_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Yorktown_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Yorktown_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Yorktown_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Yorktown_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Yorktown_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Yorktown_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Yorktown_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Yorktown_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Yorktown_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Yorktown_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Yorktown_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Yorktown_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Yorktown_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Yorktown_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Yorktown_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Yorktown_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Yorktown_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Yorktown_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Yorktown_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Yorktown_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Yorktown_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Yorktown_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Yorktown_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Yorktown_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Yorktown_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Yorktown_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Yorktown_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Yorktown_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Yorktown_Extra3JP.ogg"
+      ],
+      "additionalVoiceLine4Url": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Yorktown_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Yorktown_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Yorktown_Extra4JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Evening I Can't Remember",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "优雅与朦胧之夜",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "優雅と微酔の夜",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/64/YorktownParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f4/YorktownPartyChibi.png",
+      "shipDescription": [
+        "咦，指挥官，在会场迷路了吗~要不要来喝一杯？……欸，醉了？真是的，指挥官，真爱说笑呢，这些不是果汁吗？……",
+        "あら、指揮官、迷子になった？ふふふ、一杯どぉ？……えっ、私が…酔ってる？もう、指揮官ったら冗談が好きね…ジュース…じゃなかった…っけ？",
+        "Hey, Commander, are you lost? How about a drink? ... Huh? Drunk? Me? Oh, Commander, you're such a card. This is just grape juice... isn't it?"
+      ],
+      "acquisition": [
+        "咦，指挥官，在会场迷路了吗~要不要来喝一杯？……欸，醉了？真是的，指挥官，真爱说笑呢，这些不是果汁吗？……",
+        "あら、指揮官、迷子になった？ふふふ、一杯どぉ？……えっ、私が…酔ってる？もう、指揮官ったら冗談が好きね…ジュース…じゃなかった…っけ？",
+        "Hey, Commander, are you lost? How about a drink? ... Huh? Drunk? Me? Oh, Commander, you're such a card. This is just grape juice... isn't it?"
+      ],
+      "login": [
+        "指挥官，作为来晚的惩罚，先喝一杯~",
+        "ふふふ、指揮官？遅れた罰として、まずは一杯どうぞ～",
+        "You're late, Commander. You know what THAT means. One penalty drink!"
+      ],
+      "details": [
+        "说起来，企业曾经劝告我说千万不要喝酒，指挥官，你说这是为什么呢？",
+        "そういえば、エンタープライズから絶対お酒を飲んじゃダメって言われたけどぉ……指揮官、なんでだろう……",
+        "Come to think of it, Enterprise did tell me not to drink the blue stuff like A MILLION TIMES. But like, what's the dig beal, Commander?"
+      ],
+      "secretaryIdle1": [
+        "企业也好，大黄蜂也好，还有小哈曼……她们呢，都在舰队里找到了自己的位置，姐姐我真是又高兴，又有点寂寞呢",
+        "エンタープライズも、ホーネットも、ハムマンちゃんも…みんなこの艦隊で居場所を見つけたのね……私、嬉しくて、寂しくて……くすん…",
+        "Enterprise is a good girl. So's Hornet. And Hammann. They all found their PLACE in this fleet. But me? The big sister? I'm HAPPY for them. And a teeeensy bit lonely."
+      ],
+      "secretaryIdle2": [
+        "我现在稍微有些后悔呢，指挥官……要是早知道指挥官是这么好的人，我或许也会对自己更率直一点吧",
+        "私、時々ちょっと後悔しちゃうわ…指揮官がこんなに素晴らしい方だともっと早くわかってたら、もっと素直になれたはずなのに……くすん…",
+        "You know, Commander, looking back, I have some regrets. Like if I knew you were THIS good? I'd've been more HONEST with myself."
+      ],
+      "secretaryIdle3": [
+        "咦，小哈曼，你怎么忽然长得这么高啦？……哎呀，这不是指挥官吗，你有看到小哈曼吗？",
+        "ハムマンちゃん…？どうして急に背がこんなに高く伸びたの…？あら、指揮官、ハムマンちゃんを見なかった…？",
+        "Oh! Is that my cute little Hammann?! When did you get so BIG?! ...Oh, you're the Commander, aren't you? Have you seen Hammann?"
+      ],
+      "secretaryTouch": [
+        "指挥官，想听企业或者大黄蜂的事吗？欸，我的？呵呵，也可以哦。",
+        "指揮官、エンタープライズとホーネットのこと、知りたい？え、私…？ふふふ、うん、いいわ…",
+        "Hey, Commander, you wanna hear some EMBARRASSING stories about Enterprise and Hornet? Oh, you'd rather hear mine? Hehe, THAT can be arranged."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，当坏孩子可不好哦~",
+        "指揮官…悪い子……めっ、だわ～ふふふ",
+        "OH! Commander, at least buy me a drink first!"
+      ],
+      "task": [
+        "指挥官，借着任务逃跑我可是会生气的哦？",
+        "指揮官、任務をダシにして逃げたら…お、怒るわよ…？",
+        "Now now, Commander, I'll be mad at you if you ditch these assignments."
+      ],
+      "taskComplete": [
+        "庆祝任务完成，干杯~",
+        "任務完了を祝って、ふふ、かんぱーい",
+        "Here's to a mission accomplished! CHEERS!"
+      ],
+      "mail": [
+        "指挥官，别人的邀请，要等到和我喝完才能去哦？",
+        "指揮官、ほかの人に誘われても、せめて私の分を飲んでからにして…？",
+        "You can't go off with someone else until you finish drinking with ME, Commander!"
+      ],
+      "returnFromMission": [
+        "指挥官，不喝一杯的话，我可不放你走哦",
+        "指揮官、一杯飲んでくれないと、離さないんだからね……",
+        "I'm not letting you leave until YOU have a drink with me, Commander."
+      ],
+      "commission": [
+        "一起去港口？真是的，指挥官，我都说了我没醉！",
+        "一緒に埠頭まで…？やだ、指揮官、酔ってないって言ってるのにぃ……",
+        "You wanna sneak off to the harbor? Ugh, I TOLD you already, Commander, I'm *hic* not as think as you drunk I am!"
+      ],
+      "startingMission": [
+        "咦，这里是哪儿？",
+        "あら、ここは……？",
+        "Uhhh, where am I?"
+      ],
+      "mvp": [
+        "…………？！我刚刚，都在会场里说了些什么……",
+        "……？！やだ、今私何か言ってたの……？",
+        "OOPSIE! What was that I just said in front of EVERYONE...?"
+      ],
+      "defeat": [
+        "这、这下，作为姐姐的尊严完全一扫而空了呢……",
+        "こ、これじゃエンタープライズたちに会わせる顔が……",
+        "I, I have a feeling... like all the clout I had as a big sister is COMPLETELY GONE... after tonight..."
+      ],
+      "skillActivation": [
+        "为了自由~嗝！",
+        "自由のために……うぅ……",
+        null
+      ],
+      "lowHP": [
+        "唔，稍微……有点反胃……",
+        "うぅ、少し……飲みすぎたわ……",
+        "Urk. I feel... a little sick..."
+      ],
+      "affinityLove": [
+        "所以说，指挥官，两情相悦的人，怎么会不想粘在一起呢？姐姐是因为脸皮薄，不好意思主动。所以呀，指挥官你要主动一点才行，知道了吗？",
+        "ふふふ、好きだから一緒にいたいって当然よ？こういうの私、奥手だからあまりアタックしないだけなのぉ……ほーら、指揮官ももっと積極的にならないと…ねえ？",
+        "I mean, it's only natural for a good couple to be a little clingy, right? After all I've been through, I'm WAY too shy to make the first move. So that means YOU have to do it. Got it?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Yorktown_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Yorktown_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Yorktown_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Yorktown_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Yorktown_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Yorktown_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Yorktown_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Yorktown_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Yorktown_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Yorktown_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Yorktown_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Yorktown_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Yorktown_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Yorktown_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Yorktown_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Yorktown_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Yorktown_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Yorktown_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Yorktown_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Yorktown_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Yorktown_Sec2Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yorktown_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yorktown_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Yorktown_TaskSkin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yorktown_TaskCSkin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Yorktown_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Yorktown_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Yorktown_MailSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Yorktown_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Yorktown_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Yorktown_MissionFinSkin1JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Yorktown_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Yorktown_CommissionSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Yorktown_CommissionSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Yorktown_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Yorktown_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Yorktown_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Yorktown_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Yorktown_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Yorktown_MVPSkin1JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Yorktown_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Yorktown_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Yorktown_DefeatSkin1JP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Yorktown_SkillActivationSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Yorktown_SkillActivationSkin1JP.ogg",
+        null
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Yorktown_LowHPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Yorktown_LowHPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Yorktown_LowHPSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Yorktown_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Yorktown_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Yorktown_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

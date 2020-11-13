@@ -1,0 +1,1066 @@
+{
+  "name": "Takao",
+  "constructionTime": "02:05:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Takao",
+  "ID": "200",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "木shiyo",
+  "pixiv": "https://www.pixiv.net/member.php?id=40222",
+  "twitter": "https://twitter.com/kishiyo1943",
+  "link": "https://weibo.com/u/2481339344",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ai_Kakuma",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4295,
+      175,
+      65,
+      270,
+      245,
+      79,
+      31,
+      178,
+      0,
+      12,
+      134,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3818,
+      152,
+      65,
+      236,
+      213,
+      33,
+      31,
+      155,
+      0,
+      12,
+      119,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      738,
+      64,
+      65,
+      50,
+      45,
+      13,
+      31,
+      33,
+      0,
+      4,
+      46,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "120% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "150% → 175%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Torpedo  +1",
+  "level120TechPoints": 21,
+  "enhancementValue": [
+    28,
+    15,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Focused Assault; CN: 重点打击 JP: 集中攻撃",
+  "skill1Description": "When firing main gun, 15% (30%) chance to inflict double damage.",
+  "skill2Name": "Double Torpedo; CN: 鱼雷连射 JP: 次発装填",
+  "skill2Description": "When launching a wave of torpedoes: 15% (30%) chance to launch another wave.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-高雄型",
+  "skill3Description": "Every 9 (6) shots from the main gun, triggers Full Barrage - Takao Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/28/Takao.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/de/TakaoChibi.png",
+      "shipDescription": [
+        "高雄级重巡洋舰一番舰—高雄",
+        "高雄型重巡洋艦一番艦・高雄",
+        "First ship of the Takao-class heavy cruisers, Takao."
+      ],
+      "selfIntroduction": [
+        "我是高雄级重巡洋舰一号舰——高雄。别看我这样，我也是横越过无数战场以后才站在这里的。请放心依赖我的火力和护甲吧",
+        "拙者は高雄型重巡洋艦一番艦、高雄と申すものだ。こう見えても、無数の戦場を乗り越えておる。拙者の火力と装甲、安心して頼るがいい",
+        "I am Takao, first ship of the Takao-class heavy cruisers. I may not look like it, but I have already crossed through countless battlefields. Please place your faith in my firepower and armor, and be at ease."
+      ],
+      "acquisition": [
+        "你就是指挥官吗？在下高雄，愿为你献上绵薄之力",
+        "そなたが指揮官か？拙者は高雄、微力ながら力を尽くす所存だ！",
+        "Are you the Commander? Please allow this lowly Takao to offer you what little strength she has."
+      ],
+      "login": [
+        "高雄在此待命，请问有什么指示？",
+        "高雄、ここで主命を待っている。何かご指示は？",
+        "Takao standing by. What are your orders?"
+      ],
+      "details": [
+        "绳锯木断，水滴石穿。平日的不懈锻炼才能在关键时刻带来胜利，我是这么相信着的",
+        "「釣瓶縄井桁を断ち、雨垂れ石を穿つ」ーー普段の鍛錬を粘り強く続けるものこそ勝利を得られる。拙者はそう信じておる",
+        "Small strokes fell great oaks, constant drops pierce through rock. Those who train through the most humdrum of days shall seize victory in the most critical of moments. That is my belief."
+      ],
+      "secretaryIdle1": [
+        "即使回到母港也不可过于懈怠，危机往往就潜伏在日常之中",
+        "母港に戻っても怠けてはならぬ。危険は日常に潜んでいるのだ",
+        "Even back in port, we must not lower our guard. Danger lurks around every corner."
+      ],
+      "secretaryIdle2": [
+        "就算是指挥官，也无法接下我的一刀吧——",
+        "この一太刀をまともに受けたらいくらそなたでも死ぬぞ！？",
+        "Commander, not even you could withstand my blade."
+      ],
+      "secretaryIdle3": [
+        "所谓日日精进，就是说要每天努力向目标靠近，指挥官可不要懈怠了啊",
+        "日々精進というのは毎日目標に向けて努力することだ。指揮官殿、くれぐれも怠けないでくだされ",
+        "Daily refinement means to continually strive towards your goals. Commander, may your focus never falter."
+      ],
+      "secretaryTouch": [
+        "敌、敌人！？啊…原来是指挥官吗……对不起我视力不是很好……",
+        "て、敵か！？あっ…指揮官殿か……目利きがあまり良くない故…すまぬ！",
+        "E-enemies?! Oh... It was you, Commander? Apologies - my eyesight isn't the best."
+      ],
+      "secretarySpecialTouch": [
+        "呀！吓了我一跳……不、不知廉耻！",
+        "きゃっ！い、今の驚いたぞ！…こ、この破廉恥な…！",
+        "Kyaa! You scared me... how shameless!"
+      ],
+      "task": [
+        "新的任务下达了，要确认一下吗？",
+        "新しい主命が降りた。確認致そうか。",
+        "New tasks have been assigned - would you like to confirm them?"
+      ],
+      "taskComplete": [
+        "任务完成，要前往回收奖励吗？",
+        "任務完了。報奨の回収に出向こうか",
+        "Mission accomplished! Are we going to collect the rewards?"
+      ],
+      "mail": [
+        "有新邮件，要帮你拿过来吗？",
+        "手紙だ。持ってこようか？",
+        "Commander, there's new mail. Shall I bring it for you?"
+      ],
+      "returnFromMission": [
+        "太好了，您能平安无事地回来",
+        "無事帰還できて良かった",
+        "I'm glad that you came back safe and sound."
+      ],
+      "commission": [
+        "执行委托的舰队回来了，要去迎接吗？",
+        "委託に出張った艦隊が戻ったぞ。迎えに出立するか？",
+        "Your fleet has returned from commission. Want to welcome them back?"
+      ],
+      "strengthening": [
+        "力量……流入了我的剑中",
+        "力が……拙者の刀に流れ込んで…",
+        "Power... flows through my blade!"
+      ],
+      "startingMission": [
+        "战斗就交给我吧！必定不辱“最强”之名！",
+        "戦闘は拙者にお任せを！「最強」の名は決して汚しはせぬ！",
+        "Please leave combat to me. I shall not shame my title of being \"The Strongest!\""
+      ],
+      "mvp": [
+        "呼……又斩了些无聊的东西……",
+        "ふぅ…またつまらぬ物を斬ってしまった……",
+        "Hm... Once again, I've cut a worthless object."
+      ],
+      "defeat": [
+        "大意了…下次一定不会失败的！",
+        "ぬかった…次は負けん！",
+        "I was careless... I definitely will not fail next time!"
+      ],
+      "skillActivation": [
+        "恶·即·斩！",
+        "悪・即・斬！",
+        "Swift death unto evil!"
+      ],
+      "lowHP": [
+        "明镜止水……！",
+        "明鏡止水……！",
+        "Be still as water...!"
+      ],
+      "affinityDisappointed": [
+        "刀剑无眼，还请不要随意靠近我身边",
+        "刀には目がついておらぬ。不用意に近づかぬほうが良い",
+        "A sword has no eyes. It would be wise to avoid approaching me casually."
+      ],
+      "affinityStranger": [
+        "有什么事吗？没事我就回去继续工作了……",
+        "用はあるか？ないなら仕事に専念させてもらいたい",
+        "Do you need anything? If not, I'm going back to work."
+      ],
+      "affinityFriendly": [
+        "偶尔放下其他事情，像这样和指挥官说说话好像也不错呢",
+        "仕事を忘れ、こうして指揮官殿とゆっくり話すのもいいかもしれんな",
+        "It might be pretty nice to just set aside my duties and have a relaxing conversation with you every once in a while, Commander."
+      ],
+      "affinityLike": [
+        "最近修行的时候不太能静下心来……一想到指挥官心就乱了，剑也就乱了……这样的我，还有资格留在指挥官的身边吗？",
+        "最近修行の時、いつも心が落ち着かない……指揮官殿のことを思うと剣も乱れてしまう……指揮官殿、こんな拙者はおそばに置いていただく価値はあるのだろうか？",
+        "Recently, I haven't been able to keep my composure during training.. Just from thinking about you, my form becomes sloppy. If I am like this, would you still want to keep me by your side?"
+      ],
+      "affinityLove": [
+        "即使满身疮痍，狼狈不堪，我也一定会活着回来，陪在指挥官的身边的。所以，指挥官也能一直陪在我的身边吗？",
+        "例え戦で満身創痍になろうと、きっと生きて、指揮官殿…そなたの元に帰ることを誓おう。だから、そなたも…ずっと拙者のそばにいてくれぬだろうか…",
+        "No matter how badly I'm injured, I will make sure to always return to your side. So... Commander, could you always stay with me as well?"
+      ],
+      "pledge": [
+        "能得到指挥官的认可是高雄无上的荣幸……这柄剑，从今往后，也将只为你而挥动！从今往后，也请多指教了！",
+        "指揮官殿に認められたか…この剣、これからそなたのためだけに振ろう！これからもよろしく頼む！",
+        "For you to acknowledge me like this, Commander, is the greatest honor. From now on, this blade shall serve only you. Please continue to treat me kindly."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with ) 爱宕，我的背后就拜托你了！",
+        "(Sortie with ) 愛宕、背中は任せた！",
+        null
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with ) 妹妹们，随我冲锋！",
+        "(Sortie with ) 第四戦隊、付いてまいれ！",
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        "在下对这方面实在不擅长，不过也不能总被爱宕取笑下去。抱歉，陪我练习一下吧--“特意为指挥官做了巧克力，请收下！”···像、像这样可以吗！？",
+        "拙者、こういった行事には疎いが、愛宕にいつまでも笑われるわけにはいかぬ。すまないが、少し付き合ってくれ……「指揮官だけのチョコレートを作りました！受け取ってください！」……こ、これで良いか！？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "咳、咳咳！指挥官，这个为今日而做的巧克力，请您一定要收下……这样就可以了吧!?我不会再被爱宕那家伙骗到了！",
+        "こ、コホン！指揮官殿、この日のために作ったチョコレートを何卒お納めくだされ！……これで良いのだな！？もう愛宕のやつには騙されんぞ！",
+        "I'm no good at this kind of stuff, but I can't let Atago make fun of me forever. My apologies, but would you practice with me a bit? \"Commander, I made this chocolate just for you! Please accept it!\"... U-um... is something like this acceptable!?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "While I may come off as rigid and harsh, I am not utterly without feelings. In my efforts to keep to the proper Valentine's Day customs, Commander, do please accept these chocolates that contain my heartfelt emotions."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Takao_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Takao_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Takao_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Takao_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Takao_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Takao_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Takao_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Takao_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Takao_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Takao_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Takao_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Takao_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Takao_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Takao_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Takao_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Takao_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Takao_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Takao_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Takao_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Takao_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Takao_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Takao_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Takao_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Takao_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Takao_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Takao_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Takao_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Takao_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Takao_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Takao_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Takao_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Takao_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Takao_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Takao_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Takao_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Takao_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Takao_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Takao_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Takao_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Takao_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Takao_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Takao_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Takao_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Takao_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Takao_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Takao_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Takao_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Takao_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Takao_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Takao_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Takao_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Takao_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Takao_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Takao_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Takao_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Takao_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Takao_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Takao_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Takao_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Takao_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Takao_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Takao_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Takao_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Takao_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Takao_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Takao_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Takao_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Takao_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Takao_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Takao_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Takao_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Takao_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Takao_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Takao_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Takao_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Takao_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Takao_Extra1JP.ogg",
+        null
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Takao_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Takao_Extra2JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Sakura Hanami",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "神护樱华",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "神護ノ風華",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d2/TakaoWedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fc/TakaoWeddingChibi.png",
+      "shipDescription": [
+        "指挥官，为了这一天，我进行了无数的新娘修行呢。作为新娘，也一定不会让你失望的",
+        "指揮官殿、拙者はこの日のため修業を多く積んで参ったのだ。専属艦としても指揮官殿には失望させぬ！",
+        "Commander, I've been undertaking countless bride training sessions in order to prepare for this day. As your bride, I won't let you down."
+      ],
+      "acquisition": [
+        "指挥官，为了这一天，我进行了无数的新娘修行呢。作为新娘，也一定不会让你失望的",
+        "指揮官殿、拙者はこの日のため修業を多く積んで参ったのだ。専属艦としても指揮官殿には失望させぬ！",
+        "Commander, I've been undertaking countless bride training sessions in order to prepare for this day. As your bride, I won't let you down."
+      ],
+      "login": [
+        "指挥官，来尝尝我的厨艺吧",
+        "指揮官殿、拙者の手料理を召し上がってくれ",
+        "Commander, come and try my cooking."
+      ],
+      "details": [
+        "虽然穿上了嫁衣，不过刀依然被我带在了身边，只不过藏在了你看不到的地方而已",
+        "こうして花嫁衣装に着替えても、実は帯刀しておるぞ。そなたの見えない場所に隠しておるのだ",
+        "I brought my katana with me in this wedding dress. It's just hiding somewhere that you cannot see."
+      ],
+      "secretaryIdle1": [
+        "现在想想，我和你所度过的每一个平凡的日子，或许正是连续发生的奇迹",
+        "今思えば、こうしてそなたと平穏な日々を過ごすのは、前では考えられなかった奇跡かもしれんな",
+        "I think that each and every day we spend together is a blessing."
+      ],
+      "secretaryIdle2": [
+        "做完今天份的修行后，得去补充一下食材了……欸，是个好妻子……吗？没、没有啦",
+        "今日の修行を終わらせたら、食材の補充も……「いいお嫁さん」だと！？……そ、それほどでは……",
+        "After today's training, I will replenish our food supply... am I... a good wife? N-nothing."
+      ],
+      "secretaryIdle3": [
+        "爱宕说我最近表情柔和了许多，呵呵，因为现在的我，一想到你，就会笑呢",
+        "最近表情が柔らかくなったって愛宕に言われた。ふふっ、そなたのことを思うとつい微笑んでしまうせいかな",
+        "Atago said that my expressions have been softened recently, heehee, that's because now I smile whenever I think of you."
+      ],
+      "secretaryTouch": [
+        "指挥官，请好好工作……难道你在故意骚扰我想看我困扰的表情吗",
+        "指揮官殿、ちゃんと職務を全うするのだぞ。……まさか、拙者が困っている顔を見たくてちょっかいを出してきたんじゃあるまいな",
+        "Commander, please focus on the work... or are you purposely teasing me just to see my troubled face?"
+      ],
+      "secretarySpecialTouch": [
+        "指、指挥官，这里是办公室……",
+        "し、指揮官殿、ここは執務室だぞ……",
+        "C-Commander, we are still in the office..."
+      ],
+      "task": [
+        "指挥官，任务不要太懈怠哦",
+        "指揮官殿、任務はちゃんとこなすのだぞ",
+        "Commander, don't get sloppy during the mission."
+      ],
+      "taskComplete": [
+        "任务完成了……看到指挥官这么努力，我也很开心呢",
+        "任務完了だ。……指揮官殿のこんな頑張りを見ると、拙者も嬉しい気持ちになるな",
+        "Mission complete... I feel so happy after seeing the Commander's efforts."
+      ],
+      "mail": [
+        "新的邮件，我去取吧",
+        "新しいメールは拙者が取ってくる",
+        "I just received a new mail."
+      ],
+      "returnFromMission": [
+        "等待并相信你的归来，我也逐渐习惯了呢",
+        "そなたが無事に帰還することを信じて、待つ。――こういうのもだんだん慣れてきておるな",
+        "I'm slowly getting used to waiting for your inevitable return."
+      ],
+      "startingMission": [
+        "如今的我，你们能挡得住吗？",
+        "今の拙者をお前たちに止められるものか！",
+        "Will any of you be able to stop me today?"
+      ],
+      "affinityLove": [
+        "只懂得修行的我，能寻得指挥官你这样的良主，还能与你缔结良缘，我是个何等幸福的人啊",
+        "修行に生きていた拙者が、指揮官殿という良主に恵まれただけでなく、縁まで結べたとは……拙者はどれだけ幸せ者なのだろうか",
+        "As someone who only lives for training, I'm really happy and lucky to be able to find and bond with you, Commander."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Takao_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Takao_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Takao_IntroSkin8JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Takao_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Takao_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Takao_LogSkin8JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Takao_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Takao_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Takao_DetailsSkin8JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Takao_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Takao_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Takao_SecIdle1Skin8JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Takao_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Takao_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Takao_SecIdle2Skin8JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Takao_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Takao_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Takao_SecIdle3Skin8JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Takao_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Takao_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Takao_Sec1Skin8JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Takao_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Takao_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Takao_Sec2Skin8JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Takao_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Takao_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Takao_TaskSkin8JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Takao_TaskCSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Takao_TaskCSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Takao_TaskCSkin8JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Takao_MailSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Takao_MailSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Takao_MailSkin8JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Takao_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Takao_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Takao_MissionFinSkin8JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Takao_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Takao_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Takao_MissionStartSkin8JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Takao_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Takao_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Takao_Affinity4Skin8JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Beach Rhapsody",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "沙滩狂想曲",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "砂浜ラプソディ",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c6/TakaoSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b4/TakaoSummerChibi.png",
+      "shipDescription": [
+        "指挥官，一直盯着我看，我会很困扰的……诶？为什么带排球？这不是指挥官要求的吗！？",
+        "指揮官殿、こうも凝視されると、いくら拙者でも困る…！……え？なぜバレーボールを持っている？指揮官殿の指示ではなかったのか！？",
+        "Commander, even I’ll get embarrassed if you keep staring at me like that... Eh? Why did I bring a volleyball? Did you not order me to bring it?"
+      ],
+      "acquisition": [
+        "指挥官，一直盯着我看，我会很困扰的……诶？为什么带排球？这不是指挥官要求的吗！？",
+        "指揮官殿、こうも凝視されると、いくら拙者でも困る…！……え？なぜボールを持っている？指揮官殿の指示ではなかったのか！？",
+        "Commander, even I’ll get embarrassed if you keep staring at me like that... Eh? Why did I bring a volleyball? Did you not order me to bring it?"
+      ],
+      "login": [
+        "我并非不通情理的武士，在如此炎热的季节，适当的休息确实有必要，不过——可不能因此耽误了训练",
+        "拙者とて物の分からない者ではない。この炎天下のことだ、適度の休息も必要だろう。だがーー訓練をおろそかにしてはならぬ！",
+        "Of course I can sympathize with the others. In this kind of heat, it is important to get some rest. However, we mustn’t neglect our training!"
+      ],
+      "details": [
+        "居然会输给萨拉小姐…至少在沙滩排球上，我一定要赢回来！",
+        "砂城作りではサラトガ殿に負けたが、ビーチバレーは勝たせてもらう！",
+        "I may have lost to Miss Saratoga in sandcastle building, but I shall redeem myself in beach volleyball."
+      ],
+      "secretaryIdle1": [
+        "萨拉小姐要和我比赛？尽管放马过来！游泳也好，排球也好，无论什么运动我都接受！",
+        "サラトガ殿、試合、と申すと？構わぬ！水泳でも排球でも、どんなものでも受けて立つ！",
+        "Miss Saratoga wants to challenge me? Fine. Swimming, volleyball... just name it. I’ll take her on."
+      ],
+      "secretaryIdle2": [
+        "爱宕，我的墨镜有带来吗？",
+        "愛宕、拙者の黒眼鏡は持ってきたか？",
+        "Atago, did you bring my sunglasses?"
+      ],
+      "secretaryIdle3": [
+        "指挥官，请放心，这把木刀并不是用来斩你的，只是听说皇家的某船也来了……噗，开玩笑的，是因为爱宕怕鬼啦",
+        "指揮官殿、ご安心くだされ。この木刀は指揮官殿を斬るものではなく、とあるロイヤルの艦が来ているゆえ……そういう意味では申しておらぬ！実は愛宕のやつはお化けが恐ろしいがゆえに持参してきたのだ！",
+        "Relax, Commander. I didn’t bring this kendo sword to hit you with. It’s because I heard that someone from the Royal Navy is going to be here. Heh, just kidding. It’s because Atago is scared of ghosts~"
+      ],
+      "secretaryTouch": [
+        "年轻的舰娘们都很有活力呢……指挥官，舰娘的年龄可不是按下水时间计算的",
+        "年下の子はみな元気溌剌にしておるな…あ、いや！指揮官殿！進水時間で年を測るとは申しておらぬぞ！",
+        "The younger girls are all so energetic... Commander, did you know you can tell their age by when they were launched?"
+      ],
+      "secretarySpecialTouch": [
+        "不要碰我！我正在努力堆沙堡……可恶，至少规模要达到Sis Sara的七成才行……",
+        "今は拙者に触れないでくれ！この砂城作り……くっ！せめてサラトガ殿の高さの七割には…！",
+        "Don’t touch me! I’m working on a sand castle... it has to be at least 70% bigger than Sara’s!"
+      ],
+      "returnFromMission": [
+        "指挥官，欢迎回来，辛苦了。听说萨拉小姐要作为皇家队成员参加沙滩排球比赛？呵呵，一雪前耻的机会来了！",
+        "指揮官殿、お疲れ様、よくぞ無事に帰った。…サラトガ殿がロイヤルのメンバーとしてビーチバレーに参加、だと？そうか！名誉挽回の好機がついに来た！",
+        "Good work, Commander. ...What? Miss Saratoga is going to join Team Royal during the beach volleyball tournament? I see... a chance for payback has come!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Takao_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Takao_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Takao_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Takao_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Takao_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Takao_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Takao_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Takao_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Takao_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Takao_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Takao_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Takao_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Takao_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Takao_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Takao_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Takao_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Takao_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Takao_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Takao_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Takao_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Takao_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Takao_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Takao_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Takao_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Takao_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Takao_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Takao_MissionFinSkin2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Lessons of Spring",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "春之意",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "春の習い",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/08/TakaoSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/68/TakaoSpringChibi.png",
+      "shipDescription": [
+        "练字也是修行的一种，在下就写了一些……指挥官，你也要一起来吗？",
+        "習字も修行のうちと聞いて、こうして東煌の子たちの手伝いをやってはいるが……指揮官殿もやるのか？",
+        "Calligraphy is also a form of self-cultivation, so I am instructing the children... Commander, would you also like to join?"
+      ],
+      "acquisition": [
+        "练字也是修行的一种，在下就写了一些……指挥官，你也要一起来吗？",
+        "習字も修行のうちと聞いて、こうして東煌の子たちの手伝いをやっているが……指揮官殿もやるか？",
+        "Calligraphy is also a form of self-cultivation, so I am instructing the children... Commander, would you also like to join?"
+      ],
+      "login": [
+        "指挥官，欢迎回来，抱歉地上有些乱，我这就收拾一下",
+        "指揮官殿、よくぞお戻りになられた。ちょっと散らかしててすまない。今すぐ片付ける",
+        "Commander, welcome back. Pardon me for making a mess; I'll clean it up right away."
+      ],
+      "details": [
+        "喂！不许把沾了墨水的脚踩在纸上！",
+        "しまった、墨汁がまだ……指揮官殿！紙を踏んではならぬぞ！",
+        "Oh no, the ink... Commander, don't step on the paper!"
+      ],
+      "secretaryIdle1": [
+        "旗袍吗？这是爱宕为我选的，说你一定会喜欢，是这样吗？",
+        "チャイナドレス？愛宕が選んでくれたが、指揮官殿が気に入る衣装だと聞いた。どうだろうか？",
+        "Qipao? Atago picked it out, saying you like this kind of outfit. How is it?"
+      ],
+      "secretaryIdle2": [
+        "什么，东煌那边只需要“福”字就可以了吗，在下还以为什么字都可以……",
+        "なに？「福」だけで良かったのか？何を書いても良いと思っていた……",
+        "What? \"Fortune\" is the only thing that needs to be written? I thought I could write whatever I wanted..."
+      ],
+      "secretaryIdle3": [
+        "指挥官，在下可以写一写你的名字吗？唔，没什么理由，就是忽然想到",
+        "指揮官殿、この紙にそなたの名前を書いて良いのだろうか。理由は特に思いつかぬが…なんとなくな",
+        "Commander, can I try writing your name next? Hm? No particular reason... I just felt like it."
+      ],
+      "secretaryTouch": [
+        "要是在下的字能为指挥官和大家带来福运就好了",
+        "拙者が書いた「福」…指揮官殿と皆に幸運をもたらすことができれば良いがな",
+        "It would be great if I could really bring \"Fortune\" to Commander and everyone else with my calligraphy."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，这、这样会干扰我练字的……！",
+        "指揮官殿！？こ、これでは字が書けぬぞ…っ！",
+        "Commander?! I-I won't be able to write like this...!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Takao_IntroSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Takao_IntroSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Takao_IntroSkin3JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Takao_LogSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Takao_LogSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Takao_LogSkin3JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Takao_DetailsSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Takao_DetailsSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Takao_DetailsSkin3JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Takao_SecIdle1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Takao_SecIdle1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Takao_SecIdle1Skin3JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Takao_SecIdle2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Takao_SecIdle2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Takao_SecIdle2Skin3JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Takao_SecIdle3Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Takao_SecIdle3Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Takao_SecIdle3Skin3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Takao_Sec1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Takao_Sec1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Takao_Sec1Skin3JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Takao_Sec2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Takao_Sec2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Takao_Sec2Skin3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "School Romanza",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "校园浪漫曲",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "学園ロマンチカ",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a9/TakaoSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/03/TakaoSchoolChibi.png",
+      "shipDescription": [
+        "呼…校园生活吗…对在下来说倒是挺新鲜的体验。头发…绑成这样应该可以吧？你觉得呢，指挥官？",
+        "ふぅ……学園生活か。拙者にはまだ新鮮な体験ではあるな。髪はこんな感じで結んだほうが良かろう。……指揮官殿、どうだろうか？",
+        "Hmm... school life, huh? It's a fairly fresh experience for me. Would it be fine to pin my hair up like this? What do you think, Commander?"
+      ],
+      "acquisition": [
+        "呼…校园生活吗…对在下来说倒是挺新鲜的体验。头发…绑成这样应该可以吧？你觉得呢，指挥官？",
+        "ふぅ……学園生活か。拙者にはまだ新鮮な体験ではあるな。髪はこんな感じで結んだほうが良かろう。……指揮官殿、どうだろうか？",
+        "Hmm... school life, huh? It's a fairly fresh experience for me. Would it be fine to pin my hair up like this? What do you think, Commander?"
+      ],
+      "login": [
+        "哇！指、指挥官？什么时候出现的…抱、抱歉，还没做好准备…",
+        "！？し、指揮官殿？いつからそこに…す、すまない！まだ準備が……！",
+        "Woah! C-Commander? When did you get here? I-I'm sorry, I'm still not ready yet..."
+      ],
+      "details": [
+        "学院生活也是港区任务重要的一环，所谓日益精进，想必也包括在学院的学习吧",
+        "学園での生活も母港の任務の一つ。こうして学園に通う事にはきっと、日々研鑽に励む事と通じるところがあるのだろう",
+        "A balanced school life is a part of the responsibilites here. Surely, I will develop valuable and translatable skills through the process of going to school."
+      ],
+      "secretaryIdle1": [
+        "即便身在校园也不可过于懈怠啊，指挥官",
+        "指揮官殿、学園にいても怠けてはならぬぞ",
+        "Commander, even if you're at school, you can't slack off too much!"
+      ],
+      "secretaryIdle2": [
+        "想要参加的社团？不知道有没有剑道社呢…",
+        "入りたい部活……？剣道部というものはあるのだろうか…",
+        "What clubs am I interested in joining... I wonder if there's a kendo club..."
+      ],
+      "secretaryIdle3": [
+        "衣服的尺寸应该没问题，为什么会显得这么…指、指挥官？！你在看什么呢！？",
+        "この制服、寸法は合っているはずなのに、なぜこうもパツパツと……し、指揮官殿！？どこを見ている！？",
+        "This uniform was supposed to fit, so why is it so tight... C-Commander?! What are you staring at!?"
+      ],
+      "secretaryTouch": [
+        "汪汪挂饰？是爱宕送我的哦，说这样会显得柔软一些，真是的…我也没那么紧绷吧…",
+        "ワンワンのストラップ？ああ、これは愛宕がくれたもので、なにやら「柔らかくなる」効果があるらしい。まったく、拙者はそこまでカタいわけではなかろうに……",
+        "This Woofy strap here? Atago gave it to me and said it'd help me look less uptight. Jeez, I'm not uptight at all..."
+      ],
+      "startingMission": [
+        "就让你们见识一下学园“最强”的实力吧！",
+        "「学園最強」の力、見せてしんぜよう！",
+        "I'll show you why they call me the \"School's Strongest!\""
+      ],
+      "mvp": [
+        "呼…算是不错的热身运动吧…",
+        "ふん…肩慣らしにはちょうど良い戦いだったな",
+        "Phew... I suppose that's a good warm up."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_IntroSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_IntroSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_IntroSkin4JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Takao_LogSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Takao_LogSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Takao_LogSkin4JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Takao_DetailsSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Takao_DetailsSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Takao_DetailsSkin4JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Takao_SecIdle1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Takao_SecIdle1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Takao_SecIdle1Skin4JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Takao_SecIdle2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Takao_SecIdle2Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Takao_SecIdle2Skin4JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Takao_SecIdle3Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Takao_SecIdle3Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Takao_SecIdle3Skin4JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Takao_Sec1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Takao_Sec1Skin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Takao_Sec1Skin4JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Takao_MissionStartSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Takao_MissionStartSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Takao_MissionStartSkin4JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Takao_MVPSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Takao_MVPSkin4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Takao_MVPSkin4JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Full Throttle Charmer",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "至高焦点",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "魅惑のフルドライブ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/cb/TakaoRaceQueen.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6a/TakaoRaceQueenChibi.png",
+      "shipDescription": [
+        "呜…这、这种不知廉耻的装扮…要不是爱宕一直说要有更多的生活体验…诶？很适合我？谢、谢谢……",
+        "くっ…こ、こんなけしからん衣装など…愛宕がもっといろいろ体験したほうがいいというのを聞かなければ…！拙者によく似合ってる…だと！？う、うむ……",
+        "Ugh... S-such shameless attire... If not for Atago saying that it would benefit me to experience different things...! It looks good on me?! I, I see..."
+      ],
+      "acquisition": [
+        "呜…这、这种不知廉耻的装扮…要不是爱宕一直说要有更多的生活体验…诶？很适合我？谢、谢谢……",
+        "くっ…こ、こんなけしからん衣装など…愛宕がもっといろいろ体験したほうがいいというのを聞かなければ…！拙者によく似合ってる…だと！？う、うむ……",
+        "Ugh... S-such shameless attire... If not for Atago saying that it would benefit me to experience different things...! It looks good on me?! I, I see..."
+      ],
+      "login": [
+        "这姿势保持久了有些累人。不过通过这种训练，能让身体变柔软一些也好…",
+        "同じポーズで座り続けるのは疲れるが、これも修業のうち。体の柔軟性を鍛えることができれば無駄ではなかろう…",
+        "Sitting in this same pose is rather tiring, but this is also part of my training. After all, improving my flexibility should not be something that goes to waste..."
+      ],
+      "details": [
+        "无论是什么任务，只要接下来了，就必须全力以赴的完成——不、不过指挥官，能不要像这样一直盯着我看吗，有点…害羞……",
+        "どんな任務でも請け負った以上、全力で挑むのみ――だが…指揮官殿、そんなに拙者のことを凝視しないでくれぬか？いささか…こそばゆい気がする……",
+        "I will give my all to fulfill any task I've been assigned... B-but, Commander, could you not stare at me so much? It's a bit... embarrassing..."
+      ],
+      "secretaryIdle1": [
+        "拍照的闪光灯多少有些刺眼。不过没事的，指挥官，在下会认真对待每一个镜头。",
+        "フラッシュが少し強いのだが、心配は無用。指揮官殿、拙者は一枚一枚、全力で挑む所存だ",
+        "The flashes from the camera are a bit too bright, but worry not about me. Commander, I shall face down each and every challenge before me."
+      ],
+      "secretaryIdle2": [
+        "这种时候脸上要时刻保持笑容？既然……是指挥官的提议，在下会试着改进",
+        "こういう時こそ笑顔を保ち続けるべき、か？そな……指揮官殿のご助言なら、努力させてもらおう",
+        "I should try to maintain my smile at times like these? If you say so... then I shall do as you advised to the utmost of my ability."
+      ],
+      "secretaryIdle3": [
+        "指挥官，能帮在下撑一下伞吗？想把发带的蝴蝶结绑得更整齐一点…",
+        "指揮官殿、傘をしばし持っていてくれぬか？この髪飾りを少し整えたいのだが…",
+        "Commander, would you mind holding onto my parasol for a bit? I need to fix my hair accessory..."
+      ],
+      "secretaryTouch": [
+        "诶？要调整下姿势，才有更好的拍摄效果？那、那就…呜…果然还是有点羞耻……",
+        "ポーズを変えたほうがよく映えるのか？で、では……くっ……やはりはしたないぞ……！",
+        "I should change my pose to make it easier to take pictures? V-very well... Ugh... Th-this is too embarrassing after all...!"
+      ],
+      "secretarySpecialTouch": [
+        "现、现在还是在工作时间…！",
+        "ま、まだ勤務時間中だぞ…！",
+        "I, I'm still working right now...!"
+      ],
+      "returnFromMission": [
+        "总、总算回来了…围观的人越来越多，我一直期盼着指挥官的身影能快点出现……",
+        "よ、ようやく帰還したか…くっ、この格好ではやはり……指揮官殿が一刻でも早く戻ってくれるよう心で念じておったぞ……",
+        "F-finally, you're back... With so many people staring at me, I was so hoping that you'd come back soon..."
+      ],
+      "mvp": [
+        "忘掉羞耻心，集中精神全力奋战……这也算修行吧",
+        "心を無にして全力で戦闘に挑む……これも修行の内だと思いたい……！",
+        "Calm your spirit and dedicate yourself to the task... I want to believe that this is part of my training!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Takao_IntroSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Takao_IntroSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Takao_IntroSkin5JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Takao_LogSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Takao_LogSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Takao_LogSkin5JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Takao_DetailsSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Takao_DetailsSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Takao_DetailsSkin5JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Takao_SecIdle1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Takao_SecIdle1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Takao_SecIdle1Skin5JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_SecIdle2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_SecIdle2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Takao_SecIdle2Skin5JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Takao_SecIdle3Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Takao_SecIdle3Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Takao_SecIdle3Skin5JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Takao_Sec1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Takao_Sec1Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Takao_Sec1Skin5JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Takao_Sec2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Takao_Sec2Skin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Takao_Sec2Skin5JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Takao_MissionFinSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Takao_MissionFinSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Takao_MissionFinSkin5JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Takao_MVPSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Takao_MVPSkin5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Takao_MVPSkin5JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

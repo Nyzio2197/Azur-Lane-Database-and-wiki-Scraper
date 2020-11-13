@@ -1,0 +1,723 @@
+{
+  "name": "Ise",
+  "constructionTime": "04:25:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Ise",
+  "ID": "210",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": true,
+  "artist": "kisetsu",
+  "pixiv": "https://www.pixiv.net/member.php?id=317823",
+  "twitter": "https://twitter.com/kisetsu2010",
+  "link": "https://weibo.com/kisetsu2010",
+  "voiceActor": "https://en.wikipedia.org/wiki/Mutsumi_Tamura",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7124,
+      141,
+      60,
+      398,
+      0,
+      31,
+      23,
+      229,
+      0,
+      13,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      7243,
+      132,
+      60,
+      389,
+      0,
+      31,
+      23,
+      373,
+      275,
+      13,
+      87,
+      0,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      6205,
+      115,
+      60,
+      351,
+      0,
+      13,
+      23,
+      337,
+      191,
+      13,
+      72,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6105,
+      123,
+      60,
+      357,
+      0,
+      13,
+      23,
+      200,
+      0,
+      13,
+      56,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1181,
+      52,
+      60,
+      76,
+      0,
+      5,
+      23,
+      43,
+      0,
+      4,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "110% → 140% → 180%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200% → 180%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 80% → 95%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 25,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Reload  +1",
+  "level120TechPoints": 19,
+  "enhancementValue": [
+    63,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    1
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Cover Fire; CN: 火力覆盖 JP: 砲火制圧",
+  "skill1Description": "Increases own Firepower by 10% (20%).",
+  "skill2Name": "(Retrofit) Aviation Battleship Fleet; CN: 航空战队 JP: 航空戦隊",
+  "skill2Description": "Reduces airstrike reload time by 5% (25%) and adds additional Lvl 1 (10) Suisei bombers for the first 2 airstrikes. If sortied with any CVs/CVLs, effect is applied to all of own airstrikes.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2c/Ise.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png",
+      "shipDescription": [
+        "伊势级战列舰一番舰—伊势",
+        "伊勢型戦艦一番艦・伊勢",
+        "First ship of the Ise-class battleships, Ise."
+      ],
+      "selfIntroduction": [
+        "伊势级战列舰一号舰伊势。在奇袭珍珠港中进行外围警备，随后……改装为航空战舰又改了回来，然后……嘁！同样大小的版面，有些船的战绩按时间表排列都塞不下，我们姐妹的却——说到底，没赶得上战争还不是因为大家都不等我们！明明我们也是超弩级战舰啊！唉——总而言之，这一次，能跟得上大部队真是太好啦！大概……",
+        "伊勢型戦艦一番艦伊勢。真珠湾の時は警備任務をやって、その後航空戦艦に改装された……ま、あたしたち超弩級戦艦姉妹は時代を先取りしすぎて、戦争には間に合わなかったんだ。とにかく、今回なら間に合うはずだ！多分ね……",
+        "Ise, first ship of the Ise-class battleships! I was on perimeter guard when Pearl Harbor was attacked. I was then recalled and remodeled as an aviation battleship. Then I was recalled again... Tsk! Some ships have a long list of battles, but no one was patient enough to wait for me to join in! We're super dreadnought ships... You would think they'd want our help! *Sigh* Anyways, it's great to finally catch up with the main fleet!"
+      ],
+      "acquisition": [
+        "我正是进行了重樱海军最后一次战列舰主炮齐射的——伊势级战列舰伊势号！",
+        "あたしはかつて重桜では最後に主砲を撃った――伊勢型戦艦、伊勢だ！",
+        "I'm the Sakura Empire battleship who fired the last full volley during the war: Ise-Class battleship, Ise!"
+      ],
+      "login": [
+        "去哪里的海上大闹一场吧，指挥官！",
+        "指揮官、海に出てドンパチやろうぜ！",
+        "Let's go have a swell time on the seas, Commander!"
+      ],
+      "details": [
+        "指挥官，我来教你弹幕射击法吧！",
+        "指揮官、弾幕の撒き方を教えてやろうか？",
+        "Commander, allow me to show you what real bullet hell looks like!"
+      ],
+      "secretaryIdle1": [
+        "没有石油也不要紧，出击的时候只要带满满汉全席就好啦！",
+        "燃料がなくても、出撃時にフルコースだけもってりゃ大丈夫よ！",
+        "We're fine without fuel. All you need out on the seas is some good food and booze!"
+      ],
+      "secretaryIdle2": [
+        "呜哇，到底该怎么称呼扶桑…… 姐姐？前辈？",
+        "はぁ、扶桑さんはどう呼べばいいだろ……姉貴？先輩？",
+        "What should I call Fusou? Big sister? Senpai?"
+      ],
+      "secretaryIdle3": [
+        "伊势神宫？嘿嘿，我远远地眺望过喔，不过大家都不让我进去……",
+        "イセジングウ？遠くからは見たことあるけど、入れなかったな…",
+        "Ise Shrine? I've seen it from a distance, but they won't let me go in..."
+      ],
+      "secretaryTouch": [
+        "咦？航空战舰不是飞在天上的战舰！？",
+        "何？航空戦艦って空を飛ぶ戦艦ではないのか！？",
+        "What? W-What do you mean an aviation battleship can't fly? Lame!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，你想体验下飞翔的感觉吗？不要客气～爬进我的炮管就好～",
+        "指揮官は空を飛びたいのかい？ああ遠慮すんなってーこの主砲の中に入りゃ大丈夫さ～！",
+        "Commander, you really want to know what it feels like to fly, don't you? Please feel free to climb into my cannon."
+      ],
+      "task": [
+        "我、我也要去！等等我啊！",
+        "あ！あたしも行く！ちょっと待ってよ！",
+        "I... I'm coming too! Wait for me!"
+      ],
+      "taskComplete": [
+        "呼哇——啤酒与生鸡蛋是解乏的不二选择！指挥官也来一点？",
+        "ぷはー！やっぱ焼酎はロックだよな！指揮官も一杯、どうだ？",
+        "Mmhmmm~! All I need is a beer and a raw egg to wake up. Do you want some too?"
+      ],
+      "mail": [
+        "哇——我正缺个垫桌角的东西！",
+        "おお！ちょうど机を支えるものが欲しいところだ！",
+        "Whoo! Just the thing to prop up the corner of the table!"
+      ],
+      "returnFromMission": [
+        "嘁……我还没玩——咳，指挥官，我一直有在好好地警备后方喔",
+        "ちっ……まだサボり足りーーコホン、指揮官、母港警備はちゃんとやってんだぜ",
+        "Tsk... I haven't had a chance to play- Ahem... Commander, I've been guarding our rear just as you asked!"
+      ],
+      "commission": [
+        "北号作战可比这漂亮多了！",
+        "北号作戦はこんなもんじゃないぜ！",
+        "Operation Kita was more fun that this!"
+      ],
+      "strengthening": [
+        "航空甲板呢……我也想飞到天上——",
+        "航空甲板か……あたしも空飛びたいなーー",
+        "A flight deck, eh? I wish I could fly..."
+      ],
+      "startingMission": [
+        "终于轮到我大吵大闹了！",
+        "ようやくあたしが暴れる番だ！",
+        "Finally! My turn to make some noise."
+      ],
+      "mvp": [
+        "哈哈，我可是超弩级战舰！",
+        "ははは！あたしは超弩級戦艦だからな！",
+        "Ahaha! As a super dreadnought, it's only natural!"
+      ],
+      "defeat": [
+        "最后的……主炮……齐射——",
+        "最後の……主砲…斉射ーー",
+        "One... final... bombardment!"
+      ],
+      "skillActivation": [
+        "超弩级战舰——主炮齐射！",
+        "超弩級戦艦ーー主砲、撃てー！",
+        "Super dreadnoughts... open fire!!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "你是陆军吗！？",
+        "お前は陸のモンか！？",
+        "Are you from the Army?"
+      ],
+      "affinityStranger": [
+        "能再次和日向一起看星星，真的很棒呢！",
+        "また一緒に日向と夜空が見れて、本当によかった……",
+        "It'd be wonderful to be able to go stargazing with Hyuuga again."
+      ],
+      "affinityFriendly": [
+        "比起那时候，现在的娱乐生活可是丰富多了～指挥官，干杯！",
+        "あの時と比べりゃ今は楽しめるもんが本当に多いよな～指揮官、カンパイ！",
+        "Compared to that time, life is a lot more vivid and entertaining now. Cheers, Commander!"
+      ],
+      "affinityLike": [
+        "指挥官～我去拿点下酒菜，今天晚上也小酌一杯吧！",
+        "指揮官、つまみを持ってくるから、今日もちょいとお酒に付き合えー！",
+        "Commander, I brought some snacks. Why don't we have some drinks tonight?"
+      ],
+      "affinityLove": [
+        "明明比我强大的同僚要多少有多少，指挥官你却——你真是个笨蛋！哈哈，我也是个笨蛋～干杯！",
+        "あたしより強ぇ艦はいくらでもいるのに、指揮官、あんたーーやっぱバカだよな！ははは！あたしもバカだから、カンパイしようぜ！",
+        "I could have any number of friends stronger than me, but you Commander... Ahaha! You're an idiot, I'm an idiot! Cheers~!"
+      ],
+      "pledge": [
+        "谢谢你！作为回报，直到最后的最后，都请让我站在你的身前吧！哈哈～因为我——最讨厌一个人喝酒了～",
+        "ありがとう！じゃあずっとお前と一緒でいいよな！ははは！まあ酒はやっぱりーー二人で飲むほうが美味いからな！",
+        "Thank you~! I'm going to stay by your side until the end of the end. Why? Because I hate drinking alone!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "ほら、バレンタインのチョコだぜ！あっ、これは結構高いから今夜の飲み代は持ってくれるかい？アハハハ！冗談だって！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "ほら、バレンタインチョコ…じゃなくて酒保のチケットだ！今夜は日向も連れてバーンっとやろうぜ！あははは！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "My wine-filled chocolate have a special flavor to them... It's not enough to get you drunk, but it'll get you through the day at least! Ahahaha!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Ise_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Ise_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Ise_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Ise_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Ise_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Ise_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Ise_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Ise_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Ise_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Ise_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Ise_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Ise_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Ise_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Ise_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Ise_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Ise_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Ise_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Ise_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Ise_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Ise_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Ise_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Ise_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Ise_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Ise_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Ise_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Ise_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Ise_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Ise_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Ise_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Ise_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Ise_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Ise_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Ise_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Ise_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Ise_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Ise_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Ise_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Ise_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Ise_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ise_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ise_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Ise_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Ise_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Ise_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Ise_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Ise_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Ise_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Ise_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Ise_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Ise_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Ise_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ise_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ise_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ise_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Ise_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Ise_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Ise_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ise_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ise_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Ise_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Ise_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Ise_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Ise_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Ise_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Ise_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Ise_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Ise_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Ise_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Ise_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Ise_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Ise_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Ise_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Ise_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Ise_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Ise_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/59/IseKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/26/IseKaiChibi.png",
+      "shipDescription": [
+        "舰载机就位，主炮准备！现在的我可是势不可挡！马上出击吧，指挥官～我已经迫不及待想要大闹一场了！",
+        "艦載機よーい、主砲よーい！いまのあたしは誰にも止められないぜ！指揮官、早く出撃しな！戦場で大暴れしたくてしょうがないのさ！",
+        "Planes: check! Main guns: check! Nobody can stop me now! Let's sortie right now, Commander! I'm fired up and wanna wreak some havoc on the battlefield!"
+      ],
+      "acquisition": [
+        "舰载机就位，主炮准备！现在的我可是势不可挡！马上出击吧，指挥官～我已经迫不及待想要大闹一场了！",
+        "艦載機よーい、主砲よーい！いまのあたしは誰にも止められないぜ！指揮官、早く出撃しな！戦場で大暴れしたくてしょうがないのさ！",
+        "Planes: check! Main guns: check! Nobody can stop me now! Let's sortie right now, Commander! I'm fired up and wanna wreak some havoc on the battlefield!"
+      ],
+      "login": [
+        "指挥官，一直待在这里的话，我的主炮可是会生锈的！",
+        "指揮官、ずっと母港にこもっちゃ主砲が錆びついちまうぜ",
+        "Commander, my guns are gonna rust up if you keep me in port forever."
+      ],
+      "secretaryIdle1": [
+        "唔……果然航空战舰不会飞啊，有点遗憾呢……",
+        "くっ、やっぱり航空戦艦は飛ばんか。少しがっかりだ……",
+        "Damn... Guess aviation battleships can't fly, after all. Kinda let down, honestly..."
+      ],
+      "secretaryIdle2": [
+        "诶？港区内不能随意起飞舰载机吗？为什么啊！",
+        "え？母港では勝手に艦載機を飛ばせないだと？どうしてよ！",
+        "What? I can't let my aircraft fly around the port whenever I want? Why not?!"
+      ],
+      "secretaryIdle3": [
+        "嗯，今天也是个好天气呢！晚点叫上日向一起来小酌几杯吧，指挥官！",
+        "ふぅ…今日も良い天気だ！上がったら日向でも呼んで何杯か飲みにいかないか？なあ指揮官！",
+        "Phew... What a nice day! Maybe I'll call over Hyuuga later so we can all go for some drinks. Whaddya say, Commander?"
+      ],
+      "secretaryTouch": [
+        "你也对航空甲板感兴趣吗？",
+        "航空甲板に興味あるか？",
+        "You interested in my flight deck?"
+      ],
+      "secretarySpecialTouch": [
+        "虽然航空战舰不会飞，不过指挥官想飞的话我可以帮忙呢~",
+        "航空戦艦は飛べないけど、指揮官が飛びたいなら手伝うぜ",
+        "Aviation battleships can't fly, but if you want me to send you flying, then I'll grant your wish."
+      ],
+      "returnFromMission": [
+        "后方警戒？那些交给飞机们就好了啦。嘿嘿，真是方便呢~",
+        "後方警戒？艦載機たちに任せりゃ問題ないさ。いやぁ便利なもんだ～",
+        "Keep an eye out? My aircraft can do that, easy peasy. I tell ya, these beauts are really handy~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Ise_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Ise_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Ise_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Ise_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Ise_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Ise_LogSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Ise_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Ise_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Ise_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Ise_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Ise_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Ise_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Ise_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Ise_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Ise_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Ise_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Ise_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Ise_Sec1Skin9JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Ise_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Ise_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Ise_Sec2Skin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Ise_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Ise_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Ise_MissionFinSkin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +100 ",
+      "materials": "2x BattleshipT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Hit Enhancement Ⅰ",
+      "attributes": "Accuracy +5 ",
+      "materials": "2x BattleshipT1BP ",
+      "coinCost": 300,
+      "levelRequired": 10,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x BattleshipT1BP ",
+      "coinCost": 400,
+      "levelRequired": 30,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅱ",
+      "attributes": "Anti-air +15 / Anti-air +25 ",
+      "materials": "2 / 2x BattleshipT1BP ",
+      "coinCost": 500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Modernization",
+      "attributes": "Change Ship Type into Aviation battleship (BBV) Category:Aviation battleships<br>Firepower - 9, Reload - 6, Anti-air + 47, Aviation + 166<br>Main Gun Efficiency +25%, Main Gun Mount Firepower -1<br>Equipment Slot 2 changes into Airplane Slot (can be equipped with Seaplanes and Air Attack becomes available)<br>Equip 2 Efficiency -20% ",
+      "materials": "5x BattleshipT3BP and 80x PlaneT3Plate ",
+      "coinCost": 10000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x BattleshipT1BP ",
+      "coinCost": 600,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "4x BattleshipT1BP ",
+      "coinCost": 800,
+      "levelRequired": 80,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "F"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Anti-Air Gun Improvement Ⅱ",
+      "attributes": "Equip 3 Efficiency +5.0% / Equip 3 Efficiency +5.0% ",
+      "materials": "2 / 2x BattleshipT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "F"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Anti-Air Enhancement Ⅱ",
+      "attributes": "Anti-air +15 / Anti-air +25 ",
+      "materials": "2 / 2x BattleshipT2BP ",
+      "coinCost": 1400,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "H"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% / Equip 1 Efficiency +5.0% ",
+      "materials": "2 / 2x BattleshipT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "H",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Aviation Battleship Fleet\" ",
+      "materials": "2x CarrierT3BP ",
+      "coinCost": 1600,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "J"
+      ]
+    }
+  ]
+}

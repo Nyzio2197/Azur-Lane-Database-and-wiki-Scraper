@@ -1,0 +1,742 @@
+{
+  "name": "Furutaka",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Normal",
+  "shipClass": "Furutaka",
+  "ID": "190",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": true,
+  "artist": "kisetsu",
+  "pixiv": "https://www.pixiv.net/member.php?id=317823",
+  "twitter": "https://twitter.com/kisetsu2010",
+  "link": "https://weibo.com/kisetsu2010",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/d/dd/Furutaka_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      3439,
+      163,
+      34,
+      215,
+      190,
+      75,
+      31,
+      161,
+      0,
+      9,
+      111,
+      0,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3719,
+      168,
+      34,
+      245,
+      235,
+      75,
+      31,
+      176,
+      0,
+      9,
+      111,
+      0,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      3323,
+      147,
+      34,
+      217,
+      210,
+      33,
+      31,
+      155,
+      0,
+      9,
+      99,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3043,
+      142,
+      34,
+      187,
+      165,
+      33,
+      31,
+      140,
+      0,
+      9,
+      99,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      589,
+      60,
+      34,
+      40,
+      35,
+      13,
+      31,
+      30,
+      0,
+      2,
+      38,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "120% → 125% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 170% → 180%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100% → 105%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 11,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    22,
+    12,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill2Name": "(Retrofit) Double Torpedo; CN: 鱼雷连射 JP: 次発装填",
+  "skill2Description": "When launching a wave of torpedoes: 15% (30%) chance to launch another wave.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-古鷹型",
+  "skill3Description": "Every 9 (6) shots from the main guns, triggers Full Barrage - Furutaka Class I(II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/75/Furutaka.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/db/FurutakaChibi.png",
+      "shipDescription": [
+        "古鹰级重巡洋舰一番舰—古鹰",
+        "古鷹型重巡洋艦一番艦・古鷹",
+        "First ship of the Furutaka-class heavy cruisers, Furutaka."
+      ],
+      "selfIntroduction": [
+        "古鹰型重型……总之是古鹰就对了！别看我这样，我也在第一次所罗门海战里出了力的，还在后来帮了青叶妹妹！虽然最后冲过头导致自己回不来了就是了……嘿嘿……",
+        "古鷹型重巡……まあ古鷹でいいよ！こう見ても第一次ソロモン海戦で結構頑張ったよ！それと、青葉ちゃんとは長い間一緒に頑張ったよ。まあうっかり突っ走りすぎてつい戻れなくなっちゃって……えへへ……",
+        "I'm the Furutaka-class heavy... Err, just call me Furutaka! I may not look it, but I participated in the First Battle of the Solomon Sea! I also helped my sister Aoba out a lot! In the end though, I rushed too far ahead and didn't make it back myself... Ehehe..."
+      ],
+      "acquisition": [
+        "哎不好意思，撞到你了……咦难道你是指挥官？！呃，古鹰级一号舰古鹰，向您报到！刚刚的事就请忘了吧，欸嘿",
+        "あごめん、ぶつかっちゃった……ええ！？あなたが指揮官？！ふ、古鷹型一番艦古鷹、ただいま着任しました！（小声）今の忘れてね？えへへ~",
+        "Ah! Sorry for bumping into you... Huh? You're the Commander?! F-Furutaka, first ship of the Furutaka class, reporting for duty! Can you please forget what just happened? Ehehe..."
+      ],
+      "login": [
+        "指挥官……你开门的时候小心一点嘛……",
+        "指揮官……扉を開ける時は気をつけてよ……",
+        "Commander, please be more careful when you open the door..."
+      ],
+      "details": [
+        "有点无聊……",
+        "ちょっと退屈……",
+        "I'm a bit bored..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，加古那不是讨厌你哦，你不要太介意",
+        "指揮官、加古は別に指揮官のことを嫌ってるわけじゃないから、あんま気にしないでね",
+        "Commander, Kako doesn't really hate you, so don't take it too personally."
+      ],
+      "secretaryIdle2": [
+        "欸……反正我是笨蛋，会议这种事就交给加古吧",
+        "え……私馬鹿なんだから、会議やるなら加古としてよ~",
+        "Um... because I'm not very smart, maybe Kako should take my place at meetings instead..."
+      ],
+      "secretaryIdle3": [
+        "哎呀好疼……啊没事没事，刚刚打瞌睡碰到头了……",
+        "あいてて……ああ平気平気、いま寝落ちしちゃって頭ぶつけただけだよ……",
+        "Ouch...! Ahh, I'm fine... I just nodded off and bumped my head."
+      ],
+      "secretaryTouch": [
+        "怎么啦？",
+        "どうした？",
+        "What's up?"
+      ],
+      "secretarySpecialTouch": [
+        "没想到指挥官会对我有兴趣……其实有点开心~",
+        "まさか指揮官があたしに興味を持っているなんて……正直ちょっとうれしいなぁ~",
+        "I never thought you'd take an interest in me, Commander... Frankly, I'm a bit happy~"
+      ],
+      "task": [
+        "新的任务啊，感觉有点难欸",
+        "新しい任務か~なんか難しそうだな~",
+        "A new mission, huh? Seems like it might be a bit tricky."
+      ],
+      "taskComplete": [
+        "刚刚去拿任务奖励的时候磕了一下，好疼……",
+        "ボーナスを取りに行った時にぶつけちゃって、いててて…",
+        "I bumped into something while getting the rewards... Oww..."
+      ],
+      "mail": [
+        "抱歉指挥官，路上摔了一跤把信件压皱了……",
+        "指揮官ごめん…途中で転んじゃってメールがよれよれになっちゃった…",
+        "Sorry, Commander... I tripped and fell while getting the mail and now it's all wrinkled..."
+      ],
+      "returnFromMission": [
+        "指挥官，我又摔了一跤，有没有止痛膏啊？",
+        "指揮官、ついさっきまた転んじゃったんだけど、どっかに絆創膏無い？",
+        "Commander, I tripped again... Do you have a band-aid somewhere?"
+      ],
+      "commission": [
+        "指挥官！哎呀好疼！没事没事，我就是想说有委托完成啦",
+        "指揮官！（転ぶ）あいたっ！あ、大丈夫、委託が完了したって報告しようとしたんだよ",
+        "Commander! Ah... that hurts! I'm fine... I just wanted to tell you that commissions have been completed."
+      ],
+      "strengthening": [
+        "谢谢指挥官！",
+        "指揮官、サンキューな！",
+        "Thanks, Commander!"
+      ],
+      "startingMission": [
+        "战斗可要好好表现！",
+        "戦闘はちゃんとやってみせるからね！",
+        "I have to do well in this battle!"
+      ],
+      "mvp": [
+        "咦，我是第一吗？",
+        "え？あたしが一位？？",
+        "Eh? I'm the MVP?"
+      ],
+      "defeat": [
+        "输了吗，真可惜……",
+        "負けたか…残念……",
+        "We lost... Too bad..."
+      ],
+      "skillActivation": [
+        "好，要冲了！",
+        "よーし、行くぞ！",
+        "All right, here I come!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "（古鹰从你身边毫无停顿地跑了过去）",
+        "（古鷹はスルーしたかのようにあなたの隣をそのまま素通りした）",
+        "(Furutaka ignores you as she passes by)"
+      ],
+      "affinityStranger": [
+        "加古总是以重巡的楷模要求自己，所以渐渐地就只会那样子说话了，其实平时很温柔的！",
+        "加古はいつも自分が重巡の模範だと気を張ってるからああなっちゃったけど、普段は本当にやさしいんだよ！",
+        "Kako acts like that because she holds herself as the role model for heavy cruisers, but she's actually very gentle."
+      ],
+      "affinityFriendly": [
+        "指挥官~哎呀！……嘿嘿，谢谢，差点又摔倒了，我其实还挺在乎自己冒失这个属性的，不过来到舰队后过的太高兴就不小心懈怠了",
+        "指揮官～あいたっ！……へへ、サンキュー、また転んじゃった…実はドジをしないよう気をつけているんだけど、ここは楽しすぎて、つい気が緩んじゃってさ",
+        "Commander~ Oww! ...Ehehe... Thanks, I almost fell again. I'm trying to pay more attention so that I don't trip as much, but I was so happy that I let my guard down."
+      ],
+      "affinityLike": [
+        "嗯……能和加古生活在一起，还能和三川和第六战队的姐妹们见面，我就很开心了。是指挥官帮我实现的这个梦想，所以你要我做什么我都答应！",
+        "うん……加古と一緒に暮らして、三川艦隊と第六戦隊のみんなにいつでも会えたら嬉しいなあって夢見てたんだ。指揮官がこの夢を叶えてくれた。だから、指揮官のためなら何でもしてあげるよ！",
+        "Yeah... Being able to live with Kako and seeing my sisters from the Mikawa and 6th Fleet was always a dream of mine. Commander, you've made my dream come true. That's why... I'll do anything for you!"
+      ],
+      "affinityLove": [
+        "指挥官喜欢的话……我当然不介意，不过恋爱的事我不太懂，毕竟一次也没体验过……你能教我吗？",
+        "指揮官がいいならあたしは別に構わないよ？けどあたし、恋愛とかわからないし、したこともないしさ……教えてくれるよね？",
+        "If you're okay with this... then I don't mind, Commander. But... I've never been in a relationship before, so I don't know what it's like. Can you teach me?"
+      ],
+      "pledge": [
+        "怎么说呢，这种感觉……是头一次……和指挥官一起的话，将来我也会体验到更多的这种感觉吧，好期待啊",
+        "なんだかなーこの感じ……初めてだ……指揮官と一緒ならもっともっと一杯感じられるよね？楽しみ！",
+        "I've never felt like this in my life before... But as long as I'm with you, I'll be able to feel this way more and more, right? I can't wait!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、バレンタインです。まさか私にもチョコを渡す時が来るとはね…ううん、むしろ私が贈りたいの。はい、どうぞ。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你情人节巧克力。做这个比想象得麻烦多了……做着坐做加古就说“看不下去了”，然后替我做完了。所以不能算是我亲手制作的吧……",
+        "指揮官、はい、バレンタインチョコ。これ作るの思った以上に面倒だよ…途中から加古が「もう見てられません」って代わりに作っちゃったけど、私の手作りチョコって言えないよね、これ…",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "This chocolate is... Ahahaha! I should've known it would turn out like this if Kako didn't help... If you don't mind too much, Commander... W- would you still take it?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Furutaka_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Furutaka_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Furutaka_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Furutaka_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Furutaka_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Furutaka_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Furutaka_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Furutaka_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Furutaka_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Furutaka_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Furutaka_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Furutaka_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Furutaka_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Furutaka_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Furutaka_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Furutaka_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Furutaka_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Furutaka_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Furutaka_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Furutaka_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Furutaka_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Furutaka_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Furutaka_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Furutaka_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Furutaka_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Furutaka_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Furutaka_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Furutaka_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Furutaka_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Furutaka_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Furutaka_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Furutaka_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Furutaka_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Furutaka_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Furutaka_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Furutaka_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Furutaka_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Furutaka_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Furutaka_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Furutaka_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Furutaka_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Furutaka_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Furutaka_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Furutaka_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Furutaka_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Furutaka_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Furutaka_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Furutaka_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Furutaka_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Furutaka_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Furutaka_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Furutaka_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Furutaka_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Furutaka_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Furutaka_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Furutaka_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Furutaka_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Furutaka_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Furutaka_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Furutaka_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Furutaka_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Furutaka_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Furutaka_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Furutaka_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Furutaka_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Furutaka_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Furutaka_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Furutaka_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Furutaka_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Furutaka_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Furutaka_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Furutaka_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Furutaka_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Furutaka_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Furutaka_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/00/FurutakaKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png",
+      "shipDescription": [
+        "怎么了指挥官，这么看着我……身材？啊确实各种地方都变大了耶……你要看看吗？",
+        "どうした指揮官、そんなに見つめて……スタイル？あー、確かに色んなところが大きくなったね……確かめてみる？",
+        "What's wrong, Commander? Why are you staring at me like that? My body? Yes, some things seem to have gotten bigger... Want to take a look?"
+      ],
+      "acquisition": [
+        "怎么了指挥官，这么看着我……身材？啊确实各种地方都变大了耶……你要看看吗？",
+        "どうした指揮官、そんなに見つめて……スタイル？あー、確かに色んなところが大きくなったね……確かめてみる？",
+        "What's wrong, Commander? Why are you staring at me like that? My body? Yes, some things seem to have gotten bigger... Want to take a look?"
+      ],
+      "login": [
+        "指挥官，休息的好吗？我的话，嗯……哈……睡的很好哦",
+        "指揮官、よく休めたか？あたし？うーん…はぁ……よく寝たよ",
+        "Commander, did you have a good rest? Me? Umm... I slept very well."
+      ],
+      "secretaryIdle1": [
+        "无论是过去现在，我都是古鹰哦，指挥官",
+        "指揮官、あたしはずっと古鷹だよ。今でも昔でも",
+        "I might have changed, but I'm still the same Furutaka, Commander!"
+      ],
+      "secretaryIdle2": [
+        "呀！唔，瞌睡不小心碰到头了……嗯……换个姿势好了",
+        "きゃ！いてて、寝ぼけて頭ぶつかっちゃったよ…うう……もう向きを変えよう",
+        "Ouch! Ah... I just bumped my head again..."
+      ],
+      "secretaryIdle3": [
+        "感觉头发有点乱乱的，去问加古学一下怎么扎头发好了……",
+        "髪の毛、よくボサボサになっちゃうな…加古に結び方を聞いてみようか…",
+        "My hair feels a bit messy... maybe Kako can teach me how to tie it up."
+      ],
+      "secretaryTouch": [
+        "指挥官，要一起小睡会儿吗？",
+        "指揮官、一緒にお昼寝でもする？",
+        "Commander~! Want to take a nap together?"
+      ],
+      "secretarySpecialTouch": [
+        "既然指挥官这么喜欢我……可以哦",
+        "そんなにあたしのことが好きなら……いいよ？",
+        "Since you like me so much... I suppose it's okay~"
+      ],
+      "commission": [
+        "天气不错，感觉能睡会儿……嗯？指挥官，完成委托的姐妹们回来了哦",
+        "いい天気だしちょっと眠っても……うん？指揮官、委託を終えた子たちが帰ってきたよ",
+        "It sure is nice weather, isn't it? I feel like taking a nap. Oh? The girls are back from commission~!"
+      ],
+      "startingMission": [
+        "现在我可比以前要强多了哦",
+        "今のあたしは前より強くなったからね！",
+        "I'm much stronger than before!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Aoba) 青叶，不要自责了，没事的",
+        "(Sortie with Aoba) 青葉、そんなに自分を責めなくてもいいよ。大丈夫",
+        "(Sortie with Aoba) Don't blame yourself, Aoba! It's fine."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Furutaka_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Furutaka_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Furutaka_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Furutaka_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Furutaka_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Furutaka_LogSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Furutaka_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Furutaka_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Furutaka_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Furutaka_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Furutaka_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Furutaka_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Furutaka_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Furutaka_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Furutaka_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Furutaka_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Furutaka_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Furutaka_Sec1Skin9JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Furutaka_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Furutaka_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Furutaka_Sec2Skin9JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Furutaka_CommissionSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Furutaka_CommissionSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Furutaka_CommissionSkin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Furutaka_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Furutaka_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Furutaka_MissionStartSkin9JP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Furutaka_Extra1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Furutaka_Extra1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Furutaka_Extra1Skin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +80 ",
+      "materials": "1x CruiserT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 300,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 500,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +80 / Health +120 ",
+      "materials": "1 / 1x CruiserT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Double Torpedo\" ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Torpedo Improvement Ⅱ",
+      "attributes": "Equip 2 Efficiency +5.0% / Equip 2 Efficiency +5.0% ",
+      "materials": "1 / 2x CruiserT2BP ",
+      "coinCost": 1400,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Torpedo Enhancement Ⅱ",
+      "attributes": "Torpedo +5 / Torpedo +15 ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 1600,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "F",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +20, Torpedo +25 ",
+      "materials": "6x CruiserT2BP and 1x Furutaka or Universal Bulin ",
+      "coinCost": 2000,
+      "levelRequired": 80,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

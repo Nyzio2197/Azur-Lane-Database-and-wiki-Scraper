@@ -1,0 +1,444 @@
+{
+  "name": "Roon µ",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Roon",
+  "ID": "479",
+  "faction": "Iron Blood",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "voiceActor": "https://en.wikipedia.org/wiki/Satomi_Sat%C5%8D",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6055,
+      171,
+      0,
+      283,
+      215,
+      78,
+      26,
+      233,
+      0,
+      12,
+      125,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5382,
+      149,
+      0,
+      248,
+      187,
+      38,
+      26,
+      202,
+      0,
+      12,
+      112,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1041,
+      63,
+      0,
+      53,
+      40,
+      15,
+      26,
+      43,
+      0,
+      4,
+      43,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "120% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "100% → 110%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 110%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    29,
+    13,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Unlock EX Barrage Ⅰ/All weapons' efficiency +2%",
+  "limitBreak2": "Main gun base +1/All weapons' efficiency +3%",
+  "limitBreak3": "Improve EX Barrage/All weapons' efficiency +5%",
+  "skill1Name": "Encore Flare; CN: 破灭的Encore JP: ファイエル・アンコールμ",
+  "skill1Description": "Every 15s after the start of the battle: fires a Lv.1 (Lv.10) Muse barrage that increases DMG taken by 10.0% for 6s to all enemies hit; if only 1 enemy is hit then their Speed is also set to 0 for 3s and this ship fires an additional torpedo barrage (DMG is based on the skill's level).",
+  "skill2Name": "Bilateral Accompaniment; CN: 环绕的Melody JP: デュアル・アカンパニメント",
+  "skill2Description": "At the start of the battle and every 30s after that: deploys 2 shields that last for 5 (15)s; the blue shield can block up to 8 enemy shells, the red shield causes DMG upon contact with an enemy up to 8 times.",
+  "skill3Name": "All Out Assault Ⅱ; CN: 专属弹幕-罗恩(μ兵装)II JP: 特殊弾幕-ローン（μ兵装）II",
+  "skill3Description": "Activates All Out Assault Ⅱ: Roon μ once every 8 times the Main Guns are fired.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "重巡罗恩，以兵装实验任务为契机，偶像活动绝赞进行中。这次大家不是以枪炮，而是以歌声作为武器战斗了呢。",
+        "重巡洋艦ローン、兵装実験任務並びに、アイドルカツドウに参加中です。今度は銃と大砲ではなく、歌の力で戦いましょうね",
+        "Heavy cruiser Roon, reporting for idol activities and associated experimental equipment testing. Today, we fight not with fire and sword, but with the power of song."
+      ],
+      "selfIntroduction": [
+        "铁血巡洋舰罗恩，现在装备的并非通常的舰装，而是特殊的“μ兵装”。虽然说是“特殊”，但终归是为了战斗而生之物，果然还是很期待用这个弄坏点什么呢~指挥官，请多指教了~",
+        "鉄血所属、巡洋艦のローンです。今は通常の艤装ではなく、特殊兵装を装備しています。特殊…と言っても戦うためのものですし、ぜひこれで色々壊したりしてみたいと思います。指揮官、よろしくお願いします",
+        "I am Iron Blood Cruiser Roon. I'm currently equipped with special \"Muse System\" rather than my usual loadout. It's definitely \"special,\" but it is combat ready, and I can't wait to tear something apart with it. Thank you for this, Commander."
+      ],
+      "acquisition": [
+        "重巡罗恩，以兵装实验任务为契机，偶像活动绝赞进行中。这次大家不是以枪炮，而是以歌声作为武器战斗了呢。",
+        "重巡洋艦ローン、兵装実験任務並びに、アイドルカツドウに参加中です。今度は銃と大砲ではなく、歌の力で戦いましょうね",
+        "Heavy cruiser Roon, reporting for idol activities and associated experimental equipment testing. Today, we fight not with fire and sword, but with the power of song."
+      ],
+      "login": [
+        "指挥官，今天做点什么好？请指示——",
+        "指揮官、今日は何から始めればいいですか？指示をお願いします",
+        "Commander, what am I doing today? Orders please."
+      ],
+      "details": [
+        "虽然大家一起进行偶像活动是挺有意思的，不过…是不是有点忽略了兵装实验的事情？嗯…不要太在意细节比较好？",
+        "みんなはアイドルカツドウを楽しんでいますけど、兵装のことをちょっと忘れていませんか？あまり気にしないほうがいいですか…？",
+        "Everyone is enjoying these idol activities, but aren't you forgetting about our weapons? I shouldn't worry about them...?"
+      ],
+      "secretaryIdle1": [
+        "像这样用歌声治愈同伴，也以歌的力量消灭敌人…呵呵呵，还是挺简单明快的嘛。",
+        "歌の力はこうして皆を癒やすこともできますが、歌の力で敵を壊すんですよね。ふふふ、バッチリ分かっていますよ",
+        "First I heal everyone with my soothing song, then I shred them with its power. Hehehe, I know how it works."
+      ],
+      "secretaryIdle2": [
+        "重樱的那位，该说是内心纤细呢，还是抗打击力弱呢……该怎么跟她相处比较好呢？",
+        "重桜のあの子、繊細というか、少し打たれ弱いというか……どうしてあげたらいいんでしょう？",
+        "That Sakura girl, she's fragile; she can't take many hits... What can I do to help her?"
+      ],
+      "secretaryIdle3": [
+        "唱歌要投入真心对吧…虽然不是很擅长，但是我会加油的~",
+        "歌は真心を込めてっていいますよね…あまり得意ではありませんけど、がんばりますよ～",
+        "I must pour my heart into my song... I may not be very good, but I'll try my best."
+      ],
+      "secretaryTouch": [
+        "想要抱抱吗？随时都可以哦~",
+        "ハグしたくなったのですか？はい、いつでもどうぞ～",
+        "You want a hug? Sure, any time~"
+      ],
+      "secretarySpecialTouch": [
+        "一会再来好好地进行一番“亲密接触”吧，指挥官~",
+        "あとでじっくりスキンシップを楽しみましょうね～",
+        "Let's enjoy some \"intimacy\" a little later~"
+      ],
+      "secretaryHeadpat": [
+        "摸摸头~是吗~？",
+        "頭ポンポン、ですね～",
+        "Headpats, is it~?"
+      ],
+      "task": [
+        "有任务？好的~请务必带上我一起参加~",
+        "作戦任務ですか？はーい、ぜひ参加してみたいですね～",
+        "A combat mission? Yes! I'd love to join~"
+      ],
+      "taskComplete": [
+        "很努力接通告了呢~指挥官真棒~",
+        "オファーも頑張りましたね～指揮官、偉いですよ～",
+        "You've been working just as hard as me. Good job, Commander~"
+      ],
+      "mail": [
+        "来邮件了哦~不知道是说什么的呢？",
+        "メールですよ～どんな内容でしょう？",
+        "You've got mail~ I wonder what's inside?"
+      ],
+      "returnFromMission": [
+        "作战辛苦了。作为平时练习时提供慰问品的回报，我也给指挥官做了一些吃的，请用吧~",
+        "お疲れ様です。いつもレッスンのときに差し入れをくださるお礼に、私も軽食を用意しました。どうぞ～",
+        "Well fought. I got you a little something to eat, just as a way of saying thanks for all the training~"
+      ],
+      "commission": [
+        "委托组的孩子们回来了哦。指挥官要不要也像这样做做？让大家排好队一个个拥抱过去~",
+        "委託に出た子たちが戻ってきましたよ。指揮官もやってみませんか？こうして順番に皆とハグすることです～",
+        "The commission girls are back. Would you like to try, Commander? Line up for hugs, everyone~"
+      ],
+      "strengthening": [
+        "使用声音的兵器，好像也挺有意思的~",
+        "音を使う兵器にも興味がありますよ～",
+        "There is something intruiging about using sound as a weapon~"
+      ],
+      "startingMission": [
+        "竟然敢挡在我们面前？真是…不可原谅！",
+        "立ちはだかってくるのですか？ええ……許せない！！",
+        "You stand in our way...? Then you will suffer!"
+      ],
+      "mvp": [
+        "啊…情绪高涨起来了…果然只有把敌人粉身碎骨的时候，才最让人兴奋啊…！！",
+        "ああ…気持ちが昂りますね…敵を木っ端微塵に壊した時は…！！",
+        "Oooh this feeling... when I tear them to pieces...!"
+      ],
+      "defeat": [
+        "嗯…果然还是用普通的武器战斗比较好吗……",
+        "あらら、やっぱり普通の兵器で戦ったほうがいいでしょうか",
+        "Hm... I still think we should be fighting with conventional weapons."
+      ],
+      "skillActivation": [
+        "一群碍事的家伙…！！",
+        "邪魔者の分際で…！！",
+        "Get out of my way...!"
+      ],
+      "lowHP": [
+        "太碍事了……不可原谅！",
+        "邪魔したわね…許せないっ！！",
+        "You're in the way... and you will pay!"
+      ],
+      "affinityDisappointed": [
+        "指挥官也想成为“敌人”吗…？呵呵呵，哈哈哈哈哈……！！！",
+        "指揮官は「敵」をやってくださっているのですか…？ふふふ、ふふふふふ……！！！",
+        "Would you like to be my \"enemy,\" Commander...? Hehehe... hehehehehehe...!!!"
+      ],
+      "affinityStranger": [
+        "大家都在为了指挥官努力进行着偶像活动呢~我？我当然也是了~为了指挥官而展露微笑——呵呵呵♪",
+        "アイドル活動、みんな指揮官のために頑張っていますね～私？私もそうですよ～笑顔で楽しく、指揮官のために――ふふふ♪",
+        "Everyone is working so hard at this idol business, for your sake~ Me? Of course I am~ My smile and my joy, it's all for you, Commander... Hehehe♪"
+      ],
+      "affinityFriendly": [
+        "一直在搞偶像活动，总感觉内心某处有种莫名的空虚感…是不是因为战斗…不，应该说击沉敌人的机会变少了？",
+        "アイドル活動ばかりだと、なんだか心のどこかで虚しく感じますね。戦闘…いいえ、敵を沈める機会が減ったからでしょうか…",
+        "I feel a certain emptiness after working at this idol thing for a while... Maybe it's the combat... could it be because I can't sink as many as I used to...?"
+      ],
+      "affinityLike": [
+        "看到指挥官来演唱会为我们应援，就有种内心的缝隙被填上了的感觉…嗯…就好像指挥官的时间、生命…都用在了我身上…是这种感觉吧？",
+        "指揮官がライブを見てくれていることを知って、心の隙間が埋まった気がします。そうですね…指揮官の時間、命を私が使い潰している…そういう気分だからでしょうか？",
+        "Knowing that the Commander is watching me sing brings some fulfillment to my empty heart. Maybe... as you give me your time, you also give me your life... is that the feeling?"
+      ],
+      "affinityLove": [
+        "原本以为，在战场上把敌人消灭殆尽，是让心情愉悦最好的办法，不过，指挥官让我知晓了其他的享受方式…呵呵，居然把我改变到这个程度…不会轻易原谅你的哦，指挥官♡",
+        "気持ちを昂ぶらせたいときは敵を壊すのが一番だと思ってましたけど、指揮官はほかの方法も教えてくれました。ふふふ、まさか私を変えるなんて……本当に――許せないよね♡",
+        "I thought slaughtering my enemies was the only way to make me feel better, but you taught me another way, Commander. I never thought you'd be able to change me. You really must... pay for that♡"
+      ],
+      "pledge": [
+        "“如此美好之物，毁掉就太可惜了”——第一次意识到，自己的演唱会是这么棒的东西。我会在舞台上更加闪耀…不断夺走指挥官的时间、生命——直到永远♪呵呵呵~",
+        "「美しいのに、壊すのが勿体ないもの」――ライブがこんなに素晴らしいものだったなんて初めて知りました。私、もっとステージの上で輝いて指揮官の時間を奪っちゃいたい――尽きるまで、です♪フフフ…",
+        "\"Something too perfect and beautiful to destroy.\"――I never knew my concert could be so great. I want to perform more, to shine more, to take more and more of your time, Commander... until it runs out♪ Hehehe..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Roon_%C2%B5_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Roon_%C2%B5_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Roon_%C2%B5_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Roon_%C2%B5_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Roon_%C2%B5_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Roon_%C2%B5_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Roon_%C2%B5_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Roon_%C2%B5_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Roon_%C2%B5_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Roon_%C2%B5_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Roon_%C2%B5_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Roon_%C2%B5_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Roon_%C2%B5_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Roon_%C2%B5_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Roon_%C2%B5_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Roon_%C2%B5_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Roon_%C2%B5_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Roon_%C2%B5_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Roon_%C2%B5_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Roon_%C2%B5_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Roon_%C2%B5_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Roon_%C2%B5_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Roon_%C2%B5_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Roon_%C2%B5_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Roon_%C2%B5_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Roon_%C2%B5_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Roon_%C2%B5_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Roon_%C2%B5_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Roon_%C2%B5_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Roon_%C2%B5_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Roon_%C2%B5_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Roon_%C2%B5_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Roon_%C2%B5_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Roon_%C2%B5_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Roon_%C2%B5_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Roon_%C2%B5_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Roon_%C2%B5_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Roon_%C2%B5_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Roon_%C2%B5_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Roon_%C2%B5_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Roon_%C2%B5_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Roon_%C2%B5_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Roon_%C2%B5_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Roon_%C2%B5_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Roon_%C2%B5_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Roon_%C2%B5_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Roon_%C2%B5_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Roon_%C2%B5_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Roon_%C2%B5_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Roon_%C2%B5_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Roon_%C2%B5_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Roon_%C2%B5_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Roon_%C2%B5_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Roon_%C2%B5_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Roon_%C2%B5_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Roon_%C2%B5_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Roon_%C2%B5_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Roon_%C2%B5_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Roon_%C2%B5_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Roon_%C2%B5_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Roon_%C2%B5_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Roon_%C2%B5_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Roon_%C2%B5_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Roon_%C2%B5_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Roon_%C2%B5_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Roon_%C2%B5_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Roon_%C2%B5_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Roon_%C2%B5_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Roon_%C2%B5_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Roon_%C2%B5_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Roon_%C2%B5_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Roon_%C2%B5_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Roon_%C2%B5_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Roon_%C2%B5_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Roon_%C2%B5_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Roon_%C2%B5_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Roon_%C2%B5_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Roon_%C2%B5_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Roon_%C2%B5_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Roon_%C2%B5_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Roon_%C2%B5_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

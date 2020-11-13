@@ -1,0 +1,952 @@
+{
+  "name": "San Diego",
+  "constructionTime": "01:10:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Atlanta",
+  "ID": "036",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://anidb.net/perl-bin/animedb.pl?show=creator&creatorid=12596",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3755,
+      190,
+      85,
+      137,
+      168,
+      95,
+      32,
+      449,
+      0,
+      11,
+      168,
+      201,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3995,
+      210,
+      85,
+      182,
+      168,
+      95,
+      32,
+      559,
+      0,
+      11,
+      168,
+      201,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      3578,
+      185,
+      85,
+      164,
+      146,
+      73,
+      32,
+      516,
+      0,
+      11,
+      150,
+      181,
+      0,
+      0
+    ],
+    "Level 100": [
+      3338,
+      165,
+      85,
+      119,
+      146,
+      73,
+      32,
+      406,
+      0,
+      11,
+      150,
+      181,
+      0,
+      0
+    ],
+    "Base Stats": [
+      646,
+      70,
+      85,
+      25,
+      31,
+      28,
+      32,
+      87,
+      0,
+      3,
+      58,
+      49,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "100% → 105% → 115%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "150% → 170% → 185%",
+  "collectionStatBonus": "Light cruiser (CL) Anti-air  +1",
+  "collectionTechPoints": 9,
+  "maxLimitBreakTechPoints": 19,
+  "level120StatBonus": "Light cruiser (CL) Anti-air  +1",
+  "level120TechPoints": 14,
+  "enhancementValue": [
+    10,
+    10,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Anti-Air Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "I Am No. 1!; CN: 我是NO.1！ JP: 私はNo.1！",
+  "skill1Description": "When firing Anti-Air Guns, 15% chance to increase fleet's Anti-Air by 30% (50%) for 8 seconds.",
+  "skill2Name": "(Retrofit) Sparkling Battle Star!; CN: 星之歌 JP: 輝け☆バトルスター！",
+  "skill2Description": "Increase own Anti-Air stat by 10% (25%). Every 20 seconds, 50% (100%) chance to release a powerful barrage.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-圣地亚哥I JP: 特殊弾幕-サンディエゴI",
+  "skill3Description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Atlanta Class I (II). Every 16 times the main gun is fired, trigger Full Barrage - San Diego.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d8/San_Diego.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9f/San_DiegoChibi.png",
+      "shipDescription": [
+        "亚特兰大级轻巡洋舰—圣地亚哥，舷号CL-53",
+        "アトランタ級軽巡洋艦・サンディアゴ（CL-53)",
+        "Atlanta-class Light Cruiser – San Diego, Hull Number CL-53!"
+      ],
+      "selfIntroduction": [
+        "我是圣地亚哥！听说我是战争中获得星星仅次于企业大姐头的船，虽然不太明白星星是什么但是好像很厉害！ 指挥官，你在说什么，阿妹你看？这是什么暗号吗？",
+        "サンディエゴだよ！エンタープライズの姉貴の次に星をもらった艦だって！…星はなんだかわかんないけどなんかすごーい！って…指揮官、なになに？あ~め~に~か~？何かの暗号なの？？",
+        "I'm San Diego! I've heard I'm second only to Enterprise for the most stars earned! ... I don't really know what a \"star\" is, but it sounds cool! What is it, Commander? ... A-merry-car? Is that some kind of secret code?"
+      ],
+      "acquisition": [
+        "Hello~~我是圣地亚哥哟~二次大战获得最多星的巡洋舰——嘿嘿，简单得体的自我介绍完毕！我真是太聪明了！",
+        "ハロー、私はサンディエゴ！第二次大戦で一番多く星をもらった巡洋艦で～す！うふふ、自己紹介完了！！えらいでしょ！",
+        "Hello~! I'm San Diego, the cruiser who earned the most stars in World War 2! Hehe, that's it for my introduction! I'm just too good!"
+      ],
+      "login": [
+        "嘿指挥官，来一场激动人心的水枪战吧！",
+        "ねえ指揮官、エキサイティングな水鉄砲遊びをしよう！",
+        "Hey, Commander, let's have an exciting water gun fight!"
+      ],
+      "details": [
+        "这些东西有什么好看的啊？不如一起去玩嘛~",
+        "こんなものを見て何が面白いの？それより、遊ぼう～",
+        "What's so interesting about this stuff? Let's go play instead~!"
+      ],
+      "secretaryIdle1": [
+        "听说把我埋进土里就可以丰收……我莫非功能很多？！",
+        "私を土に埋めると豊作になるって…もしかして私って多機能？",
+        "Apparently people come looking for me after they've planted apple seeds... am I some kind of harvest god or something?!"
+      ],
+      "secretaryIdle2": [
+        "星星？我房间里很多哦，大家都有几个吧，很厉害吗？",
+        "バトルスター？そんなにすごいかなぁ。みんなもいくつか持ってるでしょ？",
+        "Battle stars? Are they really that amazing? I thought everyone had some?"
+      ],
+      "secretaryIdle3": [
+        "拿出点干劲来！不然的话会变成笨蛋的！",
+        "早くやる気を出して！！このままじゃバカになっちゃうよ！！",
+        "Come on, get motivated, now! Sit around like this and you'll go dumb!"
+      ],
+      "secretaryTouch": [
+        "喂喂，你在找什么东西吗？",
+        "ねえ、何を探してるの？",
+        "Hey, what are you looking for?"
+      ],
+      "secretarySpecialTouch": [
+        "嗷！工口指挥官！~",
+        "ちょっと！この、エロ指揮官！！",
+        "Hey, not so fast you pervert!"
+      ],
+      "task": [
+        "有多少任务尽管放马过来！",
+        "どんなミッションも、どんとこい！！",
+        "Bring on the missions, no matter how many there are!"
+      ],
+      "taskComplete": [
+        "指挥官，有奖励欸，快看看，快看看！",
+        "し・き・か・ん！ボーナスよ！見て！見て！",
+        "Co-man-der! Look, look! We got some rewards!"
+      ],
+      "mail": [
+        "指挥官，新邮件！折痕？不是我折飞机折的哦？",
+        "指揮官、新しいメールよ！折れ跡？わ、私が飛行機を折った時にできたんじゃないよ！？",
+        "Commander, new mail for you! Creases? N-no, I totally wasn't making paper planes out of your mail, okay?!"
+      ],
+      "returnFromMission": [
+        "指挥官，要吃好吃的吗！",
+        "指揮官、なんかうみゃいの、食べる？",
+        "Commander, let's go get something duh-licious to eat!"
+      ],
+      "commission": [
+        "指挥官指挥官，好像也许可能有委托完成辣！",
+        "指揮官指揮官、委託が完了したらしいよ！",
+        "Commander, Commander! I think a commission's been completed!"
+      ],
+      "strengthening": [
+        "感觉我好像变聪明了！",
+        "ちょっと頭がよくなった気がする！",
+        "It feels like I got a little smarter!"
+      ],
+      "startingMission": [
+        "踏浪出击！嘿……好险，差点摔倒",
+        "出撃！…危なかった…転んじゃうところだったよ…",
+        "Full speed ahead! ... Ah, that was close... I almost tripped..."
+      ],
+      "mvp": [
+        "欸不是热身赛么……他们投降干嘛？",
+        "ウォーミングアップなのに…投降してどうするの？",
+        "I was just getting warmed up... Why are they surrendering already?"
+      ],
+      "defeat": [
+        "咦，这里是谁，我是哪儿，怎么就输了？！",
+        "えー、ここは誰、私はどこ…、どうして負けちゃったの？？？",
+        "Huh? Who's this? Where am I...? How did I lose?!"
+      ],
+      "skillActivation": [
+        "虽然不太明白，上啊！",
+        "よく分かんないけど、やっちゃえ～！",
+        "I'm not sure what's going on, but let's do it~!"
+      ],
+      "lowHP": [
+        "对面原来来真的吗？！",
+        "相手は本気なの！？",
+        "They're actually trying to fight us?!"
+      ],
+      "affinityDisappointed": [
+        "指挥官不要靠近我，笨蛋会传染的！",
+        "指揮官近付かないでよ！馬鹿が移るよ！",
+        "Don't come near me! Your stupidity is contagious!"
+      ],
+      "affinityStranger": [
+        "指挥官，不要多想，来玩吧！",
+        "指揮官、考えてないで遊ぼうよ！",
+        "C'mon, Commander! Don't think too much, let's play!"
+      ],
+      "affinityFriendly": [
+        "喂喂，指挥官，来赛跑吧，赢了的人请吃饭！",
+        "ほらほら指揮官！競争よ！勝った人が奢りね！",
+        "C'mon, Commander, let's have a race! Winner treats the loser to a snack!"
+      ],
+      "affinityLike": [
+        "指挥官经常嘴上说人家不好，但其实觉得很开心吧～？",
+        "指揮官よく人のことを悪そうに言ってるけど、本当は見てて楽しいんだよね~♪",
+        "You often say mean stuff about me, but in reality you're actually having fun, aren't you~?"
+      ],
+      "affinityLove": [
+        "以前的我什么都不去想，现在的我脑子里只有指挥官，感觉也没什么差别嘛！",
+        "前は何も考えなかったけど、今は指揮官のことだけを考えてるよ！…あまり変わってないけど！",
+        "I used to not really think about anything, but now all I can think about is you, Commander! ... Not that much has changed, though!"
+      ],
+      "pledge": [
+        "指挥官，我可不是笨蛋，别以为随便拿假的就能来逗我玩哦！……欸？是真的？！也就是说……指挥官是认真……的？",
+        "指揮官、私は馬鹿じゃないよ~ニセモノでからかわないでよ~！……え？本物！？それはつまり……指揮官の気持ちも本物……？",
+        "Commander, I'm not dumb, I can tell that one's a fake! ...Huh? It's real?! Then does that mean... you're serious about this...?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Saratoga) 萨拉，一起来玩啊！",
+        "(Sortie with Saratoga) サラっち！一緒に遊ぼう！",
+        "(Sortie with Saratoga) Sara, let's play!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 5 ships designed by the same artist) 枫之军团，听起来超强！",
+        null,
+        "(Sortie with at least 5 ships designed by the same artist) Kaede's Legion? Sounds powerful!"
+      ],
+      "giftDescriptionValentines2018": [
+        "情人节？虽然不是太明白，不过把这个给指挥官就好了吧！比起这个，快来一起玩啦！",
+        "バレンタイン？よくわかんないけど、これを指揮官にあげればいいよね！それよりほら、遊ぼうよ！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "哈喽指挥官！今天是超级刺激的情人节哦！收到巧克力了吗？还没有的话就收下圣地亚哥的巧克力吧！",
+        "ハロー指揮官！今日はエキサイティングなバレンタインの日だよぉん！チョコもらった？もらってないならサンディエゴからのチョコを受け取っちゃいなー！",
+        "Valentine's? I don't really get the idea, but I think all I gotta do is give you this! So anyway, c'mon, let's play!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Hellooooo, Commander! I wanted to make an awesome life-sized chocolate statue of you, but everyone kinda shot down that idea~ Anyway, these smaller chocolates are awesome in their own way! You've just gotta eat 'em all!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/San_Diego_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/San_Diego_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/San_Diego_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/San_Diego_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/San_Diego_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/San_Diego_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/San_Diego_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/San_Diego_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/San_Diego_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/San_Diego_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/San_Diego_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/San_Diego_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/San_Diego_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/San_Diego_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/San_Diego_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/San_Diego_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/San_Diego_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/San_Diego_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/San_Diego_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/San_Diego_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/San_Diego_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/San_Diego_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/San_Diego_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/San_Diego_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/San_Diego_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/San_Diego_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/San_Diego_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/San_Diego_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/San_Diego_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/San_Diego_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/San_Diego_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/San_Diego_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/San_Diego_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/San_Diego_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/San_Diego_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/San_Diego_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/San_Diego_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/San_Diego_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/San_Diego_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/San_Diego_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/San_Diego_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/San_Diego_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/San_Diego_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/San_Diego_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/San_Diego_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/San_Diego_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/San_Diego_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/San_Diego_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/San_Diego_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/San_Diego_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/San_Diego_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/San_Diego_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/San_Diego_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/San_Diego_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/San_Diego_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/San_Diego_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/San_Diego_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/San_Diego_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/San_Diego_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/San_Diego_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/San_Diego_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/San_Diego_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/San_Diego_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/San_Diego_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/San_Diego_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/San_Diego_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/San_Diego_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/San_Diego_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/San_Diego_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/San_Diego_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/San_Diego_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/San_Diego_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/San_Diego_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/San_Diego_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/San_Diego_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/San_Diego_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/San_Diego_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/San_Diego_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/08/San_DiegoKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/42/San_DiegoKaiChibi.png",
+      "shipDescription": [
+        "欸嘿⭐虽然搞不清楚发生了什么，不过圣地亚哥好像变厉害了呢！指挥官看到我的闪闪发光的“气场”了吗~",
+        "えっへん☆なんだかわかんないけど、サンディエゴがなんかスゴく強くなっちゃったよ！指揮官、このキラキラの「フィール」が見える？？",
+        "Heheh~☆ I have no idea what just happened, but I feel like I've gotten super strong! Commander, can you see my sparkly aura~?"
+      ],
+      "acquisition": [
+        "欸嘿⭐虽然搞不清楚发生了什么，不过圣地亚哥好像变厉害了呢！指挥官看到我的闪闪发光的“气场”了吗~",
+        "えっへん☆なんだかわかんないけど、サンディエゴがなんかスゴく強くなっちゃったよ！指揮官、このキラキラの「フィール」が見える？？",
+        "Heheh~☆ I have no idea what just happened, but I feel like I've gotten super strong! Commander, can you see my sparkly aura~?"
+      ],
+      "login": [
+        "嘿指挥官，今天的工作就放心地交给聪明的圣地亚哥吧！看我砰砰砰地把任务都完成掉~",
+        "へい指揮官！今日のお仕事はこの頭がいいサンディエゴに任せてよ―！ぱぱぱっと全部やっつけちゃうぞー！",
+        "Hey, Commander! Let Super-Smart Sandy handle all your work for today! It'll be done before you can say \"no thanks\"!"
+      ],
+      "secretaryIdle1": [
+        "指挥官来赛跑吧！我来当裁判兼你的对手~",
+        "指揮官、速さ競争よ！私がライバル兼審判ってことで！",
+        "Let's have a race, Commander! I'll be both your opponent and the referee!"
+      ],
+      "secretaryIdle2": [
+        "啦~啦啦~小加加，一起来唱歌吧~",
+        "らーらららーサラっち、一緒にレッツシング！",
+        "Lalala la la~! Sing along with me, Sara!"
+      ],
+      "secretaryIdle3": [
+        "指挥官没什么精神啊，要我砰砰让你精神一下吗~？",
+        "指揮官、元気ないね～私がぱぱぱっと元気をつけちゃってもいい？",
+        "You look bummed out, Commander~ How about we turn that frown right upside down?"
+      ],
+      "secretaryTouch": [
+        "指挥官也感受到圣地亚哥的聪明气场了吗~",
+        "指揮官もサンディエゴの「頭が良くなるキラリン☆フィール」、感じちゃった？",
+        "Can you feel my smartifying sparkly aura too, Commander~?"
+      ],
+      "returnFromMission": [
+        "指挥官，我们出发吧！欸？刚刚已经结束了吗？",
+        "よぉし指揮官、レッツゴー！あれ？いま終わったばかりなの？",
+        "Hokay, let's do this, Commander! ... Huh? You just got done?!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/San_Diego_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/San_Diego_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/San_Diego_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/San_Diego_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/San_Diego_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/San_Diego_LogSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/San_Diego_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/San_Diego_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/San_Diego_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/San_Diego_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/San_Diego_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/San_Diego_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/San_Diego_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/San_Diego_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/San_Diego_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/San_Diego_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/San_Diego_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/San_Diego_Sec1Skin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/San_Diego_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/San_Diego_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/San_Diego_MissionFinSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "No. 1 June Bride!",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "June Bride No.1！",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ジューンブライドNo.1！",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/74/San_DiegoWedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/19/San_DiegoWeddingChibi.png",
+      "shipDescription": [
+        "只要有指挥官的爱之力，圣地亚哥一定能成为港区的No.1！…什么的No.1？不太清楚！总之一定可以的！",
+        "指揮官の愛のパワーがあれば、サンディエゴがきっと母港のNo.1になれる！…なんのNo.1？よくわかんないけど、絶対なれるよ！",
+        "Commander, with the power of your love, San Diego is sure to become number one in this port! ...Number one in what? I'm not really sure myself, but I'll definitely make it happen!"
+      ],
+      "acquisition": [
+        "只要有指挥官的爱之力，圣地亚哥一定能成为港区的No.1！…什么的No.1？不太清楚！总之一定可以的！",
+        "指揮官の愛のパワーがあれば、サンディエゴがきっと母港のNo.1になれる！…なんのNo.1？よくわかんないけど、絶対なれるよ！",
+        "Commander, with the power of your love, San Diego is sure to become number one in this port! ...Number one in what? I'm not really sure myself, but I'll definitely make it happen!"
+      ],
+      "login": [
+        "今天的工作圣地亚哥已经全部做完了哦！好嘛好嘛，我们去玩嘛！",
+        "今日の仕事はサンディエゴがぜーんぶぱぱっとやっておいたよ！ほらほら、もう遊ぼうよ！",
+        "I've already finished today's work and did it all in a flash! Now c'mon, it's time to have fun!"
+      ],
+      "details": [
+        "圣地亚哥的婚纱最棒了！对吧？",
+        "サンディエゴのウェディング姿、最高！でしょ？",
+        "Is my June bride look just the bestest or what!"
+      ],
+      "secretaryIdle1": [
+        "指挥官！今天的晚饭用微波炉叮一下就好了吧？洗澡的水温50摄氏度可以吗？圣地亚哥已经按照这些全部做好啦！",
+        "指揮官！今日の晩御飯はレンジでチンでいい？お風呂は50度でいい？もしかしなくてもサンディエゴが全部やっておいたよ！",
+        "So, Commander! You mind having tonight's dinner microwaved? Is the bath at 50 degrees all cool with you? Don't answer, 'cause San Diego went and did it all already!"
+      ],
+      "secretaryIdle2": [
+        "圣胡安真是太爱担心了~指挥官都在这里，圣地亚哥肯定没问题的啦！完全OK不用担心！",
+        "もう、サンフアンっていつも心配性だよ～指揮官がいるからサンディエゴは大丈夫！バッチリOK心配ナッシング！",
+        "Man, San Juan's such a worrywart~ I'll be just fine, 'cause I've got you, Commander! Everything's gonna be right as rain!"
+      ],
+      "secretaryIdle3": [
+        "圣地亚哥会给指挥官加油的！123！石头剪子布！加油！",
+        "サンディエゴが指揮官を応援するよー！えいえいおー！ジャンケンポン！よっこいしょー！",
+        "I'll cheerlead for you, Commander! Hip, hip, hooray! One, two, three! Whoop-de-doo!"
+      ],
+      "secretaryTouch": [
+        "让指挥官也能变聪明的光线！",
+        "指揮官がキラリンと頭が良くなるビーム！",
+        "Feel my Commander-smartifying sparkly beam!"
+      ],
+      "secretarySpecialTouch": [
+        "噢噢噢噢？",
+        "おおおお？！",
+        "Whoa, whoa, whoa!"
+      ],
+      "returnFromMission": [
+        "指挥官欢迎回来！你的圣地亚哥一直在这等你哦！",
+        "指揮官おっかえりー！あなたのサンディエゴがここで待ってたよ～！",
+        "Welcome back, Commander! Your sweetie San Diego's been waiting for you!"
+      ],
+      "startingMission": [
+        "圣地亚哥出击！GOGOGO！",
+        "サンディエゴ、出撃！ゴーゴーゴー！",
+        "San Diego, moving out! Go, go, go!"
+      ],
+      "mvp": [
+        "耶！圣地亚哥是No.1！",
+        "いぇーい！サンディエゴがNo.1！！",
+        "Woohoo! San Diego's number one!"
+      ],
+      "affinityLove": [
+        "不知怎么地，只要脑子里想着指挥官，就有种变强了的感觉！啊！再这么下去圣地亚哥就要变…不会有什么变化！毕竟指挥官的圣地亚哥永远都是No.1嘛！",
+        "指揮官のことばかり考えていると、なぜかどんどんサンディエゴも強くなっていく気がする！あ！このままじゃサンディエゴは変わ……らないよ！だって指揮官のサンディエゴはいつもNo.1だから！",
+        "It's kinda weird, but I get this feeling like thinking of you makes me grow stronger, Commander! Wait, doesn't that mean I'm gonna change eventually? Nope! 'Cause I'm gonna be your number one!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/San_Diego_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/San_Diego_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/San_Diego_IntroSkin8JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/San_Diego_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/San_Diego_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/San_Diego_LogSkin8JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_DetailsSkin8JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/San_Diego_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/San_Diego_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/San_Diego_SecIdle1Skin8JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/San_Diego_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/San_Diego_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/San_Diego_SecIdle2Skin8JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/San_Diego_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/San_Diego_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/San_Diego_SecIdle3Skin8JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/San_Diego_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/San_Diego_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/San_Diego_Sec1Skin8JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/San_Diego_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/San_Diego_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/San_Diego_Sec2Skin8JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/San_Diego_MissionFinSkin8JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/San_Diego_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/San_Diego_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/San_Diego_MissionStartSkin8JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/San_Diego_MVPSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/San_Diego_MVPSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/San_Diego_MVPSkin8JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/San_Diego_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/San_Diego_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/San_Diego_Affinity4Skin8JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Sandy Claus",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "圣诞亚哥！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "メリクリディエゴ！",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 680",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7d/San_DiegoChristmas.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b6/San_DiegoChristmasChibi.png",
+      "shipDescription": [
+        "圣诞快乐！偶像之圣地亚哥闪亮登场！指挥官，我的演唱会，一定要来噢！……地址！？那是什么？",
+        "メリーーークリスマース！！アイドルサンディエゴだよぉ！ヨロシクー！！指揮官、私のライブには絶対来てね！……え！どこだって？なにそれ？",
+        "Merry Christmas! Super idol San Diego, making her dazzling debut! Commander, you must come to my performance! ...Venue?! What's that?"
+      ],
+      "acquisition": [
+        "圣诞快乐！偶像之圣地亚哥闪亮登场！指挥官，我的演唱会，一定要来噢！……地址！？那是什么？",
+        "メリーーークリスマース！！アイドルサンディエゴだよぉ！ヨロシクー！！指揮官、私のライブには絶対来てね！……え！どこだって？なにそれ？",
+        "Merry Christmas! Super idol San Diego, making her dazzling debut! Commander, you must come to my performance! ...Venue?! What's that?"
+      ],
+      "secretaryIdle1": [
+        "好奇怪，话筒线怎么越来越短了？",
+        "あれ？マイクのケーブルがだんだん短くなってる？",
+        "That's strange, why's the microphone cord getting shorter and shorter?"
+      ],
+      "secretaryIdle2": [
+        "虽然不太懂，不过只要努力就没问题了吧！",
+        "よくわかんないけど、頑張ればきっとダイジョウブ！！",
+        "I don't really get it, but if I work hard, it'll be A-O-K!"
+      ],
+      "secretaryIdle3": [
+        "指挥官，你也想唱几首吗？嘿嘿，别客气！哎哎哎——谁、谁在绊我？",
+        "指揮官も歌いたいの？えへへ、どうぞどうぞ！ってうにゃ！――な、なんか引っかかってる！？",
+        "Commander, wanna sing a few songs as well? Ehehe, here, here! Wooaahh! (CRASH) W-who tripped me?"
+      ],
+      "secretaryTouch": [
+        "最快乐的人就是最聪明的人，所以圣地亚哥我才是最聪明的！",
+        "一番楽しい人が一番頭がいいよ！えへへーつまりサンディエゴがいっちばん頭がいいってことだよ！",
+        "The smartest person is the one who is the happiest! Ehehe, that's why San Diego is the smartest!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/San_Diego_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/San_Diego_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/San_Diego_IntroSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/San_Diego_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/San_Diego_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/San_Diego_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/San_Diego_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/San_Diego_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/San_Diego_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/San_Diego_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/San_Diego_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/San_Diego_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/San_Diego_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/San_Diego_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/San_Diego_Sec1Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +70 ",
+      "materials": "2x CruiserT2BP and 1x San Diego or Prototype Bulin MKII ",
+      "coinCost": 600,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement (I)",
+      "attributes": "Reload + 5 ",
+      "materials": "2x CruiserT2BP ",
+      "coinCost": 800,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement (II)",
+      "attributes": "Anti-Air Gun Efficiency + 5% ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement (II)",
+      "attributes": "Anti-air +15 / +25 ",
+      "materials": "1x / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement (II)",
+      "attributes": "Anti-Air Gun Efficiency + 5% / + 5% ",
+      "materials": "2x / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement (II)",
+      "attributes": "Anti-air +15 / +25 ",
+      "materials": "2x / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health +70 / +100 ",
+      "materials": "1x / 1x CruiserT3BP and 25x / 25x AuxT3Plate ",
+      "coinCost": 2500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Reload Enhancement (II)",
+      "attributes": "Reload +5 / +10 ",
+      "materials": "1x / 2x CruiserT3BP ",
+      "coinCost": 0,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Main Gun Improvement (II)",
+      "attributes": "Main Gun Efficiency +5% / +5% ",
+      "materials": "2x / 2x CruiserT3BP ",
+      "coinCost": 0,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Firepower Enhancement (III)",
+      "attributes": "Firepower +5 / +10 / +15 ",
+      "materials": "1x / 2x / 3x CruiserT3BP and 10x / 20x / 30x GunT3Plate ",
+      "coinCost": 0,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 3,
+      "requiredIndexes": [
+        "F",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower + 15, Anti-air + 30 <br> Main Gun Mount Firepower +1, \"Full Barrage - Atlanta-class\" changes to \"Full Barrage - San Diego\" <br> Rarity changes to <a href=\"/File:UltraRare.png\" class=\"image\"><img alt=\"UltraRare.png\" src=\"/w/images/thumb/8/81/UltraRare.png/50px-UltraRare.png\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"22\" srcset=\"/w/images/thumb/8/81/UltraRare.png/75px-UltraRare.png 1.5x, /w/images/thumb/8/81/UltraRare.png/100px-UltraRare.png 2x\" data-file-width=\"319\" data-file-height=\"139\"></a> ",
+      "materials": "1x San Diego or 1x Prototype Bulin MKII and 1x Sparkling Microphone ",
+      "coinCost": 7500,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Song of the Stars\" ",
+      "materials": "5x CruiserT3BP and 1x San Diego or Prototype Bulin MKII ",
+      "coinCost": 5000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "K"
+      ]
+    }
+  ]
+}

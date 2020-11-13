@@ -1,0 +1,528 @@
+{
+  "name": "Shinano",
+  "constructionTime": "05:15:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Ultra Rare",
+  "shipClass": "Yamato",
+  "ID": "231",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "侑了个侑",
+  "link": "https://www.weibo.com/soaryuna",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/2/2f/Shinano_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      8616,
+      126,
+      32,
+      0,
+      0,
+      49,
+      28,
+      317,
+      437,
+      15,
+      78,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      7558,
+      109,
+      32,
+      0,
+      0,
+      29,
+      28,
+      280,
+      395,
+      15,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1462,
+      46,
+      32,
+      0,
+      0,
+      11,
+      28,
+      60,
+      84,
+      8,
+      27,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "120% → 125%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "125% → 140%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +2",
+  "collectionTechPoints": 26,
+  "maxLimitBreakTechPoints": 52,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +1",
+  "level120TechPoints": 39,
+  "enhancementValue": [
+    0,
+    0,
+    69,
+    9
+  ],
+  "retireValue": [
+    500,
+    9,
+    3,
+    30
+  ],
+  "limitBreak1": "Number of Dive Bombers +1 / Dive Bomber Efficiency +5% / Can Equip Dive Bombers/Torpedo Bombers in the Fighters slot",
+  "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +2 / Torpedo Bomber Efficiency +10%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +5%",
+  "skill1Name": "Hope's Tempest; CN: 星夜之云",
+  "skill1Description": "Three seconds after the start of the battle, launch a Saiun barrage. When this ship launches an airstrike, launch an additional Shinden Kai 2, Ryusei, and Saiun barrage (damage scales with skill level). Saiun barrages do not do damage; instead, they decrease the FP, TRP, AVI, and AA of one random enemy (humanoids prioritized) by 3.0% and increase the damage they receive by 3.0%, until the end of the battle. This debuff may stack up to three times.",
+  "skill2Name": "Dreamwaker's Bow; CN: 幽蝶之梦",
+  "skill2Description": "Increase own AVI stat by 5.0% (15.0%) during her first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship).",
+  "skill3Name": "Protector of the New Moon; CN: 守护之樱",
+  "skill3Description": "As long as this ship is afloat, increase FP, EVA, and ASW stats for all DDs in your fleet by 5.0% (15.0%). At the beginning of the battle, if there are at least three ships in your fleet (including this ship), decrease incoming gun and plane damage received on self by 10.0% (20.0%), and increase AVI and Accuracy for all Sakura Empire CVs and CVLs by 5.0% (15.0%) for the rest of the battle.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a9/Shinano.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5f/ShinanoChibi.png",
+      "shipDescription": [
+        "鲸级三番舰—鵗",
+        "大和型三番艦・信濃",
+        "Yamato-class ship number three – Shinano."
+      ],
+      "selfIntroduction": [
+        "妾身乃是重樱航母、鵗。原本当与鲸并肩，为重樱燃尽此身。然而最终却落得那般结局，世事无常，不外如是…而此次，妾身相信，有汝在，定然会有截然不同的的结果——",
+        "重桜に属す、空母信濃と申す。かの大戦では大和型の姉妹艦として戦陣にて散ることなく、斯様な結末に――嗚呼、諸行因果、妾には、それを…知ること叶わず――汝に導かれし道が異なる結果を生み出さんことを……",
+        "I am called Shinano, aircraft carrier of the Sakura Empire. I was to stand beside Yamato during that war, yet in the end... Alas, there is impermanence in all things, and nothing became of this one's life... May your guidance lead my fate to a different outcome..."
+      ],
+      "acquisition": [
+        "这种感觉，并非在梦中…将妾身自沉睡中唤醒的，是汝？此亦命运的必然…鲸级三号舰、鵗，让妾身为汝指引前进的正道吧。",
+        "この感触…夢ではなく現し世……汝（そなた）が妾（わたし）を呼び覚ましたのか？嗚呼、定めとは斯様にも…大和型3番艦の信濃と申す。正しき道へと導こう…",
+        "This sensation... is that of reality... Was it you who awoke this one from her long slumber? Such is the inevitability of fate... Please allow Shinano, third ship of the Yamato-class, to guide you forward upon the right path."
+      ],
+      "login": [
+        "欢迎回来，妾身已等候汝多时了。",
+        "Zzzz……よく戻られた。長く、永く、ここで待って居た……",
+        "Nnnh... You have returned. Long, eternal, has this one's wait been..."
+      ],
+      "details": [
+        "Zzzzz…真正的强大，足以挣脱命运的束缚…然而真的是那样吗…？",
+        "Zzzzz……定めを壊すほど真に強きこと……鏡花水月、幻の如く……ふぅ……",
+        "Mmh... True strength can shatter the chains of fate... or is this but the moon's reflection within the water... Mm..."
+      ],
+      "secretaryIdle1": [
+        "美好的事物总是短暂，不过，有过一瞬的盛放，总好过默默无闻的凋零吧…",
+        "如何に美しい花も、散りゆくが定め…美しく咲き誇れば、例えそれが一瞬でも尊く――",
+        "Even the most beautiful flower is transient, to be scattered into the wind... But, 'tis better to bloom for but a moment than to wither eternally upon the vine."
+      ],
+      "secretaryIdle2": [
+        "指挥官，累了的话，要在我怀里睡一会吗？就如诸多重樱驱逐舰们都喜欢做的那般——",
+        "嗚呼、お労しや…妾の胸でゆるりと癒やしを……ええ、駆逐艦の子たちと同じく――",
+        "Do you wish to rest within this one's bosom? ...Yes, just as the little destroyers do..."
+      ],
+      "secretaryIdle3": [
+        "港区里有许多妾身未曾见识过的新鲜事物，有机会的话真想一一尝试看看…",
+        "見聞を広めるのはよろしゅう…此の母港でなら、良ければ、妾が……",
+        "I would like to experience all this port has to offer... should it be possible..."
+      ],
+      "secretaryIdle4": [
+        "汝托付于妾身的报告书在此…错误很多？…看来赶工也不是个好事…",
+        "汝に任された報告書はここに……誤りが多い、と…？あぅ、期日を繰り上げすぎるのも、善からずか……",
+        "I have left the report here... Hmm... There are many errors? ...'twould seem that hasty deadlines are not this one's strong suit..."
+      ],
+      "secretaryIdle5": [
+        "之字…嗯…啊，刚才不小心撞上汝了吗？抱歉…",
+        "ジグザグ……Zzzzz…あっ…危うくぶつかりそうだった？…妾の不注意に、お詫び申す…",
+        "Vrooom... Zzzzzz... Oh... Did I hit you by mistake? ...Sincerest apologies..."
+      ],
+      "secretaryTouch": [
+        "Zzzzzz…啊…妾身又睡着了吗？…非常抱歉…",
+        "Zzzzzz……あ…妾がまた眠っていたと……お詫びを……",
+        "Mmmm... Hm? ...I dozed off again? ...Sincerest apologies..."
+      ],
+      "secretarySpecialTouch": [
+        "在这里…不可以…",
+        "ここでは……汝…うぅ……",
+        "You musn't... Not there... Nnh..."
+      ],
+      "secretaryHeadpat": [
+        "指、指挥官，耳朵有点…",
+        "嗚呼……妾、耳は弱く……",
+        "Aah... My ears are sensitive..."
+      ],
+      "task": [
+        "任务…能及时完成吗？",
+        "お勤め…期日までには果たせようか…",
+        "This task... can it be completed in time...?"
+      ],
+      "taskComplete": [
+        "果然有汝在，没有什么是做不到的。",
+        "汝がいれば、何事も出来よう…",
+        "As long as you are here, there is nothing that cannot be accomplished..."
+      ],
+      "mail": [
+        "信件承载着来自远方的思念，万不可轻视…",
+        "遠き思いを載せる文、軽んずべからず……",
+        "Dismiss not the letters bearing distant thoughts..."
+      ],
+      "returnFromMission": [
+        "Zzzz…这次…也平安回来了，…",
+        "Zzzz……無事に帰還したと観た…嗚呼、よきかな……",
+        "Nnnh... Your safe return... pleases me..."
+      ],
+      "commission": [
+        "Zzzzz…万不可…忘记那些默默付出之人，前往…迎接她们吧",
+        "Zzzzz…委託組の子の出迎えを…どうか忘るべからず……",
+        "Mmmm... The girls on commission are returning now... 'twould behoove you to forget them not..."
+      ],
+      "strengthening": [
+        "但愿这一切不会成为无用功…",
+        "徒労な終わり、なきこと……",
+        "May this not end in futility..."
+      ],
+      "startingMission": [
+        "胜负，皆为命定。至少…让我等竭尽全力——",
+        "定めなれど、精魂果つるまでお務めを――",
+        "Though fate has been written, I shall fight until my soul's duty has been fulfilled..."
+      ],
+      "mvp": [
+        "这便是，妾身的力量…？",
+        "妾の力は、これ程……？",
+        "Is this... my power...?"
+      ],
+      "defeat": [
+        "抱歉，是妾身辜负了诸位……",
+        "嗚呼、妾が皆の期待に背いたばかりに……",
+        "Apologies... I have failed to meet your expectations..."
+      ],
+      "skillActivation": [
+        "已经看到了，汝等破灭的命运——",
+        "定めが…観える――",
+        "Your fate... has been sealed..."
+      ],
+      "lowHP": [
+        "妾身…不会就此退缩！",
+        "……退くことはあるまい…",
+        "...I shall not retreat..."
+      ],
+      "affinityDisappointed": [
+        "在汝身旁，妾身看不到任何的光芒…",
+        "汝の側では、妾とて光観ること叶わず……",
+        "From here, this one sees not any light..."
+      ],
+      "affinityStranger": [
+        "承载了诸多期待与瞩目，却无法展现出与之相符的实力，这便是命运对妾身的嘲弄吗…",
+        "期待と注目を受けても、力を振るうこと叶わず……嘲笑われるのは妾の定めゆえの事……",
+        "To carry the burden of great expectations, yet unable to demonstrate the power to meet them... Such is fate's mockery of this one's existence..."
+      ],
+      "affinityFriendly": [
+        "知晓命运，却无力改变；与一无所知，亦不知改变，究竟何者更加不幸呢…",
+        "観える未来を変えられぬ不幸と、未来を知り得ぬ不幸……いずれがより良き不幸であろうか",
+        "To see destiny, yet to be unable to change it; or to be ignorant to the turning of fate... Which is the greater misfortune?"
+      ],
+      "affinityLike": [
+        "妾身…一直在做着各种梦，悲伤的令人不忍回忆的梦，幸福的令人不想醒来的梦…甚至现实于妾身，亦如梦幻一般…指挥官，汝…究竟是现实，亦或是梦幻？",
+        "妾が観た夢……いと忘れまほしき悲しさ、永遠に溺れまほしきよろこび、嗚呼…現実も夢幻の如く……汝が果たして、まことなりや？",
+        "Long has this one dreamt... Tragic dreams that one wishes to never recall... Blissful dreams from which one hopes to never wake from... Even reality itself seems like just another dream.. Commander, is this truly reality, or yet another illusion?"
+      ],
+      "affinityLove": [
+        "妾身曾为缠绕于身的诸多“命中注定的无可奈何”而哀叹不已…而如今，只要在这里，只要与汝在一起，妾身便觉得，无论何种命运，皆不足为惧了——",
+        "定めを変えられぬと嘆いた妾は……今や怖れず、未来も、何もかも……こ、ここで、汝と、ともにいれば――",
+        "I once lamented my inability to shift the hand of fate... But now, and forever... as long as you are here..."
+      ],
+      "pledge": [
+        "回想在此港区与汝经历之种种，皆是令人不禁微笑的美好回忆…是汝为妾身带来了截然不同的生活。从今往后，妾身会与汝一同，直面各种命运，无论幸或不幸——",
+        "この母港で出会った汝との思い出は…初々しくも、嬉しく……嗚呼、これで――定めを、悲しみを、喜びを、全てを…妾を大切にする汝とともに――",
+        "The memories forged at this port... have brought me great joy... Alas, from now on... I shall cherish my time with you through fates both joyful and painful... through weal and woe alike..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Shinano_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Shinano_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Shinano_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Shinano_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Shinano_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Shinano_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Shinano_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Shinano_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Shinano_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Shinano_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Shinano_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Shinano_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Shinano_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Shinano_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Shinano_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Shinano_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Shinano_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Shinano_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle3JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Shinano_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Shinano_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Shinano_SecIdle4JP.ogg"
+      ],
+      "secretaryIdle5Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle5JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Shinano_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Shinano_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Shinano_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Shinano_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Shinano_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Shinano_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Shinano_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Shinano_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Shinano_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Shinano_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Shinano_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Shinano_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Shinano_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Shinano_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Shinano_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Shinano_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Shinano_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Shinano_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Shinano_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Shinano_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Shinano_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Shinano_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Shinano_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Shinano_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Shinano_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Shinano_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Shinano_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Shinano_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Shinano_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Shinano_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Shinano_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Shinano_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Shinano_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Shinano_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Shinano_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Shinano_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Shinano_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Shinano_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Shinano_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Shinano_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Shinano_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Shinano_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Shinano_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Shinano_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Shinano_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Shinano_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Shinano_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Shinano_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Shinano_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Shinano_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Shinano_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Shinano_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Shinano_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Shinano_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Shinano_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Shinano_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Shinano_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Shinano_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Shinano_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Shinano_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Dreams of the Hazy Moon",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "胧月十夜",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "満ち欠ける朧月",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b3/ShinanoParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/04/ShinanoPartyChibi.png",
+      "shipDescription": [
+        "月色朦胧，华灯初上…夜色与美酒，皆令人沉醉不已……汝，愿意与妾身共赴这梦幻般的月下之宴吗？",
+        "月は叢雲に隠れ、華は灯火で彩る……月も酒も、いと麗しゅう……妾とともに、楽しんでくれる……？",
+        "The moonlight dims beneath hazy clouds, and the lights of the night sky begin to shine... The moon, and this sake, are both intoxicating... Will you not enjoy this fine evening with me...?"
+      ],
+      "acquisition": [
+        "月色朦胧，华灯初上…夜色与美酒，皆令人沉醉不已……汝，愿意与妾身共赴这梦幻般的月下之宴吗？",
+        "月は叢雲に隠れ、華は灯火で彩る……月も酒も、いと麗しゅう……妾とともに、楽しんでくれる……？",
+        "The moonlight dims beneath hazy clouds, and the lights of the night sky begin to shine... The moon, and this sake, are both intoxicating... Will you not enjoy this fine evening with me...?"
+      ],
+      "login": [
+        "星光璀璨，烛焰摇曳。美妙的夜宴，才要开始…Zzzzzz",
+        "輝くは数多なる星々、揺れるは宴の燈火…夜は…始まったばかり……Zzzzzz",
+        "The shimmering of the countless stars, the dancing lights of the banquet... This night... has only just begin... Zzzzz..."
+      ],
+      "details": [
+        "亘古不变的星空…兀自圆缺的明月…与之相比，地上的一切，当真宛若梦幻泡影，转瞬即逝……",
+        "星々の運行、月の満ち欠け、定めは変わらぬ…現し世も夢も、ヒトのことは、まぼろし……",
+        "Through the sojourn of the stars through the sky, through the waxing and waning of moons, fate remains immutable... In contrast, mortal dreams and realities alike seem like fleeting illusions..."
+      ],
+      "secretaryIdle1": [
+        "如此美好的夜宴，令人不禁心忧，一切会不会只是庄周梦蝶，黄粱一梦…",
+        "宴は、楽しゅう…邯鄲の夢、間違われるほど……杞憂を……",
+        "Being able to enjoy tonight's banquet thusly... fills one with apprehension that this... may be yet another dream..."
+      ],
+      "secretaryIdle2": [
+        "命运曾数次捉弄妾身，却又让妾身遇见了汝…所谓天道无常，亦不过如是",
+        "幾度翻弄されようと、汝と出会わせた…ヒトの定め、無常と申す……",
+        "Though I have long been the plaything of fate, it still allowed me to meet you... How strange and whimsical a thing it must be..."
+      ],
+      "secretaryIdle3": [
+        "这西洋之酒颇为刺激，妾身还未能完全适应的样子呢…稍微品尝了些便感觉有些飘飘然了…",
+        "西洋の酒、飲み慣れてはいない……斯様な量で…もう…ほろ酔いに……",
+        "Western spirits are a new experience for this one... Even this trifling amount... has already... gone to my head..."
+      ],
+      "secretaryTouch": [
+        "今夜月色真美…汝也这么觉得吗，指挥官大人？",
+        "今宵の月は、麗しゅう……汝も、同じ感慨か……？",
+        "Beauteous is the moon tonight... Are you in agreement...?"
+      ],
+      "returnFromMission": [
+        "呼…方才与驱逐舰们稍微嬉闹了一番，尾巴稍微有些凌乱，让汝见笑了…",
+        "んっ……乱れたところ、お見せした……駆逐艦の子たちと、遊んだゆえ、しっぽが、お恥ずかしいことに……",
+        "*sigh*... Sincerest apologies for this unsightly display... The destroyer children were playing around and made a mess of my tail... How embarrassing..."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

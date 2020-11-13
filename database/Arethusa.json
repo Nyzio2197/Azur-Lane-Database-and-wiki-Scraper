@@ -1,0 +1,449 @@
+{
+  "name": "Arethusa",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Arethusa",
+  "ID": "116",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "马甲",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ayaka_Suwa",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2830,
+      187,
+      69,
+      156,
+      270,
+      100,
+      32,
+      324,
+      0,
+      9,
+      170,
+      115,
+      0,
+      0
+    ],
+    "Level 100": [
+      2493,
+      163,
+      69,
+      135,
+      236,
+      76,
+      32,
+      286,
+      0,
+      9,
+      152,
+      101,
+      0,
+      0
+    ],
+    "Base Stats": [
+      482,
+      69,
+      69,
+      29,
+      50,
+      29,
+      32,
+      61,
+      0,
+      2,
+      58,
+      28,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "120% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 11,
+  "level120StatBonus": "Light cruiser (CL) Anti-submarine warfare  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    12,
+    17,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Reload Order; CN: 装填号令 JP: 装填指令",
+  "skill1Description": "Every 20 seconds, 25% chance to increase fleet's Reload by 5% (25%) for 8 seconds. Does not stack with the same skill.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-アリシューザ級",
+  "skill2Description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Arethusa Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/24/Arethusa.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/16/ArethusaChibi.png",
+      "shipDescription": [
+        "阿瑞托莎级轻巡洋舰—阿瑞托莎，舷号26",
+        "アリシューザ級軽巡洋艦・アリシューザ（HMS Arethusa）",
+        "Arethusa-class light cruiser – Arethusa, Hull Number 26!"
+      ],
+      "selfIntroduction": [
+        "我是阿瑞托莎级条约型轻巡洋舰——阿瑞托莎，我可是世界上第一级一开始就装了垂直装甲带的二级巡洋舰噢！——哼，很厉害什么的，人家一早就知道了！",
+        "私はアリシューザ級条約型巡洋艦ーーアリシューザよ。世界初の装甲の垂直設計を実装した条約型巡洋艦だぞ！ーーふん！すごいだなんて、最初から決まってるじゃない！",
+        "I am the Arethusa class treaty cruiser, Arethusa: the first cruiser in the world designed with vertical armor! --Hmph! The fact that I'm amazing was decided from the beginning!"
+      ],
+      "acquisition": [
+        "我阿瑞托莎来了你就放一百个心吧，倒是你，指挥官，以后可不要拖我的后腿呀！",
+        "このアリシューザが来たからにはもう安心していいんだぞ。むしろ指揮官、私の足を引っ張らないで頂戴！",
+        "You can be at ease now that I, Arethusa, have come. If anything, Commander, don't you dare become my hindrance!"
+      ],
+      "login": [
+        "指挥官，不认真起来我可要生气了！",
+        "指揮官、真面目にやらないと怒るわよ！",
+        "Commander, I'm gonna get angry if you don't take this seriously!"
+      ],
+      "details": [
+        "…笨蛋！没人跟你说盯着女孩子看是很不礼貌的吗！",
+        "…バカ！女の子を見つめるのが失礼だと教わってないの！？",
+        "...Idiot! Did no one teach you that it's rude to stare at a girl?!"
+      ],
+      "secretaryIdle1": [
+        "就算是友军，一旦对我方造成威胁，也不能手下留情",
+        "友軍でも、味方の脅威になりうるなら容赦はしない！",
+        "Even if they are allies, I will not show mercy to any threat towards my comrades!"
+      ],
+      "secretaryIdle2": [
+        "……居然放置我这么久……我、我才没有寂寞啊！",
+        "……私を放ったらかして……さ、寂しくなんかないわよ！",
+        "...Leaving me alone like this... I-I'm not feeling lonely or anything!"
+      ],
+      "secretaryIdle3": [
+        "哼，指挥官总是这里不行那里不行，每次都要麻烦我",
+        "ふん！指揮官はダメダメなんだから、私が世話をしなくちゃね！",
+        "Hmph! You suck, Commander, so stop making me worry about you!"
+      ],
+      "secretaryTouch": [
+        "我、我才不喜欢被你这种笨蛋摸来摸去呢！……只是看你寂寞可怜你而已！",
+        "べ、別にあんたのようなバカに触られるのが好きじゃないわよ！……あんたが寂しくて可哀想だからさせてあげてるだけ！",
+        "I-it's not like I'm fond of being touched by an idiot like you! ...I just feel sorry for you since you're so lonely!"
+      ],
+      "secretarySpecialTouch": [
+        "呀！hentai！不良！H！去死两次啊！",
+        "きゃっ！ヘンタイ！ちかん！エッチ！いっぺん死んでこい！",
+        "Aaah! Pervert! Molester! Lewd! Go and die!"
+      ],
+      "task": [
+        "笨蛋！别睡了！有新的任务！",
+        "バカ！寝るな！新しい任務だぞ！",
+        "Idiot! Stop sleeping! There's a new mission!"
+      ],
+      "taskComplete": [
+        "对你来说这些奖励还算是不错的，快拿走~",
+        "あんたにはそこそこいいボーナスじゃない？早く持っていって！",
+        "Doesn't the reward suit you just fine? Hurry up and get it!"
+      ],
+      "mail": [
+        "快点把你的信拿走，我才不关心是谁寄过来的呢，哼",
+        "あんたのメールだからさっさと持っていきなさい。…別に誰から送られたか気にしていないわよ！ふん！",
+        "It's your mail so hurry up and get it. ...It's not like I'm concerned about who it's from! Hmph!"
+      ],
+      "returnFromMission": [
+        "做别的事情慢吞吞的，回港倒是很快嘛~",
+        "仕事がのろまなのに、帰還だけは速いようね！",
+        "You're so lacking at work that you're only good at returning here!"
+      ],
+      "commission": [
+        "呆子，委托组都回来了，快去检查委托成果",
+        "委託チームが帰ったわ。はやく成果をチェックしてきなさい、このバカ！",
+        "The commission team is back. Hurry up and check the results from them, you idiot!"
+      ],
+      "strengthening": [
+        "不要拖我后腿啊指挥官",
+        "指揮官、私の足を引っ張るんじゃないわよ",
+        "Commander, don't get in my way!"
+      ],
+      "startingMission": [
+        "听好了！这可是赌上尊严的战斗！都认真起来！",
+        "聞け！これはプライドを賭けた戦いよ！真面目にやんなさい！",
+        "Listen up! Our pride rides on this battle! Let's take this seriously!"
+      ],
+      "mvp": [
+        "哼，就算你表扬我，我也不会轻易认同你的！",
+        "ふん！褒めても認めてやらないんだから！",
+        "Hmph! I will not acknowledge you just because you complimented me!"
+      ],
+      "defeat": [
+        "咕……我……怎能在这里倒下……",
+        "くっ……私……ここで倒れるわけには……",
+        "Ugh... How could I fall here... of all places..."
+      ],
+      "skillActivation": [
+        "只要脚踏实地……",
+        "地道にやり続ければ……！",
+        "If we keep doing this dillgently, it will all work out!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "果然你这种指挥官我绝对无法认同！",
+        "あんたのような指揮官はやっぱり認めないわ！",
+        "I cannot acknowledge a commander like you!"
+      ],
+      "affinityStranger": [
+        "像你这样的指挥官，我才不会承认呢，哼！",
+        "あんたのような指揮官は認めないわ！ふん！",
+        "I do not acknowledge a Commander like you! Hmph!"
+      ],
+      "affinityFriendly": [
+        "别得意忘形了，我只是觉得你这里的点心不错，想得到我的承认你还早得很呢！",
+        "調子に乗るんじゃないわよ！ここにくるのは美味しいケーキがあるからよ！あんたを認めるまでにはまだぜんっぜん早いんだから！",
+        "Don't get carried away! I came here because of a tasty cake! It's still too early for me to acknowledge you!"
+      ],
+      "affinityLike": [
+        "你也是有些可取之处的嘛……哼，只是对你稍微改观了而已，你要做的还多着呢",
+        "あんたっていいとこもあるわね……ふん！少し見直しただけよ！やることはまだまだあるわ！",
+        "You do have some positive qualities... Hmph! My opinion of you is slightly improved! There's still a lot for you to do!"
+      ],
+      "affinityLove": [
+        "那个……就是……辛苦了……，没什么！我心情好给你准备了点心，赶快吃了吧",
+        "あの……その……お疲れ様……なんでもないわ！私今いい気分だから、お菓子作ってやったから、さっさと食べなさい！",
+        "Umm... Good work... I mean, it's nothing! I just made some snacks since I felt like it, so hurry up and eat them!"
+      ],
+      "pledge": [
+        "笨蛋，搞得这么正式，承认什么的……我早就已经……",
+        "バカ、形式にこだわりすぎるのよ！こんなの……前からずっと……",
+        "You dummy. You're making this too formal! This... should've been done a while ago..."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "はいチョコよ。べ、別にバレンタインだからってチョコを贈る必要なんてないからねっ！ほかの人が贈りそうだったから先に贈っただけよ！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "哼～还没从别人那里收到巧克力啊。拿着吧，巧克力我给你……欸？干嘛这么笑嘻嘻的！",
+        "ふーーん、まだ他の子たちからもらってないんだ。はい、チョコ！あげるわよ！…えぇ！？そんなにニヤニヤしないでよ！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here. It's chocolate I made with Aurora. The flower on the box is... a candytuft. Y- you don't need me to spell out what flowers mean, do you?!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Arethusa_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Arethusa_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Arethusa_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Arethusa_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Arethusa_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Arethusa_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Arethusa_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Arethusa_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Arethusa_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Arethusa_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Arethusa_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Arethusa_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Arethusa_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Arethusa_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Arethusa_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Arethusa_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Arethusa_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Arethusa_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Arethusa_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Arethusa_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Arethusa_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Arethusa_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Arethusa_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Arethusa_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Arethusa_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Arethusa_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Arethusa_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Arethusa_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Arethusa_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Arethusa_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Arethusa_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Arethusa_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Arethusa_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Arethusa_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Arethusa_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Arethusa_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Arethusa_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Arethusa_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Arethusa_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Arethusa_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Arethusa_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Arethusa_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Arethusa_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Arethusa_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Arethusa_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Arethusa_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Arethusa_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Arethusa_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Arethusa_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Arethusa_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Arethusa_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Arethusa_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Arethusa_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Arethusa_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Arethusa_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Arethusa_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Arethusa_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Arethusa_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Arethusa_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Arethusa_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Arethusa_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Arethusa_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Arethusa_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Arethusa_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Arethusa_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Arethusa_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Arethusa_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Arethusa_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Arethusa_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Arethusa_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Arethusa_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Arethusa_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Arethusa_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Arethusa_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Arethusa_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

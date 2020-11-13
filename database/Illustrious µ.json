@@ -1,0 +1,312 @@
+{
+  "name": "Illustrious µ",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Illustrious",
+  "ID": "480",
+  "faction": "Royal Navy",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "Byulzzi",
+  "pixiv": "https://www.pixiv.net/en/users/5882726",
+  "twitter": "https://twitter.com/byul_zzi",
+  "voiceActor": "https://en.wikipedia.org/wiki/Sora_Amamiya",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      6513,
+      117,
+      44,
+      0,
+      0,
+      53,
+      30,
+      293,
+      407,
+      13,
+      91,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5764,
+      102,
+      44,
+      0,
+      0,
+      33,
+      30,
+      257,
+      365,
+      13,
+      81,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1115,
+      43,
+      44,
+      0,
+      0,
+      13,
+      30,
+      55,
+      77,
+      4,
+      31,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Fighters",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "135% → 135%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    0,
+    0,
+    64,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Fighters +1 / Fighter efficiency +3%",
+  "limitBreak2": "Hangar capacity +1 / Number of Torpedo Bombers +1 / Fighter efficiency +5%",
+  "limitBreak3": "Number of Fighters +1 / Fighter efficiency +7%",
+  "skill1Name": "Auspice of the Stars; CN: 星占之歌 JP: 走査機オースペクスμ",
+  "skill1Description": "When this ship finishes loading its Airstrike: decreases the Speed of all enemies by 15.0% (30.0%) for 4s and randomly activates one of the following effects:",
+  "skill2Name": "Blue Spirit; CN: 星落之辉 JP: ソング・オブ・ブルースピリット",
+  "skill2Description": "When this ship launches an Airstrike: 50.0% (100%) chance to launch an additional airstrike (DMG is based on the skill's level).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "我是参与本次μ舰装实验的航母·光辉，用歌声的力量，将爱与和平带给这片海洋——不觉得很棒吗~？",
+        "特殊兵装実験任務に参加しております、空母のイラストリアスですわ。歌の力で、愛と平和と聖なる光を――すごく素敵だと思いませんか？",
+        "I am the newest addition to the Muse System, Illustrious. Through my songs, I shall spread the light of love and peace— Don't you think that's a wonderful thing?"
+      ],
+      "selfIntroduction": [
+        "我是光辉级装甲航母的首舰……啊，现在的自我介绍应该是偶像光辉才对了吧~虽然还有诸多不足，但是，我会为了爱与和平全力以赴的~",
+        "イラストリアス級装甲空母のネームシップ……あっ、今はアイドル・イラストリアスと名乗ったほうがよろしいでしょうか。まだまだ未熟ですけど、平和のために精一杯がんばっていきたいと思います",
+        "I am the name ship of the Illustrious-class armored carriers... Oh, should I call myself \"Idol Illustrious\" now? I lack experience, but I will do what I must for the sake of peace."
+      ],
+      "acquisition": [
+        "我是参与本次μ舰装实验的航母·光辉，用歌声的力量，将爱与和平带给这片海洋——不觉得很棒吗~？",
+        "特殊兵装実験任務に参加しております、空母のイラストリアスですわ。歌の力で、愛と平和と聖なる光を――すごく素敵だと思いませんか？",
+        "I am the newest addition to the Muse System, Illustrious. Through my songs, I shall spread the light of love and peace— Don't you think that's a wonderful thing?"
+      ],
+      "login": [
+        "贵安，指挥官。今天要进行什么练习呢？",
+        "指揮官さま、ごきげんよう。今日のレッスンは何をいたしますか？",
+        "Good day, Commander. What will we be practicing today?"
+      ],
+      "details": [
+        "一、二、一、二，啊……谢谢你，指挥官。为什么老是这么难保持平衡呢…",
+        "ワン、ツー、ワン、ツー、あっ……ありがとうございます、指揮官さま。あぅ、イラストリアス、どうしてこうバランスを崩しやすいのでしょう…",
+        "One, two, one two, Ah... Thank you, Commander. I'm not sure why I just can't keep my balance..."
+      ],
+      "secretaryIdle1": [
+        "下次练习结束以后，要不要和大家一起开个茶会呢？",
+        "今度のレッスンが終わりましたら、みんなでお茶会しませんか？",
+        "What if we had a little tea party after our next practice?"
+      ],
+      "secretaryIdle2": [
+        "光是看着塔什干她们轻快的舞姿，都让人感觉内心雀跃不已呢，呵呵~",
+        "タシュケントちゃんたちが元気に楽しく踊っている姿を見ていると、心がドキドキしますわ。ふふふ",
+        "When one watches Tashkent and the girls dance so vivaciously, it makes one's heart pound. Hehehe."
+      ],
+      "secretaryIdle3": [
+        "这身装扮的主题是“宇宙与繁星“呢，充满了浪漫气息，真的很棒呢，嘻嘻~",
+        "この衣装のコンセプトは「宇宙の星々」と聞きましたわ。幻想的で素敵です、ふふふ",
+        "The theme of my costume is \"the starry cosmos,\" isn't that romantic? How delightful. Hehe."
+      ],
+      "secretaryTouch": [
+        "这是…握手会的练习吗？好的，那就拜托你了，指挥官~",
+        "握手会の練習ですか？はい、よろしくお願いします、指揮官さま",
+        "Are we practicing for handshake events? All right, thank you very much, Commander."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，接触偶像要注意遵守礼仪规范哦~",
+        "指揮官さま、アイドルへのスキンシップはマナーを守ってくださいね",
+        "Commander, do remember to maintain decorum when touching an idol."
+      ],
+      "task": [
+        "这是黛朵整理的待完成任务一览，清确认~",
+        "ダイドーが整理してくださった任務の一覧ですわ。指揮官さま、ご確認くださいませ",
+        "Dido prepared this list of tasks for us. Do take a look at them, Commander."
+      ],
+      "taskComplete": [
+        "任务完成了，请确认奖励~接下来的行程是什么呢？",
+        "任務が完成しましたわ。ボーナスを確認して…次のスケジュールは何でしょう？",
+        "Mission accomplisheed. Look over the rewards and... what's next on the schedule?"
+      ],
+      "mail": [
+        "读粉丝来信真是件很让人开心的事情呢，指挥官也试试？",
+        "ファンレターを読むと幸せな気持ちになりますわ。指揮官さまもそういうご経験はありますか？",
+        "Reading fan letters is so delightful. What about your mail, Commander?"
+      ],
+      "returnFromMission": [
+        "♪～哎呀，欢迎回来，指挥官。能听听我们的新曲吗？",
+        "♪～あら、指揮官さま、私たちの新曲、よければお聞きになりませんか？",
+        "♪~Ooh, welcome back, Commander. Can you give our new song a listen?"
+      ],
+      "commission": [
+        "委托组回来了哦。不知道托胜利带的服装材料有么有到呢…",
+        "委託組が帰還したようですわ。ヴィクトリアスに取り寄せていただいた衣装の生地はどこでしょうか？",
+        "It seems the commission team has returned. I wonder if they have the material for Victorious's clothes...?"
+      ],
+      "strengthening": [
+        "这样就能把光辉和歌，都传递到更远的地方了呢",
+        "輝きだけでなく、歌声もより遠くへ伝わりますね",
+        "It's not just about the shining image, it's also about conveying one's voice."
+      ],
+      "startingMission": [
+        "这首歌，为了和平而唱——",
+        "平和のための歌を――",
+        "And now, a song of peace――"
+      ],
+      "mvp": [
+        "光辉照亮的地方，就是我们的舞台，呵呵~",
+        "私達のステージは光満ち溢れる場所ですもの。ふふふ",
+        "Our stage is brilliant and dazzling. Hehe~"
+      ],
+      "defeat": [
+        "仅凭歌声的力量还是不够吗…",
+        "歌の力だけでは足りないのでしょうか…",
+        "It seems the power of song alone was not enough..."
+      ],
+      "skillActivation": [
+        "圣光寄托于歌声之上~",
+        "歌で光を届けますわ",
+        "I will bring the light to you in song."
+      ],
+      "lowHP": [
+        "光芒…不会轻易消散…！",
+        "光を弱めるわけには…！",
+        "We can't let the light go out...!"
+      ],
+      "affinityDisappointed": [
+        "希望光辉的歌能把指挥官呼唤回来……",
+        "どうかイラストリアスの歌で指揮官さまが元に戻りますように……",
+        "I do hope my song can return you to normal, Commander..."
+      ],
+      "affinityStranger": [
+        "作为准备偶像活动的一环，从可畏那借来了她的音乐收藏。虽然稍微闹腾了一些，不过确实充满力量，不失为一种刺激……唔，方向不太对吗？",
+        "アイドル活動の予習として、フォーミダブルの音楽コレクションを借りて聞きましたわ。ちょっと騒がしいですけど、力強くて、耳も体も激しく…そういう方向性とは違う、ですか？",
+        "To prepare for my idol activities, I borrowed some selections from Formidable's music collection. I find it rather noisy, but powerful, in a way that shakes my ears and in fact my whole body... Is that not right?"
+      ],
+      "affinityFriendly": [
+        "经过指挥官的指点，这次参考了一下天鹅她们推荐的歌。轻柔的旋律，和治愈人心的歌声……偶像果然能给人们带来笑容呢",
+        "指揮官さまのご助言でコメットちゃんたちの曲を聴いてみました。優しいメロディ、心を癒やす歌声……アイドルは本当に人を笑顔にするのですね",
+        "At the Commander's request, I referenced a song by Comet and the girls. The gentle melody and soothing voices made me truly understand how idols can make people smile."
+      ],
+      "affinityLike": [
+        "和大家一起进行了偶像练习，没想到，不仅是温柔的歌，连那些充满活力的帅气歌曲也能唱了…这都是指挥官的功劳~呵呵~",
+        "皆と一緒にレッスンしてきました。私、優しい歌だけじゃなく、元気でカッコいい歌も歌えるなんて…指揮官さまのおかげですわ。ふふふ",
+        "I've been practicing with the other girls. I find I can sing gently, or energetically, and even smoothly... And it's all thanks to you, Commander. Hehehe."
+      ],
+      "affinityLove": [
+        "带来爱与和平的歌声，与鼓动人心的舞蹈交织而成的至高舞台——愿这份光辉，能全部传达到指挥官的心中~",
+        "愛と平和をもたらす歌、そして踊りが織りなす最高のステージ――イラストリアスの輝き、どうか指揮官さまに届きますように",
+        "May my radiance touch you, Commander, and carry from the stage my song and dance of peace and love."
+      ],
+      "pledge": [
+        "指挥官的期待与应援，以及满满的情感——光辉全都收到了哦。因为…指挥官看向舞台、看向光辉的眼里，充满了幸福的色彩呢，呵呵~",
+        "指揮官さまの期待と応援、そして思い――すべてを受け入れちゃいますわ。だってステージの上のイラストリアスを見ていた指揮官さまの目、あんなに幸せそうですもの。ふふふ",
+        "I can feel your support, and your hope for me... And I see your eyes full of happiness as you look upon the stage, and upon me, Commander. Hehehe."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Roon µ) 喜欢…拥抱吗？",
+        "(Sortie with Roon µ) ハグするのはお好きですか…？",
+        "(Sortie with Roon µ) You like hugs...?"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,482 @@
+{
+  "name": "Charles Ausburne",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Fletcher",
+  "ID": "013",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Lino(番茄)",
+  "pixiv": "https://www.pixiv.net/member.php?id=238071",
+  "twitter": "https://twitter.com/lino__",
+  "link": "http://weibo.com/p/1005051859846292",
+  "voiceActor": "https://twitter.com/m_satsuki_",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2112,
+      215,
+      82,
+      87,
+      291,
+      158,
+      42,
+      178,
+      0,
+      9,
+      207,
+      212,
+      0,
+      0
+    ],
+    "Level 100": [
+      1775,
+      187,
+      82,
+      76,
+      255,
+      154,
+      42,
+      154,
+      0,
+      9,
+      197,
+      192,
+      0,
+      0
+    ],
+    "Base Stats": [
+      343,
+      79,
+      82,
+      16,
+      54,
+      59,
+      42,
+      33,
+      0,
+      2,
+      76,
+      52,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "115% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 17,
+  "level120StatBonus": "Destroyer (DD) Evasion  +1",
+  "level120TechPoints": 13,
+  "enhancementValue": [
+    5,
+    18,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "31-Knot Burke; CN: 31节伯克 JP: 31ノット・バーク",
+  "skill1Description": "When firing main gun, 4% chance to increase Fleet's movement speed, and Escort Fleet's Evasion by 20% (40%) for 8 seconds.",
+  "skill2Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill2Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フレッチャー級",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/fb/Charles_Ausburne.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/36/Charles_AusburneChibi.png",
+      "shipDescription": [
+        "弗莱彻级驱逐舰—查尔斯·奥斯本，舷号DD-570",
+        "フレッチャー級駆逐艦・チャールズオースバーン（DD-570)",
+        "Fletcher-class destroyer - Charles Ausburne, Hull Number DD-570!"
+      ],
+      "selfIntroduction": [
+        "我是弗莱彻级的查尔斯·奥斯本，鼎鼎有名的小海狸分队队长，在圣乔治湾大显身手过，哼哼，指挥官也想要成为正义的伙伴吗？",
+        "フレッチャー級のチャールズ・オースバーンよ。あの有名なリトル・ビーバーズの隊長として、セント・ジョージ岬沖で活躍したの。ふふん、指揮官も正義の仲間になってみない？",
+        "I'm Charles Ausburne of the Fletcher-class, and the world famous Captain of the Little Beavers! I showed my true colors at the Cape of St. George. Want to be my partner in justice, Commander?"
+      ],
+      "acquisition": [
+        "你好指挥官，小海狸分队队长奥斯本听候差遣。欺负人的孩子在哪，全来接受我的制裁！",
+        "はじめまして、指揮官。リトル・ビーバーズの隊長、オースバーンよ。いじめっ子はどこ？私の裁きを受けるがいいわ！",
+        "Nice to meet you, Commander! I'm Charles Ausburne, Captain of the Little Beavers. Whoever picks on the hopeless and defenseless will receive their punishment in due time!"
+      ],
+      "login": [
+        "你好指挥官，小海狸分队队长奥斯本前来待命。今天又有哪个坏孩子需要我修理？",
+        "こんにちは、指揮官。リトル・ビーバーズの隊長、オースバーンの到着よ。今日は一体どのいじめっ子が私の裁きを待ってるのかしら？",
+        "Good day, Commander. Charles Ausburne, Captain of the Little Beavers, reporting in! Are there any naughty kids who need to be disciplined today?"
+      ],
+      "details": [
+        "武器装备皆为正义的铁拳！",
+        "武器の装備は、すべて正義の鉄拳のためよ！",
+        "Weapons and gear are the iron fists of justice!"
+      ],
+      "secretaryIdle1": [
+        "快跟我一起成为正义的小伙伴吧！",
+        "私と共に、正義の仲間になって！",
+        "Become a friend of justice with me!"
+      ],
+      "secretaryIdle2": [
+        "正义就是正义！~",
+        "正義は…正義よ！",
+        "Justice is justice~!"
+      ],
+      "secretaryIdle3": [
+        "恩…雷达表示，指挥官你心跳很快？",
+        "んー…レーダーによると、指揮官、今ドキドキしてる？",
+        "My sonar shows... it looks like your heart is beating extra fast, Commander!"
+      ],
+      "secretaryTouch": [
+        "唔，我感觉到一股正义的力量传递过来了！",
+        "ん…、正義の力が伝わるのを感じる！",
+        "Mmm, I feel the justice coming from you!"
+      ],
+      "secretarySpecialTouch": [
+        "！！……呜哇~你这邪恶的指挥官！",
+        "！！…うわ、この…邪悪な指揮官め！",
+        "!!... Uh oh... You're evil, Commander!"
+      ],
+      "task": [
+        "指挥官，一鼓作气完成它吧！这是执行正义的机会~",
+        "指揮官、一気にやっちゃおう！これは正義を実行するチャンスよ！",
+        "Commander, let's finish it in one go! Now is the chance to deliver swift justice!"
+      ],
+      "taskComplete": [
+        "奖励下达了，努力后的回报总是令人高兴，不是吗",
+        "ボーナス降りたよ。努力のあとの見返りが一番嬉しい、そう思わない？",
+        "Your rewards have arrived. It's always nice to be rewarded for your hard work, don't you think?"
+      ],
+      "mail": [
+        "信吗，正义是需要人们的支持的，好好回应吧",
+        "メールか。人々の支えあっての正義だ！",
+        "Your mail? Of course! We need help from others if we want to make this world a just one. Reply as soon as you can!"
+      ],
+      "returnFromMission": [
+        "出击的姐妹们都辛苦了！",
+        "出撃隊のみんな、ご苦労様！",
+        "Good work, everyone!"
+      ],
+      "commission": [
+        "正义的军事委托完成了！",
+        "正義な軍事委託、ただいま完了！",
+        "A commission of justice has just been completed!"
+      ],
+      "strengthening": [
+        "这是……正义的能量！",
+        "これが……正義のパワー！",
+        "This is the power of justice!"
+      ],
+      "startingMission": [
+        "小海狸们，31节高速出发~不要把侧身展示给对面的绅士！",
+        "さあ、ビーバーズ、31ノットの高速で出発よ！今度は側面を敵の紳士さんに見せないように",
+        "Little Beavers, full speed ahead at 31 knots! Keep an eye on your sides!"
+      ],
+      "mvp": [
+        "看到了吗，这就是小海狸的真正实力！",
+        "見たか！これがリトル・ビーバーズの実力よ！",
+        "See? This is the real strength of the Little Beavers!"
+      ],
+      "defeat": [
+        "我还会回来的！正义一定会胜利的！呜呜…",
+        "…また戻ってくるわ！正義は必ず勝つ！うぅ…",
+        "I'll be back! Justice will prevail! *Sob*..."
+      ],
+      "skillActivation": [
+        "接受正义的制裁吧！",
+        "正義の裁きを受けなさい！",
+        "Accept your punishment in the name of justice!"
+      ],
+      "lowHP": [
+        "正义不灭！",
+        "正義は不滅だ！",
+        "Justice will prevail!"
+      ],
+      "affinityDisappointed": [
+        "指挥官你这邪恶的化身！",
+        "指揮官、この邪悪な化身め！",
+        "You're the embodiment of evil itself, Commander!"
+      ],
+      "affinityStranger": [
+        "指挥官，还有那么多不正义的事情，怎么能就此停滞不前呢！",
+        "指揮官、この世に正義でないことはまだいっぱいあるから、立ち止まるわけには行かないよ！",
+        "Commander, there's still much injustice in this world, so we can't just stand around and do nothing!"
+      ],
+      "affinityFriendly": [
+        "正义的伙伴可是很难当的，不过指挥官有我奥斯本在一定没问题",
+        "正義の仲間は中々できないのだ。でも指揮官はこのオースバーンがいるから、きっと大丈夫！",
+        "Being partners in justice is never easy. But you've got Ausburne by your side, so I'm sure we'll be fine!"
+      ],
+      "affinityLike": [
+        "正义的道路是孤独的，有同行者可是十分难得的事，所以…我是说…就是…指、挥官，来一起读正义故事吗！",
+        "正義の道は孤独だ。同行者がいるのは珍しいのだから、つまり…あの…その…し、指揮官が…正義の物語でも読みましょう！",
+        "The path of justice is a lonely one. It's rare to have a partner on such a difficult path... What I mean is... I... D-do you want to read some stories about justice with me?"
+      ],
+      "affinityLove": [
+        "故事里面，正义的英雄在和伙伴们战胜邪恶以后总是会回到原本的生活中，而很少会选择共同冒险的伙伴，每次看到这种桥段都觉得有点伤感呢……",
+        "物語の正義のヒーローは仲間たちと邪悪に勝つと元の生活を選び、それまで戦ってきた仲間を選ぶことが少ないんだ。こういう話を聞くと、いつもちょっと悲しくなるよね…",
+        "In the stories I read, the hero always goes back to his normal life after defeating evil with his partners. I have to say, I feel a bit sad reading an ending like this..."
+      ],
+      "pledge": [
+        "…………给我真的可以吗？……是吗，指挥官选择了我吗——嗯，我一定会跟你一起走到最后的！",
+        "……わたしにくれて本当にいいの？……そっか。指揮官、わたしのことを選んでくれたんだ……うん！最後まで一緒に行こう！",
+        "... Are you sure you want to give this... to me? You've really chosen me? Then I'll follow you until the end!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 2 of: Thatcher, Aulick, Foote, Spence) 小海狸们,31节全速前进！",
+        "(Sortie with at least 2 of: Thatcher, Aulick, Foote, Spence) ビーバーズ、31ノット全速前進っ！",
+        "(Sortie with at least 2 of: Thatcher, Aulick, Foote, Spence) Beavers, full speed ahead at 31 knots!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 1 of: Thatcher, Sims) 是哪个孩子喜欢捉弄人啊？",
+        "(Sortie with at least 1 of: Thatcher, Sims) いじめっ子はだれだ？",
+        "(Sortie with at least 1 of: Thatcher, Sims) Who's been naughty?"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 3 ships designed by the same artist) 正义的番茄分队，出击！",
+        null,
+        "(Sortie with at least 3 ships designed by the same artist) Justice will previal!"
+      ],
+      "giftDescriptionValentines2018": [
+        "巧克力名叫Justice Valentine！指挥官，正义的伙伴可不能拒绝女孩子的礼物哦！",
+        "名付けて、ジャスティスバレンタイン！指揮官、正義の味方なら、女の子からのプレゼントを断ってはダメよ！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "我给它起名“黑色闪电的正义（Justice dark bolk）”！这是与正义的伙伴一起进行的梦之共同作战！指挥官，收下吧！",
+        "名付けて、「闇き轟雷の正義（ジャスティス・ダーク・ボルト）」！正義の味方との夢の共同作戦だ！指揮官、受け取って！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "This chocolate is what I call holiday justice! I hope its taste will become a fond memory of yours! Go on, take it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Charles_Ausburne_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Charles_Ausburne_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Charles_Ausburne_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Charles_Ausburne_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Charles_Ausburne_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Charles_Ausburne_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Charles_Ausburne_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Charles_Ausburne_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Charles_Ausburne_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Charles_Ausburne_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Charles_Ausburne_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Charles_Ausburne_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Charles_Ausburne_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Charles_Ausburne_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Charles_Ausburne_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Charles_Ausburne_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Charles_Ausburne_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Charles_Ausburne_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Charles_Ausburne_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Charles_Ausburne_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Charles_Ausburne_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Charles_Ausburne_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Charles_Ausburne_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Charles_Ausburne_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Charles_Ausburne_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Charles_Ausburne_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Charles_Ausburne_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Charles_Ausburne_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Charles_Ausburne_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Charles_Ausburne_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Charles_Ausburne_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Charles_Ausburne_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Charles_Ausburne_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Charles_Ausburne_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Charles_Ausburne_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Charles_Ausburne_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Charles_Ausburne_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Charles_Ausburne_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Charles_Ausburne_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Charles_Ausburne_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Charles_Ausburne_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Charles_Ausburne_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Charles_Ausburne_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Charles_Ausburne_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Charles_Ausburne_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Charles_Ausburne_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Charles_Ausburne_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Charles_Ausburne_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Charles_Ausburne_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Charles_Ausburne_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Charles_Ausburne_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Charles_Ausburne_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Charles_Ausburne_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Charles_Ausburne_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Charles_Ausburne_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Charles_Ausburne_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Charles_Ausburne_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Charles_Ausburne_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Charles_Ausburne_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Charles_Ausburne_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Charles_Ausburne_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Charles_Ausburne_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Charles_Ausburne_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Charles_Ausburne_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Charles_Ausburne_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Charles_Ausburne_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Charles_Ausburne_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Charles_Ausburne_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Charles_Ausburne_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Charles_Ausburne_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Charles_Ausburne_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Charles_Ausburne_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Charles_Ausburne_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Charles_Ausburne_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Charles_Ausburne_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Charles_Ausburne_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Charles_Ausburne_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Charles_Ausburne_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Charles_Ausburne_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Charles_Ausburne_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Charles_Ausburne_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Charles_Ausburne_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Charles_Ausburne_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Charles_Ausburne_Extra2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

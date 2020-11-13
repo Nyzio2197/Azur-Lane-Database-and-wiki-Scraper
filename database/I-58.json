@@ -1,0 +1,321 @@
+{
+  "name": "I-58",
+  "constructionTime": "00:30:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "B3",
+  "ID": "340",
+  "faction": "Sakura Empire",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "哈路卡",
+  "pixiv": "https://www.pixiv.net/member.php?id=12785336",
+  "link": "https://weibo.com/u/1952889047",
+  "voiceActor": "https://en.wikipedia.org/wiki/Tomori_Kusunoki",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2080,
+      79,
+      58,
+      59,
+      503,
+      37,
+      14,
+      0,
+      0,
+      6,
+      168,
+      0,
+      268,
+      2
+    ],
+    "Level 100": [
+      1733,
+      69,
+      58,
+      51,
+      457,
+      18,
+      14,
+      0,
+      0,
+      6,
+      150,
+      0,
+      268,
+      2
+    ],
+    "Base Stats": [
+      335,
+      29,
+      58,
+      11,
+      97,
+      7,
+      14,
+      0,
+      0,
+      2,
+      58,
+      0,
+      268,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "105% → 120%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "100% → 115%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Health  +2",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    1,
+    38,
+    0,
+    6
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Departing Strike; CN: 谢幕演出 JP: 底力の一撃",
+  "skill1Description": "Increases damage dealt to Heavy Cruisers by 5% (15%). When leaving battle, fires a wave of torpedoes (damage and spread based on Skill Level).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射",
+  "skill2Description": "When entering battle, triggers Full Barrage - I-Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4e/I-58.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png",
+      "shipDescription": [
+        "巡潜乙型改二型潜艇伊58",
+        "巡潜乙型改二伊号第五十八潜水艦",
+        "Type-B Mod 2 cruiser submarine – I-58."
+      ],
+      "selfIntroduction": [
+        "潜巡乙型改二，通称伊五十四型潜艇三号舰，伊58就是我。我是在战争末期出生的，参与了几次任务，并且在终战前击沉了印第安波利斯……虽然是很大的战果没错，不过也没什么值得高兴的呢……",
+        "巡潜乙型改二、通称伊五十四型潜水艦の三隻目、伊58よ。あの大戦の末期に生まれ、任務に何回か参加して、終戦間近にインディアナポリスを沈めた。結構大きい戦果だったけど、まあそんなに誇らしいものでもないよね……",
+        "Type-B Mod 2 cruiser submarine, I-58. Yup, that's me. I was born towards the end of the war, and participated in several missions. Before the end of things, I managed to sink Indianapolis. Even though it was a great achievement, it's not like it ultimately made a difference..."
+      ],
+      "acquisition": [
+        "伊58，报道。平时我应该会在港口近海里发呆，想找我的时候就去那吧",
+        "伊58、着任した。普段は港近くの海の中にいるので、探したい時はそこで探してね",
+        "I-58, reporting in. I usually like hanging out in the water by the docks, so you know where to look if you need me~"
+      ],
+      "login": [
+        "指挥官，潜艇型离开水会死哦——开玩笑的",
+        "指揮官、潜水艦は海から離れると枯れちゃうよ――じょ、冗談だけど……",
+        "Commander, submarines will die if you take them out of the water. I-I was just kidding..."
+      ],
+      "details": [
+        "我喜欢宁静的夜晚，因为没那么容易让人发现我的存在",
+        "静かな夜が好き。誰もわたしの存在に気づかないから",
+        "I love the serenity of the night. Nobody ever notices my presence."
+      ],
+      "secretaryIdle1": [
+        "虽然在岸上活动也没什么障碍，不过我还是喜欢待在水里，噗噜噜…",
+        "別に陸上でも活動できるけど、海の中の方が好きよ。（プルルル…",
+        "It's not like I'll die if I'm taken out of the ocean, but I definitely prefer being in it. *blub blub*"
+      ],
+      "secretaryIdle2": [
+        "指挥官，你一般用什么姿势游泳？自由式，蝶式，还是狗刨？",
+        "指揮官、普段はどんな泳ぎ方をしているの？クロール？バタフライ？平泳ぎ？",
+        "Commander, when it comes to swimming, which stroke is your favorite? Crawl? Butterfly? Breaststroke?"
+      ],
+      "secretaryIdle3": [
+        "海里有许多奇特的东西，指挥官，你也应该下来体验一下",
+        "海の中には奇妙なものがいっぱい。指揮官も一回潜ってみて、体験したほうがいいよ？",
+        "There are a lot of miraculous things in the ocean. Want to go on a dive with me and experience it for yourself?"
+      ],
+      "secretaryTouch": [
+        "下水前的热身动作很重要，指挥官，一起来做操吧",
+        "潜る前のウォーミングアップは大事よ。指揮官、一緒にストレッチしない？",
+        "It's important to warm up before diving. Commander, let's do some exercises together."
+      ],
+      "secretarySpecialTouch": [
+        "虽然我也觉得有些小了……不过这样更方便行动",
+        "わ、わたしもちょっと小さいと思ってるけど……まあおかげさまで動きやすいよね……",
+        "I mean... I'll admit they're on the small side... but that makes it more hydrodynamic!"
+      ],
+      "task": [
+        "新任务？有要我出马的地方吗？",
+        "新しい任務？わたしも出るのかな？",
+        "New missions? Is there something that I can do?"
+      ],
+      "taskComplete": [
+        "任务奖励……都是些不能带下水的东西呢",
+        "任務報酬……潜る時に持っていけそうにない……",
+        "These mission rewards... there's nothing that can be brought underwater..."
+      ],
+      "mail": [
+        "指挥官，新邮件……抱歉，刚从海里上来，有些湿了",
+        "指揮官、新しいメール……ごめん、今浮上したばかりだったから少しメールを濡らしちゃった……",
+        "Commander, there's new mail... Ah, sorry, I just left the water so I got it wet..."
+      ],
+      "returnFromMission": [
+        "指挥官，今天的大海适合我活动吗？",
+        "指揮官、今日の海は潜航に適しているのか？",
+        "Commander, are the conditions of the waters suitable for me to carry out my activities?"
+      ],
+      "commission": [
+        "海面的情况不知道怎么样……啊，指挥官，委托组回来了",
+        "水面上はどうなっているのかな……あ、指揮官、委託組が帰ってきたよ",
+        "I wonder what's going on up there on the surface... Ah, Commander, your commission fleet has returned."
+      ],
+      "strengthening": [
+        "嗯，感觉身体更轻盈了",
+        "うん、体が軽くなった",
+        "Mhm, my body feels lighter."
+      ],
+      "startingMission": [
+        "反潜部队就交给你们咯",
+        "対潜は任せるよ",
+        "I'll let the rest of you handle the anti-sub."
+      ],
+      "mvp": [
+        "水面部队也就这样了",
+        "水上艦はこんなものなのね…",
+        "Is that all you surface-lubbers are made of?"
+      ],
+      "defeat": [
+        "被发现了吗……下次要更隐秘一点",
+        "見つかった……次はもっと隠蔽性を注意しないと……",
+        "I've been found, huh... Next time, I've got to be sneakier..."
+      ],
+      "skillActivation": [
+        "这个方向的攻击，你们猜到了吗？",
+        "ここからの攻撃、予測できる？",
+        "Can you predict where I'm going to attack from?"
+      ],
+      "lowHP": [
+        "……似乎被针对了呢",
+        "……対策されているのね",
+        "Seems that I'm being targeted..."
+      ],
+      "affinityDisappointed": [
+        "这支舰队，也只是为了战争而存在的吗……",
+        "この艦隊も戦争のために存在するものなの……",
+        "Does this fleet exist only to wage war...?"
+      ],
+      "affinityStranger": [
+        "既然变成了同伴，就要想办法和印第安纳波利斯搞好关系了呢…不过还有她那麻烦的姐姐…唔…我还是去海里待着吧…",
+        "仲間になったからにはインディアナポリスと仲良くしないと…でもあの子の姉は…うぅ…やっぱりわたし、海の中にいるほうが……",
+        "Now that we're all on the same team, I'm going to have to learn to work with Indianapolis... but that sister of hers, bleh... Ugh, maybe I'll just go for a swim instead..."
+      ],
+      "affinityFriendly": [
+        "—不靠自己迈出这一步，永远不会有好的结果……吗？嗯…果然还是去和她好好聊一聊吧",
+        "「自分から踏み出さないとなにも始まらない」……そういうものなの？うん…あの子と話してみるね",
+        "\"A journey of a thousand miles begins with a single step?\" Hmm... I suppose I can start by saying hello to her..."
+      ],
+      "affinityLike": [
+        "虽然不能马上就毫无隔阂，不过毕竟已经是伙伴了呢…接下来，就交给时间吧。指挥官，多亏了你，作为谢礼，亲你一下怎么样？",
+        "すぐにはわかり会えないけど、わたしたちは仲間だもんね…もう時間にお任せするしかないよ。指揮官、ありがとう。お礼に……ちゅっ",
+        "Although we can't become close friends that easily, at least we're making some progress... I suppose time will take care of the rest. Commander, thank you so much for your help. As a reward... *kiss*"
+      ],
+      "affinityLove": [
+        "没有人能够简单地忘记过去…不过，指挥官为大家描绘了一个不一样的未来，让大家能够共同前进…能喜欢上这样的人，是我的荣幸哦",
+        "過去を忘れるのは簡単じゃない…でも、指揮官がみんなに違う未来を描いてくれて、前に進めるよう導いてくれた…わたし、指揮官のことが好きになれて、誇りに思うよ",
+        "It's hard to let go of the past... but Commander, you've rewritten everyone's futures, to one where we can all move forward together. Commander, I can't be prouder of the fact that I fell for you."
+      ],
+      "pledge": [
+        "指挥官的话，一定能创造一个大家…都能露出真心笑容的世界吧…对我来说，没有比陪在这样的你身边更幸福的事了",
+        "指揮官なら、みんなが幸せの笑顔になる世界を作り出せると思う…ふふ、わたしにとって、指揮官のそばにいることが一番の幸せだよ",
+        "Commander, I'm sure that you will be able to create that world... where everyone can smile from the bottom of their heart... As for me, I can't think of anything happier than being with you right now."
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你，这是我收集的贝壳里很漂亮的一个……里面还放了巧克力哦。",
+        "指揮官、どうぞ。チョコよ。食べて。わたしの巻き貝コレクションからも一つ添えて…ね？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I got this Indy-chocolate too... Hm... You want to try, Commander? I guess Portland gave me two of them, I'm supposed to \"spread the gospel\" to you, Commander..."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

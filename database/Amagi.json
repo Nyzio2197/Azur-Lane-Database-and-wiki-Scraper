@@ -1,0 +1,570 @@
+{
+  "name": "Amagi",
+  "constructionTime": "04:25:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Amagi",
+  "ID": "367",
+  "faction": "Sakura Empire",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "artist": "Liduke",
+  "pixiv": "https://www.pixiv.net/member.php?id=38088",
+  "twitter": "https://twitter.com/lidukelaya",
+  "link": "https://weibo.com/liduke",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/a/a9/Amagi_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      7654,
+      148,
+      23,
+      421,
+      213,
+      41,
+      30,
+      187,
+      0,
+      15,
+      68,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6514,
+      129,
+      23,
+      379,
+      186,
+      24,
+      30,
+      162,
+      0,
+      15,
+      55,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1260,
+      54,
+      23,
+      80,
+      39,
+      9,
+      30,
+      35,
+      0,
+      5,
+      21,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "180% → 180%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "90% → 90%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 20,
+  "maxLimitBreakTechPoints": 40,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 30,
+  "enhancementValue": [
+    53,
+    4,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    10,
+    3,
+    10
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Ageless Phoenix; CN: 千年之凤 JP: 鳳羽撃けば金烏を翳らし",
+  "skill1Description": "While alive in fleet, decreases all enemies' Firepower, Torpedo stat and Aviation by 3% (9%).",
+  "skill2Name": "Efficacious Planning; CN: 运筹千里 JP: 謀り運らせば千里を決す",
+  "skill2Description": "While alive in fleet, reduces Burn damage taken by the Main Fleet by 5% (15%) and increases their Evasion Rate by 4% (10%).",
+  "skill3Name": "Crippling Strike; CN: 克敌机先 JP: 砲身轟かせば機先を制す",
+  "skill3Description": "When firing main gun: 40% (70%) chance to launch a frontal barrage (damage scales with skill level). During battle, if fleet consists of 4 or more Sakura Empire ships, decreases loading time of the first main gun salvo by 25% (45%).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c8/Amagi.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png",
+      "shipDescription": [
+        "鳐级战列巡洋舰一番舰—鳐",
+        "天城型巡洋戦艦一番艦・天城",
+        "1st Ship of the Amagi-class Battlecruisers, Amagi"
+      ],
+      "selfIntroduction": [
+        "鳐级战列巡洋舰首舰·鳐，原本预定要和妹妹凰一起接受改造成为航母…可惜我不幸在那场地震中倒下…咳咳…如您所见，我的身体不是很好，不过还请不要有所顾虑",
+        "天城型巡洋戦艦のネームシップ、天城です。元々は赤城とともに空母に改装される予定でしたけど…あの天災で倒れておりました。げほげほ…はい、見ての通り体があまり丈夫ではありませんが、何卒お気遣いなさらず…",
+        "I am the nameship of the Amagi-class battlecruisers, Amagi. Along with Akagi, I was originally supposed to be converted into an aircraft carrier, but that plan was scrapped after a certain natural disaster. *cough* *cough* ... As you can see, my body is not in a great condition, but please do not worry about me too much."
+      ],
+      "acquisition": [
+        "咳咳…战列巡洋舰、鳐，前来拜见。这里似乎能让我稍微发挥一下本领呢…主上，能为在下介绍一下我们的敌人吗？",
+        "げほげほ…巡洋戦艦天城、参りました。ここなら私も力を発揮できそう…指揮官様、まず私の敵についてご説明をお願いできますか？",
+        "*cough* *cough* Battlecruiser Amagi, reporting in. It looks like I should be able to fully utilize my abilities here. Commander, would you please brief me on our enemies?"
+      ],
+      "login": [
+        "主上，今日的作战方案已经放在桌上了，请过目",
+        "指揮官様、今日の作戦要綱を机に置いておきました。ご確認ください",
+        "Commander, I've left today's combat operation plans on the table. Please take a look."
+      ],
+      "details": [
+        "不想让大家受伤吗……呵呵，主上给我出了个难题呢，不过就让我试试吧",
+        "みんなを傷つけたくない、ですか……指揮官様も無理難題を仰いますね…ふふ、工夫は致しますわ",
+        "Don't let anyone get injured? Commander, that's quite the tall order, but I'm up for the challenge."
+      ],
+      "secretaryIdle1": [
+        "通往理想的道路虽然艰险，但也因此才有挑战的价值不是吗？",
+        "道のりは険しいと言われますが、だからこそ挑戦する価値があると思いますわ",
+        "The road ahead of us is perilous, but I believe that is also what makes the journey worthwhile."
+      ],
+      "secretaryIdle2": [
+        "无须畏惧失败，主上。有我在，所有挫折和失败都将化为胜利的食粮",
+        "指揮官様、失敗を恐れる必要はありませんわ。この天城がいるかぎり、失敗も挫折も次の勝利への糧にして差し上げます",
+        "Commander, there is no need to fear failure. As long as I am here, all setbacks are but fodder for our victories."
+      ],
+      "secretaryIdle3": [
+        "凰…成长得稍微有些超乎想象呢",
+        "ああ、赤城……変な育ち方をしちゃいましたね……",
+        "Akagi turned out... a bit differently from what I expected."
+      ],
+      "secretaryTouch": [
+        "呵呵呵……啊，主上，我只是在想，点心吃点什么好呢？",
+        "フフフフ……指揮官様、今お菓子は何にするか、思案していたところですわ",
+        "Ehehe... Oh, Commander, I was just thinking about what snacks I'd like to eat."
+      ],
+      "secretarySpecialTouch": [
+        "主上…我正在想事情呢…",
+        "んっ…指揮官様…今ほかのことについて思案中だったのですが……",
+        "Oh, Commander... I was contemplating some other things..."
+      ],
+      "task": [
+        "下一个任务是……",
+        "次の任務は………",
+        "The next mission is..."
+      ],
+      "taskComplete": [
+        "任务报酬…要投入到最合适的地方才行呢…",
+        "任務報酬…一番有効な使い方にしておかないと",
+        "Mission rewards... we should think of the most efficient way to utilize them."
+      ],
+      "mail": [
+        "主上，有信件，是新的情报吗？",
+        "指揮官様、お手紙があります。新しい情報でしょうか？",
+        "Commander, you have new mail. Might it be new intel?"
+      ],
+      "returnFromMission": [
+        "主上，我的计策可有发挥用途？",
+        "指揮官様、私の作戦はお役に立てたのでしょうか？",
+        "Commander, were you able to make use of my strategic plans?"
+      ],
+      "commission": [
+        "主上，委托完成了，另外，关于接下来的人选我有些建议——",
+        "指揮官様、委託が完了しましたわ。次に出撃する人選について僭越ながらご提案が――",
+        "Commander, a commission has been completed. Also, I have some suggestions for potential candidates to send on the next-"
+      ],
+      "strengthening": [
+        "感觉身体状况…似乎好了点",
+        "体の調子がだいぶ良くなってきました",
+        "My health... seems to have improved a bit."
+      ],
+      "startingMission": [
+        "那么，按照计划行事吧，诸位",
+        "では、計画通りに参りますわ",
+        "All right, let's proceed as planned."
+      ],
+      "mvp": [
+        "那么…要如何活用这场胜利呢…",
+        "では…この勝利をどう利用するか……",
+        "Now then, how can we make further use of this victory?"
+      ],
+      "defeat": [
+        "计算…出错了吗…",
+        "計算を…間違えたのでしょうか…",
+        "Did I... make a miscalculation...?"
+      ],
+      "skillActivation": [
+        "呵呵呵……",
+        "フフフフ……",
+        "Ahahaha..."
+      ],
+      "lowHP": [
+        "需要改变一下战术了呢…",
+        "策を改める必要がありますね……",
+        "Perhaps a change of plans is in order..."
+      ],
+      "affinityDisappointed": [
+        "明主难寻呢……",
+        "伯楽（はくらく）とはなかなか見つかりにくいものですわ",
+        "Swineherds like you are quite hard to find these days."
+      ],
+      "affinityStranger": [
+        "对于策士来说最重要的东西就是情报，知道的比对方多，就已经赢了一半",
+        "策を用いるためには情報が要…「能く上智を以て間者と為し、三軍の恃みて動く所なり」、ということになりましょう",
+        "Information is a tactician's most valuable asset. Knowing more than your enemy is already half the battle."
+      ],
+      "affinityFriendly": [
+        "策略只能弥补有限的实力之差，所以…咳咳…让自己变强才是最重要的，主上",
+        "奇を以って勝つといえど、正を以って合わねば戦を制すことなかれ…げほげほ、指揮官様、自ら力を鍛えることこそ肝心ですわ",
+        "Superior tactics can only make up for differences in strength to a limited extent... *cough* *cough* ...That is why becoming stronger is still of paramount importance, Commander."
+      ],
+      "affinityLike": [
+        "咳咳…主上是令鳐都心悦诚服之人，再自信一些也无妨哟？",
+        "げほげほ…指揮官様はこの天城をも認めさせた方ですから、もう少し自信を持ったほうがいいですわ",
+        "*cough* *cough*... Commander, you've already earned my acknowledgment. Why not have a little more confidence in yourself?"
+      ],
+      "affinityLove": [
+        "主上如果真的关心鳐，就请全力向前迈进吧…您的胜利与笑容，对我来说就是最好的特效药",
+        "げほげほ…天城のことをご心配なさるのでしたら、全力で前へお進みください…指揮官様の勝利、そして笑顔こそ、私への特効薬ですわ",
+        "Commander, if you truly care about me, *cough* then please keep moving forward with all your might. Your gallant victories and smiling face are the best medicine for me."
+      ],
+      "pledge": [
+        "主上…选择了我吗？本想若是为了主公之大业，即便此身殒落也在所不惜…这下看来，不得不稍微注意一下自己的身体了呢…",
+        "指揮官様…この天城をお選びになったのですね？ふふ、元より指揮官様のために身を捧げる覚悟ですが…選んでいただいたからには、自らの健康にも少し気を使った方がいいですわね",
+        "Commander... so you've chosen me, then? Hehe... From the beginning, I was prepared to lay my life down for your ambitions. But with this being the case, perhaps I should take better care of my body."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Graf Zeppelin) 凰…？哎呀，似乎认错了呢",
+        "(Sortie with Graf Zeppelin) 赤城…？あら、人違いでしたか…",
+        "(Sortie with Graf Zeppelin) Akagi...? Oh my, I have the wrong person..."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Akagi) 凰，听好了，是主上的命令哦？",
+        "(Sortie with Akagi) 赤城、指揮官様のご命令はちゃんと聞くのですよ？",
+        "(Sortie with Akagi) Akagi, follow the commander's orders, okay?"
+      ],
+      "giftDescriptionValentines2019": [
+        "咳咳，主上，天城虽善于谋略，对厨艺却是一窍不通，倾尽全力也只能做出这等水平，还请主上不要嫌弃……呵呵，听了这番话，不知道主上品尝巧克力的欲望是否强了一些呢？",
+        "「げほげほ、私、病体ゆえ調理は不得手でして、全力を尽くしてもこのような品にしかできませんが……」と、こう申せば、指揮官様は私の手作りチョコを一層食べたくなるのではないかと……恐縮です。フフフフ……",
+        "\"*Cough, cough*... Since I'm so frail, I cannot cook properly, and even with my best efforts I cannot make anything better than this...\" Perhaps you will want to try my handmade chocolate even more if I say that... *Giggle*..."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "The box holds my heartfelt feeling, while the ribbon represents restraint. Then, when you softly bite into the chocolate itself, your mouth fills with bitterness, and sweetness, and other emotions your taste buds cannot detect... Hehehe, did I get a little too colorful there? Forgive me, Commander. Don't think too much on it. Just eat, and enjoy~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Amagi_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Amagi_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Amagi_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Amagi_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Amagi_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Amagi_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Amagi_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Amagi_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Amagi_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Amagi_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Amagi_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Amagi_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Amagi_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Amagi_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Amagi_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Amagi_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Amagi_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Amagi_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Amagi_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Amagi_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Amagi_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Amagi_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Amagi_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Amagi_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Amagi_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Amagi_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Amagi_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Amagi_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Amagi_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Amagi_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Amagi_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Amagi_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Amagi_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Amagi_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Amagi_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Amagi_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Amagi_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Amagi_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Amagi_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Amagi_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Amagi_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Amagi_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Amagi_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Amagi_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Amagi_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Amagi_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Amagi_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Amagi_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Amagi_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Amagi_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Amagi_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Amagi_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Amagi_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Amagi_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Amagi_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Amagi_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Amagi_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Amagi_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Amagi_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Amagi_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Amagi_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Amagi_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Amagi_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Amagi_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Amagi_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Amagi_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Amagi_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Amagi_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Amagi_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Amagi_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Amagi_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Amagi_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Amagi_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Amagi_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Amagi_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Amagi_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Amagi_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Amagi_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Amagi_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Amagi_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Amagi_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Amagi_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Amagi_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Amagi_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Wending Waters, Serene Lotus",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "走水静莲",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "走水静蓮",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e2/AmagiSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c0/AmagiSummerChibi.png",
+      "shipDescription": [
+        "主上来这里…莫非是为了视察？…啊，请不用担心鳐的健康，我会遵照与主上您以及凰的约定，好好照顾自己的，呵呵~",
+        "指揮官様、ここにいらっしゃったのはもしやご視察のためですか？…ああ、天城のことでしたらご心配に及びません。指揮官様と赤城の約束通り、養生させていただいております。ふふふ",
+        "Commander, are you here to pay me a visit? ...Ah, there is no need to be concerned about me. I made a promise to both you and Akagi that I would be mindful of my health."
+      ],
+      "acquisition": [
+        "主上来这里…莫非是为了视察？…啊，请不用担心鳐的健康，我会遵照与主上您以及凰的约定，好好照顾自己的，呵呵~",
+        "指揮官様、ここにいらっしゃったのはもしやご視察のためですか？…ああ、天城のことでしたらご心配に及びません。指揮官様と赤城の約束通り、養生させていただいております。ふふふ",
+        "Commander, are you here to pay me a visit? ...Ah, there is no need to be concerned about me. I made a promise to both you and Akagi that I would be mindful of my health."
+      ],
+      "login": [
+        "主上，您不去海边玩吗？不用担心我，和大家一起去玩吧。",
+        "指揮官様、海に行かないのですか？私のことは気にせずみんなと楽しんでいらっしゃいませ",
+        "Commander, are you not going to head down to the ocean? There is no need to worry about me, so please enjoy your time with the others."
+      ],
+      "details": [
+        "有话要转达给凰？若主上希望，我自然愿意转达，不过由您自己去跟她说或许，效果会更好呢。而且，对您来说，这样也更有意思…不对吗？呵呵呵",
+        "赤城に伝言ですか？ええ、仰ってくださればあの子に何でもお伝えしますが、指揮官様ご自身がお伝えしたほうが効果的だと思いますわ。指揮官様もそのほうが楽しめるかと…違いますか？フフフ",
+        "Is there anything I would like to tell Akagi? Of course, I have many things I would like to impart with her, but perhaps it would be more appropriate that she hears those words from you, Commander. And perhaps, that would be the more interesting way of doing things... Don't you agree? Hehe~"
+      ],
+      "secretaryIdle1": [
+        "鸾的妹妹，果然很擅长画画呢…我家凰…嗯，凰也是挺可爱的呢",
+        "加賀の妹、相変わらず絵が上手で…うちの赤城は…ううん、赤城も赤城で可愛げがありますわ",
+        "Kaga's younger sister is quite skilled at drawing... As for my sister, well... Akagi has her own charming points~"
+      ],
+      "secretaryIdle2": [
+        "这不善运动的身体给您多添麻烦了，主上…谢谢您能这么陪着我",
+        "元々運動に不得手な体のせいでご迷惑を…指揮官様、お付き合いいただきお礼申し上げます",
+        "I'm sorry for the trouble I've caused you due to my less than ideal health, but I would like to say... Commander, you have my deepest gratitude for looking after me all this time."
+      ],
+      "secretaryIdle3": [
+        "要吃点什么吗？这是我和鸾她们准备的小点，想着主上一定会来就，也一并让大家准备了您喜欢的食物。呵呵呵",
+        "軽食でもお召し上がりになりますか？加賀たちと準備していたものがございます。指揮官様がいらっしゃることを想定してお好みの献立も用意させております。フフフ",
+        "Would a light meal be to your liking, Commander? Kaga, Akagi, and I worked together to make this. We chose our dishes assuming that you would also be here to partake in our cooking. Hehe~"
+      ],
+      "secretaryTouch": [
+        "我是不会漂走的。因为主上您和凰都是如此期望的啊",
+        "どこにも行きませんわ。指揮官様と赤城がそう望んでいますもの",
+        "I'm not going anywhere, Commander. That's what you and Akagi wished for, after all."
+      ],
+      "secretarySpecialTouch": [
+        "主上，在做这种事之前，还是先注意下周遭的事先比较好哦",
+        "指揮官様、これはいささか人目に気を配っておくべきかと",
+        "Commander, I would advise you to pay closer attention to your surroundings before doing things like this..."
+      ],
+      "secretaryHeadpat": [
+        "您这是…",
+        "これはこれは…",
+        "Oh my, what's this...?"
+      ],
+      "task": [
+        "任务就交给鳐吧",
+        "任務は天城におまかせくださいませ",
+        "Please entrust this assignment to Amagi."
+      ],
+      "taskComplete": [
+        "这里是任务报酬，请您过目",
+        "任務報酬です。ご確認くださいませ",
+        "The mission rewards have arrived. Please look over them."
+      ],
+      "mail": [
+        "新的信件——是好消息。不用担心",
+        "新しいお手紙――いい情報でございます。どうか心配なさらず",
+        "New mail has arrived — yes, it's good news. You need not be concerned."
+      ],
+      "returnFromMission": [
+        "主上平安无事就好。港区的伙伴们都在盼着您的归来呢",
+        "ご無事でなによりです。母港の仲間たちも指揮官様の帰還を心待ちにしておりました",
+        "Thank goodness you're back. Everyone here at port was waiting for your safe return, Commander."
+      ],
+      "commission": [
+        "主上，委托完成了。要不要让她们准备好就直接来这边？",
+        "指揮官様、委託が完了しましたわ。支度が終わり次第、委託の子たちを直接こちらにお呼びしましょうか",
+        "Commander, a commission has been completed. Shall I summon the returnees here once they are finished with their preparations?"
+      ],
+      "startingMission": [
+        "先开始构筑阵型吧",
+        "まずは陣形を構築しましょう",
+        "First, let us assemble our formation."
+      ],
+      "defeat": [
+        "咳咳…稍微有点着凉了吗…",
+        "げほげほ…少し風に当たりすぎたのかしら…",
+        "*cough* *cough*... I wonder if I am coming down with a cold..."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,468 @@
+{
+  "name": "Bunker Hill",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Super Rare",
+  "shipClass": "Essex",
+  "ID": "380",
+  "faction": "Eagle Union",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "德意志的科学",
+  "pixiv": "https://www.pixiv.net/member.php?id=6054803",
+  "twitter": "https://twitter.com/ls809251250",
+  "link": "https://www.weibo.com/onlykexue",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/8/81/Bunker_Hill_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6610,
+      131,
+      35,
+      0,
+      0,
+      54,
+      33,
+      309,
+      425,
+      13,
+      82,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5698,
+      114,
+      35,
+      0,
+      0,
+      34,
+      33,
+      272,
+      383,
+      13,
+      73,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1102,
+      48,
+      35,
+      0,
+      0,
+      13,
+      33,
+      58,
+      81,
+      4,
+      28,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "125% → 140%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "115% → 130%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "100% → 115%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 17,
+  "maxLimitBreakTechPoints": 35,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +2",
+  "level120TechPoints": 26,
+  "enhancementValue": [
+    0,
+    0,
+    67,
+    9
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Fighters +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +7%",
+  "skill1Name": "Task Force Leader; CN: 特混分队旗舰 JP: タスクグループ",
+  "skill1Description": "Increase own Airpower by 5% (15%). If sortied as flagship, increase allied Eagle Union (USS) Battleships' Firepower by 5% (15%); If sortied as non-flagship, increase allied Eagle Union (USS) Destroyers' Firepower and Anti-Air by 5% (15%).",
+  "skill2Name": "Unwavering Resolution; CN: 恪尽职守 JP: 堅忍不抜",
+  "skill2Description": "When sortied without other CVs/CVLs: increase Main Fleet's Anti-Air by 4.5% (12%). When launching an airstrike: launch an aerial barrage based on the number of CVs/CVLs in the Main Fleet (damage based on skill level):",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3d/Bunker_Hill.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9f/Bunker_HillChibi.png",
+      "shipDescription": [
+        "埃塞克斯级航空母舰—邦克山，舷号CV-17",
+        "エセックス級航空母艦・バンカー・ヒル（CV-17)",
+        "Essex-class aircraft carrier – Bunker Hill, Hull Number CV-17."
+      ],
+      "selfIntroduction": [
+        "埃塞克斯级邦克山号，名字源于独立战争中那场残酷的战斗。曾经活跃于诸多战场，不过…战争让人感受到的，只能是悲伤和痛苦，无需多言",
+        "エセックス級のバンカー・ヒルだ。名はかの独立戦争の戦場から来ている。活躍した戦闘は多いが…悲しみと痛みをもたらす戦争のことだ。多くは語るまい",
+        "Essex-class, Bunker Hill. My name comes from a battlefield in the Revolutionary War. I've seen my fair share of battles... and know that war brings nothing but sorrow and pain. Let's not talk about it any more."
+      ],
+      "acquisition": [
+        "邦克山，埃塞克斯级的一员，从今以后将加入舰队，听从你的号令。放心，会有机会见识到我的实力的",
+        "エセックス級の一人、このバンカー・ヒルが艦隊に加わり、お前の指揮下に入った。案ずるな、じきにお前も私の実力を目にすることになるだろう",
+        "Bunker Hill, one of the Essex-class carriers, is joining the fleet under your command. Don't worry, you'll see the extent of my abilities soon enough."
+      ],
+      "login": [
+        "现在可是非常时期，即使是假日也要做好出假日特快(Holiday Express)”的准备",
+        "今は非常時だ。休日でも「ホリデーエクスプレス」の覚悟をしてくれたまえ",
+        "We're in a state of emergency. Be prepared to run the Holiday Express, even if it's a holiday."
+      ],
+      "details": [
+        "指挥官，为什么盯着我看……？",
+        "指揮官、なぜこちらを見つめている……？",
+        "Commander, why are you staring at me...?"
+      ],
+      "secretaryIdle1": [
+        "今天，又有哪里将会被战争的烈火席卷呢…？",
+        "今日もどこかでは、戦争の炎に巻き込まれているのだな",
+        "Right now, another place out there is being engulfed by the flames of war..."
+      ],
+      "secretaryIdle2": [
+        "埃尔德里奇的能力？我不大清楚…不过隐隐约约好像在哪里见过的样子…",
+        "エルドリッジの能力？あまりよくわからないが……どこかで見たような……",
+        "Eldridge's ability? I'm not exactly sure, but... I feel like I've seen it somewhere..."
+      ],
+      "secretaryIdle3": [
+        "在埃塞克斯级的攻击编队面前，所有的抵抗都是徒劳的…",
+        "エセックス級攻撃空母編隊の前で、抵抗など無意味だ",
+        "All resistance is meaningless before the Essex-class's attack formation."
+      ],
+      "secretaryTouch": [
+        "我没有生气，只是不太擅长表达。所以，不用担心打扰到我，有什么事情尽管来找我吧",
+        "……沈黙は苛立ちを意味しているわけではない。用事があれば声をかけてくれ",
+        "...Don't think I'm upset just because I have little to say. Just let me know if you need anything."
+      ],
+      "secretarySpecialTouch": [
+        "看来…指挥官需要一点记忆深刻的教训啊？",
+        "どうやら指揮官には記憶に残る「体験」が必要のようだな",
+        "By the looks of things, you won't learn your lesson without some harder-hitting \"experience.\""
+      ],
+      "task": [
+        "任务…还是早点完成吧",
+        "任務…早くこなしたほうがいい",
+        "Missions... should best be completed in a timely manner."
+      ],
+      "taskComplete": [
+        "奖励不少？那是当然",
+        "報酬が多い？当然だ",
+        "There are a ton of rewards? Of course."
+      ],
+      "mail": [
+        "邮件…会有新的情报吗？",
+        "メール…新しい情報はあるか？",
+        "The mail's here... Wonder if there's any new intel?"
+      ],
+      "returnFromMission": [
+        "回来了吗？那就…准备下一次出击吧？",
+        "戻ったか。……では、次の出撃の準備に入るか？",
+        "You've returned? ...Very well. Why don't we prepare for the next sortie?"
+      ],
+      "commission": [
+        "失陪一下，我去迎接委托回来的同伴们，你在这等我消息就好。",
+        "すまん、委託から戻ってきた子たちを出迎えてくる。お前はここで結果を待っていればいい",
+        "Pardon, but I'll go greet the girls who are coming back from their commission. Just wait here until I report back."
+      ],
+      "strengthening": [
+        "又…变强了啊…",
+        "また…強くなったか",
+        "I grow stronger... yet again..."
+      ],
+      "startingMission": [
+        "为什么，要与我们为敌呢…",
+        "なぜ敵になるのを選んだか……！",
+        "Why did they choose to become our enemy...?!"
+      ],
+      "mvp": [
+        "这就是你们所选择的结局吗…",
+        "お前たちが選んだ結末はこれか",
+        "So this is the end that you all chose..."
+      ],
+      "defeat": [
+        "这是…堪比龙颚（dragon jaw）的强敌吗……！",
+        "その力……「竜の顎（ドラゴンジョーズ）」をも凌ぐ強敵だというのか…！",
+        "Their power... surpasses even the \"Dragon's Jaws\"...?"
+      ],
+      "skillActivation": [
+        "放弃抵抗吧！",
+        "足掻くな！",
+        "Resistance is futile!"
+      ],
+      "lowHP": [
+        "怎么偏偏在这个时候……！",
+        "このタイミングで……！",
+        "Why now of all times...?!"
+      ],
+      "affinityDisappointed": [
+        "我现在不想和你说话",
+        "今は話したくない",
+        "I'd rather not talk to you right now."
+      ],
+      "affinityStranger": [
+        "战争中不存在美丽，只有丑陋而残酷的死亡和厮杀…",
+        "人間の戦争に美しさなど存在しない。傷つけ合い、殺し合いなど醜いものしか存在しないのだ",
+        "There is no beauty in warfare. There is only ugliness in the suffering and loss of life we inflict upon each other."
+      ],
+      "affinityFriendly": [
+        "…当我面无表情保持沉默的时候，并不是在生气，只是单纯地在想事情，或者在想该怎么表达所想的事情而已",
+        "…沈黙は苛立ちを意味しているわけではない。考え込んでいる、もしくは考え込んだことをどうやって言い出すか、考え込んでしまっているだけだ",
+        "Don't think I'm upset just because I have little to say. If anything, I'm probably thinking about something, or about how to express myself."
+      ],
+      "affinityLike": [
+        "最近思绪总会受到些莫名的干扰，想事情的时候，总会冒出某人的脸庞，让人难以冷静下来…",
+        "最近、思考が妙によく阻害される気がする。考え込むと、ついつい誰かの顔が思い浮かび、冷静ではいられなくなる……",
+        "Something strange has been going on with my thoughts recently. Whenever I start thinking about things, your face pops up in my head and makes it hard for me to stay calm..."
+      ],
+      "affinityLove": [
+        "原本以为，为战争而生的我们，除了战斗之外并无更多的存在价值。不过，与指挥官朝夕相处后的现在，我似乎…能感受到战争之外的生存意义了",
+        "戦いのために生まれた私たちは、戦闘以外に存在価値などないと思った。お前との日々を過ごして、私たちには戦うこと以外にも生きる価値がある――そんな…気がする",
+        "We were born as weapons of warfare, and I thought that is all we would ever be. But having spent time with you, I'm beginning to think... that there's more to our lives than war."
+      ],
+      "pledge": [
+        "对不起，现在脑袋里只有一片空白。呃…这种时候该说什么好呢…对了！“对你的忠诚与爱将持续到永远”，这样如何？",
+        "すまない…頭の中が真っ白だ。くっ、一体なにを言えば……そうだ！「お前への忠誠と愛は永遠に続くだろう」――これでいいか？",
+        "Sorry... My mind has gone completely blank... I'm lost for words... Oh, that's right! \"I pledge loyalty and love to you until the end of time.\" ...How does that sound?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Essex, Shangri-La) 在埃塞克斯级面前，你们毫无胜算。",
+        "(Sortie with at least 1 of: Essex, Shangri-La) エセックス級の前でお前たちは無力だ",
+        "(Sortie with at least 1 of: Essex, Shangri-La) You are nothing before the Essex class."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Eldridge) 彩虹计划？…感觉真不错……",
+        "(Sortie with Eldridge) レインボープラン？…いい響きだな……",
+        "(Sortie with Eldridge) Project Rainbow? ...It has a nice ring to it..."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "All resistance is meaningless before the Essex-class's Valentine's chocolate. It's in your best interest to accept my gift without a fight... I'm sounding way too threatening? Oh dear, sorry..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Bunker_Hill_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Bunker_Hill_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Bunker_Hill_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Bunker_Hill_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Bunker_Hill_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Bunker_Hill_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Bunker_Hill_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Bunker_Hill_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Bunker_Hill_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Bunker_Hill_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Bunker_Hill_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Bunker_Hill_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Bunker_Hill_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Bunker_Hill_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Bunker_Hill_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Bunker_Hill_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Bunker_Hill_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Bunker_Hill_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Bunker_Hill_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Bunker_Hill_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Bunker_Hill_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Bunker_Hill_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Bunker_Hill_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Bunker_Hill_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Bunker_Hill_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Bunker_Hill_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Bunker_Hill_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Bunker_Hill_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Bunker_Hill_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Bunker_Hill_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Bunker_Hill_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Bunker_Hill_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Bunker_Hill_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Bunker_Hill_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Bunker_Hill_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Bunker_Hill_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bunker_Hill_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bunker_Hill_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bunker_Hill_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Bunker_Hill_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Bunker_Hill_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Bunker_Hill_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Bunker_Hill_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Bunker_Hill_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Bunker_Hill_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Bunker_Hill_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Bunker_Hill_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Bunker_Hill_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Bunker_Hill_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Bunker_Hill_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Bunker_Hill_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Bunker_Hill_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Bunker_Hill_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Bunker_Hill_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Bunker_Hill_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Bunker_Hill_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Bunker_Hill_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Bunker_Hill_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Bunker_Hill_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Bunker_Hill_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Bunker_Hill_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Bunker_Hill_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Bunker_Hill_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Bunker_Hill_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Bunker_Hill_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Bunker_Hill_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Bunker_Hill_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Bunker_Hill_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Bunker_Hill_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Bunker_Hill_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Bunker_Hill_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Bunker_Hill_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Bunker_Hill_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Bunker_Hill_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Bunker_Hill_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Bunker_Hill_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Bunker_Hill_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Bunker_Hill_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Bunker_Hill_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Bunker_Hill_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Bunker_Hill_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Bunker_Hill_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Bunker_Hill_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Bunker_Hill_Extra2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

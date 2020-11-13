@@ -1,0 +1,453 @@
+{
+  "name": "Brooklyn",
+  "constructionTime": "01:15:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Brooklyn",
+  "ID": "031",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "realmbw",
+  "pixiv": "https://www.pixiv.net/member.php?id=529070",
+  "twitter": "https://twitter.com/realmbw",
+  "link": "http://weibo.com/realmbw",
+  "voiceActor": "https://en.wikipedia.org/wiki/Lynn_(voice_actress)",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3470,
+      181,
+      55,
+      164,
+      0,
+      90,
+      32,
+      307,
+      0,
+      9,
+      158,
+      99,
+      0,
+      0
+    ],
+    "Level 100": [
+      3076,
+      157,
+      55,
+      142,
+      0,
+      73,
+      32,
+      270,
+      0,
+      9,
+      141,
+      87,
+      0,
+      0
+    ],
+    "Base Stats": [
+      595,
+      66,
+      55,
+      30,
+      0,
+      28,
+      32,
+      58,
+      0,
+      2,
+      54,
+      24,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "65% → 65%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 7,
+  "maxLimitBreakTechPoints": 14,
+  "level120StatBonus": "Light cruiser (CL) Reload  +1",
+  "level120TechPoints": 10,
+  "enhancementValue": [
+    13,
+    0,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Artillery Command: Cruisers; CN: 炮术指挥·巡洋舰 JP: 砲術指揮・巡洋艦",
+  "skill1Description": "Increase Firepower of cruisers in the fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ブルックリン級",
+  "skill2Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Brooklyn Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1d/Brooklyn.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png",
+      "shipDescription": [
+        "布鲁克林级轻巡洋舰—布鲁克林，舷号CL-40",
+        "ブルックリン級巡洋艦・ブルックリン（CL-40）",
+        "Brooklyn-class Light Cruiser – Brooklyn, Hull Number CL-40!"
+      ],
+      "selfIntroduction": [
+        "我是战前建造的新锐巡洋舰代表，主要负责了与他国的外交，不过我的火力也不容小觑，请放心吧",
+        "戦前に建造された新鋭巡洋艦の代表として、他国との外交事務を担当させてもらいました。といっても、火力も決して侮れるものではありませんので、ご安心ください",
+        "As the representative of the then newly constructed pre-war cruisers, I was put in charge of foreign diplomacy. That said, my firepower is never to be underestimated, so please put your mind at ease."
+      ],
+      "acquisition": [
+        "我是布鲁克林，指挥官，作为精英巡洋舰，对外事务请尽管交给我吧",
+        "ブルックリンです。指揮官、精鋭巡洋艦として、外交活動は私におまかせください",
+        "I am Brooklyn. I am an elite cruiser, so you may let me handle all foreign diplomacy matters."
+      ],
+      "login": [
+        "您回来的正好，这里有几份文件需要您的签字",
+        "よいタイミングです。ちょうど何枚かサインをしてほしい書類がありますので",
+        "You came just in time. A few files need your signature."
+      ],
+      "details": [
+        "这些资料可是保密的，请您也不要外传",
+        "こちらは機密情報になっていますので、秘密厳守をお願いします",
+        "This information is confidential, so please keep it a closely guarded secret."
+      ],
+      "secretaryIdle1": [
+        "和他国的交涉以及互通有无是很重要的",
+        "外国との交渉においては情報交換が大事です",
+        "It's important to communicate with other nations."
+      ],
+      "secretaryIdle2": [
+        "请不要一直用奇怪的眼光盯着我看",
+        "変な目で見ないでいただきたい",
+        "Please don't stare at me in such a weird way."
+      ],
+      "secretaryIdle3": [
+        "虽说是外交官，小看我的火力可是很让人困扰的呢",
+        "外交官ではあるが、火力を見くびられては困りますね",
+        "I may be a diplomat, but don't even think about underestimating my power."
+      ],
+      "secretaryTouch": [
+        "指挥官对小麦色肌肤很有兴趣的样子？",
+        "この小麦色の肌に興味をお持ちですか？",
+        "Are you interested in my tanned skin, Commander?"
+      ],
+      "secretarySpecialTouch": [
+        "外交官可不兼职秘书……请自重",
+        "外交官は秘書を兼任しかねます……ご自重を！",
+        "A diplomat is not the same thing as a secretary... Please, restrain yourself, Commander!"
+      ],
+      "task": [
+        "完成任务是展示能力的好机会，请您过目新任务吧",
+        "任務の達成は能力を誇示するいいチャンスです。新しい任務に目を通してください",
+        "Completing missions is a good way to demonstrate our capabilities. Please take a look at some of the new missions."
+      ],
+      "taskComplete": [
+        "这里是任务奖励的清单，请确认一下",
+        "ミッションボーナスの一覧表です。ご確認を",
+        "Here is a summary of the rewards. Your confirmation, please, Commander."
+      ],
+      "mail": [
+        "指挥官，有新的信件……嗯？这是哪里寄来的",
+        "指揮官宛に新しいメールが……うん？これはどこから送られて来た？",
+        "There's mail for you, Commander... Hm? Where was this sent from?"
+      ],
+      "returnFromMission": [
+        "辛苦了，指挥官，刚才的战斗我一定会让它发挥效果的",
+        "指揮官お疲れ様です。先ほどの戦闘は絶対役に立たせてみせます。",
+        "Good work, Commander. I will make sure that the results of your last battle come to good use."
+      ],
+      "commission": [
+        "虽然姐妹们会比较辛苦，但是完成委托也会提高我们的知名度，所以赶快去迎接她们进行下一项委托吧",
+        "みんなには面倒をかけますが、こうして委託をこなすことは我々の知名度向上にもつながります。つきましては、早く彼女たちを迎えにいきましょう",
+        "Though it may be tough for everyone, completing commissions like this will help raise our reputation. Let's start another one as soon as possible."
+      ],
+      "strengthening": [
+        "实力是外交的根本，谢谢您",
+        "実力は砲艦外交の基本です。ありがとうございます",
+        "Power is the foundation of gunboat diplomacies. Thank you."
+      ],
+      "startingMission": [
+        "自由开火吧，一切有我",
+        "撃ちまくれ！私がついている。",
+        "Fire at will! I have you covered!"
+      ],
+      "mvp": [
+        "那么，来谈谈赔偿的问题吧",
+        "では、戦争賠償について話そうではないか",
+        "Now then, let us talk about reparations."
+      ],
+      "defeat": [
+        "这下谈判要没有优势了……",
+        "これじゃ交渉の優位性が……",
+        "Now we won't have an advantage during the negotiations..."
+      ],
+      "skillActivation": [
+        "武力威慑也是外交的一环……",
+        "武力による威嚇も外交の一環よ",
+        "Deterrence is also a part of diplomacy..."
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "我在考虑向您辞职，指挥官似乎并不值得我付出汗水",
+        "指揮官の戦果が私の働きに相応しくなければ、辞職することも視野に検討させていただきます",
+        "Commander, I'm thinking of resigning because you just don't seem like you're worth the effort."
+      ],
+      "affinityStranger": [
+        "我的职责就是尽一切可能保证指挥官在外交上的主动权，放心吧，这方面我可是专家",
+        "指揮官が外交における主導権を握れるようにするのが私の責務です。ご安心ください。プロですから",
+        "Commander, my responsibility is to ensure that you have the upper hand in foreign affairs. Rest assured, I am an expert in that area."
+      ],
+      "affinityFriendly": [
+        "感觉最近比起外交事务，指挥官的私人事务反而处理的要多一点……您该不会是故意的吧？",
+        "最近は外交事務より指揮官の個人的用務の対応に追われることが多くなっているようですが……わざとじゃないでしょうね？",
+        "It feels like I've been managing your personal affairs more than foreign affairs lately, Commander... Surely this isn't on purpose, is it?"
+      ],
+      "affinityLike": [
+        "虽说外交官并不兼职私人秘书，但是作为个人来说，我希望能与指挥官加深彼此之间的联系……",
+        "外交スタッフは秘書を兼任しないはずですが…個人的には指揮官との関係をより強化することを望んでいます",
+        "Commander, a diplomat doesn't usually take on the role of a secretary... but I personally wish to deepen my relationship with you."
+      ],
+      "affinityLove": [
+        "想要为你争取更多，想要让你拥有更多的主动权……也许我不再适合担任舰队的外交官了呢，指挥官",
+        "指揮官にはより多くの利益を手に入れてほしい、より主導権を握ってほしい……うふふ、私、もう艦隊の外交官にふさわしく無くなっちゃいましたかもね",
+        "I wish to fight only for you, to give you the upper hand... Maybe I am no longer suited to be the entire fleet's diplomat."
+      ],
+      "pledge": [
+        "谢谢，我现在更有自信地处理舰队事务了——欸，我可以代表你的意志？说了让人高兴的话呢……不会让你失望的",
+        "ありがとうございます。これで艦隊の事務処理に一層励むことができますーーえ？指揮官を少し代行してもいいって？嬉しいご冗談です。……いずれにしても、がっかりはさせませんよ",
+        "Thank you, now I have more confidence in managing the fleet's affairs. Hm? I may act on your behalf for a little? What a pleasant joke. ... At any rate, I will not let you down."
+      ],
+      "giftDescriptionValentines2018": [
+        "外交赠礼——在外交中礼物不分轻重都具有重要的含义——不过这个是我个人的礼物。除了我的好意之外没什么特别的意思呢。",
+        "ディプロマティック・ギフト――外交においては、贈答は大なり小なり重要な意味を有しますが――これは私個人からの贈り物です。私の好意以外、深い意味はありませんよ。ふふ。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "情人节的巧克力……这种流行文化有时会促进相互之间的理解。在公共场合我自然秉承这种观念，作为女性，我个人的观点依旧不变……的哦？",
+        "バレンタインのチョコレートーー時にはこういった洒落のきいた文化がお互いの理解を促進させます。公の場はもちろん、女性としての私個人の視点でも…ね？",
+        "When it comes to diplomacy, gifts play an important role, to some extent... but this is a gift from me to you. There's no deeper meaning behind it other than my fondness of you."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, this is a personal gift from me. Naturally, I know the implications behind offering chocolate as a gift, but nevertheless I went ahead with my plan. This, too, is a diplomatic move of mine."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Brooklyn_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Brooklyn_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Brooklyn_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Brooklyn_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Brooklyn_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Brooklyn_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Brooklyn_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Brooklyn_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Brooklyn_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Brooklyn_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Brooklyn_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Brooklyn_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Brooklyn_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Brooklyn_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Brooklyn_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Brooklyn_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Brooklyn_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Brooklyn_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Brooklyn_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Brooklyn_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Brooklyn_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Brooklyn_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Brooklyn_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Brooklyn_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Brooklyn_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Brooklyn_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Brooklyn_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Brooklyn_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Brooklyn_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Brooklyn_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Brooklyn_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Brooklyn_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Brooklyn_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Brooklyn_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Brooklyn_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Brooklyn_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Brooklyn_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Brooklyn_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Brooklyn_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Brooklyn_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Brooklyn_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Brooklyn_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Brooklyn_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Brooklyn_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Brooklyn_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Brooklyn_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Brooklyn_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Brooklyn_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Brooklyn_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Brooklyn_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Brooklyn_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Brooklyn_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Brooklyn_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Brooklyn_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Brooklyn_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Brooklyn_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Brooklyn_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Brooklyn_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Brooklyn_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Brooklyn_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Brooklyn_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Brooklyn_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Brooklyn_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Brooklyn_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Brooklyn_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Brooklyn_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Brooklyn_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Brooklyn_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Brooklyn_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Brooklyn_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Brooklyn_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Brooklyn_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Brooklyn_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Brooklyn_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Brooklyn_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

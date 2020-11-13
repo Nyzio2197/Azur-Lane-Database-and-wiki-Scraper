@@ -1,0 +1,617 @@
+{
+  "name": "Curacoa",
+  "constructionTime": "01:07:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Ceres",
+  "ID": "372",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "もねてぃ",
+  "pixiv": "https://www.pixiv.net/member.php?id=3066815",
+  "twitter": "https://twitter.com/monety1285",
+  "link": "http://monety1285.blog.shinobi.jp/",
+  "voiceActor": "https://en.wikipedia.org/wiki/ja:%E8%97%A4%E6%B2%A2%E7%8E%B2%E8%8A%B1",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2981,
+      182,
+      24,
+      134,
+      0,
+      92,
+      29,
+      154,
+      0,
+      9,
+      168,
+      53,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3221,
+      182,
+      24,
+      174,
+      0,
+      92,
+      29,
+      199,
+      0,
+      9,
+      173,
+      53,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      2878,
+      159,
+      24,
+      156,
+      0,
+      68,
+      29,
+      179,
+      0,
+      9,
+      155,
+      46,
+      0,
+      0
+    ],
+    "Level 100": [
+      2638,
+      159,
+      24,
+      116,
+      0,
+      68,
+      29,
+      134,
+      0,
+      9,
+      150,
+      46,
+      0,
+      0
+    ],
+    "Base Stats": [
+      510,
+      67,
+      24,
+      25,
+      0,
+      26,
+      29,
+      29,
+      0,
+      2,
+      58,
+      13,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "105% → 115% → 120%",
+  "slot2Equipment": "Anti-Air Guns",
+  "slot2Efficiency": "70% → 80% → 90%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 80% → 90%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Light cruiser (CL) Anti-submarine warfare  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    10,
+    0,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Base +1 / Anti-Air Efficiency +5%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Aerial Support; CN: 防空支援 JP: 対空支援",
+  "skill1Description": "When enemy planes are shot down within own AA range: increases own Firepower and Anti-Air by 5% (25%) for 8 seconds. If skill is activated again during said 8 seconds, refreshes the buff duration.",
+  "skill2Name": "(Retrofit) Anti-Air Command: Vanguard; CN: 防空指挥·先锋 JP: 対空指揮・前衛",
+  "skill2Description": "Increase Anti-Air of vanguards in the same fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-シアリーズ級",
+  "skill3Description": "Every 24 (16) times the main gun is fired, trigger Full Barrage - Ceres-class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c3/Curacoa.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a2/CuracoaChibi.png",
+      "shipDescription": [
+        "谷物女神级轻巡洋舰—库拉索，舷号D41",
+        "シアリーズ級軽巡洋艦・キュラソー（HMS Curacoa）",
+        "Ceres-class light cruiser - Curacoa (D41)"
+      ],
+      "selfIntroduction": [
+        "我是皇家舰队的轻巡洋舰库拉索。生涯历经数次战争，作战经历还是很丰富的哟。现在的话…希望能多培养些孩子来继承我们的事业吧～",
+        "ロイヤルネイビーの軽巡、キュラソーと申します。カンレキの中では幾つかの戦争に参加し、作戦経験もそこそこ豊富と言えましょう。この経験でご主人様、並びに母港の皆様の助けになれれば幸いでございます",
+        "I am Curacoa, light cruiser of the Royal Navy. I've served in several wars, so my combat experience is fairly rich. I hope that I'll be able to train some children to carry on our duty."
+      ],
+      "acquisition": [
+        "虽然是初次和您见面，但我的心底却有股亲切的感觉呢…我是库拉索，今后港区的各种事务，我都会妥善处理的，敬请期待～",
+        "ご主人様とお目にかかるのは初めてなのに、なんだか懐かしい気持ちになりますね…キュラソーと申します。これから母港の運営事務諸々対応させていただきますので、何卒ご期待くださいませ",
+        "Though this is the first I'm meeting you, I can't help but to feel a sense of familiarity from the bottom of my heart... I am Curacoa - from now on, allow me handle the various affairs around port. Please look forward to it!"
+      ],
+      "login": [
+        "一切都准备就绪了哟，指挥官。请下达指令吧，我会好好安排孩子们完成这些任务的",
+        "全ては準備万端です。ご主人様、ご命令ください。この子たちにきちんと任務をこなしてもらいますから",
+        "All the preparations are complete, Commander. Please give your orders - I will delegate tasks to ensure that our missions get finished."
+      ],
+      "details": [
+        "女性的魅力也许就在镜头对准自己的时候……指挥官，我期待您能把我拍得好看一些哟",
+        "女性はカメラを向けられた時こそ一番魅力を発揮できるかもしれませんね……ご主人様、いい写真に撮ってくださいね",
+        "It is said that a woman's charm is greatest when in front of a lens... Commander, I trust that you'll bring out my best side~"
+      ],
+      "secretaryIdle1": [
+        "苍蝇？没关系，下一秒它们就要消失了呢~",
+        "ハエですか？ご心配なく、次の瞬間に消えてなくなりますので",
+        "A fly? Don't worry, they'll disappear after a few moments~"
+      ],
+      "secretaryIdle2": [
+        "有贝尔法斯特这样出色的后辈，我也要多加把劲才好呢~",
+        "ベルファストのような素晴らしい子がいると、私もやる気が出ますね",
+        "To have a junior as exceptional as Belfast... I have to redouble my efforts~"
+      ],
+      "secretaryIdle3": [
+        "办公室已经打扫干净了。我想对于指挥官来说，舒适的工作环境是必要的呢",
+        "執務室の掃除は完了しました。ご主人様にとって、快適な作業環境が必要だと存じますね",
+        "I have already cleaned the office, Commander. I would imagine that having a comfortable work environment is of great importance to you."
+      ],
+      "secretaryTouch": [
+        "如果有什么需要的话，尽管吩咐我就好了~",
+        "ご指示がありましたら、いつでもお申し付けくださいませ",
+        "If there is anything you need, please call for me right away~"
+      ],
+      "secretarySpecialTouch": [
+        "想向我撒娇吗？不过，在这里好像不太合适呢",
+        "私に甘えたいのですか？ここは場所的にちょっと……",
+        "Are you trying to flirt with me? Perhaps... there might be a better place for that."
+      ],
+      "task": [
+        "任务拖着可不好哟，让我来给您规划一下完成的顺序吧？",
+        "任務を放置するのはよくありませんよ。こなすための計画でもお作りしましょうか？",
+        "It's not good to let missions pile up. Should I plan them out for you?"
+      ],
+      "taskComplete": [
+        "该安排领取任务奖励了哟，指挥官",
+        "任務報酬を受け取る手配を致しますね。ご主人様",
+        "Commander, we should arrange to collect the mission rewards."
+      ],
+      "mail": [
+        "邮件来了，看起来没有什么坏消息呢",
+        "メールです。悪い情報はなさそうですね",
+        "Mail has arrived. There appears to be no bad news anyway."
+      ],
+      "returnFromMission": [
+        "出击辛苦了。要不要稍事休息，再考虑下一步的行动呢？时间还有得是，要好好珍惜你的身体才行呢",
+        "出撃お疲れ様です。次の行動の前に少しお休みになってはどうでしょう？時間はたっぷりありますから、お体を大切にしないと",
+        "Good work during the sortie. Want to take a breather so you can think about your next step? There's plenty of time to spare, so make sure to cherish your health."
+      ],
+      "commission": [
+        "让我去迎接委托归来的孩子们吧？",
+        "委託から戻ってきた子たちを出迎えに行って参りましょうか？",
+        "Shall I greet the girls who are returning from commissions?"
+      ],
+      "strengthening": [
+        "对空性能又加强了呢，真是太好了～",
+        "対空性能がまた強化されましたね。喜ばしいことです",
+        "My anti-air capabilities have been upgraded. Great~!"
+      ],
+      "startingMission": [
+        "发扬皇家海军的优良传统，英勇向前吧～",
+        "ロイヤルネイビーのしきたり通り、勇敢に進みましょう",
+        "We'll carry forth our tradition of \"meeting our enemies head-on.\" Let's charge forward heroically!"
+      ],
+      "mvp": [
+        "居然我是MVP…真不好意思～",
+        "私が一位だなんて…恐縮です",
+        "To think that I'd get MVP... sorry about that~"
+      ],
+      "defeat": [
+        "颜面扫地啊…",
+        "お恥ずかしいですね…",
+        "I've been thoroughly discredited..."
+      ],
+      "skillActivation": [
+        "请放心吧，我一直在这里~",
+        "大丈夫、私はずっとここにいますよ",
+        "Please be at ease. I shall always be here~"
+      ],
+      "lowHP": [
+        "一定要分出胜负吗…那我将倾尽全力！",
+        "勝敗をお気になさるのでしたら…全力で行きます！",
+        "It's do or die... I have to go all out!"
+      ],
+      "affinityDisappointed": [
+        "对不起，我觉得我们保持一些距离会比较好",
+        "申し訳ございません。少し距離を取ったほうがよろしいかと",
+        "My apologies, but I believe it would be best if we maintained some distance."
+      ],
+      "affinityStranger": [
+        "想要来点点心吗？这是以前上课的那些孩子也很喜欢的，请享用吧~",
+        "お菓子でもいかがでしょうか？昔授業をやっていた子たちのお気に入りです。どうぞ召し上がってくださいませ",
+        "Would you like some snacks? My old students used to love these - please have some."
+      ],
+      "affinityFriendly": [
+        "下次大讲堂上课的时候，指挥官要不也来看看吧？这样对来参加的孩子们是一种鼓励呢",
+        "今度大講堂で授業をやる時は、ご主人様もご見学されてはいかがでしょうか？参加する子たちにとってもいい経験になりますよ",
+        "Commander, would you like to come to my next lecture? It would be a great encouragement to all the girls."
+      ],
+      "affinityLike": [
+        "有时候在想，女仆的工作如果能休息一天，做自己想做的事情的话——啊啦，看来今天能专心服侍指挥官您了呢",
+        "時々思いますが、もしメイドの仕事を一日休んで、やりたいことをやれるとしたら――あら、今日はご主人様のご奉仕に集中できそうですね。ふふふ",
+        "Sometimes, I think about what I would do if I had a day off from maid duties... Oh my, it seems that I can wholeheartedly focus on serving you today, Commander."
+      ],
+      "affinityLove": [
+        "指挥官的依赖是最让人开心的呢，无论是作为女仆，还是作为离指挥官最近的人…呵呵～这是今日的点心，请享用吧～",
+        "ご主人様、私にどんどん頼ってくださっていいですよ。貴方が頼ってくれることこそ私にとって一番うれしいことです。メイドとしても、貴方にとっての大切な存在としても……ふふふ、今日のお菓子です、どうぞ召し上がってくださいませ～",
+        "Whether as a maid, or as your partner, I am happiest when you rely on me, Commander.... Hehe, this is today's snack. Please have some~"
+      ],
+      "pledge": [
+        "现在，我觉得没有什么事情能比被指挥官拥入怀中更加幸福了。以后还请多多指教了，我挚爱的主人～",
+        "ご主人様にこうやって抱きしめられるほど幸せな事は存在しません。……これからもよろしくお願い致します。愛するご主人様",
+        "Right now, I am convinced that there is nothing happier than being in your arms, Commander. Please take care of me from now on, my beloved Master~"
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，这是我的巧克力…另外，还准备了可以一起享用的红茶。想要现在立刻开一场茶会也没有问题，需要为您马上准备起来吗？",
+        "ご主人様、こちらは私のチョコと…一緒にお召し上がりになる際の紅茶になります。今からでもお茶会をご準備させていただいても良いのですが、いかが致しましょうか？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, I brought you some chocolate. Please have a taste. Today the ever-so-strict tea-mistress Curlew has loosened her grip a bit, so do enjoy. Hehe. And some tea for you then."
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f2/CuracoaKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e5/CuracoaKaiChibi.png",
+      "shipDescription": [
+        "如果能帮上指挥官和大家更多的话，那便再荣幸不过了。轻巡洋舰库拉索，将继续为指挥官与港区服务，敬请期待吧~",
+        "皆様のお役に立てれば光栄ですね。軽巡洋艦キュラソー、引き続きご主人様にご奉仕させていただきます。何卒ご期待くださいませ",
+        "It is my honour to be of everyone's service. Light cruiser Curacoa takes it upon herself to continue serving you, Master."
+      ],
+      "acquisition": [
+        "如果能帮上指挥官和大家更多的话，那便再荣幸不过了。轻巡洋舰库拉索，将继续为指挥官与港区服务，敬请期待吧~",
+        "皆様のお役に立てれば光栄ですね。軽巡洋艦キュラソー、引き続きご主人様にご奉仕させていただきます。何卒ご期待くださいませ",
+        "It is my honour to be of everyone's service. Light cruiser Curacoa takes it upon herself to continue serving you, Master."
+      ],
+      "login": [
+        "如果还在烦恼今天的安排的话，不如先来一杯热茶醒醒神吧？",
+        "今日の予定についてまだお悩みのようでしたら、ひとまず熱いお茶でも飲んで気分転換するのはいかがでしょう？",
+        "If you're still agonizing over today's itinerary, why not have have a cup of tea and reset yourself?"
+      ],
+      "details": [
+        "杓鹬总是板着脸呢……或许对于“女仆应有的姿态”这点她和我的理解不大一样……？",
+        "カーリューはいつも硬い顔をしているのですね……「メイドのあるべき姿」について私とはイメージが違うのかしら？",
+        "Curley is always walking around with that stony expression... Maybe she and I have a different understanding of \"how a maid ought to present herself?\""
+      ],
+      "secretaryIdle1": [
+        "看到大家正在成长着的样子，我就十分安心了。",
+        "皆様が成長している姿を見ていると、なんだか安心しますね",
+        "Seeing everyone's growth and maturity... somehow puts my mind at ease."
+      ],
+      "secretaryIdle2": [
+        "防空护航任务？那应该是我身为女仆之外最有自信的了。",
+        "対空護衛ですか？メイドとしてのご奉仕の次に得意とするものですね",
+        "My abilities as an anti-air escort? Why, it's my next best thing, after being a maid of course."
+      ],
+      "secretaryIdle3": [
+        "这扫除过后一尘不染的办公室，真是令人心情愉悦呢。",
+        "綺麗に掃除された部屋の中にいると、心もすっきりしますね",
+        "Being in a room that has been cleaned properly will also clean your mind of distractions."
+      ],
+      "secretaryTouch": [
+        "无论什么时候，您都可以吩咐我的哦？指挥官",
+        "どんな時でもご指示くださいませ。ご主人様",
+        "You may give me orders at any time, Master."
+      ],
+      "secretarySpecialTouch": [
+        "这些事还请放在工作完成之后吧~",
+        "こういうのはお仕事のあとで…ね？",
+        "Why don't we save these kinds of things for... after work?"
+      ]
+    },
+    {
+      "ENClientName": "Eastern Grace",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "东煌之雅",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "東国の艶彩",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1d/CuracoaSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3c/CuracoaSpringChibi.png",
+      "shipDescription": [
+        "身为女仆，竟然能穿上这么华丽的服饰…真是万分荣幸呢。指挥官对这身有何评价？眼睛不知道该往哪里看？哎呀，指挥官真是的~",
+        "メイドの私がこんなに華麗な衣装を着せてもらえるなんて光栄でございます。ご主人様はこの衣装について……目のやり場に困る、と仰るのですか？あら、それは確かに困りますね。ふふふ",
+        "As I am but a maid, it is a great honor to be able to wear such a gorgeous outfit… How do I look, Commander? \"Not sure where to start feasting your eyes?\" Oh my... Commander..."
+      ],
+      "acquisition": [
+        "身为女仆，竟然能穿上这么华丽的服饰…真是万分荣幸呢。指挥官对这身有何评价？眼睛不知道该往哪里看？哎呀，指挥官真是的~",
+        "メイドの私がこんなに華麗な衣装を着せてもらえるなんて光栄でございます。ご主人様はこの衣装について……目のやり場に困る、と仰るのですか？あら、それは確かに困りますね。ふふふ",
+        "As I am but a maid, it is a great honor to be able to wear such a gorgeous outfit… How do I look, Commander? \"Not sure where to start feasting your eyes?\" Oh my... Commander..."
+      ],
+      "login": [
+        "久违地享受下休息的时光吧，指挥官？",
+        "久しぶりの休日をお楽しみくださいませ。ご主人様",
+        "Commander, it's been a long time since you've been able to enjoy a moment of rest, hasn't it?"
+      ],
+      "details": [
+        "这套东煌的服饰设计还真是大胆…穿久了女仆装还是有点不太习惯呢……",
+        "この衣装のデザインは大胆ですね…いつもメイド服を着ている身としてはやはりちょっと慣れませんね",
+        "This outfit's design is rather bold... I'm more accustomed to my maid uniform..."
+      ],
+      "secretaryIdle1": [
+        "女仆的义务可不止限定在穿着女仆装的时候，有什么需求尽管和我说吧。",
+        "メイド服を着ている時だけメイドの責務を果たすわけではございません。なんでもお申し付けください",
+        "My obligations as a maid do not end when I am not in my uniform. If you need anything, just let me know."
+      ],
+      "secretaryIdle2": [
+        "大家在帮忙春节的事情。我嘛，就借着这节日稍微偷下懒吧~",
+        "東煌の子たちは旧正月の準備で忙しいのですね。今日はせっかくのめでたい日ですし、おサボりしましょうか",
+        "Everyone is busy with Spring Festival preparations... but I'd like to take this opportunity to slack off a little~"
+      ],
+      "secretaryIdle3": [
+        "想知道东煌的美食与女仆的手艺会有怎样的火花吗？呵呵，敬请期待~",
+        "東洋のグルメとメイド隊の料理が混じり合えばどんなものを生み出せるのでしょうか。ふふふ、ご期待くださいませ",
+        "You'd like to know if there are any secrets behind the Dragon Empery's culinary and artistic crafts? Hehe, stay tuned~"
+      ],
+      "secretaryTouch": [
+        "想在腿上躺一会吗？指挥官您的话，请便就是~",
+        "膝枕をご所望ですか？ええ、ご主人様、どうぞ～",
+        "Commander, you want to rest in my lap? If you'd like, go ahead~"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官也变得大胆起来了呢。",
+        "ご主人様も大胆に……なっていますね",
+        "Commander, I see that you've also become quite bold."
+      ],
+      "returnFromMission": [
+        "东煌节日的各种习俗也挺复杂的呢，或许能和皇家女仆的礼仪比一下？呵呵~",
+        "東煌（とうこう）の祝日の風習は結構複雑ですね。ロイヤルメイドのマナーとは比べられるぐらいかしら？ふふふ",
+        "Holidays in the Dragon Empery seem to have a lot of complicated customs. Perhaps they are comparable with a Royal maid's code of etiquette? Hehe~"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +70 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Accuracy Enhancement (I)",
+      "attributes": "Accuracy +5 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement (I)",
+      "attributes": "Main Gun Efficiency +5% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement (I)",
+      "attributes": "Firepower +10 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Enhancement (I)",
+      "attributes": "Anti-Air Gun Efficiency +3% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement (I)",
+      "attributes": "Anti-air +10 ",
+      "materials": "4x CruiserT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health +70 / +100 ",
+      "materials": "1 / 2x CruiserT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Anti-Air Command - Vanguard\" ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Anti-air Gun Improvement (II)",
+      "attributes": "Anti-air Gun Efficiency +3% / +4% ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G",
+        "H"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Anti-air Enhancement (II)",
+      "attributes": "Anti-air +5 / +15 ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +30 , Anti-air +15 ",
+      "materials": "1x CruiserT3BP and 1x Curacoa or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

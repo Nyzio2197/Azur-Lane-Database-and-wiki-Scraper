@@ -1,0 +1,561 @@
+{
+  "name": "Mikazuki",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Normal",
+  "shipClass": "Mutsuki",
+  "ID": "280",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "月见",
+  "pixiv": "https://www.pixiv.net/member.php?id=786200",
+  "twitter": "https://twitter.com/tsukimi08",
+  "link": "http://www.weibo.com/p/1005051807769224",
+  "voiceActor": "https://en.wikipedia.org/wiki/Mako_(voice_actress)",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1487,
+      196,
+      40,
+      59,
+      427,
+      193,
+      44,
+      138,
+      0,
+      7,
+      178,
+      182,
+      0,
+      0
+    ],
+    "Level 100": [
+      1239,
+      171,
+      40,
+      51,
+      385,
+      187,
+      44,
+      120,
+      0,
+      7,
+      169,
+      164,
+      0,
+      0
+    ],
+    "Base Stats": [
+      240,
+      72,
+      40,
+      11,
+      82,
+      72,
+      44,
+      26,
+      0,
+      1,
+      65,
+      45,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "125% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 2,
+  "maxLimitBreakTechPoints": 4,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 3,
+  "enhancementValue": [
+    4,
+    27,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Quick Reload; CN: 快速装填 JP: 快速装填",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Reload by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-睦月型",
+  "skill2Description": "Every 15 (10) shots from the main guns, trigger Full Barrage - Mutsuki-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a6/Mikazuki.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/ca/MikazukiChibi.png",
+      "shipDescription": [
+        "睦月级驱逐舰十番舰—三日月",
+        "睦月型駆逐艦十番艦・三日月",
+        "Mutsuki-class destroyer number ten – Mikazuki."
+      ],
+      "selfIntroduction": [
+        "三日月是三日月，有许多姐姐，也有妹妹，大家都是好朋友。擅长护卫和……输送任务！喜欢鲷鱼烧，指挥官也要吃吗？",
+        "三日月は三日月だよ。おねえちゃん、いもうと、いっぱいいるの。みんななかよしなの。「ごえいにんむ」と……「ゆそうにんむ」がとくいなの！あと、たいやきがすきなの！しきかんも、いるの？",
+        "I'm Mikazuki. I've got a lot of little and big sisters. We're all friends. I'm really good at escort and transport missions! Oh, and I love taiyaki! Do you want some too, Commander?"
+      ],
+      "acquisition": [
+        "啊——呜，唔？指……挥……官（kan）？三日月是三日月，鲷鱼烧要吗？给你一半",
+        "あーーうん？うん？しゅ…き…かん？わたしは三日月よ。たいやき、いる？はんぶんあげるよ？",
+        "Aahh... Hm? Hmm? Co... main... der? I'm Mikazuki. Want some taiyaki? You can have half of mine."
+      ],
+      "login": [
+        "指挥官，欢—迎—肥—来—啊呜，真好吃",
+        "しきかん？おーかーえーりーあむ！おいしい！",
+        "Commander? Wel~co~me back~! *Nom*... Delicious!"
+      ],
+      "details": [
+        "指挥官，鲷鱼烧还有很多，不用担心",
+        "しきかん、たいやき、いっぱいあるから、だいじょうぶ",
+        "Commander, I still have lots of taiyaki, so I'm fine."
+      ],
+      "secretaryIdle1": [
+        "吃饱了，困……指挥官，抱抱",
+        "おなかいっぱい…ねむい……しきかん、だっこしてー",
+        "I'm full... and sleepy... Commander, gimme a hug~"
+      ],
+      "secretaryIdle2": [
+        "三日月喜欢尾巴里也有馅的鲷鱼烧",
+        "三日月は、しっぽにもあんこがはいってるたいやきがすき",
+        "I like taiyaki filled with bean paste even in their tail fins."
+      ],
+      "secretaryIdle3": [
+        "鲷鱼烧，鱼，唔……大海！然后……星球，宇宙！啊呜——好吃",
+        "たいやきはさかな……うみ！うん……ちきゅう！うちゅう！あむ――おいしい！",
+        "Taiyaki looks like a fish... Fish live in the sea! Hm... the sea is on Earth! Earth is in space! Mm... so tasty!"
+      ],
+      "secretaryTouch": [
+        "指挥官要吗，分你一个",
+        "しきかん、これいる？あげるよ",
+        "Commander, want some? I don't mind sharing."
+      ],
+      "secretarySpecialTouch": [
+        "啊，鲷鱼烧掉了",
+        "あ、たいやき、おちた",
+        "Oh, I dropped my taiyaki..."
+      ],
+      "task": [
+        "指挥官，任务！",
+        "しきかん、にんむ！",
+        "Commander, new missions!"
+      ],
+      "taskComplete": [
+        "指挥官，任务奖励里有鲷鱼烧吗？",
+        "しきかん、ボーナスに、たいやき、あるの？",
+        "Commander, does the reward include any taiyaki?"
+      ],
+      "mail": [
+        "指挥官，这包纸是什么，可以包鲷鱼烧吗？",
+        "しきかん、このつつみはなに？たいやきをつつんでもいい？",
+        "Commander, what's this package for? Can I pack up my taiyaki?"
+      ],
+      "returnFromMission": [
+        "啊——指挥官，要吗，给你吃",
+        "あ――しきかん、これいる？あげるよ",
+        "Ah... Commander, want some too? I've got more."
+      ],
+      "commission": [
+        "指挥官，三日月先去接委托的姐妹们了，说好了给我带鲷鱼烧的！",
+        "しきかん、三日月はいたくにでたみんなにあいにいくよ！たいやきかってくれるってやくそくした！",
+        "Commander, I'm heading out to welcome back the commission team! They promised they'd buy me some taiyaki!"
+      ],
+      "strengthening": [
+        "感觉……好像吃了好多鲷鱼烧，饱了",
+        "たいやき……たべすぎた…おなかいっぱい…",
+        "I ate... too much taiyaki... I'm stuffed..."
+      ],
+      "startingMission": [
+        "敌人……能吃吗？",
+        "てきだ……たべれる？",
+        "That's the enemy... can we eat them?"
+      ],
+      "mvp": [
+        "可以吃点心了吗？",
+        "そろそろおやつのじかんなの？",
+        "Isn't it about time for a snack?"
+      ],
+      "defeat": [
+        "饿了……",
+        "おなかへった……",
+        "I'm hungry..."
+      ],
+      "skillActivation": [
+        "才不给你们鲷鱼烧",
+        "たいやき、あげないもん！",
+        "You're not getting any of my taiyaki!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "啊——呜（三日月并没有理会你）",
+        "あ～～むぐ（三日月はあなたに気づいていないようだ）",
+        "Ahh~ *Nom* (Mikazuki doesn't seem to notice you.)"
+      ],
+      "affinityStranger": [
+        "指挥官要一起吃点心吗？",
+        "しきかん、たいやき、いっしょにたべる？",
+        "Commander, want to eat some taiyaki with me?"
+      ],
+      "affinityFriendly": [
+        "穿衣服好麻烦，讨厌衣服……三日月只要有鲷鱼烧就好了",
+        "ふく、めんどう…ふく、きるのきらい……三日月はたいやきあればいいの……",
+        "Clothes are so annoying... I hate getting dressed... I just want to eat taiyaki..."
+      ],
+      "affinityLike": [
+        "指挥官像麻麻一样好啰嗦……但是三日月喜欢鲷鱼烧，也喜欢指挥官……唔，那指挥官帮三日月穿衣服就好了！",
+        "ふくをちゃんときてって…しきかんはママみたいでうるさい……でも三日月、たいやきとおなじくらい、しきかんがすき……じゃあ、しきかん、三日月にふくをきせてよ",
+        "Always telling me to wear my clothes... you're just like my mom... But I still like you, Commander. Almost as much as I like taiyaki... Okay, Commander, help me get dressed."
+      ],
+      "affinityLove": [
+        "关系最亲近的人才能帮忙穿衣服？指挥官不是吗？三日月最喜欢指挥官了，指挥官不喜欢三日月吗？",
+        "「ふくをきせるのはいちばんしたしいひとじゃないとダメ」？しきかんはダメ？三日月、しきかんが大好きだよ？しきかんは三日月、すきじゃないの？",
+        "\"Only really close people should help each other get dressed\"? Are we not close, Commander? I love you, Commander. Do you not like me?"
+      ],
+      "pledge": [
+        "契约？这样指挥官就会帮三日月换衣服了吗？唔……指挥官好奇怪，明明三日月只要是指挥官都可以的……",
+        "ケッコン……？これでしきかんは三日月にふくをきせるの？よくわかんない……やっぱりじぶんできてって？しきかん、変だよ…三日月はしきかんならダイジョウブっていったのに…",
+        "A promise...? Does that mean you'll help me get dressed? I don't really get it... I should really do it on my own...? Commander, you're weird... I'm fine with you helping me get dressed, I told you before..."
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，巧克力......三日月的鲷鱼烧。唔...已经吃很饱了......",
+        "しきかん、チョコ……あんのタイヤキ。ぐぅ…おなかもういいっぱい……",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，这个鲷鱼烧……今年不光馅是巧克力的，连面胚都是巧克力味的哦！浑身都是巧克力但不是巧克力！因为它是鲷鱼烧呀",
+        "しきかん、このたいやき…ことしはチョコのあんだけじゃなくて、きじもちょこあじなんだよ！ぜんぶちょこだけど、ちょこじゃないよ。だってたいやきだもん",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, I heard you can buy chocolate-stuffed taiyaki today. Let's go get some! I'll share with you!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Mikazuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Mikazuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Mikazuki_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mikazuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mikazuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Mikazuki_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Mikazuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Mikazuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Mikazuki_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Mikazuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Mikazuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Mikazuki_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Mikazuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Mikazuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Mikazuki_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Mikazuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Mikazuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Mikazuki_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Mikazuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Mikazuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Mikazuki_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Mikazuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Mikazuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Mikazuki_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Mikazuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Mikazuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Mikazuki_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Mikazuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Mikazuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Mikazuki_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Mikazuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Mikazuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Mikazuki_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Mikazuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Mikazuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Mikazuki_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Mikazuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Mikazuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Mikazuki_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Mikazuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Mikazuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Mikazuki_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Mikazuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Mikazuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Mikazuki_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Mikazuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Mikazuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Mikazuki_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Mikazuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Mikazuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Mikazuki_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Mikazuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Mikazuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Mikazuki_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Mikazuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Mikazuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Mikazuki_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Mikazuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Mikazuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Mikazuki_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Mikazuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Mikazuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Mikazuki_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Mikazuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Mikazuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Mikazuki_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Mikazuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Mikazuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Mikazuki_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Mikazuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Mikazuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Mikazuki_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Mikazuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Mikazuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Mikazuki_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Sweet Zombie",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "僵尸小姐驾到！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "タイヤキョンシー",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4e/MikazukiHalloween.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/77/MikazukiHalloweenChibi.png",
+      "shipDescription": [
+        "三日月…变成了僵尸？我跳~我跳~指挥官，有鲷鱼烧吗？",
+        "三日月のやくは…キョンシー？うん…ぴょんぴょん…しきかん、とりっくおあとりーとぉぉぉ～",
+        "Mikazuki is supposed to be... a jiangshi? Um... hip... hop... Commander, trick or treaaaaat~"
+      ],
+      "acquisition": [
+        "三日月…变成了僵尸？我跳~我跳~指挥官，有鲷鱼烧吗？",
+        "三日月のやくは…キョンシー？うん…ぴょんぴょん…しきかん、とりっくおあとりーとぉぉぉ～",
+        "Mikazuki is supposed to be... a zombie? Um... hip... hop... Commander, trick or treaaaaat~"
+      ],
+      "login": [
+        "指挥官，不给鲷鱼烧，三日月就叫水无月姐姐来捣乱了。",
+        "しきかん？たいやきくれないと、水無月をよぶぞ～",
+        "Commander? If you don't give me taiyaki, I'll summon Minazuki~"
+      ],
+      "details": [
+        "三日月不喜欢换麻烦的衣服，但是大家都想看三日月穿上它，所以三日月变成了僵尸。我跳~",
+        "三日月、きがえるのめんどうだけど、みんながみたいっていうから、きがえた。ぴょんぴょん",
+        "Getting changed is a pain, but since everyone wanted to see me in a costume, I did it... Hip, hop."
+      ],
+      "secretaryIdle1": [
+        "三日月跳累了。是指挥官的腿，我坐~",
+        "三日月、ぴょんぴょんつかれた。しきかん、ふとももちょうだい",
+        "Bouncing around is exhausting. Commander, your lap please."
+      ],
+      "secretaryIdle2": [
+        "万圣节，魔女，南瓜，好吃的……鲷鱼烧！啊呜——",
+        "ハロウィン、まじょさん、かぼちゃ、おいしいたいやき！あむあむ",
+        "Halloween is all about witches, pumpkins, and... delicious taiyaki! Ommfh!"
+      ],
+      "secretaryIdle3": [
+        "拿走头上的封印的话，三日月就会变成真的僵尸——水无月姐姐这么说的。",
+        "おふだをとったら、ほんとうにキョンシーになっちゃうぞ――水無月がそういってた",
+        "If the seal on my head gets removed, I'll turn into a real zombie... That's what Minazuki said, anyway."
+      ],
+      "secretaryTouch": [
+        "指挥官，不怕僵尸吗？",
+        "しきかん、キョンシー、こわくない？",
+        "Commander, are you scared of zombies?"
+      ],
+      "secretarySpecialTouch": [
+        "被弄乱了，好不容易才穿好的衣服……",
+        "せっかくうまくきれたふくなのに……",
+        "My outfit is all messed up now... even though it took so long to put on..."
+      ],
+      "returnFromMission": [
+        "三日月得到了很多糖……睦月姐姐好像很喜欢，等下都给她吧。",
+        "三日月、アメさんいっぱいもらった。…睦月がすきそうだから、あとであげる",
+        "I got so much candy... Mutsuki seems to really like them, so I'll give it all to her later."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Mikazuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Mikazuki_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Mikazuki_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Mikazuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Mikazuki_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Mikazuki_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Mikazuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Mikazuki_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Mikazuki_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Mikazuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Mikazuki_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Mikazuki_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Mikazuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Mikazuki_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Mikazuki_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Mikazuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Mikazuki_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Mikazuki_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Mikazuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Mikazuki_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Mikazuki_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Mikazuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Mikazuki_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Mikazuki_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Mikazuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Mikazuki_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Mikazuki_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

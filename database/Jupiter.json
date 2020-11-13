@@ -1,0 +1,548 @@
+{
+  "name": "Jupiter",
+  "constructionTime": "00:27:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "J",
+  "ID": "306",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "6音",
+  "pixiv": "https://www.pixiv.net/member.php?id=2118700",
+  "twitter": "https://twitter.com/sein_66",
+  "voiceActor": "https://en.wikipedia.org/wiki/Tomoyo_Takayanagi",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1536,
+      201,
+      52,
+      76,
+      364,
+      210,
+      43,
+      156,
+      0,
+      8,
+      194,
+      210,
+      0,
+      0
+    ],
+    "Level 100": [
+      1280,
+      175,
+      52,
+      66,
+      324,
+      204,
+      43,
+      135,
+      0,
+      8,
+      185,
+      190,
+      0,
+      0
+    ],
+    "Base Stats": [
+      248,
+      74,
+      52,
+      14,
+      69,
+      78,
+      43,
+      29,
+      0,
+      2,
+      71,
+      52,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "135% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 9,
+  "level120StatBonus": "Destroyer (DD) Anti-submarine warfare  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    5,
+    23,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Battleship Escort; CN: 战舰护航 JP: 戦艦護衛",
+  "skill1Description": "When alive in fleet, reduce damage taken by allied BBs/BCs by 5% (15%). Does not stack with the same skill.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-J級",
+  "skill2Description": "Every 15 (10) shots from the main battery, trigger Full Barrage - J-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/68/Jupiter.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/92/JupiterChibi.png",
+      "shipDescription": [
+        "J级驱逐舰—丘比特，舷号F85",
+        "J級駆逐艦・ジュピター（F85)",
+        "J-class destroyer – Jupiter, Hull Number F85."
+      ],
+      "selfIntroduction": [
+        "我是强化了鱼雷武装的J级驱逐舰丘比特号……天后？我们真的只是姐妹啦。伊-60？好像确实是被我击沉的……",
+        "わたしは魚雷装備を強化されたJクラス駆逐艦のジュピター……ジュノーちゃん？わたしたち、ただの姉妹だよ。伊60？たしかにわたしが沈めたけど……",
+        "I am the J class destroyer with improved torpedo equipment, Jupiter... \"Juno\"? We're just sisters. I-60? I think I sank her, but..."
+      ],
+      "acquisition": [
+        "皇家海军J级驱逐舰丘比特号……天后？咦，你是指哪位？",
+        "ロイヤルネイビーJクラス駆逐艦ジュピター……ジュノー？えっと、どの「ジュノー」なの？",
+        "I am the Royal Navy J-class destroyer, Jupiter... \"Jue-know\"? Erm, which one are you referring to?"
+      ],
+      "login": [
+        "天、天后，不用这么照顾我啦……明明我才是姐姐啊……",
+        "じゅ、ジュノーちゃん、そんなに気を使わなくてもいいよ……わたしのほうがカンレキが長いのに……",
+        "Ju-Juno, you don't need to be concerned about me... I've been in this longer than you..."
+      ],
+      "details": [
+        "击沉伊-60？那种事情……",
+        "伊60を沈めた？ソンナコト……",
+        "I sank I-60? That's not..."
+      ],
+      "secretaryIdle1": [
+        "我的名字虽然也有“木星”的意思，不过还是“丘比特”更好听吧",
+        "わたしは「ジュピター」…「キューピッド」…チガイマス…",
+        "My name is \"Jupiter\"... not \"Cupider\"..."
+      ],
+      "secretaryIdle2": [
+        "和指挥官在一起，无论何时都很快乐……",
+        "指揮官といると、楽しい……",
+        "It's fun to be with you, Commander..."
+      ],
+      "secretaryIdle3": [
+        "可以的话，真想再回一次老家看看……",
+        "いつか…故郷に帰りたい……",
+        "I hope I'll... get to come home some day..."
+      ],
+      "secretaryTouch": [
+        "指挥官……我的手温暖吗？",
+        "指揮官……わたしの手、温かい…？",
+        "Commander... my hands... are they warm...?"
+      ],
+      "secretarySpecialTouch": [
+        "咦——不是天后是指挥官！？",
+        "…！？ジュノーちゃんじゃなくて指揮官だったの！？",
+        "Huh...?! It wasn't Juno, but you, Commander?!"
+      ],
+      "task": [
+        "这是非完成不可的吗……",
+        "やらなきゃならないの……",
+        "Do we really have to do this..."
+      ],
+      "taskComplete": [
+        "天后，不用担心啦，任务已经完成了",
+        "ジュノーちゃん、心配しないで、任務は完了したよ",
+        "Don't worry, Juno. The mission has been completed."
+      ],
+      "mail": [
+        "指挥官，这是你的信……",
+        "指揮官、あなたのメールよ…",
+        "Commander, here's your mail..."
+      ],
+      "returnFromMission": [
+        "指挥官，有什么我能做的吗？好，我会乖乖坐好的！",
+        "指揮官、私にも出来ることは……ハイ！チャントスワリマス！",
+        "Commander, is there anything you need me to... Got... I'll just sit down..."
+      ],
+      "commission": [
+        "物资变多了……",
+        "物資が増えた……",
+        "Our resources have increased..."
+      ],
+      "strengthening": [
+        "好像哪里有变化……",
+        "なにかが変わった……",
+        "I feel like something's changed..."
+      ],
+      "startingMission": [
+        "神之罚~嘿嘿~",
+        "神さまの裁き…フフフ…",
+        "This is God's judgement... Hehehe..."
+      ],
+      "mvp": [
+        "不可思议的感觉……",
+        "不思議……",
+        "I wasn't expecting this..."
+      ],
+      "defeat": [
+        "要、要撤退了吗！？",
+        "テ、テッタイスルノ！？",
+        "A-are we retreating...?"
+      ],
+      "skillActivation": [
+        "请、请不要躲开……",
+        "よ、避けないで……",
+        "P-please don't dodge this..."
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官……讨厌我吗？",
+        "指揮官……わたしのことキライ？",
+        "Commander... do you hate me?"
+      ],
+      "affinityStranger": [
+        "我一个人待着就好……",
+        "ヒトリデイインデス……",
+        "I'll be fine on my own..."
+      ],
+      "affinityFriendly": [
+        "天、天后，我一个人面对指挥官也不会紧张啦，不用特意陪我……",
+        "じゅ、ジュノーちゃん…指揮官はわたしひとりでも大丈夫だから、ついてこなくても……",
+        "J-Juno... the Commander's fine being alone with me, so you don't have to be here..."
+      ],
+      "affinityLike": [
+        "指挥官，这是我烤的吐司，嘿嘿~好吃吗？",
+        "指揮官、わたしが焼いたトースト、フフフ……美味しい？",
+        "Commander, about that toast I made for you... hehehe... did you like it?"
+      ],
+      "affinityLove": [
+        "指挥官，我可爱吗？，嘻嘻~作为奖励——",
+        "指揮官、わたしカワイイ？…フフフ……お礼に――",
+        "Commander, do you think I'm cute? ... Hehehe... Then, as a reward for you..."
+      ],
+      "pledge": [
+        "这、这样就能和指挥官永远在一起了吗？那、指挥官，请把眼睛闭上，我也要送你一件礼物……",
+        "こ、これで指揮官とずっと一緒なの？じゃ、じゃあ…指揮官、目を閉じて、わたしからもプレゼント……",
+        "D-does this mean we'll always be together? Th-then... Commander, close your eyes and I'll give you a present..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Juneau) 请打起精神来！",
+        "(Sortie with Juneau) げ、元気出して！",
+        "(Sortie with Juneau) P-please, cheer up!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Juno) 应、应该是我来照顾你吧…",
+        "(Sortie with Juno) わ、わたしが世話する番でしょ…？",
+        "(Sortie with Juno) Sh-shouldn't it be my turn to care for you...?"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、バレンタインの…プレゼント…チョコ…お、美味しいかも、シレマセンヨネ……",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，我拿来了情人节巧克力……给，这是我的礼物……",
+        "指揮官、バレンタインチョコレートを持ってきた…はい、ﾜﾀｼｶﾗﾉﾌﾟﾚｾﾞﾝﾄﾃﾞｽ……",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I made these chocolates with Juno's help... Um, I couldn't do it myself... sorry..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Jupiter_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Jupiter_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Jupiter_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Jupiter_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Jupiter_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Jupiter_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Jupiter_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Jupiter_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Jupiter_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Jupiter_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Jupiter_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Jupiter_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Jupiter_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Jupiter_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Jupiter_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Jupiter_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Jupiter_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Jupiter_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Jupiter_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Jupiter_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Jupiter_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Jupiter_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Jupiter_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Jupiter_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Jupiter_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Jupiter_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Jupiter_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Jupiter_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Jupiter_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Jupiter_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Jupiter_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Jupiter_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Jupiter_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Jupiter_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Jupiter_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Jupiter_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Jupiter_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Jupiter_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Jupiter_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Jupiter_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Jupiter_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Jupiter_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Jupiter_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Jupiter_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Jupiter_StrJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Jupiter_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Jupiter_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Jupiter_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Jupiter_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Jupiter_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Jupiter_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Jupiter_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Jupiter_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Jupiter_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Jupiter_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Jupiter_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Jupiter_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Jupiter_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Jupiter_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Jupiter_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Jupiter_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Jupiter_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Jupiter_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Fanclub Sleepover",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "新番组之夜",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "放送待機中",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Fanclub Sleepover Event Questline",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/74/JupiterCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ef/JupiterCasualChibi.png",
+      "shipDescription": [
+        "晚上好，指挥官。今晚有新的节目放送呢，要一起来看电视吗？",
+        "指揮官、こんばんは。新番組、近々放送スタート…指揮官も見る…？",
+        "Good evening, Commander. There's a new show on the telly. You want to watch with me?"
+      ],
+      "acquisition": [
+        "晚上好，指挥官。今晚有新的节目放送呢，要一起来看电视吗？",
+        "指揮官、こんばんは。新番組、近々放送スタート…指揮官も見る…？",
+        "Good evening, Commander. There's a new show on the telly. You want to watch with me?"
+      ],
+      "login": [
+        "新节目好像要开始了呢。嘿嘿，有点期待。指挥官期待吗？",
+        "新しい番組、そろそろ始まるね。ちょ、ちょっとだけ楽しみ…指揮官は、どう？",
+        "That new show is about to start. Hehe. I've been looking forward to it. Are you interested, Commander?"
+      ],
+      "details": [
+        "呼欸？我的拖鞋哪里去了…啊，就在我身后吗？谢谢指挥官……",
+        "！？す、スリッパ―はどこぉ…あ、すぐそばにあったね…指揮官、ありがと…",
+        "Huh? Where's my slipper...? Oh, it's behind me? Thanks, Commander..."
+      ],
+      "secretaryIdle1": [
+        "鱼雷抱枕……抱着它，感觉就很安心…",
+        "魚雷抱き枕……抱きつくとオチツク……",
+        "My torpedo pillow...? Hugging it... makes me feel very safe..."
+      ],
+      "secretaryIdle2": [
+        "要是天后也能一起的话就好了。不过，能让指挥官陪着我，我就已经很开心了，嘿嘿~",
+        "じゅ、ジュノーちゃんもいると嬉しいけど、指揮官がいるだけでも嬉しいよ…へへへ",
+        "I do wish Juno was here. But having you with me, Commander, that makes me very happy too. Hehe~"
+      ],
+      "secretaryIdle3": [
+        "听说，白鹰的幽灵小姐和重樱的鬼神小姐，好像也对新节目感兴趣呢。",
+        "ユニオンの幽霊さんと、重桜のキシン…さん？も楽しみにしてるらしいよ？新番組ぃ…",
+        "I heard a rumor that a certain Ghost of the Eagle Union and a Demon from the Sakura Empire are interested in this show too."
+      ],
+      "secretaryTouch": [
+        "指挥官，我在晚上看电视的事情……不要告诉泽西姐姐，可以吗？",
+        "指揮官、こうして深夜待機してるとこ、ジャージーに言わないでね？お、お願いだから…",
+        "Commander, can you please not tell my sisters... how I spend all night watching TV?"
+      ],
+      "secretarySpecialTouch": [
+        "呀！吓，吓到我了…",
+        "！？び、びっくり……",
+        "Eek! You, you scared me..."
+      ],
+      "returnFromMission": [
+        "回来得正好，还没错过节目……",
+        "なんとか見逃さなかった…ヨカッタ…",
+        "You're just in time. The show hasn't started yet..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Jupiter_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Jupiter_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Jupiter_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Jupiter_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Jupiter_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Jupiter_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Jupiter_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Jupiter_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Jupiter_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Jupiter_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Jupiter_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Jupiter_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Jupiter_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Jupiter_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Jupiter_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Jupiter_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Jupiter_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Jupiter_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Jupiter_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Jupiter_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Jupiter_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Jupiter_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Jupiter_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Jupiter_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Jupiter_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Jupiter_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Jupiter_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

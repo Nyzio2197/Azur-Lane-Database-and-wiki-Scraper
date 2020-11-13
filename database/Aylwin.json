@@ -1,0 +1,574 @@
+{
+  "name": "Aylwin",
+  "constructionTime": "00:20:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Farragut",
+  "ID": "406",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "或一",
+  "pixiv": "http://www.pixiv.net/member.php?id=1904395",
+  "link": "http://bcy.net/u/1495574",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/69/Aylwin_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1679,
+      199,
+      83,
+      81,
+      279,
+      162,
+      44,
+      182,
+      0,
+      8,
+      173,
+      197,
+      0,
+      0
+    ],
+    "Level 100": [
+      1400,
+      173,
+      83,
+      70,
+      244,
+      156,
+      44,
+      159,
+      0,
+      8,
+      165,
+      177,
+      0,
+      0
+    ],
+    "Base Stats": [
+      271,
+      73,
+      83,
+      15,
+      52,
+      60,
+      44,
+      34,
+      0,
+      2,
+      63,
+      48,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    5,
+    17,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Carrier Escort; CN: 空母护航 JP: 随伴空母",
+  "skill1Description": "When alive in fleet, reduce damage taken by allied CV/L by 5% (15%). Does not stack with the same skill.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ファラガット級",
+  "skill2Description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Farragut Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/68/Aylwin.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e3/AylwinChibi.png",
+      "shipDescription": [
+        "法拉格特级驱逐舰—艾尔温，舷号DD-355",
+        "ファラガット級駆逐艦・エールウィン（DD-355)",
+        "Farragut-class destroyer – Aylwin, Hull Number DD-355."
+      ],
+      "selfIntroduction": [
+        "我是白鹰驱逐舰、艾尔温。在生涯中经历了多次演习和战役，和皇家还有鸢尾的各位都有所交集，憧憬列克星敦小姐那样的成熟女性…请多指教了，指挥官",
+        "ユニオン所属、エールウィンと言います。あの大戦で演習と作戦をたくさん参加して、ロイヤルとアイリスともちょっとご縁がありました。レキシントンさんのような大人の女性が憧れですね。指揮官、よろしくお願いしますね",
+        "I am Aylwin, from the Eagle Union. During the war, I carried out many operations as well as training exercises, and had some ties with both the Royal Navy and Iris Libre. I admire elegant, mature women like Lexington. Commander, I look forward to working with you!"
+      ],
+      "acquisition": [
+        "初次见面，指挥官，我是艾尔温~其实我去过很多地方，对航路很熟悉的哦。如果舰队需要带路的话，尽管找我吧~",
+        "はじめまして、エールウィンと言います。実はわたし、航路には詳しかったりするんですよ。なので、案内役はぜひわたしにお任せください",
+        "Greetings, my name is Aylwin. I'm actually quite talented at nautical navigation, so please allow me to be your guide."
+      ],
+      "login": [
+        "欢迎回来指挥官，新的一天又要开始了~",
+        "指揮官、おかえりなさい。そろそろ新しい一日が始まりますよ",
+        "Commander, welcome back. It's the start of a bright new day!"
+      ],
+      "details": [
+        "列克星敦小姐和萨拉托加小姐，指挥官更喜欢哪边呢？还是说…更喜欢别的女孩子？",
+        "指揮官はレキシントンさんとサラトガちゃん、どっちが好きですか？それとも…ほかの子が好きだったりしますか？",
+        "Commander, who do you like more - Lexington, or Saratoga? Or... perhaps some other girl has caught your eye?"
+      ],
+      "secretaryIdle1": [
+        "昨晚梦到和列克星敦小姐一起同台演出了呢~如果，只是如果哦，我以后真的做了偶像，指挥官会来支持我吗？",
+        "レキシントンさんと同じ舞台でライブをする夢を見ました。わたし、もしわたしがね、レキシントンさんと一緒に歌ったり踊ったりしたら、指揮官はどちらを応援しますか？",
+        "I had a dream that I would one day share the stage with Lexington. If I could sing and dance just like her, which one of us would you support?"
+      ],
+      "secretaryIdle2": [
+        "唔…好多演习，一个接一个…好想实战啊，想和大家一起出击呢~",
+        "むぅ、また演習…次から次へと…実戦をして、みんなと一緒に出撃したいです",
+        "*pouts* Another training exercise? You keep saying next time... I want to sortie and go on real missions with everyone else!"
+      ],
+      "secretaryIdle3": [
+        "每次和杜威一起出击，她都特别照顾我哟。也许是作为同样喜欢列克星敦的同伴意识使然吧~？呵呵…",
+        "デューイはすごく面倒見が良いのですよ。同じレキシントンさんのことが好きな子として当然かもしれません、ふふふっ",
+        "Dewey really looks after me. Maybe she's also one of Lexington's fans, hehe~!"
+      ],
+      "secretaryTouch": [
+        "什~么~事？指挥官？",
+        "指揮官、なーに？",
+        "Commander, do you need something~?"
+      ],
+      "secretarySpecialTouch": [
+        "啊，指挥官，这样可不礼貌哦？",
+        "もう、指揮官、マナー違反ですよ？",
+        "Jeez, Commander... That's a foul, you know?"
+      ],
+      "task": [
+        "有任务了哦~快点行动吧，嘿嘿，现在做不完的话也没关系就是了~",
+        "任務が来ました～早く出発しましょう～なんてね。今はまだ大丈夫ですよ",
+        "New missions have been posted~ Let's hurry up and set sail! Just kidding, we still have plenty of time right now."
+      ],
+      "taskComplete": [
+        "任务完成啦，指挥官的奖励应该会有很多哦~",
+        "任務完了です。指揮官へのご褒美もたくさんあるはずですよ",
+        "Mission complete! It's a pretty good haul isn't it, Commander~"
+      ],
+      "mail": [
+        "唔？好像有邮件呢…哈啊——快看，有好东西寄过来哦~",
+        "ん？メールがあるみたいですね…んっしょ――ああ、これは良いお知らせですね",
+        "Hm? There seems to be some new mail... Hrmm... Ah! Now, this seems like some good news!"
+      ],
+      "returnFromMission": [
+        "指挥官终于回来了~有没有带什么好吃的回来呢？——哇啊，多谢款待哦~",
+        "指揮官おかえりなさい。みんなのために美味しいお菓子のお土産を持ってきてくださったのでしょうか？――ありがとうございます。いただきます♪",
+        "Commander, you're finally back~! Did you bring back some some delicious treats for us? Thank you so much! I'll be helping myself~♪"
+      ],
+      "commission": [
+        "委托完成~指挥官，一起去迎接委托组的大家吧？",
+        "軍事委託完了です。指揮官、一緒にみんなを出迎えに行きましょう？",
+        "The military commission has been completed. Commander, why don't we head down together to welcome everyone back?"
+      ],
+      "strengthening": [
+        "呼…好像身体没什么感觉？不管啦，变强了总归是好事~",
+        "ふぅ…あまり実感がないかも？まあ別にいいですよ、強くなるのは悪いことではありませんから",
+        "Hmm... I don't particularly feel any different. Whatever, a gain is a gain~"
+      ],
+      "startingMission": [
+        "大家，一起加油哦~",
+        "みんな、一緒にがんばりましょう！",
+        "Everyone, let's give it our all!"
+      ],
+      "mvp": [
+        "拿到MVP了哟~要给奖励才是好指挥官哦~",
+        "MVPをゲットしました！エールウィンにご褒美をくださるいい指揮官でありますように～",
+        "Yay, I'm the MVP! Surely a wonderful commander like you would have something nice for me, right~"
+      ],
+      "defeat": [
+        "啊呜…真的输了…指挥官，能给点糖果安慰一下吗…？",
+        "あぅ…負けちゃいました…指揮官、残念賞のキャンディをいただけないでしょうか…？",
+        "Oops, guess I lost... Commander, can you give me some candy to cheer me up...?"
+      ],
+      "skillActivation": [
+        "艾尔温也要给敌人一点颜色看看~",
+        "エールウィンも少しがんばりますよ",
+        "Looks like it's time for Aylwin to get serious!"
+      ],
+      "lowHP": [
+        "还、还没问题~大概……",
+        "ま、まだ大丈夫…多分……",
+        "I'm... I'm still okay... probably..."
+      ],
+      "affinityDisappointed": [
+        "指挥官，听我说哦~再这样下去，我也要稍微离你远一点才好了……",
+        "指揮官、よく聞いてくださいね。このままでは、わたしまでも指揮官と距離を取っちゃいますから……",
+        "Commander, listen up. If this continues on, I'll be keeping my distance from you..."
+      ],
+      "affinityStranger": [
+        "指挥官现在特别忙吗？嗯，我有点话想跟你说——给，棒棒糖～糖分对大脑是有好处的哦",
+        "指揮官、今すごく忙しいですか？ええと、わたしからちょっと――はい、キャンディあげます♪糖分はアタマにいいですよ",
+        "Commander, you're not too busy right now, are you? Umm, I'd like to... here, I have a little bit of candy for you~♪ Some sugar is good for the brain!"
+      ],
+      "affinityFriendly": [
+        "和杜威比起来稍微有一点…哼，才不胖呢！真是的，不理指挥官了啦！",
+        "デューイと比べてほんのちょっぴりだけ……ふ、太っているじゃないもん！もう指揮官なんか知りません！",
+        "Compared to Dewey, I'm only a tiny bit more... H-huh? I'm not chubby! Jeez, Commander, I'm not talking to you anymore!"
+      ],
+      "affinityLike": [
+        "…指挥官果然还是喜欢有点肉的女孩子吧？…我每天喝牛奶、吃糖果，总有一天能变成指挥官喜欢的类型的对吧？",
+        "……指揮官ってやっぱりちょっとお肉がついてる子が好きですか？…わたし毎日牛乳飲んだりお菓子食べたりしているから、きっといつかは指揮官好みのタイプになれますよね？",
+        "Commander, you're the type who likes it when there's a bit more to love, right? ... I'll drink plenty of milk and eat lots of candy every day so that I can be your ideal type~"
+      ],
+      "affinityLove": [
+        "指挥官，我今天也有一点变化哦？注意到了吗？…还没注意到吗？…快点、快点、快点注意到吧…呐？",
+        "指揮官、今日もわたしちょっぴり変わりましたよ？指揮官は気づきました？…まだ気づいていないのですか？…早く、早く、早く気づいてください…ね？",
+        "Commander, what's different about me today? Have you noticed yet? ...You still haven't noticed it? Hurry, hurry, hurry up and notice it, okay?"
+      ],
+      "pledge": [
+        "指挥官…就算喜欢上列克星敦小姐也没关系，但是…不可以不喜欢我哦？为了让指挥官一直喜欢我，我会每天每天、每天每天都努力加油的，所以…一定要关注着我哦？一定哦？",
+        "指揮官、レキシントンさんを好きになってもいいですけど、わたしのことは絶対に好きでいてくださいね？わたし、指揮官が好きになるように毎日毎日、毎日毎日頑張っていますから、絶対に気づいてくださいね？ね？",
+        "Commander, I don't mind if you have a thing for Lexington. But you have to swear that you absolutely love me, okay? I try my best every single day to be your ideal girl, so don't take your eyes off me, okay?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Lexington) 列克星敦小姐，我来为你护航啦~我就一直在你身边哦~",
+        "(Sortie with Lexington) レキシントンさん、ずっとそばでお守りしますよ",
+        "(Sortie with Lexington) Lexington, I'm always here to protect you~"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Dewey) 姐姐，好好看下我的表现哦~",
+        "(Sortie with Dewey) デューイ、わたしの活躍を見ててね",
+        "(Sortie with Dewey) Dewey, take a close look at my skills~!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here's your Valentine's chocolate. I'm afraid you'll have to eat it alone, Commander. You see... I had a really big cake earlier, and I'm stuffed now! Sorry!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Aylwin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Aylwin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Aylwin_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Aylwin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Aylwin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Aylwin_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Aylwin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Aylwin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Aylwin_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Aylwin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Aylwin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Aylwin_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Aylwin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Aylwin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Aylwin_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Aylwin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Aylwin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Aylwin_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Aylwin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Aylwin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Aylwin_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Aylwin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Aylwin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Aylwin_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Aylwin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Aylwin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Aylwin_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Aylwin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Aylwin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Aylwin_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Aylwin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Aylwin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Aylwin_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Aylwin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Aylwin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Aylwin_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Aylwin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Aylwin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Aylwin_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Aylwin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Aylwin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Aylwin_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Aylwin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Aylwin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Aylwin_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Aylwin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Aylwin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Aylwin_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Aylwin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Aylwin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Aylwin_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Aylwin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Aylwin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Aylwin_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Aylwin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Aylwin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Aylwin_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Aylwin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Aylwin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Aylwin_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Aylwin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Aylwin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Aylwin_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Aylwin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Aylwin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Aylwin_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Aylwin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Aylwin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Aylwin_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Aylwin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Aylwin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Aylwin_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Aylwin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Aylwin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Aylwin_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Aylwin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Aylwin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Aylwin_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Aylwin_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Aylwin_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Aylwin_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Aylwin_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Aylwin_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Aylwin_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Sunday Aquarium Visit",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "星期天的水族馆",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "サンデー・アクアリウム",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d0/AylwinCasualWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9c/AylwinCasualChibi.png",
+      "shipDescription": [
+        "这里是水族馆吗…感觉很新鲜呢。啊，今天不是我而是指挥官领路呢，请小心不要迷路哦。诶嘿嘿",
+        "ここがアクアリウム……なんだか新鮮な気分です。あ、今日はわたしが案内するのではなく、指揮官がエスコートする番ですから、迷わないようにご注意くださいね。えへへ",
+        "So this is an aquarium... What a novel experience! Oh, also, I won't be your guide today as it's your turn to escort me around, Commander. Please don't get us lost, okay? Ehehe~"
+      ],
+      "acquisition": [
+        "这里是水族馆吗…感觉很新鲜呢。啊，今天不是我而是指挥官领路呢，请小心不要迷路哦。诶嘿嘿",
+        "ここがアクアリウム……なんだか新鮮な気分です。あ、今日はわたしが案内するのではなく、指揮官がエスコートする番ですから、迷わないようにご注意くださいね。えへへ",
+        "So this is an aquarium... What a novel experience! Oh, also, I won't be your guide today as it's your turn to escort me around, Commander. Please don't get us lost, okay? Ehehe~"
+      ],
+      "login": [
+        "指挥官，今天请多多关照。怎么样？这个屈膝礼可是从皇家女仆队那里学来的哦？",
+        "指揮官、今日はよろしくお願いしますね。どう？このカーテシーはロイヤルメイド隊から勉強したのですよ～",
+        "How do you do, Commander? How's that? I learned how to curtsy from the Royal Navy maids~"
+      ],
+      "details": [
+        "肚子有点饿了…嗯，饼干和糖果，还有…不行不行，得给指挥官也留一份呢…",
+        "お腹がちょっと減りました…ええと、クッキーと、キャンディと…あっいけない、指揮官の分は残しておかないと…",
+        "I'm feeling a little peckish... Umm, cookies, candy, and... Ah, I musn't... I have to leave enough for Commander..."
+      ],
+      "secretaryIdle1": [
+        "虽然训练的时候和潜艇们一起到处跑过，但是在水下这么观察还真有一种奇妙的感觉呢",
+        "訓練の時に潜水艦のみんなと一緒にあっちこっち行ったり来たりしていましたけど、こうして海の中から見ると奇妙な気分です",
+        "Even though I spent a lot of time training with the submarines, it's a totally different experience to enjoy the sight underwater."
+      ],
+      "secretaryIdle2": [
+        "这件衣服可是花了很大心思挑的哦？指挥官，怎么样…？",
+        "この服はすごく気合を入れて選びましたよ。指揮官、どう…ですか？",
+        "This outfit was chosen painstakingly, you know? Commander, what do you think...?"
+      ],
+      "secretaryIdle3": [
+        "下次要不要一起去看列克星敦小姐她们的演出？指挥官的票我可以帮忙准备哦？",
+        "今度レキシントンさんたちのライブを一緒に見に行きませんか？指揮官のチケットも準備しますよ",
+        "Want to go see Lexington's performance together next time? I'll even get your ticket for you if you'd like."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，是不是想歪了什么…？",
+        "指揮官、もぉ変な気分にでもなっちゃいました…？",
+        "Commander, did you get some perverted ideas...?"
+      ],
+      "startingMission": [
+        "刚才参观的内容，在对潜战斗的时候能不能派上点用场呢…",
+        "さっき見たこと、対潜戦闘の役に立てるのかしら…",
+        "What I saw just now could prove useful for anti-submarine operations..."
+      ],
+      "mvp": [
+        "优雅华丽地取得胜利了呢。多谢夸奖～",
+        "優雅に、エレガントに勝ちました。えへへ、どういたしまして～",
+        "A most graceful and elegant victory. Ehehe, thank you for your praise~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Aylwin_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Aylwin_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Aylwin_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Aylwin_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Aylwin_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Aylwin_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Aylwin_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Aylwin_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Aylwin_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Aylwin_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Aylwin_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Aylwin_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Aylwin_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Aylwin_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Aylwin_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Aylwin_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Aylwin_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Aylwin_SecIdle3Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Aylwin_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Aylwin_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Aylwin_Sec2Skin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Aylwin_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Aylwin_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Aylwin_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Aylwin_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Aylwin_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Aylwin_MVPSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

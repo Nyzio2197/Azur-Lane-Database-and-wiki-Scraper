@@ -1,0 +1,809 @@
+{
+  "name": "Hamakaze",
+  "constructionTime": "00:27:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Kagerou",
+  "ID": "318",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "AO凹凹凹",
+  "pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
+  "link": "https://www.weibo.com/ultramnnice",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/d/d8/Hamakaze_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2083,
+      201,
+      58,
+      65,
+      512,
+      191,
+      42,
+      150,
+      0,
+      8,
+      184,
+      187,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      2143,
+      201,
+      58,
+      75,
+      572,
+      211,
+      45,
+      150,
+      0,
+      8,
+      184,
+      187,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1796,
+      175,
+      58,
+      66,
+      526,
+      205,
+      45,
+      130,
+      0,
+      8,
+      175,
+      168,
+      0,
+      0
+    ],
+    "Level 100": [
+      1736,
+      175,
+      58,
+      56,
+      466,
+      185,
+      42,
+      130,
+      0,
+      8,
+      175,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      336,
+      74,
+      58,
+      12,
+      99,
+      71,
+      42,
+      28,
+      0,
+      2,
+      67,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75% → 80%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150% → 165%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 10,
+  "level120StatBonus": "Destroyer (DD) Accuracy  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    4,
+    33,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Rescue Operations; CN: 救援组 JP: 救助活動",
+  "skill1Description": "When an allied ship's HP falls to 0: 30.0% (60.0%) chance to heal self by 3.5% (8.0%) of own max HP and other allied ships' HP by 1.2% (3.0%) of their max HP.",
+  "skill2Name": "(Retrofit) Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill2Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-陽炎型",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Kagerou Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a0/Hamakaze.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9b/HamakazeChibi.png",
+      "shipDescription": [
+        "阳炎级驱逐舰十三番舰—滨风",
+        "陽炎型駆逐艦十三番艦・浜風",
+        "Kagerou-class destroyer number thirteen – Hamakaze."
+      ],
+      "selfIntroduction": [
+        "阳炎级十三号舰滨风，虽然参与过许多海战，但最知名的并不是击沉了谁，而是救援了许多同伴——这也是我最自豪的地方。这一次，我也会为了守护大家而战！",
+        "陽炎型十三番艦、浜風よ。結構な数の戦闘に参加したけど、撃沈した敵より、助けた仲間のほうがよく覚えてるのーー今度も皆を守るために戦うわ",
+        "I'm Hamakaze, 13th Kagerou-class destroyer. Although I took part in quite a few battles, it feels like I spent more time rescuing friends than sinking foes... And now, I fight once more to protect my friends."
+      ],
+      "acquisition": [
+        "阳炎级驱逐舰十三号舰滨风报到。指挥官，可不要读错我的名字",
+        "陽炎型駆逐艦十三番艦、浜風、到着した。指揮官、わたしの名前を間違えないでね",
+        "Hamakaze, 13th ship of the Kagerou-class destroyers, reporting for duty. Commander, try not to get my name wrong."
+      ],
+      "login": [
+        "指挥官，现在可还没到松懈的时候！",
+        "指揮官、まだ気を抜く時じゃないよ",
+        "Now's not the time to lose focus, Commander."
+      ],
+      "details": [
+        "这一次——一定要守护好同伴！",
+        "今度もーー仲間を守るわ！",
+        "This time too... I swear to protect my friends!"
+      ],
+      "secretaryIdle1": [
+        "谷风，不完成训练的话，可别想着能安稳地睡着",
+        "谷風、訓練をちゃんとしなきゃぐっすりねれないわよ",
+        "Tanikaze, until you finish your training, don't expect to get much beauty sleep!"
+      ],
+      "secretaryIdle2": [
+        "虽然只是一艘驱逐舰，但我会努力保护大家的！",
+        "わたしは駆逐艦だけど、皆を頑張って守るわ",
+        "Though I may be but a single destroyer, I'll still do all I can to protect everyone."
+      ],
+      "secretaryIdle3": [
+        "坊之岬……那是一切结束的地方……",
+        "坊ノ岬……そこは全てが終わった場所……",
+        "Bou-no-misaki... where it all came to an end..."
+      ],
+      "secretaryTouch": [
+        "咦——指挥官，你在看哪里呢？",
+        "うん？ーー指揮官、どこを見てるの？",
+        "Hm? What are you looking at, Commander?"
+      ],
+      "secretarySpecialTouch": [
+        "呀——指挥官，你在碰哪里呢？",
+        "きゃっ！？……指揮官、どこ触ってるの？",
+        "Eek! ... Commander, just where do you think you're touching?"
+      ],
+      "task": [
+        "下一个任务是……",
+        "次の任務は……",
+        "Our next mission is..."
+      ],
+      "taskComplete": [
+        "我对你的评价提高了唷",
+        "指揮官の点数が上がってるぞ",
+        "Your grades are going up, Commander."
+      ],
+      "mail": [
+        "阅读战报可是最优先事项",
+        "レポートの振り返りは最優先事項だよ",
+        "Reading through these reports should be your top priority."
+      ],
+      "returnFromMission": [
+        "辛苦了……出击的姐妹们有好好工作吗？",
+        "お疲れ様。出撃したみんなはちゃんと働いているか？",
+        "Great job. Did everyone do their job during the sortie?"
+      ],
+      "commission": [
+        "辛苦了……不过，比起鼠运输，这些应该算不了什么吧",
+        "お疲れ様……鼠輸送と比べると大したことじゃないでしょ？",
+        "Well done... Commissions are hardly a big deal compared to Rat Transports, right?"
+      ],
+      "strengthening": [
+        "风更大了",
+        "風はもっと激しくなるわ",
+        "The wind grows stronger."
+      ],
+      "startingMission": [
+        "海风正宜战斗！",
+        "この風…戦にちょうどいいわ！",
+        "This wind... is perfect for battle!"
+      ],
+      "mvp": [
+        "哼哼，马马虎虎吧！",
+        "ふふん、わたしにしてはそこそこだな！",
+        "Heheh! This is nothing spectacular for me!"
+      ],
+      "defeat": [
+        "又要营救生还者了吗……",
+        "生存者救助、頑張らないと……",
+        "I have to rescue the survivors..."
+      ],
+      "skillActivation": [
+        "我在这里呢！",
+        "スキあり！",
+        "I see an opening!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官，有勇无谋……",
+        "指揮官、筋肉バカ……",
+        "Stupid meatheaded Commander..."
+      ],
+      "affinityStranger": [
+        "指挥官，历史是不会重复的……对吧？",
+        "指揮官、歴史は繰り返さない……だよね？",
+        "Commander, history surely won't repeat itself... right?"
+      ],
+      "affinityFriendly": [
+        "我期待着第十七驱逐队能在这里团聚……",
+        "第十七駆逐隊…ここでまた集まると良いな……",
+        "I hope one day... Destroyer Division 17 can reunite here..."
+      ],
+      "affinityLike": [
+        "今天的风儿也很舒服呢，不过——我还不能休息！大和……等着我……",
+        "今日の風も気持ちいいよね…でもーーまだ休んじゃダメ！大和……待ってて……",
+        "The breeze feels really nice today... But we can't afford to rest yet! Yamato... wait for me..."
+      ],
+      "affinityLove": [
+        "只要海风还没有停歇，我就会永远陪伴在你的身旁",
+        "風が止まない限り、わたしはずっとあなたのそばにいるわ",
+        "For as long as the wind blows, I will always be by your side."
+      ],
+      "pledge": [
+        "虽、虽然我认为应该等一切结束了再……不、不过，拒绝你的好意——伤害了你的心也会很麻烦呢，所以我就勉为其难——不、不许笑！",
+        "す、全てが終わってからでもいいかって……で、でもね、せっかく贈ってくれたから断ってーーがっかりさせたら悪いからね、だからね、我慢してーーって笑うな！",
+        "M-maybe we should wait until it's all over... Th-that said, I'd feel bad if I rejected you now, so I'll have to accept it... Hey, stop laughing!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "今日もいい風…指揮官、チョコあげるよ。これからもわたしたち第十七駆逐隊に期待してて。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "我给指挥官准备了巧克力哦。之前为了鼓舞战前士气，我准备了好多巧克力，选你喜欢的吃吧！",
+        "指揮官にチョコをあげるよ。戦の前の景気づけにたくさん用意したから、好きなだけ食べてね！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Since you've been so good, I decided to give you this chocolate as a reward, Commander~ I certainly don't need chocolate! I'm good just because it's the right thing to do. Hmph!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Hamakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Hamakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Hamakaze_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Hamakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Hamakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Hamakaze_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Hamakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Hamakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Hamakaze_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hamakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hamakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hamakaze_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Hamakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Hamakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Hamakaze_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Hamakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Hamakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Hamakaze_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hamakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hamakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hamakaze_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Hamakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Hamakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Hamakaze_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Hamakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Hamakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Hamakaze_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Hamakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Hamakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Hamakaze_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Hamakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Hamakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Hamakaze_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Hamakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Hamakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Hamakaze_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Hamakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Hamakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Hamakaze_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Hamakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Hamakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Hamakaze_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Hamakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Hamakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Hamakaze_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Hamakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Hamakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Hamakaze_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Hamakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Hamakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Hamakaze_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Hamakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Hamakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Hamakaze_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hamakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hamakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hamakaze_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Hamakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Hamakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Hamakaze_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Hamakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Hamakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Hamakaze_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Hamakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Hamakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Hamakaze_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Hamakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Hamakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Hamakaze_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Hamakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Hamakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Hamakaze_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Hamakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Hamakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Hamakaze_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/74/HamakazeKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/51/HamakazeKaiChibi.png",
+      "shipDescription": [
+        "指挥官，我的到来有使你感到开心吗？——是吗…太好了！嘿嘿…滨风，干劲满满！",
+        "指揮官、私が来てから楽しくなった？ーーそう？…よかった！えへへ…浜風、「てんしょんあっぷ」！",
+        "Commander, have you been having more fun since I arrived? ... I see, that's great! Ehehe... Hamakaze, getting hyped!"
+      ],
+      "acquisition": [
+        "指挥官，我的到来有使你感到开心吗？——是吗…太好了！嘿嘿…滨风，干劲满满！",
+        "指揮官、私が来てから楽しくなった？ーーそう…よかった！えへへ…浜風、「てんしょんあっぷ」！",
+        "Commander, have you been having more fun since I arrived? ... I see, that's great! Ehehe... Hamakaze, getting hyped!"
+      ],
+      "secretaryIdle1": [
+        "谷风，不要再戳我的脸啦……等等！那个地方也不行！",
+        "谷風、ほっぺをつっつくのやめてよ……ちょっ！そこはもっとダメぇ！",
+        "Could you stop poking my cheek, Tanikaze... Hey, stop! No poking there, especially!"
+      ],
+      "secretaryIdle2": [
+        "同伴们的笑容是我最喜欢的东西，所以……",
+        "仲間の笑顔は好き。だから……",
+        "I love seeing my friends smile. That's why..."
+      ],
+      "secretaryIdle3": [
+        "一切还没有结束！坊之岬……这一次我们一定会跨越——",
+        "まだ終わっていない…坊ノ岬……今度こそーー",
+        "It's not over yet... This time, I'll triumph... at Bou-no-misaki."
+      ],
+      "secretaryTouch": [
+        "指挥官，听说这样能看得更远更清楚——",
+        "指揮官、こうするともっと遠くまで見れるってーー",
+        "Commander, I think you can see further if you do it like this."
+      ],
+      "secretarySpecialTouch": [
+        "呀——指挥官，这样做是不行的！",
+        "きゃっ！？……指揮官、こんなのダメだよ！",
+        "Eek! ... Commander, this is unacceptable!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hamakaze_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hamakaze_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Hamakaze_IntroSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Hamakaze_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Hamakaze_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Hamakaze_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hamakaze_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hamakaze_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hamakaze_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Hamakaze_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Hamakaze_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Hamakaze_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Hamakaze_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Hamakaze_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Hamakaze_Sec1Skin9JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Hamakaze_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Hamakaze_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Hamakaze_Sec2Skin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Honors Student",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "模范优等生",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ザ・優等生",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/75/HamakazeSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/dd/HamakazeSchoolChibi.png",
+      "shipDescription": [
+        "学习是件很有趣的事情，掌握新知识的惊喜，解决难题后的成就感…尝试过后你就知道了。所以指挥官，一起来学习吧？",
+        "勉強は面白い。新しい知識を得た時の喜び、難しい問題を解けた時の達成感…一度やったらわかるよ。だから指揮官、一緒に勉強しよ？",
+        "Learning is exciting. The joy of acquiring new knowledge, the sense of achievement from solving difficult problems... you'll understand once you try it. So, shall we study together, Commander?"
+      ],
+      "acquisition": [
+        "学习是件很有趣的事情，掌握新知识的惊喜，解决难题后的成就感…尝试过后你就知道了。所以指挥官，一起来学习吧？",
+        "勉強は面白い。新しい知識を得た時の喜び、難しい問題を解けた時の達成感…一度やったらわかるよ。だから指揮官、一緒に勉強しよ？",
+        "Learning is exciting. The joy of acquiring new knowledge, the sense of achievement from solving difficult problems... you'll understand once you try it. So, shall we study together, Commander?"
+      ],
+      "login": [
+        "指挥官，昨天的问题解答出来了吗？",
+        "指揮官、昨日の問題は解けた？",
+        "Commander, were you able to solve that question from yesterday?"
+      ],
+      "secretaryIdle1": [
+        "浦风，矶风，谷风都坐好了吗，那么我们来复习一下之前学过的重要公式……",
+        "浦風、磯風、谷風、ちゃんと席についた？じゃあこの前学んだ重要な公式を復習するわよ",
+        "Urakaze, Isokaze, Tanikaze, have you all taken your seats? Then let's review the essentials of the last formula we studied."
+      ],
+      "secretaryIdle2": [
+        "提升自己才能更好地保护大家，所以要好好学习才行",
+        "自分を高めてこそみんなをよりよく守れる、だからこその勉強よ",
+        "Improve yourself so that you can better protect those you care about. That's why I study as hard as I do."
+      ],
+      "secretaryIdle3": [
+        "这里用这个公式，然后这里再这样…哼哼，这点小问题可难不倒我",
+        "ここはこの式を使って、ここはこう…ふふん、この程度の問題じゃわたしを困らせることはできないわ",
+        "Here we'll use this equation, then do this... Hah, a trivial question like this is no issue for me."
+      ],
+      "secretaryTouch": [
+        "指挥官，真理是不会存在于女孩子的裙子底下的",
+        "指揮官、真理はスカートの下にはないわよ",
+        "Commander, you won't find the answer underneath my skirt."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，念书的时候能专心一点吗",
+        "指揮官、本を読むときはもっと真面目に！",
+        "Commander, take your reading more seriously!"
+      ],
+      "startingMission": [
+        "嗯嗯……这个距离，这个战斗力，能赢",
+        "うんうん……この距離と、この戦力…勝てるわ！",
+        "Hm, hm... at this range, with these forces... we can win!"
+      ],
+      "mvp": [
+        "刚才的抛物线……真是美妙呢",
+        "今のカーブ……美しい……",
+        "That parabola... was beautiful..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Hamakaze_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Hamakaze_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Hamakaze_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hamakaze_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hamakaze_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hamakaze_LogSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Hamakaze_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Hamakaze_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Hamakaze_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Hamakaze_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Hamakaze_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Hamakaze_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Hamakaze_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Hamakaze_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Hamakaze_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Hamakaze_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Hamakaze_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Hamakaze_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Hamakaze_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Hamakaze_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Hamakaze_Sec2Skin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Hamakaze_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hamakaze_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hamakaze_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Hamakaze_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Hamakaze_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Hamakaze_MVPSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +60 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Maneuver Enhancement (I)",
+      "attributes": "Evasion +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement (I)",
+      "attributes": "Main Gun Efficiency +5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement (I)",
+      "attributes": "Firepower +10 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 500,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Torpedo Improvement (I)",
+      "attributes": "Torpedo Efficiency +5% ",
+      "materials": "4x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Torpedo Enhancement (I)",
+      "attributes": "Torpedo +10 ",
+      "materials": "5x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Power Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "2x DestroyerT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Emergency Evasion\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Torpedo Improvement (II)",
+      "attributes": "Torpedo Efficiency +5% / +5% ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 0,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Torpedo Enhancement (II)",
+      "attributes": "Torpedo +5 / +15 ",
+      "materials": "2 / 2x DestroyerT2BP and 5 / 15x TorpT2Plate ",
+      "coinCost": 0,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "F",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Torpedo +30, Evasion +15 ",
+      "materials": "1x DestroyerT3BP and 1x Hamakaze or Universal Bulin ",
+      "coinCost": 2000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

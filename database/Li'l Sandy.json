@@ -1,0 +1,458 @@
+{
+  "name": "Li'l Sandy",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Atlanta",
+  "ID": "392",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://anidb.net/perl-bin/animedb.pl?show=creator&creatorid=12596",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3226,
+      182,
+      85,
+      131,
+      161,
+      95,
+      32,
+      434,
+      0,
+      10,
+      168,
+      192,
+      0,
+      0
+    ],
+    "Level 100": [
+      2868,
+      159,
+      85,
+      114,
+      140,
+      73,
+      32,
+      391,
+      0,
+      10,
+      150,
+      173,
+      0,
+      0
+    ],
+    "Base Stats": [
+      555,
+      67,
+      85,
+      24,
+      30,
+      28,
+      32,
+      84,
+      0,
+      3,
+      58,
+      47,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "95% → 100%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "110% → 115%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "145% → 165%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    10,
+    10,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Anti-Air Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Starlit Debut; CN: 闪耀登场 JP: スター☆エントリー",
+  "skill1Description": "1 second after battle starts, increases own Firepower, Torpedo stat, and ASW stat by 1% (10%), and reduces aviation damage taken by the fleet by 1.5% (6%) for 30 seconds.",
+  "skill2Name": "Sparkling Star; CN: Star Spark！ JP: スター☆スパーク",
+  "skill2Description": "Every 14 seconds, releases a star-shaped barrage (damage increases with skill level).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-アトランタ級",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Atlanta Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "亚特兰大级轻巡洋舰—圣地亚哥，舷号CL-53",
+        "アトランタ級軽巡洋艦・サンディエゴ（CL-53）",
+        "Atlanta-class light cruiser – San Diego (CL-53)"
+      ],
+      "selfIntroduction": [
+        "亚特兰大级三号舰，圣地亚哥就是我！将来我一定能成为舰队里最耀眼的那颗星星！",
+        "アトランタ級三番艦のサンディエゴだよ！将来は艦隊で一番輝く☆スーパースターになる！！",
+        "I'm the third ship of the Atlanta-class light cruisers, San Diego! I'm aiming to become the fleet's number one Super☆Star!"
+      ],
+      "acquisition": [
+        "圣地亚哥，闪耀登场！我冲，我跳——嘿！哼哼，能想到如此独一无二的登场方式，果然我是最聪明的人！",
+        "サンディエゴ、登☆場！あちゃー！ほい！――ふふん！このオンリーワンな登場の仕方！やっぱり私がいっちばん頭いいよね！",
+        "San Diego, making her shining debut! She shoots, she scores~ Yaay! Hehe, only a genius like me could come up with a one-of-a-kind intro like that!"
+      ],
+      "login": [
+        "指挥官，正好这里有很多纸，我们来比比谁的纸飞机飞得远吧！",
+        "指揮官！ここにいっっぱいある紙を使って、誰の紙飛行機が一番遠くまで飛べるか競争しようよ！",
+        "Yo, Commander! There's a lot of paper lying around here, so let's fold some paper airplanes and see whose fly the farthest!"
+      ],
+      "details": [
+        "天空不只有飞机，还有云彩和星星！",
+        "空には飛行機だけじゃなくて、雲と星もあるよ！",
+        "The skies don't just belong to the planes, but to clouds and stars as well!"
+      ],
+      "secretaryIdle1": [
+        "姐姐们说，有不懂的问题就要问！但是，之后我又该做什么呢？",
+        "わからないことは聞くべし！と聞いたけど、何を聞くの？",
+        "My sisters always told me to ask if there's anything I don't understand. But, what if I still don't get it?"
+      ],
+      "secretaryIdle2": [
+        "唔唔唔……有没有什么办法让大家都注意到我的厉害之处呢？",
+        "むむむむ……私の凄さをみんなに気づいてもらえる方法はないかなー",
+        "Hrmmm... Is there some way to get everyone to know about how awesome I am?"
+      ],
+      "secretaryIdle3": [
+        "欸，指挥官，你一直坐在这里，不会觉得无聊吗？",
+        "えええ！指揮官、ずっとここに座りっぱなしでつまんなくないのー？",
+        "Ehhh? Commander, doesn't it get boring sitting there all day?"
+      ],
+      "secretaryTouch": [
+        "哇，轮到我当鬼了！指挥官我数到10哦，1，2，然后是……5？10！",
+        "よし！私が探す番ね！今１０まで数えるから…ええと、１、２、５、１０！",
+        "Awright! It's my turn to be it! One, two, skip a few... Ninety-nine, a hundred! Here I come, Commander!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官是笨蛋！",
+        "指揮官のバカ！",
+        "Commander, you jerk!"
+      ],
+      "task": [
+        "看我一口气把这些任务都完成！",
+        "私が一気に任務を片付けちゃうぞ！",
+        "I'm gonna finish up all these missions in one fell swoop!"
+      ],
+      "taskComplete": [
+        "有好多好多的奖励呢！怎么样，我有帮上指挥官的忙吧！",
+        "報酬がいっっっぱい！どう？私役に立ってるでしょう？",
+        "Sooooo many rewards! Well? I'm pretty helpful, aren't I?"
+      ],
+      "mail": [
+        "指挥官总能收到好多信呢。下次我也写信给指挥官吧！",
+        "指揮官にいつもメール届いてるよね！今度は私も書いてあげる！",
+        "Commander, you always get so much mail... Next time, I'll write you a letter too!"
+      ],
+      "returnFromMission": [
+        "指挥官，刚刚是在和我玩躲猫猫吧！",
+        "指揮官！今のはかくれんぼだったの？",
+        "Commander, were you trying to play hide-and-seek with me?"
+      ],
+      "commission": [
+        "…………？！指挥官，直觉告诉我，港口有人回来了！",
+        "…………？！指揮官、誰かが戻ってきたってサンディエゴセンスが教えてくれた！",
+        "...?! Commander, my Sandy Senses are tingling! There's someone waiting at the port!"
+      ],
+      "strengthening": [
+        "欸？这样子做真的有用吗？",
+        "えっ、これで本当に役に立てるの？？",
+        "Eehhh? Is this stuff really going to be useful?"
+      ],
+      "startingMission": [
+        "向着大海，冲呀！",
+        "海に向かって、進めええええ！",
+        "We're headed for the ocean! Chaaaaarge!!"
+      ],
+      "mvp": [
+        "看到了吗，看到了吗！是我拿到了mvp！",
+        "見た！？今の見た！？私がMVPだよ！",
+        "Did you see that? Just now?! I'm freakin' awesome!"
+      ],
+      "defeat": [
+        "欸欸？那边不是回去的方向吗？",
+        "ええ？あっちは母港に帰る方向じゃないの？",
+        "Huhhh? Isn't that the way back home?"
+      ],
+      "skillActivation": [
+        "我知道的！该上了吧！",
+        "わかってる！そろそろ行くわよー！",
+        "Got it! It's about time we get serious~!"
+      ],
+      "lowHP": [
+        "为什么大家的表情变得严肃起来了？",
+        "なんでみんな真剣な顔をしてるの？？",
+        "Hey, guys, why so serious??"
+      ],
+      "affinityDisappointed": [
+        "指挥官，不要难过，比圣地亚哥笨并不是你的错",
+        "指揮官大丈夫！サンディエゴよりバカなのはあなたのせいじゃないんだから！",
+        "Don't feel bad, Commander, it's not your fault that you're dumber than San Diego."
+      ],
+      "affinityStranger": [
+        "只要把问题都忘掉，就能每天都开开心心的了！指挥官，你说是吧！",
+        "わからないことを全部忘れたら毎日ハッピーだよ！指揮官、そうだよね？",
+        "The key to happiness is to not worry about the stuff you don't get. Isn't that right, Commander?"
+      ],
+      "affinityFriendly": [
+        "要是遇到了一些怎么样都忘不掉的问题要怎么办呢……啊，我知道了，这个时候只要找指挥官就好了吧！",
+        "忘れられない問題があったらどうすんの？……あ！わかった！指揮官に聞けばいいんだよ！",
+        "What should I do if there's stuff that I can't stop worrying about though...? Ah! Got it! That's what Commander is there for!"
+      ],
+      "affinityLike": [
+        "没想到不管什么样的问题和指挥官都知道答案……难道说，指挥官就是这里最聪明的人？！",
+        "どんなに難しい問題の答えも知ってるなんて……もしかして指揮官はここでいっちばん頭のいい人なの！？",
+        "No matter what kind of stuff I ask you, you always have an answer... Commander, are you actually pretty smart?!"
+      ],
+      "affinityLove": [
+        "以后只要有指挥官在，无论遇到什么样的问题我都不用怕了！嘿嘿，无所不能的指挥官我最喜欢啦！",
+        "どんなにわからないことがあっても、指揮官がいてくれたら大丈夫！うんうん、なんでも知ってる指揮官は大好き！",
+        "As long as you're here, Commander, I'll know where to turn to whenever I have any problems! Hehe, I love how you know everything, Commander!"
+      ],
+      "pledge": [
+        "这个闪闪亮亮的东西是什么呀？是要这样戴在手上的吗？哦哦，看起来好漂亮！嘿嘿，那我就一直这样戴着好了！",
+        "このキラキラしてるのはなぁに？おっ、こうやって指につけるものなの？おお、キレイ！じゃあずっとつけるからね！",
+        "What's this shiny, loopy thing? I'm supposed to put it on my finger? Ooh, it's so pretty! Hehe, I guess I'll keep it on then!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Atlanta) 亚特兰大姐姐！看我看我！",
+        "(Sortie with Atlanta) アトランタ姉ちゃん！こっちこっち！",
+        "(Sortie with Atlanta) Hey, Atl-auntie, look over here! Here!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with San Diego) 我们一起就是最强的！",
+        "(Sortie with San Diego) 二人揃って、最☆強！",
+        "(Sortie with San Diego) Together, we're ☆invincible☆!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I made super yummy Valentine's chocolate for you, Commander! Let's see... umm... Wait, what? Where'd the chocolate go?!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Li%27l_Sandy_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Li%27l_Sandy_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Li%27l_Sandy_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Li%27l_Sandy_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Li%27l_Sandy_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Li%27l_Sandy_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Li%27l_Sandy_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Li%27l_Sandy_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Li%27l_Sandy_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Li%27l_Sandy_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Li%27l_Sandy_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Li%27l_Sandy_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Li%27l_Sandy_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Li%27l_Sandy_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Li%27l_Sandy_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Li%27l_Sandy_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Li%27l_Sandy_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Li%27l_Sandy_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Li%27l_Sandy_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Li%27l_Sandy_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Li%27l_Sandy_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Li%27l_Sandy_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Li%27l_Sandy_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Li%27l_Sandy_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Li%27l_Sandy_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Li%27l_Sandy_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Li%27l_Sandy_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Li%27l_Sandy_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Li%27l_Sandy_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Li%27l_Sandy_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Li%27l_Sandy_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Li%27l_Sandy_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Li%27l_Sandy_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Li%27l_Sandy_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Li%27l_Sandy_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Li%27l_Sandy_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Li%27l_Sandy_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Li%27l_Sandy_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Li%27l_Sandy_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Li%27l_Sandy_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Li%27l_Sandy_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Li%27l_Sandy_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Li%27l_Sandy_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Li%27l_Sandy_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Li%27l_Sandy_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Li%27l_Sandy_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Li%27l_Sandy_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Li%27l_Sandy_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Li%27l_Sandy_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Li%27l_Sandy_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Li%27l_Sandy_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Li%27l_Sandy_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Li%27l_Sandy_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Li%27l_Sandy_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Li%27l_Sandy_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Li%27l_Sandy_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Li%27l_Sandy_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Li%27l_Sandy_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Li%27l_Sandy_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Li%27l_Sandy_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Li%27l_Sandy_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Li%27l_Sandy_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Li%27l_Sandy_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Li%27l_Sandy_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Li%27l_Sandy_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Li%27l_Sandy_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Li%27l_Sandy_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Li%27l_Sandy_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Li%27l_Sandy_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Li%27l_Sandy_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Li%27l_Sandy_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Li%27l_Sandy_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Li%27l_Sandy_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Li%27l_Sandy_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Li%27l_Sandy_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Li%27l_Sandy_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Li%27l_Sandy_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Li%27l_Sandy_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Li%27l_Sandy_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Li%27l_Sandy_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Li%27l_Sandy_Extra2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

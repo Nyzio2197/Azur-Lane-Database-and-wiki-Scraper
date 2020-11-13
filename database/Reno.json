@@ -1,0 +1,653 @@
+{
+  "name": "Reno",
+  "constructionTime": "01:10:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Atlanta",
+  "ID": "445",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "Pandea",
+  "pixiv": "https://www.pixiv.net/en/users/619064",
+  "twitter": "https://twitter.com/Pandea_work",
+  "link": "https://www.weibo.com/612325127",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/5/5f/Reno_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3755,
+      190,
+      52,
+      148,
+      196,
+      95,
+      32,
+      479,
+      0,
+      11,
+      168,
+      203,
+      0,
+      0
+    ],
+    "Level 100": [
+      3338,
+      165,
+      52,
+      129,
+      171,
+      73,
+      32,
+      436,
+      0,
+      11,
+      150,
+      183,
+      0,
+      0
+    ],
+    "Base Stats": [
+      646,
+      70,
+      52,
+      27,
+      36,
+      28,
+      32,
+      93,
+      0,
+      3,
+      58,
+      50,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "120% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "150% → 170%",
+  "collectionStatBonus": "Light cruiser (CL) Reload  +1",
+  "collectionTechPoints": 9,
+  "maxLimitBreakTechPoints": 19,
+  "level120StatBonus": "Light cruiser (CL) Anti-air  +2",
+  "level120TechPoints": 14,
+  "enhancementValue": [
+    11,
+    12,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Unlock EX Barrage Ⅰ/AA gun efficiency +5%",
+  "limitBreak2": "Torpedo base +1/Torpedo preload +1/AA gun efficiency +10%",
+  "limitBreak3": "Improve EX Barrage/All weapons' efficiency +5%",
+  "skill1Name": "Vigilant Supporter; CN: 锐目的支援者 JP: ヴィジランテサポーター",
+  "skill1Description": "At the start of the battle, if there is a CV or CVL afloat in the same fleet as this ship: increases this ship's Main Gun Crit Rate by 5.0% (15.0%). For each CV or CVL in the same fleet: increases this ship's DMG to enemy DDs and CLs by 1.5% (6.0%). For the 1st and 2nd battles of each sortie that this ship takes part in: decreases DMG taken by 5.0% (10.0%) for all CVs and CVLs in the same fleet.",
+  "skill2Name": "Reno Reactor; CN: I AM RENO！ JP: リノリアクター",
+  "skill2Description": "At the start of the battle: increases this ship's AA by 5.0% (15.0%) and FP by 4.5% (12.0%). Every third time a ship in your Main Fleet takes DMG: increases this ship's AA and FP by 1.5% (6.0%) (can be stacked up to 2 times) until the end of the battle.",
+  "skill3Name": "Reno Barrage; CN: 专属弹幕-里诺 JP: 特殊弾幕-リノ",
+  "skill3Description": "While equipping a DD Main Gun: increases this ship's Main Gun efficiency by 10.0%. Activates Reno Barrage Ⅱ once every 10 times (8 if equipping a CL Main Gun) the Main Guns are fired.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/54/Reno.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a7/RenoChibi.png",
+      "shipDescription": [
+        "亚特兰大级轻巡洋舰—里诺，舷号CL-96",
+        "アトランタ級軽巡洋艦「リノ」（CL-96)",
+        "Atlanta-class light cruiser – Reno, Hull Number CL-96."
+      ],
+      "selfIntroduction": [
+        "我是亚特兰大级的改进型，奥克兰级的里诺！相比亚特兰大级的姐姐们，我们更加专注于防空哦~虽然诞生时大战已经过半，不过也还是做了不少事呢！虽然没有救到普林斯顿是一个遗憾……总之，在这边我也会加油的，请多关照！",
+        "アトランタ級の後期型、オークランド級のリノ。アトランタ級と比べて対空能力が更に強化されたよ。かの大戦の後半に生まれたにしては、まあ色々頑張ったよ。プリンストンのことはちょっと残念だったけど…ううん、大丈夫！これからもよろしく！",
+        "I'm Reno, an Atlanta-class cruiser of the later Oakland subclass. We've got souped up anti-air power compared to the regular Atlanta-class. We only saw the last bits of the war, but we still fought hard. But I feel really bad about Princeton... Nnng, it's fine! We can do it!"
+      ],
+      "acquisition": [
+        "你就是我的指挥官吗？太好了，我一直很想见你！……欸，因为指挥官就是拯救世界的超级英雄一样的存在，也就是说我就像是你的助手对吧？对了对了，我是亚特兰大级的里诺，从今往后请多指教啦~",
+        "あなたが指揮官？ああ、実はずっと会いたかったんだ～だって指揮官、世界を救うヒーローみたいな存在でしょ？つまりリノ、あなたのサポーターみたいなものかな？あ、リノはオークランド級のリノ、これからよろしく！",
+        "You're the Commander? Ahh, I've always wanted to meet you! I mean, aren't people like you basically heroes trying to save the world? Which kind of makes me your sidekick, right? Oh, I'm Reno, part of the Oakland class! It's a pleasure!"
+      ],
+      "login": [
+        "指挥官，今天也要加油拯救世界哦~",
+        "指揮官、今日も世界を救うために頑張ってね",
+        "Commander, today we do our best to save the world. like always!"
+      ],
+      "details": [
+        "唔，指挥官，这下可麻烦了呢……这个cos道具居然连茗小姐那里都找不到流通渠道，看来我只能亲自出马了",
+        "指揮官、リノはちょっと困ってる……この衣装の小物、明石のお店でも買えなくて…もうリノが自分で作らないといけないよね、これ…",
+        "Commander, I'm in a bit of a pickle... I can't get any of the parts for my costume at Akashi's shop... I guess I'll just have to make them myself... Hrm..."
+      ],
+      "secretaryIdle1": [
+        "哼哼，指挥官，你一定很在意我的手甲对吧？我跟你说哦，这个按这里能发出强光呢！还有这个按钮，它是有变形结构哦，然后然后……",
+        "指揮官、このギアのことが気になる？実はこれ、ここを押せばこうピカーっと光ったり、ここを押せばガチャガチャっと変形したり、あとこことかこことか……",
+        "You looking at my gear, Commander? If you press this here, it shoots out a light like bzzzzew! And if you press this one, it goes like kshaw ksshhew. And then this one's like..."
+      ],
+      "secretaryIdle2": [
+        "指挥官，请暂时不要管我……没事的，我没事的，我只是没有抢到想要的限量版周边而已……",
+        "指揮官、リノはどうすれば……いや、大したことじゃないよ？ずっとほしかったあのプレミアムフィギュアが売り切れちゃって…",
+        "Commander, I'm in a bind... Well, I guess it's not really that big a deal. It's just, I wasn't able to get this premium figure I've been wanting..."
+      ],
+      "secretaryIdle3": [
+        "哈……欸？啊，指挥官，不小心吵到你了吗，不好意思……我只是在想能在这么近的距离观察崇拜对象工作的样子，世上一定没有比我更幸福的助手了！",
+        "ふぅ……ん？あ、今の邪魔だった？えへへ、サポーターとして憧れの人がこーんなに近くにいるから、つい幸せな感じになっちゃって～",
+        "Woooww.... Hm? Oh, was I bothering you? I was just basking in the amazing feeling of a sidekick watching her hero work up close~"
+      ],
+      "secretaryTouch": [
+        "欸，我做得很好吗？……呜哇啊，我我我被崇拜对象夸奖了，怎么办，好高兴，我现在脸一定超红的！",
+        "お仕事をよくやってくれてるって？……おお！憧れの人に褒められた！リノ、今すごく恥ずかしい表情をしてるに違いない！",
+        "I'm doing good work...? Oooh! My hero complimented me! Of course my face is gonna turn bright red!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官也觉得有些太大了吧？真是没办法呢……",
+        "指揮官も大きいって思う？本当に困るよね……",
+        "You think they're big too? They really get in the way..."
+      ],
+      "task": [
+        "这次下达的任务也有不少呢……不过我相信对指挥官来说都是小菜一碟~",
+        "任務が結構あるよね…まあ、指揮官にとってはきっと大したことないに違いない！",
+        "We got a lot to do... But I'm sure you can knock it out easy peasy, Commander!"
+      ],
+      "taskComplete": [
+        "不愧是指挥官，这次的任务报酬也很丰盛呢！",
+        "さっすが指揮官、いつも多くの任務報酬が手に入ってるね！",
+        "That's my Commander! You always get the best rewards!"
+      ],
+      "mail": [
+        "有你的邮件哦，指挥官，会不会是粉丝信什么的呀？",
+        "指揮官のメールだよ。もしかしてファンレターとか？",
+        "Mail for you, Commander. Is it a fan letter?"
+      ],
+      "returnFromMission": [
+        "指挥官，作战辛苦啦~来我给你擦擦汗，再喝杯水……欸？哎呀，这是作为粉丝应该做的~",
+        "指揮官、作戦おつかれ～ほらタオルと、お飲み物と…ん？これぐらいサポーターとして当然のことじゃない？",
+        "Good fight out there, Commander. Here's a towel and a drink... Hm? Isn't this what a sidekick does?"
+      ],
+      "commission": [
+        "委托组回来了哦，指挥官，一起去迎接她们吧~",
+        "委託組が戻ってきたよ。一緒に出迎えに行こっか",
+        "The commission came back. You want to go out and see them?"
+      ],
+      "strengthening": [
+        "哼哼，我一定会帮到指挥官的~",
+        "ふふ、指揮官のサポートはバッチリよ！",
+        "Hah ha! I'm the Commander's sidekick!"
+      ],
+      "startingMission": [
+        "防空就交给我吧！",
+        "対空はリノにまかせて！",
+        "Just leave the planes to me!"
+      ],
+      "mvp": [
+        "yeah！正义必胜~",
+        "Yeah！正義は必ず勝つ！",
+        "Yeah! The good guys always win!"
+      ],
+      "defeat": [
+        "事情在变好前，总会变得更糟……嗯，下次继续努力！",
+        "物事はいい方向に転じる前に決まって悪い方に転ぶ――うん。つまり次から頑張ろってね",
+        "They say it's always darkest before the dawn... Mm. We'll try harder next time."
+      ],
+      "skillActivation": [
+        "I am Reno！",
+        "I am Reno！",
+        "I am Reno！"
+      ],
+      "lowHP": [
+        "看我和你们死磕到底！",
+        "一日中でもやってやる！",
+        "I could do this all day!"
+      ],
+      "affinityDisappointed": [
+        "原来近距离接触偶像会幻灭的说法是真的啊……唉……",
+        "憧れのヒーローも近くから観察すると、しょうもないとことも分かるのって本当だよね……はあ……",
+        "They say you should never meet your heroes. Now I know why... Sigh..."
+      ],
+      "affinityStranger": [
+        "哼哼，我就知道指挥官对我的超级英雄装备收藏感兴趣，你看，这个是振银盾牌，这个是黑夜骑士飞镖，这是五色硬币变形腰带……哼哼，只有你想不到，没有我没有的哦！",
+        "指揮官はリノのヒーローガジェットに興味あるよね！これイプラニウム製の盾、コウモリ印のラング、コイン付き変形ベルト…どう？指揮官が思いつきそうなのは全部揃ってるはずよ",
+        "Commander, you're looking at my superhero gadgets! This is my Ibranium shield, this is my Chiropterang, and this here's my Worpher Belt... Cool, huh? You name it, I've got it, Commander."
+      ],
+      "affinityFriendly": [
+        "以前我也有憧憬成为英雄而想锻炼自己的时候，但是这个……一点剧烈运动就会晃得很厉害……我好羡慕平胸的舰船们啊……",
+        "リノ、スーパーヒーローに憧れて色々トレーニングしたことあるけど、これ…うん、大きすぎて激しく動くとすごく邪魔なんだ…小さい子たちを羨ましく思うよ…",
+        "There was a time when I was training really hard to become a superhero... But these huge things got in the way of my dreams... the flat girls don't know how good they have it..."
+      ],
+      "affinityLike": [
+        "虽然放弃了锻炼自己，不过我还是很喜欢看各种比赛哦，我经常会和克雷文一起去当啦啦队的。对英雄们的喜爱也完全没有减少，嘻嘻，而且，为了守护所有人而努力的指挥官，我可是你的头号粉丝哦~",
+        "トレーニングはやめちゃったけど、あのときの趣味の一つのスポーツ観戦は今も続けているよ。あ、もちろん、スポーツの試合より、ヒーローショーのほうが好き！…今はリアルヒーローの指揮官がいるからそれだけで満足かな？",
+        "I may have given up my training, but I still love watching sports. Oh, but even more than sports, I love watching superhero shows...! But now that my real hero is here, Commander, maybe I'm good on that front."
+      ],
+      "affinityLove": [
+        "虽然说“能力越大，责任越大”这句话很对，但是，英雄也好舰船也好也不是一天到晚都在战斗的嘛，指挥官也偶尔和我一样，像个普通人一样做自己喜欢做的事吧！",
+        "力には責任が伴うというけど、まあヒーローも艦船も四六時中戦いばかりじゃないよ？たまにはリノも普通の女の子として、指揮官も普通の人として振る舞っていればいいからね？",
+        "They say \"with great power comes great responsibility,\" but superheroes need some downtime too, just like warships. Sometimes I just gotta be a regular girl, and you're no different. Let's do something fun sometime."
+      ],
+      "pledge": [
+        "那么，从今天起，我就是指挥官的助手兼人生伴侣了~嗯嗯，虽然作为助手要做的事我已经很熟练了，不过作为人生伴侣的话……完全不知道♪要是有想让我做的事记得告诉我哦，指挥官~",
+        "じゃあ、今日からリノは指揮官のサポーターだけでなく、人生の伴侶にもなったのね？サポートなら分かるけど、伴侶としてすべきことは…まだ分からない♪これから気になることがあったらいつでもリノに言ってね～",
+        "So like, from now on I'm more than just your sidekick. I gotta learn how to be a partner to you too, for the rest of your life... I don't really know how to do that ♪ so you'll just have to speak up and tell me what to do~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Craven) 一起为大家加油打气吧~",
+        null,
+        "(Sortie with Craven) Let's get 'em all fired up!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with San Diego) 圣地亚哥你是不是又偷偷把我的收藏拿去玩了！",
+        null,
+        "(Sortie with San Diego) San Diego, you've been playing with my collectibles again, haven't you?!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Charles Ausburne) 不要放弃梦想，我也会为你加油的！",
+        null,
+        "(Sortie with Charles Ausburne) Don't give up, keep fighting for your dreams, and so will I!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Reno_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Reno_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Reno_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Reno_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Reno_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Reno_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Reno_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Reno_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Reno_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Reno_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Reno_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Reno_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Reno_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Reno_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Reno_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Reno_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Reno_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Reno_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Reno_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Reno_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Reno_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Reno_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Reno_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Reno_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Reno_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Reno_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Reno_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Reno_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Reno_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Reno_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Reno_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Reno_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Reno_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Reno_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Reno_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Reno_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Reno_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Reno_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Reno_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Reno_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Reno_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Reno_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Reno_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Reno_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Reno_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Reno_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Reno_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Reno_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Reno_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Reno_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Reno_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Reno_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Reno_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Reno_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Reno_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Reno_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Reno_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Reno_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Reno_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Reno_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Reno_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Reno_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Reno_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Reno_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Reno_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Reno_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Reno_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Reno_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Reno_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Reno_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Reno_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Reno_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Reno_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Reno_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Reno_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Reno_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Reno_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Reno_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Reno_Extra1JP.ogg",
+        null,
+        "https://azurlane.koumakan.jp/w/images/3/3f/Reno_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Reno_Extra2JP.ogg",
+        null,
+        "https://azurlane.koumakan.jp/w/images/9/9c/Reno_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Reno_Extra3JP.ogg",
+        null,
+        "https://azurlane.koumakan.jp/w/images/b/bb/Reno_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Biggest Little Cheerleader",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "波涛的啦啦队长！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "波濤のチアリーダー",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/cc/RenoSport.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b9/RenoSportChibi.png",
+      "shipDescription": [
+        "不愧是聚集了各阵营的精英们的大运动会，精彩的比赛真是一场接着一场呢！我作为啦啦队一员也要努力加油才行！白鹰，fight！",
+        "各陣営のトップが集まる大運動会、見どころある試合が次から次へと…！うん、リノもユニオンのチアリーダーとして頑張ろう！ユニオン、ファイトぉ！",
+        "This really is a huge clash of all the biggest names from all the factions. It's one exciting match after another! I gotta cheer my hardest too. Eagle Union, go get 'em!"
+      ],
+      "acquisition": [
+        "不愧是聚集了各阵营的精英们的大运动会，精彩的比赛真是一场接着一场呢！我作为啦啦队一员也要努力加油才行！白鹰，fight！",
+        "各陣営のトップが集まる大運動会、見どころある試合が次から次へと…！うん、リノもユニオンのチアリーダーとして頑張ろう！ユニオン、ファイトぉ！",
+        "This really is a huge clash of all the biggest names from all the factions. It's one exciting match after another! I gotta cheer my hardest too. Eagle Union, go get 'em!"
+      ],
+      "login": [
+        "指挥官，这边看比赛的视野很好哦，来坐一会儿吧~",
+        "指揮官、試合観戦ならこっちのほうが見晴らしがいいよ。おいでおいで～",
+        "Commander, I got a great view of the games from here. Come watch with me~"
+      ],
+      "details": [
+        "原本，啦啦队长应该是交给克雷文这样资历更老的白鹰舰船的，但是她却主动让给了我……为了不辜负克雷文的心意，我一定会好好为大家加油的！",
+        "チアリーダーはクレイヴンちゃんのほうが適任だと思ったけど、リノが任されちゃって……うん、クレイヴンちゃんに代わって、皆のために全力で応援するよ！",
+        "Craven was supposed to be cheer squad leader on account of she's older, but she ended up asking me to do it... I can't let her down. I gotta cheer hard!"
+      ],
+      "secretaryIdle1": [
+        "啊，中场休息时间到了呢，那么，该啦啦队上场跳舞了~各位！都准备好了吗？让我们把全场的气氛炒得再热烈些吧！",
+        "よし、そろそろハーフタイムね…みんな、準備はいい？パフォーマンスタイムよ！後半戦も盛り上げていこう！",
+        "Ah, it's half time. That means we better get out there and cheer! Everybody ready? Let's get their blood pumping!"
+      ],
+      "secretaryIdle2": [
+        "其他阵营虽然没有克雷文和我这样的专业啦啦队员，不过她们推选出的啦啦队阵容也不容小觑呢……我可不能落后了~",
+        "今回はうちのクレイヴンちゃんみたいな子がほかの陣営にいないけど、みんなすごくレベルが高いよね…リノも頑張らないと",
+        "None of the other factions have serious cheerleaders like me or Craven. But I won't underestimate the ones they came up with either... I can't let them beat me~"
+      ],
+      "secretaryIdle3": [
+        "那些在赛场上努力拼搏的身影，就像超级英雄一样闪耀夺目……啦啦队长这份工作实在是太好了！",
+        "運動場で活躍しているみんな、ヒーローみたいにすごく輝いてるね！……ああ、チアリーダーやってて本当によかったぁ……",
+        "Look at them out there on the field, shining like superheroes as they fight for victory... being a cheerleader sure is amazing!"
+      ],
+      "secretaryTouch": [
+        "欸，指挥官你给我送水来了？哇哇哇，这怎么好意思！……呜呜，被偶像送水，我太幸福了……",
+        "指揮官、このドリンクは…？わわ、これ本当にリノに？……ああ憧れの人から差し入れをもらった…リノ、幸せ………",
+        "Huh, you brought me water, Commander? Woaaahhh, no way...! Nng, my hero brought me water... I couldn't be happier..."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，我这里有很多人看着呢……",
+        "ええと指揮官？ここ、結構人目のあるところだと思うけど…",
+        "Commander, people can see..."
+      ],
+      "taskComplete": [
+        "指挥官，到颁奖时间了，大家都在等你去颁奖呢~",
+        "指揮官、そろそろメダル授与式よ。皆が待ってるよ",
+        "Commander, it's time to get your rewards, everyone's waiting for you to attend the ceremony~"
+      ],
+      "returnFromMission": [
+        "指挥官，你回来得正是时候呢，下一场比赛马上就要开始了~",
+        "指揮官、ナイスタイミング！そろそろ次の試合が始まるよ",
+        "Commander, you're just in time. The next match is about to start~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Reno_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Reno_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Reno_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Reno_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Reno_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Reno_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Reno_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Reno_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Reno_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Reno_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Reno_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Reno_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Reno_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Reno_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Reno_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Reno_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Reno_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Reno_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Reno_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Reno_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Reno_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Reno_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Reno_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Reno_Sec2Skin1JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Reno_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Reno_TaskCSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Reno_TaskCSkin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Reno_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Reno_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Reno_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Summer Spin-off",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "夏日番外篇",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "サマー・スピンオフ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/96/RenoSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/de/RenoSummerChibi.png",
+      "shipDescription": [
+        "「超级英雄番外篇！拯救世界的超级英雄，正在夏日午后的海滩和助手享受难得的假日！」……嘿嘿，指挥官，是不是有一点这样的感觉呢？",
+        "「ヒーローストーリー・スピンオフ！世界を救うヒーローとサポーターが、夏の海辺を全力で満喫！」…指揮官、シチュエーションはこれであってる？",
+        "\"Superhero spin-off! The superhero who saved the world is enjoying a hard-earned vacation on the afternoon beach with the sidekick!\" ... Hehe, Commander, a tagline like that sounds pretty cool, doesn't it?"
+      ],
+      "acquisition": [
+        "「超级英雄番外篇！拯救世界的超级英雄，正在夏日午后的海滩和助手享受难得的假日！」……嘿嘿，指挥官，是不是有一点这样的感觉呢？",
+        "「ヒーローストーリー・スピンオフ！世界を救うヒーローとサポーターが、夏の海辺を全力で満喫！」…指揮官、シチュエーションはこれであってる？",
+        "\"Superhero spin-off! The superhero who saved the world is enjoying a hard-earned vacation on the afternoon beach with the sidekick!\" ... Hehe, Commander, a tagline like that sounds pretty cool, doesn't it?"
+      ],
+      "login": [
+        "“咔嚓”欢迎回来！诶嘿，忍不住又留下了一张憧憬的英雄在海边的照片呢~",
+        "（カチャ）おかえり指揮官！えへへ、思わず憧れのヒーローが海を満喫している写真を撮っちゃった！",
+        "*Click!* Welcome back, Commander! Heehee~ I couldn't stop myself from taking a picture of my beloved hero enjoying the beach!"
+      ],
+      "details": [
+        "为了找到合适的泳装，我还花了不少功夫……好在还是有适合这个尺寸的款式呢！不过腰的部分就没办法了…呜呜……",
+        "サイズが合う水着、見つけるのは大変だったけど……幸いこの水着でサイズに合わせることができた！腰回りは犠牲になって……あぅ……",
+        "It was really hard to find a swimsuit that would fit my bust... Luckily, I was able to find this swimsuit at the last minute! It fits my chest perfectly, but... my poor hips are chafing... Ow..."
+      ],
+      "secretaryIdle1": [
+        "那边的沙滩排球比赛好像打得正激烈呢！哎，要不是太大了动起来不太方便的话……",
+        "ビーチバレー大会、盛り上がってるね！リノがこう…大きすぎて動きづらくなければ……",
+        "Looks like everyone's pumped up for the beach volleyball tournament! If only my... weren't so big. They make it hard to move around..."
+      ],
+      "secretaryIdle2": [
+        "其实我以前好奇过，我所崇拜的英雄在海边会是什么样子的？会不会突然以时速100海里刷刷游起泳来…之类的？啊哈哈~",
+        "そういえば、憧れのヒーローは泳ぐ時はどんな感じかな？ササーッと時速100マイルで泳いだりして…？へへへ",
+        "Oh yeah. How dashing does My Hero look when swimming? Do you zoom by others while going at 100 miles per hour? Hehehe~"
+      ],
+      "secretaryIdle3": [
+        "指挥官，如果你参加沙滩排球比赛的话，我会全力为你加油的！Come on！Cheer up！GoGoGo~",
+        "指揮官が大会に参加したら、リノが全力で応援するよ！カモーン！チアアップ！ゴーゴーゴー！",
+        "If you compete in the tournament, I'll cheer you on with all I've got! Go! Go! Come on! You can do it! M-Y-H-E-R-O!"
+      ],
+      "secretaryTouch": [
+        "欸，这是新鲜的椰子汁吗？这这这这怎么能就这么收下！……呜呜，我被崇拜的英雄关心了，我现在感觉超级幸福……！",
+        "ココナッツミルク！このまま受け取ちゃっても…ああ、憧れのヒーローにプレゼントしてもらえるなんて、リノ最高に幸せ！",
+        "If it isn't coconut milk! Is it okay to accept such a precious gift? ...Hehe. I'm absolutely elated to receive a precious present from my hero!"
+      ],
+      "secretarySpecialTouch": [
+        "呜哇！这，这里的结构很脆弱的！",
+        "わわ！？こ、ここは破れやすくなってるよ！？",
+        "Woah?! I-If you touch it like that, it's going to snap!!"
+      ],
+      "returnFromMission": [
+        "指挥官是回来休息的吗？那，请坐吧！……啊，我没关系的！我已经休息很久了，也该稍微运动一下了！",
+        "指揮官はレストモードかな？では、どうぞ！……リノのことなら大丈夫よ！もう休んだし、そろそろちょっと見回ろうと思ってたから！",
+        "Commander, are you in Sleep Mode? Then please, rest well! ...You don't have to worry about me. I've already rested for a bit, and I was thinking about heading out to make my rounds anyway!"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

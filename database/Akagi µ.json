@@ -1,0 +1,449 @@
+{
+  "name": "Akagi µ",
+  "constructionTime": "04:40:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Akagi",
+  "ID": "419",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "voiceActor": "https://en.wikipedia.org/wiki/Mai_Nakahara",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6541,
+      131,
+      42,
+      0,
+      0,
+      54,
+      31,
+      323,
+      408,
+      13,
+      90,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5830,
+      114,
+      42,
+      0,
+      0,
+      33,
+      31,
+      285,
+      366,
+      13,
+      80,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1128,
+      48,
+      42,
+      0,
+      0,
+      13,
+      31,
+      61,
+      78,
+      4,
+      31,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "110% → 125%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    0,
+    0,
+    64,
+    9
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Fighters +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +7%",
+  "skill1Name": "Airborne Dualism; CN: Dualism JP: 連携機デュアリズムμ",
+  "skill1Description": "At the start of the battle, if there are an odd number of µ ships in your fleet: launches a Lv.1 (Lv.10) Dive Bomber airstrike 10s after this ship launches its first Airstrike. If the number of µ ships is even: launches a Lv.1 (Lv.10) Torpedo Bomber airstrike 10s after this ship launches its first Airstrike.",
+  "skill2Name": "Crimson Overture; CN: Overture JP: クリムゾン・オーバーチュア",
+  "skill2Description": "Decreases the loading time of this ship's first Airstrike by 20.0% (40.0%). Increases this ship's AVI by 1.0% (10.0%) for each additional µ ship in the same fleet as this ship (can be stacked up to 4 times.)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "只要使用重樱的秘术，这点程度的外貌变化还是很容易的…呵呵，指挥官？觉得现在的赤城如何？",
+        "重桜の神秘を使えば、この程度の外見など容易に……うふふ、指揮官様？この姿の赤城はいかがかしら？",
+        "With the magicks of the Sakura Empire, changing my form like this is a trifle... Hehehe, Commander? Does this Akagi please you?"
+      ],
+      "selfIntroduction": [
+        "特殊兵装·重樱航母赤城，前来拜见。指挥官，这次和以往不同，稍微尝试了一下“偶像”风格的姿态，还请多多关照了~呵呵呵…",
+        "特殊兵装装備、重桜空母赤城、推して参ります。指揮官様、此度はいつもとは違う、「アイドル」の趣を取り入れた姿ですが、お手柔らかにお願いしますわ。ふふふふ…",
+        "Sakura Empire Aircraft Carrier, Akagi, reporting in with a special equipment refit! Commander, things are a little different this time. I'm trying a little \"idol\" style for you. Won't you please be gentle with me? Hehehehe..."
+      ],
+      "acquisition": [
+        "只要使用重樱的秘术，这点程度的外貌变化还是很容易的…呵呵，指挥官？觉得现在的赤城如何？",
+        "重桜の神秘を使えば、この程度の外見など容易に……うふふ、指揮官様？この姿の赤城はいかがかしら？",
+        "With the magicks of the Sakura Empire, changing my form like this is a trifle... Hehehe, Commander? Does this Akagi please you?"
+      ],
+      "login": [
+        "指挥官，今天的行程是什么呢？呵呵",
+        "指揮官様、今日のスケジュールはいかがかしら？うふふ",
+        "Commander, I wonder what's on the schedule for today? Hehehe."
+      ],
+      "details": [
+        "只要是为了指挥官，赤城可以做任何事。当然，就算是所谓“偶像”也…呵呵呵",
+        "指揮官様のためなら、赤城は何にでもなれますわ。そう、この「アイドル」とやらだろうと……うふふ",
+        "I would do anything for you, my Commander. Yes, including this \"idol\" business... Hehehe."
+      ],
+      "secretaryIdle1": [
+        "赤城也想知道呢~指挥官粉的是谁…嗯…非常想知道呢…",
+        "赤城は知りたいですわ～指揮官様の推しはどの子か、と…ええ、とってもとっても…",
+        "I would like to know~ which girl you cheer for, Commander... I would really, REALLY like to know..."
+      ],
+      "secretaryIdle2": [
+        "虽然和“偶像”多少有些不同，不过也没关系，只要是指挥官想要的，无论是什么我都……",
+        "「アイドル」とはいささか違いますけど、別に構いませんわ。指揮官様が望むのなら、私、なんでも…",
+        "This \"idol\" business is a little different, but it's no matter. Whatever my Commander wishes of me, I can do..."
+      ],
+      "secretaryIdle3": [
+        "加贺，可以把之后的练习全都取消掉吗？和指挥官在一起的时间可不能有一丝一毫的浪费呢",
+        "加賀、この後のレッスンは全部キャンセルしてもらえる？指揮官様との時間をこんなちっぽけなことで浪費するわけにはいきませんわ",
+        "Kaga, please cancel all of our lessons for the rest of the day. My time with my Commander is so precious, I refuse to waste a single second."
+      ],
+      "secretaryTouch": [
+        "指挥官，你在犹豫什么？赤城无论何时都是准备万全的状态哦",
+        "指揮官様、なにを躊躇っていますか？赤城はいつでも準備万端ですわ",
+        "Commander, what are you waiting for? I'm ready for you, anytime, anyplace."
+      ],
+      "secretarySpecialTouch": [
+        "不需要在意观众席观众们的目光哦？只要指挥官想…呵呵呵♡",
+        "人目など気にする必要はありませんわ？指揮官様がそうシたいなら……うふふ♡",
+        "Don't mind the stares of the spectators in the stands. Take me however you please, my Commander... Hehehe♡"
+      ],
+      "task": [
+        "指挥官，任务就交给我吧？",
+        "指揮官様、任務は私にまかせていただけないかしら？",
+        "Commander, is there a mission I might help you with?"
+      ],
+      "taskComplete": [
+        "任务完成了哦。接下来还请继续待在赤城身边哦？",
+        "任務が完了しましたわ。ですが、赤城のそばから離れないでくださいませ？",
+        "Mission complete. But I do hope that doesn't mean you will leave my side...?"
+      ],
+      "mail": [
+        "信件…指挥官？该不会…给别人写了粉丝信吧…？",
+        "お手紙……ねえ指揮官様？まさか、ほかの子にファンレターを出してなんかいないでしょうね…？",
+        "A letter... Oh, Commander? It couldn't possibly be that you sent a fan letter to another girl...?"
+      ],
+      "returnFromMission": [
+        "指挥官，要开场慰问演出吗?当然只有赤城啦~",
+        "指揮官様、応援のためのライブでもいかがかしら？もちろん赤城だけの――",
+        "Commander, what would you say to a performance in your honor? Naturally, only Akagi would participate..."
+      ],
+      "commission": [
+        "害虫又…指挥官，能稍微等我一会吗？",
+        "オジャマムシが……指揮官様、しばらくお待ちくださいませ？",
+        "The meddlesome pests are back... Commander, please excuse me for a moment?"
+      ],
+      "strengthening": [
+        "这就是我的爱的力量~呵呵呵呵~",
+        "これが私の愛の力ですわ。うふふふ…",
+        "Why, this is the strength of my love. Hehehe..."
+      ],
+      "startingMission": [
+        "赤城的Live，好好听着吧~呵呵呵",
+        "赤城のライブ、じっくり聞いてもらいますわ～うふふふ",
+        "Give my concert your full attention~ Ahahaha!"
+      ],
+      "mvp": [
+        "啊，连安可的孩子都一块烧掉了吗？",
+        "あら、アンコールを求める子まで焼き尽くしたというの？",
+        "Oh my, did I incinerate all those fans clamoring for an encore?"
+      ],
+      "defeat": [
+        "咕…好险。可不能被指挥官看到这副模样……",
+        "くっ…危うかったわ。指揮官様にはこんな無様な姿を見せるわけには……",
+        "Gah... that was close. I can't let the Commander see me like this..."
+      ],
+      "skillActivation": [
+        "呵呵…凋零吧",
+        "うふふ、散りなさい",
+        "Ahaha, like dust in the wind."
+      ],
+      "lowHP": [
+        "我的爱可不止这点程度！",
+        "私の愛はこの程度じゃないわよ！",
+        "My love is far stronger than this!"
+      ],
+      "affinityDisappointed": [
+        "向赤城谢罪时的悲鸣…也许也能成为不错的音乐吧…呵呵",
+        "指揮官様が謝るときの悲鳴も、さぞやいい音楽になるのでしょうね…うふふ",
+        "My Commander's apologetic screams are truly music to my ears... hehehe."
+      ],
+      "affinityStranger": [
+        "指挥官，听说你想要来看我的Live？好高兴~加贺，能把最前排空出来吗？",
+        "指揮官様、私のライブを聞きに来てくださったのですか？嬉しいですわ～加賀、最前列の席を空けてもらってもいい？",
+        "Commander, did I hear you want to come see my show? I'm delighted~ Kaga, can you prepare a front row seat?"
+      ],
+      "affinityFriendly": [
+        "只要指挥官希望，赤城可以永远只为指挥官演出~没错，赤城的舞台，可以永远变成指挥官专属的舞台♡",
+        "指揮官様がお望みなら、赤城は永遠に指揮官様だけのためにライブを開催しますわ～そう、このステージもすべて指揮官様お一人だけのものになりますわ♡",
+        "Commander, if you wish it, I would perform forever for your eyes alone~ Indeed, this stage would belong only to my Commander for the rest of time♡"
+      ],
+      "affinityLike": [
+        "事已至此，已经不需要其他人了…果然为了指挥官…还是要进行一下“扫除”啊……呵呵呵……",
+        "そうなりましたら、このユニットにはもはや他の子など不要…指揮官様が触れられないようソウジしたほうがいいかしら…ふふふふ…",
+        "We're at the point now that this group doesn't need any other girls... And I think I need to do a bit of \"cleaning\" for my Commander... Hehehehe..."
+      ],
+      "affinityLove": [
+        "和其他成员也要友好相处？如果这是指挥官的要求的话，赤城会遵守的…不过作为补偿…指挥官？只能看着赤城一个人哦♡",
+        "ほかのメンバーとも仲良くしようって？ええ、指揮官様がそう仰るならこの赤城、我慢してもいいのですが…その代わりに指揮官様？赤城だけを見ていてくださいませ♡",
+        "You want to get to know the other members? Hmm, if that is what my Commander wishes, I suppose I could accept it... But in return, Commander, you are only allowed to look at me♡"
+      ],
+      "pledge": [
+        "呵呵呵呵…我的全部都属于指挥官，指挥官的全部都属于我…从今往后，也会像演出时一样…牢牢抓住指挥官的耳目…和身心…指挥官，已经不会让你逃掉了哦…？",
+        "ふふふふ…これで私のすべてが指揮官様のモノ、指揮官様のものはすべて私のモノ……これからはずっと、まるでライブの時のように目も耳も、そして心も釘付けにして…指揮官様、もう逃がしませんわよ…？",
+        "Ahahahaha... all that I am now belongs to my Commander, and everything of my Commander now belongs to me... It will be just like my concerts: your eyes, your ears, even your heart is bound to me... Commander, I will never let you go..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 2 of: Gascogne µ, Cleveland µ, Admiral Hipper µ, Sheffield µ) 看在指挥官的面子上，就配合你们一下吧",
+        "(Sortie with at least 2 of: Gascogne µ, Cleveland µ, Admiral Hipper µ, Sheffield µ) 指揮官様に免じて協力するわ",
+        "(Sortie with at least 2 of: Gascogne µ, Cleveland µ, Admiral Hipper µ, Sheffield µ) I work with you out of respect for my Commander."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "We've been asked to do a Valentine's Day show? Now how could I possibly participate in a show like that? My love is only for my Commander... So of course I can only spend Valentine's Day with my Commander~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Akagi_%C2%B5_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Akagi_%C2%B5_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Akagi_%C2%B5_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Akagi_%C2%B5_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Akagi_%C2%B5_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Akagi_%C2%B5_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ef/Akagi_%C2%B5_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Akagi_%C2%B5_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ef/Akagi_%C2%B5_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Akagi_%C2%B5_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Akagi_%C2%B5_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Akagi_%C2%B5_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi_%C2%B5_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi_%C2%B5_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi_%C2%B5_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Akagi_%C2%B5_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Akagi_%C2%B5_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Akagi_%C2%B5_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Akagi_%C2%B5_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Akagi_%C2%B5_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Akagi_%C2%B5_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Akagi_%C2%B5_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Akagi_%C2%B5_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Akagi_%C2%B5_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Akagi_%C2%B5_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Akagi_%C2%B5_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Akagi_%C2%B5_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Akagi_%C2%B5_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Akagi_%C2%B5_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Akagi_%C2%B5_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Akagi_%C2%B5_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Akagi_%C2%B5_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Akagi_%C2%B5_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Akagi_%C2%B5_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Akagi_%C2%B5_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Akagi_%C2%B5_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Akagi_%C2%B5_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Akagi_%C2%B5_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Akagi_%C2%B5_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Akagi_%C2%B5_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Akagi_%C2%B5_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Akagi_%C2%B5_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Akagi_%C2%B5_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Akagi_%C2%B5_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Akagi_%C2%B5_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Akagi_%C2%B5_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Akagi_%C2%B5_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Akagi_%C2%B5_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Akagi_%C2%B5_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Akagi_%C2%B5_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Akagi_%C2%B5_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Akagi_%C2%B5_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Akagi_%C2%B5_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Akagi_%C2%B5_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Akagi_%C2%B5_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Akagi_%C2%B5_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Akagi_%C2%B5_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Akagi_%C2%B5_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Akagi_%C2%B5_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Akagi_%C2%B5_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Akagi_%C2%B5_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Akagi_%C2%B5_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Akagi_%C2%B5_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Akagi_%C2%B5_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Akagi_%C2%B5_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Akagi_%C2%B5_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Akagi_%C2%B5_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Akagi_%C2%B5_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Akagi_%C2%B5_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Akagi_%C2%B5_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Akagi_%C2%B5_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Akagi_%C2%B5_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Akagi_%C2%B5_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Akagi_%C2%B5_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Akagi_%C2%B5_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Akagi_%C2%B5_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Akagi_%C2%B5_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Akagi_%C2%B5_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Akagi_%C2%B5_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Akagi_%C2%B5_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Akagi_%C2%B5_Extra1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

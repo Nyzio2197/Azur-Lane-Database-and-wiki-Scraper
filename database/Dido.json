@@ -1,0 +1,540 @@
+{
+  "name": "Dido",
+  "constructionTime": "00:55:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Dido",
+  "ID": "107",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "Kincora",
+  "pixiv": "https://www.pixiv.net/member.php?id=3054186",
+  "twitter": "https://twitter.com/KIncoraK",
+  "link": "http://weibo.com/u/2061731981",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/a/ad/Dido_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3745,
+      194,
+      85,
+      158,
+      178,
+      97,
+      32,
+      388,
+      0,
+      11,
+      160,
+      169,
+      0,
+      0
+    ],
+    "Level 100": [
+      3343,
+      168,
+      85,
+      137,
+      155,
+      73,
+      32,
+      347,
+      0,
+      11,
+      143,
+      151,
+      0,
+      0
+    ],
+    "Base Stats": [
+      647,
+      71,
+      85,
+      29,
+      33,
+      28,
+      32,
+      74,
+      0,
+      4,
+      55,
+      41,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "120% → 140%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "135% → 135%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 21,
+  "level120StatBonus": "Light cruiser (CL) Anti-air  +2",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    12,
+    11,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Gained Special Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Dido's Aria; CN: Arias of Dido JP: Arias of Dido",
+  "skill1Description": "Increase the FP, TRP and AA of all your Dido-class CLs by 5% (15.0%). At the start of the battle: increase this ship's AA and EVA by 5% (15.0%) for 30s.",
+  "skill2Name": "For the Queen; CN: For The Queen JP: 陛下のために",
+  "skill2Description": "Increase this ship's FP, AA and RLD by 1.5% (6.0%) for every Royal Navy ship in your fleet at the start of the battle (Can be stacked up to 4 times.) When sortied with : increase Queen Elizabeth's FP, RLD, EVA and Accuracy by 2.5% (7.0%) and Main Gun Crit Rate by 5% (20.0%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-黛朵 JP: 特殊弾幕-ダイドー",
+  "skill3Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Dido I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/9c/Dido.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a3/DidoChibi.png",
+      "shipDescription": [
+        "黛朵级轻巡洋舰—黛朵，舷号37",
+        "ダイドー級軽巡洋艦・ダイドー（HMS Dido）",
+        "Dido-class light cruiser – Dido (HMS Dido.)"
+      ],
+      "selfIntroduction": [
+        "我是黛朵级的命名舰，黛朵，擅长的是防空，大战中一直在地中海舰队服务。那个，天狼星果然给您添麻烦了吗…？",
+        "ダイドー級のネームシップ、ダイドーです。防空巡洋艦として、かの大戦では地中海艦隊の一員として行動しました。あの、シリアスが迷惑をかけていないでしょうか…？",
+        "I am Dido, name ship of the Dido-class. I served as an anti-aircraft cruiser in the Mediterranean during the war. By the way, I hope Sirius hasn't given you too much trouble...?"
+      ],
+      "acquisition": [
+        "您好，主人，我是轻巡洋舰黛朵。身为皇家女仆队的一员，希望能为您提供满意的服务",
+        "はじめましてご主人様、軽巡・ダイドーと申します。ロイヤルメイドとして御身にご奉仕させてくださいませ",
+        "Good day, Master. I am the light cruiser Dido. I am in your service as a Royal Maid."
+      ],
+      "login": [
+        "主人，欢迎回来。黛朵当然也没事！啊啊……居然被主人关心了…！",
+        "ご主人様、おかえりなさいませ。ダイドーはもちろん無事です！ああ…ご主人様に心配されるなんて…！",
+        "Welcome home, Master. I am doing well, of course! Oh... m-my master is worried about me..."
+      ],
+      "details": [
+        "主人，您不会抛弃黛朵吧？真的不会抛弃对吧？黛朵可以相信主人吗？可以相信的对吧？啊……黛朵，只要主人不会欺骗我就满足了……",
+        "ご主人様、ダイドーのことを捨てませんよね？本当に捨てませんよね？ダイドーご主人様を信じていいですか？信じていいですよね？ああ…ダイドー、ご主人様さえ信じられていれば……",
+        "Master, you won't abandon me, will you? Can you promise not to? Can I place my faith in you, Master? You are trustworthy, are you not? Ahh... I hope it wasn't a mistake to place my faith in you..."
+      ],
+      "secretaryIdle1": [
+        "其他舰船没有被主人冷落呢……难道是因为只是还没有轮到她们？也就是说主人比起黛朵更关心她们？！呜呜，黛朵不想输……",
+        "ほかの子はご主人様に捨てられていませんよね…もしかして今そうなっていないだけ？つまりダイドーよりご主人様からの愛が多いってこと？くっ…ダイドー、このまま負けるの嫌…！",
+        "Master never abandoned anyone else before, correct? Or have you just not done so *yet*? In other words, Master cares more about them than me? Blast it... I can do better than that!"
+      ],
+      "secretaryIdle2": [
+        "主人，有需要黛朵做的事吗？无论多么微小的事也没关系！因为黛朵是女仆，而侍奉主人正是黛朵唯一的存在价值…！",
+        "ダイドーに任せる仕事ありますか？どんなに些細なことでも任せてください。ええ、ダイドーは仕える方、つまりご主人様が生き甲斐ですから",
+        "Have you any work for me to do? Please, it can be anything, no matter how unimportant. Yes, that is my purpose in life, as Master's loyal maid."
+      ],
+      "secretaryIdle3": [
+        "主人，日安。今天也让黛朵全心全意的侍奉您，让您的身心都得到休息吧。因为主人可是黛朵唯一深爱的主人啊",
+        "ご機嫌麗しゅうございますダイドーの愛しいご主人様。今日もダイドーのご奉仕でどうぞ体も心も癒やされてください。だってダイドーはご主人様だけのメイドですから",
+        "It is a pleasure to see you, beloved Master. Please allow me to serve and soothe you with all my mind and body. After all, I am your personal maid, and that is my duty."
+      ],
+      "secretaryTouch": [
+        "黛朵做得很好…？啊啊…主人……啊，不，这是黛朵应该做的！嗯！",
+        "ダイドーはお仕事をよく出来ました、ですか？ご主人様ぁぁ……あっ、いいえ！ととと当然なことをしたまでです！はい！",
+        "I did a good job, did I? Masterrrrr... Ah! It was nothing! J-j-j-just doing my job!"
+      ],
+      "secretarySpecialTouch": [
+        "主、主人，能得到您的宠幸是黛朵的荣幸……但这是不是有些不合礼仪…",
+        "ご、ご主人様…ダイドーに良くしてくれるのは恐悦至極ですが……こんなのマナーに反するのでは……",
+        "M-Master... I am honored to receive your affections, but... this is most unorthodox..."
+      ],
+      "secretaryHeadpat": [
+        "呜哇啊啊啊啊啊…………",
+        "うわぁ…///",
+        "Uwaaa..."
+      ],
+      "task": [
+        "太好了…只要还有未完成的任务，黛朵就还能派上用场吧",
+        "よかったぁ…未完了の任務がある限りダイドーは必要とされますよね",
+        "Thank goodness... For as long as there are unfinished missions, I have a purpose."
+      ],
+      "taskComplete": [
+        "不愧是主人，这次的任务奖励很丰厚呢",
+        "おめでとうございますご主人様。素晴らしい任務報酬です",
+        "Congratulations, Master. The rewards from that mission look spectacular."
+      ],
+      "mail": [
+        "主人，这些是您的邮件，请尽快过目",
+        "ご主人様宛のメールです。早いうちにチェックしましょう",
+        "I have mail for you, Master. Do look it over soon."
+      ],
+      "returnFromMission": [
+        "主人，您平安无事…真是太好了",
+        "ご主人様、ご無事ですね……ほっ、良かったです",
+        "Master, are you all right...? Phew, glad to hear it."
+      ],
+      "commission": [
+        "主人，这里是这次远征的收获清单，请过目",
+        "ご主人様、軍事委託の報酬一覧になります。ご確認を",
+        "Master, the rewards from the commission are here. Have a look, won't you?"
+      ],
+      "strengthening": [
+        "对主人除了感谢还是只有感谢！谢谢主人…！",
+        "ご主人様には感謝してもしきれません！ありがとうございます…！",
+        "I cannot thank you enough, Master! But thank you very much...!"
+      ],
+      "startingMission": [
+        "只要努力就能为主人派上用场…！出击！",
+        "頑張ればご主人様の役に立てる…！参ります！",
+        "Hard work is how I'll be of use to Master! Here I come!"
+      ],
+      "mvp": [
+        "胜利了！太好了呢，主人！",
+        "勝ちました！ご主人様、喜ばしいですね！",
+        "Victory! Brilliant, isn't it, Master!"
+      ],
+      "defeat": [
+        "主人，非常抱歉！请不要像这孩子一样抛弃黛朵…！",
+        "ご主人様、申し訳ございません！お願いしますこの子みたいに捨てないでください…",
+        "I beg your forgiveness, Master! Please do not discard me like this broken doll...!"
+      ],
+      "skillActivation": [
+        "为了主人的荣光！",
+        "ご主人様の栄光のために！",
+        "For the glory of the master!"
+      ],
+      "lowHP": [
+        "不能轻易放弃！",
+        "この程度では諦めません…！",
+        "I won't give up so easily...!"
+      ],
+      "affinityDisappointed": [
+        "啊啊…怎么会这样…主人果然是要把可怜的黛朵给……",
+        "ああ…そんなぁ…ご主人様、この卑しいメイドのダイドーを…………",
+        "Ahh... I beg you, Master, spare this pitiable maid your mistreatment..."
+      ],
+      "affinityStranger": [
+        "作为皇家女仆，黛朵会全心全意侍奉主人。无论什么样的指示，黛朵都会全力完成的…！",
+        "ロイヤルメイドとして、謹んでご主人様にご奉仕いたします。ご用命がありましたら、ダイドーになんなりとお申し付けください",
+        "As a Royal Maid, I will serve my master with duty and conviction. Should you need anything of me, do not hesitate to ask."
+      ],
+      "affinityFriendly": [
+        "女仆队的伙伴们有很多地方很迷糊，所以主人才会更加关心她们吧……相比之下，黛朵就……不，没什么！嫉妒姐妹舰什么的可不是女仆该做的事…！只是……（小声）迷糊属性什么的，不是很卑鄙吗…",
+        "メイド隊の子は色々とドジですから、ご主人様によく面倒を見られて大切にされていますね…それに比べてダイドーは……とんでもございません！仲間にヤキモチを焼くなど、メイドの風上にもおけません！…けど…卑怯ですね…ドジって…",
+        "There are many klutzes among the Royal Maids, yet Master looks after them and treats them with care... I, meanwhile, am just... Oh, I'm terribly sorry! No honourable maid should be openly jealous of her companions! But still... those klutzes are such cowards..."
+      ],
+      "affinityLike": [
+        "因为黛朵很能干，所以不会被大家担心吧…主人居然在担心黛朵吗！能到您这样的赞美，黛朵，黛朵……呜呜呜……",
+        "やっぱりダイドーはできちゃう子だから、皆に心配されたりなんかしなさそうですよね……そ、そんなダイドーでもご主人様は心配してくださるのですか？！なんと勿体ないお言葉、ダイドーには、ダイドーには…ううぅ……",
+        "And so it's because I'm so competent that no one worries about me... B-but you worry about me, Master? I'm unworthy of such attentions from you! I just... When I think of you, I... Aaahhh..."
+      ],
+      "affinityLove": [
+        "您、您在说什么呢？像我这样普通的女仆，您怎么会喜欢………主人，我可以当真吗？真的可以吗？……主人说喜欢我，主人说喜欢我……糟了，笑容停不下来…",
+        "な、何を仰るのですか？ダイドーのような一介のメイドなどに好きなどと……ほ、本気にしていいですか？本当にいいですか？……ご主人様に好きと言われた、言われちゃいました、ああ……どうしよう…ニヤケが止まらないよぉ…",
+        "Wh-what was that? How could you possibly love a lowly maid like me...? R-really? Truly? Honestly...? The Master likes me. The Master really likes me... Ahhh.. Help, I can't stop smiling..."
+      ],
+      "pledge": [
+        "呜……世上竟然真的还存在会喜欢黛朵这样的没用女仆……主人，黛朵请求您，请一直一直喜欢黛朵，一直一直爱着黛朵……",
+        "…卑しいダイドーのことを愛してくださる方がいるなんて……ご主人様、お願いします！ダイドーのことをずっと、ずっと好きでいて…愛していてくださいませ……！",
+        "My... to think you could fall in love with a worthless maid... Master, I implore you! Love me forever... forever and ever and never let go...!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Sirius and Black Prince) 只有在战场上反而可以对你们放心呢……",
+        "(Sortie with Sirius and Black Prince) 戦場でだけ心配する必要はありませんね…",
+        "(Sortie with Sirius and Black Prince) The battlefield is the only place I need not worry about you..."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Master, your gentle embrace is so warm and pleasant, I'm going to melt into you alongside the chocolate… If I were to melt into you just like this, I could be with your forever… Ah… what must I do in order to turn into chocolate…?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Dido_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Dido_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Dido_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Dido_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Dido_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Dido_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Dido_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Dido_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Dido_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Dido_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Dido_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Dido_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Dido_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Dido_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Dido_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Dido_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Dido_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Dido_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Dido_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Dido_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Dido_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Dido_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Dido_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Dido_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Dido_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Dido_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Dido_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Dido_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Dido_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Dido_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Dido_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Dido_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Dido_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Dido_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Dido_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Dido_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Dido_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Dido_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Dido_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Dido_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Dido_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Dido_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Dido_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Dido_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Dido_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Dido_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Dido_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Dido_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Dido_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Dido_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Dido_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Dido_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Dido_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Dido_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Dido_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Dido_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Dido_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Dido_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Dido_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Dido_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Dido_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Dido_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Dido_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Dido_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Dido_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Dido_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Dido_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Dido_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Dido_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Dido_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Dido_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Dido_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Dido_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Dido_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Dido_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Dido_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Dido_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Dido_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Dido_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Dido_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Dido_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Dido_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Dido_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Dido_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Anxious Bisque Doll",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "多愁的BIsqueDoll",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "多感なるBIsqueDoll",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/DidoParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/18/DidoPartyChibi.png",
+      "shipDescription": [
+        "明明只是一介女仆，竟然想要换上华丽礼服站在主人身边，黛朵竟然做出了这么大胆的事…但是，但是，即使事后被主人责罚，黛朵也想…——呀？！主人！？",
+        "一介のメイドがパーティードレスを着て、しかもご主人様の側に侍らせていただけるなんて、ダイドーはなんて恐れ多いことを…それでも、それでもダイドーはご主人様の…ご、ご主人様…！？",
+        "It is so audacious for a lowly maid to dress herself in such finery and stand at her master's side... Still, I will go to my master and... M-M-Master...?!"
+      ],
+      "acquisition": [
+        "明明只是一介女仆，竟然想要换上华丽礼服站在主人身边，黛朵竟然做出了这么大胆的事…但是，但是，即使事后被主人责罚，黛朵也想…——呀？！主人！？",
+        null,
+        null
+      ],
+      "login": [
+        "主、主人？！难道说，黛朵花费太多时间了吗？！请、请稍等，黛朵马上就好！",
+        null,
+        null
+      ],
+      "details": [
+        "主人，黛朵的这一件礼服如何？“衣服很好看”…莫非是说黛朵配不上这件衣服吗…主人是要扔掉黛朵吗……？！怎么会…呜呜主人…",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "主人，那个，今晚黛朵可以跟着主人吗？黛朵一定不会打扰主人的，只要主人能偶尔搭理一下黛朵就好了……呜呜…",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "请放心吧，主人，即使身着礼服，黛朵依然是您最忠诚的女仆，无论有什么要求都请还是交给黛朵来做吧！",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "在主人身边保护主人也是黛朵的工作呢！嗯，黛朵会用生命保护主人的！",
+        null,
+        null
+      ],
+      "secretaryIdle4": [
+        "明石小姐准备的这个“自动换衣装置”真是厉害呢，就好像真的有人在帮黛朵穿衣服一样……（小声）要是这个人是主人就更好了…///",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "……？！主人，难道要帮黛朵梳妆吗？这这这怎么好意思，但是，但是，呜……",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "主人，那个，黛朵的衣服都乱掉了……啊，现在是不行的……",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "居然没有在主人回来之前完成梳妆，黛朵真是个没用的女仆，呜呜……",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "宴会快要开始了，主人却还在黛朵身边等着黛朵…也就是说，主人没有想扔掉黛朵，而是很爱护黛朵呢…啊啊，多么希望时间就这么停止…",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

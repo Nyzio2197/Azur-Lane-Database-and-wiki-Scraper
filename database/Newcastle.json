@@ -1,0 +1,844 @@
+{
+  "name": "Newcastle",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Town",
+  "ID": "361",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "Lpip",
+  "pixiv": "https://www.pixiv.net/member.php?id=6996493",
+  "twitter": "https://twitter.com/lpmya",
+  "link": "http://sweets.xo.st/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/08/Newcastle_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3688,
+      179,
+      78,
+      145,
+      285,
+      100,
+      32,
+      347,
+      0,
+      9,
+      160,
+      84,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3928,
+      194,
+      78,
+      175,
+      285,
+      100,
+      32,
+      387,
+      0,
+      9,
+      165,
+      84,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      3533,
+      171,
+      78,
+      156,
+      250,
+      76,
+      32,
+      347,
+      0,
+      9,
+      148,
+      74,
+      0,
+      0
+    ],
+    "Level 100": [
+      3293,
+      156,
+      78,
+      126,
+      250,
+      76,
+      32,
+      307,
+      0,
+      9,
+      143,
+      74,
+      0,
+      0
+    ],
+    "Base Stats": [
+      637,
+      66,
+      78,
+      27,
+      53,
+      29,
+      32,
+      66,
+      0,
+      2,
+      55,
+      20,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "120% → 140% → 155%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "115% → 125% → 125%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "140% → 140% → 145%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Light cruiser (CL) Anti-submarine warfare  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    11,
+    17,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Main Gun Efficiency +15%",
+  "skill1Name": "Anti-Air Mode; CN: 防空模式 JP: 対空配置",
+  "skill1Description": "When firing Anti-Air Guns, 25% chance to increase own Anti-Air by 20% (40%), and decrease own Firepower by 40% (20%) for 3 seconds.",
+  "skill2Name": "Reload Order; CN: 装填号令 JP: 装填指令",
+  "skill2Description": "Every 20 seconds: 25% chance to increase entire fleet's Reload by 5% (25%) for 8 seconds. Does not stack with the same skill.",
+  "skill3Name": "(Retrofit) Artillery Command: Vanguard; CN: 炮术指挥·先锋 JP: 砲術指揮・前衛",
+  "skill3Description": "Increases Firepower of the Escort Fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill4Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-サウサンプトン級",
+  "skill4Description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Southampton Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/Newcastle.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/dd/NewcastleChibi.png",
+      "shipDescription": [
+        "南安普顿级轻巡洋舰-纽卡斯尔,舷号C76",
+        "タウン級軽巡洋艦・ニューカッスル（HMS Newcastle）",
+        "Southampton-class light cruiser – Newcastle (HMS Newcastle.)"
+      ],
+      "selfIntroduction": [
+        "我是城级巡洋舰中南安普敦级的纽卡斯尔，虽说是那些孩子的姐姐，但不知为何总是只有我一个人特别悠闲？希望这次也能平安退休呢…",
+        "タウン級軽巡洋艦のサブクラス、サウザプトン級のニューカッスルと申します。カンレキ的には一番長い方なのに、なぜか暇をしていた時期も一番長いらしいです……今回も定年まで無事だといいですね。",
+        "I am Newcastle of the Southampton subclass of Town-class light cruisers. While my record is one of the longest, I also somehow had the most free time... It would be nice if I could make it to retirement safely this time as well."
+      ],
+      "acquisition": [
+        "啊，原本以为是不是迷路了，没想到如此顺利地就见到了您……我是城级巡洋舰的长女纽卡斯尔，妹妹们一直以来劳您费心了。",
+        "道に迷ったかと思いましたが、貴方様にお会いできてよかったです。タウン級巡洋艦のニューカッスルと申します。妹たちがいつもお世話になっています",
+        "I thought I had gotten lost, but how fortunate that I ran into you. I am the Town-class light cruiser, Newcastle. Thank you for looking after my sisters."
+      ],
+      "login": [
+        "在开始一天的工作之前，您想先来一杯咖啡，一杯浓茶，还是一杯淡啤酒？",
+        "一日の仕事の前に――コーヒー、濃いめの紅茶、ペールエール、どれをご所望ですか？",
+        "Would you rather have a cup of coffee, a spot of tea, or a splash of pale ale before work?"
+      ],
+      "details": [
+        "如果要合撑一把伞的话，您应该再靠过来一些。",
+        "相合い傘をご所望でしたら、もう少し近寄ったほうがいいですよ",
+        "You'll have to get a bit closer if you want to share this umbrella."
+      ],
+      "secretaryIdle1": [
+        "虽然没有像妹妹们那样显赫的战功，不过在享受人生方面我可有不会输的自信。",
+        "妹たちほど素晴らしい戦歴はないのですが、日々を楽しむことだけは誰にも負けない自信があります",
+        "While I may not have as many battle commendations as my younger sisters, I'm confident none of them know how to enjoy life quite like I do."
+      ],
+      "secretaryIdle2": [
+        "我并不擅长那种你跑我追的游戏，就不能坐下来好好聊聊吗？",
+        "追ったり逃げたりするのは得意ではありませんね。はあ…どうにかお互い、落ち着いて話し合うことはできないのでしょうか…",
+        "I'm no good at these cat and mouse games. Sigh... Why don't you just have a seat and we'll talk like normal people...?"
+      ],
+      "secretaryIdle3": [
+        "无论谁都是满怀期待地来到人世间，但并不是每段人生故事都充满了惊奇与冒险。",
+        "誰もが期待を抱きながら生を受けていますが……その期待に見合うほどの冒険と驚きが往々にして存在しないのも人生、ですね",
+        "Everyone comes into this world with all kinds of hopes and dreams... But not everyone will lead a life full of adventure and surprises."
+      ],
+      "secretaryTouch": [
+        "这是……就像小动物互相摩蹭一样呢，嘻嘻。",
+        "これは……まるで小動物たちがじゃれ合っているようですね。ふふっ",
+        "It's like... a couple of small animals playing with each other. Hehe!"
+      ],
+      "secretarySpecialTouch": [
+        "……您就这么喜欢柔软的东西吗？如果我给您一个柔软的拥抱的话，您可不可以就此罢手呢？",
+        "……柔らかいものはそんなにお好きですか？でしたら柔らさをご堪能いただけるよう、代わりに私から抱きしめて差し上げましょうか？",
+        "...You like my soft bits so much, do you? Now then, what if I were to give you a nice, soft, satisfying embrace?"
+      ],
+      "task": [
+        "就算是不得不做的工作，也请您按着自己的步调一点一点完成吧。",
+        "やらなければならない仕事でも、貴方様のペースで進めて行きましょう",
+        "It's work that must be done, but we can do it at your pace."
+      ],
+      "taskComplete": [
+        "虽说努力不一定总有收获，不过这次我们被幸运眷顾了呢。",
+        "努力は必ずしも実るとは限りませんが…どうやら今回は幸運に恵まれたようですね",
+        "Hard work is not always well rewarded... But it seems this time at least, luck was on our side."
+      ],
+      "mail": [
+        "这里有一封您的信件……没准是我写给您的哟？",
+        "貴方様へのメールです。……私が書いた、という可能性もあったりして？",
+        "Mail for you... Do you think perhaps it's from me?"
+      ],
+      "returnFromMission": [
+        "您回来了吗，请把外套给我……没有受伤真是太好了。",
+        "おかえりなさいませ。上着はお預かりします。……お怪我がなくてなによりです",
+        "Welcome home. Let me take your coat... You're unharmed, thank goodness."
+      ],
+      "commission": [
+        "海潮带了熟悉的味道……是那些孩子回来了呢，让我们一起前去迎接吧。",
+        "潮風から懐かしい匂い……あの子たちが戻ってきましたね。一緒に出迎えに行きましょう",
+        "A familiar scent rolls in on the sea breeze... the girls are back. Shall we head out to greet them together?"
+      ],
+      "strengthening": [
+        "嗯……感觉浑身暖洋洋的。",
+        "うん……温かい感じですね",
+        "Mmm... feels so warm."
+      ],
+      "startingMission": [
+        "今天的海面上照耀着如此美好的阳光，让我们尽早结束这无谓的厮杀吧。",
+        "いい日差しですもの。無駄な争いは早めに終わらせるといたしましょう",
+        "Such a lovely day. Let's get this pointless fighting over with quickly."
+      ],
+      "mvp": [
+        "胜利的美酒对我来说太浓烈了，还是把它让给您吧。",
+        "この勝利の美酒は、私には少々強すぎるようで……お譲りいたします。貴方様に",
+        "This victory drink is a bit strong for me... I think I'd better hand it off to you."
+      ],
+      "defeat": [
+        "非常惭愧，又要给指挥官您添麻烦了……",
+        "またご迷惑をおかけしてしまいました…。お恥ずかしい限りです",
+        "I've brought such trouble upon you once again... what a dreadful shame."
+      ],
+      "skillActivation": [
+        "讴歌平凡无奇的人生吧！",
+        "平凡なる日常を謳えましょう！",
+        "Glory to the ordinary, the commonplace!"
+      ],
+      "lowHP": [
+        "呜……事先有买医疗保险真是太好了。",
+        "ふぅ……保険を入れといてよかったです",
+        "Phew... It's a good thing I bought that insurance."
+      ],
+      "affinityDisappointed": [
+        "我并不擅长把握人与人之间的距离，如果让您产生了什么误解，我很抱歉。",
+        "人との距離感を図るのは苦手ですので、誤解を与えたようなことがありましたら謝罪します",
+        "I have trouble keeping people at a distance. I apologize if this has caused any misunderstandings between us."
+      ],
+      "affinityStranger": [
+        "请放心，作为女仆的职责我还是会好好完成的。",
+        "ご安心ください。メイドの責務はちゃんと果たします",
+        "Rest assured. I will perform my duties to your expectations."
+      ],
+      "affinityFriendly": [
+        "天气预报似乎说一会要下雨，如果您要出门的话，请带上这把伞。",
+        "天気予報によると雨が降るようです。お出かけになるのでしたら、この傘をお持ちくださいませ",
+        "The weather report says rain today. Do bring an umbrella if you need to go out."
+      ],
+      "affinityLike": [
+        "您的笑容让我想起家乡的风……那是从西面吹来的，非常温暖的海风。",
+        "貴方様の笑顔は故郷の風を思い出させてくれます。……温かい西風です。ふふふっ",
+        "Your smile reminds me of the wind in my hometown... it's that warm, westerly breeze. Hehehe."
+      ],
+      "affinityLove": [
+        "如果不好好看着我的话，说不定什么时候我就撑起雨伞，随风而去了哟？",
+        "私のことをしっかり見てくださらないと、この傘を差して――いつの間にか、風とともに去ってしまうかもしれませんよ♪",
+        "If you take your eyes off me, you never know when I might take up my umbrella... and fly away with the wind♪"
+      ],
+      "pledge": [
+        "……真是奇妙，您把这稀松平常的日子变成了让人永生难忘的一天。一旦尝过这种仿佛要胀破心脏一般的幸福感，我还如何能再保持平常心呢？",
+        "……この平凡な日々を、貴方様は忘れ難いものに変えてくださいました……あぁ…このような心に満ち溢れる幸せを一度でも味わってしまったら、どうやって今までどおりに貴方様と接すれば良いのでしょうか……",
+        "...It's remarkable how you've turned this ordinary, quiet life into something so unforgettable... Aah... I feel like my heart is about to beat out of my chest with happiness and satisfaction. How will I ever be the same again...?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Sheffield, Edinburgh, Belfast, Fiji, Jamaica) 别跑那么快，姐姐追不上你了。",
+        "(Sortie with at least 1 of: Sheffield, Edinburgh, Belfast, Fiji, Jamaica) そんなに急ぐことはないでしょうに……私、追いつけなくなってしまいますよ",
+        "(Sortie with at least 1 of: Sheffield, Edinburgh, Belfast, Fiji, Jamaica) There's no need to rush on ahead... I can't keep up with you like that."
+      ],
+      "giftDescriptionValentines2019": [
+        "在这种日子送上精心准备的巧克力，也是一种“平凡”的幸福呢。指挥官，请收下这份感激与祝福的心意吧",
+        "バレンタインの日にこうしてチョコレートをプレゼントできるのも、ありきたりの「平凡」な幸せとも言えましょう。貴方様、この感謝と祝福、どうぞ受け取ってくださいませ。",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, Valentine's chocolate for you. I know it's a special day, but it still feels ordinary to me. Joy, peace, and merriment are the things most worthy of celebration, don't you think?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Newcastle_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Newcastle_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Newcastle_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Newcastle_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Newcastle_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Newcastle_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Newcastle_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Newcastle_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Newcastle_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Newcastle_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Newcastle_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Newcastle_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Newcastle_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Newcastle_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Newcastle_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Newcastle_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Newcastle_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Newcastle_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Newcastle_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Newcastle_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Newcastle_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Newcastle_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Newcastle_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Newcastle_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Newcastle_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Newcastle_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Newcastle_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Newcastle_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Newcastle_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Newcastle_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Newcastle_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Newcastle_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Newcastle_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Newcastle_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Newcastle_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Newcastle_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Newcastle_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Newcastle_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Newcastle_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Newcastle_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Newcastle_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Newcastle_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Newcastle_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Newcastle_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Newcastle_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Newcastle_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Newcastle_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Newcastle_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Newcastle_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Newcastle_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Newcastle_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Newcastle_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Newcastle_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Newcastle_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Newcastle_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Newcastle_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Newcastle_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Newcastle_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Newcastle_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Newcastle_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Newcastle_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Newcastle_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Newcastle_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Newcastle_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Newcastle_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Newcastle_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Newcastle_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Newcastle_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Newcastle_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Newcastle_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Newcastle_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Newcastle_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Newcastle_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Newcastle_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Newcastle_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Newcastle_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Newcastle_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Newcastle_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Newcastle_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Newcastle_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Newcastle_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/ea/NewcastleKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bb/NewcastleKaiChibi.png",
+      "shipDescription": [
+        "这就是新的制服了，您还满意吗？……真是的，看到您那么开心的样子，不禁连我也稍稍有些兴奋起来了。",
+        "これが新しい制服ですね。どうでしょう。ご満足いただけますでしょうか？……ふふっ、その嬉しい御様子を見て、私も少しコウフンしちゃいました",
+        "I've got an all new outfit here. Does it please you...? Hehe, seeing you all giddy like that is going to rub off on me as well."
+      ],
+      "acquisition": [
+        "这就是新的制服了，您还满意吗？……真是的，看到您那么开心的样子，不禁连我也稍稍有些兴奋起来了。",
+        "これが新しい制服ですね。どうでしょう。ご満足いただけますでしょうか？……ふふっ、その嬉しい御様子を見て、私も少しコウフンしちゃいました",
+        "I've got an all new outfit here. Does it please you...? Hehe, seeing you all giddy like that is going to rub off on me as well."
+      ],
+      "secretaryIdle1": [
+        "把我平静的生活搅得如此波澜万丈，您可要好好负起这份责任哦？",
+        "私の平穏な日常にこんな波を起こした責任、ちゃんととってくださいね",
+        "My quiet, peaceful life has been riled like these waves, and you need to take responsibility for that."
+      ],
+      "secretaryIdle2": [
+        "……您这样目不转睛地看着我，对我的工作而言是一种巨大的干扰。有什么事情就不能先等我完成工作吗？",
+        "……貴方様、そんなじっと見つめられては正直、こちらの仕事に支障が出てしまいます…もう、なにもお仕事が終わるまで待てないなんてことないでしょう？",
+        "...All your staring at me is quite a big hindrance to my work. If you have something you need from me, maybe you could wait until I'm finished?"
+      ],
+      "secretaryIdle3": [
+        "我并不擅长期望未来，这件事就请您为我代劳吧。",
+        "将来を見通すのは不得意な身でして……こちらの仕事をお任せしてもよろしいでしょうか",
+        "Looking to the future has never been one of my skills... Do you think you could take care of this one for me?"
+      ],
+      "secretaryTouch": [
+        "为了公平起见，接下来该轮到我磨蹭您了吧？",
+        "公平を期して、次は私からじゃれついて差し上げましょうか？",
+        "In the interests of fairness, I think I should be toying with you next time?"
+      ],
+      "secretarySpecialTouch": [
+        "……您再不住手的话，一会就算后悔也来不及了哦？",
+        "……これ以上して、あとで後悔なさっても知りませんよ？",
+        "...Don't you think you'll regret it if you keep going?"
+      ],
+      "returnFromMission": [
+        "您回来了……！您想先用餐、先梳洗，还是说……先来个柔软的拥抱？",
+        "おかえりなさいませ。お食事とお風呂、あら……柔らかさに包まれるハグをご所望ですか？",
+        "Welcome home. Would you like dinner, a bath, or would you like... A nice, soft hug?"
+      ],
+      "startingMission": [
+        "赶快结束掉这种无谓的厮杀，然后大家一起去野餐吧～！",
+        "無駄な争いを早めに終わらせて、あとでピクニックでも一緒にどうでしょう",
+        "Let's get the senseless violence over with, and then have ourselves a picnic."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Newcastle_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Newcastle_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Newcastle_IntroSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Newcastle_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Newcastle_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Newcastle_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Newcastle_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Newcastle_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Newcastle_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Newcastle_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Newcastle_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Newcastle_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Newcastle_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Newcastle_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Newcastle_Sec1Skin9JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Newcastle_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Newcastle_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Newcastle_Sec2Skin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Newcastle_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Newcastle_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Newcastle_MissionFinSkin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Newcastle_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Newcastle_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Newcastle_MissionStartSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Hibiscus Garments",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "木槿风情",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "むくげげいしょう",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/45/NewcastleFlower.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/26/NewcastleFlowerChibi.png",
+      "shipDescription": [
+        "这件衣服，稍微有点引人注目呢…不过，只要只要指挥官喜欢的话，我就足够开心了",
+        "この服、いささか人目を引きますが……ええ、貴方様さえ気に入ってくだされば十分嬉しく思います",
+        "This outfit makes me stand out a bit too much... But, as long as it makes you happy, I'm just as pleased."
+      ],
+      "acquisition": [
+        "这件衣服，稍微有点引人注目呢…不过，只要只要指挥官喜欢的话，我就足够开心了",
+        "この服、いささか人目を引きますが……ええ、貴方様さえ気に入ってくだされば十分嬉しく思います",
+        "This outfit makes me stand out a bit too much... But, as long as it makes you happy, I'm just as pleased."
+      ],
+      "login": [
+        "我准备了大麦茶呢。指挥官，打起精神迎接今天的工作吧",
+        "麦茶を用意しました。貴方様、気を引き締めて、今日のお仕事に励んで参りましょう",
+        "I've prepared a barley tea for you today. Now then, steel yourself, and give the day's work all you've got."
+      ],
+      "details": [
+        "港口里每天都会发生有趣的事情，平凡的日常什么的已经离我越来越远了……不过，这样的感觉也不坏呢。",
+        "母港の生活では毎日面白いことが起こり、私が望む平凡なる日常から遠ざかっていくような……いいえ、こういう生活も悪くはありませんよ",
+        "There are always interesting things happening here at the port. I can feel my quiet, ordinary life slipping farther and farther away... Of course, that's not to say this lifestyle is all that bad."
+      ],
+      "secretaryIdle1": [
+        "有空的话，把妹妹们叫上，一起去吃铁板烧吧？",
+        "今度お時間をいただけましたら、妹たちも呼んで一緒に鉄板焼きでもどうでしょう",
+        "Do we have time to call up my sisters to join us for some teppanyaki?"
+      ],
+      "secretaryIdle2": [
+        "今天女仆的工作都交给妹妹们了，但是只是一个人看书的话稍微有点无聊呢……",
+        "メイドの仕事を妹たちに任せたのは良いのですが、ひとりで本を読むだけというのもいささかつまらなく感じますね……",
+        "It's nice I can push all the maid work onto my sisters, but spending the whole day reading a book by myself is a tad dull..."
+      ],
+      "secretaryIdle3": [
+        "夏天的话，就能看到木槿花了…不知道港口里有没有呢？",
+        "夏にはムクゲの花が咲くと聞いたことがございます。……この母港にもムクゲはございますでしょうか",
+        "I've heard summertime is when you see a certain type of rose blooming... But I'm not sure if our port has that particular rose?"
+      ],
+      "secretaryTouch": [
+        "好啦，指挥官，再蹭衣服都要乱了…",
+        "仕方ないですね…貴方様、これ以上じゃれついては服が着崩れてしまいます……",
+        "It's what it is... But if you keep at this, my outfit is going to get ruined..."
+      ],
+      "secretarySpecialTouch": [
+        "如果你只是对衣服感兴趣……现在停下的话还不算太迟哦？",
+        "服だけにご興味があるのでしたら……はあ…止めるなら今のうちだと思いますよ？",
+        "If it's the outfit you're interested in... Sigh... I suppose it's too late to stop you at this point?"
+      ],
+      "returnFromMission": [
+        "指挥官，累了吗？……那就给您一个消除疲劳的拥抱吧！",
+        "貴方様、お疲れでしょうか？……でしたら私より癒やしのハグを一つ、ご奉仕させていただきますね",
+        "Are you tired after all that...? Then let me service you with a powerful healing hug."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Newcastle_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Newcastle_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Newcastle_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Newcastle_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Newcastle_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Newcastle_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Newcastle_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Newcastle_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Newcastle_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Newcastle_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Newcastle_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Newcastle_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Newcastle_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Newcastle_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Newcastle_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Newcastle_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Newcastle_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Newcastle_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Newcastle_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Newcastle_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Newcastle_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Newcastle_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Newcastle_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Newcastle_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Newcastle_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Newcastle_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Newcastle_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +70 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement (I)",
+      "attributes": "Reload +5 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement (I)",
+      "attributes": "Main Gun Efficiency +5% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement (I)",
+      "attributes": "Firepower +10 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement (I)",
+      "attributes": "Anti-Air Gun Efficiency +5% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement (I)",
+      "attributes": "Anti-air +10 ",
+      "materials": "4x CruiserT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health +70 / +100 ",
+      "materials": "1 / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Artillery Command - Vanguard\" ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Main Gun Improvement (II)",
+      "attributes": "Main Gun Efficiency +5% ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G",
+        "H"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Firepower Enhancement (II)",
+      "attributes": "Firepower +5 / +15 ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 0,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +30, Reload +15 ",
+      "materials": "1x CruiserT3BP and 1x Newcastle or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

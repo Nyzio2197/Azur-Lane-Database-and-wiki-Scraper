@@ -1,0 +1,584 @@
+{
+  "name": "Pamiat Merkuria",
+  "constructionTime": "01:17:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Bogatyr",
+  "ID": "434",
+  "faction": "Northern Parliament",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "Byulzzi",
+  "pixiv": "https://www.pixiv.net/member.php?id=5882726",
+  "twitter": "https://twitter.com/byul_zzi",
+  "voiceActor": "https://www.imdb.com/name/nm2933394/",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      3061,
+      139,
+      88,
+      83,
+      142,
+      88,
+      23,
+      146,
+      0,
+      10,
+      137,
+      56,
+      0,
+      0
+    ],
+    "Level 100": [
+      2745,
+      121,
+      88,
+      72,
+      124,
+      70,
+      23,
+      127,
+      0,
+      10,
+      122,
+      49,
+      0,
+      0
+    ],
+    "Base Stats": [
+      531,
+      51,
+      88,
+      15,
+      26,
+      27,
+      23,
+      27,
+      0,
+      3,
+      47,
+      13,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "90% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 120%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 80%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Light cruiser (CL) Accuracy  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    6,
+    9,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    4
+  ],
+  "limitBreak1": "Unlock All Out Assault Ⅰ/Main gun efficiency +5%",
+  "limitBreak2": "Main gun base +1/Main gun efficiency +10%",
+  "limitBreak3": "Improve All Out Assault/Main gun efficiency +15%",
+  "skill1Name": "Mercurial Memories; CN: Mercury Memorial JP: メルクーリイへ思い出を込めて",
+  "skill1Description": "Increases this ship's DMG dealt to BBs and CAs by 5.0% (20.0%). When this ship takes DMG: 15.0% chance to for it to evade all enemy attacks for 5.0 (10.0) seconds. (Has a 20s cooldown when activated.)",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射",
+  "skill2Description": "Activates All Out Assault Ⅱ: Kagul Class once every 8 times the Main Guns are fired.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/73/Pamiat_Merkuria.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e5/Pamiat_MerkuriaChibi.png",
+      "shipDescription": [
+        "博加特里级轻巡洋舰—水星纪念",
+        "ボガトィーリ級防護巡洋艦――パーミャチ・メルクーリヤ",
+        "Bogatyr-class protected cruiser – Pamiat Merkuria."
+      ],
+      "selfIntroduction": [
+        "我是防护巡洋舰水星纪念哦~曾经奋战在驰骋世界的黑海舰队，也和阿芙乐尔一起参与过另一场大战！无论是魅力还是经验还是可爱程度都是指挥官不能比的哦~！",
+        "防護巡洋艦、パーミャチ・メルクーリヤよ。かの世界では黒海艦隊の主力として縦横無尽に奮戦して、もう一つの大戦にもアヴローラと一緒にバッチリ参加したの！カリスマも経験も可愛さも指揮官とは全然違うわ！",
+        "I'm Pamiat Merkuria, protected cruiser. I was a bigshot in the Black Sea Fleet during the great war, beating up baddies left and right, and I even fought alongside Avrora in a world war! I'm charismatic, experienced, and cute - all the things YOU aren't!"
+      ],
+      "acquisition": [
+        "呀吼~指挥官，我是北方联合所属巡洋舰，水星纪念哦！以后请多关照啦！嘿嘿，为了我努力干活吧~♪",
+        "やっほー、指揮官、北方連合所属・巡洋艦のパーミャチ・メルクーリヤちゃんよ！今日からよろしくぅ！わたしのために、ビシバシ働いてね♪",
+        "Yoohoo, Commander! I'm *the* Pamiat Merkuria, light cruiser from the Northern Parliament! Nice meeting you! Do your thing and work your butt off for me♪"
+      ],
+      "login": [
+        "呀吼~指挥官，今天要从什么工作开始做起呢？",
+        "やっほー指揮官、今日の仕事は何から始めるの？",
+        "Yoohoo, Commander! What task are we starting today with?"
+      ],
+      "details": [
+        "别看我这样，我可是和阿芙乐尔、三笠她们同时代的舰船哦！作为指挥官~是不是应该做点什么表示一下尊敬呀~？",
+        "こう見えてもわたし、アヴローラやミカサたちと同世代の艦船だからね！なにかやるべきことあるんじゃない？指揮官としてぇ～",
+        "Believe it or not, but I'm from the same era as Avrora and Mikasa! So, you know what you oughta do as the commander here, don'tcha?"
+      ],
+      "secretaryIdle1": [
+        "阿芙乐尔~能帮我跑一趟，买下新出的新游戏吗？…唔，那我叫指挥官去吧…行不行呀，指挥官~？",
+        "アヴローラ、新しいゲームを買ってきてもらえない？…んー、じゃあ指揮官に行かせるかなー…ねー指揮官ー？",
+        "Avrora, could you go buy me a new game? Hmm, fine... Then how about the Commander instead? What do you say to that, Commander~?"
+      ],
+      "secretaryIdle2": [
+        "哦~秘书舰呀…虽说我为了指挥官而努力干活也不错，不过，指挥官为了我而努力干活，似乎更让人开心吧~？",
+        "ふーん、秘書艦ねぇ…わたしが指揮官のために頑張るのもいいけどぉ、指揮官がわたしのために頑張ってくれたほうが嬉しいわよ？",
+        "Secretary work, eh... Like, I'm happy to work hard for you and all, but wouldn't it make you even happier to work hard for me?"
+      ],
+      "secretaryIdle3": [
+        "一直盯着指挥官会觉得害羞？我不觉得害羞就好啦~哼哼~",
+        "ずっと見つめてくるのが恥ずかしいって？わたしは恥ずかしくないからいいの～ふふーん",
+        "It's embarrassing how I'm staring at you constantly? Well, I don't feel embarrassed, so who cares~ Hahah!"
+      ],
+      "secretaryTouch": [
+        "啊~这难道就是所谓的“亲密接触”？那~告诉我，你究竟真正想接触的是哪里呢~？",
+        "あ、スキンシップってやつ？へへへ、さてどこを触りたいのかな～？",
+        "Ah, \"getting personal,\" are we? Hehehe~ Where do you wanna touch me, huh~?"
+      ],
+      "secretarySpecialTouch": [
+        "果然还是…喜欢大的吗？变态♡",
+        "やっぱりおっきぃの…好きなのぉ？最低♡",
+        "You really like 'em... *big*, huh? You creep♡"
+      ],
+      "secretaryHeadpat": [
+        "这是干什么？三笠没教过你要尊敬长者吗~？",
+        "なぁにそれ？カンレキの長い子は敬うべきだってミカサから学ばなかったぁ？",
+        "What are you doing? Didn't Mikasa teach you to respect girls with rich histories?"
+      ],
+      "task": [
+        "有任务哦~快做快做~啊，我还有游戏没打完呢",
+        "任務があるよー、やってー。あっ、こっちはゲームで忙しいから",
+        "You've got missions. Get 'em done. Me? I've got my hands full with this game."
+      ],
+      "taskComplete": [
+        "任务完成，我也很努力了，要夸夸我才行哦♪",
+        "任務完了！はは、わたしも頑張ったからご褒美もーらい♪",
+        "Mission complete! Haha! I did my share of work, so I'm gonna claim my reward!"
+      ],
+      "mail": [
+        "今天轮到我来送信咯。你就心怀感激地等着就好啦♪",
+        "今日はわたしが手紙を配達する番よ。ありがたーく楽しなさい♪",
+        "I'm on letter-giving duty today. You'd *better* appreciate my work♪"
+      ],
+      "returnFromMission": [
+        "回来啦？那就快点准备食物吧！我想要吃~重樱那个叫拉面的食物！",
+        "戻った？じゃあ早く食べ物を準備して！わたし、重桜のらーめんってものを食べたぁい！",
+        "You're back, huh? Then get me something to eat, now! I want some of that \"ramen\" the Sakura Empire's got!"
+      ],
+      "commission": [
+        "委托完成了哦！真是的，特意通知指挥官的我也是很辛苦的哦！",
+        "委託が完了したよ！もう、知らせたわたしも労ってよね！",
+        "A commission's been completed! Now gimme your thanks for notifying you!"
+      ],
+      "strengthening": [
+        "毕竟有设计上的限制在，别让我干太过头的活哦？",
+        "設計の限界があるから、あまりわたしを働かせちゃダメだからね！",
+        "I have design limitations, so don't work me like an ox, alright?"
+      ],
+      "startingMission": [
+        "撞角战准备就绪~上啦！",
+        "衝角戦よーい、いっけー！",
+        "I'm ready to ram! Let's gooooo!"
+      ],
+      "mvp": [
+        "一群渣渣！竟然比我弱这么多的吗？还是说~是我太强了~？",
+        "ざーこ！わたしより弱いって何事ぉ？それともわたし、実は強いってことぉ？",
+        "Loooosers! Are you that much weaker than me? Or am I just really strong?"
+      ],
+      "defeat": [
+        "Сожаление…本来以为在这舰队里，会更厉害一点的…",
+        "Сожаление（サジリェーニエ）…この艦隊、もっと強かったと思ってたのにぃ…",
+        "Сожаление... And here I thought this fleet was stronger than this..."
+      ],
+      "skillActivation": [
+        "上吧！",
+        "いっくわよー！",
+        "Let's smack 'em down!"
+      ],
+      "lowHP": [
+        "疼疼疼…这是压榨劳力啦…！",
+        "いたた…人使いが悪い…！",
+        "Oww... Show some dang decency!"
+      ],
+      "affinityDisappointed": [
+        "……坏心眼",
+        "……意地悪",
+        "Scumbag..."
+      ],
+      "affinityStranger": [
+        "这房间，又不是船舱，是不是太朴素了点呀？既然要我在这里生活，就得多少注意下房间的内饰才行哦~！",
+        "この部屋、船内じゃあるまいしちょっと簡素すぎない？このわたしがここで暮らすんだから、もっと内装に気を使いなさいってね！",
+        "This isn't a naval cabin, so why is my room so plain? If I'm to actually live here, you'll need to get some much better interior decor!"
+      ],
+      "affinityFriendly": [
+        "哈啊啊…嗯？床单和软绵绵的枕头？哼~想得还真周到，辛苦你啦♪这下就能安心午睡了！那就…呼……Zzz……",
+        "はあああ…ん？シーツに柔らかそうな枕？ふーん、用意周到でご苦労さん♪これで安心して昼寝ができる！んじゃあ……はぁ…すぴ………",
+        "*yaaawn*... What's this? Bedsheets and a soft pillow? Wow, how thoughtful of you! Now I can get myself a good nap! Right then... *yawn*... Zzz..."
+      ],
+      "affinityLike": [
+        "睡相差？！你你你说什么呢！话说难道你一直看着！？呜…人家要嫁不出去了啦……指挥官，你要负责收下人家哦♪",
+        "寝相が悪かった？！なな何言ってるの！っていうかずっと見てたの！？うぅ……これじゃあお嫁さんに行けないよぉ……指揮官、もらってぇ♪",
+        "I toss like crazy in my sleep?! Wh-wh-what're you saying?! Were you watching the whole time?! Oh geez, now I'll never be able to get hitched... Now it's your responsibility, Commander♪"
+      ],
+      "affinityLove": [
+        "不过~人家又不是东西，才不能轻易送给指挥官呢♪不过~如果指挥官实~~在是想的话……欸嘿嘿，知道该怎么做了吧？",
+        "でもわたし、モノじゃないから指揮官にはあげなーい♪もしね、もし指揮官がどうしてもぉって言うなら……えへへ、わたしの言いたいこと、分かるよね？",
+        "Sadly for you, I don't belong to anyone, so you don't get to have me♪ But, if you really, *really* insist, theeen... Hehehe, you get what I'm trying to say, don'tcha?"
+      ],
+      "pledge": [
+        "哈哈哈♪竟然这么容易就把戒指给出来了，指挥官也太容易攻陷了吧？下次遇到类似的事情还是多想想比较好哦？不过，给我戒指，是绝对不会后悔的就是了♡",
+        "ははは♪こうも簡単にわたしに指輪を渡すなんて指揮官チョロすぎない？次はもっと考えたほうがいいよ？ま、わたしに渡したこと、後悔させないわよ♡",
+        "Hahaha♪ You're giving me a ring, just like that? Just how thirsty are you, Commander? Next time, think it through first. Whatevs, I'm not gonna make you regret your choice♡"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Mikasa, Gangut) 一点都没变是什么意思啦！哼！",
+        "(Sortie with at least 1 of: Mikasa, Gangut) 変わってないって何事よ！もう！",
+        "(Sortie with at least 1 of: Mikasa, Gangut) What do you mean \"nothing's changed\"? Hmph!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Pamiat_Merkuria_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Pamiat_Merkuria_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Pamiat_Merkuria_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Pamiat_Merkuria_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Pamiat_Merkuria_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Pamiat_Merkuria_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Pamiat_Merkuria_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Pamiat_Merkuria_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Pamiat_Merkuria_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Pamiat_Merkuria_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Pamiat_Merkuria_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Pamiat_Merkuria_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Pamiat_Merkuria_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Pamiat_Merkuria_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Pamiat_Merkuria_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Pamiat_Merkuria_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Pamiat_Merkuria_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Pamiat_Merkuria_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Pamiat_Merkuria_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Pamiat_Merkuria_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Pamiat_Merkuria_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Pamiat_Merkuria_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Pamiat_Merkuria_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Pamiat_Merkuria_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Pamiat_Merkuria_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Pamiat_Merkuria_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Pamiat_Merkuria_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Pamiat_Merkuria_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Pamiat_Merkuria_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Pamiat_Merkuria_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Pamiat_Merkuria_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Pamiat_Merkuria_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Pamiat_Merkuria_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Pamiat_Merkuria_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Pamiat_Merkuria_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Pamiat_Merkuria_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Pamiat_Merkuria_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Pamiat_Merkuria_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Pamiat_Merkuria_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Pamiat_Merkuria_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Pamiat_Merkuria_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Pamiat_Merkuria_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Pamiat_Merkuria_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Pamiat_Merkuria_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Pamiat_Merkuria_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Pamiat_Merkuria_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Pamiat_Merkuria_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Pamiat_Merkuria_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Pamiat_Merkuria_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Pamiat_Merkuria_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Pamiat_Merkuria_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Pamiat_Merkuria_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Pamiat_Merkuria_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Pamiat_Merkuria_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Pamiat_Merkuria_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Pamiat_Merkuria_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Pamiat_Merkuria_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Pamiat_Merkuria_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Pamiat_Merkuria_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Pamiat_Merkuria_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Pamiat_Merkuria_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Pamiat_Merkuria_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Pamiat_Merkuria_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Pamiat_Merkuria_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Pamiat_Merkuria_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Pamiat_Merkuria_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Pamiat_Merkuria_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Pamiat_Merkuria_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Pamiat_Merkuria_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Pamiat_Merkuria_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Pamiat_Merkuria_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Pamiat_Merkuria_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Pamiat_Merkuria_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Pamiat_Merkuria_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Pamiat_Merkuria_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Pamiat_Merkuria_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Pamiat_Merkuria_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Pamiat_Merkuria_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Pamiat_Merkuria_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Pamiat_Merkuria_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Pamiat_Merkuria_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Caged Minx",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "囚牢与诱惑",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "挫かれし生意気",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/60/Pamiat_MerkuriaPrison.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/82/Pamiat_MerkuriaPrisonChibi.png",
+      "shipDescription": [
+        "呜…这演习算什么啦！我可没听说还有这种演出啊！喂，快给我解开啦！",
+        "なによこの演習！こんなの見せられるなんて聞いてないわよ！ちょっと、早くこれ解いてぇ！",
+        "What kinda exercise is this?! Nobody said I'd become a dang showpiece! Come on, get this thing off me, *now*!"
+      ],
+      "acquisition": [
+        "呜…这演习算什么啦！我可没听说还有这种演出啊！喂，快给我解开啦！",
+        "なによこの演習！こんなの見せられるなんて聞いてないわよ！ちょっと、早くこれ解いてぇ！",
+        "What kinda exercise is this?! Nobody said I'd become a dang showpiece! Come on, get this thing off me, NOW!"
+      ],
+      "login": [
+        "呜呜…为什么我要遭受这种悲惨待遇啊…",
+        "うぅ…なんでわたしがこんなひどい目に…",
+        "Ughh... Why am I here, just to suffer...?"
+      ],
+      "details": [
+        "奴唔唔…这个演习用的铁栏，也太坚固了吧？喂，甘古特，能不能快点来帮帮我啊……",
+        "んんん…この演習用の檻、ちょっと頑丈すぎない？ガングート、早く助けに来てくれないかな……",
+        "Umm... Is it just me, or are these mockup cell bars way too strong? Dangit, I just hope Gangut comes and rescues me soon..."
+      ],
+      "secretaryIdle1": [
+        "之前买的游戏都还没玩呢…快放我回去玩游戏吧！好嘛？好嘛！",
+        "あのゲームまだ積んでるわね…早く帰ってやりたいけど！ね？ね！",
+        "I have a big backlog of games to play... I'd really like to go home and work on it! Please? Please!"
+      ],
+      "secretaryIdle2": [
+        "这香味……半小时前刚吃过点心？甜食是另一个胃啦！",
+        "このにおーい…三十分前にお菓子食べたばかりだって？それ別腹だから！",
+        "Something smells gooood... So what if I had snacks merely 30 minutes ago? I have a needy stomach!"
+      ],
+      "secretaryIdle3": [
+        "咕奴奴奴…这是要馋死我吗……咕奴奴奴…",
+        "ぐぬぬぬ…もうこれ生殺しじゃない……ぐぬぬぬぬ……",
+        "Grrr... I'm on my last dang legs here... Grrrr..."
+      ],
+      "secretaryTouch": [
+        "可恶…不要趁着我没法动弹乱来啦…！",
+        "くっ…わたしが動けないからって好き勝手して…！",
+        "Urgh...! Don't go touching wherever you want just 'cause I can't move...!"
+      ],
+      "secretarySpecialTouch": [
+        "呀？！你、你想干嘛？！",
+        "ひゃぅ？！な、なにをする気？！",
+        "Eep! Wh-whaddya think you're doing?!"
+      ],
+      "task": [
+        "任务来了啦！快点完成！然后用奖励让我好好吃一顿！",
+        "任務だよ！早くやってー！報酬でお腹いっぱい食べさせてー！",
+        "You have new missions! Do them, quick! Trade the rewards for food to fill my stomach!"
+      ],
+      "mail": [
+        "信来了。就算用上鱼雷艇也会好好完成工作的啦！",
+        "手紙よ。魚雷艇使ってもきっちり仕事こなしているんだからね！",
+        "You've got mail. See, I can do work even with just my torpedo boats!"
+      ],
+      "defeat": [
+        "指挥官，我错了，我道歉就是啦…快给我吃的啦…",
+        "指揮官、わたしが悪かったから、謝るから…早くそれを食べさせてよぉ…",
+        "Commander, I know I did wrong, and I'm sorry, so come on... Give me some of that fooood...!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Pamiat_Merkuria_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Pamiat_Merkuria_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Pamiat_Merkuria_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Pamiat_Merkuria_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Pamiat_Merkuria_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Pamiat_Merkuria_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Pamiat_Merkuria_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Pamiat_Merkuria_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Pamiat_Merkuria_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Pamiat_Merkuria_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Pamiat_Merkuria_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Pamiat_Merkuria_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Pamiat_Merkuria_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Pamiat_Merkuria_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Pamiat_Merkuria_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Pamiat_Merkuria_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Pamiat_Merkuria_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Pamiat_Merkuria_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Pamiat_Merkuria_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Pamiat_Merkuria_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Pamiat_Merkuria_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Pamiat_Merkuria_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Pamiat_Merkuria_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Pamiat_Merkuria_Sec2Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Pamiat_Merkuria_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Pamiat_Merkuria_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Pamiat_Merkuria_TaskSkin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Pamiat_Merkuria_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Pamiat_Merkuria_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Pamiat_Merkuria_MailSkin1JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Pamiat_Merkuria_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Pamiat_Merkuria_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Pamiat_Merkuria_DefeatSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

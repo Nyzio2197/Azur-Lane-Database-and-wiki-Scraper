@@ -1,0 +1,457 @@
+{
+  "name": "Myoukou",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Myoukou",
+  "ID": "196",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "kisetsu",
+  "pixiv": "https://www.pixiv.net/member.php?id=317823",
+  "twitter": "https://twitter.com/kisetsu2010",
+  "link": "https://weibo.com/kisetsu2010",
+  "voiceActor": "https://en.wikipedia.org/wiki/Eri_Suzuki",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      5220,
+      163,
+      62,
+      196,
+      150,
+      78,
+      32,
+      193,
+      0,
+      10,
+      125,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4746,
+      142,
+      62,
+      171,
+      130,
+      36,
+      32,
+      168,
+      0,
+      10,
+      111,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      918,
+      60,
+      62,
+      36,
+      28,
+      14,
+      32,
+      36,
+      0,
+      3,
+      43,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "125% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 165%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 9,
+  "maxLimitBreakTechPoints": 18,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "level120TechPoints": 13,
+  "enhancementValue": [
+    20,
+    9,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Draw Fire; CN: 吸引火力 JP: 我が身を盾に",
+  "skill1Description": "Every 20 seconds: 10% (40%) chance to absorb 50% of damage taken by Escort Fleet for 8 seconds. Effect does not stack.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-妙高型",
+  "skill2Description": "Every 9 (6) shots from the main guns, triggers Full Barrage - Myoukou Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4f/Myoukou.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6b/MyoukouChibi.png",
+      "shipDescription": [
+        "妙高级重巡洋舰一番舰—妙高",
+        "妙高型重巡洋艦一番艦・妙高",
+        "First ship of the Myoukou-class heavy cruisers, Myoukou."
+      ],
+      "selfIntroduction": [
+        "重樱妙高级重巡洋舰“妙高”号，参与过辉煌胜利的“泗水海战”，也见证了惨败的“莱特湾海战”。被鱼雷命中后再被潜艇袭击，最终泊停在新加坡港内迎来了祖国的投降与战争的结束，这是幸运还是不幸呢？指挥官，如果有了烦恼，就对我说吧",
+        "重桜艦隊・妙高型重巡洋艦の妙高だ。栄光なるジャワ沖海戦にも、屈辱的なレイテ沖海戦にも参加した。その後、魚雷を喰らったのち、潜水艦の追撃をかわしつつ、南方で終戦を迎えたが、こうなったのは幸か不幸かは人それぞれだ。指揮官、もし悩みがあったらいつでも相談してくれ",
+        "I am Myoukou, of the Sakura Empire's Myoukou-class heavy cruisers. I participated in both the glorious victory of the Java Sea and the humiliating defeat at Leyte Gulf. Afterwards, I was struck by a torpedo and pursued by submarines. In the end, I could only watch from the South as my nation surrendered. It is hard to say whether that was fortune or misfortune. Anyways, Commander, you can always talk to me if something is on your mind."
+      ],
+      "acquisition": [
+        "我是妙高级重巡洋舰的一号舰，妙高。指挥官，有什么可以为您效劳的吗？",
+        "妙高型重巡洋艦の一番艦、妙高だ。指揮官、自分が役に立てることはないか？",
+        "I am, Myoukou, first ship of the Myoukou-class heavy cruisers. Commander, is there anything I can help you with?"
+      ],
+      "login": [
+        "指挥官，这是我刚做好的松饼，不嫌弃的话来尝尝吧",
+        "できたての手作りパンケーキだ。指揮官、苦手じゃなかったら、是非食べてくれ",
+        "Would you like some homemade pancakes, Commander?"
+      ],
+      "details": [
+        "指挥官，充足的情报是胜利的开始",
+        "指揮官、十分な情報は勝利の礎だ。",
+        "Commander, acquiring intel is the first step to victory."
+      ],
+      "secretaryIdle1": [
+        "有机会的话，还想再摸摸初风的头~",
+        "初風…機会あればもう一度あの子になでなでしてあげたいものだ",
+        "If I get another chance... I'd like to pet Hatsukaze's head again."
+      ],
+      "secretaryIdle2": [
+        "变胖了？指挥官，有些话即使是您也不能乱说！",
+        "太った？！指揮官、いくらあなたでもそのような話は…！",
+        "I've put on weight?! Commander... there are some things that even you shouldn't say."
+      ],
+      "secretaryIdle3": [
+        "青鲈鱼！！啊啊，原来不是在说那个孩子啊",
+        "バーゴール！？…は、はぁ。あの子の話じゃなかったか…",
+        "Bergall?! Phew... you were talking about someone else."
+      ],
+      "secretaryTouch": [
+        "我正在监督驱逐舰们的训练，没有紧急事项不要打扰我",
+        "今駆逐艦たちの訓練を見ているぞ。急用がなければあとにしてくれ",
+        "I'm supervising the destroyers' training right now. Please save it for later if it's not an emergency."
+      ],
+      "secretarySpecialTouch": [
+        "……指挥官，请自重",
+        "……指揮官、ご自重を",
+        "... Commander, have some self-respect..."
+      ],
+      "secretaryHeadpat": [
+        null,
+        null,
+        "... Please do this kind of thing to destroyers, not me..."
+      ],
+      "task": [
+        "指挥官，需要我帮忙的话，不要有所顾虑",
+        "任務なら、私に任せてくれ",
+        "Commander, please don't hesitate to ask for help!"
+      ],
+      "taskComplete": [
+        "可不能只完成了一个任务就止步不前",
+        "任務一つこなしたぐらいで、足を止めるんじゃないぞ",
+        "Don't call it a day after finishing just one mission!"
+      ],
+      "mail": [
+        "邮件来了，是最新的作战训练手册吗？",
+        "メール便だ。最新の訓練カタログか？",
+        "New mail has arrived! Is this the latest training manual?"
+      ],
+      "returnFromMission": [
+        "就这样放松可不行，疲倦了的话就来尝尝我亲手调制的精力饮料吧",
+        "気を緩めるのはまだ早い。疲れたならこの手作り栄養ドリンクを飲んでくれ",
+        "This method of relaxing is inefficient. Why not try some of my specially-made energy drink?"
+      ],
+      "commission": [
+        "委托完成了，大家有认真进行吗？",
+        "委託が完了したようだ。みんな、ちゃんと真面目にこなしているか？",
+        "Commission complete! Is everyone putting forward their best effort?"
+      ],
+      "strengthening": [
+        "我可不会因为这种程度的进步就骄傲",
+        "この程度の強化で自惚れはせん！",
+        "I won't let such a small improvement get to my head."
+      ],
+      "startingMission": [
+        "展现平日训练成果的时候到了！炮击战开始！",
+        "訓練の成果を見せる時だ！砲撃戦、始めッ！",
+        "Let's see the fruits of my daily training! All guns, open fire!"
+      ],
+      "mvp": [
+        "战斗的胜利仰赖大家的奋进，可不仅仅是我一人的功劳",
+        "総員一丸になって得られた戦果だ",
+        "This victory was made possible by everyone's efforts, not just my own!"
+      ],
+      "defeat": [
+        "都是因为我平日督促训练有所懈怠……大家……对不起了……",
+        "訓練を監督する自分の気が緩んでいたせいだ…みんな、すまない……",
+        "It's all because I neglected my daily training... Everyone, I'm sorry..."
+      ],
+      "skillActivation": [
+        "好好记住这最后的风景吧！",
+        "最後の風景を心に刻むがいい！",
+        "Burn this final sight into your memory!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官也太散漫了！",
+        "指揮官、気が緩みすぎだぞ！",
+        "Stop slacking off, Commander!"
+      ],
+      "affinityStranger": [
+        "海战中以弱胜强并不罕见，成败往往取决于几分钟内的判断与抉择，所以充备的训练是很重要的",
+        "海戦においては、少数が多数に勝つのは決して珍しいことではない。戦局は一瞬の取捨選択によって決まる。その判断を支えるのは日常の訓練だ",
+        "It is not unusual for a weaker force to defeat a stronger one in a naval battle. Victory or defeat is often decided by good judgment and split-second decision making. We must be thorough in our training in order to cultivate these abilities."
+      ],
+      "affinityFriendly": [
+        "指挥官，适当地休息一下吧，精力枯竭的话工作效率也会下降的。膝枕……吗？没问题，不过这样真的能恢复精力吗？",
+        "指揮官、少し休憩をしよう。スタミナが切れると仕事の効率も下がるぞ。膝枕……か？私は構わないが、これで本当にスタミナが回復できるか？",
+        "Commander, remember to take breaks as needed. Your efficiency will be worse if you run out of stamina... Lap... pillow? It's fine by me... but will it really help you recover faster?"
+      ],
+      "affinityLike": [
+        "深夜看到指挥官这里还亮着灯，所以过来看看，没想到指挥官竟然还在工作，真是的！胡闹也该有个限度，在您好好地回到床上睡着之前我都不会走的！",
+        "明かりがついているので確認しに来たら、まだ仕事していたとは！まったく、無茶にもほどがある！指揮官がベッドで寝付くまでここから離れないぞ！",
+        "I saw your light on, so I came to check on you. I had no idea you'd still be awake; even being a workaholic should have its limits! Come on, I'm not leaving until you fall asleep."
+      ],
+      "affinityLove": [
+        "指挥官，那些文件我都处理完了哦。嗯，这样工作就告一段落了。接下来一起吃我做的晚餐吧。……味道如何，符合您的口味吗？",
+        "指揮官、ああ、例の書類は全部対応した。よし、これで仕事は一段落だな。弁当を作ってきたので一緒に食べよう……どうだ？口にあうか？",
+        "Commander, I've finished processing those files. It's the end of the day, so why don't we grab dinner together? ... ... How's it taste?"
+      ],
+      "pledge": [
+        "指挥官，以后您的身体不再只属于您一个人了。所以……请务必万分保重",
+        "指揮官、あなたの体はもうあなた一人だけのものではない。だから……くれぐれも、ご自愛を",
+        "Commander, your body is no longer just yours alone. Make sure you take care of yourself properly... for me, okay?"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、いつもありがとう。このチョコは私の気持ちだ。受け取ってくれ。あと、執務室ではなく自室に戻ったら食べるのだぞ？…ほ、ほら小さい子たちに見られたら風紀的に良くないというか……",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，给你情人节的礼物，快收下吧。里面……啊，是我亲手做的巧克力，以及最近发明的“能够有效抑制巧克力糖份的饮料”。希望能合你的口味……",
+        "指揮官、バレンタインのプレゼントだ。受け取ってくれ。中身は…ああ、手作りのチョコに最近考案した「チョコによく合う糖分抑制ドリンク」だ。お口に合うといいが……",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, this is a special high-energy concentrated chocolate I had the research department make. Just one piece gives you a full day's serving of sugar... But two would be an overdose, so be careful."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Myoukou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Myoukou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Myoukou_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Myoukou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Myoukou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Myoukou_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Myoukou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Myoukou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Myoukou_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Myoukou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Myoukou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Myoukou_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Myoukou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Myoukou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Myoukou_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Myoukou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Myoukou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Myoukou_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Myoukou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Myoukou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Myoukou_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Myoukou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Myoukou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Myoukou_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Myoukou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Myoukou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Myoukou_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Myoukou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Myoukou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Myoukou_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Myoukou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Myoukou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Myoukou_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Myoukou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Myoukou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Myoukou_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Myoukou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Myoukou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Myoukou_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Myoukou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Myoukou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Myoukou_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Myoukou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Myoukou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Myoukou_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Myoukou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Myoukou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Myoukou_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Myoukou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Myoukou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Myoukou_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Myoukou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Myoukou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Myoukou_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Myoukou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Myoukou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Myoukou_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Myoukou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Myoukou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Myoukou_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Myoukou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Myoukou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Myoukou_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Myoukou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Myoukou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Myoukou_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Myoukou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Myoukou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Myoukou_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Myoukou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Myoukou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Myoukou_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Myoukou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Myoukou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Myoukou_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

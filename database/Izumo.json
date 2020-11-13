@@ -1,0 +1,495 @@
+{
+  "name": "Izumo",
+  "constructionTime": "Research",
+  "rarity": "Priority",
+  "shipClass": "Izumo",
+  "ID": "Plan004",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Alisa",
+  "pixiv": "https://www.pixiv.net/member.php?id=1966676",
+  "link": "https://weibo.com/u/6056658230",
+  "voiceActor": "https://en.wikipedia.org/wiki/Reina_Ueda",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      8607,
+      146,
+      0,
+      428,
+      0,
+      37,
+      28,
+      237,
+      0,
+      16,
+      66,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      7356,
+      127,
+      0,
+      391,
+      0,
+      18,
+      28,
+      206,
+      0,
+      16,
+      52,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1423,
+      54,
+      0,
+      84,
+      0,
+      7,
+      28,
+      44,
+      0,
+      9,
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 140%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "210% → 210%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 90%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 24,
+  "maxLimitBreakTechPoints": 48,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +2",
+  "level120TechPoints": 36,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "skill1Name": "A Legend's Inheritance; CN: 神话之传承 JP: 神話伝承",
+  "skill1Description": "When firing main gun: 40% (70%) chance to launch a special barrage (damage is based on skill level).",
+  "skill2Name": "(Fate Simulation) A Legend's Inheritance+; CN: 神话之传承+ JP: 神話伝承+",
+  "skill2Description": "When firing main gun: 40% (70%) chance to launch an improved special barrage (damage is based on skill level).",
+  "skill3Name": "Specialized Armor; CN: 特殊护甲 JP: 特殊装甲",
+  "skill3Description": "Multiplies the chance of being set on fire by 1.12 and increases duration of any fires by 3 seconds. Reduces AP damage taken by self by 15% (30%).",
+  "skill4Name": "Siren Killer; CN: 塞壬之敌 JP: 対セイレーン特化改修",
+  "skill4Description": "Increases own damage dealt to Sirens by 5% (15%).",
+  "level5": "Health  +347, Anti-air  +11\nMain Gun Efficiency +5%\n",
+  "level10": "Main Gun Mount +1\nGains Siren Killer I\n\nMain Gun Efficiency +5%\nShip Rarity increases to ★★★★☆☆\n",
+  "level15": "Health  +694, Anti-air  +21\nAnti-Air Efficiency +10%\n",
+  "level20": "Secondary Gun Mount +2\nUpgrades Siren Killer I→II\nMain Gun Efficiency +10%\nShip Rarity increases to ★★★★★☆\n",
+  "level25": "Health  +1011, Anti-air  +33\nMain Gun Efficiency +5% \n",
+  "level30": "Main Gun Mount +1\nUpgrades Siren Killer II→III\nMain Gun Efficiency +15%\nShip Rarity increases to ★★★★★★\n",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/60/Izumo.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/12/IzumoChibi.png",
+      "shipDescription": [
+        "战列舰-—侌",
+        "戦艦・出雲",
+        "Battleship – Izumo."
+      ],
+      "selfIntroduction": [
+        "重樱舰队、战舰侌，作为鲸级的设计方案之一而生，却未曾真正问世…不过若因此而小看我的话，就准备尝尝主炮齐射的滋味吧",
+        "重桜艦隊所属、戦艦出雲だ。大和型の設計案として存在したものの、建造はされなかった、が……私の実力、少しでも侮るなら――主砲の一斉射を受ける覚悟でもするんだな",
+        "I'm battleship Izumo, of the Sakura Empire. I existed as a proposed Yamato-class design, although they didn't construct me... But if you look down me even slightly then prepare to taste one of my main cannon volleys."
+      ],
+      "acquisition": [
+        "战舰侌，报到。你就是指挥官？看起来不甚可靠呢…听好了，如果拖后腿的话，我可不会轻饶你！",
+        "戦艦出雲、着任した。お前が指揮官か？あまり頼りにはならなそうだが…いいか？この私の足を引っ張るようなことがあったら、ただじゃ済まさんぞ！",
+        "Battleship Izumo, reporting in. Are you the Commander? Sure don't look very reliable... Listen here: do anything to slow me down, and you won't hear the end of it!"
+      ],
+      "login": [
+        "还是一如既往的磨蹭啊，还要让我在这里等多久呢？",
+        "相変わらず遅いな。この私をいつまで待たせる気だ",
+        "Late, as always. Just how long will you keep me waiting?"
+      ],
+      "details": [
+        "与其在这看着我发呆，不如多干点其他正事如何？",
+        "私を見ている暇があったら仕事でもしたらどうだ",
+        "If you've got time to stare at me then maybe do your work instead."
+      ],
+      "secretaryIdle1": [
+        "爱刀每天都要花费时间进行保养，这不是理所当然的吗？",
+        "刀の手入れは念入りにやらねばな。当たり前じゃないか",
+        "A blade requires careful maintenance. Isn't that obvious?"
+      ],
+      "secretaryIdle2": [
+        "姐妹…吗？作为侌级的独女，多少…还是有点羡慕…",
+        "姉妹…か。出雲型は私しかいないからか、少しは羨ましく感じるな",
+        "Sisters... eh. The Izumo class consists of just me, so I guess I'm a bit jealous."
+      ],
+      "secretaryIdle3": [
+        "变强吧，指挥官。强大到足以保护自己，足以保护我们所有人，到那时候我就…",
+        "指揮官、強くなれ。お前が私たちを守れるほど強くなったら…そうなったら、私は……",
+        "Become stronger, Commander. Once you become strong enough to protect everyone... Once that happens, I..."
+      ],
+      "secretaryTouch": [
+        "指挥官应该没有闲到可以一直找我说话吧？",
+        "指揮官、まさか私と延々と喋っているほど暇じゃあるまいな",
+        "Commander, you don't have the free time to endlessly chat with me."
+      ],
+      "secretarySpecialTouch": [
+        "…斩、斩了你！",
+        "…き、斬るぞ！",
+        "... I-I'll slice your hand off!"
+      ],
+      "task": [
+        "还打算放着未完成的任务多久呢，指挥官？",
+        "指揮官、未完了の任務はどうするつもりだ",
+        "What are you planning to do about these unfinished missions?"
+      ],
+      "taskComplete": [
+        "任务完成…究竟什么时候，指挥官才可能自己注意到这些事情呢？",
+        "任務完了だ。…ったく、お前はいつになったら自分で気づくようになるのか？",
+        "Mission complete... Good lord, would you ever have realized it on your own?"
+      ],
+      "mail": [
+        "信件，不及时查阅的话，对发件的人，也是一种不敬，你不觉得吗？",
+        "手紙だ。こまめに確認しなければ送り主にとっても失礼だ。そう思わないか？",
+        "Here's a letter. It's rude to the sender to not read their letter thoroughly. Don't you agree?"
+      ],
+      "returnFromMission": [
+        "回来了？可没时间给你浪费，开始这回的战术研讨吧——",
+        "戻ったか。時間が惜しい、先の出撃の反省をすぐにするんだぞ",
+        "Look who's back. Time's precious, so start reflecting on your last sortie immediately."
+      ],
+      "commission": [
+        "委托完成…不妨自己尝试出击一次如何？",
+        "委託完了だ。…一度自分でも出撃してみたらどうだ？",
+        "Commission complete. Why don't you go on one yourself, sometime?"
+      ],
+      "strengthening": [
+        "刀刃…更加锐利了——",
+        "切れ味が増したな",
+        "My blade grows sharper."
+      ],
+      "startingMission": [
+        "全员列阵！目标，前方敌舰！",
+        "全艦、組陣（そじん）！目標、前方の敵！",
+        "All ships, form up! Target: enemies in front!"
+      ],
+      "mvp": [
+        "胜利？那是理所当然的吧！",
+        "勝利？当たり前だ！",
+        "Victory? Of course we won!"
+      ],
+      "defeat": [
+        "咕…我还能…战斗！",
+        "くっ…まだ…戦える！",
+        "Damn... I can... still fight...!"
+      ],
+      "skillActivation": [
+        "这就是…我的全力！",
+        "我が刃を受けるがいい！",
+        "Feel the wrath of my blade!"
+      ],
+      "lowHP": [
+        "准、准备灭火…！",
+        "しょ、消火作業を…！",
+        "P-put out the fire...!"
+      ],
+      "affinityDisappointed": [
+        "你没有让我举刀的资格……",
+        "この刃、振るわせる資格もあるまい",
+        "You lack what it takes to order me to swing this blade."
+      ],
+      "affinityStranger": [
+        "这把刀就如同我的分身，轻易触碰的话，可是会受伤的",
+        "この刃は私の半身。不用意に触っては怪我するぞ",
+        "This blade is my other half. Casually touch it, and you'll get hurt."
+      ],
+      "affinityFriendly": [
+        "哈啊…为什么指挥官老是露出这副不争气的表情呢？让人忍不住…想训斥一番…",
+        "はぁ……指揮官はなぜいつもこんなシケた顔をしているのか？思わず…説教したくなるじゃないか…",
+        "*Sigh*... Why do you always make that miserable face, Commander? It's so miserable that... it makes me want to scold you..."
+      ],
+      "affinityLike": [
+        "最近的指挥官似乎稍微进步一点了嘛…哼，姑且承认你的努力吧",
+        "指揮官も最近少しは様になってきたんじゃないか。…ふん、ひとまずお前の努力を認めてやろう",
+        "Hey, you've started getting just a bit into shape recently... Hmph, I suppose I'll acknowledge you've worked hard."
+      ],
+      "affinityLove": [
+        "武之道乃孤独之道，我原本一直这么认为…不过若是与指挥官同行的话，似乎…也不错呢",
+        "我が刃の道は常に孤高――そう思っていたがな。ふん、指揮官となら意外と…いいかもしれないな",
+        "The path of my blade is one of constant solitude... or so I thought. Hmph, maybe being with you... isn't so bad after all."
+      ],
+      "pledge": [
+        "又是这副不争气的表情，真拿你没办法…就稍微承认一点你的努力…和才能吧！侌，以此刀起誓，愿与你生死与共，携手同行——",
+        "またシケた顔して、本当に放っておけない奴だな…どれ、今日という今日は私もお前の努力…そうだな、才能というものを認めてやるぞ！戦艦出雲、指揮官と生死をともにすることをこの刃にかけて誓おう！",
+        "You're making that miserable face again. I just can't leave you be, huh... Listen, today is the day I will acknowledge your hard work... or, should I say, your talent! I, battleship Izumo, swear on my blade to walk with you, both in life and death."
+      ],
+      "giftDescriptionValentines2019": [
+        "最近指挥官似乎变得稍微可靠了那么一点呢…作、作为对此的奖励，就把这个巧克力送给你吧，咳、咳咳，可不要因为这样就得意忘形了啊！",
+        "お前、最近少しはたくましくなったんじゃないか？ほ、ほら…褒美のチョコだ、やるよ…。コホン！この調子で励むんだぞ！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Study and discipline are but for a moment of brilliance. Whew, I believe I've come to understand this chocolate thing as well. Well, Commander, take this chocolate! I'll make sure you see my moment of brilliance with your own eyes!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Izumo_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Izumo_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Izumo_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Izumo_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Izumo_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Izumo_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Izumo_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Izumo_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Izumo_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Izumo_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Izumo_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Izumo_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Izumo_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Izumo_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Izumo_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Izumo_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Izumo_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Izumo_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Izumo_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Izumo_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Izumo_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Izumo_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Izumo_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Izumo_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Izumo_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Izumo_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Izumo_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Izumo_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Izumo_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Izumo_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Izumo_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Izumo_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Izumo_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Izumo_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Izumo_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Izumo_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Izumo_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Izumo_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Izumo_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Izumo_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Izumo_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Izumo_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Izumo_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Izumo_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Izumo_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Izumo_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Izumo_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Izumo_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Izumo_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Izumo_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Izumo_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Izumo_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Izumo_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Izumo_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Izumo_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Izumo_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Izumo_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Izumo_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Izumo_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Izumo_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Izumo_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Izumo_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Izumo_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Izumo_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Izumo_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Izumo_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Izumo_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Izumo_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Izumo_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Izumo_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Izumo_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Izumo_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Izumo_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Izumo_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Izumo_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Izumo_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Izumo_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Izumo_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Izumo's Thousand Cherry Trees",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "出云千本樱",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "出雲千本桜",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/45/IzumoNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f1/IzumoNew_YearChibi.png",
+      "shipDescription": [
+        "想要看我的歌舞？品味倒是不错…指挥官，那就为我准备一个最好的舞台吧",
+        "私のカブキ踊りを見たい？お前、いいセンスをしているな…なら、この出雲に最高の舞台を用意するが良い！",
+        "You'd like to see my classical dance? Your tastes are quite refined, Commander... In that case, I'll show you the finest performance in the land!"
+      ],
+      "acquisition": [
+        "想要看我的歌舞？品味倒是不错…指挥官，那就为我准备一个最好的舞台吧",
+        "私のカブキ踊りを見たい？お前、いいセンスをしているな…なら、この出雲に最高の舞台を用意するが良い！",
+        "You'd like to see my classical dance? Your tastes are quite refined, Commander... In that case, I'll show you the finest performance in the land!"
+      ],
+      "details": [
+        "我的名字和歌舞伎有缘？……啊，这个意思吗……",
+        "私の名、カブキ踊りとどんな……そ、そうか……",
+        "My name has connections to classical dancing...? I-I see..."
+      ],
+      "secretaryIdle1": [
+        "歌舞与武道是共通的，无数的磨练，只为了最美丽、最闪耀的那一瞬间…",
+        "踊りも我が刃と同じだ。研鑽も鍛錬も一瞬の輝きのため……",
+        "Dancing and my sword are much alike. Untold hours of learning and practice are for a single moment of brilliance..."
+      ],
+      "secretaryIdle2": [
+        "指挥官，视线全在我身上的话…工作没有关系吗？",
+        "揮官、この出雲に見惚れていて…仕事は大丈夫なのか？",
+        "Commander, if I really captivate you so... will you be able to finish your work?"
+      ],
+      "secretaryIdle3": [
+        "佳肴和闲游吗……难得的正月，偶尔放纵一下也无妨吧。呵呵",
+        "佳肴（かこう）に遊興、か…せっかくのお正月だ。少し羽目を外しても良いだろう。ははは",
+        "Savory delicacies and mature festivities... I say why not enjoy the New Year and let loose for once? Hahahah!"
+      ],
+      "secretaryTouch": [
+        "…喝醉了？区区这么一点酒，怎么可能…嗝",
+        "…酔っている？この程度で酔うなど……ケプッ",
+        "... Drunk? Me? I've only had a few... *Hick*"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，想尝尝木屐踢脸的感觉吗？",
+        "指揮官、ポックリで蹴られてみたいか？",
+        "Commander, are you insinuating you want a swift kick?"
+      ],
+      "startingMission": [
+        "不曾知晓的话就告诉你们吧，我乃侌！",
+        "知らざぁ言って聞かせやしょう！戦艦・出雲とは私のことだ！",
+        "I'll remind ya, in case ya forgot...! I'm the battleship Izumo!"
+      ],
+      "mvp": [
+        "胜利之后的战场，何等绝景，何等绝景",
+        "絶景かな、絶景かな――戦場の風景、この出雲の目には値万両だ",
+        "How stunning; how gorgeous – to my eyes, the sight of this battlefield is worth ten thousand ryo."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Izumo_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Izumo_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Izumo_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Izumo_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Izumo_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Izumo_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Izumo_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Izumo_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Izumo_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Izumo_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Izumo_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Izumo_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Izumo_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Izumo_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Izumo_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Izumo_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Izumo_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Izumo_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Izumo_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Izumo_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Izumo_Sec2Skin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Izumo_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Izumo_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Izumo_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Izumo_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Izumo_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Izumo_MVPSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

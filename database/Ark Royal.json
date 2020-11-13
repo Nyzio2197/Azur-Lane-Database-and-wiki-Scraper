@@ -1,0 +1,797 @@
+{
+  "name": "Ark Royal",
+  "constructionTime": "04:00:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Ark Royal",
+  "ID": "144",
+  "faction": "Royal Navy",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "Mkiiiiii33",
+  "pixiv": "https://www.pixiv.net/member.php?id=661601",
+  "twitter": "https://twitter.com/ccMK33",
+  "link": "https://weibo.com/kawa33",
+  "voiceActor": "https://anidb.net/perl-bin/animedb.pl?show=creator&creatorid=12596",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6107,
+      117,
+      87,
+      0,
+      0,
+      53,
+      31,
+      307,
+      400,
+      12,
+      102,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5311,
+      102,
+      87,
+      0,
+      0,
+      33,
+      31,
+      270,
+      358,
+      12,
+      91,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1027,
+      43,
+      87,
+      0,
+      0,
+      13,
+      31,
+      58,
+      76,
+      4,
+      35,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Torpedo Bombers",
+  "slot1Efficiency": "125% → 140%",
+  "slot2Equipment": "Torpedo Bombers",
+  "slot2Efficiency": "125% → 140%",
+  "slot3Equipment": "Dive Bombers",
+  "slot3Efficiency": "80% → 80%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 15,
+  "maxLimitBreakTechPoints": 30,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Accuracy  +2",
+  "level120TechPoints": 23,
+  "enhancementValue": [
+    0,
+    0,
+    63,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / Torpedo Bomber Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 / Torpedo Bomber Efficiency +5%",
+  "limitBreak3": "Number of Torpedo Bombers +1 / Torpedo Bomber Efficiency +7%",
+  "skill1Name": "Swordfishes, Strike!; CN: 剑鱼出击！ JP: ソードフィッシュ発進！",
+  "skill1Description": "When launching an airstrike: reduces Speed of all enemies onscreen by 30% (60%) for 8 seconds and deploys additional Swordfish planes that launch torpedoes (damage increases with Level).",
+  "skill2Name": "Assault Carrier; CN: 强袭空母 JP: 強襲空母",
+  "skill2Description": "When this ship launches an airstrike, 15.0% (25.0%) chance to increase this ship's DMG dealt by 100.0% for 10 seconds.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6e/Ark_Royal.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png",
+      "shipDescription": [
+        "皇家方舟号航空母舰，舷号91",
+        "アーク・ロイヤル級航空母艦・アーク・ロイヤル（HMS Ark Royal）",
+        "Aircraft carrier – Ark Royal, Hull Number 91!"
+      ],
+      "selfIntroduction": [
+        "皇家方舟报到。本人是皇家海军第一艘专门设计建造的航母，并且是后续姐妹们的原型，对此本人十分骄傲！ 对俾斯麦的战绩想必不用本人重复，就是想问一下，舰队里有那种，就是，小小的，很可爱的，驱逐舰妹妹吗？",
+        "アーク・ロイヤル参上だ。私はロイヤルネイビー初の空母として設計・建造された艦であり、後継型の妹たちのプロトタイプでもある。今でも光栄に思っているぞ！ ビスマルクとの戦いの戦果についてくどく説明しなくてもいいだろ。それと、一つだけ聞きたい…艦隊にはその…小さくて可愛くて、駆逐艦の妹たちがいるか？",
+        "Ark Royal, reporting in! I'm the first aircraft carrier specifically designed and built for the role in the Royal Navy, I'm proud of being a prototype to all other carriers that followed. Little needs to be said about my feats against the Bismarck. Rather I must ask, are there any of those cute little destroyers in our fleet?"
+      ],
+      "acquisition": [
+        "皇家方舟前来报到，随时待命！本人对各种战斗都很有自信的，俾斯麦的方向舵就是被本人破坏的！",
+        "アーク・ロイヤルが参ったぞ。いつでも命令してくれ！戦闘には自信があるんだ。ビスマルクの舵だって壊したんだからな！",
+        "Ark Royal, reporting in for duty! I am confident in all manners of battle. Why, it was I who managed to destroy Bismarck's rudder!"
+      ],
+      "login": [
+        "指挥官，本人已准备就绪，随时待命！我对各种战斗都很有自信的！",
+        "閣下、準備は整ったぞ。いつでも命令してくれ！戦闘には自信があるんだ",
+        "Ready for orders, Commander. I am confident in any kind of battle!"
+      ],
+      "details": [
+        "皇家方舟，随时恭候指挥官的检阅！",
+        "アーク・ロイヤル、いつでも観閲を待っているぞ！",
+        "Ark Royal, ready for inspection!"
+      ],
+      "secretaryIdle1": [
+        "指挥官看起来很忙，那本人先不打搅，有什么吩咐请务必告知",
+        "考え事か。じゃあ邪魔はしないよ、何かあったら呼んでくれ。",
+        "You look like you're busy, Commander. I won't bother you then. Let me know if you need anything."
+      ],
+      "secretaryIdle2": [
+        "指挥官，那个……能把那些驱逐妹妹叫到本人的房间里来吗……本人有点礼物想给她们……",
+        "ええっと…あの駆逐艦たちを私の部屋に呼んでいいか…プレゼントを渡したいんだ…",
+        "Commander, umm... can you tell the destroyers to come to my room? I'd like to give them presents."
+      ],
+      "secretaryIdle3": [
+        "这是……呜哇~好可爱！——欸……指、指挥官什么时候来的！",
+        "これは何…わあ～かわいい！（なでなで）――あれ…か、閣下、いつの間に来てたんだ！？",
+        "This is... So cute! *pat pat* Eh? Wh-when did you get here, Commander?!"
+      ],
+      "secretaryIdle4": [
+        "正如人们努力提高舰炮射程，远距离单方面的攻击敌人也是航母的战斗方法。俾斯麦也自然懂得这一点",
+        "艦砲の射程を伸ばす努力と同じく、遠距離から一方的に打撃を与えることこそ空母の戦い方だ。ビスマルクももちろんそれが分かっている",
+        null
+      ],
+      "secretaryTouch": [
+        "指挥官温暖而坚定的双手给了本人继续战斗的动力！",
+        "閣下の温かく力強い手が、私に力を与えてくれるんだ！",
+        "Your warm hands keep me energized to keep fighting, Commander!"
+      ],
+      "secretarySpecialTouch": [
+        "欸……咦……阁下请别……这是为什么啊！",
+        "え…ちょっと…閣下、やめろ…なぜこんなこと！",
+        "Eh... Commander... please don't... Why are you doing this?!"
+      ],
+      "task": [
+        "指挥官，请不要忘记完成任务是军人的天职！",
+        "閣下、任務遂行は軍人の責務だってこと、忘れるなよ",
+        "Commander, it's a soldier's duty to complete missions!"
+      ],
+      "taskComplete": [
+        "指挥官，放着奖励不领是对任务的不尊重！",
+        "閣下、ボーナスをほったらかすことは任務への蔑視とみなされるぞ",
+        "Commander, to leave your rewards unclaimed is disrespect to the mission."
+      ],
+      "mail": [
+        "需要本人代为朗读信件内容吗？",
+        "メールの内容を読み上げさせてもらおうか？",
+        "Do you need to me read out your mail, Commander?"
+      ],
+      "returnFromMission": [
+        "接下来是休息时间吗，那本人去照看驱逐妹妹们！",
+        "次は休憩時間かな？で、では、駆逐艦の妹たちの世話に行かせてもらう",
+        "Is it time for a break? I'm going to see my destroyer sisters then!"
+      ],
+      "commission": [
+        "指挥官，有委托已经完成了，要是是有驱逐妹妹去的委托，请尽管交给本人去迎接吧！",
+        "閣下、完了した委託がある…駆逐艦が出ているものなら出迎えを私に任せてほしい！",
+        "Commissions have been completed, Commander. If there are any cute destroyers in the fleet, allow me to welcome them back myself."
+      ],
+      "strengthening": [
+        "唔哦哦哦哦哦，驱逐妹妹们，本人来保护你们了！",
+        "うおおお！駆逐艦たちよ、この私が守ってやるぞ！",
+        "Oh! oh! oh! Allow me to protect you, my destroyer friends!"
+      ],
+      "startingMission": [
+        "呵呵，就凭你们吗？剑鱼中队，准备起飞！",
+        "ふふん、あんたたちが？ソードフィッシュ中隊、出撃の準備を！",
+        "Is that it? Hah! Swordfish squadron, prepare for battle!"
+      ],
+      "mvp": [
+        "失去了方向的敌人必将失败！",
+        "方向を見失った敵は、必ず負ける！",
+        "An enemy who loses their ability to steer will be doomed!"
+      ],
+      "defeat": [
+        "嘁，被摆了一道！",
+        "ちくしょう、はめられた！",
+        "Damn, trapped!"
+      ],
+      "skillActivation": [
+        "是诸位退场的时候了",
+        "さて、ご退場願おうか！",
+        "It's time for you to leave!"
+      ],
+      "lowHP": [
+        "要是有驱逐妹妹给本人抱一抱的话！",
+        "駆逐艦を抱っこさせてもらえたら…！",
+        "If only a destroyer would give me a hug!"
+      ],
+      "affinityDisappointed": [
+        "果然指挥官完全比不上驱逐妹妹们……",
+        "やはり指揮官じゃ駆逐艦とは比べられないか……",
+        "You can't compare with the destroyers, Commander..."
+      ],
+      "affinityStranger": [
+        "事，事先声明，本人对驱逐妹妹们是那句话怎么说来着，哦对，发，发乎于情，止乎于礼，可没有构成犯、犯、犯、犯罪……",
+        "あ、予め言っておくが、駆逐艦の子たちにはなんというか…そう、そ、そのはつじょ…じゃなくて、愛しく思っているが、マナーに従って自重してるわけだ。け、決して、犯罪ではないぞ……",
+        "I... I'm going to say this in advance, but... those destroyer girls... u-um... I kid of... I mean... I kind of hold them dear... I know how to mind my manners... It's not... it's not a crime!"
+      ],
+      "affinityFriendly": [
+        "本人一开始还在想终于要被指挥官送去海军法庭了，能被接受真是太好了——没什么丢人的？……指挥官，皇家方舟将一生追随你！",
+        "閣下に軍事法廷に送られると思っていたが、受け入れられてよかったーー恥じることじゃない、だと？！……閣下、このアーク・ロイヤル、一生ついていきます！",
+        "I thought you were finally going to have me Court Martialed, Commander! I'm grateful to finally be recognized by you. It's nothing to be ashamed of? Commander, I, Ark Royal, will follow you forever!"
+      ],
+      "affinityLike": [
+        "真，真是的……指挥官要也是驱逐妹妹们那么大，本人就不会这么害羞了……这种事明明给妹妹们做就很正常，指挥官来就……",
+        "ま、まったく……閣下も駆逐艦の子たちと同じサイズだったらこうも恥じらったりはしないもの……こういうの、あの子たちには平気なのに、閣下には……",
+        "G-good grief... If you were the same size as those destroyers, Commander, I wouldn't be so embarrassed... I was fine with doing this with the little ones... but with you..."
+      ],
+      "affinityLove": [
+        "要是本人能以更、更近的距离站在指挥官身边，那就能更近距离接触驱逐妹妹们了…当当当然，需要本人和指挥官都有这种意向才行，本、本人非常愿意！不知指挥官意下如何！",
+        "も、もう少し閣下の近くにいたら、駆逐艦の妹たちとももっとスキンシップができたり……ももももちろん、こういうのは私と閣下の合意の……合意の上です！…わ……わたし……わたしは大丈夫だ！どうだ、閣下！",
+        "If I were closer to you, Commander, I could get closer with the destroyers too... Of... of course, that can only happen with your approval. I'm more than happy to help you with destroyer inspections! Is that all right, commander?"
+      ],
+      "pledge": [
+        "舰队的驱逐妹妹们从今往后就交给本人吧！谁也别想伤害本人和指挥官的妹妹们，谁也别想！",
+        "この艦隊にいる駆逐艦の妹たちは今後私にまかせてくれ！誰が来ようが、私と指揮官の妹たちは一人たりとも傷つけはさせん！",
+        "I'll take care of all the destroyers from now on! No one can touch Commander or my destroyers. No one!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with 3 Destroyers) 本人现在充满力量！",
+        "(Sortie with 3 Destroyers) 今の私は力が溢れている！",
+        "(Sortie with 3 Destroyers) I feel so strong now!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Nevada, Pennsylvania) 不给后辈们做榜样可不行！",
+        "(Sortie with Nevada, Pennsylvania) 後輩たちにいい手本を見せなければな。",
+        "(Sortie with Nevada, Pennsylvania) I've got to set an example for the others!"
+      ],
+      "giftDescriptionValentines2018": [
+        "阁下！情人节快乐！平时多多承蒙阁下关照了，这点心意还请收下。不过好不容易是情人节了，阁下不找个女孩子一起去约个会……吗？",
+        "閣下、ハッピー・バレンタイン！いつもお世話になっているから感謝の気持ちとでも受け取ってくれ。せっかくのバレンタインだ、閣下も誰かをデートにでも誘ったほうが…いいぞ？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "阁下，情人节快乐！能不能收下我和光荣一起做的巧克力？话说回来，今天与其说是驱逐舰妹妹们一起过的节日，说不定更像大人享受气氛的节日……阁下也这么认为吧？",
+        "閣下、ハッピー・バレンタイン！私とグロリアスで一緒に作ったチョコレートを受け取ってくれないか？…ところで、今日は駆逐艦の妹たちよりも、大人たちが楽しめる日かもしれない…閣下もそう思わないか？",
+        "Commander, Happy Valentine's Day! Since you're always putting up with me, please accept this token of my gratitude. Since it's Valentine's, wouldn't you like to invite someone to a date?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, here we are at another Valentine's Day. Go ahead and take your chocolate... Hm? It's too sweet? Oh no, I've made a terrible mistake! That's the chocolate I made for the sweet little destroyers, isn't it...?!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Ark_Royal_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Ark_Royal_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Ark_Royal_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Ark_Royal_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Ark_Royal_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Ark_Royal_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Ark_Royal_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Ark_Royal_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Ark_Royal_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Ark_Royal_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Ark_Royal_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Ark_Royal_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ark_Royal_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ark_Royal_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ark_Royal_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ark_Royal_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ark_Royal_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Ark_Royal_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Ark_Royal_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Ark_Royal_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Ark_Royal_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Ark_Royal_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Ark_Royal_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Ark_Royal_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Ark_Royal_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ark_Royal_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ark_Royal_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ark_Royal_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ark_Royal_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Ark_Royal_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Ark_Royal_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Ark_Royal_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Ark_Royal_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Ark_Royal_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Ark_Royal_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Ark_Royal_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Ark_Royal_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ark_Royal_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ark_Royal_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Ark_Royal_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Ark_Royal_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Ark_Royal_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Ark_Royal_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Ark_Royal_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Ark_Royal_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ark_Royal_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ark_Royal_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Ark_Royal_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Ark_Royal_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Ark_Royal_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Ark_Royal_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Ark_Royal_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Ark_Royal_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Ark_Royal_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Ark_Royal_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Ark_Royal_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Ark_Royal_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Ark_Royal_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Ark_Royal_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Ark_Royal_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Ark_Royal_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Ark_Royal_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Ark_Royal_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Ark_Royal_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Ark_Royal_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Ark_Royal_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Ark_Royal_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Ark_Royal_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Ark_Royal_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Ark_Royal_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Ark_Royal_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Ark_Royal_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Ark_Royal_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Ark_Royal_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Ark_Royal_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Ark_Royal_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Ark_Royal_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Ark_Royal_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Coast Watcher",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "沙滩守望者",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "コーストウォッチャー",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c9/Ark_RoyalSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a2/Ark_RoyalSummerChibi.png",
+      "shipDescription": [
+        "夏天，沙滩，驱逐……呃，那个，对，享受沙滩的同时也不能忘了驱逐敌人！指挥官，皇家方舟即使身着泳装，也随时待命！",
+        "夏、砂浜、くちく……コホン！そうだ！海を楽しむのもいいが、敵を駆逐するのも忘れるでないぞ！閣下、このアーク・ロイヤル、水着姿でも準備万端だ！",
+        "Nothing says summer like the sun, the beach, and destroyers... Ahem! Th-that's right! Even though we're relaxing, we still have to keep an eye out for enemy destroyers! Commander, I may be in a swimsuit, but I'm ready to sortie at any time!"
+      ],
+      "acquisition": [
+        "夏天，沙滩，驱逐……呃，那个，对，享受沙滩的同时也不能忘了驱逐敌人！指挥官，皇家方舟即使身着泳装，也随时待命！",
+        "夏、砂浜、くちく……コホン！そうだ！海を楽しむのもいいが、敵を駆逐するのも忘れるでないぞ！閣下、このアーク・ロイヤル、水着姿でも準備万端だ！",
+        "Nothing says summer like the sun, the beach, and destroyers... Ahem! Th-that's right! Even though we're relaxing, we still have to keep an eye out for enemy destroyers! Commander, I may be in a swimsuit, but I'm ready to sortie at any time!"
+      ],
+      "login": [
+        "夏天啊…指挥官喜欢吗？本人相当喜欢呢",
+        "夏か……閣下は夏が好きか？私は好きだぞ",
+        "Summer, huh... Commander, do you enjoy the summertime? I know I do."
+      ],
+      "details": [
+        "驱逐妹妹们单独在沙滩边玩很危险的，本人建议每天定一个时间段专门让她们一起在沙滩玩！",
+        "駆逐艦の妹たちだけで砂浜で遊ぶのは危険だな……時間帯を設け、集中して遊んでもらえるように具申する！",
+        "It is dangerous to let the destroyers play on the beach alone... I suggest setting aside time every day to allow them to frolic together."
+      ],
+      "secretaryIdle1": [
+        "指挥官，本人买了许多沙滩用的玩具但是不知道怎么用，能去请教一下驱逐妹妹们吗？",
+        "閣下、実は砂浜で遊ぶ遊具を購入したがいまいち使い方がわからないのだ。後学のために駆逐艦の妹たちのところへ教えてもらいに行っても大丈夫だろうか…？",
+        "To be honest, Commander, I wanted to provide everyone with some toys to play with while on the beach, but don't know what would be well received. Could I go consult the destroyers to see what they think?"
+      ],
+      "secretaryIdle2": [
+        "指挥官，怎么了，盯着本人一直看……安静下来明明是个美人？！…谢、谢谢",
+        "閣下、どうしてこっちを……「黙っていれば美人なのに」だと！？",
+        "Commander, why have you been staring at me this whole time? Huh, I'm \"quite the beauty when I'm not running my mouth\"...?!"
+      ],
+      "secretaryIdle3": [
+        "即使兴趣有些独特，本人也是优秀的秘书舰，工作请尽管交给本人吧！",
+        "趣味がちょっと変わっているかもしれないが、秘書艦としては自信があるんだぞ！仕事はぜひ私にまかせてくれ！",
+        "Some say that my tastes are a bit questionable, but I have complete confidence in my abilities as secretary ship. I'll take care of the work!"
+      ],
+      "secretaryTouch": [
+        "有穿泳装的驱逐妹妹在游泳？！在哪？！……指挥官，不要戏弄本人！",
+        "水着姿で泳いでいる駆逐艦が！？どこだ！……閣下！からかわないでくれ！",
+        "Destroyers frolicking around in swimsuits? Where?! ...Commander, don't mess with me like that!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Ark_Royal_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Ark_Royal_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Ark_Royal_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Ark_Royal_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Ark_Royal_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Ark_Royal_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Ark_Royal_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Ark_Royal_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Ark_Royal_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ark_Royal_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ark_Royal_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Ark_Royal_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Ark_Royal_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Ark_Royal_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Ark_Royal_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Ark_Royal_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Ark_Royal_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Ark_Royal_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Ark_Royal_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Ark_Royal_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Ark_Royal_Sec1Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Guardian of the Ball",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "晚会的守护者",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "バンケットガーディアン",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1080",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d5/Ark_RoyalParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6d/Ark_RoyalPartyChibi.png",
+      "shipDescription": [
+        "越是在欢庆的时候，人们越容易丧失警惕之心。今天的晚会，就交由我皇家方舟来守护吧！",
+        "パーティーでは警戒心が緩みやすい。今夜の宴会はこのアーク・ロイヤルが守る！",
+        "One tends to let her guard down at a party like this, but worry not! Put the ball in my hands and let Ark Royal keep you safe!"
+      ],
+      "acquisition": [
+        "越是在欢庆的时候，人们越容易丧失警惕之心。今天的晚会，就交由我皇家方舟来守护吧！",
+        "パーティーでは警戒心が緩みやすい。今夜の宴会はこのアーク・ロイヤルが守る！",
+        "One tends to let her guard down at a party like this, but worry not! Put the ball in my hands and let Ark Royal keep you safe!"
+      ],
+      "login": [
+        "指挥官，目前会场状况一切正常！",
+        "閣下、今のところ会場の様子に異常はない",
+        "Commander, status report: all quiet over here."
+      ],
+      "details": [
+        "你是要看这个相机的内容吗？那……请放心，等晚会结束之后，本人会把照片悉数上交的！",
+        "撮った写真を見たいのか？では……コホン！安心してくれ！撮った写真は宴会の後でしっかり渡させてもらおう！",
+        "You need to inspect what's on my camera? Well... let's not worry about it until after the party. I promise I'll hand over every last negative!"
+      ],
+      "secretaryIdle1": [
+        "这个相机是专门用来记录可能出现的突发状况的。当然，本人也会用它留下一些晚会的精彩瞬间。",
+        "このカメラは基本突発的な状況の記録に使用するが、まあ、宴会における素晴らしい瞬間も撮らせていただこう",
+        "This camera is strictly for security recording purposes. You never know what might happen. Of course, I could also use it to record some tender moments."
+      ],
+      "secretaryIdle2": [
+        "指挥官，觉得冷的话，需要本人把外套借给你吗？",
+        "閣下、寒いならこのコートを貸そうか？",
+        "Are you cold, Commander? You can have my jacket."
+      ],
+      "secretaryIdle3": [
+        "晚会会场嘈杂纷乱，本人有义务保证每个驱逐妹妹的安全！",
+        "宴会は騒がしいのが常だが、中にいる駆逐艦の妹たちの安全を守るのは私の義務だ！",
+        "This party is so noisy, so rowdy. It's my responsibility to take watch over those sweet, innocent, little destroyer girls!"
+      ],
+      "secretaryTouch": [
+        "不必担心本人。在大家沉浸于晚会的美好之时，需要有一个人保持冷静的头脑。",
+        "私のことは気にするな。皆がパーティーの熱気に包まれているからこそ、誰かが冷静でいなければならないんだ",
+        "Oh, don't worry about me. While everyone else sinks into the enrapturing atmosphere of the evening, someone has to stay sober and alert."
+      ],
+      "secretarySpecialTouch": [
+        "你是想邀请本人跳舞吗？但，但是，等等，这，这有点奇怪吧？",
+        "私とダンスを？…待て閣下、これはこう…いくらなんでもおかしくないか？？",
+        "You want to dance with me? But, Commander, this... isn't this a little out of the ordinary?"
+      ],
+      "returnFromMission": [
+        "哦哦，太棒了，这张简直完美！——咳咳，刚刚……没错！刚刚只是例行记录而已，本人绝对没有做奇怪的事情！",
+        "おおおお！いいぞ！完璧だ！！――こ、コホン！い、いまのは…そうだ！今のは定時記録だ！おかしな写真でもなんでもないぞ！",
+        "Ooooooh! Brilliant! Perfect! – Ahem! Erm, well, that's right! This is just your average, everyday record keeping here. I'm not doing anything weird at all! No siree!"
+      ],
+      "startingMission": [
+        "现在开始驱逐扰乱分子！",
+        "かく乱者の駆逐を開始する！",
+        "Time to get rid of some troublemakers!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Ark_Royal_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Ark_Royal_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Ark_Royal_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Ark_Royal_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Ark_Royal_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Ark_Royal_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Ark_Royal_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Ark_Royal_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Ark_Royal_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Ark_Royal_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Ark_Royal_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Ark_Royal_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Ark_Royal_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Ark_Royal_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Ark_Royal_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Ark_Royal_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Ark_Royal_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Ark_Royal_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Ark_Royal_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Ark_Royal_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Ark_Royal_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Ark_Royal_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ark_Royal_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Ark_Royal_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Ark_Royal_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Ark_Royal_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Ark_Royal_MissionFinSkin2JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Ark_Royal_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Ark_Royal_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Ark_Royal_MissionStartSkin2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "New Year's Protectress",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "新年的守护者",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "お正月の守護者",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/bb/Ark_RoyalNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c5/Ark_RoyalNew_YearChibi.png",
+      "shipDescription": [
+        "哟，指挥官，新年快乐。不，我并不是准备去打猎，我只是在负责新年期间港区的安保而已——当然是自愿的。",
+        "閣下、あけましておめでとう。ああ、別に狩りに出るのではなく、お正月の母港の見回りをしているんだ。もちろん、私から手を挙げてやらせてもらったんだぞ？",
+        "Commander, Happy New Year. Oh no, I'm not going hunting. I'm patrolling the port during the New Year's celebrations. Naturally, I volunteered for the job."
+      ],
+      "acquisition": [
+        "哟，指挥官，新年快乐。不，我并不是准备去打猎，我只是在负责新年期间港区的安保而已——当然是自愿的。",
+        "閣下、あけましておめでとう。ああ、別に狩りに出るのではなく、お正月の母港の見回りをしているんだ。もちろん、私から手を挙げてやらせてもらったんだぞ？",
+        "Commander, Happy New Year. Oh no, I'm not going hunting. I'm patrolling the port during the New Year's celebrations. Naturally, I volunteered for the job."
+      ],
+      "login": [
+        "越是温馨和谐的场景，越是让人想要守护好它。指挥官，你觉得呢？",
+        "心温まる場所、風景――思わず守護りたくなるな。閣下、違うか？",
+        "The more peaceful and inviting the atmosphere, the more one wants to protect it. What do you think, Commander?"
+      ],
+      "details": [
+        "这把枪也能用来发射礼炮。在晚宴上，本人会让它派上用场的！",
+        "この銃は礼砲用にも使われる。今度の宴会のときにはしっかり鳴らさせてもらうぞ",
+        "I can use this gun for ceremonial salutes, as well. I'll put her to good use at the banquet!"
+      ],
+      "secretaryIdle1": [
+        "穿着重樱打扮的驱逐舰们……啊，只是想想，就让人心潮澎湃！新年，实在是太棒了！",
+        "重桜風の衣装を身にまとった駆逐艦の妹たち…考えているだけで嬉しい気分だ！お正月、最高だ！",
+        "Oh those destroyers in their Eastern dresses... Ah, I was just thinking how captivating it all is. These New Year's celebrations really are splendid!"
+      ],
+      "secretaryIdle2": [
+        "本人已经把新年里值得关注的节目都记下来了。如果指挥官有需要，尽管咨询本人就行。",
+        "お正月の行事、閣下が気になりそうなものは全部メモしてある。確認したいものがあったらいつでも聞いてくれ",
+        "I have already committed everything important about the New Year's programming to memory. If you need anything, Commander, do let me know."
+      ],
+      "secretaryIdle3": [
+        "哪里需要帮助，本人就会在哪里出现！这是守护这个新年的本人所做出的的承诺！",
+        "お呼びとあらば即、参上！母港のお正月を守る、私、アーク・ロイヤルがそう誓ったのだ",
+        "Wherever there is trouble, I shall be there! Such is my solemn oath as guardian of the new year!"
+      ],
+      "secretaryTouch": [
+        "指挥官，你要亲自试试发射礼炮吗？可要小心后坐力。",
+        "閣下はこれを撃ってみたいのか？あ、反動だけは気を付けたほうがいいぞ",
+        "Commander, would you like to personally carry out the gun salute? Mind the recoil."
+      ],
+      "secretarySpecialTouch": [
+        "衣服领口歪了？啊，谢谢。……等等，不，不是这样的吧？！",
+        "襟元が乱れている？すまん、感謝する……って、こ、ここではないぞ！？",
+        "My neckline is off? Oh, thank you... Oh my, no, it doesn't go like this, does it?!"
+      ],
+      "returnFromMission": [
+        "能在这里守望着驱逐——舰队的大家，对我来说，就是新年最好的礼物了呢。",
+        "ここのくちく――じゃなく、艦隊の皆を守護れることは、私にとって一番のニューイヤープレゼントだ",
+        "To be able to watch over the destro– The fleet here, that's the best new year's gift anyone could give me."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ark_Royal_IntroSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ark_Royal_IntroSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Ark_Royal_IntroSkin3JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_LogSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_LogSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Ark_Royal_LogSkin3JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Ark_Royal_DetailsSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Ark_Royal_DetailsSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Ark_Royal_DetailsSkin3JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Ark_Royal_SecIdle1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Ark_Royal_SecIdle1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Ark_Royal_SecIdle1Skin3JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Ark_Royal_SecIdle2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Ark_Royal_SecIdle2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Ark_Royal_SecIdle2Skin3JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Ark_Royal_SecIdle3Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Ark_Royal_SecIdle3Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Ark_Royal_SecIdle3Skin3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Ark_Royal_Sec1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Ark_Royal_Sec1Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Ark_Royal_Sec1Skin3JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ark_Royal_Sec2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ark_Royal_Sec2Skin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Ark_Royal_Sec2Skin3JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Ark_Royal_MissionFinSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ark_Royal_MissionFinSkin3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Ark_Royal_MissionFinSkin3JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

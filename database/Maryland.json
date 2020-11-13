@@ -1,0 +1,603 @@
+{
+  "name": "Maryland",
+  "constructionTime": "04:25:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Colorado",
+  "ID": "061",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Chuzenji",
+  "twitter": "https://twitter.com/_Chuzenji_",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/f/fa/Maryland_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7514,
+      146,
+      70,
+      405,
+      0,
+      30,
+      21,
+      216,
+      0,
+      14,
+      64,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6466,
+      127,
+      70,
+      364,
+      0,
+      11,
+      21,
+      188,
+      0,
+      14,
+      52,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1251,
+      54,
+      70,
+      77,
+      0,
+      4,
+      21,
+      40,
+      0,
+      5,
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "95% → 125%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 16,
+  "maxLimitBreakTechPoints": 32,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 24,
+  "enhancementValue": [
+    63,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Big Seven; CN: BIG SEVEN JP: BIG SEVEN",
+  "skill1Description": "When firing main gun: 20% (40%) chance to fire a frontal barrage (damage increases with skill level).",
+  "skill2Name": "Fighting Mary; CN: 好斗的玛丽 JP: ファイティングメリー",
+  "skill2Description": "When own Health drops below 30% (70%), increases own damage dealt by up to 15% (35%), based on remaining Health.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/93/Maryland.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a9/MarylandChibi.png",
+      "shipDescription": [
+        "科罗拉多级战列舰—马里兰，舷号BB-46",
+        "コロラド級戦艦・メリーランド（BB-46)",
+        "Colorado class battleship— Maryland, hull number BB-46"
+      ],
+      "selfIntroduction": [
+        "白鹰科罗拉多级战列舰二号舰“马里兰”号，作为BIG·SEVEN之一，经常参加各种庆典典礼。战绩？七枚战役之星还算说得过去吧。虽然是有着big seven之称的战列舰，但是果然速度还是太慢了啊！要是我能跟上那些航母的话，中途岛……",
+        "ユニオンコロラド級戦艦、二番艦のメリーランドだ。かつてはビッグセブンとして式典によく駆り出されたな。戦績？バトルスターは7つだから、まあまあってやつかい？それより、ビッグセブンだから仕方がなかったけど、速力がないのはよく悔やまれた！あの時空母たちに追いつけていたら、あんなことには……",
+        "Eagle Union Colorado class battleship, ship no. 2 “Maryland”. As one of the BIG SEVEN, I often attended various celebrations. I escaped the attack on Pearl Harbor from behind Oklahoma. After undergoing retrofit, I successfully completed counter strike attacks on the Sakura Empire Navy. I participated in Operation Magic Carpet and received a total of seven battle stars. Commander, I just saw gunfire over there...oh, nevermind it was the sunset."
+      ],
+      "acquisition": [
+        "我是马里兰，BIG·SEVEN之一，“好斗的玛丽”说的就是我！听说今后会有很多的战斗，我很期待哦！",
+        "あたしはメリーランド、ビッグセブンのひとりにして、かつては「ファイティングメリー」と呼ばれていた。これからはもっと戦えそうかい？それは楽しみだ！",
+        "I am Maryland, a member of the BIG SEVEN. “Fighting Mary”, yes, that's what they call me! I heard there are many battles ahead. I look forward to them all!"
+      ],
+      "login": [
+        "我闻到硝烟的味道了，是战斗开始了吗？啊……原来是女灶神在做饭。",
+        "硝煙の匂いだな。戦いが始まったのかい？あっ……ヴェスタルがメシを作ってるだけか",
+        "I think I smell gunpowder, has the battle started already? Pfft... turns out it was only Vestal cooking."
+      ],
+      "details": [
+        "庆典？荣誉？除了战斗本身，什么也吸引不了我",
+        "式典？栄誉？あたしは戦闘以外の事なんてどうでもいいんだよ",
+        "Celebration? Honor? Nothing else except for battles will draw my attention."
+      ],
+      "secretaryIdle1": [
+        "和姐妹们一同战斗是天底下最愉快的事！",
+        "ダチと一緒に戦うのは一番楽しいよな！",
+        "Fighting beside my sisters is the happiest thing in the world!"
+      ],
+      "secretaryIdle2": [
+        "我最讨厌偷袭的家伙了，堂堂正正的对决才能称之为战斗！",
+        "奇襲ってもんは嫌いだ。正々堂々殴り合うことこそ戦闘ってもんだろ！",
+        "I hate foul play, only fair duels are real battles!"
+      ],
+      "secretaryIdle3": [
+        "工作？……我也不是很懂，你说做什么就做什么吧。",
+        "仕事かい？……よくわからん。お前の言う通りにさせてもらう",
+        "Working? ...I don’t know much about that, I’ll just do whatever you tell me to do."
+      ],
+      "secretaryTouch": [
+        "指挥官，是要战斗了吗？",
+        "指揮官、そろそろ戦闘かい？",
+        "Commander, are we going into battle?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，我们的战斗力可不在于那里",
+        "指揮官、あたしらの戦闘力はこんなところにないぜ",
+        "Commander, our fighting power is not in that area of expertise."
+      ],
+      "task": [
+        "不完成任务，可没法获得战役之星",
+        "任務をこなせなきゃ、バトルスターなど手に入るはずがねぇ",
+        "If I don’t complete the mission, then I can’t get a battle star."
+      ],
+      "taskComplete": [
+        "任务奖励……嘁，真麻烦。",
+        "報酬だ。……ちっ、つまんねぇな",
+        "Mission rewards... Darn, what a waste of time."
+      ],
+      "mail": [
+        "写回信的话，身边要不要摆个高射机枪呢……",
+        "返信は対空機銃を設置してからにするか……",
+        "When writing a reply back, should I carry an anti-aircraft gun with me..."
+      ],
+      "returnFromMission": [
+        "啧，待在这里好闷啊……",
+        "ちっ、つまんねぇな。じっとしてんのは",
+        "Sigh, staying in port is so boring..."
+      ],
+      "commission": [
+        "委托虽然也是战争的重要内容，但我就是对此提不起精神",
+        "軍事委託も戦争に関係あるっちゃあるが、どうもやる気が湧いてこねぇな……",
+        "Even though commissions are an important part of the war, but I'm just not interested in them."
+      ],
+      "strengthening": [
+        "好想马上齐射一轮主炮试试……",
+        "主砲一斉射…すぐにでも一回やりてぇな！",
+        "I really wanna try to shoot a volley from my main gun right now…"
+      ],
+      "startingMission": [
+        "对面的，可别让我失望了！",
+        "おい、向こうの！あたしを失望させんなよ！",
+        "Dear opponents, do NOT disappoint me!"
+      ],
+      "mvp": [
+        "哈哈！这种程度不过是餐前热身！",
+        "ハハッ！肩慣らしにもならん！",
+        "Haha! This is just the appetizer before the main course!"
+      ],
+      "defeat": [
+        "如果俄克拉荷马在的话……",
+        "オクラホマのやつがいれば……",
+        "If only Oklahoma was here..."
+      ],
+      "skillActivation": [
+        "无论多少次，我都会将你们再度击沉！",
+        "何度でも沈めてやる！オラァ！",
+        "No matter how many times it takes, I will sink you again!"
+      ],
+      "lowHP": [
+        "这样的战斗才有趣！",
+        "戦いはこうでなくちゃ！",
+        "Now, this is a fun battle!"
+      ],
+      "affinityDisappointed": [
+        "唯懦弱者不可以效忠，我曾经听姐姐说过这句话呢",
+        "弱き者は従うに値せん――聞いたな、そんな話を",
+        "A saying that I recently heard from my sister, “Never protest your loyalty to the weak”."
+      ],
+      "affinityStranger": [
+        "我不知道这个“big seven”是谁定的。不过既然她们两个每天都挂在嘴边，应该是包含着特殊的意义吧。",
+        "ビッグセブンってのを誰が決めたかはしらん。まああの二人が毎日言ってるぐらいだから、特別な意味があるんだろうな",
+        "I don't know who granted us the title of BIG SEVEN. But if those two keep mentioning it non-stop, then the title should have some special meaning to it."
+      ],
+      "affinityFriendly": [
+        "战争终究不是一个人的战斗，如果没有生死相依的同袍与终始支持的后方，战力再强也逃不过败亡的命运",
+        "戦争は一人でなんとかできるもんじゃねぇ。生死をともにする仲間、最後まで支えてくれる国の力がなきゃ、いくら強くても負けるのさ",
+        "The war cannot be won by a single person. Without true sisters fighting alongside you and a reliable backline supporting you, no matter how strong you are, your defeat is inevitable!"
+      ],
+      "affinityLike": [
+        "不是所有问题都只能用战斗解决的吗？哼，虽然不太相信…不过，是你的话总会有办法的吧。毕竟你可是我看上的指挥官呢！",
+        "戦って解決できない問題もあるって？ふん、にわかに信じられねぇが……お前ならなんとかしてくれるだろ？あたしが惚れんこんだ指揮官だからな！",
+        "Not all problems can be solved by fighting? Well, I don't really believe that... but you always seem to find a way to solve things. After all, you are my favorite Commander."
+      ],
+      "affinityLove": [
+        "看着我的眼睛，作为我最信赖的战友，事到如今难道还必须通过言语才能知晓我的内心吗？",
+        "あたしの目でも見てな。ここまで至ったらもはや言語もいらねぇ。なあ、あたしが一番信頼する戦友よ――",
+        "Look into my eyes, as my most trusted companions, is it even necessary to use words to express the feelings I have for you in my heart?"
+      ],
+      "pledge": [
+        "你就这么看重这个奇怪的戒指吗？……不过，既然是你的决定，那我就奉陪到底吧！从今以后，你就由我来保护了！",
+        "贈り物ってこの変な指輪のことかい？……お前が決めたことだ、最後まで付き合ってやる！これからはあたしがあんたを守るさ！！",
+        "You really treasure these strange rings, do you? ...But since it's your decision, I'll go with it! From now on, I will protect you!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Oklahoma) 这次由我来保护你！",
+        "(Sortie with Oklahoma) 今度はあたしが守ってやるよ！",
+        "(Sortie with Oklahoma) I will protect you this time!"
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，这好不容易情人节不搞点庆典吗？光是送巧克力感觉有点太简单了......下次记得想想啊！",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，情人节快乐！用心体会这赌上Big Seven的名誉做出来的巧克力吧！哼，即使是陌生的战场，我也会拼尽全力的！",
+        "よう指揮官、ハッピーバレンタインだ！このビッグセブンの名誉にかけて作ったチョコレートを味わうがいい！あたしは全力で挑むのさ！こんな戦場は今までなかったけどな！ははは！",
+        "Just as much as I like you, I hate having to leave the battlefield. And just to make chocolate, of all things... I'm Fighting Mary: a soldier, not a damn chef, so you'd better like it!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's to ya, Commander! Some of us Big Sevens got together and made some chocolate, which for better or worse means nobody's signature touch stands out. All I really care about is that you know I worked hard on this. Other than that, take your time enjoying this chocolate!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Maryland_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Maryland_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Maryland_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Maryland_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Maryland_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Maryland_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Maryland_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Maryland_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Maryland_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maryland_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maryland_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maryland_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Maryland_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Maryland_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Maryland_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Maryland_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Maryland_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Maryland_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maryland_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maryland_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maryland_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Maryland_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Maryland_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Maryland_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Maryland_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Maryland_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Maryland_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Maryland_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Maryland_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Maryland_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Maryland_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Maryland_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Maryland_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Maryland_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Maryland_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Maryland_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Maryland_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Maryland_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Maryland_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Maryland_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Maryland_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Maryland_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Maryland_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Maryland_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Maryland_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Maryland_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Maryland_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Maryland_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Maryland_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Maryland_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Maryland_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Maryland_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Maryland_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Maryland_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Maryland_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Maryland_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Maryland_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Maryland_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Maryland_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Maryland_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Maryland_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Maryland_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Maryland_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Maryland_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Maryland_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Maryland_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Maryland_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Maryland_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Maryland_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Maryland_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Maryland_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Maryland_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Maryland_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Maryland_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Maryland_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Maryland_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Maryland_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Maryland_PledgeJP.ogg"
+      ]
+    },
+    {
+      "CNClientName": "马里兰",
+      "CNClientAvailability": "Permanently Available",
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a2/MarylandOriginal.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/69/MarylandOriginalChibi.png",
+      "shipDescription": [
+        "科罗拉多级战列舰—马里兰，舷号BB-46",
+        null,
+        null
+      ],
+      "selfIntroduction": [
+        "白鹰科罗拉多级战列舰二号舰“马里兰”号，作为BIG·SEVEN之一，经常参加各种庆典典礼。珍珠港时因处在俄克拉荷马背后逃过一劫，整修并现代化改装后参与苏里高夜战完成对重樱海军的复仇。战后参与了魔毯行动，共获得七枚战役之星。指挥官，刚刚我好像看到那边有炮焰……啊，原来是晚霞",
+        null,
+        null
+      ],
+      "acquisition": [
+        "我是马里兰，BIG·SEVEN之一，“好斗的玛丽”说的就是我！",
+        null,
+        null
+      ],
+      "login": [
+        "我闻到硝烟的味道了，是战斗开始了吗？啊……原来是女灶神在做饭。",
+        null,
+        null
+      ],
+      "details": [
+        "无论下水还是竣工都是我更早，为什么一号舰却是姐姐？",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "和姐妹们一同战斗是天底下最愉快的事！",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "西弗吉尼亚的眼镜可不能随意碰",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "又看错了吗……嘛，我偶尔也会马失前蹄啦",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "指挥官，是要战斗了吗？",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，我们的战斗力可不在于那里",
+        null,
+        null
+      ],
+      "task": [
+        "不完成任务，可没法获得战役之星",
+        null,
+        null
+      ],
+      "taskComplete": [
+        "那么下面就由我代表整支舰队发表感言……",
+        null,
+        null
+      ],
+      "mail": [
+        "写回信的话，身边要不要摆个高射机枪呢……",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "丝袜这种东西真不牢靠……稍微运动一下就裂开了。",
+        null,
+        null
+      ],
+      "commission": [
+        "委托虽然也是战争的重要内容，但我就是对此提不起精神",
+        null,
+        null
+      ],
+      "strengthening": [
+        "好想马上齐射一轮主炮试试……",
+        null,
+        null
+      ],
+      "startingMission": [
+        "战斗就像香烟，须臾不可离身！",
+        null,
+        null
+      ],
+      "mvp": [
+        "哈哈！这种程度不过是餐前热身！",
+        null,
+        null
+      ],
+      "defeat": [
+        "如果俄克拉荷马在的话……",
+        null,
+        null
+      ],
+      "skillActivation": [
+        "无论多少次，我都会将你们再度击沉！",
+        null,
+        null
+      ],
+      "lowHP": [
+        "这样的战斗才有趣！",
+        null,
+        null
+      ],
+      "affinityDisappointed": [
+        "唯懦弱者不可以效忠，我曾经听姐姐说过这句话呢",
+        null,
+        null
+      ],
+      "affinityStranger": [
+        "参加庆典和典礼对我来说可是家常便饭！",
+        null,
+        null
+      ],
+      "affinityFriendly": [
+        "战争终究不是一个人的战斗，如果没有生死相依的同袍与终始支持的后方，战力再强也逃不过败亡的命运",
+        null,
+        null
+      ],
+      "affinityLike": [
+        "指挥官，我能把后背交给你吗？是吗……就像那天的舞会一样，在战场上我们也一同起舞吧！",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "看着我的眼睛，作为我最信赖的战友，事到如今难道还必须通过言语才能知晓我的内心吗？",
+        null,
+        null
+      ],
+      "pledge": [
+        "虽然我参加过许多庆典和典礼，但唯有这次最为紧张。指挥官，我可以永远信赖你吗？",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

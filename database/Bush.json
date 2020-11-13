@@ -1,0 +1,553 @@
+{
+  "name": "Bush",
+  "constructionTime": "00:28:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Fletcher",
+  "ID": "355",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "PHI",
+  "pixiv": "https://www.pixiv.net/member.php?id=272220",
+  "twitter": "https://twitter.com/phi_owo",
+  "link": "https://www.weibo.com/208827897",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/c/c9/Bush_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2054,
+      201,
+      34,
+      85,
+      282,
+      160,
+      42,
+      189,
+      0,
+      8,
+      199,
+      206,
+      0,
+      0
+    ],
+    "Level 100": [
+      1712,
+      175,
+      34,
+      74,
+      247,
+      154,
+      42,
+      164,
+      0,
+      8,
+      190,
+      186,
+      0,
+      0
+    ],
+    "Base Stats": [
+      331,
+      74,
+      34,
+      16,
+      52,
+      59,
+      42,
+      35,
+      0,
+      2,
+      73,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "125% → 135%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 13,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    5,
+    17,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Anti-Air Vigilance; CN: 防空警戒 JP: 対空警戒",
+  "skill1Description": "Increase own Anti-Air by 5% (15%).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フレッチャー級",
+  "skill2Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a1/Bush.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4a/BushChibi.png",
+      "shipDescription": [
+        "弗莱彻级驱逐舰—布什，舷号DD-529",
+        "フレッチャー級駆逐艦・ブッシュ（DD-529)",
+        "Fletcher-class destroyer – Bush, Hull Number DD-529."
+      ],
+      "selfIntroduction": [
+        "我是弗莱彻级的布什。曾经和姐妹们一起活跃在太平洋上，完成了很多任务呢！……飞机？别，别突然说那么可怕的东西啊！",
+        "フレッチャー級のブッシュです。みんなと同じ太平洋の戦場で活躍して、任務をいっぱいこなしました！……コウクウキ？きゅ、急にこわいこと言わないでよ><",
+        "I'm the Fletcher-class destroyer Bush. Like my sisters, I fought in the Pacific Ocean and took on tons of missions! ... Planes? I-I don't wanna talk about those scary things!"
+      ],
+      "acquisition": [
+        "我是布什！弗莱彻级的布什！从今天起我就要呆在这里啦！",
+        "フレッチャー級のブッシュですよ！今日からここにいますね！",
+        "I'm Bush, from the Fletcher class! I'll be staying here from now on!"
+      ],
+      "login": [
+        "那个，今天的安排什么来着？",
+        "あのぉ、今日の予定はなんでしたっけ？",
+        "Umm... What are we doing today, again?"
+      ],
+      "details": [
+        "什么什么？要我做什么吗？",
+        "なになに？何すればいいですか？",
+        "What is it? Do you want something from me?"
+      ],
+      "secretaryIdle1": [
+        "偷偷发会呆的话，指挥官也不会注意到吧……",
+        "こっそりサボれば、指揮官は気づかないですよね……",
+        "If I stay out of sight, the Commander probably won't notice I'm neglecting my work..."
+      ],
+      "secretaryIdle2": [
+        "唔……计划什么的好麻烦啊，想到什么就去做就是了嘛！……欸，不行吗？",
+        "うぅ……計画なんてめんどーくさーい、思いついたら即実行！でいいじゃないですかー！……ええ？ダメ？",
+        "Uughh... Following a schedule is so boooring! I say we do stuff when we see it needs doing! ... What? That's not gonna fly?"
+      ],
+      "secretaryIdle3": [
+        "我有好多姐姐和妹妹呢！但是我总是记不住她们的名字……",
+        "姉ちゃんも妹もいっぱいいるんですよ！よく名前忘れちゃうけど……",
+        "I've got a bunch of sisters, both younger and older than me! I forget their names all the time, though..."
+      ],
+      "secretaryTouch": [
+        "怎么啦怎么啦？",
+        "なになに？",
+        "Yep, what is it?"
+      ],
+      "secretarySpecialTouch": [
+        "这里是不能摸的！",
+        "ここは触っちゃダメです！",
+        "It's not okay to touch me like that!"
+      ],
+      "task": [
+        "还有任务呢。难道……指挥官在偷懒吗？",
+        "まだ任務が残ってますね。もしかして……指揮官またサボったんですか？",
+        "You've got some missions left to do. Commander, you're not... slacking off again, are you?"
+      ],
+      "taskComplete": [
+        "任务完成！……这种感觉怎么样？",
+        "ミッションコンプリート！……って感じでどうですか？",
+        "Mission complete! ... Did I do it right?"
+      ],
+      "mail": [
+        "邮件拿来了！里面写了什么呢~",
+        "メールを持ってきましたよ！なに書いてあるんですか？",
+        "I've brought your mail along! What does it say?"
+      ],
+      "returnFromMission": [
+        "噢噢！大家都回来了！",
+        "おお！みんなが戻ってきました！",
+        "Whoa! Everyone's back home!"
+      ],
+      "commission": [
+        "啊，要去接委托回来的大家了呢！",
+        "あ、委託から帰ってきたみんなを迎えに行きますね！",
+        "Oh, it's time to go welcome the commission team back!"
+      ],
+      "strengthening": [
+        "欸？这样就能变强了吗？",
+        "え？これで強くなれるんですか？",
+        "Huh? Will this make me stronger?"
+      ],
+      "startingMission": [
+        "布什号，fight！",
+        "ブッシュ、ファイト！",
+        "I'll fight with all I've got!"
+      ],
+      "mvp": [
+        "欸嘿~轻松，轻松！",
+        "えへへー、楽勝楽勝！",
+        "Hehehe! That was super easy!"
+      ],
+      "defeat": [
+        "不，不要，不要飞过来！",
+        "い、いや！飛んでこないでぇ！",
+        "Nooo! Get those planes away from meee!"
+      ],
+      "skillActivation": [
+        "敌人都在哪里呢~",
+        "敵さんはどこですかー？",
+        "Where is the enemy at?"
+      ],
+      "lowHP": [
+        "还，还能行……",
+        "ま、まだいけます……",
+        "I-I'm not giving up yet!"
+      ],
+      "affinityDisappointed": [
+        "指挥官，笑一个嘛……",
+        "指揮官、笑ってよ……",
+        "You need to learn to smile, Commander..."
+      ],
+      "affinityStranger": [
+        "哇，飞，飞机飞过来了！……欸，原，原来是金龟子吗？",
+        "わぁ！コ、コウクウキが飛んできた！……え？な、なんだ、コガネムシですか……",
+        "Whuah! A-a plane came flying towards me! ... What? Th-that was just a beetle...?"
+      ],
+      "affinityFriendly": [
+        "其实我是很灵活的呢！嘿，看我的反复横跳！……呼，呼，好累……要不行了……",
+        "実は結構身軽な方なんですよね！ほーら、この反復横跳びを見てくださいよ！……はぁ、はぁ、疲れた……もう無理……",
+        "You know, I'm actually quite athletic! Check it out, I could hop side to side all day! ... *Pant*, *pant*... This is exhausting... I can't hop anymore..."
+      ],
+      "affinityLike": [
+        "就是现在！……怎么样，这是撒切尔姐姐教我的恶作剧呢！……欸？可是撒切尔姐姐说恶作剧会让指挥官高兴的说……",
+        "いまだ！……どう？これはサッチャー姉ちゃんが教えてくれたイタズラなんですよ！……え？でも指揮官はイタズラをされると喜ぶってサッチャー姉ちゃんが……",
+        "Gotcha! ... Well, how do you like the prank Thatcher taught me, Commander? ... Huh? But I thought you liked pranks, or at least Thatcher said that you do..."
+      ],
+      "affinityLove": [
+        "现在我觉得我不是特别怕飞机了，因为有指挥官的爱呢！……这是撒切尔姐姐教我的呢，不对吗？",
+        "なんだか今はそんなにコウクウキが怖くない気がします。これはきっと指揮官の愛があるおかげ！……ってサッチャー姉ちゃんが言ってましたけど、違ってましたか？",
+        "For whatever reason, I don't feel that scared of planes anymore. It's got to be because we love each other, Commander! ... At least that's what Thatcher told me. She's not wrong, is she?"
+      ],
+      "pledge": [
+        "这样一来，指挥官就是我最重要的人了吗？我说什么指挥官都会听吗？那……我想去新开的那家点心店呢，我们现在就走吧！",
+        "これで、指揮官がわたしの一番大事な人になったんですか？じゃあ、わたしの言うことなんでも聞いてくれるんですか？じゃあじゃあ、あの新しい店のお菓子が食べたいから、今すぐ行きましょう！",
+        "Does this mean you love me more than anyone else? If so, will you do anything I ask you to? Okay! I want some snacks from that store that jus opened, so let's go there right now!"
+      ],
+      "giftDescriptionValentines2019": [
+        "向姐姐们学了怎么做巧克力！嘿嘿，指挥官，味道如何？",
+        "フレッチャー級のみんなからチョコの作り方を勉強しましたよ！えへへ、指揮官、どうかなどうかな！フレッチャー級では何番目になるのかな！",
+        null
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Bush_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Bush_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Bush_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Bush_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Bush_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Bush_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Bush_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Bush_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Bush_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Bush_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Bush_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Bush_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Bush_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Bush_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Bush_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Bush_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Bush_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Bush_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Bush_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Bush_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Bush_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Bush_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Bush_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Bush_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Bush_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Bush_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Bush_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Bush_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Bush_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Bush_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Bush_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Bush_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Bush_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Bush_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Bush_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Bush_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Bush_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Bush_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Bush_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Bush_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Bush_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Bush_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Bush_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Bush_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Bush_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Bush_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Bush_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Bush_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Bush_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Bush_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Bush_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Bush_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Bush_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Bush_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Bush_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Bush_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Bush_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Bush_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Bush_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Bush_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Bush_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Bush_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Bush_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Bush_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Bush_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Bush_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Bush_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Bush_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Bush_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Bush_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Bush_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Bush_PledgeJP.ogg"
+      ]
+    },
+    {
+      "CNClientName": "小小画家",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "リトルペインター",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/83/BushCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2f/BushCasualChibi.png",
+      "shipDescription": [
+        "锵锵~完成啦！你看你看，我画的怎么样？布什可是对自己的作品很有自信的！",
+        "じゃじゃーん！かーんせーい！見て見て、どうかな？ブッシュ、絵には自信がありますよ！",
+        null
+      ],
+      "acquisition": [
+        "锵锵~完成啦！你看你看，我画的怎么样？布什可是对自己的作品很有自信的！",
+        "じゃじゃーん！かーんせーい！見て見て、どうかな？ブッシュ、絵には自信がありますよ！",
+        null
+      ],
+      "login": [
+        "欸，要工作了吗？我还没有画完呢……",
+        "えーもうお仕事？まだ描き終わってないのに……",
+        null
+      ],
+      "details": [
+        "北卡罗来纳姐姐拜托我帮华盛顿姐姐画一张笑脸，但是华盛顿姐姐好像不愿意……啊，我懂了，华盛顿姐姐是害羞了吧！",
+        "ノースカロライナ姉ちゃんから、ワシントン姉ちゃんの笑顔を描いてほしいって頼まれたけど、ワシントン姉ちゃん、あまり乗り気じゃなかったです……あ！つまり恥ずかしがっていたってことですね！",
+        null
+      ],
+      "secretaryIdle1": [
+        "再坚持一下，很快就画好了！",
+        "今描き終わるから、もうちょっと待っててくださーい！",
+        null
+      ],
+      "secretaryIdle2": [
+        "这个是布什练习用的画册，可不能偷看！",
+        "これは練習用のスケッチブックです！あ、覗いてはダメですよー！",
+        null
+      ],
+      "secretaryIdle3": [
+        "我要给港区里的每一个人都画一幅画，嘿嘿！",
+        "母港にいるみんなの似顔絵を描きます！えっへん！",
+        null
+      ],
+      "secretaryTouch": [
+        "嗯哼？指挥官想要我画些什么呢？",
+        "？？指揮官は何を描いてほしいですか？",
+        null
+      ],
+      "secretarySpecialTouch": [
+        "啊！颜料沾到衣服上啦了！",
+        "あわわ！絵の具が服についちゃいました！",
+        null
+      ],
+      "returnFromMission": [
+        "哇哇！吓我一跳……差点要重画了啦！",
+        "わわ！びっくりした……か、描き直しになるところだったじゃありませんか！",
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Bush_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Bush_IntroSkin1JP.ogg",
+        null
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Bush_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Bush_LogSkin1JP.ogg",
+        null
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Bush_DetailsSkin1JP.ogg",
+        null
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Bush_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Bush_SecIdle1Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Bush_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Bush_SecIdle2Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Bush_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Bush_SecIdle3Skin1JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Bush_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Bush_Sec1Skin1JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Bush_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Bush_Sec2Skin1JP.ogg",
+        null
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Bush_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Bush_MissionFinSkin1JP.ogg",
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

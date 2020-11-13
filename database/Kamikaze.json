@@ -1,0 +1,683 @@
+{
+  "name": "Kamikaze",
+  "constructionTime": "00:20:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Kamikaze",
+  "ID": "269",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "NoriZC",
+  "pixiv": "https://www.pixiv.net/member.php?id=4592232",
+  "link": "https://weibo.com/zicaitangxiansheng",
+  "voiceActor": "https://en.wikipedia.org/wiki/Madoka_Asahina",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1561,
+      209,
+      86,
+      60,
+      404,
+      193,
+      44,
+      139,
+      0,
+      7,
+      183,
+      202,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1726,
+      229,
+      86,
+      60,
+      414,
+      193,
+      47,
+      179,
+      0,
+      7,
+      193,
+      202,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1466,
+      202,
+      86,
+      52,
+      372,
+      187,
+      47,
+      161,
+      0,
+      7,
+      184,
+      183,
+      0,
+      0
+    ],
+    "Level 100": [
+      1301,
+      182,
+      86,
+      52,
+      362,
+      187,
+      44,
+      121,
+      0,
+      7,
+      174,
+      183,
+      0,
+      0
+    ],
+    "Base Stats": [
+      252,
+      77,
+      86,
+      11,
+      77,
+      72,
+      44,
+      26,
+      0,
+      1,
+      67,
+      50,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 140% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 80%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 2,
+  "maxLimitBreakTechPoints": 4,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 3,
+  "enhancementValue": [
+    4,
+    25,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gained Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Veteran Techniques; CN: 历战之躯 JP: 暦戦の躯",
+  "skill1Description": "When firing main gun, 4% chance to increase own Evasion by 20% (50%) for 8 seconds.",
+  "skill2Name": "(Retrofit) First Destroyer; CN: 第一驱逐舰 JP: 第一駆逐艦",
+  "skill2Description": "10% (30%) to activate upon receiving a torpedo hit/miss: For 4 seconds, decreases Torpedo damage taken by 20% (50%) and increase own Torpedo stat by 20% (50%).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-神風型",
+  "skill3Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Kamikaze-Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/19/Kamikaze.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9c/KamikazeChibi.png",
+      "shipDescription": [
+        "神风级驱逐舰一番舰—神风",
+        "神風型駆逐艦一番艦・神風",
+        "Kamikaze-class destroyer number one – Kamikaze."
+      ],
+      "selfIntroduction": [
+        "神风级驱逐舰一号舰神风，隶属第一驱逐队，听起来就很厉害对吧～嘻嘻，别看这样，我可是舰队里的老前辈了哟。从大战初期一直奋战到了战争结束，太平洋及阿留申群岛方面、马六甲、马来半岛，都有过我活跃的身影哟～对潜战我可是很擅长的呢～哎呀呀～现在想起和白鹰的狼群们那场生死决战还是会忍不住热血沸腾呢～",
+        "神風型駆逐艦の一号艦、神風じゃ。第一駆逐隊に所属したわっちのこの名は、力強い響きじゃろ?（笑）大戦初期から太平洋諸島で転戦し、伊達や酔狂で艦隊の大先輩をやっておらんのじゃ。こう見えても、対潜は得意じゃ。あの狼の群れとやらとの死闘を思い出す度に血が滾るよのう~",
+        "I'm Kamikaze, Kamikaze-class destroyer number one. I was a part of the First Destroyer Division. My name's got a mighty ring to it, don'tcha think? Hoho~! I fought in numerous battles in the Pacific Islands since the start of the World War, so me being a fleet veteran ain't just for show or me being whimsical. I may not look it, but ASW is my forte. Every time I think about my battle with that wolf pack my blood starts to boil~"
+      ],
+      "acquisition": [
+        "第一驱逐队第一号驱逐舰——神风来也～你就是指挥官吗～？看来往后的日子会很有趣呢～哼哼，期待我的表现吧～",
+        "第一駆逐隊、第一号駆逐艦ーー神風、参上じゃ。お主が指揮官とやらに相違ないかえ？これからは楽しくなるかのう。うふふ、わっちの働き、ご覧遊ばせ～",
+        "Kamikaze, First Destroyer Division ship number one, has arrived. Are you certain you're the commander? Then things are gonna get interesting from now on. *Giggle* Enjoy watching me do my work~"
+      ],
+      "login": [
+        "啊哈，你来啦～今天要做点什么有趣事情呢～？",
+        "あら、よぉ来たかのぉ～今日は何か面妖なことでもするんかえ？",
+        "Aha, you've finally showed up~! Will we be doin' anything interesting today?"
+      ],
+      "details": [
+        "嘻嘻～指挥官究竟是对人家的哪里有兴趣呢～？",
+        "ほほぉ~指揮官はわっちのどこに興味があるんかえ？",
+        "Hoho~ What about me's gotten you so interested?"
+      ],
+      "secretaryIdle1": [
+        "能坚持到最后的，才足以被称为赢家哦！",
+        "最後まで持ちこたえるのが勝ち組よ！",
+        "Winners are those who hold out 'till the very end!"
+      ],
+      "secretaryIdle2": [
+        "玳瑁啊～虽然不及我，但也是个可敬的对手",
+        "ホークビル！わっちほどではないが正に兵（つわもの）じゃな",
+        "Hawksbill! That girl couldn't beat me, but she put up a real good fight."
+      ],
+      "secretaryIdle3": [
+        "第五战队的大家也都是好人呢…",
+        "第五戦隊…良い奴らよのう…",
+        "Those Fifth Carrier Division folks... they're pretty nice..."
+      ],
+      "secretaryTouch": [
+        "嗯哼？有什么事吗？",
+        "はて？なにかのう",
+        "Oh? You need somethin'?"
+      ],
+      "secretarySpecialTouch": [
+        "嘻嘻…指挥官的邪念都溢出来了呢，要给你驱驱邪吗？",
+        "ほれ、指揮官の煩悩が溢れんばかりよのう。わっちがお祓いしてやろうかえ？",
+        "Well well, looks like your naughty desires are starting to show themselves. How about an exorcism for ya?"
+      ],
+      "task": [
+        "任务啊，要一起去看看吗～？",
+        "奉公か。見にいくかえ？",
+        "Duties, eh. How's about we go give it a look?"
+      ],
+      "taskComplete": [
+        "嗯？任务完成的奖励下发了？运输奖励物资的时候可不能大意哦！",
+        "はて？奉公の給金かえ?どれ、運ぶ時は気を使うんじゃぞ！",
+        "Hm? Payment for those duties? Right then, take care bringing 'em here!"
+      ],
+      "mail": [
+        "信啊…不会又是从白鹰那寄来的吧…",
+        "伝書…ユニオンのお使い、じゃないのかのう…",
+        "Mail, eh... It ain't an errand from the Union, is it...?"
+      ],
+      "returnFromMission": [
+        "嗯哼，今天也平安回来了呢！作为奖励，给你喝我特制的健康饮料吧！来来～不要客气～",
+        "そら、今日も無事帰れたのう！褒美にわっちの栄養飲料でも飲め！ほれほれ～遠慮せんで",
+        "Look at you, back safe and sound! Reward yourself with a sip of my nutritious drink! Hey now, don't be shy~!"
+      ],
+      "commission": [
+        "今天也平安完成远征回来了呢！嗯嗯，很好！",
+        "今日も委託とやらを無事こなしたか。うむ、大儀じゃ！",
+        "Guess the commission team's back again all in one piece. Hum hum, splendid!"
+      ],
+      "strengthening": [
+        "状态绝佳～嘻嘻，感觉又能大闹一场了呢～",
+        "うむ、元気溌剌じゃ~（笑）これでまた大暴れできるよのう~",
+        "Yup, I'm just oozing with energy~ Hoho~! Now I can go on another rampage~"
+      ],
+      "startingMission": [
+        "注意潜艇和鱼雷～全力以赴地上吧！",
+        "潜水艦と魚雷には注意せえ。全力で行くのじゃ！",
+        "Watch out for them submarines and torpedoes. Full speed ahead!"
+      ],
+      "mvp": [
+        "看到了吗！这就是年长者的实力！",
+        "ほれ！これぞ年季による実力じゃ!",
+        "You see this? This is what years of experience looks like!"
+      ],
+      "defeat": [
+        "呜咕……果然性能已经跟不上了吗……",
+        "うぐぅ…この性能じゃやはり追いつけんかのう…",
+        "Ugh... Should've known I can't keep up like this..."
+      ],
+      "skillActivation": [
+        "抱歉，现在没单挑的时间哟",
+        "一騎打ちとはいかずすまんのう",
+        "Sorry, ain't got time for one-on-ones."
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官…意外地没什么意思呢……",
+        "指揮官は存外つまらぬ輩よのう",
+        "You're more boring than I ever imagined, Commander."
+      ],
+      "affinityStranger": [
+        "只有愚者和菜鸟，才会用装备新旧来评估舰船的实力哟，指挥官～",
+        "指揮官。装備を新旧で評するのは丁稚三下のすることじゃ",
+        "Commander, only rookies and small-timers judge equipment by how new it is."
+      ],
+      "affinityFriendly": [
+        "嗯？平时的兴趣？吃饭睡觉逗指挥官？啊哈哈，没错，就是喜欢看指挥官这种一脸困扰的表情～",
+        "趣味？三度の寝食に指揮官をいじることかのう。（大笑い）その顔が見たかったのじゃ",
+        "My hobbies? 3 rounds of food and sleep and a bit of teasin' you. Hohoho~! That look there is what I wanted to see."
+      ],
+      "affinityLike": [
+        "嘻嘻，指挥官喜欢什么类型的女孩子呢～？像我这种的？还是更文静点的？——真的？录音完毕～哼哼，要给谁听好呢～",
+        "はて、指揮官はどんな子が好みかのう～わっち？それともおしとやかな？ーーそれはまことか？そーれ、しかと録音したわい☆はて、その子に聞かせてやろうかのう-",
+        "Well, Commander, what type of girl do you fancy~? Me? Maybe someone more refined? ... But is that really true? Right, I've got that on tape now~! Now the question is: who will I play it to~?"
+      ],
+      "affinityLove": [
+        "（悄声）最喜欢指挥官了～——嗯？指挥官很热吗～？耳根都红了呢～",
+        "（小声）指揮官…お主のこと、気に入っているのじゃ♡ーーはて、指揮官、顔が熱いのう~耳元まで真っ赤になっとるえ",
+        "Commander... Ya know, I like you~ Oh dear, your face is all red~ So red it's even reached your ears~!"
+      ],
+      "pledge": [
+        "指挥官，现在还有反悔的时间哦~嗯嗯，你可以慢慢想，多考虑一点神风的事情也没关系的~嗯？门？哎呀，被谁不小心锁上了呢，真是太不小心了~",
+        "指揮官、今ならまだ翻意しても遅うないぞ～そうそう、じっくり、この神風のことをようお考え遊ばせ～うん？扉？はて、どうやら鍵をかけておったわい～まったく困ったものよのう～",
+        "Commander, it ain't too late to change your mind yet~ Yeah, that's it, take your time thinking about me~ Hm? The door? Oh no, it looks like it's been locked shut~ What will we do~?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with ) 又能并肩作战了呢！",
+        "(Sortie with ) まだ共に戦えるよのう～",
+        "(Sortie with ) It's time for us to stand together again!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "「指揮官のことが大好きです！受け取ってください！」…うむうむ、これはこれで青春なのじゃ♪",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "“指挥官，给你充满我爱情的巧克力！张嘴，啊～♡”快看快看，是情人节巧克力哦～！",
+        "「指揮官、わっちの愛情たっぷりのチョコをあげる！はい、あーん♡」ほれほれ、バレンタインチョコじゃぞ～！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Would you rather have my chocolate or Matsukaze's? Come on, out with it, Commander! Heh heh heh, you can stop sweating, both mine and Matsukaze's are wrapped up in there♪"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Kamikaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Kamikaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Kamikaze_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Kamikaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Kamikaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Kamikaze_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kamikaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kamikaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Kamikaze_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Kamikaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Kamikaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Kamikaze_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kamikaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kamikaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kamikaze_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kamikaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kamikaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kamikaze_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kamikaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kamikaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Kamikaze_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kamikaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kamikaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kamikaze_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Kamikaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Kamikaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Kamikaze_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Kamikaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kamikaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Kamikaze_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Kamikaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Kamikaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Kamikaze_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Kamikaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Kamikaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Kamikaze_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kamikaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kamikaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Kamikaze_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kamikaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kamikaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Kamikaze_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Kamikaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kamikaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Kamikaze_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Kamikaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Kamikaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Kamikaze_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Kamikaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Kamikaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Kamikaze_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kamikaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kamikaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Kamikaze_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Kamikaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Kamikaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Kamikaze_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kamikaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kamikaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Kamikaze_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kamikaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kamikaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kamikaze_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Kamikaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Kamikaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Kamikaze_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Kamikaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Kamikaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Kamikaze_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kamikaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kamikaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Kamikaze_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Kamikaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Kamikaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Kamikaze_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kamikaze_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kamikaze_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Kamikaze_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/5a/KamikazeKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6e/KamikazeKaiChibi.png",
+      "shipDescription": [
+        "嘻嘻，选我进行改造，指挥官的品味不错嘛～嗯哼，可不能让人笑话我们的指挥官没有眼光呢，就让你看看老将的志气吧～",
+        "うっふっふー、わっちを「改造」するなんて、指揮官もお目が高いよのう～こうなった以上、選んでくれた指揮官に恥をかかせるわけにはいかぬな。どれ、この年寄りの意地、とくとご覧あそばせ～",
+        "Ohohoho, you must have a sharp eye if you've decided to retrofit me~ Now that I've been chosen, I cannot afford to embarrass you. Now, take a good and thorough look at this veteran's aspirations~"
+      ],
+      "acquisition": [
+        "嘻嘻，选我进行改造，指挥官的品味不错嘛～嗯哼，可不能让人笑话我们的指挥官没有眼光呢，就让你看看老将的志气吧～",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "刚才和睦月级的丫头们一起玩了会儿，真是闹腾的小家伙们啊～",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "这个风铃吗？我蛮喜欢的，就是有点大，要是不小心被我砸到可不要生气哦~",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "羽黑，足柄，妙高……啊，稍微有些怀念起……逗她们玩的日子了~",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "真是不让人省心的家伙，又有哪里要我出马了？",
+        null,
+        null
+      ],
+      "mvp": [
+        "第一驱逐队的一号驱逐舰，拿第一也是理所当然的啦~",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "4x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"First Destroyer\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / Health +75 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Reload Enhancement Ⅱ",
+      "attributes": "Reload +5 / Reload +10 ",
+      "materials": "2 / 2x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +25, Accuracy +10 ",
+      "materials": "1x DestroyerT3BP and 1x Kamikaze or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

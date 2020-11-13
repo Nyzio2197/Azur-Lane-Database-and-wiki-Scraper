@@ -1,0 +1,605 @@
+{
+  "name": "Mullany",
+  "constructionTime": "00:28:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Fletcher",
+  "ID": "375",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "TwinBox",
+  "pixiv": "https://www.pixiv.net/member.php?id=264932",
+  "twitter": "https://twitter.com/digimon215",
+  "link": "https://www.twinbox-tb.com/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/1/1c/Mullany_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2115,
+      206,
+      89,
+      90,
+      291,
+      160,
+      42,
+      172,
+      0,
+      9,
+      197,
+      212,
+      0,
+      0
+    ],
+    "Level 100": [
+      1762,
+      179,
+      89,
+      78,
+      255,
+      154,
+      42,
+      150,
+      0,
+      9,
+      187,
+      192,
+      0,
+      0
+    ],
+    "Base Stats": [
+      341,
+      76,
+      89,
+      17,
+      54,
+      59,
+      42,
+      32,
+      0,
+      2,
+      72,
+      52,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "115% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 17,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 13,
+  "enhancementValue": [
+    5,
+    18,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Miracle Within The Flames; CN: 光焰中的奇迹 JP: 光焔の中の奇跡",
+  "skill1Description": "Decreases Burn damage taken by self by 5% (15%) and Burn duration by 3 seconds. Once per battle, if Health is below 25%, upon taking damage: increases own Evasion Rate by 10% (30%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フレッチャー級",
+  "skill2Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - Fletcher Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/Mullany.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/47/MullanyChibi.png",
+      "shipDescription": [
+        "弗莱彻级驱逐舰—马拉尼，舷号DD-528",
+        "フレッチャー級駆逐艦・マラニー（DD-528)",
+        "Fletcher-class Destroyer - Mullany (DD-528)"
+      ],
+      "selfIntroduction": [
+        "我们弗莱彻级的姐妹实在是太多了，所以要是指挥官没听过我也不奇怪。大战中还是经历了不少危险的时刻呢，不过最后还是平安度过了～还有就是在那之后，我还去东煌生活了一段时间，或许看起来稍微显得大点也是因为这样也说不定？",
+        "フレッチャー級は大所帯だから、わたしのことも知らなくて大丈夫だよ。あの大戦に参加した時は色々ピンチにあったけど、全部無事乗り越えたんだ。そのあとは東煌（ドンファン）に行ってたよ。ちょっぴり大人っぽく見えるのはそのカンケイ…なのかな？",
+        "The Fletcher-class is pretty big, so it's not strange that you haven't heard of me. Though I had my fair share of dangerous moments, I managed to return peacefully. Right after that, I even went to live the Dragon Empery for a while! Is that why you think I look a bit bigger? Who knows~"
+      ],
+      "acquisition": [
+        "指挥官，你好，我是弗莱彻级的马拉尼，从今往后就要一起生活了呢，请多关照咯~",
+        "指揮官はじめまして、フレッチャー級のマラニーだよ。これからは母港で一緒に過ごすんだから、よろしくね",
+        "Hello Commander, I am the Fletcher-class destroyer, Mullany. From today onwards, we'll be spending a lot of time together. Please take good care of me!"
+      ],
+      "login": [
+        "指挥官，吃过了吗，要不要我给你做点什么？",
+        "指揮官はご飯食べた？わたしが何か軽いものを作ってあげようか",
+        "Commander, have you eaten? Should I prepare something for you?"
+      ],
+      "details": [
+        "指挥官，有什么需要我的地方记得叫我哦",
+        "指揮官、わたしの手伝いが必要ならいつでも呼んでね",
+        "Commander, please let me know if there's anything you need me for."
+      ],
+      "secretaryIdle1": [
+        "唔，为什么我明明是按照食谱做的菜，做出来的却是这个样子呢……",
+        "ん…レシピ通り作ったのに、なんでこうなるんだろ……",
+        "Aww... I thought I followed the recipe perfectly, so how did it turn out like this...?"
+      ],
+      "secretaryIdle2": [
+        "指挥官，要注意劳逸结合哦，偷懒和过劳都是不好的~",
+        "指揮官、メリハリは大事だよ。サボるのも、頑張りすぎるのも、両方よくないからね",
+        "Commander, make sure to strike the right balance between work and leisure! It's not good to be lazy or overworked~"
+      ],
+      "secretaryIdle3": [
+        "指挥官，加油哦，相信自己，你是最棒的~",
+        "指揮官、頑張ってね。自分が一番だって信じなくちゃ",
+        "Commander, do your best! Believe in yourself, you're the greatest!"
+      ],
+      "secretaryTouch": [
+        "欸，厨房那边的黑烟？啊哈哈哈，我完全不知道发生了什么呢",
+        "ん？キッチンの煙？あ、あははは…な、なんだろう…",
+        "Uhh... the black smoke coming from that side of the kitchen? Ahaha... ha... I have no idea what you're talking about~"
+      ],
+      "secretarySpecialTouch": [
+        "指、指挥官果然也是对色色的东西感兴趣的呢……",
+        "し、指揮官はやっぱりエッチなことに興味があるよね……",
+        "C-Commander... so you're also interested in the racy stuff..."
+      ],
+      "secretaryHeadpat": [
+        "被当成小孩子的感觉…有点奇怪呢…啊哈哈…",
+        "こども扱いされるって…ちょっと変な感じだよね…あははは",
+        "Being treated like a kid... feels a bit weird... ahaha..."
+      ],
+      "task": [
+        "努力完成任务吧，指挥官~",
+        "頑張って任務をこなそうね。指揮官",
+        "Work hard to finish your missions, Commander~"
+      ],
+      "taskComplete": [
+        "任务奖励啊……我要不要也给指挥官做点什么呢？",
+        "任務報酬か……わたしも、ご褒美として指揮官になにか作ってあげたほうがいいかな",
+        "Mission rewards, huh... Should I also prepare something for you, Commander?"
+      ],
+      "mail": [
+        "指挥官，有你的邮件呢，不要忘了读哦",
+        "指揮官、メールだよ。確認を忘れないでね",
+        "Commander, there's mail for you. Don't forget to read it!"
+      ],
+      "returnFromMission": [
+        "指挥官，辛苦啦~饭菜我有保温哦，要吃吗？",
+        "指揮官、お疲れ様。おやつは取っておいてあるよ、食べる？",
+        "Commander, good work~ Would you like to have a meal? I kept your food warm."
+      ],
+      "commission": [
+        "指挥官，委托完成了呢！",
+        "指揮官、委託が完了したよ",
+        "Commander, a commission has been finished!"
+      ],
+      "strengthening": [
+        "啊，是新菜谱的灵感！",
+        "あ、新しいレシピを思いついた！",
+        "Ah! An inspiration for my new recipe!"
+      ],
+      "startingMission": [
+        "今天也要为了指挥官加油~",
+        "今日も指揮官のために頑張るね",
+        "I have to work hard for Commander today as well~"
+      ],
+      "mvp": [
+        "我是第一？欸，我只要能帮到指挥官就很开心啦",
+        "わたしが一位？ん…わたし、指揮官のお役に立てたなら嬉しいかな",
+        "I'm number one? Um... as long as I can be of help to you, I'll be happy..."
+      ],
+      "defeat": [
+        "指挥官，对不起……",
+        "指揮官、ごめんなさい……",
+        "Commander, I'm sorry..."
+      ],
+      "skillActivation": [
+        "要上咯！",
+        "いくよ！",
+        "I'm ready to go!"
+      ],
+      "lowHP": [
+        "糟、糟糕了……",
+        "し、しまった……",
+        "Oh no..."
+      ],
+      "affinityDisappointed": [
+        "为不喜欢的人做饭原来是这么痛苦的事啊……",
+        "嫌いな人のために料理を作るのってこんなに気分が悪いんだ……",
+        "Cooking for someone you don't like is suffering..."
+      ],
+      "affinityStranger": [
+        "指挥官，你有什么喜欢的东西吗？我的话喜欢做菜哦，就是有时候会做出一些奇怪的东西，大部分时候还是很好吃的，嗯！",
+        "指揮官ってどんな趣味を持ってる？わたしは料理が好きだね。時々変なものを作っちゃうけど、だいたいは美味しいよ！うん！",
+        "Commander, what are your interests? My hobby is cooking - though sometimes weird stuff come out, it usually tastes pretty good anyway. Mhm!"
+      ],
+      "affinityFriendly": [
+        "要是我不研究些奇怪的菜式就完美了？那可真是抱歉呢！不过我觉得呢，惊喜也是很重要的哦！",
+        "変なものを作らなければ完璧なのにって…？ううん、わたし、こういうサプライズってのも大事だと思うんだ。ごめんね！",
+        "My cooking would be perfect if I stopped trying to study weird things? Well, that's a darn shame! If you ask me, the element of surprise is the most important spice!"
+      ],
+      "affinityLike": [
+        "指挥官，有保持良好的作息吗，觉得一个人做不到的话，就让我来帮忙生活上的事吧~",
+        "指揮官って規則正しい生活をしてるの？一人だとダメなら、わたしが手伝ってあげてもいいよ？",
+        "Commander, are you keeping up with your schedule? If you feel like you can't manage everything alone, please let me handle your domestic affairs~"
+      ],
+      "affinityLove": [
+        "总是麻烦我觉得不好意思？没事的没事的，能帮到最关心的人也是我最开心的事哦~从今往后也尽管依靠我吧！",
+        "世話ばかりかけてすまないって？ううん、大丈夫、わたしは一番大切な人のお役に立てることが出来てすごく嬉しいから！これからもわたしのことを頼ってね！",
+        "You feel bad for always imposing on me? It's fine, it's fine! I'm happiest when I can be of use to the one I care about~ so feel free to rely on me even more from now on!"
+      ],
+      "pledge": [
+        "指挥官，即使到很久很久以后，我也天天给你做饭好不好？欸，希望到时候奇怪的菜少一点？啊哈哈，我会加油的~",
+        "指揮官、わたしがずっとずっとご飯を作ってあげてもいいの…？えっ、変な料理はあまり作らないでほしいって…？あ、あははは…が、頑張るね…",
+        "Commander, would you like me to keep cooking for you every day, even after a long, long time? Hm, you'd like there to be fewer weird dishes? Hehe, I guess I can manage that~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Fletcher) 姐姐，我来帮你！",
+        null,
+        "(Sortie with Fletcher) Fletcher, I'm coming to help you!"
+      ],
+      "giftDescriptionValentines2019": [
+        "虽然考虑了很久要不要加入一些新的素材，不过因为难以决定最后还是做了普通的巧克力……指挥官，不要生气哦？嗯？不如说这样更让人松口气…？",
+        "新しい素材を色々入れたかったけど、大切な日に贈るチョコだから結局普通のチョコにしたね…指揮官、がっかりしないでね？えっ、むしろホッとしたの…？",
+        "I tried lots of new and different ingredients, but since this is such an important day, I went with just regular chocolate in the end... Please don't be disappointed, okay? ...Huh? If anything, you're relieved that I went with regular chocolate...?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "This is my Valentine's chocolate f-for you! All my friends told me to just make *normal* chocolate, so I did... Are you sure you prefer it that way, Commander? If you'd rather have something more special next time, you can always just ask..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Mullany_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Mullany_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Mullany_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Mullany_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Mullany_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Mullany_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Mullany_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Mullany_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Mullany_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Mullany_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Mullany_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Mullany_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Mullany_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Mullany_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Mullany_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Mullany_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Mullany_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Mullany_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Mullany_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Mullany_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Mullany_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Mullany_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Mullany_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Mullany_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Mullany_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Mullany_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Mullany_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Mullany_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Mullany_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Mullany_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Mullany_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Mullany_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Mullany_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Mullany_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Mullany_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Mullany_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Mullany_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Mullany_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Mullany_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Mullany_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Mullany_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Mullany_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Mullany_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Mullany_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Mullany_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Mullany_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Mullany_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Mullany_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Mullany_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Mullany_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Mullany_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Mullany_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Mullany_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Mullany_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Mullany_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Mullany_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Mullany_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Mullany_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Mullany_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Mullany_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Mullany_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Mullany_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Mullany_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Mullany_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Mullany_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Mullany_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Mullany_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Mullany_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Mullany_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Mullany_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Mullany_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Mullany_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Mullany_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Mullany_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Mullany_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Mullany_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Mullany_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Mullany_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Mullany_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Mullany_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Mullany_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Eastern Etiquette",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "东煌之仪",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "慶陽の手料理特訓",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6f/MullanySpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f3/MullanySpringChibi.png",
+      "shipDescription": [
+        "怎么了指挥官，用奇怪的眼神看着我？唔，这身衣服是在东煌交流学习时得到的…怎、怎么样…适合我吗？",
+        "どうしたの指揮官？変なものでも見たような目で……ああ、この衣装は東煌で交流学習した時に手に入れたものだけど……ど、どうかな……わたしに…似合ってる？",
+        "What's with the weird look, Commander? Ah, I got this outfit while studying abroad in the Dragon Empery. Umm... does it suit me?"
+      ],
+      "acquisition": [
+        "怎么了指挥官，用奇怪的眼神看着我？唔，这身衣服是在东煌交流学习时得到的…怎、怎么样…适合我吗？",
+        "どうしたの指揮官？変なものでも見たような目で……ああ、この衣装は東煌で交流学習した時に手に入れたものだけど……ど、どうかな……わたしに…似合ってる？",
+        "What's with the weird look, Commander? Ah, I got this outfit while studying abroad in the Dragon Empery. Umm... does it suit me?"
+      ],
+      "login": [
+        "要来一屉小笼包吗？",
+        "小籠包（シャオロンパオ）でもいかが？",
+        "Would you like to have some soup dumplings?"
+      ],
+      "details": [
+        "在东煌修行之后，我接触到了东煌悠久的历史文化，所以性格会比过去沉稳了一些，不过我还是我哦？欸，看厨艺就知道了…？",
+        "東煌での勉強でその長い歴史と文化に触れたおかげで、昔と比べて少し落ち着いた感じになったけど、そんなには変わってないよ？信じない？料理を見ればわかってくれるかな…？",
+        "After studying abroad in the Dragon Empery and being exposed to their history and culture, I've learned to be a bit calmer. However, I'm still the same person as before... as you can probably tell from my cooking..."
+      ],
+      "secretaryIdle1": [
+        "感觉和我的距离一下子变得有些遥远？唔，不要说这种让人伤心的话嘛，我一直都在你身边哦",
+        "ちょっと距離感が遠くなったって？ん…ちょっと傷つくよね……わたしはいつも側にいるじゃない",
+        null
+      ],
+      "secretaryIdle2": [
+        "东煌也有许多特别的美味呢，指挥官，有机会我做点给你尝尝吧？",
+        "東煌にも美味しい料理がいっぱいあるよね。指揮官、今度作ってあげようか？",
+        null
+      ],
+      "secretaryIdle3": [
+        "指挥官喜欢梅花吗？我很喜欢哦",
+        "指揮官は梅の花が好き？わたしは好きだよ",
+        null
+      ],
+      "secretaryTouch": [
+        "东煌的淑女们打伞走路可好看了，所以我也学了一些，要看吗？",
+        "東煌のレディたちのあの傘を差して歩く姿が綺麗で、わたしも少し勉強したの。み、見てみたいかな……？",
+        "The elegance of ladies from the Empery, walking with their parasols opened, is a sight to behold. So, I picked up a few things from them - want to see?"
+      ],
+      "secretarySpecialTouch": [
+        "指、指挥官，请自重…",
+        "し、指揮官、ちょっと自重を……",
+        "C-Commander, some self-restraint, please..."
+      ],
+      "secretaryHeadpat": [
+        "指挥官…对这个发型有兴趣吗…？",
+        "指揮官はこの髪型に…興味ある？",
+        "Commander, are you... interested in my new hairstyle?"
+      ],
+      "task": [
+        "今日事，今日毕比较好哦，指挥官",
+        "「今日のことは今日で終わらせる」…指揮官、そうしたほうがいいよ",
+        "Today's business is best done today, Commander."
+      ],
+      "mvp": [
+        "在东煌学习的知识果然派上用场了呢",
+        "東煌で勉強したことが役に立ったね",
+        "The things I learned in the Dragon Empery came in handy."
+      ],
+      "affinityLove": [
+        "给不同人做料理…会有完全不同的感觉呢。给指挥官的话？是心跳加速的感觉吧，呵呵～",
+        "色々な人のために料理を作る時、気持ちも色々変わるよね。指揮官なら……ドキドキする感じかな。えへへ",
+        "Cooking for someone else... is a whole different experience. Cooking for you? Hm, I'd say that's a bit of a heart-racing sensation, hehe~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Mullany_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Mullany_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Mullany_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Mullany_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Mullany_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Mullany_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Mullany_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Mullany_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Mullany_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Mullany_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Mullany_SecIdle1Skin2JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Mullany_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Mullany_SecIdle2Skin2JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Mullany_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Mullany_SecIdle3Skin2JP.ogg",
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Mullany_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Mullany_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Mullany_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Mullany_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Mullany_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Mullany_Sec2Skin2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Mullany_HeadpatSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Mullany_HeadpatSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Mullany_HeadpatSkin2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Mullany_TaskSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Mullany_TaskSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Mullany_TaskSkin2JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Mullany_MVPSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Mullany_MVPSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Mullany_MVPSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Mullany_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Mullany_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Mullany_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

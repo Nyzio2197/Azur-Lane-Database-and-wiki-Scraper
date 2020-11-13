@@ -1,0 +1,468 @@
+{
+  "name": "Houston",
+  "constructionTime": "01:40:00",
+  "constructionPools": [
+    false,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Northampton",
+  "ID": "043",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "realmbw",
+  "pixiv": "https://www.pixiv.net/member.php?id=529070",
+  "twitter": "https://twitter.com/realmbw",
+  "link": "http://weibo.com/realmbw",
+  "voiceActor": "http://www.rme.jp/talent/women/aya-yokota.html",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3445,
+      171,
+      49,
+      246,
+      0,
+      53,
+      26,
+      210,
+      0,
+      11,
+      121,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3049,
+      149,
+      49,
+      214,
+      0,
+      23,
+      26,
+      183,
+      0,
+      11,
+      104,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      590,
+      63,
+      49,
+      45,
+      0,
+      9,
+      26,
+      39,
+      0,
+      3,
+      40,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "50% → 55%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 9,
+  "maxLimitBreakTechPoints": 19,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Evasion  +1",
+  "level120TechPoints": 14,
+  "enhancementValue": [
+    25,
+    0,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Ghost of Java Coast; CN: 爪哇海岸的跳跳鬼 JP: 疾駆する幻影",
+  "skill1Description": "When firing main gun: 20% chance to increase own Evasion by 60% (100%) for 15 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ノーザンプトン級",
+  "skill2Description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Northampton Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c5/Houston.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png",
+      "shipDescription": [
+        "北安普顿级重巡洋舰—休斯敦，舷号CA-30",
+        "ノーザンプトン級重巡洋艦・ヒューストン（CA-30)",
+        "Northampton-class Heavy Cruiser – Houston, Hull Number CA-30!"
+      ],
+      "selfIntroduction": [
+        "Hiya~北安普顿5号舰休斯敦在此！我因为在泗水海战班丹湾战役里单挑了整个重樱增援小队获得了一次总统部队嘉奖，这是我引以为豪的荣誉勋章！",
+        "ハ～イ！ノーザンプトン級五番艦、ヒューストンよ！泗水の戦いや、バタビア沖海戦で重桜の増援小隊に一人で立ち向かって、大統領から褒美のメダルをもらったの！これ私の自慢よ☆",
+        "Hiya! I'm Houston, fifth ship of the Northampton-class! I received a Medal of Honor from the President for facing off against an entire Sakura Empire squadron in the Battle of the Java Sea and the Battle of Sunda Strait, all on my own! I'm really proud of it~!"
+      ],
+      "acquisition": [
+        "Hiya~北安普顿5号舰休斯敦在此，我在班丹湾战役里单挑过整个重樱增援小队呢！今天开始就可以让指挥官大人陪我玩了！~耶呼——☆",
+        "ハ～イ！ノーザンプトン五番艦、ヒューストンだよ。バタン湾の戦いで重桜増援部隊に単独で挑んだよー！今日から指揮官が遊んでくれるんだよね！ヤッホー☆",
+        "Hiya! I'm Houston, fifth ship of the Northampton-class. I single-handedly took on Sakura Empire reinforcements in the Battle of the Sunda Strait! I hope I'll get to play with you every day from now on! Yahoo~!"
+      ],
+      "login": [
+        "今天又可以让指挥官大人陪我玩了！~耶呼——☆",
+        "今日もまた、指揮官が遊んでくれる！ヤッホー☆",
+        "I get to play with the commander again today! Yahoo~!"
+      ],
+      "details": [
+        "CL还是CA？指挥官真喜欢在奇怪的地方操心呀~",
+        "軽巡？それとも重巡？指揮官ってば変なところを気にするんだね～",
+        "Am I a light cruiser or a heavy cruiser? You sure like to ponder over weird stuff, Commander~"
+      ],
+      "secretaryIdle1": [
+        "指挥官有时候给人感觉好像在说教一样呢……",
+        "指揮官って、時々お説教くさいよね～",
+        "Commander, sometimes you're a little preachy, so just chill out~"
+      ],
+      "secretaryIdle2": [
+        "我在泗水的时候，那里可是相当热闹的呢！",
+        "あのときの泗水は、すっごくにぎやかだったんだよ！",
+        "I had such an exciting time in Surabaya!"
+      ],
+      "secretaryIdle3": [
+        "指挥官大人~来—玩—吧~",
+        "指揮官、あーそーぼー！",
+        "Come on, Commander, let's play!"
+      ],
+      "secretaryTouch": [
+        "唔，头脑不好使了……",
+        "う、頭が動かない…",
+        "Ah, my brain's stopped working..."
+      ],
+      "secretarySpecialTouch": [
+        "真是的……指挥官真……工口！",
+        "まったく…指揮官ってほんと…スケべね！",
+        "Gosh, Commander... you're a real weirdo... aren't you!"
+      ],
+      "task": [
+        "指~挥~官~~！还有任务没干完呢~！",
+        "しーきーかーん！ミッションが終わってないよ～！",
+        "Co~man~der~! You've still got some unfinished missions!"
+      ],
+      "taskComplete": [
+        "别忘了领取奖品哦！",
+        "ボーナス、忘れないでね！",
+        "Don't forget to claim your rewards!"
+      ],
+      "mail": [
+        "指挥官指挥官~你的信！",
+        "指揮官指揮官、あなた宛のメールよ！",
+        "Commander, Commander! There's mail for you!"
+      ],
+      "returnFromMission": [
+        "哼哼~战斗便是军人的天职！",
+        "フッフン~軍人なら戦闘、ってネ☆",
+        "Hehe~ Fighting's what a soldier does, right!"
+      ],
+      "commission": [
+        "小飞机，小火箭，小伙伴……嗯？指挥官，有委托完成了哦~",
+        "ヒコウキとロケットがナッカマーヨ~うん？指揮官、完了した委託があるよ！",
+        "Mister rocket and mister plane are friends yet again~... Hm? Commander, a commission's been completed!"
+      ],
+      "strengthening": [
+        "咻~休斯敦，突破第一宇宙速度！",
+        "ヒュー！ヒューストン、第一宇宙速度突破中~！",
+        "Whoosh! Houston's breaking through the first escape velocity!"
+      ],
+      "startingMission": [
+        "锵锵锵~今天也元气满满的出发咯！",
+        "ジャジャーン！今日も元気いっぱい、出発だぁ！",
+        "Tadah! Another day, another energy-packed departure!"
+      ],
+      "mvp": [
+        "哇哦——再多称赞我一些~",
+        "わーい、ほめてほめて～",
+        "Yaaay! C'mon, praise me!"
+      ],
+      "defeat": [
+        "呜哎~头、头晕晕的……撞到了比自己硬的东西了……",
+        "あーん、頭がくらくらするよお…私よりもっと硬いものに当たったみたい…",
+        "Ooow... My head's spinning... I think I bumped into something even harder than me..."
+      ],
+      "skillActivation": [
+        "休斯敦，状态完美！",
+        "ヒューストン、絶好調！",
+        "Houston, in perfect condition!"
+      ],
+      "lowHP": [
+        "糟糕，比分落后了……",
+        "しまった、スコアで負けてた…",
+        "Oh no, our score is falling behind..."
+      ],
+      "affinityDisappointed": [
+        "指挥官一点也不好玩……",
+        "指揮官って面白くないもん……",
+        "You're no fun at all, Commander..."
+      ],
+      "affinityStranger": [
+        "埃克塞特那家伙虽然是个好人，不过，整天把荣誉啊，皇家啊挂在嘴边的，太坚硬啦！",
+        "エクセターのやつ、いい人なんだけど、いっつも栄光だの王家だのばっかり！かったいし！",
+        "Exeter is a good person at heart, but all she talks about is glory and royalty and stuff. Boooring!"
+      ],
+      "affinityFriendly": [
+        "呯！哒哒哒哒哒！……嗯，今天也玩的很痛快！果然还是和指挥官一起玩最开心了~",
+        "パン！ダダダダダ！……ふぅう、今日もいっぱい遊んだ！やっぱ指揮官と一緒にいると楽しいよね~",
+        "Bang! Ratatatata! ... Whew, today's been a lot of fun! I really love playing with you, Commander~"
+      ],
+      "affinityLike": [
+        "Houston,you've got a problem……见到指挥官时就心里有点发紧，连话都说不好了，这究竟是什么感觉……",
+        "ヒューストン、you've got a problem……指揮官に会うと緊張しててお話もうまく出来なくて…どうしよう……",
+        "Houston, you've got a problem... Commander, whenever I see you, I get so anxious I can't even speak properly... What should I do..."
+      ],
+      "affinityLove": [
+        "指挥官，今天先不玩了，能陪陪我吗？我……我有些话想要对你说，你要认真听喔！",
+        "指揮官、今日は遊んでないで私と一緒にゆっくりしない？わ……私から少し話したいことがあるから、ちゃんと聞いてね！",
+        "Commander, how about we just relax today instead of going out to play? I... I have something I want to tell you, so listen up, okay?"
+      ],
+      "pledge": [
+        "谢谢指挥官~最喜欢你啦！嘻嘻，好啦，又不是什么很严肃的事情，一起去玩吧~",
+        "指揮官ありがとう~大好き~！えへへ、別にそう真剣にならなくてもいいじゃん~一緒に遊ぼうよ~",
+        "Thank you, Commander~ I love you~! Hehe, you don't need to be so serious about! Come on, let's go somewhere and play!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Helena) 好奇怪的熟悉感……",
+        "(Sortie with Helena) 妙に馴染んでる感じ…",
+        "(Sortie with Helena) This feels strangely familiar..."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 3 ships designed by the same artist) 火鸡分队，出击！欸错了？",
+        null,
+        "(Sortie with at least 3 ships designed by the same artist) Turkey Squad, attack! Wait, that's not right!"
+      ],
+      "giftDescriptionValentines2018": [
+        "收下这个今天就要陪休斯顿玩一天哦！嗯，碰到手了！所以赶紧吃完，陪休斯顿去玩吧！",
+        "これを受け取ったら今日一日、ヒューストンと遊ぶように！はい！もう手を触れたね、早く食べて、あとでどっか行っちゃおう！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "今年也想和休斯顿一起玩，所以来拿巧克力吗？其实我没准备……不开玩笑啦！给你！这是情人节的巧克力！",
+        "今年もヒューストンと一緒に遊びたいってチョコをもらいに来たの？実は用意してないけどーなんて冗談はナシ！はい！バレンタインのチョコレートをどうぞ！",
+        "If you accept this, you'll have to play with me all day today! Here you go! Now let go of my hand, eat it real quick, then let's head out somewhere!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I took inspiration from Portland's \"Indy chocolate\" and made some of my own Commander chocolate! Pfft, hahaha, I'm just joking! That'd be really weird! Though I did make you some normal Valentine's chocolate. Here you go!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Houston_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Houston_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Houston_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Houston_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Houston_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Houston_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Houston_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Houston_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Houston_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Houston_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Houston_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Houston_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Houston_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Houston_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Houston_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Houston_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Houston_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Houston_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Houston_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Houston_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Houston_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Houston_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Houston_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Houston_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Houston_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Houston_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Houston_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Houston_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Houston_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Houston_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Houston_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Houston_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Houston_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Houston_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Houston_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Houston_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Houston_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Houston_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Houston_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Houston_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Houston_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Houston_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Houston_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Houston_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Houston_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Houston_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Houston_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Houston_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Houston_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Houston_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Houston_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Houston_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Houston_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Houston_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Houston_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Houston_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Houston_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Houston_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Houston_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Houston_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Houston_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Houston_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Houston_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Houston_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Houston_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Houston_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Houston_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Houston_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Houston_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Houston_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Houston_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Houston_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Houston_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Houston_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Houston_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Houston_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Houston_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Houston_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

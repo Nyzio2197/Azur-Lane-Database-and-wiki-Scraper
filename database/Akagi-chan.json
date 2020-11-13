@@ -1,0 +1,445 @@
+{
+  "name": "Akagi-chan",
+  "constructionTime": "04:35:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Akagi",
+  "ID": "384",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "Alisa",
+  "pixiv": "https://www.pixiv.net/member.php?id=1966676",
+  "twitter": "https://twitter.com/16119831274",
+  "link": "https://weibo.com/u/6056658230",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/3/35/Akagi-chan_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6250,
+      124,
+      42,
+      0,
+      0,
+      54,
+      31,
+      311,
+      394,
+      12,
+      90,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5571,
+      108,
+      42,
+      0,
+      0,
+      33,
+      31,
+      274,
+      353,
+      12,
+      80,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1077,
+      46,
+      42,
+      0,
+      0,
+      13,
+      31,
+      59,
+      75,
+      4,
+      31,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "100% → 115%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "110% → 125%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    0,
+    0,
+    62,
+    9
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / Aircraft efficiency +3%",
+  "limitBreak2": "Hangar capacity +1 / Number of Fighters +1 / Aircraft efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / Aircraft efficiency +7%",
+  "skill1Name": "Take the Initiative!; CN: 先发制人 JP: 先んずれば制す！",
+  "skill1Description": "During battle, if the fleet contains more than 3 Sakura Empire ships, triggers a Lv. 1 (Lv. 10) aerial barrage 12 seconds after the start of the battle.",
+  "skill2Name": "Crimson God's Protection; CN: 赤红的加护 JP: 紅きカミの加護",
+  "skill2Description": "During own air strike, lowest percent HP vanguard ship will evade all damage for 2 (5) seconds.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/Akagi-chan.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/59/Akagi-chanChibi.png",
+      "shipDescription": [
+        "赤城号航空母舰",
+        "赤城型航空母艦・赤城",
+        "Aircraft carrier Akagi."
+      ],
+      "selfIntroduction": [
+        "我是战列巡…咦，说起来，我现在好像不是战舰？唔，算了，反正我是赤城这一点是不会变的。嘻嘻，能成为我的手下，你应该感到荣幸哦？",
+        "巡洋戦…あれ？巡洋戦艦じゃないのね。まあいいわ、私は赤城よ。ふふふ、私の子分になれるなんてあなた、幸せにも程があるんじゃない？",
+        "I'm a battlecruiser... eh? Now that I mention it, am I no longer a warship? Hm, never mind. I am Akagi, and that's all that matters. Hehe. You must feel so honored to be my slave, hmm?"
+      ],
+      "acquisition": [
+        "你就是这支舰队最了不起的人？嘻嘻，实现天城姐姐的梦想，就从收服你开始吧…感到荣幸吧，从今天起，你就是我赤城的手下一号了哦",
+        "あなたがこの艦隊で一番えらい子なの？ふふふ、天城姉さまの夢を叶えるのはまずあなたを引き入れてからにするわ～今日からあなたが赤城の子分一号よ。ありがたく思いなさい♪",
+        "So you're the best this fleet has to offer? Well then, to please Amagi I'm going to have to start by dominating you. Hehehe.... How blessed you are. From this day forward, you're Akagi's number one slave."
+      ],
+      "login": [
+        "下次再不告诉我就偷偷跑出去，我可要把这里变成火海咯？",
+        "私の許可なしに離れたら、ここを火の海にするわよ？",
+        "If you sneak off without telling me one more time, I might just have to turn this place into a sea of fire."
+      ],
+      "details": [
+        "被手下当成宝物呵护的感觉也不坏呢，呵呵呵",
+        "手下に守られる気分は悪くないわ。むふふふ",
+        "It's truly marvelous to be so loved and treasured by this slave. *giggle*"
+      ],
+      "secretaryIdle1": [
+        "有天城姐姐在，还有我在，无论想要实现什么都是轻而易举的事情吧～你应该感到荣幸哦，手下一号",
+        "私、そして天城姉さまさえいれば、どんなことも容易にこなせるわ。子分であるあなたも誇らしく思いなさい",
+        "With Amagi at my side, there is nothing we cannot do~ You are blessed indeed, my number one slave."
+      ],
+      "secretaryIdle2": [
+        "仔细看看，你这家伙认真工作的样子还挺帅气的呢，不愧是我的手下！",
+        "真面目に仕事するとサマになっているわね。さすがは私の子分ね",
+        "Your profile is quite striking when you're working so diligently. Truly worthy of being my slave!"
+      ],
+      "secretaryIdle3": [
+        "手下，虽然你和你的手下玩也没有关系，不过不要忘了谁才是你的长官哦",
+        "子分の子分と遊んでもいいけど、誰が主であるか、忘れるんじゃないわ",
+        "Slave, while I don't mind you playing with your underlings, you must never forget to whom you answer."
+      ],
+      "secretaryTouch": [
+        "真是粘人的手下呢，那我就陪你玩一会儿吧~",
+        "世話のやける子分ね。いいわよ、少し遊んでやるわ",
+        "Aren't you a clingy slave. Very well, I'll play with you~"
+      ],
+      "secretarySpecialTouch": [
+        "呵呵呵，看来要把你锁起来才好哦…",
+        "うふふふ、鎖で縛ってやろうじゃない……",
+        "*giggle* Seems I'll have to shackle you..."
+      ],
+      "task": [
+        "为了八百万大神，快去完成更多的任务吧！",
+        "ヤオヨロズのカミサマたちのため、もっと任務に励んでなさい",
+        "In the name of the eight million gods, hurry up and polish off a few more missions!"
+      ],
+      "taskComplete": [
+        "嗯嗯，这么多的报酬，不愧是我的手下~",
+        "うんうん、これほどの報酬とは……さすが、私の子分といったところね",
+        "Mmmhmm, so many rewards, just as I would expect from my slave~"
+      ],
+      "mail": [
+        "新邮件……什么，竟然不是给我的？！",
+        "お手紙ね……わ、私宛のじゃないの？！",
+        "New mail... what's this? It's not for me!?"
+      ],
+      "returnFromMission": [
+        "今天也有作为手下在好好工作呢，不错不错！",
+        "今日も子分として頑張ってるわね。いい子いい子！",
+        "Ah what a fantastic job you've done today, slave. Bravo! Bravo!"
+      ],
+      "commission": [
+        "手下，委托好像完成了……一起去？好吧，真拿你没办法呢",
+        "委託が完了したようね……一緒に出迎えるの？ふん、しょうがないわね",
+        "Slave, the commission's complete... You want to go with me? Oh all right. I can't say no to that face."
+      ],
+      "strengthening": [
+        "真是懂事的手下~",
+        "物分りのいい子分ね♪",
+        "What a well-behaved slave you are~"
+      ],
+      "startingMission": [
+        "只有我才能欺负手下！",
+        "子分をいじめられるのはわたしだけよ！",
+        "I'm the only one allowed to bully this slave!"
+      ],
+      "mvp": [
+        "哼，想欺负我的手下，你们还早了一百年呢！",
+        "ふふふ、子分をいじめるなんて百年早いわよ",
+        "Hmph. You insects have no right to bully my slave!"
+      ],
+      "defeat": [
+        "啧…手下，不要误会了，这、这是让他们的！",
+        "ちっ…誤解するんじゃないわ。わざと負けてやったのよ！",
+        "Hmph... You better not misunderstand, slave! I let them win!"
+      ],
+      "skillActivation": [
+        "不许伤害我的手下！",
+        "子分を傷つけさせないわ！",
+        "How dare you harm my slave!"
+      ],
+      "lowHP": [
+        "呵呵呵，有点兴奋呢……！",
+        "ふふふ、盛り上がってきた…！",
+        "Heheheh... how stimulating....!"
+      ],
+      "affinityDisappointed": [
+        "看起来，是我以前对你太宽容了呢……",
+        "甘やかし過ぎたようね…ふふふふ",
+        "It seems I've been too lenient with you..."
+      ],
+      "affinityStranger": [
+        "哼哼，感到骄傲吧，从第一眼看到你，我就知道你必定会成为我的手下的！",
+        "うふふ、誇りに思うがいいわ。私、ひと目であなたが子分になるってわかったの",
+        "Haha, aren't we proud! From the moment I saw you, I knew you would be my slave!"
+      ],
+      "affinityFriendly": [
+        "区区手下，想不到居然还挺受欢迎的…唔唔…这股焦急的感觉是怎么回事……",
+        "子分のくせに愛されてるのね…ぐぅ…なにこの胸騒ぎ……",
+        "You're rather popular for a mere slave, aren't you? Hrrmm... what's this anxious feeling I have...?"
+      ],
+      "affinityLike": [
+        "唔唔唔，明明那是我的手下，那些讨厌的女人却围着他转个不停……明明是我的手下……明明只是我的手下……",
+        "ぐぬぬ…私の子分のくせに、あの子たちにいつもいつも囲まれて……私の子分よ……私の子分なのに……",
+        "Hrmmm... he's my slave, but those women won't stop throwing themselves at him... even though he's my slave... and clearly mine alone....."
+      ],
+      "affinityLove": [
+        "手下，以后有什么问题就都拜托我吧，我什么都会帮你解决的……所以，不要去拜托别人，不要去和别的人说话，只做我的手下，好不好？",
+        "あなた、なんでも私に任せなさい。私がなんでもしてあげるから、だからもう二度とほかの子に頼んだり、ほかの子と喋ったりしちゃダメよ。あなたは私の子分だからね。わかった？",
+        "Slave, you know you can always come to me if there's anything wrong. I'll gladly help you ....so don't go to anyone else. Don't talk to anyone else. Just be my slave, okay?"
+      ],
+      "pledge": [
+        "这样也就意味着，手下你把一切都交给了我，而我也把我的一切都交给了手下你，对吧？…呵呵……呵呵呵呵呵…手下……我从来都不知道，原来得到你是这么高兴的事呢…啊哈哈哈哈哈哈",
+        "これってつまり…あなたがすべてを赤城に預けて、赤城もすべてをあなたに預けた、ということね？ふふ、ふふふふふふふふ……子分を手に入れるのはこんなに楽しいことなんて知らなかったわ…ふははははは",
+        "This means you totally belong to me, and I shall give everything to you, right? Aha... hahahahaha! ...Slave.... I never would have imagined that owning you would make me so happy... Ahahahahahaaaa!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Valentine's chocolate? Well, even though you got some from other girls, it's... it's okay... it doesn't m... Waaaahhhh! It matters! That's bad! You're a bad slave! You can't accept chocolate from anyone else! You can only have mine! That's an order! You hear me? An order...!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Akagi-chan_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Akagi-chan_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Akagi-chan_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Akagi-chan_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Akagi-chan_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Akagi-chan_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Akagi-chan_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Akagi-chan_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Akagi-chan_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Akagi-chan_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Akagi-chan_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Akagi-chan_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Akagi-chan_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Akagi-chan_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Akagi-chan_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Akagi-chan_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Akagi-chan_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Akagi-chan_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Akagi-chan_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Akagi-chan_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Akagi-chan_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Akagi-chan_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Akagi-chan_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Akagi-chan_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi-chan_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi-chan_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi-chan_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Akagi-chan_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Akagi-chan_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Akagi-chan_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Akagi-chan_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Akagi-chan_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Akagi-chan_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Akagi-chan_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Akagi-chan_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Akagi-chan_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Akagi-chan_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Akagi-chan_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Akagi-chan_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Akagi-chan_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Akagi-chan_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Akagi-chan_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Akagi-chan_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Akagi-chan_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Akagi-chan_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Akagi-chan_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Akagi-chan_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Akagi-chan_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Akagi-chan_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Akagi-chan_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Akagi-chan_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Akagi-chan_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Akagi-chan_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Akagi-chan_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Akagi-chan_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Akagi-chan_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Akagi-chan_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Akagi-chan_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Akagi-chan_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Akagi-chan_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Akagi-chan_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Akagi-chan_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Akagi-chan_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Akagi-chan_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Akagi-chan_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Akagi-chan_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi-chan_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi-chan_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Akagi-chan_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Akagi-chan_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Akagi-chan_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Akagi-chan_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Akagi-chan_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Akagi-chan_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Akagi-chan_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Akagi-chan_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Akagi-chan_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Akagi-chan_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

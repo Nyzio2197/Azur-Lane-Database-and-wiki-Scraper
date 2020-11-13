@@ -1,0 +1,453 @@
+{
+  "name": "Bulldog",
+  "constructionTime": "00:20:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Normal",
+  "shipClass": "A and B",
+  "ID": "087",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "林大B",
+  "pixiv": "https://www.pixiv.net/member.php?id=1245646",
+  "twitter": "https://twitter.com/lin_da_Bi",
+  "link": "https://weibo.com/312444618",
+  "voiceActor": "https://en.wikipedia.org/wiki/Eri_Suzuki",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1349,
+      190,
+      65,
+      65,
+      354,
+      209,
+      42,
+      150,
+      0,
+      7,
+      175,
+      197,
+      0,
+      0
+    ],
+    "Level 100": [
+      1124,
+      165,
+      65,
+      57,
+      315,
+      203,
+      42,
+      130,
+      0,
+      7,
+      167,
+      177,
+      0,
+      0
+    ],
+    "Base Stats": [
+      218,
+      70,
+      65,
+      12,
+      67,
+      78,
+      42,
+      28,
+      0,
+      1,
+      64,
+      48,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 2,
+  "maxLimitBreakTechPoints": 4,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 3,
+  "enhancementValue": [
+    4,
+    22,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill1Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-B級",
+  "skill2Description": "Every 15 (10) times the main gun is fired, trigger Full Barrage - B-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/07/Bulldog.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/73/BulldogChibi.png",
+      "shipDescription": [
+        "B级驱逐舰—大斗犬，舷号H91",
+        "B級駆逐艦・ブルドッグ（H91)",
+        "B-class destroyer ー Bulldog, Hull Number H91!"
+      ],
+      "selfIntroduction": [
+        "虽然我大斗犬只是B级中的幺妹，不过缴获密码机和密码本，击沉潜艇，签订投降协议，这些都是我立下过的功劳，指挥官如果不是笨蛋的话，应该能够理解其中价值",
+        "ブルドッグはB級の末っ子です。暗号通信機と暗号書の鹵獲、降伏協定の調印などの実績があります。指揮官がバカさんでなければ価値がわかるはずです。",
+        "I, Bulldog, am the youngest of the B class. My accomplishments were the acquisition of encoded transmission machines, codebooks, and the witnessing of the signing of the surrender treaty. If you are not an idiot, Commander, you should know the worth of such accomplishments."
+      ],
+      "acquisition": [
+        "你好，我是B级驱逐舰大斗犬……成熟的大人是不会靠外表来判断一个人的内在的，我希望指挥官是这样的人，请多指教",
+        "こんにちは。B級駆逐艦のブルドッグです。……大人なんですから外見で人を判断しないでくださいね。指揮官がそのような大人でない事を期待しています。よろしくお願いします",
+        "Good day. I'm B class' Bulldog. ...I'm an adult so please do not judge me by my looks. I hope you aren't an adult who does that, Commander. I'll be in your care."
+      ],
+      "login": [
+        "我认为指挥官应该心系舰队早点回来才对",
+        "指揮官は艦隊のことを考えて早く帰ってくるものだと思いますが",
+        "I was thinking you'd be back soon since you think about the fleet..."
+      ],
+      "details": [
+        "被指挥官重视虽然很高兴，不过请不要对我有奇怪的期待，嗯，奇怪的",
+        "指揮官が大切にしてくれるのは嬉しいのですが、ヘンな期待をしないでください。うん、ヘンな",
+        "I'm happy that I'm so treasured by you, Commander, but please don't have any weird expectations. Yes, weird expectations."
+      ],
+      "secretaryIdle1": [
+        "指挥官是笨蛋吗？",
+        "指揮官はバカですか？",
+        "Are you an idiot, Commander?"
+      ],
+      "secretaryIdle2": [
+        "我最擅长的事就是对付潜艇了",
+        "一番得意なのは潜水艦退治です",
+        "The best thing I can do is submarine subjugation"
+      ],
+      "secretaryIdle3": [
+        "指挥官，你的手要是停在我的头上超过3秒钟我就咬你了",
+        "指揮官？わたしの頭に手を3秒以上乗せると噛みますよ？",
+        "Commander, if your hand is on my head for more than 3 seconds, I'll bite down on it, you hear?"
+      ],
+      "secretaryTouch": [
+        "我在，有什么事吗？是指挥官私人的事情的话请容我拒绝",
+        "なんですか？指揮官の個人的な用ならお断りします",
+        "What is it? If it's your personal needs, Commander, I'll have to refuse."
+      ],
+      "secretarySpecialTouch": [
+        "小B，小X，瞄准指挥官——",
+        "Bちゃん、Xちゃん、指揮官を狙ってーー",
+        "Lil' B! Lil' X! Target the Commander!"
+      ],
+      "task": [
+        "指挥官，连任务都要秘书提醒去完成是会变成废柴的",
+        "任務完了でも秘書艦が注意しなければならなくなると、本当に馬鹿になりますよ",
+        "If you need the secretary to even notice the progress of your missions, then you are truly an idiot."
+      ],
+      "taskComplete": [
+        "指挥官已经懒到奖励都不愿意去领了吗……",
+        "報酬も取りに行かなくなるぐらい怠けているんですか？",
+        "Are you so lazy that you don't even want to collect the rewards?"
+      ],
+      "mail": [
+        "指挥官，就算社交能力低下，至少也要好好读别人给你的信件哦",
+        "「こみゅ力」が低くても、人のメールはちゃんと読んで下さい",
+        "You are low on [communication power] but please, read your mails properly"
+      ],
+      "returnFromMission": [
+        "指挥官，就算你用期待的眼光看着我也是不会长出点心来的",
+        "指揮官、そんな期待の篭った目で見られてもお菓子はあげませんよ？指揮官は大人なんでしょう?",
+        "Commander, looking at me with eyes full of expectations will not cause me to give you candies, you know? You're an adult as well, aren't you?"
+      ],
+      "commission": [
+        "指挥官，你是不是忘了自己多久以前派出的委托？",
+        "指揮官、いつ委託に出したのかも忘れたのですか？",
+        "Commander, have you forgotten when you took the commissions?"
+      ],
+      "strengthening": [
+        "指挥官果然对我有奇怪的期待吧？",
+        "やっぱり指揮官はわたしにヘンな期待を持っていますね？",
+        "You do have strange expectations of me, don't you Commander?"
+      ],
+      "startingMission": [
+        "指挥官，指挥的时候不要走神",
+        "指揮官、戦闘中です。集中してください",
+        "Commander, we're fighting. Please concentrate."
+      ],
+      "mvp": [
+        "这是理所当然的事，请不要把我当小孩子摸我头",
+        "当たり前のことです。子供扱いして頭をさわらないでください。",
+        "This was a given. Please don't touch my head like I'm a child."
+      ],
+      "defeat": [
+        "有胜利就会有失败，没什么大不了的……啧……",
+        "勝つ時も負ける時もあります、別に大したことじゃありません。……チッ……",
+        "Sometimes we win, sometimes we lose. It's not such a big deal. ... Tsk..."
+      ],
+      "skillActivation": [
+        "小B，小X，拜托你们了",
+        "Bちゃん、Xちゃん、お願いしますね",
+        "Lil B, Lil X, I'm counting on you"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "………………嗯？",
+        "………………うん？",
+        "... ... Yes...?"
+      ],
+      "affinityStranger": [
+        "舰队？唔……还算不上喜欢，不过并不讨厌",
+        "この艦隊ですか？むっ……好きじゃないけど、嫌いじゃない、です。",
+        "The fleet? Hmm... I can't say that I like it, but I don't hate it either..."
+      ],
+      "affinityFriendly": [
+        "单装炮原本是有4个的呢，为了反潜小A和小Y光荣退役了，现在只有小B和小X陪着我……寂寞……还是有一点的",
+        "単装砲ちゃん、元々は4体ありました。AちゃんとYちゃんが対潜強化のため退役して、今はBちゃんとXちゃんだけ……ちょっとだけ……寂しいです",
+        "There used to be 4 Single Barrels. Lil' A and Lil Y were retired because of submarine fighting, so now I'm left with Lil' B and Lil' X... I feel... a little bit lonely"
+      ],
+      "affinityLike": [
+        "虽然不是自夸，不过对于不把感情表露在脸上我是很拿手的，指挥官不讨厌这样的吗？……原来如此，指挥官果然是变态呢（捶手）",
+        "自慢じゃありませんが、感情を顔に出さないことが得意です。指揮官はこんな無表情な子が嫌いではないというのですか？……なるほど、指揮官はヘンタイさんですね",
+        "I don't mean to boast, but I'm good at concealing my emotions. Are you saying you don't dislike emotionless girls? ...I see. You are a pervert, Commander."
+      ],
+      "affinityLove": [
+        "指挥官虽然既是笨蛋又是变态，不过我从来也没有说过我讨厌这样的人哦？不过居然让比自己小的女孩子主动说这种话，指挥官果然既是笨蛋又是变态",
+        "指揮官は馬鹿で変態さんですけど、ブルドッグはそういう人が嫌いだなんて言ったことありませんよ？…でも自分より小さい女の子にこんなことを言わせるなんて、やっぱり馬鹿で変態さんですね",
+        "Commander, you are an idiot and a pervert, but I've never said that I hated people like them before, you know? ...But to make someone smaller than you say such things, you are truly a dumb pervert."
+      ],
+      "pledge": [
+        "指挥官，准备好要出门了吗……你在怕什么呢，难道以为是要去警察局自首吗？哈……真是靠不住的大人，这种时候应该有更重要的地方要去吧？",
+        "指揮官、お出かけの用意はいいですか？……何を心配しているんですか？ケイサツに行くとでも思いました？頼りない大人ですね、はぁ……もっと大事な届出があるでしょう？",
+        "Commander, are you getting ready to head outside? ... What are you worried about? You think we're heading to the police station? What an undependable adult. Hah... There's a more important place to go, isn't there?"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "小さい女の子にバレンタインにチョコを渡されたいって、指揮官はやっぱりヘンタイさんですね。でも渡してあげます。はい。あとで食べてくださいね。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官真可怜，只能从小小的女孩子那里收到巧克力，真没办法，那我给你送吧。你可别误会，我是有在感谢你的。",
+        "こんな小さい女の子からしかチョコをもらえない指揮官がかわいそうなので、仕方なくプレゼントします。勘違いしないでくださいね、感謝はしていますから",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "After all that effort spent making this chocolate, it seems you won't get to eat it until you crack the code of the box I put it in... Please, don't start trying just yet, Commander. It'll be the end of your social life if anyone sees you eating chocolate you got from a girl as young as me."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Bulldog_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Bulldog_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Bulldog_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Bulldog_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Bulldog_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Bulldog_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Bulldog_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Bulldog_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Bulldog_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Bulldog_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Bulldog_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Bulldog_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Bulldog_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Bulldog_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Bulldog_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Bulldog_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Bulldog_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Bulldog_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Bulldog_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Bulldog_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Bulldog_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Bulldog_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Bulldog_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Bulldog_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bulldog_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bulldog_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Bulldog_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Bulldog_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Bulldog_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Bulldog_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Bulldog_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Bulldog_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Bulldog_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Bulldog_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Bulldog_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Bulldog_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Bulldog_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Bulldog_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Bulldog_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Bulldog_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Bulldog_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Bulldog_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Bulldog_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Bulldog_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Bulldog_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Bulldog_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Bulldog_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Bulldog_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Bulldog_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Bulldog_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Bulldog_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Bulldog_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Bulldog_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Bulldog_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Bulldog_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Bulldog_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Bulldog_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Bulldog_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Bulldog_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Bulldog_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Bulldog_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Bulldog_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Bulldog_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Bulldog_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Bulldog_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Bulldog_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Bulldog_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Bulldog_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Bulldog_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Bulldog_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Bulldog_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Bulldog_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Bulldog_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Bulldog_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Bulldog_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

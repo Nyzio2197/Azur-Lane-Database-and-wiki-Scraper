@@ -1,0 +1,555 @@
+{
+  "name": "Graf Zeppelin",
+  "constructionTime": "04:35:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Graf Zeppelin",
+  "ID": "252",
+  "faction": "Iron Blood",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "木shiyo",
+  "pixiv": "https://www.pixiv.net/member.php?id=40222",
+  "twitter": "https://twitter.com/kishiyo1943",
+  "link": "https://weibo.com/u/2481339344",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ai_Kayano",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      7488,
+      115,
+      45,
+      0,
+      0,
+      50,
+      33,
+      319,
+      400,
+      13,
+      87,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6808,
+      100,
+      45,
+      0,
+      0,
+      36,
+      33,
+      281,
+      358,
+      13,
+      78,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1317,
+      42,
+      45,
+      0,
+      0,
+      14,
+      33,
+      60,
+      76,
+      4,
+      30,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "120% → 120%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "115% → 130%",
+  "slot3Equipment": "Dive Bombers",
+  "slot3Efficiency": "115% → 130%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +2",
+  "collectionTechPoints": 28,
+  "maxLimitBreakTechPoints": 56,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Anti-air  +1",
+  "level120TechPoints": 42,
+  "enhancementValue": [
+    0,
+    0,
+    63,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Fighters +1 / Dive Bomber Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 /",
+  "limitBreak3": "Number of Dive Bombers +1 / Dive Bomber Efficiency +7%",
+  "skill1Name": "Iron Blood Wings; CN: 铁血之翼 JP: 鉄血の翼",
+  "skill1Description": "Reduces damage received by all ships in the fleet by 5% (15%).",
+  "skill2Name": "Iron Blood Hawk; CN: 铁血之鹰 JP: 鉄血の鷹",
+  "skill2Description": "German aircraft in use (, , , etc.) will receive an additional 15% (30%) Efficiency.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a4/Graf_Zeppelin.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png",
+      "shipDescription": [
+        "齐柏林伯爵号航空母舰",
+        "航空母艦グラーフ・ツェッペリン",
+        "Aircraft carrier, Graf Zeppelin."
+      ],
+      "selfIntroduction": [
+        "我是齐柏林……虽然这个名字不要也罢，为了方便称呼还是这么叫我吧。——我的愿望？毁灭世界吧……不会请求你的帮助的哦？因为……你早就是其中一部分了",
+        "我はツェッペリン……この名は捨てても構わぬが、呼びやすいようなら我をこう呼びたまえ。ーー願望、か。世界を滅ぼすことだ……だが今は、卿の呼びかけには応えよう。卿はもう我が総軍の一部になっているからな",
+        "I am Graf Zeppelin. Though this name is worth little, you may call me by it if you wish. My only desire? To end the world. I shall not ask for your help though... as you are already a part of my plans."
+      ],
+      "acquisition": [
+        "指挥官吗……我是齐柏林。既然所有的必要条件已经凑齐，那就开幕吧……终焉的乐章",
+        "指揮官か……我が名はツェッペリン。さぁ条件が全て揃った。では開幕するとしよう……終焉のシンフォニーを",
+        "You're my Commander? I am Graf Zeppelin. Since it appears that all the conditions have been met, let the final movement begin."
+      ],
+      "login": [
+        "黑山羊的号角已然奏响，无需焦躁，安心等待吧……",
+        "黒山羊の角笛がすでに鳴り響いている。焦ることはない。心して待つが良い",
+        "The black goat's horn has already sounded. Quell your anxiety and wait at ease."
+      ],
+      "details": [
+        "如果世上存在神，那就从它开始杀起吧……",
+        "もし神が居るなら、そいつから葬るとしよう……",
+        "If gods truly exist in this world, let us begin our slaughter with them."
+      ],
+      "secretaryIdle1": [
+        "我喜欢坐在高处，在高处我可以看到一切，一切的毁灭……",
+        "高い所は好きだ。すべてを見渡し、すべての破滅も眼中に納められるからな……",
+        "I prefer the high ground, because I can see everything... everything that shall be destroyed..."
+      ],
+      "secretaryIdle2": [
+        "失去了又会回来的东西……那种东西不如一开始就不存在，不是吗？",
+        "失っても取り戻せるもの……最初から存在すべきではない。そう思わんか？",
+        "Easy come, easy go... Aren't things like that better off not existing in the first place?"
+      ],
+      "secretaryIdle3": [
+        "人生就是用配好的牌来玩一局游戏，不觉得很想把整个牌桌给毁掉吗？",
+        "人生は所詮配られたカードでゲームするだけというなら、いっそゲームそのものを壊す気にはならないか？",
+        "Life is akin to playing cards with a stacked deck. Doesn't it make you want to smash the entire table?"
+      ],
+      "secretaryTouch": [
+        "我憎恨着一切",
+        "憎んでいる。すべてを。",
+        "I despise everything."
+      ],
+      "secretarySpecialTouch": [
+        "不愧是我选中的人……好大的胆子",
+        "ふふふ…さすがは我が選んだ者……いい豪胆っぷりだ",
+        "Quite brave, aren't you? As expected of the one I chose."
+      ],
+      "task": [
+        "发布任务的人真的是你想要为之奋斗的人吗？",
+        "任務を与えてくれる者が、果たして卿が真に努力を捧げたい存在だろうか？",
+        "Is the person who gave you this mission really who you want to fight for?"
+      ],
+      "taskComplete": [
+        "任务奖励……拿去吧",
+        "任務の報酬……受け取り給え。",
+        "Rewards... take them away."
+      ],
+      "mail": [
+        "珍惜和他人交流的时光吧，马上就要没有了",
+        "人と接する時間を大切にするがいい。もうすぐそれもなくなる",
+        "Treasure the time you have to speak with your loved ones, for that time is about to draw to an end."
+      ],
+      "returnFromMission": [
+        "你的战斗，你的挣扎，都将化作终焉的食粮……",
+        "卿らの争いも、あがきも、全て終焉の糧とならん…",
+        "All your fights, all your struggles, are nothing more than fodder for the End."
+      ],
+      "commission": [
+        "她们回来了……呵，在港口一脸兴高采烈的样子……",
+        "戻ったか……ふん、港で喜んでいるようだ……",
+        "Ah, so they have returned... Just seeing those faces filled with joy..."
+      ],
+      "strengthening": [
+        "呵，如果仅凭力量高低就能决定一切就好了……",
+        "ふん、力だけですべてが決まればいいものを……",
+        "Ah, if only strength alone was enough to determine everything."
+      ],
+      "startingMission": [
+        "那就开始吧——开始我们的战（破）争（坏）",
+        "では始めよう――我らの破壊を",
+        "Let us begin our symphony of destruction."
+      ],
+      "mvp": [
+        "对敌人来说没有什么地方比坟墓更好了",
+        "敵にふさわしい場所は墓以外あらぬ",
+        "My enemies belong in their graves."
+      ],
+      "defeat": [
+        "下次一定会让你们体会到…比死还要深沉的绝望…",
+        "次こそ死よりも深い絶望を味わってもらうとしよう…",
+        "Next time, I shall grant you despair even worse than death."
+      ],
+      "skillActivation": [
+        "结束吧……Funebre！",
+        "終わりだ……Funebre！",
+        "Die... Funebre!"
+      ],
+      "lowHP": [
+        "铁与血的味道……",
+        "鉄と、血の匂い……",
+        "The smell of steel and blood..."
+      ],
+      "affinityDisappointed": [
+        "不是你吗……",
+        "卿ではないか",
+        "You again...?"
+      ],
+      "affinityStranger": [
+        "啊啊…多么甜蜜…甜蜜的事情总是不会太长久的，能经久不衰的，只有冰冷的憎恶",
+        "ああ…なんて甘美な…だが甘美なものは生き長らえぬ…永遠に生き続けるのはただただ冷たい憎悪だけだ",
+        "Ahh, so sweet. Sweet things cannot last for long. The only thing that endures forever is ice-cold hatred."
+      ],
+      "affinityFriendly": [
+        "向神明祈祷真的有用吗？主真的会有所回应吗？Nein，神之所以为神，就是因为没有仁慈",
+        "神への祈りは果たして意味があるか？神が応えてくれるか？Nein、神は慈悲がないからこそ神になりえるのだ",
+        "Does prayer really work? Will God ever respond? Nein. Gods are called as such because they are merciless."
+      ],
+      "affinityLike": [
+        "我从不相信所谓命运，但如果和你的相遇也是命中注定的话……哼，多么讽刺啊，它给了我最坏的过去，却又带来了最好的未来……那我的恨又有什么意义呢……",
+        "運命を信じないつもりだが、卿との出会いが運命というのなら……ふん、皮肉なものだ。最悪の過去と最善の未来を同時に与えてくれるとは……なら我の憎悪は果たしてどんな意味を成すのだろうか……",
+        "I have never been one to believe in fate, but if meeting you was also predestined... Hmm... How ironic. For the gods to have given me the worst past but also the best future... what purpose does my hatred then serve?"
+      ],
+      "affinityLove": [
+        "有你在的话，这世界似乎也不是那么无趣而令人憎恶了。安心吧，假如你与全世界为敌，我会非常高兴地站到你这边的，不如说我很期待这一天的到来呢……呵呵",
+        "卿がいる世界なら、そうつまらなくて憎いものではなかろう。安心したまえ。卿が世界の敵になろうとも、我が卿の側に立つのだ。むしろ、その日が来るのを楽しみにしているぞ……ふふふ",
+        "As long as you are here, the world does not feel so insipid and detestable. Rest easy; even if the world was to become your enemy, I would happily fight by your side. As a matter of fact, I eagerly await this day."
+      ],
+      "pledge": [
+        "哦？你终于下定决心与全世界为敌了吗——什么…只是想与我并肩同行吗？哼，也罢，把挡在前方的一切全部消灭殆尽，倒也不错",
+        "ふん？卿はついに世界の敵になると決心が付いたのかーーなに…？我とともに行きたいだけ、か。まあいい、我々の前に立ち塞がるすべての存在を討ち滅ぼす。それも一興だ",
+        "Oh? Have you finally decided to make the entire world your enemy? What? You just want to be with me? Hmph, very well. Eradicating everything that stands in our way doesn't sound bad either."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "人間の下らぬ風習だが、贈り物で気持ちを伝える――余興にしては悪くなかろう。ほかならぬ我から卿への贈り物だ。受け取ってくれ。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "世界の全てを憎む我からの贈り物がほしいという、卿の願望を無下にすることは出来ん。なに、この程度では過ぎた欲とは言うまい。我がくれてやった甘美をしばし味わうといい",
+        "Though this custom of expressing your \"feelings\" with gifts is utterly insipid, I suppose there is some entertainment to be derived. I prepared a unique gift for you, so do enjoy it."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "What you seek to do is neither destruction nor stagnations, but the creation of a peaceful future. As a part of your plans, I have no reason to deny you succor. Allow me to bear the weight of your responsibilities so that you may indulge yourself in the sweet illusion of happiness."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Graf_Zeppelin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Graf_Zeppelin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Graf_Zeppelin_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Graf_Zeppelin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Graf_Zeppelin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Graf_Zeppelin_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Graf_Zeppelin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Graf_Zeppelin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Graf_Zeppelin_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Graf_Zeppelin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Graf_Zeppelin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Graf_Zeppelin_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Graf_Zeppelin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Graf_Zeppelin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Graf_Zeppelin_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Graf_Zeppelin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Graf_Zeppelin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Graf_Zeppelin_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Graf_Zeppelin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Graf_Zeppelin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Graf_Zeppelin_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Graf_Zeppelin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Graf_Zeppelin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Graf_Zeppelin_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Graf_Zeppelin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Graf_Zeppelin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Graf_Zeppelin_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Graf_Zeppelin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Graf_Zeppelin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Graf_Zeppelin_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Graf_Zeppelin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Graf_Zeppelin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Graf_Zeppelin_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Graf_Zeppelin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Graf_Zeppelin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Graf_Zeppelin_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Graf_Zeppelin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Graf_Zeppelin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Graf_Zeppelin_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Graf_Zeppelin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Graf_Zeppelin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Graf_Zeppelin_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Graf_Zeppelin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Graf_Zeppelin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Graf_Zeppelin_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Graf_Zeppelin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Graf_Zeppelin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Graf_Zeppelin_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Graf_Zeppelin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Graf_Zeppelin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Graf_Zeppelin_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Graf_Zeppelin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Graf_Zeppelin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Graf_Zeppelin_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Graf_Zeppelin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Graf_Zeppelin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Graf_Zeppelin_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Graf_Zeppelin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Graf_Zeppelin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Graf_Zeppelin_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Graf_Zeppelin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Graf_Zeppelin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Graf_Zeppelin_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Graf_Zeppelin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Graf_Zeppelin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Graf_Zeppelin_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Graf_Zeppelin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Graf_Zeppelin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Graf_Zeppelin_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Graf_Zeppelin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Graf_Zeppelin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Graf_Zeppelin_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Graf_Zeppelin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Graf_Zeppelin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Graf_Zeppelin_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Graf_Zeppelin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Graf_Zeppelin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Graf_Zeppelin_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Beachside Urd",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "沙滩上的乌尔德",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "砂浜のウルズ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/56/Graf_ZeppelinSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/29/Graf_ZeppelinSummerChibi.png",
+      "shipDescription": [
+        "第二乐章，夏与海的慢板(lento)吗……也罢，既然终焉必将来临，在那之前，姑且就与你一起享受这片刻的安宁吧",
+        "第二の楽章は夏と海のロンドか……まあ良い。来たるべく終焉の前に、卿とともにしばし安寧を享受するのもよかろう",
+        "So the Second Movement is a Lento of the summer and the sea? So be it... Since we will arrive at the Finale eventually, I suppose I can enjoy this moment of fleeting peace with you."
+      ],
+      "acquisition": [
+        "第二乐章，夏与海的慢板(lento)吗……也罢，既然终焉必将来临，在那之前，姑且就与你一起享受这片刻的安宁吧",
+        "第二の楽章は夏と海のロンドか……まあ良い。来たるべく終焉の前に、卿とともにしばし安寧を享受するのもよかろう",
+        "So the Second Movement is a Lento of the summer and the sea? So be it... Since we will arrive at the Finale eventually, I suppose I can enjoy this moment of fleeting peace with you."
+      ],
+      "login": [
+        "不是说好一起去沙滩吗？你去哪了",
+        "どこへ行っていた？ともに砂浜へ行くと約束したろう？",
+        "Didn't we agree to go to the beach? Where were you?"
+      ],
+      "details": [
+        "话说回来，夏季除了穿上这身布料节省的衣服以外，还应该做些什么？",
+        "話が変わるが、夏にはこの布の少ない服に着替えること以外に、一体何をすれば良いのだろうか？",
+        "Now that I think about it, other than forcing me to wear this skimpy bit of fabric, what else is this summer season even for?"
+      ],
+      "secretaryIdle1": [
+        "沙滩上有什么很高的可以坐的地方吗？……没有吗…好吧",
+        "海辺に我が座れる場所はあるのか？……ないのか……そうか",
+        "Is there a nice vantage point on the beach to sit at? ...There isn't? Oh well..."
+      ],
+      "secretaryIdle2": [
+        "这件衣服是你说了我才会穿上的，要是你不和我去沙滩，我会……比较生气",
+        "卿の希望ゆえ着替えてやったのだ。卿が海に行かないとなれば、我は……怒るだろうな",
+        "I only wore this... \"clothing\" because you told me to. If you didn't come to the beach with me, I'd be... rather upset."
+      ],
+      "secretaryIdle3": [
+        "欧根，不要催我，指挥官还在工作，我一个人在沙滩又有什么意思呢…",
+        "オイゲン、急かすのでない。指揮官がまだ執務中だ。我だけ海に行っても成すことはなかろう",
+        "Eugen, don't rush me, the commander is still working. What am I going to do on the beach by myself..."
+      ],
+      "secretaryTouch": [
+        "要出发了吗？等一下，鞋子有点难穿……来帮我一下",
+        "出発か？…待て、この靴はいささか履きづらい……少し手助けを頼めぬか…",
+        "Is it time to depart? Wait a moment, these shoes are a bit hard to put on... Come help me out for a second..."
+      ],
+      "secretarySpecialTouch": [
+        "哼，你也想成为这孩子的食粮吗，指挥官？",
+        "ふん、卿はこの子の肴にでもなりたいのか？",
+        "Hmph... Commander, do you also wish to become food for this child here?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Graf_Zeppelin_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Graf_Zeppelin_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Graf_Zeppelin_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Graf_Zeppelin_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Graf_Zeppelin_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Graf_Zeppelin_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Graf_Zeppelin_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Graf_Zeppelin_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Graf_Zeppelin_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Graf_Zeppelin_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Graf_Zeppelin_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Graf_Zeppelin_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Graf_Zeppelin_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Graf_Zeppelin_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Graf_Zeppelin_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Graf_Zeppelin_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Graf_Zeppelin_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Graf_Zeppelin_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Graf_Zeppelin_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Graf_Zeppelin_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Graf_Zeppelin_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Graf_Zeppelin_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Graf_Zeppelin_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Graf_Zeppelin_Sec2Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

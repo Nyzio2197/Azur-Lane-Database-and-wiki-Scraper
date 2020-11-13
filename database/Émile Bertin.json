@@ -1,0 +1,966 @@
+{
+  "name": "Émile Bertin",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Emile Bertin",
+  "ID": "349",
+  "faction": "Iris Libre",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "大槍葦人",
+  "pixiv": "https://www.pixiv.net/member.php?id=13135",
+  "twitter": "https://twitter.com/oyariashito",
+  "link": "https://oyariashito.net/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/5/53/%C3%89mile_Bertin_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3185,
+      173,
+      67,
+      161,
+      273,
+      117,
+      34,
+      272,
+      0,
+      10,
+      170,
+      144,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3425,
+      178,
+      67,
+      191,
+      298,
+      117,
+      34,
+      327,
+      0,
+      10,
+      175,
+      144,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      3071,
+      155,
+      67,
+      170,
+      264,
+      78,
+      34,
+      293,
+      0,
+      10,
+      154,
+      128,
+      0,
+      0
+    ],
+    "Level 100": [
+      2831,
+      150,
+      67,
+      140,
+      239,
+      78,
+      34,
+      238,
+      0,
+      10,
+      149,
+      128,
+      0,
+      0
+    ],
+    "Base Stats": [
+      548,
+      64,
+      67,
+      30,
+      51,
+      30,
+      34,
+      51,
+      0,
+      3,
+      57,
+      35,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "130% → 140% → 145%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 155% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "90% → 100% → 115%",
+  "collectionStatBonus": "Light cruiser (CL) Torpedo  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 24,
+  "level120StatBonus": "Light cruiser (CL) Evasion  +1",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    12,
+    17,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Heart of Iris; CN: 爱丽丝之心 JP: アイリスの心",
+  "skill1Description": "During sortie, increases Firepower, Torpedo stat and Accuracy of (FFNF) and (MNF) destroyers by 5% (15%).",
+  "skill2Name": "Destroyer Squadron; CN: 驱逐编队 JP: 駆逐戦隊",
+  "skill2Description": "During sortie, if your Vanguard consists of only this ship and destroyers: increases this ship's Speed by 4 and increases the damage it deals to enemy destroyers and light cruisers by 5% (20%).",
+  "skill3Name": "(Retrofit) Messenger of Love; CN: 爱的使者 JP: ロマンチック・メッセージ",
+  "skill3Description": "When sortied with destroyers: increases own Firepower, Anti-Air, and Accuracy by 5% (15%). Once per battle, when a destroyer in the fleet falls below 50% Health: fires a barrage.",
+  "skill4Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-エミール・ベルタン",
+  "skill4Description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Emile Bertin Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "自由鸢尾轻巡洋舰—埃米尔·贝尔汀",
+        "軽巡洋艦エミール・ベルタン",
+        "Light cruiser – Émile Bertin."
+      ],
+      "selfIntroduction": [
+        "我是自由鸢尾的埃米尔·贝尔汀～过去主要负责布雷…以及驱逐们的向导工作。在大战中运送过黄金，也参与过龙骑兵行动和其他一些任务…姑且算是安稳度过了…吧？",
+        "自由アイリス教国所属、エミール・ベルタンよ～昔は機雷敷設と…駆逐艦の引率を頑張ったわ。あとは黄金の輸送と「ドラグーン」作戦、いくつかのほかの任務にも参加したけど、まあ無事にあの大戦を乗り越えた……かな？",
+        "I'm Émile Bertin of Iris Libre~ In days of old, I worked hard laying mines... and leading destroyers. I also transported gold, took part in Operation Dragoon, and participated in a few other missions, so you could say I got through the war unscathed... I suppose?"
+      ],
+      "acquisition": [
+        "Bonjour~我是来自自由鸢尾的埃米尔·贝尔汀，叫我埃米尔就好啦，希望能和大家好好相处呢～",
+        "Bonjour（ボンジュール）~自由アイリス教国所属、エミール・ベルタン、エミールって呼んでね～ここのみんなと仲良くやりたいわ～",
+        "Bonjour~ I'm Émile Bertin of Iris Libre. You can just call me Émile~ I want to make friends with everyone here~"
+      ],
+      "login": [
+        "Bonjour~指挥官，开始工作之前，来一起做下热身运动吧",
+        "Bonjour（ボンジュール）~指揮官、仕事の前に一緒にストレッチでもしましょ～",
+        "Bonjour~ Commander, before we get to work, I say we do some stretches~"
+      ],
+      "details": [
+        "舞蹈能给大家带来欢乐，所以我喜欢跳舞~",
+        "踊りはみんなを幸せに出来るから好きだわ♪",
+        "I love dancing because it brings joy to people♪"
+      ],
+      "secretaryIdle1": [
+        "黄金之国重樱！fantastique！有时间很想去看一看呢",
+        "黄金の国・重桜！fantastique！いつか見てみたいわ",
+        "The Land of Gold – the Sakura Empire! Fantastique! I do hope to see it one day!"
+      ],
+      "secretaryIdle2": [
+        "和在法兰西堡的那两年相比，能在青空下自由舞蹈的感觉真是太美妙了",
+        "フォール＝ド＝フランスのあの二年間と比べて…青空の下で自由に踊れるのは素晴らしいわね～",
+        "Compared to those 2 years at Fort-de-France... it's wonderful to be able to dance freely beneath the blue sky~"
+      ],
+      "secretaryIdle3": [
+        "指挥官，有什么需要我帮忙的吗？什~么都可以哦",
+        "指揮官、私に手伝えることはない？どーんなことでもいいわよ？",
+        "Commander, is there anything I can help you with? Whatever it is, I'd love to."
+      ],
+      "secretaryTouch": [
+        "指挥官，累了吗？那么，就来看我跳一支舞吧~",
+        "指揮官、疲れた？私の人を元気にする踊り、一曲見てくれないかしら？",
+        "Are you worn out, Commander? Shall I perform my energizing dance for you?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，邀舞的话要更加绅士一点~",
+        "指揮官、ダンスのお誘いなら、もっと紳士的にしないと～",
+        "Commander, if you're asking me for a dance, you need to do it more courteously~!"
+      ],
+      "task": [
+        "新的任务下达了吗？一鼓作气解决掉吧~",
+        "新しい任務が伝達された？一気に片付けちゃお♪",
+        "We've been relayed new missions? Then let's get them all done at once♪"
+      ],
+      "taskComplete": [
+        "哎呀，这不是任务完成的报告吗？指挥官，快确认一下",
+        "あら、これって任務完了のお知らせ？指揮官、早く確認してね",
+        "Oh, was that the commission complete notification? You should give it a look, Commander."
+      ],
+      "mail": [
+        "指挥官，有信件哦~",
+        "指揮官、メールよ～♪",
+        "Commander, here's your mail♪"
+      ],
+      "returnFromMission": [
+        "指挥官，养精蓄锐是很重要的，要好好休息哦",
+        "指揮官、疲れたら休んで英気を養うことよ。休憩はちゃんとってね",
+        "Commander, if you feel tired then some rest would do you good. Taking breaks is important."
+      ],
+      "commission": [
+        "指挥官，来看港口那边，好像是委托组的大家回来了呢",
+        "指揮官、港の方を見て？委託に出かけたみんなが戻ってきたわよ",
+        "Commander, look towards the harbor! The commission team has returned."
+      ],
+      "strengthening": [
+        "啊哈，感觉身体变得轻盈了一点~",
+        "ふふ、ステップが軽やかになったわ～",
+        "Ohoh, my steps feel lighter now~"
+      ],
+      "startingMission": [
+        "让我来为你们跳一支舞吧！",
+        "一曲踊っちゃうわ～",
+        "Allow me to have this dance~"
+      ],
+      "mvp": [
+        "谢幕鞠躬~感谢各位观众的欣赏~",
+        "Merci pour tout （メルスィー プール トゥー）～ 見てくれてありがとう♪",
+        "Merci pour tout~ Thank you for your time♪"
+      ],
+      "defeat": [
+        "哎呀……稍微有些走神了",
+        "あらら……少し気が抜けちゃったのかしら",
+        "Oh, dear... Perhaps I left my guard too low."
+      ],
+      "skillActivation": [
+        "起舞吧！",
+        "踊りましょう！",
+        "Let us dance!"
+      ],
+      "lowHP": [
+        "没有跟上战场的节奏呢……",
+        "戦場のペースに付いていけていないようね……",
+        "It seems I'm not in pace with the battlefield..."
+      ],
+      "affinityDisappointed": [
+        "从你的身上感受不到热情呢……",
+        "指揮官から情熱が感じられないわ……",
+        "I can't feel any passion coming from you, Commander..."
+      ],
+      "affinityStranger": [
+        "都说我们自由鸢尾的人浪漫，但是我觉得呢，我们只是愿意去在意生活中的细节而已哦",
+        "アイリスの人はロマンティックだとよく言われてるけど、私が思うにただ皆が細かいことにも気に配っているだけよ",
+        "I often hear people say that we of Iris Libre are romantics, but the way I see it, we simply focus on life's little details."
+      ],
+      "affinityFriendly": [
+        "只有细心留意，才能发掘生活中的美。而珍惜这些细小的美好，我觉得，就是浪漫的本质哦",
+        "細部に気を配ってこそ、日々の美しさを見いだせるわ。小さな美しさでも大切にするのが本物のロマンティスト――私はそう思うわ",
+        "Because we focus on the details, we can see the beauty of everyday things. I believe a true romanticist values even the smallest of life's beautiful things."
+      ],
+      "affinityLike": [
+        "啊，指挥官，浪漫呢，还要勇于去表达，就像我想跳舞时就会勇敢去跳，这是我对生活的热爱。我也——啾~就是这样~你呢？",
+        "踊りたい時に踊る、それはすなわち人生を大胆に愛する勇気――指揮官、ロマンティックというのは時折、こういう勇気のあるアピールも必要だと思うわ。こんな風に――（チュッ）はい、指揮官はどうかしら？",
+        "Dancing when one wants to – that is what's known as the courage to express one's love of life. Commander, I believe a romanticist must sometimes show courage and express their feelings in some way. Like this– *Kiss*... What do you believe, Commander?"
+      ],
+      "affinityLove": [
+        "昨天真是美妙呢。今天会发生什么呢？明天也令人充满期待呢！每一天，我都在想着这些。每一天，都变得更喜欢你了！",
+        "美しく輝く昨日、期待に心踊る今日（こんにち）、希望に溢れる明日！毎日素晴らしい日！月日が流れる毎、あなたのことをもっと好きになれるわ！",
+        "The gorgeous radiance of yesterday, the heart-throbbing excitement of today, the overflowing hopes of tomorrow! Every day is so wonderful! Each passing day, my love for you grows even stronger!"
+      ],
+      "pledge": [
+        "在这么幸福的时刻，只有热情的吻和舞蹈能够抒发我心中的情感了呢……指挥官，你不会拒绝的吧～？",
+        "この幸せな瞬間、私の気持ちを表現する踊りと情熱的なくちづけ……指揮官、お相手してくださるかしら？",
+        "I want to express my feelings in this joyous moment through a dance and a kiss... Commander, could you indulge me?"
+      ],
+      "giftDescriptionValentines2019": [
+        "情人节真是个浪漫气氛满溢的节日～到处都弥漫着甜蜜的气氛呢！指挥官，这是情人节的巧克力哟～一边吃着巧克力一边享受这甜蜜的气氛吧！",
+        "まあ！バレンタインはロマンの溢れる日、どこにいようと甘い空気に包まれそうね！指揮官、バレンタインのチョコレートだわ！食べながらこの甘い雰囲気を一緒に楽しんでね！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "The sweet aroma of happiness surrounds the Port... fantastique! Commander, what do you think? Can you smell the aroma of the chocolate I made for you? Hehe~♪"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/%C3%89mile_Bertin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/%C3%89mile_Bertin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/%C3%89mile_Bertin_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/%C3%89mile_Bertin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/%C3%89mile_Bertin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/%C3%89mile_Bertin_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/%C3%89mile_Bertin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/%C3%89mile_Bertin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/%C3%89mile_Bertin_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/%C3%89mile_Bertin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/%C3%89mile_Bertin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/%C3%89mile_Bertin_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/%C3%89mile_Bertin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/%C3%89mile_Bertin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/%C3%89mile_Bertin_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/%C3%89mile_Bertin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/%C3%89mile_Bertin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/%C3%89mile_Bertin_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/%C3%89mile_Bertin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/%C3%89mile_Bertin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/%C3%89mile_Bertin_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/%C3%89mile_Bertin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/%C3%89mile_Bertin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/%C3%89mile_Bertin_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/%C3%89mile_Bertin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/%C3%89mile_Bertin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/%C3%89mile_Bertin_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/%C3%89mile_Bertin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/%C3%89mile_Bertin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/%C3%89mile_Bertin_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/%C3%89mile_Bertin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/%C3%89mile_Bertin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/%C3%89mile_Bertin_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/%C3%89mile_Bertin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/%C3%89mile_Bertin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/%C3%89mile_Bertin_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/%C3%89mile_Bertin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/%C3%89mile_Bertin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/%C3%89mile_Bertin_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/%C3%89mile_Bertin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/%C3%89mile_Bertin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/%C3%89mile_Bertin_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/%C3%89mile_Bertin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/%C3%89mile_Bertin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/%C3%89mile_Bertin_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/%C3%89mile_Bertin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/%C3%89mile_Bertin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/%C3%89mile_Bertin_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/%C3%89mile_Bertin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/%C3%89mile_Bertin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/%C3%89mile_Bertin_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/%C3%89mile_Bertin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/%C3%89mile_Bertin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/%C3%89mile_Bertin_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/%C3%89mile_Bertin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/%C3%89mile_Bertin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/%C3%89mile_Bertin_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/%C3%89mile_Bertin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/%C3%89mile_Bertin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/%C3%89mile_Bertin_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/%C3%89mile_Bertin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/%C3%89mile_Bertin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/%C3%89mile_Bertin_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/%C3%89mile_Bertin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/%C3%89mile_Bertin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/%C3%89mile_Bertin_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/%C3%89mile_Bertin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/%C3%89mile_Bertin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/%C3%89mile_Bertin_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/%C3%89mile_Bertin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/%C3%89mile_Bertin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/%C3%89mile_Bertin_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/%C3%89mile_Bertin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/%C3%89mile_Bertin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/%C3%89mile_Bertin_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/%C3%89mile_Bertin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/%C3%89mile_Bertin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/%C3%89mile_Bertin_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "shipDescription": [
+        "埃米尔·贝尔汀，改造完毕。感觉整个人焕然一新了呢。作为感谢，指挥官，让我现在为你跳一支新的舞蹈吧！",
+        "エミール・ベルタン、改造終了よ～うふふ、なんだかスッキリした気持ちになるわね♪感謝の印として、指揮官のために一曲踊っちゃってもいい？",
+        "Émile Bertin, retrofit complete! I feel like a completely new person! To show my gratitude, Commander, I'll perform a brand new dance for you!"
+      ],
+      "acquisition": [
+        "埃米尔·贝尔汀，改造完毕。感觉整个人焕然一新了呢。作为感谢，指挥官，让我现在为你跳一支新的舞蹈吧！",
+        "エミール・ベルタン、改造終了よ～うふふ、なんだかスッキリした気持ちになるわね♪感謝の印として、指揮官のために一曲踊っちゃってもいい？",
+        "Émile Bertin, retrofit complete! I feel like a completely new person! To show my gratitude, Commander, I'll perform a brand new dance for you!"
+      ],
+      "login": [
+        "今天也是美妙的一天呢，指挥官！",
+        "指揮官、今日も素晴らしい一日ね～",
+        "It's a wonderful day today as well, Commander!"
+      ],
+      "details": [
+        "现在的我，一定能为更多的人带去美妙的舞蹈",
+        "今の私ならもっと素晴らしい踊りができるわ～うふふ",
+        "As I am now, I'll surely be able to dance for you even more wonderfully!"
+      ],
+      "secretaryIdle1": [
+        "指挥官，你知道吗，跳舞最重要的并不是技巧，而是自信，是“你所看到的我是最好的我”这样的自信哦！",
+        "指揮官は知ってる？上手に踊るのに重要なのは技術ではなく、自信よ？そう、「最高の私を見せる」ことだわ！",
+        "Commander, did you know that the most important thing in dance is not the technique, but rather the confidence? Yes, the confidence that \"I am at my very best on stage!\""
+      ],
+      "secretaryIdle2": [
+        "重樱的舞蹈，相比我的热情与自由，她们则注重仪式感，同样也是fantastique！",
+        "重桜の踊りは情熱ではなく「ワビサビ」の心が大事のようね～fantastique！",
+        "The dances of the Sakura Empire, in contrast to my passionate and free-flowing form, focus more on tradition. C'est magnifique!"
+      ],
+      "secretaryIdle3": [
+        "最近，对舞蹈感兴趣的同伴们逐渐增加了呢，指挥官要不要也一起加入呢~?",
+        "最近踊りを嗜んでいる仲間たちが増えてきているわ。指揮官もいかがかしら？",
+        "Recently, more and more people have become interested in dance. Commander, you should join as well!"
+      ],
+      "secretaryTouch": [
+        "遵从着自己的感觉动起来，这才是舞蹈的本质哦？所以，指挥官也一起来吧！allons danser！",
+        "自分の心のままに動くのが踊り――はい、指揮官も一緒に！allons danser！",
+        "The essence of dancing is to follow your own feelings. Come on, Commander! Allons danser!"
+      ],
+      "secretarySpecialTouch": [
+        "真是的，指挥官，跳舞的时候要认真一点哦？",
+        "もう、指揮官、踊りは集中が肝心よ？",
+        "Commander, you need to focus more when you're dancing!"
+      ],
+      "returnFromMission": [
+        "就让我用舞蹈来消除你的疲劳吧，指挥官",
+        "この踊りで指揮官の疲れを癒やしてあげるわ♪",
+        "Allow me to restore your energy with my dance, Commander!"
+      ],
+      "commission": [
+        "就让我去港口为委托归来的人送上一支舞蹈吧~",
+        "委託に出かけたみんなのために一曲踊ってくるわ～",
+        "I'll head down to the docks to dance a little for the girls who are coming back~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/%C3%89mile_Bertin_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/%C3%89mile_Bertin_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/%C3%89mile_Bertin_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/%C3%89mile_Bertin_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/%C3%89mile_Bertin_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/%C3%89mile_Bertin_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/%C3%89mile_Bertin_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/%C3%89mile_Bertin_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/%C3%89mile_Bertin_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/%C3%89mile_Bertin_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/%C3%89mile_Bertin_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/%C3%89mile_Bertin_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/70/%C3%89mile_Bertin_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/%C3%89mile_Bertin_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/%C3%89mile_Bertin_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/03/%C3%89mile_Bertin_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/%C3%89mile_Bertin_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/%C3%89mile_Bertin_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/%C3%89mile_Bertin_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/%C3%89mile_Bertin_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/%C3%89mile_Bertin_Sec1Skin9JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/%C3%89mile_Bertin_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/%C3%89mile_Bertin_Sec2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/%C3%89mile_Bertin_Sec2Skin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/%C3%89mile_Bertin_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/%C3%89mile_Bertin_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/%C3%89mile_Bertin_MissionFinSkin9JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/%C3%89mile_Bertin_CommissionSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/%C3%89mile_Bertin_CommissionSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/%C3%89mile_Bertin_CommissionSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Côte d'Azur",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "蓝色海岸",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "コート・ダジュール",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Iris of Light and Dark Skin Shop",
+      "cost": "Gem 1080",
+      "l2dModel": true,
+      "shipDescription": [
+        "指挥官，我的泳装还不错吧？我对身材还是蛮有自信呢，嘻嘻~一起来享受夏日吧~",
+        "指揮官、この水着姿は結構いい感じかしら？私、スタイルには結構自信あるわよ。うふふ♪一緒に真夏を楽しもう～",
+        "Commander, does my swimsuit pique your fancy? I'm actually quite proud of my fashion sense. *Giggle* Now, let's enjoy midsummer together~"
+      ],
+      "acquisition": [
+        "指挥官，我的泳装还不错吧？我对身材还是蛮有自信呢，嘻嘻~一起来享受夏日吧~",
+        "指揮官、この水着姿は結構いい感じかしら？私、スタイルには結構自信あるわよ。うふふ♪一緒に真夏を楽しもう～",
+        "Commander, does my swimsuit pique your fancy? I'm actually quite proud of my fashion sense. *Giggle* Now, let's enjoy midsummer together~"
+      ],
+      "login": [
+        "指挥官，在下水之前，不要忘了先热身哦？",
+        "指揮官、海に入る前のストレッチ、忘れないでね？",
+        "Commander, don't forget to stretch before going into the ocean, okay?"
+      ],
+      "details": [
+        "指挥官，来玩沙滩排球吗？我很擅长哦~",
+        "指揮官、ビーチバレーでもいかがかしら？実は私、こういうのは得意なのよ♪",
+        "Commander, how about a game of beach volleyball? I actually happen to be quite good at it♪"
+      ],
+      "secretaryIdle1": [
+        "指挥官，去海边的时候，防晒油能麻烦你吗？",
+        "指揮官、今度ビーチに行ったら日焼け止めクリームをお願いできないかしら？",
+        "Commander, could I ask you to apply sunscreen to my skin next time we go to the beach?"
+      ],
+      "secretaryIdle2": [
+        "到了要游泳的时候长发就显得不是很方便呢…指挥官喜欢什么样的盘发发型呢？",
+        "髪が長いと泳ぐ時には不便よね…指揮官はどんな髪のまとめ方がお気に入りかしら？",
+        "Long hair is quite inconvenient when you're swimming... Which way of tying up my hair is your favorite, Commander?"
+      ],
+      "secretaryIdle3": [
+        "指挥官～接下来要去沙滩的话，你也先换上泳装怎么样？我不介意的哦~",
+        "指揮官～どうせビーチに行くから水着に着替えておいてはいかがかしら？いえいえ、私は指揮官の水着姿なんてぜーんぜん、気にしていないから～",
+        "Oh, Commander~ Since we're going to the beach, why not change into your swim gear ahead of time? Oh, no, I definitely don't want to see how it looks on you, not at all~"
+      ],
+      "secretaryTouch": [
+        "我可以先去海边？真是的，身为秘书舰，怎么会丢下指挥官呢，我会等你的~",
+        "先に行っていいって？もう、秘書艦が指揮官を放って置くわけないでしょ？はい、ここで待っていてあげるからね♪",
+        "Go on ahead without you? Why, a secretary can't just casually part from her Commander, can she? I'll be right here waiting for you♪"
+      ],
+      "secretarySpecialTouch": [
+        "到了夏天，指挥官也变得热情了起来呢",
+        "夏になって、指揮官も情熱的になってるわね～",
+        "It seems as summer comes forth, so too does your passion~"
+      ],
+      "returnFromMission": [
+        "指挥官斗志昂扬呢……果然也在期待着沙滩吧~",
+        "指揮官すごくウキウキしてるわね♪　ビーチのことをやっぱり楽しみにしていたんだ～",
+        "My, you're so excited, Commander♪ I knew you were looking forward to the beach~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/%C3%89mile_Bertin_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/%C3%89mile_Bertin_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/%C3%89mile_Bertin_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/%C3%89mile_Bertin_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/%C3%89mile_Bertin_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/%C3%89mile_Bertin_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/%C3%89mile_Bertin_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/%C3%89mile_Bertin_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/%C3%89mile_Bertin_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/%C3%89mile_Bertin_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/%C3%89mile_Bertin_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/%C3%89mile_Bertin_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/71/%C3%89mile_Bertin_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/%C3%89mile_Bertin_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/%C3%89mile_Bertin_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/%C3%89mile_Bertin_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/%C3%89mile_Bertin_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/%C3%89mile_Bertin_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/%C3%89mile_Bertin_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/%C3%89mile_Bertin_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/%C3%89mile_Bertin_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/%C3%89mile_Bertin_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/%C3%89mile_Bertin_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/%C3%89mile_Bertin_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/%C3%89mile_Bertin_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/%C3%89mile_Bertin_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/%C3%89mile_Bertin_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Maid Fantastique",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "「女仆」浪漫",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "Fantastiqueメイド",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1080",
+      "l2dModel": true,
+      "shipDescription": [
+        "我听说“女仆”好像有一种独特的浪漫，不过还是要实际穿上才能有所感受吧！指挥官，你觉得怎么样呢？",
+        "「メイド」というロマンもあると聞いて、だからこの衣装に着替えて実際に感じてみることにしたわ～指揮官、いかがかしら？",
+        "I heard of this romantic concept of maid outfits, and thought I'd try one on to see how it feels~ What are your thoughts, Commander?"
+      ],
+      "acquisition": [
+        "我听说“女仆”好像有一种独特的浪漫，不过还是要实际穿上才能有所感受吧！指挥官，你觉得怎么样呢？",
+        "「メイド」というロマンもあると聞いて、だからこの衣装に着替えて実際に感じてみることにしたわ～指揮官、いかがかしら？",
+        "I heard of this romantic concept of maid outfits, and thought I'd try one on to see how it feels~ What are your thoughts, Commander?"
+      ],
+      "login": [
+        "“欢迎回来，主人~”我看皇家的女仆们都是这么问好的呢～",
+        "「おかえりなさいませ、ご主人サマ～」ロイヤルメイド隊はみんなこうして挨拶しているのね～",
+        "\"Welcome back, Master~\" – Just like how all the Royal Maids do it~"
+      ],
+      "details": [
+        "无论衣装朴素亦或华丽，只要用心体会，就一定能发现其中独特的浪漫！",
+        "質素な衣装も、豪華な衣装も、実際身につけてみれば、どんな衣装でもロマンを感じられるわ！",
+        "Be they simple dresses or extravagant costumes, any outfit can be romantic once you actually put it on!"
+      ],
+      "secretaryIdle1": [
+        "兔子先生和公鸡先生，要是能随着我的舞蹈动起来就好了呢。",
+        "このぬいぐるみたちも一緒に踊ってくれるといいわね～",
+        "Wouldn't it be lovely if these stuffed toys could join me for a dance~?"
+      ],
+      "secretaryIdle2": [
+        "在梦里总是能见到很多奇怪而又浪漫的事情呢，指挥官，你做过什么有趣的梦吗？",
+        "ヒトは夢を驚きとロマンに例えると聞くわ。指揮官はどんな面白い夢を見たことがあるのかしら？",
+        "I've heard people describe their dreams as astonishing or romantic. I wonder, have you had any fascinating dreams like that, Commander?"
+      ],
+      "secretaryIdle3": [
+        "比起安静舒适地坐在一旁，我还是喜欢挥洒自己的能量，用行动把热情传递给别人~",
+        "座ったまま語るよりも、ちゃんと自分の情熱を行動で伝えるほうが好きよ～",
+        "I'm more fond of imparting my passion to others through actions than through words while sitting down~"
+      ],
+      "secretaryTouch": [
+        "那么，就由我给指挥官献上“女仆之舞”吧~",
+        "ふふ、指揮官に一曲、「ダンス・オブ・メイド」の踊りを披露するわ～",
+        "Hehe~ I will perform a little number called \"The Maid's Dance\" for you~"
+      ],
+      "secretarySpecialTouch": [
+        "这样的热情，可是不能称作是浪漫哦？",
+        "こういう情熱はロマンと言わないわよ？",
+        "This sort of lust is not what romance is about!"
+      ],
+      "returnFromMission": [
+        "这个时候……啊，我知道了，到了听取指挥官的烦恼，然后一鼓作气解决问题的时候了吧！",
+        "こういうときは……うん♪指揮官の悩みを聞いて一気に片付けちゃお♪",
+        "You know what comes next? Mhm! Tell me what's on your mind and your worries will all go away, Commander♪"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/%C3%89mile_Bertin_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/%C3%89mile_Bertin_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/%C3%89mile_Bertin_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/%C3%89mile_Bertin_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/%C3%89mile_Bertin_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/%C3%89mile_Bertin_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/%C3%89mile_Bertin_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/%C3%89mile_Bertin_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/%C3%89mile_Bertin_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/%C3%89mile_Bertin_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/%C3%89mile_Bertin_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/%C3%89mile_Bertin_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/%C3%89mile_Bertin_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/%C3%89mile_Bertin_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/%C3%89mile_Bertin_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/%C3%89mile_Bertin_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/%C3%89mile_Bertin_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/%C3%89mile_Bertin_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/%C3%89mile_Bertin_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/%C3%89mile_Bertin_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/%C3%89mile_Bertin_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/%C3%89mile_Bertin_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/%C3%89mile_Bertin_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/%C3%89mile_Bertin_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/%C3%89mile_Bertin_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/%C3%89mile_Bertin_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/%C3%89mile_Bertin_MissionFinSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +70 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "5x CruiserT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "2x CruiserT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +70 / Health +100 ",
+      "materials": "2 / 3x CruiserT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Hit Enhancement Ⅰ",
+      "attributes": "Accuracy +5 ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Anti-Air Gun Improvement Ⅱ",
+      "attributes": "Equip 3 Efficiency +5.0% / Equip 3 Efficiency +5.0% ",
+      "materials": "1 / 1x CruiserT3BP ",
+      "coinCost": 2500,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Anti-Air Enhancement Ⅱ",
+      "attributes": "Anti-air +15 / Anti-air +25 ",
+      "materials": "1 / 2x CruiserT3BP and 5 / 15x AAT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +20, Torpedo +25 ",
+      "materials": "3x CruiserT3BP and 1x Émile Bertin or Universal Bulin ",
+      "coinCost": 4000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Messenger of Love \" ",
+      "materials": "2x CruiserT3BP and 50x AuxT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "K"
+      ]
+    }
+  ]
+}

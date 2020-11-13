@@ -1,0 +1,781 @@
+{
+  "name": "Ariake",
+  "constructionTime": "00:25:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Hatsuharu",
+  "ID": "175",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "浅葱ゆな",
+  "pixiv": "https://www.pixiv.net/fanbox/creator/21526260",
+  "twitter": "https://twitter.com/asagiyuna",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/8/80/Ariake_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1773,
+      196,
+      34,
+      59,
+      478,
+      192,
+      43,
+      145,
+      0,
+      8,
+      180,
+      189,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1938,
+      196,
+      34,
+      59,
+      518,
+      212,
+      46,
+      175,
+      0,
+      8,
+      180,
+      189,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1642,
+      171,
+      34,
+      51,
+      475,
+      206,
+      46,
+      156,
+      0,
+      8,
+      171,
+      169,
+      0,
+      0
+    ],
+    "Level 100": [
+      1477,
+      171,
+      34,
+      51,
+      435,
+      186,
+      43,
+      126,
+      0,
+      8,
+      171,
+      169,
+      0,
+      0
+    ],
+    "Base Stats": [
+      286,
+      72,
+      34,
+      11,
+      92,
+      71,
+      43,
+      27,
+      0,
+      2,
+      66,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 80%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    4,
+    30,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Double Torpedo; CN: 鱼雷连射 JP: 次発装填",
+  "skill1Description": "When this ship fires its Torpedoes: 15% (30%) chance to launch a second wave of Torpedoes.",
+  "skill2Name": "(Retrofit) Air Raid Assistance; CN: 空袭引导 JP: 空襲先導",
+  "skill2Description": "While this ship is afloat: increases the DMG of all Carriers in your fleet by 5% (15%). Does not stack with the same skill.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-初春型",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Hatsuharu Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/29/Ariake.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/91/AriakeChibi.png",
+      "shipDescription": [
+        "梅级驱逐舰五番舰—榎",
+        "初春型駆逐艦五番艦・有明",
+        "Hatsuharu-class destroyer no. 5 - Ariake"
+      ],
+      "selfIntroduction": [
+        "棭、梿、还有栴…我们27驱的大家在大战期间一直都在一起。因为我最大，所以姑且算是姐姐呢…大家一起经历了许多哦，关系很好的～虽然最后只有栴坚持了下来…不过也没办法，战争不是那么轻松的事呢",
+        "夕暮、白露、時雨と一緒に第二七駆逐隊所属だったよ～わたしが一番起工が早かったからまあアネキ分だったね。みんな一緒に戦っていたから仲もいいよ。最後は時雨ちゃんだけになっちゃったけど、まあ戦争だから仕方ないよね～",
+        "I formed the 27th DesDiv along with Yuugure, Shiratsuyu, and Shigure. Since I was the eldest, I suppose that made me the big sister... We got along well and worked hard throughout various campaigns, but in the end, Shigure was the only one left... Well, that's war for you~"
+      ],
+      "acquisition": [
+        "我是梅型的榎，指挥官，你好哦……对了，想问一下，棭在这里吗？在的话，她……没有给你添麻烦吧？",
+        "初春型の有明だよ。指揮官おはようちゃん～あ、そうだ！夕暮はここにいるかな？いるなら……迷惑かけていないよね？",
+        "I'm Ariake of the Hatsuharu class. Commander, pleased to meet you... Ah right, I just remembered! Is Yuugure posted here? If so, she hasn't been causing any trouble for you, has she?"
+      ],
+      "login": [
+        "指挥官，休息得好吗？今天说不定有些忙哦",
+        "指揮官おつかれちゃん～今日はすこしいそがしくなるかもよ？",
+        "Commander, did you sleep well? We might get a bit busy today~"
+      ],
+      "details": [
+        "虽然有的时候也希望棭能自立一点，不过想想那样好像也…有点寂寞",
+        "夕暮のように自立したいな～。いや…それはそれでちょっと寂しいのかも？",
+        "Though I sometimes wish Yuugure would be a little more independent, thinking about that... feels a bit lonely."
+      ],
+      "secretaryIdle1": [
+        "指挥官，你知道吗，按照榎型来算的话，梿和栴也能算我妹妹哦",
+        "指揮官知ってる？有明型として数えるなら、白露も時雨もわたしの妹なんだ",
+        "Commander, did you know that Shiratsuyu and Shigure technically are my sisters, considering that they were Ariake-class?"
+      ],
+      "secretaryIdle2": [
+        "指挥官，不养成平时的良好习惯以后可是会吃亏的哦？",
+        "指揮官、普段はちゃんと生活習慣をよくしないとあとで損するよ？",
+        "Commander, if you don't develop good lifestyle habits now, it'll come back to bite you in the rear later."
+      ],
+      "secretaryIdle3": [
+        "指挥官，想要便当吗？我帮棭做的时候也给你做一个吧",
+        "指揮官？弁当食べる？夕暮の分を作る時に一緒に作ってあげるよ",
+        "Commander, want a bento? I'll make your portion along with Yuugure's this evening."
+      ],
+      "secretaryTouch": [
+        "来了来了，棭你不要扯我衣服……啊，下意识把指挥官当成棭了",
+        "もう夕暮ったら服引っ張らないで、今行くから……およよ？指揮官を夕暮と勘違いしちゃった？",
+        "Jeez, Yuugure, don't pull on my... Wh-what? I mistook Commander for Yuugure?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，又不是小孩子了，这方面要注意一点哦",
+        "もう、指揮官は子供じゃないんだから、ちょっと注意したほうがいいよ？",
+        "Jeez, Commander, you're not a child anymore, so please have some tact."
+      ],
+      "task": [
+        "新任务啊，有没有输送之类的，那种我很擅长哦",
+        "新しい任務だよね。輸送任務とかないの？わたし、得意なんだから～",
+        "Looks like we've got new missions. Any transport operations? Those are my specialty~"
+      ],
+      "taskComplete": [
+        "说起来，棭完成任务的时候经常来跟我邀功呢……",
+        "そういえば、夕暮は任務を完了した時、しょっちゅう報告しに来てくれたっけ…？",
+        "Come to think about it, Yuugure always has to tell me whenever she finishes a mission..."
+      ],
+      "mail": [
+        "指挥官，邮件我放在显眼的地方了，空下来记得看哦",
+        "指揮官、メールは目立つ所に置いておいたから、あとで読んでね",
+        "Commander, I left your mail in a pretty visible place, so go take a look later."
+      ],
+      "returnFromMission": [
+        "指挥辛苦咯",
+        "指揮官、お疲れちゃん",
+        "Good work, Commander."
+      ],
+      "commission": [
+        "指挥官，在你发呆的期间，委托已经完成了哦",
+        "指揮官がぼーっとしている間に、委託はもう完了したよ？",
+        "Commander, while you were spacing out, the commission has already finished~"
+      ],
+      "strengthening": [
+        "对空能力是很重要的哦",
+        "対空は大事～",
+        "Take care of your anti-air~!"
+      ],
+      "startingMission": [
+        "大家注意空袭，小心作战",
+        "目を大きく見開いて、空襲には気をつけてね～",
+        "Everyone, be on the lookout for enemy airstrikes!"
+      ],
+      "mvp": [
+        "MVP啊……我是觉得有帮上忙就好了啦",
+        "MVPか……お役に立てれば万々歳って思ってただけなんだけどなぁ～",
+        "MVP, huh? I'm satisifed as long as I was able to help~"
+      ],
+      "defeat": [
+        "如果不是维修的话，我倒是不讨厌呆在船坞里呢……",
+        "修理じゃなかったらドックに引きこもるのも嫌じゃないけどなー",
+        "I wouldn't mind resting up in the docks if not for this whole getting beat up thing..."
+      ],
+      "skillActivation": [
+        "就是现在",
+        "今よ～",
+        "Now's our chance."
+      ],
+      "lowHP": [
+        "情况…有些不妙呢",
+        "ちょっと…まずいかな……",
+        "Things are getting... a little messy..."
+      ],
+      "affinityDisappointed": [
+        "当了指挥官也有反抗期这种东西吗？",
+        "指揮官にも反抗期ってやつがあるの？",
+        "Do all commanders go through a rebellious phase?"
+      ],
+      "affinityStranger": [
+        "榎型？啊，那个啊，原本确实有那样的编制呢，不过后来改回去了，我倒是没什么所谓呢，棭那样……也是她的可爱之处吧",
+        "有明型？あ！あったねそういうの！でも元に戻されたんじゃなかったっけ？わたしは別にいいよ？夕暮は……まあ、",
+        "Ariake-class? Ah! There was something like that at some point but it was changed back later, not that I mind. What about Yuugure? Well..."
+      ],
+      "affinityFriendly": [
+        "虽然棭有时候太粘人了，不过这正是所谓妹妹的可爱之处呢…指挥官，如果我也很黏你，你会觉得高兴吗？",
+        "夕暮は時々べったりすぎるけど、まあ妹の可愛さってあんなもんだよね。指揮官もべったりされたら嬉しくなるの？",
+        "Although Yuugure is sometimes a bit clingy, that's part of what makes her cute. Hey Commander, if I was to cling to you, would you be happy?"
+      ],
+      "affinityLike": [
+        "哎，作为姐姐照顾了棭和梿那么久，还有栴那令人操心的性格…事到如今忽然要变成粘人的妹妹好像也有点难度呢…",
+        "夕暮と白露、あと時雨の世話をしてたからね……いまさらベッタリしてーって言われてもちょっと難しいかも…？",
+        "Having taken care of Yuugure, Shiratsuyu, and sometimes even Shigure for such a long time, I can't just flip the switch so easily and become clingy and dependent myself..."
+      ],
+      "affinityLove": [
+        "仔细想想…当指挥官的妹妹似乎是个不错的选择……指挥官你觉得呢？我可是超能干的持家型妹妹哦",
+        "うんうん、よくよく考えると指揮官の妹になるのもいいかも？指揮官的にはどう思う？わたし、家事力がすごい高いデキる妹になれるよ？",
+        "Hmm, hmm. Yeah, it might not be a bad idea to become Commander's little sister. What do you think? My domestic skills are of the charts, you know?"
+      ],
+      "pledge": [
+        "果然持家型妹妹还是有市场的呢…不过，总觉得还是有点害羞呢…嘻嘻，从今往后可以多依赖我一点哦，指挥官，妹妹姑且不论，持家方面我可是超有自信的",
+        "家事力の高いデキる妹はやっぱり需要があるよね…でもちょっと恥ずかしいかも♪…ふふ、これからはわたしをもっと頼っていいよ？妹としていいかは別として、家事力には結構自信があるからね～",
+        "See, super-domestic little sisters are in high demand right now! But... I will admit it's a little embarrassing~♪ Hehe... From now on, you can depend on me even more. I'm very confident in my skills~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Yuugure) 好了好了，棭，要开战咯",
+        "(Sortie with Yuugure) よしよし、夕暮、戦闘開始よ",
+        "(Sortie with Yuugure) Hush, hush, Yuugure. The battle's about to begin."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Shigure) 栴，你又在想什么恶作剧了吧？",
+        "(Sortie with Shigure) 時雨、またいたずらとか考えてたんでしょ",
+        "(Sortie with Shigure) Shigure, you look like you're up to no good again."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Shiratsuyu) 梿，跟紧我",
+        "(Sortie with Shiratsuyu) 白露、ついてきて",
+        "(Sortie with Shiratsuyu) Shiratsuyu, follow me."
+      ],
+      "giftDescriptionValentines2019": [
+        "本来想像个妹妹一样做可爱型巧克力的，结果一不小心又做得太用力了呢，啊哈哈……",
+        "妹キャラっぽいカワイイ系のチョコを作りたかったけど、こりゃちょっと本格的すぎたかな……あははは……",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "\"Commander, you want Ariake's chocolate...?\" It still doesn't feel right. I know I got the cutesy chocolates done, but it's really tough to nail the little sister persona. I'm not quite there yet, am I?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Ariake_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Ariake_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Ariake_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Ariake_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Ariake_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Ariake_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Ariake_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Ariake_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Ariake_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Ariake_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Ariake_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Ariake_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Ariake_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Ariake_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Ariake_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Ariake_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ariake_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ariake_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Ariake_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Ariake_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Ariake_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Ariake_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ariake_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Ariake_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Ariake_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Ariake_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Ariake_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Ariake_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Ariake_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Ariake_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/34/Ariake_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Ariake_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/34/Ariake_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Ariake_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Ariake_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Ariake_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Ariake_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Ariake_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Ariake_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ariake_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ariake_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Ariake_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Ariake_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Ariake_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Ariake_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Ariake_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Ariake_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Ariake_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Ariake_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Ariake_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Ariake_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Ariake_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Ariake_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Ariake_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Ariake_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Ariake_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Ariake_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Ariake_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Ariake_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Ariake_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Ariake_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Ariake_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Ariake_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Ariake_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Ariake_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Ariake_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Ariake_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Ariake_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Ariake_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Ariake_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Ariake_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Ariake_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Ariake_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Ariake_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Ariake_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Ariake_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Ariake_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Ariake_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Ariake_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Ariake_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Ariake_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Ariake_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Ariake_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Ariake_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Ariake_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Ariake_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Ariake_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/49/AriakeKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/44/AriakeKaiChibi.png",
+      "shipDescription": [
+        "啊，这样就算改造完成了吧？希望以后能帮上指挥官和27驱的大家更多的忙呢。",
+        "あー、これで改造終了ってところかな。指揮官と第二七駆逐隊のみんなのためにもっと頑張らないとねー",
+        "Ah... So this is what it feels like to be retrofitted. I'll work harder for your sake, and for everyone in the 27th Destroyer Division~"
+      ],
+      "acquisition": [
+        "啊，这样就算改造完成了吧？希望以后能帮上指挥官和27驱的大家更多的忙呢。",
+        null,
+        null
+      ],
+      "login": [
+        "今天也有得忙了呢。不过放心吧，我会在指挥官身边辅助的~",
+        null,
+        null
+      ],
+      "details": [
+        "棭比以前自立了很多了，不过，遇到困难的时候，还是会拉着我的衣角求助呢",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "棭改造后的变化有些大呀。和她站在一起，我反而有些像妹妹了呢~",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "要是照顾人的能力也和火力一起提升就好了…棭、栴和梿，没法同时关照到她们三个人呀…",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "给，指挥官的便当，帮棭做的时候一起做好了~",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "唔唔，指挥官，你怎么也像棭一样喜欢扯我衣角…",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "辛苦咯~指挥官要来点茶吗？",
+        null,
+        null
+      ]
+    },
+    {
+      "ENClientName": "Unending Friendship",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "四季团圆",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "時日問わぬ楽しい団らんよ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/af/AriakeParty.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/AriakePartyWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/1d/AriakePartyChibi.png",
+      "shipDescription": [
+        "我准备了一些气球带到宴会上，希望到时候大家会喜欢~嗯嗯，重樱的小孩子看到一定会很开心的！",
+        "みんなが好きそうなパーティーの風船、たくさん用意したよ。うん、これならきっと重桜の小さい子たちにも気に入ってもらえるよ！",
+        "Hope everyone enjoys the oodles of balloons I made for this party! Yeah, I'm sure the little girls will love 'em!"
+      ],
+      "acquisition": [
+        "我准备了一些气球带到宴会上，希望到时候大家会喜欢~嗯嗯，重樱的小孩子看到一定会很开心的！",
+        null,
+        null
+      ],
+      "login": [
+        "指挥官，要不要也给你个气球？我有很多很漂亮的气球哦！",
+        null,
+        null
+      ],
+      "details": [
+        "究竟是谁跟棭灌输了“大人的世界”什么的奇怪观念…指挥官，不会是你吧？",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "棭，难得的宴会，再放开点享受也没关系哦？你的礼服很好看的，要有自信，喏~给你个气球~",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "突然想到，要是给梿绑个特别显眼的气球的话，她应该就不会那么容易走丢了吧？",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "准备很多很多气球的话，是不是就能飞到天上去了呢？…檨，不可以像这样骗小孩子们哦？",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "咦，舞、舞伴吗？可以的话，榎非常乐意哦~",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "哇啊？！指挥官，你把榎的气球弄跑了……",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "嘿咻，我也休息一下好了",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "指挥官，那就按之前约定好的，在今晚让我尝试当一下粘人的妹妹吧。嘿嘿~请多多指教了哦，哥哥~",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Evasion Enhancement Ⅰ",
+      "attributes": "Evasion +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Anti-Air Gun Efficiency +5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Torpedo Efficiency +5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "4x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / +75 ",
+      "materials": "1x / 2x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Learn Skill \"Air Raid Assistance\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Evasion Enhancement Ⅱ",
+      "attributes": "Evasion +5 / +10 ",
+      "materials": "2x / 2x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +15, Torpedo +30 ",
+      "materials": "1x DestroyerT3BP and 1x Ariake or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "name": "Princeton",
+  "constructionTime": "02:06:40",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Independence",
+  "ID": "473",
+  "faction": "Eagle Union",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "voiceActor": "https://twitter.com/shiomi_yukina",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4791,
+      181,
+      49,
+      0,
+      0,
+      85,
+      31,
+      255,
+      340,
+      11,
+      89,
+      99,
+      0,
+      0
+    ],
+    "Level 100": [
+      4130,
+      157,
+      49,
+      0,
+      0,
+      56,
+      31,
+      222,
+      301,
+      11,
+      75,
+      87,
+      0,
+      0
+    ],
+    "Base Stats": [
+      799,
+      66,
+      49,
+      0,
+      0,
+      22,
+      31,
+      48,
+      64,
+      3,
+      29,
+      24,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Torpedo Bombers",
+  "slot2Efficiency": "140% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 80%",
+  "collectionStatBonus": "Light aircraft carrier (CVL) Anti-submarine warfare  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Reload  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    0,
+    0,
+    42,
+    13
+  ],
+  "retireValue": [
+    0,
+    7,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Fighters +1 / Fighter Efficiency +5%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +1 / Fighter Efficiency +10%",
+  "limitBreak3": "Number of All Planes +1 / Torpedo Bombers Efficiency +15%",
+  "skill1Name": "Evasive Scramble; CN: 遁入雨云 JP: クラウド・イヴェイジョン",
+  "skill1Description": "When this ship launches an Airstrike (airstrikes launched via skills do not count): decreases this ship's aviation DMG taken by 40.0% (70%) for 8s. When this buff wears off: 40.0% (70%) chance to launch an additional Lv.1 (Lv.10) TBF Avenger airstrike (DMG is based on the skill's level.)",
+  "skill2Name": "Extinguishing Gale; CN: 燃烧禁令 JP: クール・エクスティンクション",
+  "skill2Description": "When sortied with or when there are at least 3 Eagle Union ships in the fleet: decreases your Vanguard's Burn DMG taken by 5.0% (15.0%) and Burn duration by 1 (3)s; if this ship is your Flagship: further decreases your Vanguard's Burn duration by 1 (3)s.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/83/Princeton.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5e/PrincetonChibi.png",
+      "shipDescription": [
+        "独立级航空母舰-普林斯顿，舷号CVL-23",
+        "インディペンデンス級航空母艦・プリンストン（CVL-23)",
+        "Independence-class light aircraft carrier – Princeton (CVL-23.)"
+      ],
+      "selfIntroduction": [
+        "我是独立级的二号舰，普林斯顿，原本是克利夫兰级的七号舰，所以你想叫我塔哈拉西也没关系。在大战中，和萨拉托加前辈一起作战过多次，并从她那得到了许多指导，可惜我最后没有撑过莱特湾…在这边要是能再和她一起作战就好了。",
+        "インディペンデンス級、2番艦のプリンストンよ。元々はクリーブランド級7番艦の「タラハシー」として起工されていたわ。かの大戦ではサラトガさんと共に多くの戦闘に参加し、色々教えていただいたのに、レイテ沖での戦いでは最後まで持ちこたえられなくて…ここでも一緒に戦えると嬉しいわ",
+        "Second ship of the Independence class, Princeton, at your service. I was originally laid down as the seventh ship in the Cleveland class, Tallahassee. I fought a lot alongside Saratoga in the war, and though I was able to learn much from her, I wasn't able to make it through the Battle of Leyte Gulf... It'd be an honor to fight by her side once again."
+      ],
+      "acquisition": [
+        "独立级，普林斯顿。塔哈拉西？你想叫我那个名字也不是不可以",
+        "インディペンデンス級のプリンストンよ。タラハシー…？そちらで呼んでもらって構わないわ",
+        "I'm Princeton, Independence class. Tallahassee? I don't mind if you want to call me that."
+      ],
+      "login": [
+        "你来了，休息得还好吗？",
+        "来たわね。よく休めた？",
+        "You're finally here. Did you rest well?"
+      ],
+      "details": [
+        "找我有事？唔，我没有在忙，刚好在发呆而已…",
+        "何か用？あ、別に今忙しいというわけではなくて、ちょっとぼーっとしてて…",
+        "Did you need something? Oh, it's fine. I wasn't doing anything special, just sorta letting my mind wander."
+      ],
+      "secretaryIdle1": [
+        "萨拉妹妹？…不行，萨拉托加是我尊敬的前辈，我还是叫她的名字就好",
+        "サラトガちゃん？…さ、サラトガさんは尊敬してるお方だから、ちゃん付けで呼ぶだなんてとんでもないわっ",
+        "Sara? ...S-Saratoga is someone I admire very much. I wouldn't dare call her by her nickname."
+      ],
+      "secretaryIdle2": [
+        "蒙彼利埃？我和她是好朋友。不仅是因为我曾经属于克利夫兰级，而且我们都有憧憬的对象",
+        "モントピリアは気心の知れた友達よ。同じクリーブランド級として設計されていただけでなく、お互い憧れの人がいる共通点もあるから",
+        "Montpelier is a close friend of mine. It's not because we were both members of the Cleveland class, but because we both have someone we really look up to in our lives."
+      ],
+      "secretaryIdle3": [
+        "我来帮你分担一些工作吧。不用客气，这是秘书舰的职责。",
+        "お仕事、どんどん任せて頂戴。秘書艦として当然だからあまり気にしないで",
+        "Feel free to give me as much work as you need. It's part of a secretary ship's duties, so don't fret it."
+      ],
+      "secretaryTouch": [
+        "指挥官，为什么你总是想要逗我笑？我的表情很严肃吗？",
+        "もしかして私の表情って硬すぎる？なんか指揮官、いつも笑わせようとしてくる気がするから",
+        "What, do you think I'm too inexpressive? I was wondering if that's why it's like you're always trying to make me laugh."
+      ],
+      "secretarySpecialTouch": [
+        "这一拳下去会有些疼。…咬紧牙关吧",
+        "ゲンコツは痛いってこと知らないようね。…っ！",
+        "Have you never tried a knuckle sandwich before? How about a taste of mine... Hyah!"
+      ],
+      "task": [
+        "任务下达了吗？那么出发吧。",
+        "新しい任務が届いたの？一緒に確認しに行きましょ",
+        "We've been assigned new missions? Let's give them a look."
+      ],
+      "taskComplete": [
+        "任务奖励……真不少呢。",
+        "任務報酬……心躍るわ",
+        "Mission rewards... My heart's dancing with glee."
+      ],
+      "mail": [
+        "邮件？我去拿吧，指挥官继续工作就好。",
+        "メール？取ってくるから、指揮官はそのまま仕事に集中してちょうだい",
+        "Your mail? I'll go get it, so just stay there and focus on your work."
+      ],
+      "returnFromMission": [
+        "你看起来挺累，给，毛巾，擦擦汗吧",
+        "疲れているようね。タオル、どうぞ",
+        "You look pretty tired. Here's a towel."
+      ],
+      "commission": [
+        "要去港口迎接委托组吗？让我也一起吧。",
+        "委託組の出迎え？私も行くわ",
+        "Heading out to greet the commission team? I'll go with you."
+      ],
+      "strengthening": [
+        "感觉还不赖，谢谢。",
+        "悪くないわ。感謝する",
+        "Not bad at all. Appreciate it, Commander."
+      ],
+      "startingMission": [
+        "实战见真章，出发吧。",
+        "前進…ううん、実戦あるのみ！",
+        "Go forth... No. Let's put the lessons we've learned into practice!"
+      ],
+      "mvp": [
+        "感觉还不错，继续吧",
+        "いい感じ。引き続き進みましょ",
+        "Looking good. Let's press on."
+      ],
+      "defeat": [
+        "看来我离萨拉托加还差得远呢……",
+        "サラトガさんには及ばないわね…",
+        "Still out of Saratoga's league..."
+      ],
+      "skillActivation": [
+        "像萨拉托加一样…！",
+        "サラトガさんのように！",
+        "Just like Saratoga would!"
+      ],
+      "lowHP": [
+        "比起那时…还差远了！",
+        "あのときとは違うわ…！",
+        "I won't let history repeat itself!"
+      ],
+      "affinityDisappointed": [
+        "看来还是听萨拉托加的指示比较好呢",
+        "指揮官より、サラトガさんに指示を出してもらいたいものね",
+        "Honestly, I'd rather have Saratoga be the one giving me directions."
+      ],
+      "affinityStranger": [
+        "指挥官，今天也来一边喝茶一边讨论战术吗？现、现在不太…我整理一下我的房间，稍等我30分钟就好！",
+        "お茶でもしながら雑談を…？す、少し待っててください…ええと、今部屋を片付けるので30分くらい時間をください...！",
+        "You wanted to have a chat over some tea? Pl-please, just a moment... Umm, I need to tidy up the room a bit, so I'd appreciate it if you could give me half an hour or so..."
+      ],
+      "affinityFriendly": [
+        "我的爱好？看书，还有研究萨拉托加前辈的战斗方式吧…很奇怪吗？我认为萨拉托加前辈即使比起企业也不会输的",
+        "コホン！趣味の話だったね。私は読書と、サラトガさんの…戦闘スタイルを研究することよ。サラトガさんはあのエンタープライズさんにも負けないぐらい戦える人だって思ってるわ",
+        "Ahem! So you were asking about my hobbies? I like to read books and... study Saratoga's battle style. In terms of combat prowess, I sincerely believe that Saratoga is in a class of her own, and wouldn't lose even to Enterprise herself."
+      ],
+      "affinityLike": [
+        "萨拉托加前辈只是表面喜欢玩耍，其实比谁都懂得战斗，也会照顾后辈，我曾经就在战场上受过她的数次指导，还有还有…嗯？指挥官，你怎么睡过去了？",
+        "いい？サラトガさんは普段はキャピキャピしているけど、面倒見がいいし、戦いでも誰よりも仲間のことを考えてて、私だって何回もサラトガさんの世話になったことがあって、それから……指揮官？まさか、寝ちゃったんじゃ……",
+        "Do you understand what I mean? Even though Saratoga's usually a perky, high-spirited kind of girl, she's always looking out for others, even in battle. I've personally been saved by her many times. There's also how... Commander? Oh no, you fell asleep..."
+      ],
+      "affinityLove": [
+        "指挥官，怎么…？！这张萨拉托加前辈的照片怎么会在你手上…在我房间的角落发现的？…咕，百密一疏…这个之后再向你解释！总，总之，一定要替我保密哦？",
+        "指揮官、なぜサラトガさんのブロマイドを…部屋の床に落ちてた？！うぅ、私としたことがよりによってそんなミスを…これは私のコレクションで…ほかの子には秘密にしてて！",
+        "Commander, why do you have a picture of Saratoga? You picked it up from the floor?! Nooo! I can't believe I've screwed up so royally... You see, this is from my collection... Please keep this a secret from everyone else, I beg you!"
+      ],
+      "pledge": [
+        "…为什么，会选择我？现在的我还有很多不成器的地方，离萨拉托加前辈还很远…我，我不是拒绝的意思哦？相反，如果你愿意接受这样的我的话，就让我们在今后的时光中一起进步吧！",
+        "色々未熟でサラトガさんに遠く及ばない私を、なぜ……あ、断るつもりとかそういうのじゃないよ！むしろこんな私で良ければ、一緒に頑張っていきたいというか…うん！一緒に頑張ろう！",
+        "I'm so lackluster compared to Saratoga, so why would you...? Err, not that I'm turning you down! If anything, I'd be willing to go through thick and thin with you, as long as you're fine with someone like me... Yes, let's be together!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Saratoga) 我来掩护你，萨拉托加前辈",
+        "(Sortie with Saratoga) サラトガさん、私が守るよ！",
+        "(Sortie with Saratoga) Saratoga, I've got your back!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Montpelier) 一起向着目标努力吧",
+        "(Sortie with Montpelier) 目標に向けて頑張るわ",
+        "(Sortie with Montpelier) I'll do my best to get it done."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Birmingham, Reno) 不会再让你们担心了。",
+        "(Sortie with Birmingham, Reno) 心配いらないわ！",
+        "(Sortie with Birmingham, Reno) You don't need to worry about me!"
+      ]
+    },
+    {
+      "ENClientName": "Canoe Training",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "浅海的特别训练",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "カヌートレーニング",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/PrincetonSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3c/PrincetonSummerChibi.png",
+      "shipDescription": [
+        "这不是指挥官吗，你是来游泳的吗？…我？想说即使是在海边，也有很多能锻炼的东西，为此我特地带了一些装备过来。",
+        "指揮官も泳ぎに来たの？…ああ、これはその、海でもトレーニングしようと持ってきたものよ",
+        "Commander, are you also here to swim? ...Ah, this here? I brought it with me to the ocean to get some practice in."
+      ],
+      "acquisition": [
+        "这不是指挥官吗，你是来游泳的吗？…我？想说即使是在海边，也有很多能锻炼的东西，为此我特地带了一些装备过来。",
+        null,
+        "Commander, are you also here to swim? ...Ah, this here? I brought it with me to the ocean to get some practice in."
+      ],
+      "login": [
+        "指挥官，准备运动做好了吗？可不要在海水里抽筋了。",
+        null,
+        "Have you done your stretches yet? You don't want to get cramps because you rushed into the ocean unprepared."
+      ],
+      "details": [
+        "从朋友那里得到的《萨拉托加夏日写真集——珍藏版》…哦？原来平日里的前辈是这个样子的啊。这种活泼又阳光，和大家大闹在一起的场景，稍微有些羡慕…",
+        null,
+        "I got this collector's edition of \"Saratoga: Beautiful Summer Days\" from Gridley. Looking at Saratoga enjoying the summer with everyone else makes me wish I could join her..."
+      ],
+      "secretaryIdle1": [
+        "这个可以增强平衡感，还能锻炼臂力，指挥官要试试吗？",
+        null,
+        "Hehehe. With this, I'll be able to improve my sense of balance and my physical strength at the same time. Would you like to give this a try as well?"
+      ],
+      "secretaryIdle2": [
+        "头发太长在这种时候多少有些麻烦…指挥官，能麻烦你帮我扎一下头发吗？",
+        null,
+        "...It really will be a problem if my hair gets all messy from this. Um, Commander... do you think you could tie it down for me?"
+      ],
+      "secretaryIdle3": [
+        "独立姐姐她们在叫我吗？唔…我这就过去。",
+        null,
+        "Independence and the others are calling for me? ...All right, I'll go."
+      ],
+      "secretaryTouch": [
+        "这个，两个人坐的话会翻的，所以有些抱歉呢。",
+        null,
+        "You want to get on? I-it's not that I don't want you to, but..."
+      ],
+      "secretarySpecialTouch": [
+        "所以说了擅自坐上来会翻——呀啊！",
+        null,
+        "W-wait a second! If you move too suddenly, it'll capsize... Wah?!"
+      ],
+      "returnFromMission": [
+        "在盛夏的骄阳下待太久的话，当心中暑哦，指挥官。",
+        null,
+        "If you stay out while the sun's blazing... you're going to get heatstroke. Make sure not to let the sun cook you for too long."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

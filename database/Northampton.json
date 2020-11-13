@@ -1,0 +1,453 @@
+{
+  "name": "Northampton",
+  "constructionTime": "01:40:00",
+  "constructionPools": [
+    false,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Northampton",
+  "ID": "041",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "realmbw",
+  "pixiv": "https://www.pixiv.net/member.php?id=529070",
+  "twitter": "https://twitter.com/realmbw",
+  "link": "http://weibo.com/realmbw",
+  "voiceActor": "https://twitter.com/takao_koi",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3346,
+      167,
+      27,
+      240,
+      0,
+      53,
+      26,
+      204,
+      0,
+      10,
+      121,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      2961,
+      145,
+      27,
+      209,
+      0,
+      23,
+      26,
+      178,
+      0,
+      10,
+      104,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      573,
+      61,
+      27,
+      44,
+      0,
+      9,
+      26,
+      38,
+      0,
+      3,
+      40,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "50% → 55%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Anti-air  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    24,
+    0,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Artillery Command: Cruisers; CN: 炮术指挥·巡洋舰 JP: 砲術指揮・巡洋艦",
+  "skill1Description": "Increases Firepower of Cruisers in the fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ノーザンプトン級",
+  "skill2Description": "Every 12 (8) times the main gun is fired, triggers Full Barrage - Northampton Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4c/Northampton.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png",
+      "shipDescription": [
+        "北安普顿级重巡洋舰—北安普顿，舷号CA-26",
+        "ノーザンプトン級重巡洋艦・ノーザンプトン（CA-26)",
+        "Northampton-class Heavy Cruiser – Northampton, Hull Number CA-26!"
+      ],
+      "selfIntroduction": [
+        "我是条约型巡洋舰北安普顿，参加过东京空袭行动及中途岛海战，获得过6枚战役之星奖章。然而，没有将大黄蜂平安带回来，是我一生的遗憾……",
+        "ワシントン条約型巡洋艦のノーザンプトンだ。ドーリットル空襲とミッドウェイ海戦に参加し、バトルスターを6つ手にしたぞ。ただ、ホーネットを無事に連れ戻せなかったのは残念だ…",
+        "I'm Northampton, a Washington Treaty cruiser. I participated in the Doolittle Raid and the Battle of Midway, and I've earned 6 battle stars. I regret not being able to bring Hornet back home in one piece..."
+      ],
+      "acquisition": [
+        "嗯，指挥官你好。居然能正确预测到我的出现地点，看来我们还真是很合拍呢……要是，和大黄蜂也能这样就好了……",
+        "ん？やあ指揮官。私の出没地点を正確に予測できるなんて、私達、気が合いそうだな。…ホーネットもこうだったらいいけど…はぁ……",
+        "Hm? Oh hey, Commander. If you can accurately predict where I'm gonna show up, then maybe we're in sync with each other... If only Hornet and I could be like that... *Sigh*..."
+      ],
+      "login": [
+        "指挥官，如果好好训练的话，我们应该可以很合拍呢",
+        "指揮官、しっかり訓練すれば、色々気が合いそうだと思うぜ",
+        "With proper training, I think we could make quite the team, Commander."
+      ],
+      "details": [
+        "虽然装甲变厚了，但是却感觉暴露的更多了呢……",
+        "装甲は厚くなったけど、露出が増えてるような気がするな…",
+        "My armor's gotten thicker, but it feels like I'm more exposed than before..."
+      ],
+      "secretaryIdle1": [
+        "听着潮水的声音，心情就会渐渐的安静下来……",
+        "潮の音を聞くと落ち着くな…",
+        "You'll start to calm down if you just sit and listen to the waves..."
+      ],
+      "secretaryIdle2": [
+        "吵死了，笨蛋休斯敦，安静点！",
+        "ヒューストン、うるさい！静かにしろ！",
+        "Houston, you're too loud! Pipe the hell down!"
+      ],
+      "secretaryIdle3": [
+        "等下，我现在正在考虑事情……",
+        "ちょっと待て、考え事をしてるんだ…",
+        "Hold on, I'm thinking about something..."
+      ],
+      "secretaryTouch": [
+        "呃，那个……其实我有点怕痒",
+        "え、それは…ちょっとくすぐったい",
+        "Um, I'm a... little ticklish right there..."
+      ],
+      "secretarySpecialTouch": [
+        "……！！……",
+        "……！！……",
+        "... *Gasp* ...!"
+      ],
+      "task": [
+        "未完成的那些任务就交给我好了",
+        "あのミッション、まだ完了してないよな。私に任せてくれ！",
+        "Looks like that mission hasn't been completed yet. Let me handle it!"
+      ],
+      "taskComplete": [
+        "奖励已经送达了，请验收",
+        "ボーナスは届いた。確認したほうがいいぞ",
+        "Rewards have arrived. You should check them out."
+      ],
+      "mail": [
+        "指挥官，你的信我放在桌上了",
+        "指揮官、あなた宛のメールは机の上に置いてある",
+        "Commander, I've left your mail on the desk."
+      ],
+      "returnFromMission": [
+        "没有人掉队吧？舰队，返回母港",
+        "落伍したやつはいないか？艦隊、無事帰還した",
+        "Nobody got left behind, right? Then the fleet's safely made it back."
+      ],
+      "commission": [
+        "有委托完成了",
+        "完了した委託があるぞ",
+        "Hey, you have a commission that's been completed."
+      ],
+      "strengthening": [
+        "谢谢，我会回应你的",
+        "ありがとう。あとできっちり返させてもらうよ",
+        "Thank you. I'll have you rewarded for this later."
+      ],
+      "startingMission": [
+        "战斗的号角已经吹响！一起上吧~",
+        "戦闘開始の角笛が鳴り響いてる！さあ、行くぞ！",
+        "The battle horn has sounded! C'mon, let's go!"
+      ],
+      "mvp": [
+        "我一直以为自己不太擅长这种事呢……",
+        "こんなこと、できっこないって思ってたよ…",
+        "I never thought I'd be able to do something like this..."
+      ],
+      "defeat": [
+        "我早就知道不会这么简单就结束的……",
+        "簡単には勝てないって、分かってたよ…",
+        "I knew we couldn't win that easily..."
+      ],
+      "skillActivation": [
+        "如果是这里的话……",
+        "ここなら……！",
+        "This is it...!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "你这样会让我分神的，能不能安静一点？",
+        "気が散るから、ちょっと静かにしてくれないか？",
+        "I'm getting distracted here, so do you think you could be quiet for a bit?"
+      ],
+      "affinityStranger": [
+        "我是个不太喜欢说话的人，要是这样你也愿意和我交朋友的话……",
+        "私、あまりおしゃべりなタイプじゃないが、それでも友達になってくれるなら…‥",
+        "I'm not really the talkative type, but if you're still willing to be my friend, then maybe..."
+      ],
+      "affinityFriendly": [
+        "我有一个比较吵闹的朋友，妹妹们也都比较活泼，像是指挥官这样也比较安静的朋友倒是比较少见……",
+        "少しうるさい相棒と、活発な妹たちがいるから、むしろ指揮官のような静かな友人が珍しい気がするな……",
+        "I have a buddy who's a bit noisy and little sisters who are pretty rowdy, so having a friend like you who's rather quiet feels pretty unusual..."
+      ],
+      "affinityLike": [
+        "笑吗？确实我很少会笑……毕竟我性格比较坚硬，朋友比较少……嗯……指挥官要是喜欢会笑的人的话，我会努力一下的……",
+        "笑うこと、か？確かにあまり笑わないけど……まあ私は硬い性格だし、友達も少ない……うん……指揮官は笑う子が好きというのなら、少し頑張ってみるよ",
+        "Smiling? I guess it's true that I rarely smile... I'm a pretty stubborn girl, and I don't have many friends... Hm... If you like girls who smile, then I'll try to do that every now and then..."
+      ],
+      "affinityLove": [
+        "——喜欢的人、吗？有是有，但要我现在说出来难度有点高…指挥官我发现你和我有点像，大黄蜂总说我太死板，你的迟钝大概也没有比我好多少…",
+        "……好きな人、か？まあいるにはいるが、今その人の名前を言うのは少し難しいというか……なあ指揮官、あなた、私と似ていないか？ホーネットからいつも融通が効かないと言われるが、あなたも相当だな……",
+        "... Someone I love, huh? Well, there is someone, but I don't think I can say their name just like that... Hey, Commander, aren't you a lot like me? Hornet always tells me I'm not good at adapting to new things, and neither are you..."
+      ],
+      "pledge": [
+        "终于意识到了吗，你这迟钝的笨蛋…不过我也一直没勇气说出口就是了…那个，总之从现在开始，作为迟钝同盟一起加油吧",
+        "ようやく気づいたか？この鈍感…まあ私も口に出せなかったりしたし…と、とにかくこれからは鈍感同盟として一緒に頑張ろうか？",
+        "You finally realized it, didn't you, you dense man... But to be fair, I never had the courage to put it into words either... A-anyway, from now on, let's work together as dense partners in love, shall we?"
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官早，正找你送巧克力呢。那个，反正是情人节啦......就，就收下吧？拜托了。",
+        "やあ、指揮官、ちょうどチョコを渡したくて探してたんだ。えっとせっかくのバレンタインだから、その…うん、とにかく受け取ってほしいんだ。お願いね。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "哟，指挥官，今年的情人节这么快就到了。虽然大家都说我不懂风情，但今年我可提前好久就准备了哦。送给你的礼物……就这样可以吗？",
+        "やあ、指揮官、今年もバレンタインが来たのね。私、結構朴念仁って言われているけど、今年は結構前から準備してたよ。あなたへのプレゼントは、これで…いいかな？",
+        "Heya, Commander. I was just looking for you. I have chocolate for you, and, umm... since it's Valentine's, I'm hoping you'll accept it. Please?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Hornet gave me the recipe for this chocolate. It's better to ask someone who knows about this stuff than make it from scratch and feel anxious, you know? Do you ever get that when you're making something, Commander?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Northampton_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Northampton_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Northampton_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Northampton_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Northampton_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Northampton_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Northampton_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Northampton_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Northampton_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Northampton_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Northampton_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Northampton_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Northampton_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Northampton_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Northampton_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Northampton_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Northampton_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Northampton_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Northampton_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Northampton_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Northampton_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Northampton_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Northampton_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Northampton_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Northampton_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Northampton_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Northampton_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Northampton_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Northampton_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Northampton_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Northampton_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Northampton_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Northampton_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Northampton_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Northampton_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Northampton_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Northampton_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Northampton_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Northampton_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Northampton_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Northampton_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Northampton_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Northampton_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Northampton_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Northampton_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Northampton_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Northampton_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Northampton_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Northampton_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Northampton_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Northampton_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Northampton_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Northampton_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Northampton_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Northampton_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Northampton_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Northampton_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Northampton_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Northampton_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Northampton_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Northampton_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Northampton_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Northampton_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Northampton_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Northampton_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Northampton_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Northampton_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Northampton_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Northampton_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Northampton_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Northampton_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Northampton_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Northampton_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Northampton_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Northampton_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

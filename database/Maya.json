@@ -1,0 +1,458 @@
+{
+  "name": "Maya",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Super Rare",
+  "shipClass": "Takao",
+  "ID": "202",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "木shiyo",
+  "pixiv": "https://www.pixiv.net/member.php?id=40222",
+  "twitter": "https://twitter.com/kishiyo1943",
+  "link": "https://weibo.com/u/2481339344",
+  "voiceActor": "https://en.wikipedia.org/wiki/Saori_%C5%8Cnishi",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4295,
+      175,
+      48,
+      270,
+      245,
+      79,
+      31,
+      178,
+      0,
+      12,
+      134,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3818,
+      152,
+      48,
+      236,
+      213,
+      33,
+      31,
+      155,
+      0,
+      12,
+      119,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      738,
+      64,
+      48,
+      50,
+      45,
+      13,
+      31,
+      33,
+      0,
+      4,
+      46,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "125% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "150% → 170%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "110% → 120%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Torpedo  +1",
+  "level120TechPoints": 21,
+  "enhancementValue": [
+    28,
+    15,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Myriad Nights: Heaven; CN: 万夜·忉利天 JP: 魔夜・三十三天",
+  "skill1Description": "Increases own Reload by 15% (35%). Every torpedo launch has a 15% (30%) chance to launch another round.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-高雄型",
+  "skill2Description": "Every 9 (6) shots from the main gun, triggers Full Barrage - Takao Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/09/Maya.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png",
+      "shipDescription": [
+        "高雄级重巡洋舰三番舰—摩耶",
+        "高雄型重巡洋艦三番艦・摩耶",
+        "Third ship of the Takao-class heavy cruisers, Maya."
+      ],
+      "selfIntroduction": [
+        "高雄级三号舰，摩耶。和妹妹是双胞胎，不过和两个姐姐差了几岁……天上的敌人和海上的敌人就交给我吧，不过海底的敌人请你自己想办法，还有，不要随便靠近我",
+        "高雄型重巡洋艦三番艦、摩耶。妹とは双子だが、姉たちとは年がちょっと離れててな……空の敵も海の敵もこの摩耶に任せて構わんが、海の中の敵は別の方法を考えたほうがいい。それと、ぼくにそう安々と近寄らないでほしい",
+        "Maya, third ship of the Takao-class. My little sister and I are twins, but we're a good bit younger than our older sisters... Feel free to leave both the enemies in the sky and on the sea to me. You'll need to deal with those underwater yourself. And one final reminder: don't get too close to me or you might get hurt!"
+      ],
+      "acquisition": [
+        "我是摩耶，将会撕裂天空之人。你就是指挥官吗……喂，别随便靠近我，会受伤的",
+        "ぼくの名は摩耶。空を引き裂くもの。お前が指揮官か……そう、なら気安く近寄らないでくれ。怪我するぞ",
+        "I'm Maya, the one who will tear open the sky. You're the Commander...? Don't get too close... You might get hurt!"
+      ],
+      "login": [
+        "指挥官，今天也要让我这样的家伙陪着你吗？……真是个怪人",
+        "こんなぼくを今日も側に置くつもりか？…まったく、変なやつ",
+        "Commander, you want someone like me to keep you company today as well? What a strange person..."
+      ],
+      "details": [
+        "可以不要一直盯着我看吗…？剑会忍不住斩下去的",
+        "そうぼくを見つめないでくれる…？思わず斬ってしまうぞ",
+        "Would you stop staring at me like that? I can't promise my sword won't come your way..."
+      ],
+      "secretaryIdle1": [
+        "拿起武器的那一刻，就注定与善分道扬镳，指挥官，我们……成不了英雄",
+        "武器を手にした瞬間から、善の道から離れることが決定された。指揮官、ぼくたちは……英雄になれない",
+        "We were doomed to stray from the path of righteousness the moment we took up arms. Commander, we can never become heroes."
+      ],
+      "secretaryIdle2": [
+        "南方，所罗门，莱特湾，这片大海，要做的事不是完全没有变过么……",
+        "南方海域、ソロモン、レイテ沖…この海も、何もかも変わらない……",
+        "The South, Solomon Island, Leyte Gulf, and now this sea... Nothing ever changes..."
+      ],
+      "secretaryIdle3": [
+        "在大和姐身边…总会有种仿佛一切都会被包容宽恕的安心感…非常让人憧憬…等等，并不是指那个方面！——话是这样.…唔…",
+        "大和姉さんのそばにいると、なんだか、すべてが包まれる安らぎを感じる…とても憧れるような…いや、そこじゃないぞ！——そうだけど…いや…だからそこじゃないって！——言われてみたら…そうかも…",
+        "Being by Yamato is like a warm embrace that melts away my worries... I sometimes long for that feeling... N-no, it’s not Iike that! I may have said that but, not in that way! But if I put it that way..."
+      ],
+      "secretaryTouch": [
+        "指挥官，你有点烦……",
+        "指揮官、お前がちょっとうざい…",
+        "Commander, you’re getting on my nerves."
+      ],
+      "secretarySpecialTouch": [
+        "……站着别动，我忽然想练练剑了",
+        "……そのまま動くな。急に素振りがしたくなってな。",
+        "Stand still over there. I want to practice my swordsmanship."
+      ],
+      "task": [
+        "任务……又一次战争吗...",
+        "任務……また、戦争か……",
+        "Another mission... another battle."
+      ],
+      "taskComplete": [
+        "任务完成……我可以回去了吗",
+        "任務完了……もう帰還していい？",
+        "Mission complete... Can I go back now?"
+      ],
+      "mail": [
+        "有你的邮件",
+        "お前宛だ。",
+        "There's mail for you, Commander."
+      ],
+      "returnFromMission": [
+        "作战结束…看来今天也没遇上值得一提的对手呢",
+        "作戦終了…今日も骨のある相手には会わなかったようだな",
+        "Combat operations over... Seems like we didn't encounter any worthy opponents today... again..."
+      ],
+      "commission": [
+        "委托...完成了吗",
+        "委託…終わったか。",
+        "Looks like...the comission is finished."
+      ],
+      "strengthening": [
+        "强大反而会滋生罪恶，但至少现在，我们别无选择……",
+        "強さは悪を生む。しかし今の僕達にはそれ以外の選択肢はない…",
+        "Strength may breed sin, but for now, we have no other choice."
+      ],
+      "startingMission": [
+        "全部斩了就可以了吧……？",
+        "全部斬ればいいだろ……？",
+        "Shall I tear them apart...?"
+      ],
+      "mvp": [
+        "遇鬼杀鬼,遇神弑神！",
+        "鬼に逢っては鬼を斬り、神に逢っては神を斬る！",
+        "I shall slay anything that stands in my way, whether ghost or god!"
+      ],
+      "defeat": [
+        "……好痛……不，不需要在意我",
+        "……くっ！……ぼ、ぼくは大丈夫だ…",
+        "... It hurts... No, don't mind me."
+      ],
+      "skillActivation": [
+        "就这样...死在剑下吧…",
+        "我が刃で…朽ち果てろ…！",
+        "Perish by my blade!"
+      ],
+      "lowHP": [
+        "嘁……撤退？可笑",
+        "ちぃ…撤退？笑わせるな",
+        "Hmph. Retreat? How laughable."
+      ],
+      "affinityDisappointed": [
+        "靠近我的话，就斩了你",
+        "寄らば、シュナイデン！",
+        "If you get too close to me, I’ll cut you down"
+      ],
+      "affinityStranger": [
+        "没什么事不要随便靠近我，说过了吧",
+        "言ったはずだ。用がないなら、ぼくに近寄らないで",
+        "Didn’t I already tell you? Don’t talk to me if you don’t have any business."
+      ],
+      "affinityFriendly": [
+        "喂，说过别靠近我的——想了解我？……啧，随你喜欢吧",
+        "だから近寄らないでってーーぼくのことが知りたい？……はぁぁ、好きにしてくれ",
+        "I said don’t talk to me if-... You want to know more about me? Fine... as you wish."
+      ],
+      "affinityLike": [
+        "指挥官真是个怪人…这种感觉还是头一次，不过……好像也不坏……呐，能陪我聊聊天吗？",
+        "指揮官は変わってるな。…こんな感じは初めてだ。だけど……そう悪くはない……ねぇ、少し雑談に付き合ってくれるか？",
+        "Commander, you sure are a strange person. I’ve never felt anything like this before... but it’s not all that bad. Hey, care to have a little chat with me?"
+      ],
+      "affinityLove": [
+        "我的梦想是有一天，胜过这片天空，胜过一切……到时候，你会在我身边吗，指挥官？",
+        "ぼくの夢は、いつかこの空、そしてこの世のすべてに勝つことだ。…指揮官、その時、また側にいてくれるか？",
+        "My dream is to one day conquer the sky and everything beneath it. When that day comes, would you still remain by my side?"
+      ],
+      "pledge": [
+        "我…不擅长表达自己的感情…但指挥官却从没离开…只要指挥官还愿意呼唤摩耶之名，我…就还能战斗下去！所以…指挥官的手…不想放开……",
+        "ぼくは感情表現が苦手で…それでも指揮官はぼくを見捨てなかった……うん、指揮官がぼくの名を呼び続ける限り、ぼくは戦っていける。だから…指揮官の手を…ぼくは絶対に離さない…！",
+        "I’m not very good at expressing my emotions... but despite that, you’ve never left my side. As long as you’re willing to call for me, I will be able to continue fighting. Commander... I don’t want to let go of your hand."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官がいてくれるから、ぼくはこうしてバレンタインを迎えることができる。一応作ってみた……べ、別にバレンタインじゃなくてもいいけど、まあせっかくだからね…ね？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "あ、あの…今年もバレンタインチョコを作って、みたが…うん、鳥海に助けてもらった。いや、別に隠すほどのことじゃないけど！ぼくはこういうのがちょっと不器用だって知ってるだろう？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, happy Valentine's Day... Take the chocolate. I did the decorations on the box myself. I worked really hard at it, so... Well... You could tell me I did okay... didn't I?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Maya_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Maya_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Maya_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Maya_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Maya_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Maya_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Maya_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Maya_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Maya_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Maya_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Maya_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Maya_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Maya_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Maya_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Maya_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Maya_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Maya_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Maya_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Maya_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Maya_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Maya_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Maya_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Maya_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Maya_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Maya_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Maya_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Maya_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Maya_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Maya_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Maya_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maya_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maya_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Maya_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Maya_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Maya_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Maya_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Maya_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Maya_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Maya_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Maya_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Maya_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Maya_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Maya_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Maya_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Maya_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Maya_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Maya_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Maya_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Maya_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Maya_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Maya_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Maya_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Maya_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Maya_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Maya_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Maya_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Maya_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Maya_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Maya_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Maya_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Maya_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Maya_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Maya_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Maya_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Maya_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Maya_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Maya_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Maya_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Maya_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Maya_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Maya_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Maya_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Maya_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Maya_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Maya_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Maya_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Maya_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Maya_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

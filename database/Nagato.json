@@ -1,0 +1,930 @@
+{
+  "name": "Nagato",
+  "constructionTime": "04:20:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Nagato",
+  "ID": "212",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Alisa",
+  "pixiv": "https://www.pixiv.net/member.php?id=1966676",
+  "link": "https://weibo.com/u/6056658230",
+  "voiceActor": "https://en.wikipedia.org/wiki/Misaki_Kuno",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      8117,
+      146,
+      71,
+      419,
+      0,
+      37,
+      25,
+      182,
+      0,
+      15,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6955,
+      127,
+      71,
+      377,
+      0,
+      18,
+      25,
+      159,
+      0,
+      15,
+      56,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1345,
+      54,
+      71,
+      80,
+      0,
+      7,
+      25,
+      34,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "210% → 210%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 18,
+  "maxLimitBreakTechPoints": 36,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 27,
+  "enhancementValue": [
+    63,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    10
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "4th Combined Fleet Flagship; CN: 重樱舰队旗舰-鲨 JP: 四代目連合艦隊旗艦",
+  "skill1Description": "When sortied as Flagship: increases Firepower by 4% (10%), and Reload and Accuracy by 5% (20%) for allied Sakura Empire ships. Additionally, increases damage dealt by Sakura Empire Aircraft Carriers (does not include Aviation Battleships) by 5% (20%).",
+  "skill2Name": "Big Seven: Sakura; CN: BIG SEVEN-樱 JP: BIG SEVEN-桜",
+  "skill2Description": "When firing main gun: 20% (40%) chance to fire a frontal barrage (damage based on Skill Level).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/46/Nagato.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/85/NagatoChibi.png",
+      "shipDescription": [
+        "长门级战列舰一番舰—长门",
+        "長門型戰艦一番艦·長門",
+        "Nagato-class battleship number one – Nagato."
+      ],
+      "selfIntroduction": [
+        "吾代表着重樱的军魂，重樱的荣光以及重樱的辉煌。吾是BIG 7之一，吾之存在即是那个时代，睁大汝的双眼，顶礼膜拜吧——看够了吗，吾站腻了，要休息一下…",
+        "重桜の魂、重桜の誇り、そして重桜の栄光……かの時代そのものの象徴でもある、ビッグセブンの余を、刮目して見るが良い――…これでいいか？疲れたから、余はもう休むぞ",
+        "I am the manifestation of the soul of the Sakura Empire, the pride and glory of her warrior spirit. As a Big Seven, I am also the symbol of an era. Open your eyes and bask in my radiance... You may stop basking now, I'm getting a bit sleepy..."
+      ],
+      "acquisition": [
+        "吾乃重樱联合舰队旗舰——长门。汝就是指挥官吗？汝是否有取得天下的能力，就由吾用这双眼亲自确认吧",
+        "余は重桜連合艦隊旗艦――長門である。お主は指揮官か？天下を取る資質があるか、しかとこの目で見させてもらおう",
+        "I am called Nagato, flagship of the Sakura Empire's Combined Fleet. Are you the one known as the Commander? I shall bear witness to whether or not you have the ability to unite this world."
+      ],
+      "login": [
+        "欢迎肥…咬到了舌头…",
+        "おかえれ…し、舌を噛んただけだぞ…",
+        "Welcome ba... oww, I bit my tongue..."
+      ],
+      "details": [
+        "在这里，大家脸上都洋溢着笑容……吾喜欢这里！",
+        "皆の顔に笑顔が溢れておる……余はこの場所を気に入っているぞ！",
+        "Everyone's faces are full of laughter here... I think I am rather fond of this place!"
+      ],
+      "secretaryIdle1": [
+        "吾厌恶斗争，但…那个时候，吾……别无选择",
+        "争いは好まぬ、しかしあの時は…余に選択肢はなかった",
+        "I despise wars, but... at that time, the choice was not mine to make..."
+      ],
+      "secretaryIdle2": [
+        "那些轻言战争的人们…真的做好了付出代价的准备了吗？",
+        "戦争を語る輩は、果たして本腰の覚悟と自信はあるか？",
+        "Those who speak lightly of war... do you think they are prepared to face the consequences of their actions?"
+      ],
+      "secretaryIdle3": [
+        "获得拯救的人们脸上的表情，吾永远不会忘记…那才是吾想要保护的东西",
+        "かの天災で救った民の笑顔、余は絶対に忘れない…あれこそ余が守りたいものである",
+        "I shall never forget the smiles on the faces of those people who were saved from calamity. That is the reason why I fight."
+      ],
+      "secretaryTouch": [
+        "……！还、还没有人敢这么随意触碰我…",
+        "……！こ、こうも容易く余に触れた者はおらんかったぞ…",
+        "...! N-No one has ever dared to lay hands on me in such a manner..."
+      ],
+      "secretarySpecialTouch": [
+        "……轻、轻薄无礼！",
+        "……ぶ、無礼者！",
+        "... H-How uncouth!"
+      ],
+      "task": [
+        "任务书整理成这样就好了吗？吾不太明白",
+        "任務の書類はこれで良いか？余はよく分からぬが",
+        "Is it acceptable to arrange the itinerary in this manner? I do not quite understand how to do it yet..."
+      ],
+      "taskComplete": [
+        "任务奖励…嘿咻…放这里就可以了吗？",
+        "任務報酬…よいっしょ…ふぅ…ここで良いのか？",
+        "The mission rewards... Ngh...! Phew... is it acceptable to leave them here?"
+      ],
+      "mail": [
+        "这些纸是什么？信？原来这就是信吗，吾能看看吗？",
+        "この紙切れは？「めーる」？そうかメールか。余にも読ませてもらって良いか？",
+        "What is this piece of paper? \"Mail?\" I see, it's mail. Shall I read it?"
+      ],
+      "returnFromMission": [
+        "吾从未迎接过别人，能开一炮作为代替吗？",
+        "人を出迎えたことはないが…砲を撃てば良かろう？",
+        "I have never had to welcome anyone before. Perhaps I shall do so by firing my cannons?"
+      ],
+      "commission": [
+        "委托完成了…喂，吾难得记住了时间，汝就没有什么表示吗？",
+        "委託が完了したぞ…お、おい…せっかく余が時間を覚えたのに、お主は何も思わんのか？",
+        "The commission fleet has returned... H-Hey, I managed to remember the time. Have you no words of praise for me?"
+      ],
+      "strengthening": [
+        "但愿…能迎来铸剑为犁的那天——",
+        "矛を収める日が来るように――",
+        "I hope... to be able to welcome the day when we can all beat our swords into plowshares..."
+      ],
+      "startingMission": [
+        "又是…悲哀的战争…",
+        "また…悲しい戦争を…",
+        "Yet another... tragic battle."
+      ],
+      "mvp": [
+        "为什么非要招惹吾呢？",
+        "痴れ者が…なにゆえ余を怒らせたのだ？",
+        "Impudent fools... why did they have to provoke me?"
+      ],
+      "defeat": [
+        "呜…又失败了吗…",
+        "うぅ……また失敗しちゃった……",
+        "Ugh... I have failed once again..."
+      ],
+      "skillActivation": [
+        "吾乃长门，重樱的长门",
+        "余は長門…重桜の長門である！",
+        "I am called Nagato... Nagato of the Sakura Empire!"
+      ],
+      "lowHP": [
+        "决战的时刻到了吗…",
+        "決戦の時か…！",
+        "The decisive battle is upon us!"
+      ],
+      "affinityDisappointed": [
+        "汝的愿望…就是让吾做和过去一样的事吗？吾…知道了",
+        "お主の願いは…余にアヤマチを繰り返させることか？余は…分かった…",
+        "Your wish... is to repeat the errors of the past once more? Very well... I see..."
+      ],
+      "affinityStranger": [
+        "汝有什么事吗？吾？吾什么都没在做。自从把位置交给大和后，吾就只有在战场之上才有事可做了",
+        "何事か？余？余は何もしておらぬぞ。あの働きを大和に任せてから、余のすることは戦いしか残っておらぬぞ",
+        "What do you require of me? Hmm? I am not doing anything in particular. After I handed the work to Yamato, there is little to do except fight."
+      ],
+      "affinityFriendly": [
+        "多和大家在一起？即使和她们在一起吾也不知道做什么，而且吾看得出来，她们在畏惧吾……汝在做什么，为什么要把吾的舰装脱下来……",
+        "皆ともっと一緒にいろ、だと？一緒にいても余は何をして良いのか分からぬし、それに余のことを皆が怖がっているのは目に見えておる……何をしておる！どうして余の艤装を下ろそうとするのだ！",
+        "I should spend more time with the others? Even if I tried to do that, I would not know how to behave, and they would be afraid of me all the same... Hey, what are you doing... why are you taking off my riggings?!"
+      ],
+      "affinityLike": [
+        "原来如此，脱掉以后，大家似乎不再那么敬畏吾了。确实有种轻松的感觉…但这股淡淡的失落感又是怎么回事呢…就像把旗舰之职转交给大和那时一样…",
+        "なるほど、艤装を下ろしてから、皆に恐がられなくなったな。確かに気持ちが軽くなっておるが…でもこの淡い喪失感はなぜだろう…旗艦を大和に譲った時とおなじような……",
+        "I see! I am less intimidating with my riggings taken off. I certainly do feel lighter... but why does it feel like I've lost something... like when I appointed Yamato to take over as flagship?"
+      ],
+      "affinityLove": [
+        "要被一个人视为珍宝就足够了吗？…是汝将吾硬拉了出来，汝要对吾负责…所以…那个，就是说…我、吾命令汝，将吾是视作汝的宝物…不、不行吗？",
+        "大切にしてくれる人がいたほうが良いのか？じゃ…余を連れ出すのがお主だから、せ、責任を取ってもらうぞ…えっと…その、つまり…お、お主に命じる…余を大切にするのだ…ど、どうだ…？",
+        "It is enough to be treasured by one person? Since you were the one who brought me out... I shall have you take responsibility... that is, umm, in other words, I command you to... treasure me... if that is acceptable?"
+      ],
+      "pledge": [
+        "若战争的彼端，不是吞噬一切的白光，而是你温暖的怀抱…对现今的我来说，就已经别无他求了",
+        "戦乱の彼方にあるのは、あのすべてを飲み込む光ではなく、お主の温かいぬくもりなら、今の余は…他に何も求めないよ",
+        "When I cross the river after the war ends, what awaits me is not a searing white light that engulfs everything, but rather, your warm embrace... There is nothing more that I could ask for..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with 5 Sakura Empire ships) 联合舰队，粉碎敌人",
+        "(Sortie with 5 Sakura Empire ships) 連合艦隊、敵を粉砕せよ",
+        "(Sortie with 5 Sakura Empire ships) Combined Fleet, crush our enemies!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 1 of: Fusou, Yamashiro, Mutsu) 第一战队，火力全开",
+        "(Sortie with at least 1 of: Fusou, Yamashiro, Mutsu) 第一戦隊、火力全開",
+        "(Sortie with at least 1 of: Fusou, Yamashiro, Mutsu) 1st Battleship Division, open fire!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Mutsu) 陆奥，提问等战斗结束以后再说！",
+        "(Sortie with Mutsu) 陸奥，陸奥、質問は戦のあとにせんか！",
+        "(Sortie with Mutsu) Mutsu, leave your questions for after the battle!"
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with Mikasa) 三笠大人，请看着长门的奋战吧！",
+        "(Sortie with Mikasa) 三笠様、長門の戦い、とくとご覧あれ！",
+        "(Sortie with Mikasa) Observe closely this battle of mine, Mikasa!"
+      ],
+      "additionalVoiceLine5": [
+        "(Sortie with Akagi) 赤城，助吾一臂之力吧！",
+        "(Sortie with Akagi) 赤城、お主の力を借りるぞ！",
+        "(Sortie with Akagi) Akagi, I need your strength as my own!"
+      ],
+      "additionalVoiceLine6": [
+        "(Sortie with at least 1 of: Rodney, Nelson, Colorado, Maryland, West Virginia) 呒…！吾、吾才不觉得羡慕呢！",
+        "(Sortie with at least 1 of: Rodney, Nelson, Colorado, Maryland, West Virginia) むぅ…！よ、余はそういうところは羨ましがっておらんぞ！",
+        "(Sortie with at least 1 of: Rodney, Nelson, Colorado, Maryland, West Virginia) Hmph...! I have no reason to envy you for those... things!"
+      ],
+      "additionalVoiceLine7": [
+        "(Sortie with Amagi) 天城，给汝添麻烦了啊……",
+        "(Sortie with Amagi) 天城、お主には迷惑をかけたな…",
+        "(Sortie with Amagi) Amagi, you've inconvenienced the Commander..."
+      ],
+      "additionalVoiceLine8": [
+        "(Sortie with Kawakaze) 江风，开道就交给你了！",
+        "(Sortie with Kawakaze) 江風、露払いは任せたぞ！",
+        "(Sortie with Kawakaze) Kawakaze, I trust you to lead the way!"
+      ],
+      "giftDescriptionValentines2019": [
+        "就、就把吾第一次尝试制作的这个巧、巧克力赐予汝吧！汝就心怀感激地接受吧！…汝、汝会真的吃掉的吧…会吧…？",
+        "よ、余が初めて作ったちょ、「ちょこれーと」を賜ってやる！この寛大なる余の気持ちを、お主の心で感じるが良いぞ！……ほ、本当に食べてくれる…よね…？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's Day! Do accept my chocolate. This is a most special moment, rarely seen... B- because it is Valentine's Day, and I have made for you this chocolate with mine own hands!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Nagato_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Nagato_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Nagato_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Nagato_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Nagato_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Nagato_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Nagato_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Nagato_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Nagato_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Nagato_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Nagato_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Nagato_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Nagato_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Nagato_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Nagato_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Nagato_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Nagato_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Nagato_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Nagato_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Nagato_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Nagato_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Nagato_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Nagato_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Nagato_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Nagato_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Nagato_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Nagato_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Nagato_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Nagato_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Nagato_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Nagato_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Nagato_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Nagato_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagato_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagato_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagato_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Nagato_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Nagato_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Nagato_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Nagato_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Nagato_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Nagato_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Nagato_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Nagato_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Nagato_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Nagato_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Nagato_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Nagato_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Nagato_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Nagato_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Nagato_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Nagato_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Nagato_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Nagato_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Nagato_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Nagato_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Nagato_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Nagato_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Nagato_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Nagato_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Nagato_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Nagato_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Nagato_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Nagato_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Nagato_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Nagato_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Nagato_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Nagato_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Nagato_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Nagato_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Nagato_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Nagato_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Nagato_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Nagato_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Nagato_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Nagato_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Nagato_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Nagato_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Nagato_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Nagato_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Nagato_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Nagato_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Nagato_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Nagato_Extra3JP.ogg"
+      ],
+      "additionalVoiceLine4Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Nagato_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Nagato_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Nagato_Extra4JP.ogg"
+      ],
+      "additionalVoiceLine5Url": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Nagato_Extra5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Nagato_Extra5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Nagato_Extra5JP.ogg"
+      ],
+      "additionalVoiceLine6Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Nagato_Extra6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Nagato_Extra6JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Nagato_Extra6JP.ogg"
+      ],
+      "additionalVoiceLine7Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Nagato_Extra7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Nagato_Extra7JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Nagato_Extra7JP.ogg"
+      ],
+      "additionalVoiceLine8Url": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Nagato_Extra8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Nagato_Extra8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Nagato_Extra8JP.ogg"
+      ]
+    },
+    {
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6f/NagatoOriginal.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/41/NagatoOriginalChibi.png"
+    },
+    {
+      "ENClientName": "Great Fox's White Gown",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "御狐的白装束",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "御狐の白装束",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/65/NagatoWedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/71/NagatoWeddingChibi.png",
+      "shipDescription": [
+        "小、小女子不才，还请多多关照……这么说就可以了吗？总觉得有点…不好意思呢，呵呵……",
+        "こうして大切な人を待つのも結構嬉しいものだぞ…ふ、ふふ……",
+        "It may be presumptuous of me, but please take care of me from now on... Is that acceptable? S-Somehow, it feels a little embarrassing... Ahaha..."
+      ],
+      "acquisition": [
+        "小、小女子不才，还请多多关照……这么说就可以了吗？总觉得有点…不好意思呢，呵呵……",
+        "ふ、不束者ですが、よろしくお願いします……これでよかろう？な、なんだか……気恥ずかしいぞ…は、ははは……",
+        "It may be presumptuous of me, but please take care of me from now on... Is that acceptable? S-Somehow, it feels a little embarrassing... Ahaha..."
+      ],
+      "login": [
+        "也只有汝敢让吾等这么久了呢",
+        "余をこれ程待たせる勇気があるのはお主ぐらいだぞ",
+        "You are the only one who has the nerve to keep me waiting."
+      ],
+      "details": [
+        "在这里，吾才能够露出发自内心的笑容…吾喜欢这里！",
+        "ここなら余も心から笑っていられよう……余はこの場所を気に入っているぞ！",
+        "I am able to smile from the bottom of my heart when I am here. Yes, I am very fond of this place!"
+      ],
+      "secretaryIdle1": [
+        "现在的话，吾愿意战斗，因为吾知道吾，吾等是在为什么而战",
+        "余は戦うぞ！何のために戦っているか、今の余には分かっているのだから！",
+        "I shall fight on! At long last I have discovered, what it is that I fight for!"
+      ],
+      "secretaryIdle2": [
+        "吾永远都会记得，汝将吾从舾装里拉出来时，那双手的温暖",
+        "「艤装」から余を救い出したお主の手のぬくもり、今でもはっきりと覚えておるぞ",
+        "I shall never forget... the warmth of the hands that pulled me out from the shackles of my armaments..."
+      ],
+      "secretaryIdle3": [
+        "未来会是什么样的呢……有生以来，吾头一次这么想要知道",
+        "未来はどんな形になるのか……生まれて初めてそれが知りたくなったのだ",
+        "What will the future hold in store...? For the first time in my life, I want to know the answer."
+      ],
+      "secretaryTouch": [
+        "被汝这般触碰，原来是如此幸福的一件事…",
+        "お主にこうして触れられるのが、ここまで幸せなものとは……",
+        "I never knew that being touched like this... could bring me so much joy..."
+      ],
+      "secretarySpecialTouch": [
+        "呜…这里不行啦…",
+        "うぅ……こ、ここでしてはならぬぞ…",
+        "Uuhh... p-please, not right there..."
+      ],
+      "task": [
+        "任务书按照汝习惯的方式整理好了哦",
+        "お主が読みやすいように書類を整理したぞ",
+        "I have arranged the tasks in accordance with your instructions."
+      ],
+      "mail": [
+        "小狐狸们帮忙把信带过来了，嘻嘻，看来它们也很喜欢你呢",
+        "手紙はこの子達が持ってきたぞ。ふふ、お主のこともずいぶんと気に入っておるな",
+        "My familiars helped bring the mail in. Ehehe, they seem to have taken a liking to you."
+      ],
+      "returnFromMission": [
+        "像这样等待着重要的人回来，好像也不错呢…嘻嘻…",
+        "こうして大切な人を待つのも結構嬉しいものだぞ…ふ、ふふ……",
+        "Waiting for a beloved person to come back... is a thing of joy as well, hehe..."
+      ],
+      "commission": [
+        "委托完成了哦，正好一起散步去港口迎接她们吧",
+        "委託が完了したぞ。港に行って出迎えてあげようではないか",
+        "A commission has been completed. Shall we take this opportunity to take a walk around the port?"
+      ],
+      "startingMission": [
+        "为了吾等的未来！",
+        "我らが未来のために！",
+        "For the sake of our futures!"
+      ],
+      "affinityLove": [
+        "吾乃长门，不仅仅是重樱的长门，更是汝的长门。是汝对吾伸出了手，让吾不再感到孤独…所以，吾想一直待在汝的身边，汝…是不会拒绝吾的…吧？",
+        "余は長門。重桜の長門だけでなく、お主の長門でもあるのだ。孤独だった余に手を差し伸べてくれたお主、余はこれからもずっとお主の側にいたいのだぞ。よもや断られることなんてない……よね？",
+        "My name is Nagato. Not the Nagato of the Sakura Empire, but of you only. Because you were the one who reached out to me and pulled me from the depths of my loneliness, I wish to always stay by your side. You... won't reject me, right?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagato_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagato_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagato_IntroSkin8JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Nagato_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Nagato_LogSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Nagato_LogSkin8JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Nagato_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Nagato_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Nagato_DetailsSkin8JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Nagato_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Nagato_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Nagato_SecIdle1Skin8JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_SecIdle2Skin8JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Nagato_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Nagato_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Nagato_SecIdle3Skin8JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Nagato_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Nagato_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Nagato_Sec1Skin8JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Nagato_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Nagato_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Nagato_Sec2Skin8JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Nagato_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Nagato_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Nagato_TaskSkin8JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Nagato_MailSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Nagato_MailSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Nagato_MailSkin8JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Nagato_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Nagato_MissionFinSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Nagato_MissionFinSkin8JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Nagato_CommissionSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Nagato_CommissionSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Nagato_CommissionSkin8JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Nagato_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Nagato_MissionStartSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Nagato_MissionStartSkin8JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Nagato_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Nagato_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Nagato_Affinity4Skin8JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Great Fox's Respite",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "神子的休憩",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "御狐の寝間着",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e0/NagatoSleepy.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f1/NagatoSleepyChibi.png",
+      "shipDescription": [
+        "呼，今天要招待指挥官，拜托你们把吾打扮得好看些，吾，呼啊……还有点困……汝等在吵闹什么？……？！指、指挥官，汝什么时候在那的！",
+        "今日は指揮官を招待するぞ。饅頭たち、あとで余を盛装に着せ替えさせるがよい！余は、ふは……もう少しうたた寝を……ぬぅ、なにかが騒がしいぞ？…お、お主！？いつからいたのだ！？",
+        "I shall be hosting the commander today. Manjuus, I beseech you to help me look my best. I am... *yawn* a bit sleepy... Urghh... what is that ruckus out there? C-Commander! When did you arrive?"
+      ],
+      "acquisition": [
+        "呼，今天要招待指挥官，拜托你们把吾打扮得好看些，吾，呼啊……还有点困……汝等在吵闹什么？……？！指、指挥官，汝什么时候在那的！",
+        "今日は指揮官を招待するぞ。饅頭たち、あとで余を盛装に着せ替えさせるがよい！余は、ふは……もう少しうたた寝を……ぬぅ、なにかが騒がしいぞ？…お、お主！？いつからいたのだ！？",
+        "I shall be hosting the commander today. Manjuus, I beseech you to help me look my best. I am... *yawn* a bit sleepy... Urghh... what is that ruckus out there? C-Commander! When did you arrive?"
+      ],
+      "login": [
+        "呼啊……指挥官，汝来了，吾还要睡会儿，晚安……",
+        "ふぁ……お、お主か？余はもう少し……おやすみ……",
+        "*yawn* Oh... Commander? I desire a few more minutes of respite... Good night..."
+      ],
+      "details": [
+        "指挥官，汝休息的时候都在做些什么，也和吾说说吧",
+        "お主が休日になにをしておるのか……す、少しだけ余に聞かせてもよいぞ",
+        "Commander, what are you going to do on your next day off? I-I would not mind hearing you out."
+      ],
+      "secretaryIdle1": [
+        "指挥官，汝来得正好，帮吾找找，吾的衣服不知道去哪儿了……先、先说好，可不是吾不小心塞到奇怪的地方然后忘记了",
+        "いいところに来た。余の服を探すのを手伝ってくれぬか……予め言っておくが…け、決して余が散らかして見つからなくなったわけではないぞっ！？",
+        "Good timing. I require your assistance in locating my lost clothes... Just so you know, I did not misplace them because I was playing around, understood?!"
+      ],
+      "secretaryIdle2": [
+        "有时候，吾也有些羡慕陆奥。以前坐在很高的地方什么也不做的吾，现在即使自由，也不知该如何像她那样玩耍…",
+        "陸奥のことが羨ましく思える時もある…神子として拝まれ、ただただ雲の上にいた余は、今こうして自由でいても、あの子のように遊べんのだ",
+        "I sometimes envy Mutsu... Even though I have my freedom now, unlike when I was placed upon a pedestal and worshipped, I can't be carefree like her..."
+      ],
+      "secretaryIdle3": [
+        "指挥官，汝日后工作要是有空，也可以多来找吾，这里即使算上陆奥和江风她们，对吾来说还是太大了",
+        "都合が付く時は、いつでも余に会いにくるがよいぞ。この場所は陸奥と江風たちを入れても…いささか広すぎるからな",
+        "Commander, you should come visit me more often if you're not busy. Though Mutsu and Kawakaze keep me company, this place is still too spacious for my tastes."
+      ],
+      "secretaryTouch": [
+        "汝是打算邀请吾出去玩吗？…也好，吾也想与汝一同出去看看",
+        "余に外遊を誘うつもりか？…良い、余もお主と一緒に出かけたいところだぞ",
+        "Commander, did you plan to invite me out? ... Very well. Our interests happen to be in concordance."
+      ],
+      "returnFromMission": [
+        "汝饿了吗，吾这里有团子",
+        "お主、小腹が空いておるのか？このお団子で腹ごしらえでもするがよい",
+        "Commander, do you hunger? Then do partake of this dango."
+      ],
+      "affinityLove": [
+        "吾的另一面，现在也已经被汝看完了…所以，现在汝即使说要离开吾，吾……吾也不允许，嗯，决不允许！",
+        "こ、ここまで立ち入らせたのは、余のすべてをお主に託す覚悟が出来たからだぞ！……今更お主がダメと言っても許さぬぞ！……ぜ、絶対に許さないんだからね！",
+        "I-I'm only doing this because... I'm prepared to entrust everything to you, Commander! ...I won't let you take back your word now! I a-absolutely will not allow it!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Nagato_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Nagato_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Nagato_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Nagato_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Nagato_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Nagato_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Nagato_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Nagato_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Nagato_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Nagato_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Nagato_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Nagato_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Nagato_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Nagato_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Nagato_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Nagato_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Nagato_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Nagato_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Nagato_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Nagato_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Nagato_Sec1Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Nagato_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Nagato_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Nagato_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Nagato_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Nagato_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Nagato_Affinity4Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Guardian Fox's Shining Furisode",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "御狐的辉振袖",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "御狐の輝振袖",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/43/NagatoNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c1/NagatoNew_YearChibi.png",
+      "shipDescription": [
+        "来得正好，有汝在，就算是一成不变的赏月也多少会变得有趣些吧——今天就好好在这休息吧",
+        "よくぞ来てくれた。お主がいれば、同じ月見でもいつもよりも楽しくなるやもしれぬ――今日はここでゆ、ゆっくりくつろいでゆくが良いぞ？",
+        "Perfect, you have arrived. As long as you are here, the usual moon-watching will prove to be much more enjoyable... Why don't you stay here today and rest for a while?"
+      ],
+      "acquisition": [
+        "来得正好，有汝在，就算是一成不变的赏月也多少会变得有趣些吧——今天就好好在这休息吧",
+        "よくぞ来てくれた。お主がいれば、同じ月見でもいつもよりも楽しくなるやもしれぬ――今日はここでゆ、ゆっくりくつろいでゆくが良いぞ？",
+        "Perfect, you have arrived. As long as you are here, the usual moon-watching will prove to be much more enjoyable... Why don't you stay here today and rest for a while?"
+      ],
+      "login": [
+        "今天要做些什么？尽管指示吾没关系的",
+        "今日は何をするか？余に手伝えることを指示するが良い",
+        "What do you plan to do today? Do call upon me if you need my help."
+      ],
+      "details": [
+        "也、也不用那么急着走吧…？这里又宽阔，又安静，还有暖气…想要埋在这孩子身上蹭蹭也是可以的哦！",
+        "べ、別に急いで外に出ることもなかろう…？ここは広いし、静かだし、暖房も効いておる…なんなら余をモフモフしても良いぞ！",
+        "Th-there's no need to be in a hurry to go outside, right...? It's spacious, quiet, and warm here... and you are authorized to pat my fluffy friend."
+      ],
+      "secretaryIdle1": [
+        "虽说一年到头都可以赏月，不过，像这样和汝两人一同赏月，就不是那么随时可以的了…",
+        "月見というのは年中できるものだが、お主とこうして二人っきりになるきっかけは中々ないものだな…",
+        "The moon can be freely enjoyed throughout the year, but there are few opportunities for the two of us to gaze at the moon together..."
+      ],
+      "secretaryIdle2": [
+        "陆奥？让她出去玩了。那孩子，跟江风比起来…该说她不懂得看气氛还是什么呢…呜…就、就别让吾想起这事了！",
+        "陸奥？あの子は出かけさせておる。江風と違って、空気を読まないというか…うぅ……思い出させるでない！",
+        "Mutsu? Let her go out and play. Unlike Kawakaze, she has no awareness of her surroundings... Ah, b-but don't let her hear I said that!"
+      ],
+      "secretaryIdle3": [
+        "月见酒？确实挺风雅的，吾就…果然还是算了！想喝的话就汝自己喝吧！……(小声)吾是不能喝酒的……",
+        "月見酒？確かに風流ではるが、余は……や、やっぱり……飲むならお主ひとりで酌をするが良い！……（小声）余はお酒は飲めぬぞ……",
+        "Moon-viewing sake? This has indeed been quite popular, but I... Ah, f-forget it! If you want to drink, then treat yourself! ...after all, I'm not allowed to..."
+      ],
+      "secretaryTouch": [
+        "汝是想要点评吾这身衣裳吗？哼哼，可别小看了重樱匠人的技巧哦？",
+        "余のこの衣装を品評するつもりか？ふふ、重桜の職人の腕を甘く見るでないぞ？",
+        "Do you wish to comment upon my attire? Hehe, don't underestimate the skill of the Sakura Empire's craftspeople!"
+      ],
+      "secretarySpecialTouch": [
+        "汝、汝想做什么！？",
+        "な、何をしておる？！",
+        "Wh-what are you doing?!"
+      ],
+      "returnFromMission": [
+        "江风，给指挥官准备个坐垫。可不能只有吾这么享受",
+        "江風、指揮官の座布団も支度せよ。余だけが楽するわけにはいかぬぞ",
+        "Kawakaze, prepare a cushion for the Commander. It would be inappropriate for only me to be comfortable."
+      ],
+      "mvp": [
+        "在吾等重樱的力量之前倾倒吧！",
+        "我が重桜の力にひれ伏すが良い！",
+        "Prostrate yourself before the might of the Sakura Empire!"
+      ],
+      "affinityLove": [
+        "汝、汝啊！那个，吾想说的是…“今晚月色真美”……唔…！果然还是太令人害羞了…说不出口……",
+        "お、お主！ええと、余は…こ、「今夜の月は綺麗だね…」ぐぅうううう…！こんな恥ずかしいことうまく言えぬぞ………",
+        "C-Commander, I, um... \"th-the moon is beautiful tonight...!\" Gyaaah...! It's way too embarrassing... there's no way I could say that..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Nagato_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Nagato_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Nagato_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Nagato_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Nagato_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Nagato_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Nagato_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Nagato_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Nagato_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagato_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagato_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagato_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Nagato_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Nagato_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Nagato_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Nagato_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Nagato_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Nagato_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Nagato_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Nagato_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Nagato_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Nagato_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Nagato_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Nagato_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Nagato_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Nagato_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Nagato_MissionFinSkin2JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Nagato_MVPSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Nagato_MVPSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Nagato_MVPSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Nagato_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

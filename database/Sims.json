@@ -1,0 +1,689 @@
+{
+  "name": "Sims",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Sims",
+  "ID": "026",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/3/32/Sims_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1815,
+      204,
+      45,
+      81,
+      286,
+      160,
+      42,
+      172,
+      0,
+      8,
+      178,
+      208,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      2025,
+      219,
+      45,
+      111,
+      286,
+      160,
+      45,
+      262,
+      0,
+      8,
+      178,
+      208,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1723,
+      192,
+      45,
+      100,
+      251,
+      154,
+      45,
+      239,
+      0,
+      8,
+      169,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      1513,
+      177,
+      45,
+      70,
+      251,
+      154,
+      42,
+      149,
+      0,
+      8,
+      169,
+      187,
+      0,
+      0
+    ],
+    "Base Stats": [
+      293,
+      75,
+      45,
+      15,
+      53,
+      59,
+      42,
+      32,
+      0,
+      2,
+      65,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 120% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130% → 135%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 10,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    5,
+    18,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Artillery Command: Destroyers; CN: 炮术指挥·驱逐舰 JP: 砲術指揮・駆逐艦",
+  "skill1Description": "Increases Firepower of Destroyers in the same fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "(Retrofit) Smokescreen; CN: 烟雾弹 JP: 煙幕散布",
+  "skill2Description": "After battle begins, and 15% (30%) chance to activate every 15 seconds after that: deploys a smokescreen for 5 seconds. Escort ships within the smokescreen have a 20% (40%) additional Evasion Rate. Does not stack with same skill effect.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-シムス級",
+  "skill3Description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Sims Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/Sims.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fd/SimsChibi.png",
+      "shipDescription": [
+        "西姆斯级驱逐舰—西姆斯，舷号DD-409",
+        "シムス級駆逐艦・シムス（DD-409)",
+        "Sims-class destroyer - Sims, Hull Number DD-409!"
+      ],
+      "selfIntroduction": [
+        "西姆斯级驱逐舰首舰是我没错哦。 指挥官，不要跟我提珊瑚海，我会忍不住想作弄你的~",
+        "シムス級のネームシップはこの私よ。指揮官さぁ~珊瑚海とか言わないでよね、それ聞いたらつい人にイタズラしたくなっちゃうんだから~",
+        "I'm Sims, the name ship of the Sims-class. Commander... don't even think about mentioning the Battle of the Coral Sea in front of me. It instinctively makes me want to pull pranks on people~"
+      ],
+      "acquisition": [
+        "你就是我的指挥官吗……嗯……我是西姆斯级驱逐舰的大姐西姆斯，嘻嘻，请多关照啦",
+        "あんたが指揮官ね……ふぅん~わたしはシムス級駆逐艦のネームシップシムス、イヒヒ、よろしく頼むわ",
+        "So you're the commander... I'm Sims, the name ship of the Sims class of destroyers. Hehe, nice to meet you!"
+      ],
+      "login": [
+        "欢迎回来，指挥官……嗯？门上的板擦可不是我放的哦",
+        "おかえり、指揮官……黒板消し？さぁ？わたしが置いたんじゃないわよ~",
+        "Welcome back, Commander... Hmm? No, I didn't see who hid your stuff."
+      ],
+      "details": [
+        "指挥官，再怎么看数据也不会开花哦？",
+        "指揮官さぁ~どんなにじっと見てもステータスは上がんないわよ。",
+        "Look, Commander, I won't level up just from you staring at me."
+      ],
+      "secretaryIdle1": [
+        "你知道吗，我有个叫莫里斯的妹妹是最好欺负的了",
+        "知ってる？私のモリスっていう妹はいっちばんいじりがいがあるんだ~",
+        "You know, I've got a little sister called Morris. She's just so fun to tease~"
+      ],
+      "secretaryIdle2": [
+        "那么找找看吧指挥官，我到底为你准备了多少惊喜",
+        "じゃあ指揮官探してみてよ、このわたしが用意したサプライズが果たしていくつあるのかな~？",
+        "Try to find out how many surprises I've got in store for you, Commander!"
+      ],
+      "secretaryIdle3": [
+        "来，和我一起摆这个动作……嘿，腋下攻击！",
+        "はい、わたしと一緒にポーズ~かかった！こちょこちょ攻撃！",
+        "Come on, let's play! Ahaha! Tickle tickle!"
+      ],
+      "secretaryTouch": [
+        "你的兴趣是不是有点奇怪……",
+        "ちょっとあんたの趣味って…ヘンじゃない？",
+        "Don't you find this hobby of yours a bit strange...?"
+      ],
+      "secretarySpecialTouch": [
+        "……指挥官，今晚睡前小心点喔！",
+        "…‥指揮官、今夜寝るときは覚悟してな！///",
+        "... You'd better be ready when you're going to sleep tonight, Commander!"
+      ],
+      "task": [
+        "可别光顾着对付我的恶作剧忘了正事哦？",
+        "次の委託完了まであと5分よ~ヒッヒッヒッ",
+        "Don't forget your missions while you're dealing with my pranks!"
+      ],
+      "taskComplete": [
+        "咦，原来有任务奖励吗，我差点扔了呢",
+        "あれぇ~ミッションボーナスがあるんだ~うっかり捨てちゃうところだったよ~",
+        "Oh, these are rewards~ I was just about to throw them away~"
+      ],
+      "mail": [
+        "有人送情书给你欸……啊，不好意思看错了",
+        "あっラブレターだ！…あごめん見間違えちゃったわ～",
+        "Someone's sent you a love letter! ... Oh, never mind, I read it wrong!"
+      ],
+      "returnFromMission": [
+        "指挥官我要去洗澡，要一起吗~嘻嘻～",
+        "指揮官さぁ、今からわたし、お風呂に入るけど、一緒にどぉ~ヒッヒッヒッ~",
+        "I'm heading out to take a bath, Commander... Want to join me? Heehee~!"
+      ],
+      "commission": [
+        "还有5分钟就有一个委托完成咯~（坏笑）",
+        "委託完了まであと5分~",
+        "A commission will be finished in five minutes~! *grins devilishly*"
+      ],
+      "strengthening": [
+        "嘻嘻，谢啦~",
+        "ふふん、ありがとな~",
+        "Hehe, thanks~!"
+      ],
+      "startingMission": [
+        "随随便便解决掉吧",
+        "適当にやっちゃおうかな~",
+        "Maybe I'll fight for real this time~"
+      ],
+      "mvp": [
+        "还差一点就可以打败我们了呢，可惜啊～啧啧～",
+        "あと少しでわたしたちに勝てたのに惜しいな~ヒッヒッヒッ",
+        "Aww, you were so close to beating us~ Heehee~!"
+      ],
+      "defeat": [
+        "还不如回家捉弄指挥官呢……",
+        "帰って指揮官をいじったほうがマシだもん…",
+        "I would rather have stayed home and pranked the commander..."
+      ],
+      "skillActivation": [
+        "嘿嘿，躲得开吗~",
+        "ヒヒヒ、これでも避けられる~？",
+        "Hehe, dodge this!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "啊等等，我正在收拾一些道具，以后不会对指挥官恶作剧了，开心吗？",
+        "あ、今片づけてるの。もう指揮官をいじらないよ？うれしい？",
+        "Wait a bit... I'm just tidying up... I won't play any more tricks on you, Commander. Are you happy now?"
+      ],
+      "affinityStranger": [
+        "怎么了，指挥官，难道是对我一见钟情了？我可不喜欢轻浮的男人哦？",
+        "なーに指揮官、わたしに一目惚れしちゃった？わたし軽い男はダメよ？",
+        "Oh? You fell in love with me at first sight, Commander? I don't fancy anyone who is that shallow..."
+      ],
+      "affinityFriendly": [
+        "最近我恶作剧你都不生气了，总觉得有点寂寞呢……嗯？我才没有得了便宜还卖乖啦",
+        "最近さあ、指揮官はわたしがイタズラしても怒らなくなったけど、なんだか寂しそうじゃん……うん？わたし調子乗ってないわよ！",
+        "You don't seem to be too angry about my pranks these days... It's making me feel a bit lonely. Hm? No, I'm not trying to be cocky!"
+      ],
+      "affinityLike": [
+        "干什么啦，扯我嘴角……不要老是假笑？……笨蛋，连我是不是真心在笑都看不出来",
+        "もうなによ頬を引っ張って……作り笑いはだめ？……ばーか、本気で笑っているのもわからないの？",
+        "C'mon, why are you pulling on my cheeks... I was faking my smile? No, that was a sincere smile! Couldn't you tell?"
+      ],
+      "affinityLove": [
+        "指挥官，来玩投硬币吧，投到了正面就要说一遍你喜欢西姆斯……都是正面？哎呀露馅了（吐舌）",
+        "はい指揮官、コインを投げて～表が出たらシムスのことが好きって言って～どっちもオモテ？アッチャーバレタカー（棒）",
+        "Let's flip a coin, Commander. If it's heads, you have to say \"I love Sims\" once... Wait! Ah, you caught me. It's heads on both sides!"
+      ],
+      "pledge": [
+        "指挥官，叫我过来做什么？……闭上眼？难道指挥官想要对报复往日的恶作剧吗？可以哦（闭眼），反正指挥官这么笨……欸……这是……",
+        "指揮官、なに？……目を閉じてって？ははん、まさか日頃のイタズラの仕返しってやつ？いいわよ～どうせバカの指揮官なんて……あ、あれ……これって……",
+        "What is it, Commander? ... Close my eyes? Haha, are you trying to get back at me for my pranks? Okay then... *Closes her eyes* You're so dumb, thinking you can... H-huh...? Is this what I..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Hammann) 哈曼，快看，指挥官在天上飞！",
+        "(Sortie with Hammann) おーいハムマン！指揮官が飛んでいるよ！",
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        "惊喜巧克力~指挥官你莫非知道我会送巧克力？为什么啊？？",
+        "サプライズチョコだよ〜って指揮官、私からチョコあげるの知ってたの？なんで？？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "哦！指挥官性子真急啊！已经发现巧克力是西姆斯送的了？嘿嘿嘿，但是你肯定不知道里面是什么味的吧？快点尝尝看嘛！",
+        "お！指揮官は気が早いね！もうチョコはシムスが送ったことに気づいちゃった？イヒヒ、でもさすがにチョコの中身はわからないよね？早く食べてみてよ！",
+        "Surprise chocolate coming your way~! Wait, you knew I'd give you chocolate on this day? How?!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here, eat these cat ear chocolates I made! Fun fact: they're made to look just like the ones on my head. You'll sprout a pair of your own if you eat these!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Sims_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Sims_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Sims_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Sims_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Sims_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Sims_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Sims_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Sims_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Sims_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Sims_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Sims_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Sims_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Sims_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Sims_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Sims_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Sims_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Sims_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Sims_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Sims_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Sims_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Sims_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Sims_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Sims_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Sims_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Sims_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Sims_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Sims_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Sims_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Sims_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Sims_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Sims_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Sims_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Sims_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Sims_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Sims_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Sims_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Sims_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Sims_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Sims_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Sims_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Sims_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Sims_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Sims_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Sims_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Sims_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Sims_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Sims_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Sims_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Sims_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Sims_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Sims_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Sims_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Sims_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Sims_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Sims_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Sims_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Sims_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Sims_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Sims_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Sims_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Sims_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Sims_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Sims_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Sims_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Sims_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Sims_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Sims_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Sims_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Sims_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Sims_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Sims_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Sims_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/17/Sims_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Sims_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/17/Sims_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/fb/SimsKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/38/SimsKaiChibi.png",
+      "shipDescription": [
+        "指挥官，就算对我这么好，我还是不会停止捉弄你的哦？啊，不过，要是你想让我帮你捉弄别人的话，我也可以考虑一下哦~",
+        "指揮官さぁ～いくらわたしを良くしてもいたずらをやめさせられないよ～あ、でもぉ、ほかの子にちょっとイタズラさせたかったら考えられなくもないぞーヒヒヒ",
+        "Y'know, Commander~ No matter how nice you are to me, I'm still going to prank you~ Oh, but if you want my help with pranking others, I'll consider it~ Heehee~"
+      ],
+      "acquisition": [
+        "指挥官，就算对我这么好，我还是不会停止捉弄你的哦？啊，不过，要是你想让我帮你捉弄别人的话，我也可以考虑一下哦~",
+        "指揮官さぁ～いくらわたしを良くしてもわたしのいたずらをやめさせられないよ～あ、でもぉ、ほかの子にちょっとイタズラしたくなったら私が手伝えなくもないぞーヒヒヒ",
+        "Y'know, Commander~ No matter how nice you are to me, I'm still going to prank you~ Oh, but if you want my help with pranking others, I'll consider it~ Heehee~"
+      ],
+      "login": [
+        "指挥官，特辣的蛋糕和特咸的蛋糕，你想吃哪个呢~",
+        "指揮官、ケーキ、激辛のと塩っ辛いの、どっちがいい～？",
+        "Commander, would you rather have an ultra-spicy or ultra-salty cake~?"
+      ],
+      "details": [
+        "指挥官，你看起来很闲的样子嘛，来玩游戏吗？",
+        "指揮官さぁ~暇そうなら、わたしとゲームしない？",
+        "Hey, Commander~ You look like you're free, so let's play a game."
+      ],
+      "secretaryIdle1": [
+        "指挥官，你知道吗，当你以为我会捉弄你时，我没有捉弄你，这也是一种捉弄哦~",
+        "イタズラされたぁーと思ったら実はいたずらしていなかった、という状況こそがイタズラだったりして～",
+        "That thing when you think you've been pranked even though I haven't actually done anything is a prank of sorts, too~"
+      ],
+      "secretaryIdle2": [
+        "欸，感觉指挥官你都已经习惯以前那些捉弄手法了，是时候开发一些新的招式了！……啊，是是，我会先把工作处理掉的~",
+        "ふーん、今までのやり方では指揮官がもう慣れちゃったからそろそろ新しいのを開発しないと！……あ、ごめんごめん、今はお仕事優先だよね～",
+        "Hmm... You've gotten too used to my old bag of tricks, so it's time to come up with some new ones! ... Whoops, sorry~ First, I'll need to finish all this work~"
+      ],
+      "secretaryIdle3": [
+        "指挥官，你不觉得，逗哈曼看她的反应真的很有趣吗？",
+        "指揮官さぁ～ハムマンがイタズラされた時の反応ってすごく面白いと思わない？",
+        "Hey, Commander~ Don't you agree Hammann's reaction when she got pranked was just hilarious?"
+      ],
+      "secretaryTouch": [
+        "呀哈哈哈，指挥官，不要挠我痒痒，我错了，我错了啦！！",
+        "あははははは指揮官こちょこちょするのやめてえええ！悪かった！わたしが悪かった！！はははははは！",
+        "Ahahahahaha! That tickles! Stop it, Commander! Okay, I'm sorry! I'm sorry for pranking you! Ahahahahaha!"
+      ],
+      "returnFromMission": [
+        "指挥官，辛苦啦~……欸，不要老觉得我想捉弄你嘛，我也是会分场合的",
+        "指揮官、お疲れ～あれ、今はイタズラしようとしてないよ？わたしだって時とか場合とか弁えてるもん～ヒッヒッヒッ",
+        "Well done, Commander~ Hmm? I'm not pulling any pranks today! Even I know there's a time and place for everything~ Heeheehee~"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +60 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Firepower Enhancement (I)",
+      "attributes": "Firepower +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Improvement (I)",
+      "attributes": "Anti-Air Efficiency + 5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement (I)",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Main Gun Improvement (I)",
+      "attributes": "Main Gun Efficiency +5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C",
+        "F"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Firepower Enhancement (II)",
+      "attributes": "Firepower +5 / +15 ",
+      "materials": "2 / 2x DestroyerT1BP ",
+      "coinCost": 0,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "B"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health +60 / +90 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 0,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Smokescreen\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Power Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Anti-Air Enhancement (II)",
+      "attributes": "Anti-air +15 / +25 ",
+      "materials": "2 / 2x DestroyerT2BP ",
+      "coinCost": 0,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +35, Reload + 15 ",
+      "materials": "1x DestroyerT3BP and 1x Sims or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

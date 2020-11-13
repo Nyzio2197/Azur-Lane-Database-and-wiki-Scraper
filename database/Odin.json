@@ -1,0 +1,378 @@
+{
+  "name": "Odin",
+  "constructionTime": "Research",
+  "rarity": "Priority",
+  "shipClass": "Odin",
+  "ID": "Plan016",
+  "faction": "Iron Blood",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "artist": "RAN",
+  "pixiv": "https://www.pixiv.net/member.php?id=2957827",
+  "twitter": "https://twitter.com/bukeranwu",
+  "link": "https://weibo.com/u/2235541213",
+  "voiceActor": "https://en.wikipedia.org/wiki/Yuki_Matsuoka",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7126,
+      171,
+      0,
+      361,
+      241,
+      36,
+      30,
+      337,
+      0,
+      16,
+      62,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6133,
+      149,
+      0,
+      321,
+      210,
+      21,
+      30,
+      299,
+      0,
+      16,
+      52,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1186,
+      63,
+      0,
+      69,
+      45,
+      8,
+      30,
+      64,
+      0,
+      9,
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 140%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 110%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 48,
+  "maxLimitBreakTechPoints": 96,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Accuracy  +1",
+  "level120TechPoints": 72,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "skill1Name": "Mímir's Keen Eyes; CN: 求知之贤眼 JP: ミーミルの賢眼",
+  "skill1Description": "Changes this ship's position and decreases its DMG taken by 5% (20.0%). Every 15s: commences a sonar scan, revealing the location of all enemy SSs for 5s (10s), reducing their accuracy by 15% (25%), and decreasing your Vanguard's DMG taken from torpedoes by 5% (15.0%) for 5s (10s).",
+  "skill2Name": "Herteitr's Rolling Thunder; CN: 贯穿之轰雷 JP: ヘルテイトの轟雷",
+  "skill2Description": "Every 18s: 45% (75.0%) chance to fire a special barrage (DMG is based on the skill's level). Changes this ship's torpedoes to parallel spread.",
+  "skill3Name": "Siren Killer; CN: 塞壬之敌 JP: 対セイレーン特化改修",
+  "skill3Description": "Increases this ship's DMG to Sirens by 5.0% (15%).",
+  "skill4Name": "",
+  "skill4Description": "",
+  "level5": "Health  +289, Anti-air  +16\n\nMain Gun Efficiency +5%\n",
+  "level10": "Gains Siren Killer I\n\nMain Gun Mount +1\n\nGains Special Secondary Gun Mounts \nShip Rarity increases to ★★★★☆☆\n",
+  "level15": "Health  +579, Anti-air  +31\n\nAnti-Air Gun Efficiency +10% \n",
+  "level20": "Upgrades Siren Killer I→II\nMain Gun Efficiency +15%\nShip Rarity increases to ★★★★★☆\n",
+  "level25": "Health  +868, Anti-air  +47\n\n Main Gun Efficiency +5%\n",
+  "level30": "Upgrades Siren Killer II→III\nMain Gun Mount +1\n\n Main Gun Efficiency +15%\nShip Rarity increases to ★★★★★★\n",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/58/Odin.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9c/OdinChibi.png",
+      "shipDescription": [
+        "战列巡洋舰——奥丁",
+        "巡洋戦艦・奥丁",
+        "Battlecruiser – Odin."
+      ],
+      "selfIntroduction": [
+        "我名为奥丁，曾经是只存在于铁血构想中的舰船。而如今…既然命运将我带来到了你的面前，那么我的使命就是辅佐你，实现你的夙愿。",
+        "戦艦オーディンだ。私は鉄血海軍の構想の中でのみ存在していた。運命が私とお前を出会わせたからには、お前を補佐し、お前の目標を実現することを我が使命としよう",
+        "I am the battleship Odin. I existed only within the realm of the Iron Blood navy's imagination. Destiny has brought me here to serve under you and assist in the realization of your goals."
+      ],
+      "acquisition": [
+        "叫醒我的人就是你吗…？铁血战舰，奥丁，乐意为你效劳。",
+        "私を呼び覚ましたのはお前か？鉄血戦艦オーディン、これよりお前の補佐をこなしてみせよう",
+        "Are you the one who summoned me here? I am Odin. I hereby take up post as your tactician."
+      ],
+      "login": [
+        "欢迎回来，指挥官，规划好接下来要做什么了吗？",
+        "よくぞ帰った。指揮官、次の計画はもう立てているのか？",
+        "Excellent, you're back. Have you finished work our next plan yet, Commander?"
+      ],
+      "details": [
+        "奇怪，为什么港口里的大家都一副轻松的样子……",
+        "妙だな。母港のみなはなぜこうもゆっくりしていられるのだ……",
+        "I don't understand. Why are all the people at this base so at ease?"
+      ],
+      "secretaryIdle1": [
+        "沙恩霍斯特级……有机会的话真想和那对姐妹聊聊呢。",
+        "シャルンホルスト級……願わくば会ってみたいものだな",
+        "One day, I hope to meet the Scharnhorst sisters myself."
+      ],
+      "secretaryIdle2": [
+        "计划往往赶不上变化，指挥官，任何事情都值得再三思考。",
+        "計画が現実に追いつかないこともある。指揮官、何事も実行する前に熟考するのだぞ",
+        "Sometimes, things don't go as planned. You must think carefully before committing yourself to anything, Commander."
+      ],
+      "secretaryIdle3": [
+        "不要轻易地去怪罪他人，有可能只是因为你没有看清全部。",
+        "人間の視野などたかが知れている。全てを見渡せないからといって人のせいにするんじゃないぞ",
+        "Don't blame others over things that are out of their control. Nobody can predict the future."
+      ],
+      "secretaryTouch": [
+        "嗯？难道计划有变动吗？",
+        "うん？計画に変化があったか？",
+        "Yes? Has there been a change of plans?"
+      ],
+      "secretarySpecialTouch": [
+        "接下来的话就等到军事法庭上再说吧。",
+        "つ、続きは軍事法廷でしてもらおうか！",
+        "Y-you will hear from me at the court martial!"
+      ],
+      "task": [
+        "有任务，指挥官，拖延可不是明智的选择哦？",
+        "任務だ。指揮官、それを放置するなど、賢明な選択だと思うまい？",
+        "You have missions. Leaving them unfinished would be a foolish choice."
+      ],
+      "taskComplete": [
+        "任务完成了，着手下一个任务吧，指挥官。",
+        "任務完了だ。指揮官、次の任務に着手しよう",
+        "Mission successful. Let us get started on the next one, Commander."
+      ],
+      "mail": [
+        "有邮件，是新的情报吗？",
+        "メールだ。新しい情報か？",
+        "Mail has arrived. Could it be new intelligence?"
+      ],
+      "returnFromMission": [
+        "战争可不会给人喘息的时间，指挥官。",
+        "指揮官、総力戦に休息などないはずだが",
+        "Commander, we are in all-out war; we cannot afford to rest."
+      ],
+      "commission": [
+        "委托的队伍回来了。很好，一切都和计划一致。",
+        "委託組が戻ってきたな。よし、全ては計画通りだ",
+        "The commission team has returned. Excellent, exactly as was planned."
+      ],
+      "strengthening": [
+        "只有实力增加了，计划的不安因素才能减少。",
+        "実力あってこそ、計画の不確定要素を減らすことができるのだ",
+        "With strength, one can reduce the number of irregularities in a plan."
+      ],
+      "startingMission": [
+        "现在逃跑还来得及——",
+        "逃げられるうちに逃げおおせるがいい――",
+        "Flee while you still can."
+      ],
+      "mvp": [
+        "这场胜利，从一开始便是我等囊中之物。",
+        "この勝利、初めから我らの手中にあったのだ",
+        "Victory was ours since before the battle began."
+      ],
+      "defeat": [
+        "不可能……我的计划不可能出现差错……",
+        "ありえん……私の計画に、間違いなど……！",
+        "Impossible... My plan should have been flawless...!"
+      ],
+      "skillActivation": [
+        "你们已经没有回头路了！",
+        "もはや帰る場所などあるまい！",
+        "You wasted your last chance to turn back!"
+      ],
+      "lowHP": [
+        "准备启动应急方案…！",
+        "応急方案、実行準備……！",
+        "Carry out emergency damage control plan!"
+      ],
+      "affinityDisappointed": [
+        "比起令我失望，我更加好奇的是，你这样的人是怎么成为指挥官的。",
+        "失望というより、お前のようなやつがどうやって指揮官になったかが気になるな",
+        "I am not even disappointed, I simply wonder how someone as lousy as you became a commander in the first place."
+      ],
+      "affinityStranger": [
+        "实力？确实，光是一个响亮的名字不足以说明战士的实力。不过放心吧，时间会证明你的这种担心是多余的。",
+        "むっ、たしかに名前や肩書などが力を証明するには物足りんな。だが安心せよ。時間が経てばお前の心配など無用だと知れ",
+        "Names and titles are no proof of strength, that much is true. But that is fine. As time passes, you learn how futile your concerns are."
+      ],
+      "affinityFriendly": [
+        "你会为逝去的战友悲伤吗？但是，如果大家都顾着悲伤，因此犹豫不决的话，这场战争就无法取得胜利。",
+        "死にゆく戦友のことを弔うか？進む足を止めて弔うばかりじゃ戦争には勝てんよ",
+        "Mourn for my fallen comrades? If I were to stop and mourn for every lost soul, I would never win the war."
+      ],
+      "affinityLike": [
+        "无论是工作还是战斗，我们之间的配合都变得越来越默契了。但是这样下去的话，我会不会变得有点依赖指挥官了……",
+        "仕事も戦闘も、私達のコンビネーションはどんどん良くなっているな。…いかん、このままでは私が指揮官に依存するようになってしまうのではないか……！",
+        "We make a fine pair, both in the office and the war room. But that can backfire, as I may end up becoming reliant on you..."
+      ],
+      "affinityLove": [
+        "过于依赖一个人可不是一件好事。过深的羁绊在战争中往往会成为桎梏，甚至让人做出不理智的判断，破坏原本的计划。有点奇怪，我为什么要和你强调这些……",
+        "誰かに依存するのは感心できないな。過ぎたる絆は戦争の中で足枷になり、人の判断力を損ね、計画に支障をもたらしてしまう……私は一体何を言っているんだ…",
+        "I do not approve of being reliant on someone. Excessive intimacy is a hindrance in war, clouding one's judgment and forming obstacles to one's plans... Ah, I can't believe what I'm saying..."
+      ],
+      "pledge": [
+        "我明白了，我会一直在你身边辅佐你的。所以就……等等，那个难道是……这，这和说好的不一样啊？我也不是说讨厌，只是还没准备好……总之，给，给我一点思考的时间——",
+        "了解した。これからはずっとお前を補佐し続ける。だから……ちょっと待て、これは……い、言っていたことと違うぞ！……嫌なんてとんでもない！ただ心の準備が……と、とにかく！考える時間を――！",
+        "Understood. I shall continue to provide assistance for you, whenever– Hey, wait a minute... Th-this isn't what you said would happen! ...No, that's not to say I oppose this! I just wasn't... mentally prepared... What I'm getting at is: give me a moment to think!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Odin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Odin_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Odin_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Odin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Odin_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Odin_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Odin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Odin_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Odin_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Odin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Odin_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Odin_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Odin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Odin_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Odin_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Odin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Odin_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Odin_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Odin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Odin_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Odin_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Odin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Odin_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Odin_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Odin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Odin_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Odin_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Odin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Odin_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Odin_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Odin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Odin_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Odin_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Odin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Odin_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Odin_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Odin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Odin_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Odin_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Odin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Odin_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Odin_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Odin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Odin_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Odin_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Odin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Odin_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Odin_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Odin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Odin_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Odin_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Odin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Odin_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Odin_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Odin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Odin_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Odin_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Odin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Odin_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Odin_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Odin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Odin_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Odin_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Odin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Odin_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Odin_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Odin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Odin_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Odin_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Odin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Odin_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Odin_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Odin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Odin_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Odin_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Odin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Odin_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Odin_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

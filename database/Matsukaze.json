@@ -1,0 +1,712 @@
+{
+  "name": "Matsukaze",
+  "constructionTime": "00:20:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Kamikaze",
+  "ID": "270",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "NoriZC",
+  "pixiv": "https://www.pixiv.net/member.php?id=4592232",
+  "link": "https://weibo.com/zicaitangxiansheng",
+  "voiceActor": "https://en.wikipedia.org/wiki/Madoka_Asahina",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1561,
+      203,
+      45,
+      59,
+      404,
+      190,
+      44,
+      130,
+      0,
+      7,
+      183,
+      186,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1726,
+      223,
+      45,
+      59,
+      414,
+      190,
+      47,
+      170,
+      0,
+      7,
+      193,
+      186,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1466,
+      196,
+      45,
+      51,
+      372,
+      184,
+      47,
+      153,
+      0,
+      7,
+      184,
+      167,
+      0,
+      0
+    ],
+    "Level 100": [
+      1301,
+      176,
+      45,
+      51,
+      362,
+      184,
+      44,
+      113,
+      0,
+      7,
+      174,
+      167,
+      0,
+      0
+    ],
+    "Base Stats": [
+      252,
+      74,
+      45,
+      11,
+      77,
+      71,
+      44,
+      24,
+      0,
+      1,
+      67,
+      45,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 140% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 80%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 2,
+  "maxLimitBreakTechPoints": 4,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 3,
+  "enhancementValue": [
+    4,
+    25,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gained Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Quick Reload; CN: 快速装填 JP: 快速装填",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Reload by 20% (40%) for 10 seconds.",
+  "skill2Name": "(Retrofit) Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill2Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-神風型",
+  "skill3Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Kamikaze-Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2e/Matsukaze.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a6/MatsukazeChibi.png",
+      "shipDescription": [
+        "神风级驱逐舰四番舰—松风",
+        "神風型駆逐艦四番艦・松風",
+        "Kamikaze-class destroyer number four – Matsukaze."
+      ],
+      "selfIntroduction": [
+        "我是神风级的松风，一直和姐妹们在第五驱逐队。作为睦月型的前身，可是前辈了呢！不过，无论是作战还是护航，可都不会输给新型的孩子们哦！不知道我不在的时候，朝风，春风和旗风是不是又变得不像样了……",
+        "僕は神風型の松風！姉妹たちと一緒に第五駆逐隊配属だったよ。睦月型とかと比べるとちょっと型落ちしちゃうけど、戦闘でも護衛でも後輩たちには負けられないぞー！…ふう…僕がいないと、朝風たちはどうなるかな…",
+        "I'm the Kamikaze-class destroyer Matsukaze! I was in Destroyer Division 5 along with my sisters. We're a little outdated compared to something like the Mutsuki-class, but we won't let any newer classes beat us when it comes to combat or escorts! ...Sigh... I wonder how Asakaze's team will fare without me..."
+      ],
+      "acquisition": [
+        "大家都在一起的舰队？好像很热闹呢～我是松风，请多指教啦～",
+        "みんなもいる艦隊だね？なんだか騒がしいね～僕は松風、よろしく頼もー！",
+        "This is the fleet everyone's in, right? Seems pretty rowdy~ I'm Matsukaze! Nice meeting you!"
+      ],
+      "login": [
+        "指挥官，营养不足可是不能好好工作的哦！我帮你做了很～多好吃的，来～尽管吃吧！",
+        "指揮官、腹が減っては戦はできぬぞ！僕、美味しいものいっっっぱい作ったから、どーーーんと食べて！",
+        "You can't fight on an empty stomach, Commander! I made lots and lots of food, so eat to your heart's content!"
+      ],
+      "details": [
+        "不知道我家的姐妹们有没有照顾好自己，好担心啊……",
+        "姉妹たち、大丈夫かな…心配……",
+        "I wonder how my sisters are doing... I'm worried about them..."
+      ],
+      "secretaryIdle1": [
+        "手里的这个？这个叫柄杓，可以用来浇水哦，小一点的话还能泡茶呢",
+        "持ってるこれ？柄杓っていうのだよ。うんうん、もうちょっと小さければお茶汲みにも使えたりしてー",
+        "This thing I've got? It's what's known as a ladle. Yeah, if it was a little smaller you could even serve tea with it."
+      ],
+      "secretaryIdle2": [
+        "嗯…总觉得这里缺点生气呢…一起来种点什么吧，指挥官～",
+        "ここは緑が足りないな…鉢の木でも植えてみようよ、指揮官～",
+        "This place is lacking in greenery... We should put some potted plants in here, Commander~!"
+      ],
+      "secretaryIdle3": [
+        "嗯～刚晒好的衣服上有阳光的味道，真舒服～",
+        "う～ん、干した洗濯物から太陽の匂い～気持ちいいなー",
+        "Ahhh, the smell of laundry hung out to dry in the sun~ Isn't it great?"
+      ],
+      "secretaryTouch": [
+        "嗯？指挥官累了吗？再等一下，点心马上就好了哦",
+        "うん？指揮官疲れた？もうちょっとお待ちー今お菓子出来上がるよー",
+        "Yeah? Are you feeling tired? Then wait just a moment, I've finished making some snacks!"
+      ],
+      "secretarySpecialTouch": [
+        "呀！……指挥官，在那里坐好，接下来是说教时间",
+        "きゃっ！？……指揮官、そこに座って！説教してやる！",
+        "Eek?! ...Commander, sit right over there! You need to be scolded!"
+      ],
+      "task": [
+        "指挥官，去完成任务吧，我会跟你一起的～",
+        "指揮官、奉公はちゃんとやろ？僕も付いてるから",
+        "Are you doing your duty properly, Commander? I'm here if you need me."
+      ],
+      "taskComplete": [
+        "指挥官很努力了呢，真棒真棒～",
+        "指揮官よう働いた。あっぱれあっぱれー",
+        "You've done great, Commander. Bravo, bravo!"
+      ],
+      "mail": [
+        "指挥官，有信哦，要我读给你听吗？",
+        "指揮官、伝書だぞー。読み上げよっか？",
+        "Letter for you, Commander! Want me to read it out loud?"
+      ],
+      "returnFromMission": [
+        "刚上战场一定累了吧，哎呀不要逞强了，来快过来休息一下",
+        "先の戦闘で疲れたでしょ。…もう無理しなくていいから、早くこっち来て休みなよ",
+        "You must be tired after that last battle... Don't overexert yourself, come here and lie down."
+      ],
+      "commission": [
+        "指挥官，委托的姐妹们回来了呢，让她们等着可不好哦",
+        "指揮官、委託の子たちが戻ってきたよ。あまり待たせると良くないぞー",
+        "The commission team is back, Commander. It's not nice to keep them waiting!"
+      ],
+      "strengthening": [
+        "谢谢~不过我的强化放在其他姐妹们后面也没关系哦",
+        "どうもー！僕のことは後回しにしても良いぞ？",
+        "Thanks! You could have saved caring about me for later, though."
+      ],
+      "startingMission": [
+        "大家注意不要做危险的事情哦",
+        "危ないことだけはしないでね",
+        "Don't do anything too dangerous, okay?"
+      ],
+      "mvp": [
+        "哼哼，小看前辈可是会吃亏的唷！",
+        "ふふん、先輩を侮ると痛い目に遭うぞー",
+        "Heheh, you'll have a really bad time if you underestimate a veteran!"
+      ],
+      "defeat": [
+        "呜…大家不要管我，快走——",
+        "うぅ…僕のことはいいから、みんな逃げて――",
+        "Ugh... I'll be fine, just make a break for it, everyone..."
+      ],
+      "skillActivation": [
+        "别想伤害我家的指挥官！",
+        "僕の指揮官を傷つけるな！",
+        "Don't you dare try to hurt my commander!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "哈啊…究竟是哪里的教育出了问题呢…",
+        "はぁ…どこに問題が起きたのかな…",
+        "Sigh... Where did I go wrong with you..."
+      ],
+      "affinityStranger": [
+        "指挥官，没事的话就一起来打扫吧～保持整洁是良好生活习惯的根本哟",
+        "指揮官、やることがなかったら整理整頓でもしようよ。身の回りはきちんとするのが基本だぞー",
+        "If you don't have anything to do, you should tidy things up. Organization is fundamental to leading a good life."
+      ],
+      "affinityFriendly": [
+        "嗯…对于现代的电子机械什么的，果然还是不太擅长呢…指挥官能教教我怎么用吗？",
+        "うん…「デンシキキ」とか、やっぱり苦手だな…指揮官、使い方を教えておくれー",
+        "Yeah... I'm pretty bad with electronics... You should teach me how to properly use them, Commander!"
+      ],
+      "affinityLike": [
+        "最近一个人的时候，总是会想指挥官有没有好好照顾自己呢，有没有因为工作又废寝忘食了呢，有没有想我——啊啊啊，刚才的不算！",
+        "最近一人でいると、指揮官の身の回りは大丈夫かなー、ご飯はちゃんと食べてるかなー、僕のことを覚えているかなーって……ああ！最後のはなし、なしだよ！",
+        "Lately when I'm alone, I've been asking myself \"is the commander taking care of himself?,\" \"is he eating enough?,\" \"does he think about me?\"... Ahh, never mind that last one!"
+      ],
+      "affinityLove": [
+        "指挥官只需要专注于远大的目标就好了，细枝末节的小事都交给我吧，在任务和战斗之外能帮到指挥官，就是我最大的幸福～",
+        "指揮官は大きな目標を目指して頑張っていていいから、細かいことは僕にまかせてよ。僕は戦闘や任務以外にも指揮官のお役に立てて幸せだよー♪",
+        "You just need to focus on your goals and I'll handle all the minor details. I'm happy to help you with anything, not just combat or missions~!"
+      ],
+      "pledge": [
+        "指挥官想要永远和我在一起吗？嘻嘻，好吧，那我就只好待在指挥官的身边，一直一直照顾指挥官了～",
+        "指揮官はこの僕と生涯の契を交わしたいの？えへへ、いいよ～じゃあ松風、謹んで指揮官のお世話をずっとずっとお受けしますよー",
+        "You're saying you want to take a lifelong vow with me? Eheheh, sure~ Then I, Matsukaze, swear to always, always look after you!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、僕の作ったチョコを受け取ってね！間食はほどほどにね？チョコは一気にたくさん食べるとダメだよ？あと牛乳との食べ合わせも体に良くないから気をつけてね？あっ寝る前に食べたら歯磨きもしないと…",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，虽说今年我也会给你巧克力，但是要注意虫牙哦！不管它的话会被杀神经的，要认真刷牙哟！还有漱口和……啊！认真听我说嘛！",
+        "指揮官、今年もチョコをあげるけど、虫歯には気を付けて！放っておくと神経を抜くことになるんだから、ちゃんと歯磨きをするんだよ！あとはうがいと……ああ！僕の話を聞いてよ！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, this box here... Yes, it's this year's Valentine's chocolate. It's heavier than last year's because I wrapped up Kamikaze's chocolate with mine. Oh but don't forget, you can only have a little bit at a time. And none before bed... And remember to share with others when they ask... And... Kamikaze! Grab the Commander! I'm not done talking yet!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Matsukaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Matsukaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Matsukaze_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Matsukaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Matsukaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Matsukaze_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Matsukaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Matsukaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Matsukaze_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Matsukaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Matsukaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Matsukaze_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Matsukaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Matsukaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Matsukaze_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Matsukaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Matsukaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Matsukaze_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Matsukaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Matsukaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Matsukaze_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Matsukaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Matsukaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Matsukaze_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Matsukaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Matsukaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Matsukaze_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Matsukaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Matsukaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Matsukaze_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Matsukaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Matsukaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Matsukaze_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Matsukaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Matsukaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Matsukaze_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Matsukaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Matsukaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Matsukaze_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Matsukaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Matsukaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Matsukaze_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Matsukaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Matsukaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Matsukaze_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Matsukaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Matsukaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Matsukaze_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Matsukaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Matsukaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Matsukaze_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Matsukaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Matsukaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Matsukaze_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Matsukaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Matsukaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Matsukaze_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Matsukaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Matsukaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Matsukaze_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Matsukaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Matsukaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Matsukaze_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Matsukaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Matsukaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Matsukaze_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Matsukaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Matsukaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Matsukaze_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Matsukaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Matsukaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Matsukaze_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Matsukaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Matsukaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Matsukaze_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a0/MatsukazeKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bc/MatsukazeKaiChibi.png",
+      "shipDescription": [
+        "这个扇子这么大，稍微有点不习惯呢……对了，来来，指挥官，我来给你扇扇风吧~不要客气不要客气~",
+        "んっしょ…この扇子大きすぎて、まだ慣れないな……あ、そうそう、指揮官ちょっとこっち来て～扇いであげるからさ～～まあまあ遠慮しない遠慮しない～",
+        "There we go... My fan is too big, and I'm not used to carrying it around yet... Ah, right, come here for a sec, Commander~ I'll fan you with some cool air~ Come on now, no need to be shy~"
+      ],
+      "acquisition": [
+        "这个扇子这么大，稍微有点不习惯呢……对了，来来，指挥官，我来给你扇扇风吧~不要客气不要客气~",
+        "んっしょ…この扇子大きすぎて、まだ慣れないな……あ、そうそう、指揮官ちょっとこっち来て～扇いであげるからさ～～まあまあ遠慮しない遠慮しない～",
+        "There we go... My fan is too big, and I'm not used to carrying it around yet... Ah, right, come here for a sec, Commander~ I'll fan you with some cool air~ Come on now, no need to be shy~"
+      ],
+      "login": [
+        "指挥官你回来啦，有没有哪里不舒服，饿了吗？来来，先坐会儿，我去给你拿点吃的过来～",
+        "おかえり指揮官！具合はどう？お腹減った？ささ、こっち来て座ってーいま何か食べるものでも持ってくるね！",
+        "Welcome back, Commander! How are you? Hungry? Then have a seat, I'll go get you something to eat!"
+      ],
+      "details": [
+        "天气冷的时候总觉得用不太上呢这把扇子……",
+        "この扇子、寒い時期には使えなさそうだね……",
+        "I doubt this fan will be of any use when it gets cold..."
+      ],
+      "secretaryIdle1": [
+        "啊，这把扇子，收起来说不定用来晒衣服和被子不错！嗯嗯，这就试试~",
+        "これ、服とか布団とか、天日干しに使えそうだね！うんうん、早速やってみよー！",
+        "I think this thing will be handy for drying clothes or futons out in the sun! Mhm, I think I'll test it right now!"
+      ],
+      "secretaryIdle2": [
+        "指挥官，你看，松风的松~嘿嘿，我还蛮中意这个字的呢！",
+        "指揮官、ほら、ここにお～きな「松」ってのがあるよ！うんうん、僕、これ結構気に入ってるんだ～",
+        "Commander, look! There's a big \"matsu\" written on my fan! Mhm, I have to say I'm quite fond of it~!"
+      ],
+      "secretaryIdle3": [
+        "劳逸结合，劳逸结合，不要太放松，也不要太累到自己哦",
+        "えっと…「わーくらいふばらんす」？休みすぎてはダメだけど、働きすぎも良くないよ？",
+        "Umm... have you heard about \"work-life balance\"? It's bad to rest too much, but it's not good to work too much either."
+      ],
+      "secretaryTouch": [
+        "嗯？饿了吗，还是想要我帮你扇扇风呢？",
+        "うん？お腹減った？それともこれでパタパタしてほしくなった？",
+        "Hm? Are you hungry? Or do you want me to fan you?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Matsukaze_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Matsukaze_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Matsukaze_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Matsukaze_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Matsukaze_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Matsukaze_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Matsukaze_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Matsukaze_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Matsukaze_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Matsukaze_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Matsukaze_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Matsukaze_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Matsukaze_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Matsukaze_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Matsukaze_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Matsukaze_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Matsukaze_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Matsukaze_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Matsukaze_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Matsukaze_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Matsukaze_Sec1Skin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "4x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Emergency Maneuvers\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / Health +75 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Reload Enhancement Ⅱ",
+      "attributes": "Reload +5 / Reload +10 ",
+      "materials": "2 / 2x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +25, Accuracy +10 ",
+      "materials": "1x DestroyerT3BP and 1x Matsukaze or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

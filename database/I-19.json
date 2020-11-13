@@ -1,0 +1,653 @@
+{
+  "name": "I-19",
+  "constructionTime": "00:30:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Super Rare",
+  "shipClass": "B1",
+  "ID": "338",
+  "faction": "Sakura Empire",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "米白粕",
+  "pixiv": "https://www.pixiv.net/member.php?id=867590",
+  "twitter": "https://twitter.com/kasu1923",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/6a/I-19_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2165,
+      110,
+      19,
+      59,
+      549,
+      45,
+      18,
+      0,
+      0,
+      7,
+      170,
+      0,
+      200,
+      2
+    ],
+    "Level 100": [
+      1805,
+      96,
+      19,
+      51,
+      499,
+      25,
+      18,
+      0,
+      0,
+      7,
+      152,
+      0,
+      200,
+      2
+    ],
+    "Base Stats": [
+      349,
+      41,
+      19,
+      11,
+      106,
+      10,
+      18,
+      0,
+      0,
+      2,
+      58,
+      0,
+      200,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "120% → 135%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "100% → 115%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "80% → 80%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Accuracy  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +2",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    1,
+    42,
+    0,
+    8
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Fatal Perforation; CN: 致命穿透 JP: 貫通攻撃",
+  "skill1Description": "After entering battle for 8 seconds, fires a wave of penetrating torpedoes. Torpedoes can penetrate once (Can hit up to 2 targets, armor piercing).",
+  "skill2Name": "Slow Torpedoes; CN: 缓速鱼雷 JP: 低速魚雷",
+  "skill2Description": "Decreases Torpedo speed by 1 and increases Torpedo damage by 4.5% (12%).",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-I19 JP: 特殊弾幕-伊-19",
+  "skill3Description": "When entering the battle, triggers Full Barrage - I-19 I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2a/I-19.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bd/I-19Chibi.png",
+      "shipDescription": [
+        "巡潜乙型潜艇伊19",
+        "巡潜乙型伊号第十九潜水艦",
+        "Type B1 cruiser submarine – I-19."
+      ],
+      "selfIntroduction": [
+        "驱逐舰，航空母舰，战列舰，人家可是一下子把它们都打沉，打伤了呢。人家是不是很厉害~，指挥官？",
+        "駆逐艦、空母、戦艦、一斉射でやっつけちゃうぞ～！ねえねえ指揮官、わたしってすごい？すごいでしょ？",
+        "Destroyers, carriers, battleships, I'll sink 'em all with one shot~! Hey, Commander, aren't I amazing? I am, right?"
+      ],
+      "acquisition": [
+        "人家是伊19哦。指~挥~官~，人家一直在等你出现呢~",
+        "伊-19だよ！しーきーかーん！伊19はずっとずーっと待ってたよ☆",
+        "I'm I-19! Commaaandeeer! I-19's been waiting so, so long for you~!"
+      ],
+      "login": [
+        "指挥官，人家想你好久了呢~",
+        "指揮官、ずーーっと待ってたよ！",
+        "Commander! I've been waiting sooooo long for you!"
+      ],
+      "details": [
+        "想人家了吗？诶嘿嘿，指挥官，人家很高兴呢~",
+        "わたしに会いたくなった？えへへ、すごく嬉しい♪",
+        "Did you want to see me? Hehehe~ That makes me super happy~"
+      ],
+      "secretaryIdle1": [
+        "人家给指挥官泡了热茶哦~嘿嘿，人家能干吧？",
+        "指揮官にアツアツのお茶を淹れた！ねえねえ、わたし偉いでしょ？",
+        "I made hot tea for you! I'm so great, aren't I?"
+      ],
+      "secretaryIdle2": [
+        "文件整理好了？嘻嘻，人家想要摸摸头的说~",
+        "書類を整理しておいた！えへへ～頭をなでなでしてほしいな～",
+        "I went through your paperwork! Hehehe~ Maybe you could pat me on the head as a reward~"
+      ],
+      "secretaryIdle3": [
+        "嗯哼？在盯着人家的哪里看呢~",
+        "ふふん～どこをじーっと見つめてるの～？",
+        "*Giggle*... What are you looking at~?"
+      ],
+      "secretaryTouch": [
+        "要人家帮你放松一下吗？",
+        "リラックスさせてほしいの？",
+        "Do you want me to help you relax?"
+      ],
+      "secretarySpecialTouch": [
+        "诶嘿嘿，指挥官，只要你夸夸人家，人家就什么都答应你哦~",
+        "えへへ～わたしを褒めてくれるなら何してもいいよ～",
+        "Hehehe~ I don't mind at all, as long as you praise me~"
+      ],
+      "task": [
+        "任务？要人家帮忙吗？人家会加油的呢~",
+        "任務？手伝ってもいいの？頑張るよ～",
+        "A mission? I can help! I'll give it 100%~"
+      ],
+      "taskComplete": [
+        "人家把任务奖励带过来了呢~指挥官，不夸夸人家吗？",
+        "任務報酬持ってきたよ～指揮官、ほめてほめて～",
+        "I've brought the mission rewards~ Give me your praise, Commander~"
+      ],
+      "mail": [
+        "邮件？人家已经拿过来了呢。怎么样，人家是不是很聪明~",
+        "メール？もう持ってきたよ？どう？わたし頭いいでしょ～",
+        "Your mail? I already brought it here! See? Aren't I smart~?"
+      ],
+      "returnFromMission": [
+        "辛苦了呢~人家来帮你按摩吧……怎么样，人家是不是很能干？嘻嘻……",
+        "お疲れ様～マッサージでもしちゃおうかな～……ふん、ふん、どう？わたし偉い？えへへ～……",
+        "Nice work~ Maybe I should give you a massage... Mmh, how is it? Am I good? Hehehe~"
+      ],
+      "commission": [
+        "要去迎接委托的姐妹们了吗？人家也想一起去呢，可以吗？",
+        "委託に出かけた子たちを向かえにいくの？わたしも行きたい！ねえねえ、いいでしょう？",
+        "Are you gonna welcome back the commission team? I wanna go with you! Surely I can come along?"
+      ],
+      "strengthening": [
+        "再多夸夸人家也没问题的哟~",
+        "もっとわたしを褒めてもいいよ～",
+        "You can praise me more~"
+      ],
+      "startingMission": [
+        "这次人家也会好好努力呢~",
+        "頑張っちゃうよ～",
+        "I'll give it my best shot~"
+      ],
+      "mvp": [
+        "要得到指挥官的称赞了呢……诶嘿嘿~",
+        "これで指揮官に褒められるよね……えへへ～",
+        "Now the Commander will hopefully praise me... Hehehe~"
+      ],
+      "defeat": [
+        "呜呜呜，好疼……好想回到指挥官身边……",
+        "うぅ、いたいよ……指揮官の所に帰りたいよ……",
+        "Oww, it hurts... I wanna go back to the Commander..."
+      ],
+      "skillActivation": [
+        "人家，还要更加，更加地努力呢~",
+        "わたし、もっともーっと頑張っちゃうよ～！",
+        "I'll work super duuuuper hard~!"
+      ],
+      "lowHP": [
+        "这、这点程度人家才不会被吓到呢！",
+        "べ、別にこれぐらいは怖くないもん――！",
+        "I-it'll take more than this to scare me!"
+      ],
+      "affinityDisappointed": [
+        "一定是人家还不够努力呢……",
+        "まだ十分頑張れていないからだよね……",
+        "It's all because I'm not trying hard enough, isn't it..."
+      ],
+      "affinityStranger": [
+        "敌人？人家才不会放他们逃走呢~指挥官的敌人，要全——部消灭才行呢~",
+        "敵？見逃さないよ～指揮官の敵はぜーっんぶやっつけちゃうんだから！",
+        "Enemies? I won't let any get away~ I'll beat the heck outta each and every one of 'em!"
+      ],
+      "affinityFriendly": [
+        "要按摩吗？要捶背吗？还是要在人家的膝枕上睡一会呢？诶嘿嘿~",
+        "ほしいのは……マッサージ？肩たたき？それともわたしのふとももで膝枕？えへへ～",
+        "Would you like... a massage? A shoulder rub? Or maybe you want to use my thighs as a pillow? Hehehe~"
+      ],
+      "affinityLike": [
+        "指挥官，人家可爱吗？……诶嘿嘿，人家还想听呢，能再说一遍吗？",
+        "指揮官、わたし可愛い？…えへへ～もっと聞きたいな～ねえねえ、もう一度言って～",
+        "Do you think I'm cute? ... Hehehe~ C'mon, say it one more time~"
+      ],
+      "affinityLove": [
+        "人家已经彻底离不开指挥官了呢~指挥官也是一样的，对吧？嘻嘻~",
+        "もうわたし、指揮官から離れないよ…指揮官もそうだよね？ねえねえ～えへへ♪",
+        "I can't be without you anymore... You can't be without me either, right? Say it, c'mon~ Hehehe~"
+      ],
+      "pledge": [
+        "从此以后，指挥官就是人家一个人的了~人家还要听更多更多的夸奖，要和指挥官创造更多更多的回忆呢……",
+        "これから指揮官はわたしだけのものなのね～もっと褒めてもらって、いっぱいいっぱい思い出を作ってもらいたいな～",
+        "From now on, you'll always be mine~ I wanna hear your praise, and I wanna make lots and lots of dear memories with you~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Radford) 讨厌……离人家，远一点！",
+        "(Sortie with Radford) キャンディは嫌！…あっちいってーっ＞＜",
+        "(Sortie with Radford) I don't want your candy! ... Go awaaaay!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 1 of: Wasp, North Carolina) 人家可是很——厉害的呢，对吧？",
+        "(Sortie with at least 1 of: Wasp, North Carolina) わたしってすーっごく凄いでしょう？そうでしょう？",
+        "(Sortie with at least 1 of: Wasp, North Carolina) Aren't I suuuper amazing? I am, aren't I?"
+      ],
+      "giftDescriptionValentines2019": [
+        "这是人家亲手做的巧克力哦！要是喜欢的话，人家还会做更多更多！诶嘿嘿~",
+        "ねえねえ指揮官～伊19が作ったチョコだよ～わたし偉い？えへへ、もっと頑張っちゃうから、頭をなでなでしてほしいな～うんうん♪",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I've been working really hard to make you Valentine's chocolate again~ Hehe, how do you like it? Did it make you happy? Hehe, I love watching you eat it like it's so tasty~ Let me see you eat some more~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/I-19_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/I-19_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/I-19_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/I-19_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/I-19_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/I-19_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/I-19_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/I-19_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/I-19_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/I-19_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/I-19_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/I-19_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/I-19_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/I-19_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/I-19_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/I-19_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/I-19_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/I-19_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/45/I-19_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/I-19_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/I-19_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-19_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-19_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-19_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/I-19_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/I-19_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/I-19_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/I-19_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/I-19_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/I-19_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/I-19_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/I-19_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/I-19_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/I-19_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/I-19_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/I-19_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/I-19_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/I-19_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/I-19_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/I-19_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/I-19_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/I-19_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/I-19_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/I-19_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/I-19_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/I-19_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/I-19_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/I-19_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/I-19_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/I-19_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/I-19_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/I-19_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/I-19_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/I-19_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/I-19_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/I-19_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/I-19_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/I-19_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/I-19_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/I-19_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/I-19_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/I-19_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/I-19_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/I-19_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/I-19_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/I-19_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/I-19_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/I-19_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/I-19_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/I-19_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/I-19_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/I-19_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/I-19_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/I-19_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/I-19_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/I-19_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/I-19_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/I-19_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/I-19_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/I-19_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/I-19_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/I-19_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/I-19_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/I-19_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Departure's Gentle Breeze",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "启程的微风",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "旅立ちのそよ風",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/20/I-19School.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ac/I-19SchoolChibi.png",
+      "shipDescription": [
+        "唔……这种时候还要上课吗……嗯？指挥官，是来专门送人家的吗？",
+        "えー学園行かないといけないの？……あ、指揮官！わざわざわたしを見送りに来てくれたの？",
+        "Aww, do I have to go to school? ... Oh, Commander! Are you here to see me off?"
+      ],
+      "acquisition": [
+        "唔……这种时候还要上课吗……嗯？指挥官，是来专门送人家的吗？",
+        "えー学園行かないといけないの？……あ、指揮官！わざわざわたしを見送りに来てくれたの？",
+        "Aww, do I have to go to school? ... Oh, Commander! Are you here to see me off?"
+      ],
+      "login": [
+        "上课好没劲啊……还是呆在指挥官身边最好啦，嘻嘻~",
+        "授業ってつまらない……指揮官のそばにいたほうが楽しいもん～えへへ♪",
+        "School's so boring... I'd rather be by your side, Commander~ Hehehe~"
+      ],
+      "details": [
+        "多交点朋友？无所谓的啦~只要有指挥官陪着，人家就心满意足了呢！",
+        "お友達を作ってって？別にいいよ～指揮官さえいれば十分だもん！",
+        "I should make some friends? But I don't need any~! You're the only person I need!"
+      ],
+      "secretaryIdle1": [
+        "呀，有风！……嗯哼？指挥官，你刚刚在盯着人家的哪里看呢~",
+        "きゃっ！風が……うん？指揮官、今どこ見てたー？",
+        "Eek! The wind nearly... Hmm? Were you trying to sneak a peek~?"
+      ],
+      "secretaryIdle2": [
+        "指挥官，你也来帮人家补补课嘛~",
+        "指揮官、補習手伝って……",
+        "Commander, help me with my extra lessons..."
+      ],
+      "secretaryIdle3": [
+        "指挥官，人家这身衣服怎样？可爱吗？嘻嘻~",
+        "指揮官、この服はどう？カワイイ？えへへ～",
+        "Do you like my outfit, Commander? Is it cute? Hehehe~"
+      ],
+      "secretaryTouch": [
+        "欸嘿嘿，指挥官，要和人家一起上学吗？",
+        "えへへ~指揮官、わたしと一緒に学園に通うの？",
+        "Hehehe~ Do you wanna walk to and from school with me?"
+      ],
+      "secretarySpecialTouch": [
+        "要先等到教室的大家都走了才行呢……",
+        "教室のみんながいなくなるまでしちゃダメだよ……",
+        "No touching until everyone else has gone home..."
+      ],
+      "mail": [
+        "邮件？该不会是老师的抱怨信吧！",
+        "メール？センセイからの愚痴じゃないよね……",
+        "Mail? I hope it's not an angry letter from some teacher..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/I-19_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/I-19_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/I-19_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/I-19_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/I-19_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/I-19_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/I-19_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/I-19_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/I-19_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/I-19_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/I-19_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/I-19_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/I-19_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/I-19_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/I-19_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/74/I-19_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/I-19_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/I-19_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/I-19_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/I-19_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/I-19_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/I-19_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/I-19_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/I-19_Sec2Skin1JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/I-19_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/I-19_MailSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/I-19_MailSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Pillowy Paradise",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "枕头天堂",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "おまくら天国",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/aa/I-19Sleepy.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0c/I-19SleepyChibi.png",
+      "shipDescription": [
+        "好困……嗯，指挥官？要和“鱼雷先生”一起睡会吗？",
+        "ねむねむ……しきかーん？「ギョライさん」と、一緒にねちゃおー？",
+        null
+      ],
+      "acquisition": [
+        "好困……嗯，指挥官？要和“鱼雷先生”一起睡会吗？",
+        null,
+        null
+      ],
+      "login": [
+        "呼呼……人家还想多睡一会啦……",
+        null,
+        null
+      ],
+      "details": [
+        "还是抱着“鱼雷先生”睡比较舒服呢~欸嘿嘿~",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "红色的，黄色的，绿色的……好多好多的枕头……",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "指挥官，要试试“鱼雷先生”吗？很舒服的呢~",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "唔——，26，别抢我的“鱼雷先生”……",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "唔……人家可不是抱枕……",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "这比“鱼雷先生”舒服多了吧？嘻嘻~",
+        null,
+        null
+      ],
+      "task": [
+        "任务？等睡醒再说啦……",
+        null,
+        null
+      ],
+      "mail": [
+        "有新的枕头到了吗？呼……",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "“鱼雷先生”，指挥官回来了呢……呼呼……",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

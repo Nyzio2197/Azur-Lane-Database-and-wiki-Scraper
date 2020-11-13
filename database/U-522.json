@@ -1,0 +1,447 @@
+{
+  "name": "U-522",
+  "constructionTime": "00:11:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "IXC",
+  "ID": "400",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "Saru(猴妈)",
+  "pixiv": "https://www.pixiv.net/member.php?id=1422579",
+  "twitter": "https://twitter.com/saru_1127",
+  "link": "http://weibo.com/p/1005051054234800",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/e/ea/U-522_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1496,
+      84,
+      22,
+      43,
+      505,
+      37,
+      14,
+      0,
+      0,
+      6,
+      178,
+      0,
+      228,
+      2
+    ],
+    "Level 100": [
+      1247,
+      73,
+      22,
+      38,
+      459,
+      18,
+      14,
+      0,
+      0,
+      6,
+      159,
+      0,
+      228,
+      2
+    ],
+    "Base Stats": [
+      241,
+      31,
+      22,
+      8,
+      97,
+      7,
+      14,
+      0,
+      0,
+      2,
+      61,
+      0,
+      228,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "105% → 120%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Evasion  +2",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Health  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    1,
+    38,
+    0,
+    6
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Open Ocean Support; CN: 远洋支援 JP: 外洋支援",
+  "skill1Description": "Increases own Oxygen stat by 2 (20). If included in the submarine fleet: this fleet can provide battle support outside of hunting range once per Sortie.",
+  "skill2Name": "Wolf Pack Tactics; CN: 狼群战术 JP: ウルフパック",
+  "skill2Description": "During battle, increases own Torpedo stat, Reload and Accuracy by 1.5% (6%) per Iron Blood submarine in the same fleet.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-Type IXC型",
+  "skill3Description": "When entering battle, triggers Full Barrage - Type IXC I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1a/U-522.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/U-522Chibi.png",
+      "shipDescription": [
+        "铁血IXC型潜艇U-522",
+        "鉄血IXC型潜水艦U-522",
+        "Iron Blood Type IXC submarine – U-522."
+      ],
+      "selfIntroduction": [
+        "我是IXC级远洋潜艇U-522，隶属于荣光的第二潜艇舰队。长距离的通商破坏作战可是我的拿手好戏，但是对付反潜护航舰确实还是有点头疼啊~不管怎么说，还请期待我的活跃吧~",
+        "IXC型潜水艦、栄光なる第2潜水隊群所属のU-522よ。長距離の通商破壊作戦が得意だぜ。あと、対潜護衛は苦手というジレンマも当然持っているけど～とりあえずあたしの活躍、楽しみにしといてくれよ～",
+        "I'm U-522, Type IXC sub, from the glorious 2nd U-boat Flotilla. You need long-distance commerce raiding, I'm your girl. Anti-sub escorts do put me in one helluva pickle, though. Anyways, keep those eyes peeled for my combat performance~"
+      ],
+      "acquisition": [
+        "哼~~？您就是这里的指挥官吗？铁血所属的远洋潜艇U-522，今天到任啦~这个港区究竟能给我带来怎样的乐趣呢？我很期待哦，嘿嘿",
+        "ふーん…あんたがここの指揮官か？鉄血所属、潜水艦U-522が着任した。はて、この母港ではどんな楽しいことがあるのやら？楽しみだぜ。ふふふふ",
+        "Hmm... you're the commander 'round here, eh? I'm U-522, Iron Blood submarine, reporting for duty. Anyhoo, heard this here port's like a party. I'm eager to join in on it. Heheheh~"
+      ],
+      "login": [
+        "能再次见到指挥官可真让人高兴，看来今天也不会无聊了~",
+        "指揮官にまた出会えるとは嬉しいな。今日はふてくされずにすみそうだぜ",
+        "Always happy to see ya, Commander. Today's lookin' like it'll be fun."
+      ],
+      "details": [
+        "哼哼，指挥官刚刚…又在偷偷地盯着我看了吧？我早就发现啦！",
+        "ふふん、指揮官はさっきこちらをチラチラ見てただろ？とっくに気づいてるぞ！",
+        "Hehe, been oglin' me for some time, haven'tcha, Commander? I noticed ages ago!"
+      ],
+      "secretaryIdle1": [
+        "这根“尾巴”，可不是装饰喔？与舰装的连接和控制可都靠它了呢~",
+        "この「プラグテイル」、お飾りじゃないんだぜ？艤装と接続すれば制御もバッチリさ",
+        "This tail connector's not just for show. When plugged into my rigging: bam, gives me perfect control."
+      ],
+      "secretaryIdle2": [
+        "指挥官，多欣赏一下我战斗的身姿也是没有问题的喔~嘿嘿",
+        "戦っているあたしの姿、もっとじっくり鑑賞してもいいんだぜ？へへへ",
+        "When I'm fighting, you can stare at me to your heart's content, y'know? Hehehe~"
+      ],
+      "secretaryIdle3": [
+        "看着那些被我袭击的敌人在海面上惊慌失措的样子，实在是让人感到愉悦啊~哈哈~",
+        "こっちの攻撃で逃げ惑う敵を見ると、ほんっとに楽しいよね～あははは！",
+        "I just LOVE seeing my enemies squirming about, trying to get away from my attacks~ Ahahahah~!"
+      ],
+      "secretaryTouch": [
+        "想和我来一场刺激的水下捉迷藏么？当然，最后的赢家肯定是我~",
+        "鬼ごっこがしたいの？もちのろん、勝つのはあたしよ",
+        "You feelin' like some hide and seek? I'm game. I always win, y'see."
+      ],
+      "secretarySpecialTouch": [
+        "尾巴！不可以！很敏感的啦……",
+        "尻尾！メッ！アウト！これは色々敏感だもん！",
+        "Tail - no touch! Bad Commander! That's my sensitive spot!"
+      ],
+      "task": [
+        "新的任务来啦，有没有什么有趣的狩猎任务呢？",
+        "新しい任務が来たか、狩りの任務もあったりなかったり？",
+        "Ya figure we got any new missions, possibly involving hunting?"
+      ],
+      "taskComplete": [
+        "指挥官，这次的任务奖励可真不少呀~",
+        "指揮官、任務報酬はいっぱいあるぜ～",
+        "Commander, check out this mound of rewards we got~!"
+      ],
+      "mail": [
+        "指挥官，有来自司令部的联络信息喔~",
+        "指揮官、本部からの連絡だぜ～",
+        "Commander, got news for ya from headquarters~"
+      ],
+      "returnFromMission": [
+        "噢~指挥官回来啦~要尝尝我准备的牛肉罐头吗？",
+        "むふぉ…お、戻ってきたか？コンビーフでもどう？",
+        "Mumph... Oh, you're back? Want some corned beef?"
+      ],
+      "commission": [
+        "哦？委托组平安回来了呀~快去看看有没有什么有趣的收获吧~",
+        "委託組、無事戻ってきたんだ～報酬の確認、早く行こうぜ",
+        "Commission team's back safe and sound~ Let's go check out those rewards."
+      ],
+      "strengthening": [
+        "sehr gut！",
+        "sehr gut！",
+        "Sehr gut!"
+      ],
+      "startingMission": [
+        "哦？来了来了~各位，又到了开始“大餐”的时间啦！",
+        "おっ来たぜ来たぜー全員、食事の時間の始まりだ！",
+        "Oh boy, here we go! Listen up, folks! It's lunchtime!"
+      ],
+      "mvp": [
+        "这就结束了？对手太弱了~感觉还没有玩够啊~",
+        "これで終わり？よっわーまだまだ遊び足りないぜー",
+        "That's all? Laaaame. I wanna have more fun~"
+      ],
+      "defeat": [
+        "哎呀，计算稍稍有点失误了呢…",
+        "あっちゃー計算ミスったか……",
+        "Oopsie... Guess I messed up a calculation..."
+      ],
+      "skillActivation": [
+        "绽放吧，胜利的闪电（Blitz)！",
+        "勝利のブリッツ！",
+        "Victory blitz!"
+      ],
+      "lowHP": [
+        "对面的家伙稍微有点本事啊…",
+        "中々やるね…",
+        "You're not half-bad..."
+      ],
+      "affinityDisappointed": [
+        "真是个不中用的指挥官啊~不过，不中用的指挥官感觉…也挺可爱的？",
+        "頼りない指揮官だな～まあ、それもそれで可愛いかも？",
+        "Sure can't count on you, huh, Commander. Guess that's cute in a way, though?"
+      ],
+      "affinityStranger": [
+        "要想来一场愉快的远洋狩猎，没有一个好帮手可不行啊~",
+        "楽しい狩りをするにはいい仲間がいないと無理だぜ～",
+        "You want a fun hunt, ya need good chums, else it's not happening~"
+      ],
+      "affinityFriendly": [
+        "嗯哼？干的还不错~看来我们之间能够构筑不错的信赖关系啊~",
+        "おっと、いい感じじゃない～あたしたちはいい関係になれそうな気がするぜ～",
+        "Hey, you're pretty chill~ I'm feelin' like this is the start of a good relationship~"
+      ],
+      "affinityLike": [
+        "指挥官，在我的面前耍小聪明可是不行的喔？毕竟指挥官在想些什么我都能猜个八九不离十呢~",
+        "指揮官、あたしには小賢しい考えは通用しないよ？指揮官の考えていること、十中八九当てれるからな",
+        "Commander, your cunning plans won't work on me. Cause 9 times outta 10, I know just what you're thinking."
+      ],
+      "affinityLove": [
+        "看来我们得更加深入地了解彼此才行呢~您觉得呢？指·挥·官？啊哈哈哈哈，指挥官的脸变得像个熟透了的苹果一样，真有趣~",
+        "ここはもっとお互いのことを知っておかないとね～どう思う？指・揮・官？あははは、恥ずかしがってる顔！これ楽しいかも！",
+        "I think we oughta get to know each other more intimately~ Whaddya say, Com-man-der? Ahahahah! Look at you, blushing! Oh, that's hilarious!"
+      ],
+      "pledge": [
+        "这么容易就被看透心思，指挥官的未来还真让人担心啊~不过没关系，从今往后我也会一直在你身边的，就尽管更多~更多地依赖我吧！嘿嘿~",
+        "こんなに簡単に見透かされるなんて、指揮官の明日が心配だな～まあこのあたしがずっとそばにいてあげるから、もっともーーっと頼っていいんだぜ？あははは",
+        "I'm kinda worried about your future, what with how dang easy it is to read you, Commander~ But it's cool, I'll always be with you, so do keep counting on me, 'kay? Ahahahah~"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, have some Valentine's chocolates~ Whoa, it's fine to eat the chocolates right now, but you don't have to give me your impressions, okay? I want to guess first, hehehe~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/U-522_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/U-522_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/U-522_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/U-522_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/U-522_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/U-522_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/U-522_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/U-522_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/U-522_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/U-522_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/U-522_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/U-522_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/U-522_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/U-522_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/U-522_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/U-522_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/U-522_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/U-522_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/27/U-522_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/U-522_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/U-522_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/U-522_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/U-522_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/U-522_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/U-522_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/U-522_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/U-522_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/U-522_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/U-522_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/U-522_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/U-522_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/U-522_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/U-522_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/U-522_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/U-522_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/U-522_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/U-522_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/U-522_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/U-522_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/U-522_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/U-522_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/U-522_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/U-522_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/U-522_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/U-522_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/U-522_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/U-522_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/U-522_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/U-522_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/U-522_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/U-522_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/U-522_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/U-522_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/U-522_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/U-522_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/U-522_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/U-522_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/U-522_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/U-522_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/U-522_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/U-522_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/U-522_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/U-522_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/U-522_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/U-522_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/U-522_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/U-522_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/U-522_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/U-522_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/U-522_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/U-522_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/U-522_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/U-522_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/U-522_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/U-522_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/U-522_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/U-522_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/U-522_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

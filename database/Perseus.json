@@ -1,0 +1,385 @@
+{
+  "name": "Perseus",
+  "constructionTime": "02:30:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Colossus",
+  "ID": "462",
+  "faction": "Royal Navy",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "artist": "Kincora",
+  "pixiv": "https://www.pixiv.net/member.php?id=3054186",
+  "twitter": "https://twitter.com/KIncoraK",
+  "link": "http://weibo.com/u/2061731981",
+  "voiceActor": "https://en.wikipedia.org/wiki/Naomi_%C5%8Czora",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      5540,
+      168,
+      82,
+      0,
+      0,
+      71,
+      25,
+      264,
+      327,
+      12,
+      87,
+      144,
+      0,
+      0
+    ],
+    "Level 100": [
+      4735,
+      146,
+      82,
+      0,
+      0,
+      47,
+      25,
+      230,
+      289,
+      12,
+      73,
+      128,
+      0,
+      0
+    ],
+    "Base Stats": [
+      916,
+      62,
+      82,
+      0,
+      0,
+      18,
+      25,
+      49,
+      61,
+      4,
+      28,
+      35,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "85% → 100%",
+  "slot2Equipment": "Torpedo Bombers",
+  "slot2Efficiency": "85% → 100%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "110% → 110%",
+  "collectionStatBonus": "Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 25,
+  "level120StatBonus": "Light aircraft carrier (CVL) Aviation  +2",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    0,
+    0,
+    41,
+    12
+  ],
+  "retireValue": [
+    0,
+    7,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Fighters +1 / Fighter Efficiency +5%",
+  "limitBreak2": "Number of Torpedo Bombers +1 / Fighter Efficiency +10%",
+  "limitBreak3": "Number of All Planes +1 / Torpedo Bombers Efficiency +15%",
+  "skill1Name": "Mercury's Talaria; CN: 翔翼的Talaria JP: ニュム・スクランブラー",
+  "skill1Description": "When the battle starts, 1 (2) airstrikes are available immediately. Airstrike cooldown time is increased by 90%. After launching an airstrike, heal the vanguard fleet for 1.5% (7.0%) of their max HP and the main fleet for 1.0% (3.5%) of their max HP.",
+  "skill2Name": "Athena's Catapult; CN: 弹射起飞试行 JP: アテネ・カタパルト",
+  "skill2Description": "Every 12 seconds after the start of the battle, launch a special airstrike of a random choice of Sea Hornet, TBF Avengers, or Fairey Firefly. Damage depends on skill level.",
+  "skill3Name": "Waters of Styx; CN: 广域舰船维护 JP: ハデス・リペアラー",
+  "skill3Description": "Increase hangar size to 3. All ships in this fleet recover 1.0% of their max HP every 40 (20) seconds. When the fleet this ship is NOT in engages in battle, 20 seconds after that battle starts, heal all vanguard ships in that fleet by 1.0% (3.0%) of their max HP.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/23/Perseus.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/47/PerseusChibi.png",
+      "shipDescription": [
+        "巨像级航空母舰—英仙座",
+        "コロッサス級航空母艦・パーシュース（HMS Perseus）",
+        "Colossus-class light aircraft carrier – Perseus (HMS Perseus.)"
+      ],
+      "selfIntroduction": [
+        "我是巨像级航空母舰·英仙座。我是在大战之后才加入的，也没有太多足以夸耀的功绩，但我会用自己的方式努力的……这样就可以了吗？……呼",
+        "コロッサス級空母のパーシュースよ。かの大戦では惜しくも就役が間に合わなかったわ。だからカンレキはもとより、戦歴なんてほぼないの。自分なりに頑張るからね。……こんなところでいい？……ふぅ",
+        "I'm Perseus, the Colossus-class light aircraft carrier. Sadly, I didn't enter service until the war had ended. Don't have much in the way of a reputation or experience as a result. Still, I'll try to do a good job. All right, is that good enough? *sigh*..."
+      ],
+      "acquisition": [
+        "皇家海军，英仙座，你也可以叫我帕尔修斯。……还有什么要说的吗？…那就，从今往后请多关照。",
+        "ロイヤルネイビーのパーシュース、ああ別にペルセウスでもよかったっけ。……冗談よ。それで？他に何か？…んじゃ、よろしく",
+        "I'm Perseus, from the Royal Navy. You can pronounce it \"Per-see-us\" if you want though... Well, whatever. Are we done here? Great. Nice meeting you."
+      ],
+      "login": [
+        "早起的鸟儿有虫吃，指挥官…大概是会饿死的鸟儿吧。",
+        "「早起きの鳥は虫を捕らえる」っていうけど、指揮官は…そうね、餓死するってオチじゃない？",
+        "There's some saying that goes, \"the early bird catches the worm.\" ...If that's true, I guess you'd starve, Commander."
+      ],
+      "details": [
+        "房间里有许多全身镜？那是…因为我喜欢镜子…这么回答能满足你了吗？",
+        "私の部屋にある姿見…？さあね、姿見が好きなんだとでも答えたら満足するの？",
+        "The big mirror in my room? What about it? If I told you, \"I just like mirrors,\" would that satisfy your curiosity?"
+      ],
+      "secretaryIdle1": [
+        "有什么需要帮忙的，可以告诉我。不过在那之前，还请先自己试着努力完成，指挥官。",
+        "手伝えることがあったら言って。…その前に、まずはひとりでできないか努力して",
+        "If you need my help with something, just say it. You do need to try and accomplish it on your own first, though."
+      ],
+      "secretaryIdle2": [
+        "工作就和即将到保质期的食物一样，放着不管会出问题的，指挥官。",
+        "お仕事だって食べ物みたいに期限があるわ。腐らなくても放置したら迷惑、ね",
+        "Work is like food, in a way; leave it sitting for too long and it goes bad. Just so you know."
+      ],
+      "secretaryIdle3": [
+        "狐和茗她们，好像经常在做一些有意思的试验呢。嗯，我有点感兴趣…",
+        "夕張や明石たち科学部って、面白い実験でもしていそうね。…興味があるの。ちょっとだけ",
+        "I heard Yuubari and Akashi get up to fun experiments in the lab. I kind of wanna see one. Kind of."
+      ],
+      "secretaryTouch": [
+        "在和我闲聊前，先关注下自己手头的事情如何？",
+        "雑談だの面談だの言い訳するよりお仕事のほうが先じゃなくて？",
+        "Maybe try finishing your work before you \"chat me up\" or \"interview me\" or however you wanna sugarcoat it?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，是不是想念海军部拘留处的餐食了呢？",
+        "へー指揮官、海軍部の営倉の食卓が恋しいんだ",
+        "You must really want a seat at the naval jailhouse dinner table, huh?"
+      ],
+      "secretaryHeadpat": [
+        "…嗯。",
+        "……うん",
+        "...Yeah?"
+      ],
+      "task": [
+        "指挥官原来是不愿意执行任务的懒惰虫吗？",
+        "任務もやりたくなさそうなグータラな猫かな？あなた",
+        "What kind of lazy cat are you, just lounging around all day instead of doing missions?"
+      ],
+      "taskComplete": [
+        "指挥官，再不收，任务奖励就要过期了。",
+        "任務報酬を受け取らないと保証切れになるよー、なんて",
+        "Those mission rewards will expire if you don't claim them. Maybe."
+      ],
+      "mail": [
+        "指挥官，有你的邮件…没什么，只是举手之劳。",
+        "シキカンヘノメール。いやいや、私の手を借りたいときは言ってくれたら考えておくよ",
+        "You've got mail. Nope, didn't bring it with me. Next time, ask, and I'll consider it."
+      ],
+      "returnFromMission": [
+        "这样的战斗就感到疲惫…指挥官，就像可爱的小鸡一样呢。",
+        "これぐらいの戦闘でバテるなんて指揮官…打ち上げられたアザラシみたい",
+        "One quick battle, and you're knackered already, Commander? You have the stamina of a beached whale."
+      ],
+      "commission": [
+        "指挥官…不，我没有生气，我只是想提醒你委托完成了。",
+        "指揮官…別に怒ってないよ。委託完了って知らせたかっただけ",
+        "Look, Commander... No, I'm not angry, I was just going to tell you a commission is done."
+      ],
+      "strengthening": [
+        "非常感谢。…想要回礼吗？",
+        "感謝するわ。…お礼が聞きたいんでしょ？",
+        "Thanks a bunch... Well, yeah, didn't you want a thank-you?"
+      ],
+      "startingMission": [
+        "请大家保持慎重，敌人…也不是省油的灯。",
+        "慎重にね。一捻りできる相手じゃないよ",
+        "Careful, now. The battlefield is no place to worry about fuel economy."
+      ],
+      "mvp": [
+        "对面…看起来还需要努力呢。",
+        "向こうは…まぁ、まだまだだね",
+        "Looks like the enemy will have to, uh, try harder next time."
+      ],
+      "defeat": [
+        "…对不起，失败了",
+        "…ごめん、負けちゃった…",
+        "Damn, we lost... Sorry."
+      ],
+      "skillActivation": [
+        "…交给我吧。",
+        "任せて",
+        "I've got this."
+      ],
+      "lowHP": [
+        "…不能掉以轻心呢。",
+        "…油断できないね",
+        "...I can't afford to mess around, huh."
+      ],
+      "affinityDisappointed": [
+        "指挥官，就像腌熟了的鲱鱼罐头一样呢…",
+        "熟成されたシュールストレミングみたいね。あなた",
+        "You really are like a can of rancid surströmming."
+      ],
+      "affinityStranger": [
+        "指挥官，我听得到，所以请不要在我身边发出很大的声音，有点吵。",
+        "指揮官、聞こえているから耳元で叫ばないように。ちょっとうるさい…",
+        "I can hear just fine, Commander, so don't go yelling in my ear, thanks..."
+      ],
+      "affinityFriendly": [
+        "大家…都能好好说出想说的话呢……没什么，你好，指挥官。",
+        "普通言いたいこと言えてるよね。みんな。……あ、指揮官、こんにちは。なんでもないよ",
+        "If you ask me, people should be able to say whatever they want... Oh, hello there, Commander. Just talking to myself."
+      ],
+      "affinityLike": [
+        "我真是笨蛋…明明想和指挥官搞好关系的，却每次都说出那些话…指挥官一定讨厌我了吧…",
+        "バカだね…仲良くしたきゃ変にバカにしないほうがいいのに、これじゃあ嫌われちゃうじゃない……私……",
+        "I'm a total moron... Why am I so rude to the Commander when I just want to be friends... I'm so, so stupid..."
+      ],
+      "affinityLove": [
+        "对指挥官的看法？…就像是夜航中突然袭来的暴雨一般……啊，不，不是，我不是想说这个，我想说的是…其实我对指挥官是……",
+        "あなたをどう思うかって？さあ、航行中に突然襲ってくる嵐みたいな…………違う、そうじゃなくて、私、その…本当に言いたいことは……",
+        "How would I describe you? I dunno, I guess like a storm in the middle of a peaceful voyage... No, no, I didn't mean it like that... Sorry, what I meant to say is, um..."
+      ],
+      "pledge": [
+        "其实，我并不讨厌指挥官的…指挥官总是愿意和我说话，愿意摸摸我的头…我其实…最喜欢指挥官了。嗯…",
+        "別に指揮官のことは嫌いじゃないよ。だっていつもお話付き合ってくれるし、頭をなでてくれる……つ、つまり…好きだよ。うん…",
+        "Obviously I don't hate you, Commander. How could I, when I adore talking to you and being patted on the head? L-look, I'm trying to say... I love you. I mean it..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Yuubari) 这次又有什么有趣的新装备了吗？",
+        "(Sortie with Yuubari) 新しい実験なの？",
+        "(Sortie with Yuubari) Time for a new experiment?"
+      ]
+    },
+    {
+      "ENClientName": "Unfamiliar Duties",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "生疏的执勤时间",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ナーセリー勤務タイム",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/ee/PerseusMedical.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/40/PerseusMedicalChibi.png",
+      "shipDescription": [
+        "我是今天的值班护士，英仙座。有任何情况请按铃呼唤我。…还有什么问题吗？",
+        "当直のパーシュースよ。ご用があったらそこの呼び鈴鳴らして。…何か用？",
+        "I'm Perseus, I will be your nurse today. Use this button to call for me if you need anything... Yes? Did you need something?"
+      ],
+      "acquisition": [
+        "我是今天的值班护士，英仙座。有任何情况请按铃呼唤我。…还有什么问题吗？",
+        "当直のパーシュースよ。ご用があったらそこの呼び鈴鳴らして。…何か用？",
+        "I'm Perseus, I will be your nurse today. Use this button to call for me if you need anything... Yes? Did you need something?"
+      ],
+      "login": [
+        "…眼神？对不起，我不太清楚这种时候应该用什么表情面对指挥官…",
+        "…分からないわよ、こういう演習のときにどんな顔をすればいいかなんて",
+        "Honestly, I have no idea what sort of face to put on when pretending to be a nurse."
+      ],
+      "details": [
+        "无论是打针、包扎，还是护理，我都有在练习哦。指挥官，下次能当我的练习对象吗？",
+        "練習中だけど、お注射も止血も看病もなんでもどうぞ。…指揮官は練習相手、なってくれる？",
+        "I'm still learning, but I know how to give injections and stop a haemorrhage in theory. Can I practice my knowledge on you, Commander?"
+      ],
+      "secretaryIdle1": [
+        "帮助有困难的人是护士的职责，不过，任何帮助都是有极限的，能自己完成的事，还是请尽量自己完成吧，指挥官。",
+        "困った人を助けるのはいいけど限界があるよ。…要は自分でできることは自分でやってってこと。指揮官",
+        "It's noble to help those in need, but don't go overboard with it. What I'm trying to say is: unless you NEED my help, just make do on your own, Commander."
+      ],
+      "secretaryIdle2": [
+        "护士有时候要给难以行动的病人翻身呢…指挥官，能拜托你暂时像死鱼一样躺着不要动吗？",
+        "重傷者の体をひっくり返す演習ね――はいそこ、そのまま仰向けになってて",
+        "Now to practice turning a gravely injured person over... You, I'm gonna need you to lie on your back."
+      ],
+      "secretaryIdle3": [
+        "港区刚到了一批新的医疗设备，指挥官，能麻烦你当实验、…不，当一回测试者吗？",
+        "新しい医療機材。指揮官、モルモット……じゃなくて、実験に協力してもらえない？",
+        "Nice new med tech. Commander, I want you to be my guinea pig– Excuse me, I mean, experiment assistant."
+      ],
+      "secretaryTouch": [
+        "指挥官的眼神，就像猴子一样精神呢。看来很健康，嗯。",
+        "指揮官の今の目、生き生きとしてて健康そうだね",
+        "You have a healthy look in your eyes, Commander."
+      ],
+      "secretarySpecialTouch": [
+        "比起医院的病床，拘留处的铁床似乎更适合指挥官呢。",
+        "病床より営倉のパイプベッドのほうが良さそうね",
+        "You belong in the bed of a jail cell, not of a hospital."
+      ],
+      "returnFromMission": [
+        "指挥官…果然有点虚弱呢。需要来点补充营养的药剂吗？",
+        "指揮官、ちょっと貧弱すぎない？栄養剤でも出そっか？",
+        "Your health is seriously concerning, Commander. Want me to get you some vitamins?"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

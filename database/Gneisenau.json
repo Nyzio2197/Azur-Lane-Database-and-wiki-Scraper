@@ -1,0 +1,559 @@
+{
+  "name": "Gneisenau",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Scharnhorst",
+  "ID": "249",
+  "faction": "Iron Blood",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "artist": "NS",
+  "pixiv": "https://www.pixiv.net/member.php?id=50177",
+  "link": "https://weibo.com/ntrsis",
+  "voiceActor": "https://www.imdb.com/name/nm7468916/",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      7455,
+      157,
+      64,
+      366,
+      154,
+      38,
+      31,
+      248,
+      0,
+      13,
+      66,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6415,
+      137,
+      64,
+      326,
+      131,
+      22,
+      31,
+      216,
+      0,
+      13,
+      56,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1241,
+      58,
+      64,
+      69,
+      0,
+      9,
+      31,
+      46,
+      0,
+      4,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "105% → 135%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "150% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 70%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +1",
+  "collectionTechPoints": 28,
+  "maxLimitBreakTechPoints": 56,
+  "level120StatBonus": "Battlecruiser (BC) Evasion  +1",
+  "level120TechPoints": 42,
+  "enhancementValue": [
+    45,
+    3,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    10,
+    3,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Gains Torpedo Launch / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Battle Buster; CN: 破交作战 JP: 通商破壊",
+  "skill1Description": "Increases own Firepower by 15% (25%).",
+  "skill2Name": "Torpedo Launch; CN: 鱼雷发射 JP: 魚雷発射",
+  "skill2Description": "Every 35 (20) seconds, fires 3 torpedoes towards the front (damage depends on skill level).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/df/Gneisenau.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png",
+      "shipDescription": [
+        "沙恩霍斯特级战列巡洋舰—格奈森瑙",
+        "シャルンホルスト級戦艦・グナイゼナウ",
+        "Scharnhorst-class battlecruiser, Gneisenau."
+      ],
+      "selfIntroduction": [
+        "我是格奈森瑙。虽然不像姐姐那么好战，不过对战斗力还是有自信的……作为铁血最出色的舰船之一，我和姐姐曾合力完成了唯一一次战舰击沉正航的记录，请多信赖我们一些吧",
+        "グナイゼナウです。姉さんほど好戦的ではありませんが、戦闘力に自信があります……鉄血で最も優れた艦隊の一隻として、姉さんと唯一戦艦が空母を撃沈する記録を達成しました。私達のことを、もっと信じてくださいませ",
+        "I'm Gneisenau. Though I'm not as bellicose as my sister, I'm still confident about my combat capabilities. As some of the best ships the Iron Blood has to offer, we hold the record of being the only battlecruisers to sink a standard aircraft carrier. Your faith in us will not be misplaced."
+      ],
+      "acquisition": [
+        "你好，指挥官，我是格奈森瑙，虽然姐姐总是比较莽撞，但我们在一起的话，就是无敌的，希望能尽量让我和姐姐一起行动",
+        "こんにちは、指揮官。私はグナイゼナウ。姉の方はいつも猪突猛進ですけど、私達が揃っていれば無敵です。なので、姉とともに行動させてもらうようお願いします",
+        "Hello, Commander, I'm Gneisenau. Though my big sister is a bit reckless, we're actually an invincible team. I hope I will be able to sail with her as often as possible!"
+      ],
+      "login": [
+        "欢迎回来，要直接开始工作吗，我已经准备好指挥官需要的东西了",
+        "お帰りなさい。職務のほうをお始めになりますか？指揮官に必要なものを用意しました",
+        "Welcome back. Ready to get back to work? I've prepared everything you need, Commander."
+      ],
+      "details": [
+        "我的职责就是支援总是冲过头的姐姐…不过…有时候也会感到有些麻烦呢",
+        "私の使命はいつも突っ込みすぎる姉さんをサポートすること…でも…時々面倒くさい、と思ったりはしますね",
+        "My duty is to support my big sister who is always charging too far ahead. Admittedly, it gets a little irritating at times."
+      ],
+      "secretaryIdle1": [
+        "今天做不成的，明天也很难做好，请务必牢记这一点",
+        "今日やらないことは明日できるはずがありません。そこはご注意ください",
+        "You mustn't put off until tomorrow what you can do today. Please take that to heart."
+      ],
+      "secretaryIdle2": [
+        "在后方呆久了就会忘了前线的残酷，这句话反过来也一样呢……",
+        "後方に長くいると前線の残酷さを忘れてしまいます。逆も然り、ですね……",
+        "One forgets the cruelty of war after being at peace for too long. The opposite... is true as well, isn't it?"
+      ],
+      "secretaryIdle3": [
+        "从现在的角度看，会把那位骄傲的小姐与古板的骑士认错确实是不可理喻的事呢",
+        "振り返ってみれば、あのプライドの高いお嬢様を硬いナイトと勘違いしたのはやはり理解できないことですね",
+        "Looking back at it, it's unbelievable that I would mistake that prideful princess as an old-fashioned knight."
+      ],
+      "secretaryTouch": [
+        "和同一个人聊同一个话题却能得出不同的结论，不觉得很不可思议吗？",
+        "同じ人と同じ話題をしているのに違う結論がでるとか、面白く思いませんか？",
+        "Isn't it amazing how different people can come to different conclusions about the same topic?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，安东已经锁定你了，你逃不了的哦",
+        "指揮官、アントーンがあなたに狙いを定めましたよ？もう逃げられませんわ。",
+        "Commander, Anton is locked on, you can't escape now."
+      ],
+      "task": [
+        "任务吗……我来为您规划一下吧",
+        "任務ですか……私が計画を立てましょう",
+        "A mission? Let me do some planning for you..."
+      ],
+      "taskComplete": [
+        "有奖励发放了，检查一下吧",
+        "報酬が届きました。ご確認ください",
+        "Rewards distributed. Please accept them when you have a moment."
+      ],
+      "mail": [
+        "指挥官，有你的信件，就放在这里了",
+        "指揮官宛のメールがあります。こちらに",
+        "Commander, there's mail for you. I'll leave it here."
+      ],
+      "returnFromMission": [
+        "欢迎回来，接下来安心地休息一下吧",
+        "お帰りなさい。次はゆっくりお休みください",
+        "Welcome back. Please take it easy for a while."
+      ],
+      "commission": [
+        "有军事委托完成了，需要检阅成果吗",
+        "軍事委託が完了されました。成果の確認をしましょうか？",
+        "A commission has been completed! Care to inspect the results?"
+      ],
+      "strengthening": [
+        "只要你没有被力量冲昏头脑就好",
+        "力に溺れて判断力を失わなければいいですが",
+        "It's fine as long as you haven't let power cloud your judgement..."
+      ],
+      "startingMission": [
+        "真理只在大炮的射程范围内…",
+        "大砲の射程のうちにだけ、真理があるのよ",
+        "Truth only exists within the guns' range."
+      ],
+      "mvp": [
+        "抱歉，这是战争，并没有留手的空间",
+        "すまない、これは戦争よ。手加減する余裕なんてないもの",
+        "Sorry, this is war. There's no room for mercy."
+      ],
+      "defeat": [
+        "太过大意了吗……",
+        "油断したか……",
+        "I let my guard down..."
+      ],
+      "skillActivation": [
+        "——现在，你们已经进入了我的射程范围…",
+        "ーー射程範囲に、入ったね…",
+        "... Now you're in range!"
+      ],
+      "lowHP": [
+        "全舰注意保护自己",
+        "全艦、守りに気をつけてください！",
+        "All ships, remember to stay alert!"
+      ],
+      "affinityDisappointed": [
+        "我以为你是位更加聪慧的指挥官……",
+        "もっと賢い指揮官だと思いました……",
+        "I assumed you were more intelligent, Commander..."
+      ],
+      "affinityStranger": [
+        "请问有什么要事？我喜欢简单高效的交流方式",
+        "御用はなんでしょうか？やりとりは簡単で高効率なほうが望ましいです",
+        "Is it urgent? I prefer simple and effective forms of communication."
+      ],
+      "affinityFriendly": [
+        "“丑陋的姐妹”……虽然算是对我们成果的赞美，不过果然还是有点伤人，指挥官，我丑吗？",
+        "「醜い姉妹たち」……私達の戦果への賛美ですが、やはり少し傷つく言葉ですね。指揮官、私醜いですか？",
+        "\"The Ugly Sisters...\" Though we were given that epithet for our achievements, it still hurts a little. Commander, do you think I'm ugly?"
+      ],
+      "affinityLike": [
+        "不知不觉除了支援姐姐，辅佐指挥官也已经变成习惯了呢",
+        "姉さんのサポート以外に、指揮官を補佐するのも習慣になりましたね",
+        "Without realizing it, I've come to enjoy supporting both my sister and you, Commander."
+      ],
+      "affinityLove": [
+        "<现在>如箭一般飞逝，<未来>却总是姗姗来迟……真想看看我和指挥官所酝酿出的未来究竟是什么样的呢",
+        "「今」の時の流れが早くても、「未来」がいつも遅れて来るのですね。……私と指揮官が築く未来、早く見たいものです",
+        "The present flies by like an arrow, but the future always arrives too late. I hope that one day, I will be able to see the future that you and I create."
+      ],
+      "pledge": [
+        "契约……吗，我原本不喜欢这种用感情将人牵绊住的方式，不过现在觉得，这样也不坏呢……",
+        "契約……ですか。感情で人を縛るのは好みませんでしたが、今は少しだけ…いいと思います",
+        "A promise, huh? Long ago, I would have despised the notion of being tied down to emotions... but it doesn't seem so bad now."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "チョコレートを贈ることで、感謝の気持ちを伝えると聞きましたので、試しに作りました。形と甘さは計算して最適化しました。どうぞ受け取って下さい。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "なるほど、形も甘さも一番重要ではないと仰るのですか。でしたら「気持ち」というものは数値化するのが難しいので、指揮官の反応に基づいてデータを取りサンプリングします。いいですね？",
+        "Commander, I heard that it is customary here to express your feelings with chocolate, so I tried to make some. According to my calculations, the sweetness and texture should be perfect. Please accept it."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I have improved this year's chocolate based upon your response from last year. This so-called heart shape was adopted due to supposedly being more visually pleasing. Well then, Commander, please take this. Of course, I will be awaiting your feedback this year as well. Hopefully there are no objections?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Gneisenau_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Gneisenau_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Gneisenau_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Gneisenau_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Gneisenau_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Gneisenau_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Gneisenau_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Gneisenau_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Gneisenau_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Gneisenau_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Gneisenau_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Gneisenau_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Gneisenau_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Gneisenau_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Gneisenau_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Gneisenau_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Gneisenau_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Gneisenau_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Gneisenau_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Gneisenau_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Gneisenau_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Gneisenau_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Gneisenau_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Gneisenau_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Gneisenau_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Gneisenau_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Gneisenau_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Gneisenau_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Gneisenau_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Gneisenau_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Gneisenau_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Gneisenau_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Gneisenau_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Gneisenau_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Gneisenau_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Gneisenau_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Gneisenau_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Gneisenau_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Gneisenau_MissionFinJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Gneisenau_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Gneisenau_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Gneisenau_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Gneisenau_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Gneisenau_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Gneisenau_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Gneisenau_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Gneisenau_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Gneisenau_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Gneisenau_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Gneisenau_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Gneisenau_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Gneisenau_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Gneisenau_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Gneisenau_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Gneisenau_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Gneisenau_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Gneisenau_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Gneisenau_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Gneisenau_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Gneisenau_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Gneisenau_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Gneisenau_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Gneisenau_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Gneisenau_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Gneisenau_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Gneisenau_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Gneisenau_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Gneisenau_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Gneisenau_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Gneisenau_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Gneisenau_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Gneisenau_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Gneisenau_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Gneisenau_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Gneisenau_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Nightmarish Succubus",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "梦魇魅影",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "サキュバスナイトメア",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1080",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/84/GneisenauHalloween.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f8/GneisenauHalloweenChibi.png",
+      "shipDescription": [
+        "万圣节的派对，似乎还挺有趣的，从好的意义来说。“扮演鬼怪”这个活动还是挺值得尝试的。指挥官，觉得我这身打扮如何呢？",
+        "ハロウィンパーティー、いい意味で面白そうですね。仮装というものには体験しがいがあります。指揮官、この格好はいかがでしょうか",
+        "These Halloween festivities are quite interesting, in a good way. Getting dressed up in these costumes isn't such a bad experience either. Commander, what do you think of my costume?"
+      ],
+      "acquisition": [
+        "万圣节的派对，似乎还挺有趣的，从好的意义来说。“扮演鬼怪”这个活动还是挺值得尝试的。指挥官，觉得我这身打扮如何呢？",
+        "ハロウィンパーティー、いい意味で面白そうですね。仮装というものには体験しがいがあります。指揮官、この格好はいかがでしょうか",
+        "These Halloween festivities are quite interesting, in a good way. Getting dressed up in these costumes isn't such a bad experience either. Commander, what do you think of my costume?"
+      ],
+      "login": [
+        "一开始还觉得挺害羞的，一旦习惯了就…嗯…总觉得这套衣服穿久了，就会产生和平时不太一样的心境…",
+        "最初は恥じらい、その後は開き直るといいますか、とにかくこの格好で長くいると、心境にも変化が生じますね…",
+        "At first I was too embarrassed to wear something like this, but I went along with it and after wearing it for a while, I must say I'm starting to see things in a different light..."
+      ],
+      "details": [
+        "万圣节的魔女实在太多了，于是我试着选择了稍微有些不一样的装扮。看指挥官这么感兴趣的样子，看来是选对了呢，呼呼…",
+        "意外とみんなが魔女を選ぶので、少し違うチョイスをさせていただきました。指揮官の反応を見る限り正解だったようですね。フフフ…",
+        "Everyone wants to be a witch for Halloween, so I chose something a little bit different. After seeing your reaction, Commander, I think I chose correctly. Hehehe..."
+      ],
+      "secretaryIdle1": [
+        "要是姐姐也能一起参加就好了。如果万圣节有个用主炮击碎南瓜的比赛或者活动之类的，她大概才会有兴趣吧",
+        "姉さんも一緒にハロウィンを楽しんでくれるといいですね――とは思いますが、おそらくは「主砲でかぼちゃを派手に撃つ」程度の行事がないと興味も湧かないでしょう",
+        "If only my sister were here... Now if we had some sort of pumpkin-smashing gunnery competition, that would have gotten her attention."
+      ],
+      "secretaryIdle2": [
+        "“丑陋的姐妹”…不觉得跟这个节日特别搭配吗？",
+        "「醜い姉妹」――ええ、この祝日のムードと合うと思いませんか？",
+        "This holiday certainly is well suited to us \"Ugly Sisters,\" isn't it?"
+      ],
+      "secretaryIdle3": [
+        "“尾巴”？那只是衣服自带的装饰而已…不过，还请不要随意碰触",
+        "「しっぽ」？ああ、これはあくまで衣装の装飾に過ぎませんが…あまり触らないほうがいいでしょう",
+        "My tail? Oh it just came with the costume... Still, I'd prefer if you didn't touch it."
+      ],
+      "secretaryTouch": [
+        "呼呼…虽然我没有准备糖果，不过倒是可以给指挥官一点别的“甜头”…指挥官想要试试看吗？虽然可能会带着些许的痛楚就是了~",
+        "お菓子は用意していませんが、他に楽しんでいただける「いいこと」を準備しました。…お試しになります？少し、痛みも伴いますが…フフフ",
+        "While I haven't prepared any candy, I do have a \"treat\" for you to enjoy. Would you like to try? I'm afraid there may be some pain involved... Hehehe..."
+      ],
+      "secretarySpecialTouch": [
+        "呀啊…！？指挥官…是想要被惩罚了吗！？",
+        "きゃっ！？指揮官は「おしおき」、してほしいのですか？",
+        "Eek?! Commander, does someone want to be \"punished?\""
+      ],
+      "returnFromMission": [
+        "如果你能够看到我身边的鬼魂的话——那代表你需要休息了。节日的狂欢虽然不错，可别兴奋过度了。",
+        "私の周りに変なものが見える――というのでしたら、休憩を取ったほうがいいでしょう。祝祭の熱気を楽しむのはいいですが、くれぐれも熱くなりすぎないように",
+        "You say you see ghosts and goblins all around me? ... I think you need a break. Getting into the Halloween spirit is all well and good, but you can't overdo it."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Gneisenau_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Gneisenau_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Gneisenau_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Gneisenau_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Gneisenau_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Gneisenau_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Gneisenau_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Gneisenau_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Gneisenau_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Gneisenau_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Gneisenau_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Gneisenau_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Gneisenau_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Gneisenau_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Gneisenau_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Gneisenau_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Gneisenau_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Gneisenau_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Gneisenau_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Gneisenau_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Gneisenau_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Gneisenau_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Gneisenau_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Gneisenau_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Gneisenau_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Gneisenau_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Gneisenau_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

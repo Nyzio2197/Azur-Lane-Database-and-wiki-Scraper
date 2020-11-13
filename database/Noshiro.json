@@ -1,0 +1,657 @@
+{
+  "name": "Noshiro",
+  "constructionTime": "01:20:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Agano",
+  "ID": "322",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "ATDAN",
+  "pixiv": "https://www.pixiv.net/member.php?id=6662895",
+  "twitter": "https://twitter.com/Atdan86",
+  "link": "http://www.weibo.com/atdan",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/7/7f/Noshiro_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3278,
+      181,
+      55,
+      175,
+      373,
+      104,
+      35,
+      333,
+      0,
+      11,
+      171,
+      97,
+      0,
+      0
+    ],
+    "Level 100": [
+      2896,
+      157,
+      55,
+      152,
+      332,
+      76,
+      35,
+      295,
+      0,
+      11,
+      153,
+      85,
+      0,
+      0
+    ],
+    "Base Stats": [
+      560,
+      66,
+      55,
+      32,
+      70,
+      29,
+      35,
+      63,
+      0,
+      3,
+      59,
+      23,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "120% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "150% → 175%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "110% → 110%",
+  "collectionStatBonus": "Light cruiser (CL) Torpedo  +1",
+  "collectionTechPoints": 9,
+  "maxLimitBreakTechPoints": 19,
+  "level120StatBonus": "Light cruiser (CL) Anti-air  +1",
+  "level120TechPoints": 14,
+  "enhancementValue": [
+    13,
+    23,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    10
+  ],
+  "limitBreak1": "Unlock EX Barrage Ⅰ/Main gun efficiency +5%",
+  "limitBreak2": "Torpedo base +1/Torpedo preload +1/Torpedo efficiency +10%",
+  "limitBreak3": "Improve EX Barrage/Torpedo efficiency +15%",
+  "skill1Name": "Noshiro's Hoarfrost; CN: 从容指顾 JP: 氷風の能代",
+  "skill1Description": "While this ship is afloat: increases this ship's Evasion Rate by 5.0% (15.0%) and decreases the torpedo DMG your Vanguard takes by 5.0% (20.0%).",
+  "skill2Name": "Skyslayer's Edge; CN: 新锐之刃 JP: 天征す刃",
+  "skill2Description": "Increases the DMG this ship deals to enemy CVs and CVLs by 5% (20%). While this ship is afloat: increases the TRP of your Vanguard by 5% (20%). Also increases Vanguard's Crit Rate by 3% (12%) starting at skill level 7.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-貅 JP: 特殊弾幕-能代",
+  "skill3Description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Noshiro I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/09/Noshiro.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/11/NoshiroChibi.png",
+      "shipDescription": [
+        "豼级轻巡洋舰二番舰——貅",
+        "阿賀野型軽巡洋艦二番艦・能代",
+        "Agano-class light cruiser number two – Noshiro."
+      ],
+      "selfIntroduction": [
+        "也许如姐姐所说，我们有些生不逢时。不过，作为新锐的豼级的一员，只要有能给我发挥的环境，我是不会让您失望的。",
+        "阿賀野の言う通り、かの大戦での私たちは生まれた時期が不幸だったかもしれません。…いいえ、洗練された阿賀野型として、自らの実力を発揮できる場さえいただければ、あなたに満足してもらえる働きができるはずです",
+        "Just as Agano says, the great war in which we were born may have been an era of misfortune. ...No. As a member of the improved Agano-class, I should be able to make you satisfied with my work, if only there was just a place I could display my true strength."
+      ],
+      "acquisition": [
+        "豼级二号舰，貅，从今日起加入您的舰队。让我们共同努力，互相向对方证明自己的能力吧。",
+        "本日着任しました、阿賀野型二番艦の能代と申します。お互い自分の価値を相手に証明できるよう、共に努力しましょ？",
+        "I'm the new arrival, Noshiro, second ship of the Agano-class, reporting for duty. Let's do our utmost to prove our worth to each other, shall we?"
+      ],
+      "login": [
+        "来得很早啊。先思考一下今天的计划如何？",
+        "あら、お早いですね。手始めに、本日の予定の確認でも？",
+        "My, you're quite early today. For starters, how about checking today's schedule?"
+      ],
+      "details": [
+        "不论什么情况下，只有冷静地思考，才能顺利解决困难，这是我的准则哦",
+        "どんな状況においても、まずは落ち着いて進め方を考えてから手を動かすこと――私の流儀です",
+        "Regardless of the situation, you should first calm down, think of a way forward, and only then act. That's how I tackle things."
+      ],
+      "secretaryIdle1": [
+        "唔，要不要把明天的三餐先规划好呢……",
+        "…明日の三食のメニューでも考えておきましょうか…",
+        "...Let's try thinking of some recipes for tomorrow's meals..."
+      ],
+      "secretaryIdle2": [
+        "合理的归类和摆放能节省寻找想要的资料的时间，我建议指挥官能抽空整理一下办公桌。",
+        "整理整頓は資料を探す手間を短縮させてくれます。手始めに机の資料を片付けたら？",
+        "Keeping everything neat and tidy shortens the time it takes to search for documents. Why don't we start by organizing the documents on your desk?"
+      ],
+      "secretaryIdle3": [
+        "虽然豼姐姐总是那副笑呵呵的样子，不过…我每次都猜不到她的想法，最后反倒被她利用捉弄…",
+        "阿賀野のあの…ええ、あの不敵な笑いの裏はどうも読み取れませんね…いつも彼女には弄ばれるばかりです",
+        "Agano's exp... Yes, it's truly impossible to tell what's behind that fearless smile... She always ends up leading me around by the nose."
+      ],
+      "secretaryTouch": [
+        "遇到困难的话，先冷静下来思考一下如何？",
+        "捗らないのなら、まずは手を止めて、一旦進め方を考え直したら？",
+        "If you're stuck, why not stop what you're doing, and instead, think of a different way to proceed?"
+      ],
+      "secretarySpecialTouch": [
+        "请，请务必对刚刚的行为作出检讨！",
+        "い、今の行動について謝罪と反省を要求します！",
+        "R-Regarding your conduct right now, I demand that you apologize and reflect upon your actions!"
+      ],
+      "task": [
+        "任务很多的话，不如先按照重要程度规划一下吧",
+        "任務が多いと感じるのなら、優先度で一度仕分けてみたら？",
+        "If you feel overwhelmed by the number of missions, why not try sorting them based on priority?"
+      ],
+      "taskComplete": [
+        "任务奖励拿到了哦。保险起见，确认一下有没有缺少吧",
+        "任務報酬を受領してきました。抜け、漏れがないかを確認してください。念入りに、ね",
+        "I've received the mission rewards. Please double check that nothing has been left out."
+      ],
+      "mail": [
+        "信件？我确认一下，没有什么奇怪的内容吧？",
+        "メール？変なのが入ってないか確認しておきます",
+        "Mail? I'll check to make sure there's nothing suspicious inside."
+      ],
+      "returnFromMission": [
+        "唔……嗯？啊，对不起，我刚刚在想事情。既然你回来了，那我们就来做这次出击战斗的检讨吧？",
+        "ん……あっすみません、考え事をしていました。戻ってきましたね。じゃあさっきの出撃の振り返りを",
+        "Hm... Ah, sorry. I was lost in thought. So you've returned. Let's start by reviewing this past battle."
+      ],
+      "commission": [
+        "该派出下一批委托队伍了呢",
+        "次の委託チームの手配を、ね？",
+        "Please form the next commission team, okay?"
+      ],
+      "strengthening": [
+        "战力的强化就拜托您了。",
+        "戦力の強化、頼みます",
+        "Please, strengthen my combat ability."
+      ],
+      "startingMission": [
+        "再确认一遍作战计划吧。",
+        "作戦計画の確認を。念入りにね",
+        "Please look over the battle plans, just to double check."
+      ],
+      "mvp": [
+        "冷静的思考与正确的决策引导出的结果，必然是胜利。",
+        "冷静な分析と正確な決断によって導かれるのは、勝利以外ありえません",
+        "If you lead with careful analysis and accurate decision-making, your victory is ensured."
+      ],
+      "defeat": [
+        "我们必须撤退了…",
+        "退くしかありませんね……",
+        "We have no choice but to pull back..."
+      ],
+      "skillActivation": [
+        "就是现在！",
+        "今です",
+        "Now's the time!"
+      ],
+      "lowHP": [
+        "糟了，难道这是敌人的陷阱！",
+        "敵の罠！？",
+        "An enemy trap?!"
+      ],
+      "affinityDisappointed": [
+        "指挥官，你太浮躁了。试着沉静下来反省一下自己如何？",
+        "随分と焦っているようですね。一度落ち着いて、己の行いについて反省してみたら？",
+        "You seem to be in quite the hurry. For once, why don't you try calming down and reflecting upon your actions?"
+      ],
+      "affinityStranger": [
+        "指挥官，我在考虑训练的事情。你也应该有自己的事情要做吧？",
+        "訓練のことについて考えています。あなたもやるべきこと、あるのではなくて？",
+        "I am currently contemplating over the last practice exercise. Do you not also have things you should be doing right now?"
+      ],
+      "affinityFriendly": [
+        "豼姐姐邀请我一起训练…唔…总觉得她又想要捉弄我了…不过推辞的话，好像又没有什么说得过去的理由…对了，指挥官，要不你在那个时间段给我安排一点工作吧！",
+        "阿賀野からの共同訓練のお誘い…困りましたね。私をからかう気満々ですが、断るにしても理由が思いつきません。……その時間帯にお仕事でも任せてもらえません？",
+        "An invitation to a joint practice session together from Agano... How troubling. It's full of intent to bully. Even though I want to refuse, I can't think of an excuse. Instead, would you be willing to assign some official duties to me around that time?"
+      ],
+      "affinityLike": [
+        "说起来，“女性的直觉”是什么东西？我是听同伴们提到，比较好奇，所以想问下。……指挥官也说不清楚吗？抱歉，是有些难为你了。",
+        "コホン、あくまで仲間たちから言葉自体を度々聞かされていたので、好奇心ゆえの質問ですが…「女の勘」というのは一体どういうものでしょう？……自分も解せない、と。なるほど、あなたにとっても難問のようですね",
+        "Ahem. I'm only asking this because I keep hearing my friends use the term over and over, but... out of curiosity, what exactly is this concept called `a woman's intuition'...? \"I have absolutely no clue,\" you say? I see. I guess it's an enigma to you, too."
+      ],
+      "affinityLove": [
+        "这就是所谓“心动”的感觉吗…比起“直觉”，我更习惯于理性的思考，这样的心情多少让我感到有些混乱…不过，现在我有些明白了。无论是我的心情，还是指挥官的心情",
+        "「ときめく」というのはこういう感じですね。いつも「勘」だの「直感」だのより理性を働かせている分、こういう感情には不慣れなところもありましたが……ええ、今ならはっきりと分かっています。私の気持ち、そして、あなたの気持ちも",
+        "So this is what it feels like to have your heart throb. While I used to be just as inexperienced with this feeling as I was experienced with being perceptive and relying on my instincts... Yes, it's all clear to me now. My feelings, as well as yours."
+      ],
+      "pledge": [
+        "既然接受了指挥官的心意，那我也要有所回应才行。之后的话……约会、做便当、培养感情，但是训练不能落下，秘书舰的工作也……啊，对不起，我只是发了会呆。我，我们继续吧？",
+        "気持ちを受け取った以上、それに応えるには…ええと、確かお食事の支度と非番の日のお付き合い、訓練などの通常業務においてもモチベーションの向上に応じて……え、あ、ごめんなさい今少し考え事をしていました。そ、そのまま続けて？",
+        "In order to not just accept your feelings, but to reciprocate them as well... Umm, let's see... I'll need to prepare meals, go on dates on days off, but I also need to make sure I don't lose motivation for my regular duties, like practice... Eh? Ah, sorry, I got lost in my train of thought. Huh? I-I should keep going?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Agano) 姐姐，小心点，别又受伤了",
+        "(Sortie with Agano) 阿賀野、気をつけて",
+        "(Sortie with Agano) Agano, please be careful."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Hornet, Wasp) 唔…能、能不要离我太近吗？",
+        "(Sortie with Hornet, Wasp) 少し距離を…お願いできます？",
+        "(Sortie with Hornet, Wasp) Um... mind keeping a safe distance?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "To show my gratitude and appreciation, as well as my... Ahem! As a way of showing one's feelings, everyone gifts chocolate on Valentine's Day. So, Commander, please accept this chocolate."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Noshiro_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Noshiro_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Noshiro_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Noshiro_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Noshiro_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Noshiro_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Noshiro_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Noshiro_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Noshiro_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Noshiro_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Noshiro_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Noshiro_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Noshiro_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Noshiro_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Noshiro_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Noshiro_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Noshiro_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Noshiro_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Noshiro_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Noshiro_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Noshiro_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Noshiro_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Noshiro_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Noshiro_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Noshiro_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Noshiro_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Noshiro_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Noshiro_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Noshiro_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Noshiro_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Noshiro_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Noshiro_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Noshiro_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Noshiro_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Noshiro_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Noshiro_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Noshiro_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Noshiro_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Noshiro_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Noshiro_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Noshiro_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Noshiro_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Noshiro_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Noshiro_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Noshiro_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Noshiro_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Noshiro_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Noshiro_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Noshiro_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Noshiro_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Noshiro_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Noshiro_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Noshiro_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Noshiro_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Noshiro_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Noshiro_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Noshiro_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Noshiro_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Noshiro_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Noshiro_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Noshiro_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Noshiro_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Noshiro_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Noshiro_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Noshiro_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Noshiro_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Noshiro_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Noshiro_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Noshiro_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Noshiro_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Noshiro_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Noshiro_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Noshiro_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Noshiro_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Noshiro_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Noshiro_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Noshiro_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Noshiro_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Noshiro_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Noshiro_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Noshiro_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Noshiro_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Noshiro_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Noshiro_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Uncharted Festival Grounds?",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "祭典的秘境?",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "祭りの秘境？",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/25/NoshiroNew_Year.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/NoshiroNew_YearChibi.png",
+      "shipDescription": [
+        "呼…和之前想的一样，这里是欣赏烟花最好的地方呢。指挥官，你也是这么想才来到这里的吧？",
+        "思っていたとおり、花火見物には絶好の場所ですね。あなたもそう思って来たのでしょう？",
+        "Just as I thought, this is the perfect place for watching fireworks. You came here thinking that too, didn't yo8u?"
+      ],
+      "acquisition": [
+        "呼…和之前想的一样，这里是欣赏烟花最好的地方呢。指挥官，你也是这么想才来到这里的吧？",
+        "思っていたとおり、花火見物には絶好の場所ですね。あなたもそう思って来たのでしょう？",
+        "Just as I thought, this is the perfect place for watching fireworks. You came here thinking that too, didn't you?"
+      ],
+      "login": [
+        "指挥官，稍微陪我走一段路吧。",
+        "少し歩くのに付き合ってもらえませんか？",
+        "It'll be a bit of a walk, but won't you come along with me?"
+      ],
+      "secretaryIdle1": [
+        "这个地方是之前来参拜的时候偶然发现的。回想起来，当时不走大路反而走进这种小路的我究竟是怎样一种心情呢…",
+        "この場所を見つけられたのはただの偶然です。思えば、大通りを通らずこの裏道に入ったときから何か予感めいたものを感じていました……",
+        "I only found this place by pure chance. Thinking back on it, I wonder how I was feeling when I stumbled upon this back alleyway instead of following the main road..."
+      ],
+      "secretaryIdle2": [
+        "路有点窄，请注意脚下",
+        "道が狭いから、足元に気をつけてください",
+        "Please, watch your step. The road is very narrow."
+      ],
+      "secretaryIdle3": [
+        "祭典自然是要换上与之相符的衣裳，不过穿起来确实很麻烦。还因此被豼笑了好久…唉",
+        "お祭りにふさわしい格好といえばこうですが、着付けにそこそこ苦戦しました。阿賀野にも笑われましたね。…ふぅ",
+        "If we're talking about dressing up properly for the festival, this is definitely the getup. However, I struggled a bit while changing into this. I even got laughed at by Agano. ...*sigh*"
+      ],
+      "secretaryTouch": [
+        "唔，这里不用扶着我也没问题的…总之，谢谢了。",
+        "んっ…あっ、支えてくれなくても大丈夫です。…ありがとうございます",
+        "Hm... Ah, I'll be fine even if you don't prop me up like that. ...Um, thank you very much."
+      ],
+      "secretarySpecialTouch": [
+        "就算是节日，也是免不了反省和检讨的！",
+        "お祭りだからといって謝罪と反省をしなくていいとは思わないでください！",
+        "Apologize and reflect upon your actions. Don't think that you're going to get away with it just because we're at a festival!"
+      ],
+      "returnFromMission": [
+        "啊，指挥官，你刚刚去哪里了？该不会…是迷路了吧？",
+        "今までどこに行ってました？もしかして…迷子？",
+        "Where were you all this time? Don't tell me... you got lost?"
+      ],
+      "startingMission": [
+        "来放个华丽的烟花吧！",
+        "さあ、絢爛に打ち上げよう！",
+        "Now, let's put on a dazzling show!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Noshiro_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Noshiro_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Noshiro_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Noshiro_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Noshiro_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Noshiro_LogSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Noshiro_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Noshiro_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Noshiro_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Noshiro_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Noshiro_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Noshiro_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Noshiro_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Noshiro_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Noshiro_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Noshiro_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Noshiro_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Noshiro_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Noshiro_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Noshiro_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Noshiro_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Noshiro_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Noshiro_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Noshiro_MissionFinSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Noshiro_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Noshiro_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Noshiro_MissionStartSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Xanadu's Eventide",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "夜响的绝园",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "夜饗の絶園",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/48/NoshiroPartyChibi.png",
+      "shipDescription": [
+        "指挥官，傻站在那里是要干什么？你也为了转换下心情才来这里的吧？我们彼此——应该都不至于被这里的风景吓到才对。",
+        "そこに突っ立っていてどうしたの？あなたも気分転換のために来たの？だったら、お互い――この場所に都合の悪いところなどなにもないはずよ",
+        "Commander, what are you standing around for? Did you also need a change of pace? That makes two of us— Come, there's nothing to be afraid of here."
+      ],
+      "acquisition": [
+        "指挥官，傻站在那里是要干什么？你也为了转换下心情才来这里的吧？我们彼此——应该都不至于被这里的风景吓到才对。",
+        "そこに突っ立っていてどうしたの？あなたも気分転換のために来たの？だったら、お互い――この場所に都合の悪いところなどなにもないはずよ",
+        "Commander, what are you standing around for? Did you also need a change of pace? That makes two of us— Come, there's nothing to be afraid of here."
+      ],
+      "login": [
+        "呼…好啦，下次小心，不要再碰到笼子了哦……我刚才在照顾这些孩子们，指挥官呢？",
+        "ふぅ…ほら、いってらっしゃい。籠にぶつからないように……この子たちの世話をしていましたわ。あなたは？",
+        "Phew... Go on, fly away, little ones. Mind the cage on your way out, now... I've been taking care of these guys. What have you been up to?"
+      ],
+      "details": [
+        "无须担心，准备和打招呼这类宴会上要干的事情都已经做完了。之后只要在这慢慢欣赏风景就好。",
+        "心配はいりません。準備、挨拶などパーティーでやるべきことは済ませています。あとはここでゆっくりと景色を楽しむだけです",
+        "Don't worry. There's nothing for you to worry about. All the preparations for the party and the related formalities have all been taken care of. All that's left for you to do is to enjoy the evening while savoring this beautiful scenery."
+      ],
+      "secretaryIdle1": [
+        "哇啊！？…非常抱歉，一时不察差点摔下去…谢、谢谢你接着我…",
+        "きゃっ。……ごめんなさい、私としたことが、落ちちゃいそうになりました…受け取めてくださって…あ、ありがとうございます……",
+        "Wah! ...Sorry. I can't believe I almost fell... Um... T-Thank you for catching me..."
+      ],
+      "secretaryIdle2": [
+        "这里的气氛确实不错，要说除此之外的好处的话，大概就是不会被豼捉弄了吧…她没有在担心我就好。",
+        "ここの雰囲気が好きなのはもちろんですが、もう一ついい所を挙げるとすれば、ここにいれば阿賀野にからかわれずに済むことですね…私のことを心配していなければいいのですが",
+        "It's a given that I love the atmosphere here, but another reason I like this place is that I feel like I can finally get away from Agano's endless teasing here... Though, I'd rather she just stop worrying about me in the first place..."
+      ],
+      "secretaryIdle3": [
+        "这也是块大费周章的布景呢，嗯，我觉得很漂亮哦。…看着这里，一瞬间甚至会让人忘记自己身在港区。这么一说，指挥官刚来的时候也愣住了一下吧。",
+        "ここもまた大掛かりなセットですね。ええ、綺麗で…初めて見たとき、一瞬、母港にいることを忘れるほどでした。そういえば、あなたもここに来た時一瞬立ち止まっていましたね",
+        "This is yet another massive set built right in the Port. Yes, it's incredibly gorgeous... Honestly, when I saw it for the first time, I forgot I was in still in the Port for a moment. Speaking of which, didn't you also stand and stare in awe when you first came here?"
+      ],
+      "secretaryTouch": [
+        "或许豼也会很喜欢这个地方？",
+        "もしかすると阿賀野もここを好きになりそうですね。ふふ",
+        "Hehe. I think even Agano would take a liking to this place, too."
+      ],
+      "secretarySpecialTouch": [
+        "那个……要不要我这样…给你做做按摩？",
+        "その……これでマッサージ…してもいいですか？",
+        "Excuse me... How about I give you a massage... with this?"
+      ],
+      "returnFromMission": [
+        "休息够了的话，要不要再一起去宴会会场露个脸？",
+        "十分に休んだら、一緒にパーティーのほうに顔を出してみない？",
+        "Once you've rested up, why don't we go and make our appearance at the party together?"
+      ],
+      "commission": [
+        "这里意外的离港口很近呢。要不要去迎接委托组的各位？",
+        "ここは意外と港まで近いんですね。委託組のみんなの出迎えに行ってみませんか？",
+        "Though it might not seem that way, we're actually pretty close to the Port. Shall we go and greet the Commissions Team?"
+      ],
+      "startingMission": [
+        "冻结吧。…你们的时间，到此为止了。",
+        "凍りつきなさい。…あなたたちの時間はここまでです",
+        "Freeze, and turn to ice... Your time is up."
+      ],
+      "mvp": [
+        "在冷静的战斗指导前——你们的抵抗毫无意义。",
+        "冷静な戦闘指導の前に――抵抗は無意味です。",
+        "In the face of well-crafted plans, resistance is futile. Accept your defeat."
+      ],
+      "affinityLove": [
+        "这个布景…到底是想表现一种什么样的场景氛围呢…鸟笼、乌鸦、大海、蓝色的玫瑰…以及，来到我身边的你……那个，刚才这种…感觉也很不错…指挥官也这么觉得吧？",
+        "このセット、本当はどういうシチュエーションのためのものでしょうか。鳥籠、鴉、海、青い薔薇…そして、私のそばにあなたが………その、今のこの感じでも……十分に、綺麗だと…思いませんか？",
+        "Hmm, I wonder what kind of scene this set is supposed to depict. A birdcage, crows, the sea, blue roses, and... you beside me... Um... Don't you think this is quite picturesque?"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

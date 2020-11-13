@@ -1,0 +1,400 @@
+{
+  "name": "Howe",
+  "constructionTime": "04:50:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "King George V",
+  "ID": "461",
+  "faction": "Royal Navy",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Snow is",
+  "pixiv": "https://www.pixiv.net/member.php?id=4780571",
+  "twitter": "https://twitter.com/FFFAFA_snow_is",
+  "link": "https://weibo.com/u/6169291940",
+  "voiceActor": "https://en.wikipedia.org/wiki/Mao_Ichimichi",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7967,
+      159,
+      83,
+      418,
+      0,
+      35,
+      28,
+      258,
+      0,
+      15,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6897,
+      138,
+      83,
+      383,
+      0,
+      18,
+      28,
+      225,
+      0,
+      15,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1334,
+      58,
+      83,
+      81,
+      0,
+      7,
+      28,
+      48,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "110% → 140%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 18,
+  "maxLimitBreakTechPoints": 36,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 27,
+  "enhancementValue": [
+    67,
+    0,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    10
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Synchronized Strike; CN: 射击Synchronize JP: 射撃シンクロナイズ",
+  "skill1Description": "Every 35 (15) seconds after the battle starts: Fire a Level 1 (Level 10) special barrage at a random enemy, and increase the RLD and Accuracy of all BBs, BCs, and BBVs in your main fleet by 10.0% (20.0%) for 8 seconds.",
+  "skill2Name": "Covenant of the Immortal Knights; CN: 骑士不朽之约 JP: 朽ちぬ騎士の結束",
+  "skill2Description": "When entering combat:",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/62/Howe.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/70/HoweChibi.png",
+      "shipDescription": [
+        "英王乔治五世级战列舰—豪",
+        "キングジョージⅤ世級戦艦·ハウ(HMS Howe)",
+        "King George V-class battleship – Howe (HMS Howe.)"
+      ],
+      "selfIntroduction": [
+        "在去太平洋之前，我大部分时候都与乔治五世共同行动哦，还与她一起迎接过两位萨丁帝国的重要盟友呢。其他的…除了护航之外似乎也没有什么特别的事情了…？",
+        "かの作戦における太平洋の戦い…の前に、私はずっとジョージとともに行動していたわ。サディアの味方を出迎えたこと以外は…特にこれといった戦果はあったり、なかったり…？",
+        "Prior to my being sent to the Pacific, I always worked side by side with George. But aside from the one time we escorted our Sardegnian friends, I suppose I don't have too many notable feats to my name."
+      ],
+      "acquisition": [
+        "很高兴见到你，指挥官。我是英王乔治五世级的最后一员，豪。希望今后我们能愉快相处。",
+        "会えて嬉しいわ、指揮官。キングジョージV級のハウよ。これから仲良くやりましょう？",
+        "It's a pleasure meeting you, Commander. I'm Howe of the King George V-class. I hope we can build a healthy relationship."
+      ],
+      "login": [
+        "终于来了啊，好，让我们一起攻克今天的难题吧。",
+        "よく来てくれたわ。さあ、今日のお仕事も一緒にやりましょう？",
+        "How nice to see you. Now, let's get to work on today's tasks."
+      ],
+      "details": [
+        "为同伴可以赴汤蹈火，对敌人则无须留情，这是我的准则哦。",
+        "仲間のために危険を恐れず、敵には手加減せず――私らしく、ね？ふふふ",
+        "To your friends, show no cowardice; to your foes, show no mercy – that is my creed. Hehehe~"
+      ],
+      "secretaryIdle1": [
+        "威尔士和约克公爵都是很有意思的人，虽然有时候多少让人有点跟不上她们的节奏…",
+        "ウェールズとヨークは素晴らしい方よ。時々お二人のペースについていけなくなったりするけど…",
+        "Wales and York are lovely ladies. At times, however, I struggle to keep up with their thought processes."
+      ],
+      "secretaryIdle2": [
+        "乔治五世姐姐对我很好哦，还会经常给我小点心吃…不过，要是她能不要每次把我当小孩子就更好了。",
+        "ジョージはいつも良くしてくれているわ。クッキーでよく釣ろうとしてきたり…私のことをいつまでも子供扱いしてるわね、うん",
+        "George has always been good to me. She often treats me to a cookie or two... But I wish she'd stop treating me like I'm still a child."
+      ],
+      "secretaryIdle3": [
+        "港区的伙伴们个性都很强烈，要和她们都搞好关系好像还没那么容易呢…唔…总之先来办个点心会好了？",
+        "個性豊かな仲間たちと仲良くすることを難しく感じたら……クッキーを分け与えて一緒に食べることから始めましょう？",
+        "If you have a hard time making friends with an eccentric person, my advice is this: bake some cookies, and offer to share with them."
+      ],
+      "secretaryTouch": [
+        "我还不累，不需要按摩哦？",
+        "マッサージはいいわ。まだ疲れていないから",
+        "Do save the massage for later. I'm not tired yet."
+      ],
+      "secretarySpecialTouch": [
+        "…？这是要做什么？",
+        "…？何をするつもり？",
+        "Umm... What are you doing?"
+      ],
+      "secretaryHeadpat": [
+        "……？",
+        "……？",
+        "Hm...?"
+      ],
+      "task": [
+        "有任务？我能帮上什么忙吗？",
+        "任務？私にも手伝えることとかない？",
+        "Oh, missions? Are there any I can help with?"
+      ],
+      "taskComplete": [
+        "任务完成了。清点奖励这种小事就交给我吧。",
+        "任務完了よ。あ、報酬の確認は私にやらせて？",
+        "A mission's done. I can take care of claiming the rewards, no problem."
+      ],
+      "mail": [
+        "这好像是你的邮件？",
+        "あなたへのメールだそうよ",
+        "We've received what looks to be mail addressed to you."
+      ],
+      "returnFromMission": [
+        "出击辛苦了。还有精神的话，就马上开始总结报告吧？",
+        "出撃ご苦労様。まだ元気なら、今からでもレポートをまとめてみない？",
+        "Nicely done out there. If you've got the energy to spare, perhaps you could write an after-battle report?"
+      ],
+      "commission": [
+        "委托队需要护航吗？我可是专业的哦。",
+        "委託組の帰還に護衛は要るかしら？こう見えてもプロよ。私",
+        "Do you need someone to escort the commission team home? I'm quite the experienced escort, I'll have you know."
+      ],
+      "strengthening": [
+        "呼…这份恩情，我会在战场上回报你的，指挥官。",
+        "ふぅ…お礼は戦場でお返しするわよ。指揮官",
+        "Phew... I'll return your gesture with valour on the battlefield, Commander."
+      ],
+      "startingMission": [
+        "对待敌人我可不会心慈手软！",
+        "ふふ、手加減なしよ！",
+        "Heheh, there'll be no mercy for you!"
+      ],
+      "mvp": [
+        "呵呵，今天状态不错。",
+        "ふふ、今日はいい感じね",
+        "Heheh, I'm in top shape today!"
+      ],
+      "defeat": [
+        "下次…不会再输了。",
+        "次は…負けないわ",
+        "Next time... victory will be ours."
+      ],
+      "skillActivation": [
+        "无须犹豫！",
+        "迷わないわ！",
+        "My aim shall not waver!"
+      ],
+      "lowHP": [
+        "还能…再支持一会！",
+        "あと…少し！",
+        "I can't... falter now!"
+      ],
+      "affinityDisappointed": [
+        "以为善意必定能得到善意的回应…我还是太天真了么",
+        "情けは人のためならず――そう思ってたけど全く甘ちゃんだったわね。私",
+        "A kind deed to others is a kind deed to yourself – or so I was naive enough to believe..."
+      ],
+      "affinityStranger": [
+        "「Utcumque placuerit deo」——如果神存在的话，他期望中世界是怎样的呢？至少他应该不想看到无尽的纷争和战乱吧。",
+        "「神の御心が行われますように」――神がいるとしたらどんな世界がお望みかな？戦いが終わらない世界はきっと違うはずよ",
+        "\"Shape the world into God's vision\" – if there is a God, what is his ideal world? It can't be one of perpetual war, that's for sure."
+      ],
+      "affinityFriendly": [
+        "指挥官心情不好？还是累了？这种时候，来点小饼干就好了。心情和精神都可以很快恢复的哦。",
+        "指揮官は疲れた？それとも気分よくないの？……ふふ、こういうときには気分転換のクッキーよ。これを食べたらすぐ普段どおりに戻るから",
+        "Are you tired, Commander? Under the weather, perhaps? Heh, well, a nice cookie can fix that. Just eat one of these and you'll be right back to normal."
+      ],
+      "affinityLike": [
+        "指挥官，下次一起来参加点心会吧？有你在的话，气氛一定会轻松许多的。就我个人而言，也希望能和指挥官有多些共处的时间就是了。",
+        "指揮官、今度みんなとクッキーを食べるときはぜひ一緒に来てね？指揮官がいればみんな盛り上がるし、私も指揮官の時間をどっさり取れて得、ね♪",
+        "Come visit the dorm next time we're having cookies, Commander. We'd all love to have you, and I especially want to spend some quality time with you."
+      ],
+      "affinityLove": [
+        "拐弯抹角毕竟不是我的风格呢…嗯。指挥官，我很喜欢你，无论作为舰队的领导者还是作为常伴身旁之人。你觉得…我怎么样呢？",
+        "回りくどくするのは私らしくないわ。指揮官、好きよ。艦隊を率いる存在としても、そばにいる大切な人としても。指揮官はハウのこと……どう思ってる？",
+        "Bah, being indirect is just not like me. I adore you, Commander. Both as the leader of the fleet, and as my beloved special someone. I wish to know... do you adore me as well?"
+      ],
+      "pledge": [
+        "啊，这就是指挥官的答复么？谢谢你，我…愿意。嗯…不求同生共死，只要你每天都能出现在我的身边就够了。…呵呵，好像说了些不太像我风格的漂亮话呢。",
+        "指揮官がぶつけてくれた思い――ありがとう。私、喜んでお相手するわ。生と死や、幸福と不幸を分かち合えないとしても、いつもお互い側にいられればそれだけで十分よ。……今のはちょっと私らしくなかったわ。ふふふ",
+        "Thank you for your sincerity, Commander. I will gladly be yours. I won't ask of you to share all your joys and sorrows with me, as I'm more than happy with just being by your side. Ah, that didn't sound like what I would say, did it? Well, hehehe~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Littorio) 这次，让我看看你们的力量吧！",
+        "(Sortie with Littorio) お力、拝見するわ",
+        "(Sortie with Littorio) Allow me to witness your true might."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 2 of: King George V, Prince of Wales, Duke of York) 让对面知道乔五级的厉害！",
+        "(Sortie with at least 2 of: King George V, Prince of Wales, Duke of York) 私たちの力を見せるわ",
+        "(Sortie with at least 2 of: King George V, Prince of Wales, Duke of York) Let us show the world what we're made of."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Eagle) 要吃点小饼干吗？",
+        "(Sortie with Eagle) クッキー、美味しいよ？食べないの？",
+        "(Sortie with Eagle) Cookies are great, don't you know? Do you really not want one?"
+      ]
+    },
+    {
+      "ENClientName": "Noble Rouge",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "Noble Rouge",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ノーブルラウンジ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/dd/HoweCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f2/HoweCasualChibi.png",
+      "shipDescription": [
+        "打扮比想象中的还要更花时间呢…我准备好了，可以出发咯，指挥官。…指挥官？再发呆下去，天都要黑了哦？",
+        "少し時間がかかっちゃったわ。もう大丈夫よ、いつでも――指揮官？どうしたの？このままだと暗くなっちゃうわよ？",
+        "Sorry to keep you waiting, but now I'm ready to– Commander? What's the matter? It'll get dark soon if you keep standing around like that."
+      ],
+      "acquisition": [
+        "打扮比想象中的还要更花时间呢…我准备好了，可以出发咯，指挥官。…指挥官？再发呆下去，天都要黑了哦？",
+        "少し時間がかかっちゃったわ。もう大丈夫よ、いつでも――指揮官？どうしたの？このままだと暗くなっちゃうわよ？",
+        "Sorry to keep you waiting, but now I'm ready to– Commander? What's the matter? It'll get dark soon if you keep standing around like that."
+      ],
+      "login": [
+        "你来啦，指挥官。今天的行程是这样的，首先……嗯？啊，我先把行程规划好了，不合适吗？",
+        "指揮官、来てくれたのね。今日の予定はまず……あら、先に予定を作ってて悪かったの？",
+        "Glad you could make it, love. Now, as for our plan today... Oh, should I not have made a plan ahead of time?"
+      ],
+      "details": [
+        "这就是传说中的“有美味点心的小店”吗？马上买点试试吧？指挥官，我已经等不及了~",
+        "ここが噂の「クッキーが美味しいお店」？すぐ注文しましょう？指揮官、私ちょっと待ちきれないわ！",
+        "Is this the place with the famously delicious cookies? Could we order some right away? I must taste them for myself!"
+      ],
+      "secretaryIdle1": [
+        "威尔士给我传授了很多“约会注意事项”呢，听起来都挺有道理的，不过…总觉得应该是针对女孩子…给指挥官的注意事项才对…？",
+        "ウェールズから「デートの注意事項」を教わったわ。いい勉強になったけど…あれは女の子を相手にするもの――つまり指揮官が学ぶべきだったのでは…？",
+        "Wales taught me the dos and don'ts of dating. Though enlightening, her advice seemed purposed for winning an ordinary girl's hand... So perhaps it's better intended for you, Commander?"
+      ],
+      "secretaryIdle2": [
+        "指挥官饿了吗？这里有之前乔治五世姐姐给我准备的小饼干，分你吃一点吧",
+        "お腹が減った？ジョージがくれたクッキーがあるわ。食べて",
+        "Peckish, are you? Then you can have this cookie George gave me."
+      ],
+      "secretaryIdle3": [
+        "这一身其实还挺方便活动的，就算多走一会也不会觉得太累呢",
+        "この格好は動きやすいわ。もうちょっと長く歩いても大丈夫よ",
+        "This dress is quite comfortable, actually. It's no trouble for me to walk a little longer."
+      ],
+      "secretaryTouch": [
+        "累了的话，找个地方坐下来休息会吧？",
+        "疲れたらここで座ろ？",
+        "Have a seat if you need to rest, love."
+      ],
+      "secretarySpecialTouch": [
+        "这衣服不会掉的哦？",
+        "…？服に、何か……？",
+        "Hm? Is there something on my dress?"
+      ],
+      "returnFromMission": [
+        "出击辛苦了，让我们继续后面的行程吧？",
+        "出撃ご苦労様。次の予定に進みましょう？",
+        "Well done on that sortie. Let's proceed with our plan, shall we?"
+      ],
+      "defeat": [
+        "讨厌的噩运…",
+        "不運を呪っちゃうよね…",
+        "I hope misfortune befalls you."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

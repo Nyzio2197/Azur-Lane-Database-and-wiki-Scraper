@@ -1,0 +1,570 @@
+{
+  "name": "Béarn",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Béarn",
+  "ID": "458",
+  "faction": "Iris Libre",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "股间少女",
+  "pixiv": "https://www.pixiv.net/member.php?id=12834728",
+  "twitter": "https://twitter.com/gujianshaonv",
+  "link": "https://www.weibo.com/u/5205759948",
+  "voiceActor": "https://www.imdb.com/name/nm6728132/",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      6261,
+      110,
+      42,
+      174,
+      255,
+      36,
+      21,
+      307,
+      376,
+      12,
+      85,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      5541,
+      96,
+      42,
+      152,
+      222,
+      23,
+      21,
+      270,
+      335,
+      12,
+      76,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1072,
+      41,
+      42,
+      32,
+      47,
+      9,
+      21,
+      58,
+      71,
+      4,
+      29,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "120% → 135%",
+  "slot2Equipment": "Torpedo Bombers",
+  "slot2Efficiency": "125% → 140%",
+  "slot3Equipment": "CL Guns",
+  "slot3Efficiency": "55% → 55%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 18,
+  "maxLimitBreakTechPoints": 38,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +1",
+  "level120TechPoints": 28,
+  "enhancementValue": [
+    32,
+    47,
+    70,
+    30
+  ],
+  "limitBreak1": "Slot 1 & Slot 2 Plane +1 / Slot 1 & Slot 2 Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Slot 3 Plane & Gun Mount +1 / Slot 1 & Slot 2 Plane Efficiency +5%",
+  "limitBreak3": "Slot 1 & Slot 2 Plane +1 / Slot 1 & Slot 2 Plane Efficiency +7%",
+  "skill1Name": "Sacrament: Holy Bombardment; CN: 变迁之秘 JP: 秘蹟・聖装砲撃",
+  "skill1Description": "If this ship's third slot is equipped with a gun, increase its slot efficiency by 25% (45%), increase that weapon's range to 80, and fire a special barrage every 24 seconds. If the third slot is equipped with a dive bomber, decrease the load time of this ship's first airstrike by 20% (50%).",
+  "skill2Name": "Sacrament: Sacred Second Wing; CN: 后备武装 JP: 秘蹟・聖翼積装",
+  "skill2Description": "Five seconds after an airstrike is ready to launch, trigger a special torpedo and plane barrage. Barrage damage is based on skill level. This may trigger up to three times per battle.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "shipDescription": [
+        "自由鸢尾航空母舰—贝亚恩",
+        "航空母艦ベアルン",
+        "Aircraft carrier – Béarn."
+      ],
+      "selfIntroduction": [
+        "我曾是诺曼底级的一员，后来成为了鸢尾第一艘航空母舰。再后来，见证了自由鸢尾与维希教廷的同根相煎…真是的，希望这样的悲剧永远不要再在世界上发生了。",
+        "超弩級戦艦ノルマンディー級の5番艦――から改造された、アイリス初の空母・ベアルンと申します。アイリスとヴィシアとの軋轢を最後まで見届けていましたが……そのような悲劇が繰り返されませんよう願っています",
+        "My name is Béarn, I am the Iris Libre's first aircraft carrier, converted from the unfinished 5th Normandie-class dreadnought. I lived to see the end of the strife between Iris and Vichya... A tragedy I pray will never happen again."
+      ],
+      "acquisition": [
+        "鸢尾最初的航空母舰，贝亚恩号，向您报道。能与您共事是我的荣幸。指挥官大人，请按照您的需要吩咐我便是。",
+        "アイリス初の空母、ベアルン、着任しました。共に戦えて光栄です。なんなりとお命じください、指揮官様",
+        "Béarn, Iris Libre's very first aircraft carrier, reporting for duty. It is an honor to fight by your side. I eagerly await your orders, Commander."
+      ],
+      "login": [
+        "这是今天的事务安排，指挥官大人，请您过目。",
+        "本日のスケジュールです。指揮官様、ご確認を",
+        "Here is today's schedule, Commander. Read it at your leisure."
+      ],
+      "details": [
+        "操作的方式…过去的记录…材料的改良…如果尝试一下这个组合的话，会不会很有趣呢.....嗯，先记下来吧。",
+        "操作規定、ファクターの改良…この組み合わせなら役に立つでしょう。…書き記しておきましょう",
+        "An improvement in operational code and tactical variables... This sequence should be useful. I shall write this down in my notebook."
+      ],
+      "secretaryIdle1": [
+        "指挥官大人，不可以轻易翻开我带着的这本书哦。没有开玩笑，我是认真的。",
+        "恐縮ですが指揮官様、私の本、不用意に読まないほうがいいかと。…ウソでも冗談でもありませんが。",
+        "If I may be so blunt, Commander, it would be very unwise of you to read my book. I am not exaggerating or joking about this."
+      ],
+      "secretaryIdle2": [
+        "指挥官大人，您是在发呆么？没关系，今天的规划上给您预留了充分的空余时间，请尽情发呆吧。",
+        "黄昏ているのですか。ご心配なく、どうぞ気の向くまま上の空でいてください。本日の予定ではその分ゆとりを取っていますので",
+        "Are you daydreaming, Commander? You may continue to fantasize if you so wish; we have enough free time in today's schedule to accommodate for it."
+      ],
+      "secretaryIdle3": [
+        "不论是工作日程还是晚餐食谱，我都会亲自为您安排。指挥官大人只需要将注意力集中在眼前的事上就好。",
+        "スケジュール管理や所用はこの私めが執り行います。どうぞ、目の前の仕事に集中を",
+        "I shall attend to our official business and schedule management. You need only focus on the work on your desk, Commander."
+      ],
+      "secretaryTouch": [
+        "指挥官大人，我在这里。如果有事情需要我去做的话，请尽管开口。",
+        "指揮官様、ここにいます。所用がありましたらこの私めにご指示を",
+        "I am right here, Commander. Do not hesitate to give me your orders."
+      ],
+      "secretarySpecialTouch": [
+        "“人最可悲的是没有知识和不能自我约束”指挥官大人是哪一种呢？",
+        "人たらしめる知識を持ち合わせていないか、己を律せないか、指揮官様はどっちなんでしょう",
+        "Do you lack the knowledge of what being a decent person entails, or are you simply unable to control yourself, Commander?"
+      ],
+      "task": [
+        "指挥官大人，指挥部发来了新的任务委托，我这就进行整理。",
+        "指揮官様、上層部より新しい任務指示の連絡が届いております。今整理を取り掛かります",
+        "Commander, I have received word of new mission directives from headquarters. I shall go and make some arrangements."
+      ],
+      "taskComplete": [
+        "任务完成。很好，这样需要操心的事情就又少了一件。",
+        "任務完了です。心配事がまた一つ減りましたね",
+        "A mission has been completed. That's one burden off our minds."
+      ],
+      "mail": [
+        "指挥官大人，这是最新的邮件，我替您拿过来了。",
+        "届けに参りました。指揮官様、新たに届いた手紙です",
+        "Reporting in. I have a newly arrived letter for you, Commander."
+      ],
+      "returnFromMission": [
+        "指挥官大人需要糖分补充么？我明白了。给，这是我整理的港区甜品清单，请过目。",
+        "頭脳労働のための糖分補充、と仰いますか。では…在庫の甘味品の一覧になります。ご清覧を",
+        "You would like something sugary in preparation for your mental labor? It so happens I have a list of our stock of confectionaries. Please have a look."
+      ],
+      "commission": [
+        "委托环节中，运输舰队的安全固然重要，但容易被忽视的一点是，收发港口的安全也同样重要哦。",
+        "輸送に関わる委託、積荷を守るのは重要ですが、積卸しの港の安全も大切でしょう",
+        "Transport commissions and cargo escorts are vital, of course, but let's not forget the important safety of our docks."
+      ],
+      "strengthening": [
+        "您的付出不会白费的，指挥官大人。",
+        "報われない努力はありませんよ。指揮官様",
+        "Your kindness will not go unrewarded, Commander."
+      ],
+      "startingMission": [
+        "大家按照计划行事，准备战斗！",
+        "作戦計画通り、戦闘準備を！",
+        "Now, as outlined in our briefing, prepare for combat!"
+      ],
+      "mvp": [
+        "如何，指挥官大人，我的发挥还让您满意吗？",
+        "いかがでしたか。ご満足いただける活躍でしたか",
+        "How would you say I did? Was my performance satisfactory?"
+      ],
+      "defeat": [
+        "非常抱歉，指挥官大人，这次失败的责任完全在我。",
+        "申し訳ございません。指揮官様、今の敗北は全て私めの責任です",
+        "I sincerely apologize, Commander. I take full responsibility for this defeat."
+      ],
+      "skillActivation": [
+        "就按照计划那样——",
+        "計画通りに参りましょう――",
+        "Let's proceed as planned."
+      ],
+      "lowHP": [
+        "还好，损伤情况还在可控范围内……",
+        "よし、損傷状況、対処可能……",
+        "I have sustained damage, but it is under control..."
+      ],
+      "affinityDisappointed": [
+        "您是我见过最英明的指挥官，您的所作所为都是对的——在指挥官大人梦里的话，我也许会这么说呢。",
+        "あなたは今までに出会ったことのない、この上なく素晴らしい指揮官であると――そんな言葉を私めが口にするのは夢のまた夢の話でしょう",
+        "\"You are the most outstanding, exceptional commander I have ever met.\" – You can only hope to hear me say these words in your most outlandish dreams."
+      ],
+      "affinityStranger": [
+        "嗯？指挥官大人果然还是对这本书很在意么。其实只是用来记录琐事的笔记本而已，不是什么可疑物品，请您放心——也没有什么好看的，请不用在意",
+        "この本のことが気になるのですか？ただのメモ帳「のような」ものです。怪しげな品ではありませんので、ご安心を――指揮官様がご覧になるようなものは何一つありませんよ",
+        "Are you curious about this book? It is just a notepad, more or less. Rest assured, there is nothing remarkable about it. And it is certainly not something you need look at."
+      ],
+      "affinityFriendly": [
+        "“魔导书”？倔强是这么向您介绍的啊，真是有趣的说法呢~很抱歉，指挥官大人。我突然想起了一件急事，请允许我先离开一下。",
+        "「魔導書」――なるほど、ルピニャ―トがそう言っていましたか。面白い例えですね。…申し訳ございません。所用が出来たゆえ少々席を外させていただきます",
+        "A \"grimoire\"? Hmm... And you say L'Opiniâtre told you this? It's certainly an amusing allegory. Now, I'm afraid I must take my leave for a while, as I have business to attend to."
+      ],
+      "affinityLike": [
+        "又是这个话题么...指挥官大人对此还真是热衷啊。“鸢尾的秘仪能实现任何奇迹”——如果是真的，指挥官会用来做什么呢~？",
+        "またその話題ですか。問い詰めてくるのは感心しませんね。「アイリスの秘蹟ならいかなる奇跡も成し得る」――仮にもし本当にそうだとしたら、指揮官様はその力をどう用いるのでしょうか？",
+        "This \"grimoire\" topic again? I do not appreciate your insistence on it. \"A sacrament from the Iris Libre can perform all sorts of miracles\"... Assuming that were even true, how would you utilize such great power, Commander?"
+      ],
+      "affinityLove": [
+        "指挥官大人，工作完成了，办公室整理好了，天气看起来也不错。接下来的时间——就如您所愿，让您勘见一下我的“爱之秘仪”吧",
+        "指揮官様、これにて本日の予定、執務室の雑務が全て終了しました。良いタイミングですので、これから――ええ、お望み通り、「愛の秘蹟」とやらをお見せしましょうか",
+        "Commander, all of today's clerical tasks have been completed right on schedule. This is a good opportunity to... Indeed, as you've requested, I will teach you about the so-called \"sacrament of love.\""
+      ],
+      "pledge": [
+        "改变心意，影响意志——如果这样的“秘仪”真的存在的话，誓约这一仪式毫无疑问就是最高级的魔法了吧。感觉身体轻飘飘的，幸福抑制不住的从心中涌出。呵呵，被这样的魔法“击中”的感觉，还不坏嘛~",
+        "人の心を動かし、相手を縛り付ける――そんな類の秘蹟があるとすれば、この「ケッコン」というものが最上級のものでしょうね。この多幸感と浮遊感…なるほど、秘蹟を施されるとはこういうことでしょう。悪くありませんね。ふふふ",
+        "If there are sacraments that can emotionally move and unite people, then this so-called \"marriage\" must be the most powerful of its kind. Ah, this bliss, this feeling of butterflies in my stomach... Now I understand how it feels to take an oath. It's quite enjoyable, actually. Hehehe~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Émile Bertin, Jeanne d'Arc) 这次也来运输些有趣的东西吧",
+        "(Sortie with Émile Bertin, Jeanne d'Arc) 面白いものを運んでみたいですね",
+        "(Sortie with Émile Bertin, Jeanne d'Arc) I'd love to transport fascinating items with you."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Richelieu, Jean Bart) 很荣幸，能与你们两位并肩作战！",
+        "(Sortie with Richelieu, Jean Bart) 肩を並べて戦える、恐悦至極です",
+        "(Sortie with Richelieu, Jean Bart) I am profoundly honored to fight by your side."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 1 of: Hermes, Houshou) 见识一下鸢尾的“秘仪”吧",
+        "(Sortie with at least 1 of: Hermes, Houshou) アイリスの秘蹟、お見せしましょう",
+        "(Sortie with at least 1 of: Hermes, Houshou) Allow me to show you an Iris sacrament."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/B%C3%A9arn_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/B%C3%A9arn_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/B%C3%A9arn_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/B%C3%A9arn_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/B%C3%A9arn_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/B%C3%A9arn_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/B%C3%A9arn_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/B%C3%A9arn_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/B%C3%A9arn_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/B%C3%A9arn_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/B%C3%A9arn_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/B%C3%A9arn_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/52/B%C3%A9arn_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/B%C3%A9arn_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/B%C3%A9arn_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/74/B%C3%A9arn_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/B%C3%A9arn_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/B%C3%A9arn_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/03/B%C3%A9arn_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/B%C3%A9arn_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/B%C3%A9arn_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/B%C3%A9arn_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/B%C3%A9arn_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/B%C3%A9arn_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/B%C3%A9arn_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/B%C3%A9arn_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/B%C3%A9arn_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/B%C3%A9arn_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/B%C3%A9arn_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/B%C3%A9arn_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/B%C3%A9arn_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/B%C3%A9arn_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/B%C3%A9arn_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/B%C3%A9arn_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/B%C3%A9arn_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/B%C3%A9arn_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/B%C3%A9arn_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/B%C3%A9arn_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/B%C3%A9arn_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/B%C3%A9arn_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/B%C3%A9arn_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/B%C3%A9arn_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/B%C3%A9arn_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/B%C3%A9arn_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/B%C3%A9arn_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/B%C3%A9arn_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/B%C3%A9arn_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/B%C3%A9arn_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/B%C3%A9arn_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/B%C3%A9arn_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/B%C3%A9arn_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/B%C3%A9arn_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/B%C3%A9arn_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/B%C3%A9arn_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/B%C3%A9arn_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/B%C3%A9arn_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/B%C3%A9arn_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/B%C3%A9arn_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/B%C3%A9arn_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/B%C3%A9arn_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/B%C3%A9arn_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/B%C3%A9arn_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/B%C3%A9arn_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/B%C3%A9arn_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/B%C3%A9arn_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/B%C3%A9arn_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/B%C3%A9arn_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/B%C3%A9arn_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/B%C3%A9arn_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/B%C3%A9arn_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/B%C3%A9arn_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/B%C3%A9arn_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/B%C3%A9arn_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/B%C3%A9arn_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/B%C3%A9arn_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/B%C3%A9arn_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/B%C3%A9arn_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/B%C3%A9arn_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/45/B%C3%A9arn_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/B%C3%A9arn_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/B%C3%A9arn_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/55/B%C3%A9arn_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/B%C3%A9arn_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/B%C3%A9arn_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/B%C3%A9arn_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/B%C3%A9arn_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/B%C3%A9arn_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Summer Lifeguard",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "夏日救生站",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "アイリス・ライフガード",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "shipDescription": [
+        "指挥官大人感觉哪里不舒服吗？……只是来避暑的？嗯，我明白了，这里还有多余的空间，请坐吧。",
+        "指揮官様、具合が悪いのですか？…そうですか、ただ日陰を探しているだけでしたか。承知しました。では、よければこちらにおかけください",
+        "Are you perhaps feeling unwell, Commander? Oh, I see, you're just looking for a shaded place to rest? Acknowledged. In that case, you may sit here if you'd like."
+      ],
+      "acquisition": [
+        "指挥官大人感觉哪里不舒服吗？……只是来避暑的？嗯，我明白了，这里还有多余的空间，请坐吧。",
+        "指揮官様、具合が悪いのですか？…そうですか、ただ日陰を探しているだけでしたか。承知しました。では、よければこちらにおかけください",
+        "Are you perhaps feeling unwell, Commander? Oh, I see, you're just looking for a shaded place to rest? Acknowledged. In that case, you may sit here if you'd like."
+      ],
+      "login": [
+        "指挥官大人，需要游泳圈吗？和那边的孩子们玩的时候也许用得上呢。",
+        "指揮官様、浮き輪はいかがですか？あっちにいる子たちと遊戯する際に役立つかと思います",
+        "Would you like a swim ring, Commander? It could be useful if you plan on playing with the girls by the beach."
+      ],
+      "details": [
+        "大家都以自己的方式在享受着盛夏的海滩呢，指挥官大人也去加入她们如何？堆沙堡或是打排球什么的…我？我的话，还是在这里看着大家就好",
+        "夏の海を、皆様は楽しんでいるようですね。指揮官様もビーチバレーなり、砂のお城作りなり、ご参加されてはいかがですか？私めはここで見学に徹しますので",
+        "Everyone seems to be enjoying themselves at the beach. What do you say about playing beach volleyball, or building a sandcastle, Commander? Me, I would rather remain here and observe."
+      ],
+      "secretaryIdle1": [
+        "即使是逃离了阳光，也没法逃离夏日的热浪…要是这里有冷风机就好了呢。",
+        "日差しからは逃がれられても、熱風は避けようがありませんね。見張り台に予め冷風機を用意しておけばよかったですね",
+        "One can seek cover from the sun, but cannot escape the heat. As I'm on lifeguard duty, perhaps I should've brought an electric fan with me."
+      ],
+      "secretaryIdle2": [
+        "再不吃的话，这些冰淇淋就要化了呢……指挥官大人，您要来一个吗？",
+        "…っぺろ。このアイス、どなたかに手伝っていただかないと食べきれないまま溶けてなくなってしまいそうですね。指揮官様、いかがでしょうか？",
+        "This ice cream is going to melt if nobody eats it. Say, Commander, would you like a taste?"
+      ],
+      "secretaryIdle3": [
+        "自由鸢尾与维希教廷的大家如此和谐地同一片沙滩上玩耍…嗯，没什么，只是觉得这样…不错。",
+        "アイリスとヴィシアの子が同じ場所で夏を楽しむ…ええ、いい光景だと、思います",
+        "Both Vichya and Iris girls enjoying the summer on the same beach... A lovely sight, in my opinion."
+      ],
+      "secretaryTouch": [
+        "泳装的姿态充满魅力？…指挥官大人，其实对每个女孩子都是这样称赞的吧？",
+        "私めなどを褒めていただき光栄ですが、どの子にも同じ感想を述べているだろうと容易に察せられます",
+        "Your praise honors me, but I can easily imagine that you praise everyone here for their swimsuits."
+      ],
+      "secretarySpecialTouch": [
+        "见不得人的事就应该在见不到人的地方做…不愧是指挥官啊。",
+        "人混みから離れた途端に不埒な行動に出るとは、流石指揮官様というべきなのでしょうか",
+        "I suspected you would engage in obscene behavior as soon as you distanced yourself from onlookers, Commander..."
+      ],
+      "returnFromMission": [
+        "指挥官大人刚刚是去游泳了吗？这里有还没用过的干毛巾，请用。",
+        "海にいらしたのですか？このタオルでもどうぞ",
+        "You were out at sea? Here, have a towel."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/B%C3%A9arn_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/B%C3%A9arn_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/B%C3%A9arn_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/B%C3%A9arn_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/B%C3%A9arn_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/B%C3%A9arn_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/B%C3%A9arn_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/B%C3%A9arn_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/B%C3%A9arn_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/B%C3%A9arn_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/B%C3%A9arn_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/B%C3%A9arn_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/B%C3%A9arn_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/B%C3%A9arn_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/B%C3%A9arn_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/79/B%C3%A9arn_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/B%C3%A9arn_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/B%C3%A9arn_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/B%C3%A9arn_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/B%C3%A9arn_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/B%C3%A9arn_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/B%C3%A9arn_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/B%C3%A9arn_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/B%C3%A9arn_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/B%C3%A9arn_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/B%C3%A9arn_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/B%C3%A9arn_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

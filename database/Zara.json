@@ -1,0 +1,565 @@
+{
+  "name": "Zara",
+  "constructionTime": "01:55:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Zara",
+  "ID": "413",
+  "faction": "Sardegna Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "云桑",
+  "pixiv": "https://www.pixiv.net/member.php?id=5358936",
+  "twitter": "https://twitter.com/_Yunsang",
+  "link": "https://weibo.com/yunsang",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/5/56/Zara_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4941,
+      182,
+      75,
+      252,
+      0,
+      57,
+      26,
+      229,
+      0,
+      12,
+      118,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4412,
+      158,
+      75,
+      220,
+      0,
+      24,
+      26,
+      200,
+      0,
+      12,
+      101,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      853,
+      67,
+      75,
+      47,
+      0,
+      9,
+      26,
+      43,
+      0,
+      4,
+      39,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "50% → 55%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "95% → 100%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 28,
+  "maxLimitBreakTechPoints": 56,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Firepower  +1",
+  "level120TechPoints": 42,
+  "enhancementValue": [
+    26,
+    0,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Terni Shields; CN: 特尔尼之盾 JP: テルニシールド",
+  "skill1Description": "Upon receiving enemy attacks: 8% (18%) chance to deploy 2 shields that can each block up to 10 shells (shields last for 12 seconds).",
+  "skill2Name": "Semi-Armor Piercing High-Explosive; CN: 弹药特性增强 JP: 半徹甲高爆榴弾",
+  "skill2Description": "If equipped with an HE or SAP Main Gun: increases own damage dealt with Main Gun by 4.5% (12%) but loses the ability to ignite enemies. If equipped with an AP Main Gun, and when said Main Gun shot hits an enemy: 3.5% (8%) chance to increase own damage dealt to said enemy by 5% (15%) for 10 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射",
+  "skill3Description": "Every 12 (8) times the main battery is fired, triggers Full Barrage - Zara-class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7c/Zara.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7b/ZaraChibi.png",
+      "shipDescription": [
+        "扎拉级重巡洋舰—扎拉",
+        "ザラ級重巡洋艦・ザラ",
+        "Zara-class heavy cruiser – Zara."
+      ],
+      "selfIntroduction": [
+        "我是扎拉级重巡洋舰的一号舰，扎拉。为了水面炮战而诞生的我，拥有着引以为豪的主炮射程和重装甲防御，并且一直作为舰队旗舰奋战，直到那个命运的夜晚…",
+        "ザラ級重巡洋艦の1番艦、ザラよ。水上砲戦のために誕生した私は、誇らしい主砲射程と防御装甲を持ち、戦隊旗艦として戦ったわ。あの運命の夜までは……",
+        "I am the first ship of the Zara class of heavy cruisers, Zara. I was born to be a marine battery, with my magnificent guns and armor plating. I served as the flagship of my squadron, at least until that fateful night..."
+      ],
+      "acquisition": [
+        "Ciao。十分有幸能和您相遇，指挥官。重巡洋舰扎拉，将为您的舰队带去胜利与荣光，请多指教了",
+        "チャオ。指揮官、会えて嬉しいわ。重巡ザラ、貴方の艦隊に勝利と栄光を。よろしくお願いよ",
+        "Ciao. It's a pleasure to meet you, Commander. I'm the heavy cruiser, Zara, and I look forward to bringing victory and glory to your fleet."
+      ],
+      "login": [
+        "欢迎回来，指挥官。扎拉和姐妹们一起，随时等候的你的检阅哦~？",
+        "おかえり。ザラはみんなと一緒にいつでも観閲を待ってるわ",
+        "Welcome back. I've gathered everyone up and we're awaiting your inspection."
+      ],
+      "details": [
+        "哎呀？虽然我们姐妹确实经常被称赞外形优美，不过指挥官一直这么盯着看，可是会让人产生奇怪的误解的哦？",
+        "あら、私とポーラはよく外見で褒められるけど、このようにじろじろ見ていては変に噂されるわよ？",
+        "Now, Pola and I are often praised for our beauty, but aren't you worried that all this ogling might cause some unsavory rumors?"
+      ],
+      "secretaryIdle1": [
+        "“tenacemente”——不论身处怎样的战场，都应当拼尽全力坚持战至最后，这可是我的信条呢",
+        "tenacemente（ティラチュメント）――どんな戦場にいようと、最後まで粘り強く戦う――これが私のモットーよ",
+        "Tenacemente, that is, fighting to the bitter end, no matter the odds, is my personal motto."
+      ],
+      "secretaryIdle2": [
+        "夜晚在房间里欣赏美妙的繁星和夜空，我并不讨厌哦？不过夜间的出航还是免了吧…",
+        "夜空を眺めて、美しい星々の輝きを楽しむのは嫌いじゃないわ？それが船の上じゃなければ…ね？",
+        "Looking up at the night sky, admiring the countless glimmering stars, it's really nice, actually. But it's better enjoyed from inside... don't you think?"
+      ],
+      "secretaryIdle3": [
+        "虽然是题外话，不过我对于服装搭配还蛮擅长的哦？嘻嘻，下次帮你也打扮一身吧，指挥官？",
+        "余談だけど、実は私、服のコーデが得意よ？今度仕立ててあげよっか？指揮官？",
+        "By the way, I've actually got kind of an eye for fashion. How about I help dress you next time, Commander?"
+      ],
+      "secretaryTouch": [
+        "指挥官…是对我的佩剑感兴趣吗？还是说，感兴趣的…是别的什么地方？",
+        "指揮官はこの剣に興味が？それとも…ほかのところがお気に入りなのかな？",
+        "You like my sword, Commander? Or could it be... something else you're interested in?"
+      ],
+      "secretarySpecialTouch": [
+        "呀啊！？——…咳、咳咳…指挥官？扎拉级引以为豪的可不只是“重点防御”哦？难道你也想感受下扎拉级的“威力”吗？",
+        "きゃっ！？―――コホン！ザラが誇らしいのは防御装甲だけじゃないわよ？主砲の「威力」、味わってみたいのかしら？",
+        "Eeek?! ... Ahem! There is more to me than my armor plating, you know? Maybe you would like a taste of my guns as well?"
+      ],
+      "task": [
+        "嗯？遇到困难的任务了吗？让我帮你看看吧。",
+        "難しい任務でもあったのかしら？私にも見せてちょうだい？",
+        "Is this mission giving you trouble? Here, let me take a look."
+      ],
+      "taskComplete": [
+        "任务完成了！奖励很丰厚呢，指挥官值得表扬啊，好孩子好孩子~",
+        "任務完了よ！ふふふ、報酬がなかなか多いじゃない？指揮官、いい子いい子～",
+        "Mission complete! My my, that's quite a big reward there, isn't it? Well done, Commander~"
+      ],
+      "mail": [
+        "指挥官，邮件已经送到了。再不收的话，我就要替您大声念出来了哦？也许会是哪个孩子的“情书”也说不定呢~？",
+        "指揮官？メールが届いたわ。このまま確認しないと私が読み上げちゃうわよ？誰かからのラブレターかもしれないもの、ふふふ",
+        "Commander? The mail is here. If you don't get to it soon, I could always read it out loud for you? I wonder if there are any love letters, hehehe..."
+      ],
+      "returnFromMission": [
+        "出击辛苦了~需要来点葡萄酒解乏吗？",
+        "出撃お疲れ様。気晴らしにワインでもどう？",
+        "An exhausting mission, was it? Why not relax with a glass of wine?"
+      ],
+      "commission": [
+        "能将这么多物资安全运到，真的很了不起呢…要好好慰劳她们哦，指挥官",
+        "物資をこんなに運んできてくれるなんて本当に頑張ったわね…指揮官、ちゃんとあの子たちをねぎらってちょうだい",
+        "Commander, you must profusely thank all these girls for ensuring the safe delivery of these supplies."
+      ],
+      "strengthening": [
+        "Grazie！这下主炮能更好地捕捉敌人了~",
+        "Grazie！主砲が敵をより捉えやすくなったわ",
+        "Grazie! Now my main guns are an even greater threat to the enemy."
+      ],
+      "startingMission": [
+        "熟悉的旗舰担当呢。全舰队，保持战斗阵型，tiro！",
+        "旗艦は慣れているわ。全艦、戦闘陣形、Tiro（ティーロ）！",
+        "I'm used to being flagship. All ships, get into formation! Tiro!"
+      ],
+      "mvp": [
+        "正如说过的那样，扎拉，为您带来胜利与荣光了~",
+        "言ったとおりよ。指揮官に勝利と栄光を――",
+        "I've brought you victory and glory, just as I promised."
+      ],
+      "defeat": [
+        "啧…不想回忆起那个屈辱的夜晚…",
+        "くっ……あの屈辱的な夜、思い出したくもないわ…っ！",
+        "Ugh... Don't make me recall the humiliation I endured that night...!"
+      ],
+      "skillActivation": [
+        "别想轻易突破我的防御！",
+        "私の守り、容易く貫けるとは思わないことね！",
+        "Don't think you can pierce my armor so easily!"
+      ],
+      "lowHP": [
+        "我的装甲…还能坚持！",
+        "防御装甲…まだ行けるわ！",
+        "My armor... will hold!"
+      ],
+      "affinityDisappointed": [
+        "不行啊…这样的指挥官，一点吸引人的地方都没有…",
+        "ダメね…こんな指揮官、人を惹きつけるところなんてちっともないもの…",
+        "Terrible... There's absolutely nothing about this commander anyone could ever find appealing..."
+      ],
+      "affinityStranger": [
+        "不管指挥官有什么样的烦恼，我都会好好地听你说的，不用顾虑太多哦？",
+        "ザラは指揮官のどんな悩みも相談に乗るわ。遠慮しないで？",
+        "Is there something bothering you, Commander? Let's hear it then."
+      ],
+      "affinityFriendly": [
+        "别看波拉看起来那样，其实是个很容易受伤的孩子呢…要是有谁敢欺负她或者…就算是指挥官，我也不会轻易原谅的哦？",
+        "ポーラはあんな感じであっても、本当は傷つきやすいタイプよ？…あの子をいじめる人は…例え指揮官でも簡単には許さないわよ？",
+        "Despite her appearances, Pola is a really sensitive girl, you know? And anyone who dares to hurt her... even you, Commander, would not be easily forgiven."
+      ],
+      "affinityLike": [
+        "难得的独处机会，指挥官有什么特别想做的事情吗？…掏耳朵吗？那就请先…在我的腿上躺好~……呵呵，指挥官很僵硬呢，放轻松嘛~我会非~常温柔地为你服务的~",
+        "せっかく指揮官と二人っきりになったし、なにかしたいことでもある？…耳かき？うん、じゃあ…はい、ここで横になって～もう指揮官ったら緊張しないでもいいわよ？このザラが優しく、しっかり「耳かき」、してあげるからね♪",
+        "Now that we're finally alone together, was there something you wanted to do, Commander? ... You want me to clean your ears? Well, all right... Come, put your head right here~ And please, try to relax, okay? I'm going to very gently, very slowly, clean your ears♪"
+      ],
+      "affinityLove": [
+        "事到如今，和指挥官之间已经不需要过多的言语了呢。呵呵，要不要猜猜看我现在在想什么？——当然是…想着指挥官你啦，小傻瓜~",
+        "指揮官なら、私が言葉に出さなくても分かってくれるよね？ふふ、今私が誰のことを考えているかな？――まあ当てるまでもなく指揮官のことよ。ふふふ♪",
+        "Commander, after all this time together, you should already know what I'm thinking before I even open my mouth. Hehe, so who am I thinking about right now? Of course it's you, Commander, that's too easy. Hehehe♪"
+      ],
+      "pledge": [
+        "用这么一枚小小的戒指，就想把扎拉永远地留在身边…你是不是想得太简单了点…？——啊哈哈，指挥官这样的表情，真是百看不厌呢~开玩笑的~就算没有这个，我也不会轻易离开你的身边的，安心吧——",
+        "小さな指輪だけでザラをずっとそばに繋ぎ止めるつもり？これではちょっと足りないかな～……ふふ、そんな顔しないで…はは、冗談はここまでにして～安心して、指揮官。私、ずっとあなたのそばにいてあげるわよ",
+        "You really think you can bind me to you with nothing but a cheap little ring? This isn't nearly enough~ ... Hehe, don't give me that face... Haha, I'm only joking~ Don't worry, Commander. I'll be with you forever."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Warspite) 这次是盟友了吗…火力支援就拜托了！",
+        "(Sortie with Warspite) 今は戦友、ね…火力支援、よろしく頼むわ！",
+        "(Sortie with Warspite) We're allies now, huh... I'm counting on your fire support then!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, Happy Valentine's. It's obvious that you were excitedly waiting for today. Perhaps, I shall give you some special chocolate, as per your desire. Hehe~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Zara_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Zara_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Zara_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Zara_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Zara_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Zara_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Zara_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Zara_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Zara_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Zara_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Zara_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Zara_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Zara_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Zara_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Zara_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Zara_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Zara_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Zara_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Zara_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Zara_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Zara_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Zara_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Zara_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Zara_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Zara_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Zara_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Zara_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Zara_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Zara_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Zara_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Zara_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Zara_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Zara_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Zara_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Zara_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Zara_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Zara_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Zara_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Zara_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Zara_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Zara_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Zara_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Zara_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Zara_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Zara_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Zara_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Zara_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Zara_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Zara_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Zara_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Zara_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Zara_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Zara_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Zara_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Zara_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Zara_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Zara_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Zara_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Zara_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Zara_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Zara_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Zara_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Zara_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Zara_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Zara_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Zara_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Zara_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Zara_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Zara_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Zara_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Zara_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Zara_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Zara_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Zara_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Zara_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Zara_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Zara_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Zara_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Zara_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Zara_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Zara_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Poolside Coincidence",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "泳池边的“偶遇”",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "水辺の出逢い",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1180",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6b/ZaraSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/39/ZaraSummerChibi.png",
+      "shipDescription": [
+        "扎拉泳装占坑",
+        "ふぅ…やっぱり今日は水泳日和ね。あら、指揮官も泳ぎに来たの？それとも…なにか別の目的でもある？ふふふ♪",
+        "Phew... It's a perfect day for swimming. Oh my, Commander, did you come to swim too? Or... perhaps you had something else in mind? Ehehe~♪"
+      ],
+      "acquisition": [
+        "呼…这样的天气果然还是最适合游泳了~哦？真巧呀，指挥官也是来游泳的吗？还是说…有什么别的目的呢？呵呵~",
+        "ふぅ…やっぱり今日は水泳日和ね。あら、指揮官も泳ぎに来たの？それとも…なにか別の目的でもある？ふふふ♪",
+        "Phew... It's a perfect day for swimming. Oh my, Commander, did you come to swim too? Or... perhaps you had something else in mind? Ehehe~♪"
+      ],
+      "login": [
+        "指挥官，如果想去深水区游泳的话，还请稍微注意安全哦？",
+        "指揮官、深いところで泳ぐときは安全に気をつけたほうがいいわ",
+        "Commander, please be careful swimming in the deep end, okay?"
+      ],
+      "details": [
+        "热身运动做好了吗？如果在水中抽筋就糟糕了呢",
+        "準備運動はちゃんとしてる？水中で足がつったら大変よ？",
+        "Did you do your stretches? You don't want your legs cramping up in the water."
+      ],
+      "secretaryIdle1": [
+        "（哔哔——）那边的小朋友们，泳池里不能做刚刚那样的危险动作哦！",
+        "――こら、今のは危ないから、プールでしちゃダメよ？",
+        "Hey, no horseplay in the pool!"
+      ],
+      "secretaryIdle2": [
+        "唔…虽然我很喜欢游泳，不过速度总是比不过潜艇和驱逐们呢…指挥官，你知道为什么吗~？",
+        "泳ぐのは好きだけど、駆逐艦と潜水艦たちにはいつも勝てないわね…指揮官、なぜでしょうね…？",
+        "I really like swimming, but the submarines and destroyers are always faster... Why is that, Commander...?"
+      ],
+      "secretaryIdle3": [
+        "虽然速度不敢说，不过对于耐力我可是很有自信的哦？指挥官想要和我比比吗~？",
+        "速さは別として、スタミナには自信があるわよ？指揮官、競争でもしてみない？",
+        "Speed is one thing, but I'm quite confident in my stamina. How about it, Commander? Want to try me?"
+      ],
+      "secretaryTouch": [
+        "眼睛在看着哪里呢？嘻嘻~有什么想法的话，不妨都告诉我吧。",
+        "どこを見てるの？ふふ、今考えてること、素直に教えなさい？",
+        "Your eyes are wandering. Hehe, what's on your mind? You can tell me."
+      ],
+      "secretarySpecialTouch": [
+        "真是的~指挥官？就算再怎么心急，也要看看周围的环境吧？",
+        "もう、指揮官？焦ってるのはわかるけど、時と場合を考えるべきじゃなくて？",
+        "Really now, Commander? I understand your eagerness, but there's a time and place, no?"
+      ],
+      "returnFromMission": [
+        "打水的时候腿部自然伸直，脚面要绷直——…啊，欢迎回来。如你所见，我正在教她们游泳呢，指挥官想要接受我的指·导吗~？哈哈",
+        "足をまっすぐ、足首も伸ばして――あ、指揮官お疲れ様。見ての通り、他の子たちに水泳を教えていたところよ。指揮官も私から教わりたいのかしら？",
+        "Legs straight, calves stretched– Ah, welcome back, Commander. I suppose you can tell I've been teaching the others to swim. Would you like me to teach you as well?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Zara_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Zara_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Zara_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Zara_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Zara_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Zara_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Zara_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Zara_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Zara_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Zara_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Zara_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Zara_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Zara_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Zara_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Zara_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Zara_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Zara_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Zara_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Zara_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Zara_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Zara_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Zara_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Zara_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Zara_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Zara_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Zara_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Zara_MissionFinSkin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,695 @@
+{
+  "name": "I-26",
+  "constructionTime": "00:30:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "B1",
+  "ID": "339",
+  "faction": "Sakura Empire",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "煎路",
+  "pixiv": "https://www.pixiv.net/member.php?id=47406",
+  "twitter": "https://twitter.com/oyu_senji",
+  "link": "http://tegone.sblo.jp/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/5/53/I-26_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2067,
+      109,
+      26,
+      61,
+      520,
+      45,
+      18,
+      0,
+      0,
+      6,
+      164,
+      0,
+      218,
+      2
+    ],
+    "Level 100": [
+      1723,
+      95,
+      26,
+      53,
+      472,
+      25,
+      18,
+      0,
+      0,
+      6,
+      146,
+      0,
+      218,
+      2
+    ],
+    "Base Stats": [
+      333,
+      40,
+      26,
+      11,
+      100,
+      10,
+      18,
+      0,
+      0,
+      2,
+      56,
+      0,
+      218,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "115% → 130%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "100% → 115%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionStatBonus": "Submarine (SS) Submarine carrier (SSV) Health  +2",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Submarine (SS) Submarine carrier (SSV) Torpedo  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    1,
+    40,
+    0,
+    8
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +10%",
+  "skill1Name": "Carrier Hunter; CN: 航母猎手 JP: 空母ハンター",
+  "skill1Description": "Increases own damage dealt to CVs/CVLs by 5% (15%).",
+  "skill2Name": "Extra Oxygen; CN: 额外供氧 JP: 酸素生成装置",
+  "skill2Description": "Increases own Oxygen stat by 4 (40).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射",
+  "skill3Description": "When entering battle, triggers Full Barrage - I-Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/ec/I-26.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c6/I-26Chibi.png",
+      "shipDescription": [
+        "巡潜乙型潜艇伊26",
+        "巡潜乙型伊号第二十六潜水艦",
+        "Type B1 cruiser submarine – I-26."
+      ],
+      "selfIntroduction": [
+        "提问，姐妹里面第一个击沉了白鹰的货船的是谁呢？没错，就是我啦！……最后怎么样了？管那个干什么呢，现在才是最重要的嘛，哈哈！",
+        "質問！最初のユニオンの商船を撃沈した重桜潜水艦は誰なのか？そう、この可愛くて賢い伊26だよ！……その後はどうなったかって？昔の武勇伝は置いといて、大事なのは今だからねっ！ふっふふ～",
+        "Question! Which Sakura Empire submarine was the first to sink an Eagle Union merchant ship? You guessed it, this clever little cutie I-26 did! ... What happened after that, you ask? Let's leave the past behind us and focus on the present! *Giggle*"
+      ],
+      "acquisition": [
+        "潜艇伊26，今天开始就待在这里了哦！哼哼~这一天你是不是期待了很久呢？",
+        "潜水艦伊26、今日から住み込みで着任するよ！ふっふん～わたしのこと、もしかしてすごい期待してくれてた！？",
+        "Submarine I-26 has arrived to be your roommate from now on! Hehehe~ Let me guess: you've really been looking forward to meeting me, right?"
+      ],
+      "login": [
+        "嘿！……怎么样，指挥官，吓了一大跳吧！",
+        "ぴょん！……へっへーどうだ指揮官、今のびっくりした？",
+        "Jumpity! ... Hehe~ Did I spook you, Commander?"
+      ],
+      "details": [
+        "小麦色的皮肤可是健康的象征。指挥官，要不你也来晒晒太阳吧！",
+        "日焼は健康の証！指揮官もちょっと焼いていかない？",
+        "Tans are a sign of good health! So why not come with me and sunbathe a bit?"
+      ],
+      "secretaryIdle1": [
+        "这双耳朵？怎么，想摸摸看吗？",
+        "この耳がどうしたって？うん、さわさわしたいの？",
+        "\"What's up with my ears\"? Hm? Do you wanna feel them?"
+      ],
+      "secretaryIdle2": [
+        "文书处理……好麻烦啊……比起那个，指挥官，来打会排球吧！",
+        "書類の整理……面倒くさい……それより指揮官、ビーチバレーでもやろ？",
+        "Sorting paperwork... Ugh, so boring... Hey, why don't we play beach volleyball instead?"
+      ],
+      "secretaryIdle3": [
+        "我想去游泳了呢，指挥官，要比比谁更快吗，嘻嘻~",
+        "ちょっと泳いでこようかな～そうだ！指揮官、どっちが早いか競争してみない？へへへ～",
+        "Maybe I should go for a swim~ Oh, I know! Commander, wanna have a swimming competition to see who's faster? Hehehe~"
+      ],
+      "secretaryTouch": [
+        "嗯哼？要帮我做准备运动吗？",
+        "うん？準備運動を手伝ってほしい？",
+        "Hm? Need any help doing your warm-ups?"
+      ],
+      "secretarySpecialTouch": [
+        "在妄想些什么呢，指挥官？说出来听听呀，嘻嘻~",
+        "指揮官、今なにをモウソウしてるの？教えてよ～へへへ♪",
+        "What are you fantasizing about? C'mon, tell me~ Hehehe~"
+      ],
+      "task": [
+        "有任务了，（伸懒腰）嗯——正好可以活动活动身体了呢。",
+        "任務来た！ふーう――いいタイミングで体を動かせるね！",
+        "A new mission's arrived! Phew, this'll be a good chance to move around a bit!"
+      ],
+      "taskComplete": [
+        "装着奖励的运输船，有种想击沉的冲动呢……怎么可能啦，哈哈！快去看看吧。",
+        "報酬を運んでくる輸送船を見ると、沈めたいって衝動に心が揺さぶられる――なんてね☆するわけないじゃん！ははは、早く見に行こうよ！",
+        "When I see those ships coming in with our rewards, my heart shakes with the impulse to sink them... Just kidding~! I'd never do that! Hahaha, let's check out what we got!"
+      ],
+      "mail": [
+        "邮件？过期了早被我扔了……骗你的啦，赶快看看吧~",
+        "メール？期限が過ぎたから捨てた……なーんてね☆はい、早く確認して～",
+        "What about your mail? It was past the deadline, so I disposed of it... Juuust kidding! Here you go, read it~"
+      ],
+      "returnFromMission": [
+        "指挥官，你的头好像又秃了一点啊……啊哈哈，开玩笑的啦！",
+        "あれ、指揮官、髪の毛がなんか薄くなったような気が～…あははは！冗談、冗談だってばー！",
+        "Huh? Commander, I think your hairline's starting to recede... Ahahaha! I'm just kidding with you!"
+      ],
+      "commission": [
+        "委托完成了呢。下次委托叫上我一起吧，运输破坏我可是很在行的，嘿嘿~",
+        "委託が完了したね！次はわたしも混ぜて、だって通商破壊は得意なんだから！へへへ",
+        "A commission's done! Put me on the team for the next one! Disrupting trade is what I do best! Hehehe~"
+      ],
+      "strengthening": [
+        "要是身材上也有所变化就好了呢…",
+        "スタイルも良くなればいいのになー",
+        "I wish someone would enhance my figure, too..."
+      ],
+      "startingMission": [
+        "今天是哪个倒霉鬼的幸运日呢~",
+        "今日のラッキーガールはどの子かな～♪",
+        "Who might be our lucky girl today~?"
+      ],
+      "mvp": [
+        "突然袭击大成功！",
+        "ドッキリ攻撃・絶好調！",
+        "Surprise attack: executed flawlessly!"
+      ],
+      "defeat": [
+        "哎呀，好像有点放松过头了…",
+        "はわわわ、ちょっとうっかりしすぎた……",
+        "Oh, shoot... I messed up..."
+      ],
+      "skillActivation": [
+        "我看到你了哟~",
+        "みーっつけた！",
+        "Fooound you!"
+      ],
+      "lowHP": [
+        "啊哈哈…好像有点危险了呢…",
+        "あはは…ちょっとやばみが……",
+        "Ahaha... This might be bad..."
+      ],
+      "affinityDisappointed": [
+        "指挥官？不对，是空气吧，哈哈。",
+        "指揮官？ちが～う空気でしょ？ははは！",
+        "Commander? Never mind, must've been the wind. Hahaha!"
+      ],
+      "affinityStranger": [
+        "潜伏，看准目标，上浮，发射鱼雷，boom！怎么样，很轻松吧！指挥官你要不要也试试？",
+        "潜航開始！目標発見、魚雷発射！ドカーン！どう？簡単でしょ？指揮官もやってみない？",
+        "Commence dive! Target spotted! Fire torpedoes! Kaboooom! See? It's pretty easy! Why don't you give it a try too?"
+      ],
+      "affinityFriendly": [
+        "指挥官，要来比赛憋气吗？输了的人要帮赢了的人按摩，怎么样？",
+        "指揮官、息止め競争でもやってみない？負けた方は勝ったほうをマッサージする！ってのはどうかな？",
+        "Commander, wanna see which of us can hold their breath longest? The winner gets a massage from the loser! How's that sound?"
+      ],
+      "affinityLike": [
+        "你也差不多应该注意到了吧，那个……什么……你的扣子扣歪了啦！以为我会说什么吗？哈哈~",
+        "そろそろ気づいてくれるかな…あの……その……ボタンがずれてるよ！わたしが何を言うと思った？へへへ～",
+        "I wonder when you'll notice that... um... that... your suit has a button loose! What were you expecting me to say? Hehehe~"
+      ],
+      "affinityLove": [
+        "指挥官，借你肩膀一用……嘿！怎么样，我很轻吧？到办公室前你可要坚持住哦！",
+        "指揮官、肩貸して～ぴょん！へへへ、わたしって結構軽いでしょ！というわけで、執務室まで肩車、よろしくー♪",
+        "Hey, let me borrow your shoulders... Jumpity! Hehehe~ Light as a feather, right? Bring me to the office, if you will!"
+      ],
+      "pledge": [
+        "其实我也觉得这天快来了呢，不过没想到就是现在。我现在兴奋地能绕港口游一百圈呢！指挥官，一起吧，嘿嘿！",
+        "実はそろそろこの日が来るんじゃないかと思ってたけど、まさか今日だなんて思いもしなかったよ……なんだか嬉しすぎて母港を100週も泳いで回れる気がする！うん！というわけで、指揮官、わたしと一緒に泳ごうよ！",
+        "I was wondering when this day would come, but I never would've thought it'd be today... I feel so happy that I could swim 100 laps around the port! Yeah! In fact, let's go swimming right now, together!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Juneau) 别怕，现在我们是伙伴啦",
+        "(Sortie with Juneau) 怖がらないで、今は仲間よ！",
+        "(Sortie with Juneau) Don't be afraid! We're allies now!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Saratoga) 准备活动不充分的话，会很容易受伤的哟，修理厂的女王~",
+        "(Sortie with Saratoga) 準備運動をちゃんとしないと怪我するよ！修理ドックのアイドルさん♪",
+        "(Sortie with Saratoga) Remember to do your warm-ups, or you'll get cramps, Idol of The Drydock~"
+      ],
+      "giftDescriptionValentines2019": [
+        "这是本命巧克力呢，还是义理巧克力呢，还是只是做多的随手送的呢——嘿嘿，指挥官，猜一猜吧！",
+        "これは本命チョコ！か、義理チョコか？…はたまた手作りチョコ！か、買ってきたチョコか、どーーーれだ！？当ててみて！へっへへー",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Heh heh heh. Here you go, Commander. It's some chocolate my sister made! There's some kind of secret ingredient in it. Sorry, even I don't know what it is! Just go ahead and try it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/I-26_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/I-26_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/I-26_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/I-26_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/I-26_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/I-26_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/I-26_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/I-26_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/I-26_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/I-26_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/I-26_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/I-26_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/92/I-26_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/I-26_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/I-26_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/I-26_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/I-26_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/I-26_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/I-26_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/I-26_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/I-26_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/I-26_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/I-26_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/I-26_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/I-26_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/I-26_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/I-26_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/I-26_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/I-26_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/I-26_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/I-26_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/I-26_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/I-26_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/I-26_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/I-26_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/I-26_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/I-26_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/I-26_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/I-26_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/I-26_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/I-26_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/I-26_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/I-26_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/I-26_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/I-26_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/I-26_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/I-26_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/I-26_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/I-26_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/I-26_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/I-26_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/I-26_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/I-26_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/I-26_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/I-26_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/I-26_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/I-26_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/I-26_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/I-26_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/I-26_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/I-26_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/I-26_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/I-26_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/I-26_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/I-26_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/I-26_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-26_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-26_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-26_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/I-26_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/I-26_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/I-26_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/I-26_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/I-26_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/I-26_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/I-26_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/I-26_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/I-26_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/I-26_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/I-26_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/I-26_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/16/I-26_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/I-26_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/I-26_Extra2JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Deep-Sea Rabbit",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "深海少女",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ウサギと深海魚",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/4/4a/I-26School.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cf/I-26SchoolChibi.png",
+      "shipDescription": [
+        "海洋的深处可是藏着许多秘密的！指挥官，有机会的话要去看看吗？作为课外辅导，嘻嘻~",
+        "海の奥はヒミツがいっぱい！指揮官、今度見に行こうよ！課外レッスンとして～えへへ！",
+        "Many secrets lie at the bottom of the ocean! Commander, let's go looking for them next time! It'll be like a field trip~ Heheh!"
+      ],
+      "acquisition": [
+        "海洋的深处可是藏着许多秘密的！指挥官，有机会的话要去看看吗？作为课外辅导，嘻嘻~",
+        "海の奥はヒミツがいっぱい！指揮官、今度見に行こうよ！課外レッスンとして～えへへ！",
+        "Many secrets lie at the bottom of the ocean! Commander, let's go looking for them next time! It'll be like a field trip~ Heheh!"
+      ],
+      "login": [
+        "深海鱼攻击！……被吓到了吗？这只是个玩偶啦，嘻嘻！",
+        "いんすます！……へっへー指揮官、今のびっくりした？実はこれ、ただのぬいぐるみなんだ！",
+        "Innsmouth! ... Hehe~ Did I spook you, Commander? Don't worry, this is just a stuffed toy!"
+      ],
+      "details": [
+        "比起在学校上课，还是出海好玩呢…听说更深的地方还有大家都不知道的怪物呢，好想去看看啊~",
+        "授業より海のほうが面白いよね…だって海の奥にはまだみんなが知らない魚とか、バケモノとかがいっぱいいるから！いいな～見に行きたいな～",
+        "School's just boring compared to the ocean... Like, there's tons of undiscovered fish species and monsters down at the bottom of the ocean! I wish I could see how they look~"
+      ],
+      "secretaryIdle1": [
+        "大鱼吃小鱼，小鱼吃小小鱼，那小小鱼要吃什么呢……",
+        "大きい魚はふつーな魚を食べる。ふつーな魚が小さい魚を食べる。あれ？小さい魚は何を食べればいいんだっけ…",
+        "Big fish eat regular fish. Regular fish eat small fish. Hang on... what do small fish eat, again...?"
+      ],
+      "secretaryIdle2": [
+        "指挥官要是能变成安康鱼的话，晚上工作就不用开灯了呢。",
+        "指揮官がアンコウさんになったら夜の仕事も明かりをつけなくてよくなるよね！",
+        "If you were an anglerfish, you could work late at night without having to turn on the lights!"
+      ],
+      "secretaryIdle3": [
+        "没穿泳衣不能游泳啊，有点扫兴呢。",
+        "水着がないと泳ぎにくいよね～しょんぼり……",
+        "It's not easy to swim without a swimsuit~ Baww..."
+      ],
+      "secretaryTouch": [
+        "要抱一下这个安康鱼吗？很软很舒服的！",
+        "このアンコウさんに抱きついてみない？ふわふわしてきもちいよ！",
+        "You should give this anglerfish plushie a hug! It's really soft and cuddly!"
+      ],
+      "secretarySpecialTouch": [
+        "我可不是鱼啊！",
+        "わたしは魚じゃないってば！",
+        "Haven't I told you I'm not a fish?!"
+      ],
+      "returnFromMission": [
+        "难得的放松时间，指挥官还要出击吗？真是辛苦啊~",
+        "せっかくの休み時間なのに、まーた出撃しちゃうんだ……お疲れ～",
+        "We've finally got recess, and yet you still go on sorties... Great work~!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/I-26_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/I-26_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/I-26_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/I-26_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/I-26_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/I-26_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/I-26_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/I-26_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/I-26_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/I-26_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/I-26_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/I-26_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/64/I-26_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/I-26_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/I-26_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/21/I-26_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/I-26_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/I-26_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/I-26_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/I-26_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/I-26_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/I-26_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/I-26_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/I-26_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/I-26_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/I-26_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/I-26_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Shortly Before the Fireworks",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "烟火大会前",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "花火見物の前に",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f3/I-26Festival.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/76/I-26FestivalWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0c/I-26FestivalChibi.png",
+      "shipDescription": [
+        "指挥官，你也在等烟火大会开始吗？还有一点时间，稍微陪我聊一会天吧！",
+        "指揮官も花火大会が始まるのを待ってるの？んーもうちょっとかかるみたいだし、わたしとおしゃべりでもしない？",
+        "Commander, are you also waiting for the fireworks to start? There's still some time, so let's have a little chat!"
+      ],
+      "acquisition": [
+        "指挥官，你也在等烟火大会开始吗？还有一点时间，稍微陪我聊一会天吧！",
+        "指揮官も花火大会が始まるのを待ってるの？んーもうちょっとかかるみたいだし、わたしとおしゃべりでもしない？",
+        "Commander, are you also waiting for the fireworks to start? There's still some time, so let's have a little chat!"
+      ],
+      "login": [
+        "指挥官你醒了？烟火大会已经结束了！…啊哈哈，开玩笑的啦，祭典其实还早哦？",
+        "指揮官起きた？花火大会はもう終わっちゃったよ？……へっへー冗談だってば！まだこれからよ？",
+        "Commander, are you awake? You totally missed the fireworks! Ahaha... Just kidding! It's still early."
+      ],
+      "details": [
+        "唔唔……说起头发，我总觉得好像哪里还有点不舒服。指挥官，能帮我梳理一下吗？",
+        "ん……髪、ちょっと変な感じがする…指揮官、見てもらってもいい？",
+        "Ugh... I always feel like there's something uncomfortable sticking out of my hair. Commander, can you help brush my hair?"
+      ],
+      "secretaryIdle1": [
+        "听说祭典上会有很多好玩的东西呢。嘿嘿，到时候伊26会大展身手给你看的！",
+        "お祭りってすっごく面白そうだよね！へっへーあとでわたしの活躍、見せてあげる！",
+        null
+      ],
+      "secretaryIdle2": [
+        "我喜欢热闹的场所！和许多同伴们在一起，自然而然就会觉得很开心！",
+        "人が多いところが好き！仲間たちと一緒にいると自然と楽しくなるよ！",
+        null
+      ],
+      "secretaryIdle3": [
+        "啊，享受祭典的时候，可不能把伊25忘了哦？不然伊25会很寂寞的吧！",
+        "あっ、お祭りを楽しんでもいいけど、姉ちゃんのことも忘れないで？ほっとかれたら寂しくなっちゃうからね！",
+        null
+      ],
+      "secretaryTouch": [
+        null,
+        null,
+        "It's fine to take a nap if you'd like. I'll wake you up before the fireworks start."
+      ],
+      "secretarySpecialTouch": [
+        "啊！指挥官，不能趁我行动不便的时候做坏事！",
+        "わ！動きづらい格好してるときに変なことしないでってば！",
+        "Eek! Commander, don't try to take advantage of the fact that I can't move around very well!"
+      ],
+      "returnFromMission": [
+        "指挥官，不可以把我丢下偷偷一个人先走了哦？",
+        "むぅ、指揮官、わたしをひとりにして先に行っちゃダメよ？",
+        "Commander, you're not allowed to leave me behind and sneak off to the fireworks first, got it?"
+      ],
+      "affinityLove": [
+        "平时我好像给指挥官添了不少麻烦呢，所以…在这特别的日子，再麻烦指挥官多一点也没关系的吧？嘻嘻~指挥官，最好啦！",
+        "わたし、指揮官にはいつもちょっと迷惑かけてるでしょ？だから今日のような特別の日は……もうちょっと困らせても大丈夫だよね？へへへ、指揮官、大好き！",
+        "Commander, I'm always causing trouble for you, so... you won't mind if I cause a bit more trouble for you on this special day, right? Ehehe~ Commander, you're the best!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/I-26_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/I-26_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/I-26_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/I-26_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/I-26_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/I-26_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-26_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-26_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/I-26_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/I-26_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/I-26_SecIdle1Skin2JP.ogg",
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/I-26_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/I-26_SecIdle2Skin2JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/87/I-26_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/I-26_SecIdle3Skin2JP.ogg",
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/I-26_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/I-26_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/I-26_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/I-26_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/I-26_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/I-26_MissionFinSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/I-26_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/I-26_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/I-26_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

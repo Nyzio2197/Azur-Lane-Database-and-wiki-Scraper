@@ -1,0 +1,525 @@
+{
+  "name": "Nagatsuki",
+  "constructionTime": "00:21:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Mutsuki",
+  "ID": "278",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "しらたま",
+  "pixiv": "https://www.pixiv.net/member.php?id=705370",
+  "twitter": "https://twitter.com/shiratamacaron",
+  "link": "http://shiratamaco.com/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/01/Nagatsuki_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1516,
+      201,
+      35,
+      60,
+      438,
+      193,
+      44,
+      128,
+      0,
+      8,
+      178,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      1263,
+      175,
+      35,
+      52,
+      396,
+      187,
+      44,
+      112,
+      0,
+      8,
+      169,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      244,
+      74,
+      35,
+      11,
+      84,
+      72,
+      44,
+      24,
+      0,
+      2,
+      65,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "125% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    4,
+    28,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Quick Reload; CN: 快速装填 JP: 快速装填",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Reload by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-睦月型",
+  "skill2Description": "Every 15 (10) shots from the main guns, trigger Full Barrage - Mutsuki-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/03/Nagatsuki.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/00/NagatsukiChibi.png",
+      "shipDescription": [
+        "睦月级驱逐舰八番舰—长月",
+        "睦月型駆逐艦八番艦・長月",
+        "Mutsuki-class destroyer number eight – Nagatsuki."
+      ],
+      "selfIntroduction": [
+        "我是睦月级八番舰的长月，虽然一直都只是在做些护卫和运输的任务，但是在库拉湾海战里也有过精彩的表现哦？真的哦！嗯？书包上的这个？这是对抗变态萝莉控犯罪者的秘密兵器——报警器p子！",
+        "睦月型「はちばんかん」の長月だ！「ごえいにんむ」と「ゆそうにんむ」ばかりやってたけど、「クラわんのかいせん」ではがんばった！ほんとうだぞ！……これ？ふっふっふー、これは「ロリコンたいさく」のひみつへいきのピー子だ！",
+        "I'm the \"eiff\" Mutsuki-class destroyer, Nagatsuki! I did a lot of \"protikshin\" and \"trainsport\" missions, and fought hard in the Battle of \"Coola Golf\"! It's true! ... What's on my backpack? Heh-heh-heh, it's my secret weapon against dangerous strangers, its name is Peepsy!"
+      ],
+      "acquisition": [
+        "你就是这里的指挥官？虽然看起来有一点点可疑，不过……应该不是什么危险人物吧？我是长月，小看我的话，哼哼，可是要吃苦头的哦！",
+        "あなたがしきかん？ちょっとあやしいけど……あぶないひとじゃなさそうね。あたしは長月！ふふん、あたしのことをバカにしたらいたいめにあうぞ！",
+        "You're the Commander? You look a bit suspicious, but... you don't seem dangerous anyhow. The name's Nagatsuki! Heh, if you underestimate me, you're gonna regret it!"
+      ],
+      "login": [
+        "呢嘻嘻，今天准备做点什么有趣的事情呢，指挥官？",
+        "ニヒヒ、きょうはどんなおもしろいことをするのかな？しきかん！",
+        "Teehee! What fun things will we do today, Commander?"
+      ],
+      "details": [
+        "p子为谁而鸣？",
+        "「ダレガタメ二ピー子ガナル」？",
+        "\"For whom does Peepsy toll\"?"
+      ],
+      "secretaryIdle1": [
+        "请注意看这里……只要把手指伸进这个圆环……向下用力一拽……会有水雷爆炸那么响哦！",
+        "ここはこう……ゆびでこのわっかをおもいっきりひっぱると……ギョライがドカーンってなったときみたいなおおきなおとがでるのだ！",
+        "When I take this ring, stick my finger through it, and pull as hard as I can... It makes a really loud noise, like when a torpedo goes kaboom!"
+      ],
+      "secretaryIdle2": [
+        "要、要说起我的战绩，就连那个那珂姐姐，落难的时候也接受过我的帮助呢！……大概。",
+        "あたしのカンレキ？あの那珂さんもたすけたことがあるよ！……たぶん",
+        "My service history? I helped Naka when she was in trouble! I think..."
+      ],
+      "secretaryIdle3": [
+        "指挥官，请教我一下这两个汉字怎么读！……shēnglī？虽然不知道什么意思但总感觉还是先拽一下p子比较好！",
+        "しきかん、これはどうよむの？…「ショウリ」？よくわかんないけど、ピー子をならしちゃったほうがいいきがする！",
+        "Commander, how do you say this word? \"Try-yumf\"? I dunno what that means, but I think I can do that by setting off Peepsy!"
+      ],
+      "secretaryTouch": [
+        "呢嘻嘻……指挥官，莫非是在试探p子的底线吗？",
+        "ニヒヒ、しきかんは……どんなことしたらピー子をならされるのかがしりたいの？",
+        "Teehee~ Commander, do you wanna find out what it takes for me to set off Peepsy's alarm?"
+      ],
+      "secretarySpecialTouch": [
+        "…………！果然还是露出本性了！你这家伙，接受p子的制裁吧！",
+        "…………！しょうたいあらわしたなー！ピー子のせいさいをくらえー！",
+        "Eeeep...! I knew you're a dangerous stranger! Hear Peepsy roar!"
+      ],
+      "task": [
+        "为了让长月过上愉快的生活，指挥官就请好好劳动吧～",
+        "長月が「ゼイタク」にくらせるよう、しきかんはじゃんじゃんはたらけー",
+        "Commander, work harder so I can live a more \"lugshurious\" life!"
+      ],
+      "taskComplete": [
+        "哦哦，这豪华的奖品……什么？没我的份？",
+        "おお、「ごうか」なほうしゅうだ……ええ！あたしのぶんはないの！？",
+        "Wow, these rewards are \"fenomennel\"! ... Huh?! I'm not getting any?!"
+      ],
+      "mail": [
+        "呢嘻嘻嘻，再不把邮箱里的信拿走，说不定什么时候它就会自己长脚跑掉哦？",
+        "ニヒヒヒ、メールばこにたまってるメールをいつまでもとらないと、メールににげられちゃうぞ？",
+        "Heeheehee~ Your mail is gonna be gone one day if you don't empty your mailbox!"
+      ],
+      "returnFromMission": [
+        "指挥官回来了！说好帮我带的草莓冰淇淋呢？咦，没说过？",
+        "しきかんおかえり！あたしのいちごアイスは？え？きいてないって！？",
+        "Hi, Commander! Where's my strawberry ice cream? Wha–? But didn't I tell you to get some?!"
+      ],
+      "commission": [
+        "看起来很好玩耶，下次也让我试试嘛？",
+        "いたくたのしそー！あたしにもいかせてよー",
+        "Commissions look fun! I wanna do one too!"
+      ],
+      "strengthening": [
+        "哦哦，感觉热闹起来了！",
+        "ワイワイもりあがってきた！",
+        "I'm feeling super excited!"
+      ],
+      "startingMission": [
+        "别、别靠过来！这可是犯罪克星p子哦！",
+        "く、くるなー！あたしのピー子はわるいこのテンテキなんだぞ！",
+        "St-stay back! My Peepsy's made to keep you meanies in check!"
+      ],
+      "mvp": [
+        "咦？赢了？……啊哈哈哈，看、看到了吗，这就是长月大人真正的实力啊！",
+        "か、かった？……にゃははは！み、みたか！これが長月さまのちからだッ！",
+        "W-we won...? Myahahah! You see that? Nagatsuki is all-powerful!"
+      ],
+      "defeat": [
+        "呜咕……p子，毕竟只是个报警器而已啊……",
+        "うぐぇ……ピー子はただのブザーだってぇ……",
+        "Waahhh...! Peepsy's nothing more than an alarm...!"
+      ],
+      "skillActivation": [
+        "让你见识一下p子的厉害吧！",
+        "ピー子のちからをみろ！",
+        "Show them what you're made of, Peepsy!"
+      ],
+      "lowHP": [
+        "啊哇哇哇，没、没有触礁吧？！",
+        "あわわわ！ざ、ざしょうしてないよね？！",
+        "Oh nooo! I hope they didn't bruise me!"
+      ],
+      "affinityDisappointed": [
+        "哈啊……好无聊哦。指挥官如果不做点有趣的事情，p子就要因为无聊而大叫了哦？",
+        "ふはー……つまんない…しきかーん、なんかおもしろいことやらないとピー子ならしちゃうぞー",
+        "*Yawn*... I'm bored... Commandeeer! I'm gonna set off Peepsy if you don't do something fun with me!"
+      ],
+      "affinityStranger": [
+        "呢嘻嘻嘻，指挥官又不是可疑人士，不用介意p子的啦……所以，真的不是吧？",
+        "ニヒヒヒ、しきかんはあやしいヤツじゃないからピー子のことはあんしんしていいよ――ほんとにあやしいヤツじゃないよね…？",
+        "Heeheehee~ You're not a dangerous stranger, so don't worry about Peepsy, Commander! ... You AREN'T dangerous, right...?"
+      ],
+      "affinityFriendly": [
+        "嗯？《狼来了》的故事？呢嘻嘻，是让长月不要光是口头上说说，偶尔也要真的拉响一次p子的意思吗？",
+        "「オオカミしょうねん」って？……ニヒヒ、どうやらしきかんにはほんとうにピー子をいっかいならして、長月はくちだけじゃないってしってもらうひつようがあるみたいだなー♪",
+        "The story of the boy who cried wolf...? Teehee, maybe I should set off Peepsy's alarm to show you that I'm not just all bark and no bite~!"
+      ],
+      "affinityLike": [
+        "呜呜，抱、抱歉啦……指挥官那么温柔善良、和蔼可亲的人，应该不会对长月发脾气的，对吧？",
+        "うぇええ…ご、ごめんなさい……しきかんはやさしくてしんせつなおとなだから、長月におこらないはずだよね……",
+        "Waaahhh! I'm sorryyy... But you won't get angry at me since you're a nice and caring commander, right...?"
+      ],
+      "affinityLove": [
+        "不要把p子拿来玩？唔……如果指挥官多花点时间陪我玩的话，也不是不能考虑一下哦？嘻嘻嘻。",
+        "ピー子であそばないほうがいいって？ふむ……しきかんがあたしとあそんでくれたら、かんがえてあげなくもないぞ？ニヒヒ♪",
+        "I shouldn't play around with my Peepsy? Hmm... I'll think about it, if you play with me instead! Teehee~"
+      ],
+      "pledge": [
+        "这亮闪闪的圆环……是给我的？指挥官，难道是想代替p子来保护我吗？长月……现在超开心！可以拉响p子来庆祝一下吗？",
+        "このキラキラのわは……長月に？しきかんがピー子のかわりにあたしをまもってくれるの？……あたし、いますごくうれしい！ピー子ならしていわってもいい？",
+        "Is this shiny ring... for me? ... You'll take over Peepsy's role and protect me? Wow, that makes me feel super duper happy! Can I set off Peepsy to celebrate this?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 3 of: Mutsuki, Kisaragi, Uzuki, Minazuki, Fumizuki, Nagatsuki, Mikazuki) 长月和愉快的伙伴们，出击！",
+        "(Sortie with at least 3 of: Mutsuki, Kisaragi, Uzuki, Minazuki, Fumizuki, Nagatsuki, Mikazuki) 長月とゆかいななかまたち、いっくよー！",
+        "(Sortie with at least 3 of: Mutsuki, Kisaragi, Uzuki, Minazuki, Fumizuki, Nagatsuki, Mikazuki) Nagatsuki and her nice friends, let's go!"
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "ふっふっふーしきかん、いまこのピー子をならしたら……うそうそ！このピー子はただのキャンディだもん！睦月のアメさんでラドフォードとこうかんしてきたんだぞー！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, I made you this chocolate bag! Hehehe, just tug on this string and Peepsy will… Ah! Wait! Give Peepsy back to me! I'll give you all the chocolate!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Nagatsuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Nagatsuki_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Nagatsuki_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Nagatsuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Nagatsuki_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Nagatsuki_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Nagatsuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Nagatsuki_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Nagatsuki_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Nagatsuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Nagatsuki_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Nagatsuki_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Nagatsuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Nagatsuki_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Nagatsuki_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Nagatsuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Nagatsuki_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Nagatsuki_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Nagatsuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Nagatsuki_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Nagatsuki_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Nagatsuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Nagatsuki_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Nagatsuki_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagatsuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagatsuki_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagatsuki_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Nagatsuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Nagatsuki_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Nagatsuki_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Nagatsuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Nagatsuki_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Nagatsuki_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Nagatsuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Nagatsuki_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Nagatsuki_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Nagatsuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Nagatsuki_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Nagatsuki_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Nagatsuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Nagatsuki_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Nagatsuki_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nagatsuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nagatsuki_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Nagatsuki_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Nagatsuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Nagatsuki_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Nagatsuki_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Nagatsuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Nagatsuki_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Nagatsuki_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Nagatsuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Nagatsuki_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Nagatsuki_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Nagatsuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Nagatsuki_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Nagatsuki_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nagatsuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nagatsuki_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Nagatsuki_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Nagatsuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Nagatsuki_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Nagatsuki_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Nagatsuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Nagatsuki_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Nagatsuki_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Nagatsuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Nagatsuki_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Nagatsuki_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Nagatsuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Nagatsuki_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Nagatsuki_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Nagatsuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Nagatsuki_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Nagatsuki_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Nagatsuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Nagatsuki_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Nagatsuki_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Nagatsuki_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Nagatsuki_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Nagatsuki_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Dangerous Kitty Maid?",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "喵喵女仆有点危险？",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ニャンニャンメイドはキケンです",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/17/NagatsukiMaid.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/11/NagatsukiMaidChibi.png",
+      "shipDescription": [
+        "喵喵女仆，长月，闪亮登场！在这极具破坏力的女仆装面前，指挥官可要加油别被诱惑了哦！嘻嘻",
+        "ニャンニャンめいど長月とうじょう♪しきかんはこのメイドふくにユウワクされないようにがんばってね！ニヒヒ",
+        "Nagatsuki the kitty maid is at your service~ Do your best to not fall madly in love with my cute looks~! Hehe~"
+      ],
+      "acquisition": [
+        "喵喵女仆，长月，闪亮登场！在这极具破坏力的女仆装面前，指挥官可要加油别被诱惑了哦！嘻嘻",
+        "ニャンニャンめいど長月とうじょう♪しきかんはこのメイドふくにユウワクされないようにがんばってね！ニヒヒ",
+        "Nagatsuki the kitty maid is at your service~ Do your best to not fall madly in love with my cute looks~! Hehe~"
+      ],
+      "login": [
+        "主人，欢迎回来喵！……想听第二遍的话，就准备好草莓冰淇淋吧！",
+        "ごしゅじんさま、おかえりなさいませにゃ♪……もういっかいききたい？長月にいちごアイスをくれたらきかせてあげるっ！",
+        "Welcome back, Master♪ Oh, you wanna hear that again? Sure, but first I want strawberry ice cream!"
+      ],
+      "details": [
+        "虽然是女仆，但是戴着喵喵手套，所以女仆的工作都做不了呢，真遗憾~",
+        "メイドふくをきても、ニャンニャンパンチそうびだから、メイドのおしごとはできないよね～ざんねーん♪",
+        "Sure I'm wearing a maid costume, but I can't do any maid work with these kitty paw gloves on! Sooorry♪"
+      ],
+      "secretaryIdle1": [
+        "放心吧，p子我还好好带着呢。只是放在了看不见的地方而已啦！",
+        "ピー子はちゃんともってるんだよ～しきかんからはみえないところにあるだけで！",
+        "I still have Peepsy with me~! I've just hidden it somewhere!"
+      ],
+      "secretaryIdle2": [
+        "说起来女仆到底要做些什么呢……啊，指挥官，我渴了，帮我泡一杯茶吧，嘻嘻！",
+        "メイドはなにをするの？……あ！しきかん！長月のどかわいた！おちゃがほしい！えへへ！",
+        "What do maids even do...? Oh, I know! Commander, I'm thirsty! I want some tea! Hehehe!"
+      ],
+      "secretaryIdle3": [
+        "这双喵喵手套可是很软很舒服的，指挥官也来感受一下吧？—看招，喵喵拳！",
+        "ニャンニャンパンチはやわらかくてきもちいいよ？しきかんもどう…？――くらえ！ニャンニャンパンチ！",
+        "My kitty paws are really nice and soft. Don't you wanna feel them? Here you go! Kitty paws to the face!"
+      ],
+      "secretaryTouch": [
+        "指挥官对女仆很感兴趣呢~但是，这样下去的话p子可要有反应了哦？",
+        "しきかんはメイドにきょうみがあるんだね～あ、でもこれいじょうつついたらピー子がはんのうしちゃうよ？",
+        "You really like maids, huh~ But just so you know, Peepsy's gonna go off if you keep poking me!"
+      ],
+      "secretarySpecialTouch": [
+        "要是以为戴着喵喵手套的我无法拉响p子的话，就大错特错了呢！",
+        "ニャンニャンパンチだからピー子をならせないとおもったらおおまちがいだああ！",
+        "I totally forgot I can't set off Peepsy with these kitty paw gloves oooon!"
+      ],
+      "returnFromMission": [
+        "唔唔唔，皇家的女仆长贝尔法斯特好像每天都很忙的样子……要不还是不做女仆了吧，嘿嘿！",
+        "ぐぬぬ、ロイヤルのめいどちょーのベルファストはまいにちいそがしい……うん、メイドやめよ。えへへ！",
+        "Grr, that Royal Navy maid Belfast is always working... I'm gonna quit being a maid. Hehehe!"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

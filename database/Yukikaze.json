@@ -1,0 +1,800 @@
+{
+  "name": "Yukikaze",
+  "constructionTime": "00:27:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Kagerou",
+  "ID": "166",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Saru(猴妈)",
+  "pixiv": "https://www.pixiv.net/member.php?id=1422579",
+  "twitter": "https://twitter.com/saru_1127",
+  "link": "http://weibo.com/p/1005051054234800",
+  "voiceActor": "https://en.wikipedia.org/wiki/Kana_Y%C5%ABki",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2226,
+      223,
+      93,
+      68,
+      526,
+      192,
+      42,
+      161,
+      0,
+      10,
+      195,
+      210,
+      0,
+      0
+    ],
+    "Level 100": [
+      1855,
+      194,
+      93,
+      59,
+      478,
+      186,
+      42,
+      140,
+      0,
+      10,
+      186,
+      190,
+      0,
+      0
+    ],
+    "Base Stats": [
+      359,
+      82,
+      93,
+      13,
+      101,
+      71,
+      42,
+      30,
+      0,
+      3,
+      71,
+      52,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Evasion  +1",
+  "collectionTechPoints": 9,
+  "maxLimitBreakTechPoints": 18,
+  "level120StatBonus": "Destroyer (DD) Torpedo  +1",
+  "level120TechPoints": 13,
+  "enhancementValue": [
+    4,
+    33,
+    0,
+    15
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Yukikaze of Kure; CN: 吴港之莲 JP: 呉の雪風",
+  "skill1Description": "While alive in fleet, reduce damage received by the backline by 3.5% (8%). Once per battle, when any ship in the backline drops below 20% health, heal said ship for 4% (10%) of their max HP.",
+  "skill2Name": "The Unsinkable Lucky Ship; CN: 不沉的幸运舰 JP: 沈まぬ幸運艦",
+  "skill2Description": "When taking damage, 5% (25%) chance to decrease said damage to 1. At the start of battle, increases own Luck stat by 5.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-莲 JP: 特殊弾幕-雪風",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Yukikaze I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/97/Yukikaze.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b4/YukikazeChibi.png",
+      "shipDescription": [
+        "阳炎级驱逐舰八番舰—雪风",
+        "陽炎型駆逐艦八番艦・雪風",
+        "Kagerou-class Destroyer no. 8 - Yukikaze"
+      ],
+      "selfIntroduction": [
+        "听好了，我乃高贵的，幸运的，无敌的，雪风·Eight·阳炎The.Geni……（咬舌）什么啊，这个词好难念啊！（低声）咳咳，总而言之，能得到我是你的幸运，你就尽管依靠本大人的运气吧，HO,HO,HO！",
+        "よく聞け！えっと…このわたしこそ高貴で幸運で無敵の！雪風・エイト・陽炎・ザジェネ…なんなのよこれ！言いづらい！… コホンコホン、とにかく、このわたしを手に入れられるあんたは幸せ者なのだ！思う存分このわたしの幸運に頼るがいいのだ！ハッハッハッ！",
+        "Listen up! I'm the noble, lucky, invincible, magni... magnici... the 8th ship of the Kagerou-class, Yukikaze the Great! What the heck... that word's so hard to pronounce... Ahem! Anyway, I shall be your lucky star from now on, so be grateful! Wa ha ha!"
+      ],
+      "acquisition": [
+        "哼哼哼，作为你来到我面前的奖赏，我幸运的雪风大人就加入你的舰队！感到光荣吧！",
+        "ふんふんふーん、ここまでたどり着いたご褒美に、この幸運の雪風様が加わってやるのだ！光栄に思うのだ♪",
+        "Hehehe~ As a reward for making it this far, the lucky Yukikaze the Great shall join you! You should feel honored!"
+      ],
+      "login": [
+        "终于回来了，为了雪风大人赶紧好好工作吧！",
+        "よく戻ったのだ！この雪風様のために働くのだ！",
+        "You've finally returned! Now, get to work for Yukikaze the Great!"
+      ],
+      "details": [
+        "雪风大人的英姿就随你看个高兴吧！",
+        "雪風様の勇姿を存分に見るのだ！",
+        "Feast your eyes upon the heroic majesty of Yukikaze the Great!"
+      ],
+      "secretaryIdle1": [
+        "HO,HO,HO，雪风大人可是无敌的口牙！",
+        "ハッハッハッ！雪風様は無敵なのだ！",
+        "Wa ha ha! Yukikaze the Great is invincible!"
+      ],
+      "secretaryIdle2": [
+        "指挥官，你求我的话也不是不能帮你一下哦~",
+        "そんなに頼むんなら助けてあげなくもないのだぞ~",
+        "If you beg me like that, I have no choice but to lend you my aid!"
+      ],
+      "secretaryIdle3": [
+        "Na,Nya……哼，雪风大人心情好，就难得满足一下你",
+        "ふにゃ…ふん、雪風様は機嫌がいいから付き合っているだけなのだ！",
+        "Eheh~ Hmph. Yukikaze the Great is only giving you the time of day because she's in a good mood!"
+      ],
+      "secretaryIdle4": [
+        "瞧你那傻样，结果还是要依靠雪风大人我呢~",
+        "そんな顔して、結局この雪風様のおかげなのだ~",
+        "Look at that face of yours~ It's only because of me, Yukikaze the Great!"
+      ],
+      "secretaryIdle5": [
+        "你以为我不会过来吗？成熟的雪风大人才不会那么幼稚，哼！",
+        "こっちから仕掛けられない思った？大人の雪風様はあんたみたいに子供っぽいことしないのだ！ふん！",
+        "You thought I wouldn't come over? Hmph! Unlike you, Yukikaze the Great is mature and would never do something so childish!"
+      ],
+      "secretaryTouch": [
+        "呼……吓我一跳（小声）嗯？没什么",
+        "ふぅ……びっくりした…うん？なにもないのだ！",
+        "Phew... that was scary... Huh? I didn't say anything!"
+      ],
+      "secretarySpecialTouch": [
+        "你……竟敢……呜……！去死吧！",
+        "あんた……まさか……うぐ……！もう死んじゃえ！",
+        "What are... you doing... nngh!? Go die!!"
+      ],
+      "secretaryHeadpat": [
+        "呼……吓我一跳（小声）嗯？哼，没什么，继续做你的事去吧",
+        "わぅ！……び、びっくり…うん？ふん、なんでもないのだ！仕事するのだ！",
+        "Eep! That scared me... Huh? None of your business!"
+      ],
+      "task": [
+        "还有任务剩下，指挥官，你还嫩啊（鄙视）",
+        "任務を残すなんて指揮官もまだ若いのだな～",
+        "How naïve, Commander! You still have tasks left to do!"
+      ],
+      "taskComplete": [
+        "任务奖励是……干，干什么，我才没想偷看！我只是事先帮你确认一下！",
+        "任務の報酬は……なな、なんだ！別に盗み見じゃないのだ！ただ先に確認してあげるだけなのだ！",
+        "Let's take a little peek... Wh-what am I doing? N-not peeking, of course... I just wanted to check the rewards in advance!"
+      ],
+      "mail": [
+        "你的信……可恶，居然比我还要受欢迎",
+        "あんたのメール……ぐぬぬ、このわたしより人気があるとは……",
+        "Here's your mail... Grrrr, even more popular than me..."
+      ],
+      "returnFromMission": [
+        "你能平安无事也是多亏了我的幸运，快感谢我吧！",
+        "無事にいられるのはわたしの運があるからなのだ！感謝するがいいのだ！",
+        "You were only able to return safely because of my luck, so be thankful!"
+      ],
+      "commission": [
+        "汪！你确定委托完成时喊一声奖励会更好吗……",
+        "ワン！委託が終わった時に叫べば報酬が良くなるって本当かな……",
+        "Woof! Are you sure that barking increases the likelihood of getting a better reward...?"
+      ],
+      "strengthening": [
+        "注意到雪风大人的伟大了吗？眼光不错嘛",
+        "この雪風様の偉大さに気づいたのか？目がいいのだな~",
+        "So you've noticed Yukikaze's greatness? You have good eyes~"
+      ],
+      "startingMission": [
+        "不要命的话就放马过来吧！",
+        "命が惜しくなければかかってこいなのだ！",
+        "If you're done saying your prayers, come at me!"
+      ],
+      "mvp": [
+        "败者就赶紧给我消失吧，HO,HO,HO！",
+        "敗者はさっさと消え去るのだ！ハッハッハー！",
+        "Losers should hurry up and scram! Wa ha ha!"
+      ],
+      "defeat": [
+        "哼，要让你们在这里凋零我于心不忍……就放你们一马吧！",
+        "ふん、ここで倒れる姿は忍びんなのだ……今回見逃してやるのだ！",
+        "Hmph. I don't want anyone finding out that I lost, so I'm letting you go this time!"
+      ],
+      "skillActivation": [
+        "我可是雪风哒！",
+        "雪風様なのだ！",
+        "I am Yukikaze the Great!"
+      ],
+      "lowHP": [
+        "哼，让你们见识雪风大人的真本事！",
+        "ふん！雪風様の真の力を見せてやるのだ！",
+        "Hmph! Witness the true power of Yukikaze the Great!"
+      ],
+      "affinityDisappointed": [
+        "你配不上雪风大人的运气呢~",
+        "雪風様の運にふさわしくないのだ～",
+        "You are not worthy of the luck of Yukikaze the Great~"
+      ],
+      "affinityStranger": [
+        "圣诞老人？那种东西怎么可能存在，你是笨蛋吗？——欸，今年没有圣诞礼物了？等等，等等等等，让我们好好谈谈吧，也许存在也说不定",
+        "サンタクロース？そんなのいるはずがないのだ！馬鹿なのか？ーーあ、あれ？今年はクリスマスプレゼント抜きなのか？ま、待つのだ！ちょっと話すのだ！サンタクロースがもしかしたらいるかもしれないのだー！",
+        "Santa Claus? Are you dumb? There's no way something like that could... Huh? There's going to be coal in my stockings this year? W-wait! Let's discuss this! I'm sure there's some possibility that Santa is real!"
+      ],
+      "affinityFriendly": [
+        "你要去游乐园？哼，那种地方我成熟的雪风大人怎么可能喜欢……欸，只是跟我说一声？等等，等等等等，让我们好好谈谈吧，游乐园也是有可取之处的",
+        "この雪風様と遊園地に行きたいのか？ふん、そんなとこ、この大人の雪風様が好きなわけな…ええ、言ってみただけなのか！？ま、待つのだ！ちょっと話すのだ！遊園地だっていいところがあるのだー！",
+        "You'd like to go to an amusement park with Yukikaze the Great? Hmph! There's no way that I'd do something so childish... Ahh! W-wait, let's talk this over! I'm sure there's some fun to be had at an amusement park!"
+      ],
+      "affinityLike": [
+        "约会？哼，优雅的雪风大人才不会随便接受他人的邀约——诶，那就去找别人？等等……你给我站住，你要对雪风大人始乱终弃吗！",
+        "デート？ふん、この優雅な雪風様はそう安々と他人の誘いに乗らないーーじゃあ他の人にするの？ま、待て……待つのだ！この雪風様をこのまま放置する気かーー！",
+        "You want to go out with me? Hmph! There's no way the elegant and beautiful Yukikaze would just accept the advances of any random person... W-wait!! Are you seriously going to leave before I have a chance to collect my thoughts?!"
+      ],
+      "affinityLove": [
+        "婚纱？哼，终于开始考虑和雪风大人的未来了吗？嗯，这套不错——欸，给别人选的？等等，等……（哽咽）我，我知道我虽然任性，但是——欸，别人的婚礼？你这混蛋！！",
+        "ジューンブライド？ふん、ようやく雪風様との未来を考えるようになったのか？うん、これはいいのだーーええ！ほかの人のために選んだのか？ま、待って……ううっ……自分がわがままだとわかってるけど、でもーーええ！ほかの人の結婚式用？？この馬鹿！！！",
+        "A wedding dress? So, have you finally started thinking about your eternity of servitude to Yukikaze the Great? Well, you have good taste... Huh? This is for someone else? W-wait... wait... please, I know I'm not perfect, but... Huh? A friend's wedding ceremony? You big jerk!!!"
+      ],
+      "pledge": [
+        "既然这是你发自内心的请求，雪风大人就大发慈悲收下好了，特别允许你把雪风大人抱起来也没关系哦，来吧，你还在等什么，这可是千载难逢的好机会！",
+        "心からの願いなんだから、この雪風様がありがたく承諾してあげるのだ！特別に雪風様をお姫様抱っこしてもいいのだぞ！さあ、何を戸惑っているのだ！千載一遇のチャンスなのだぞ！",
+        "Since you asked so earnestly, Yukikaze the Great shall grant you a favor and allow you to carry her! Come on, what are you waiting for? It's a once in a lifetime opportunity!"
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "この雪風様からのザ・カゲロウタイプ・バレンタイン・ぱ、パーフェイクト・カカオテースト・ハンドメイドチョコレートをありがたく受け取るがいいのだ！……よぉし！言えた！言えのた！！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Hah hah hah! Taste, and be amazed at this flawless chocolate! I'm very confident in my work this year! After all, the ingenious Yukikaze the Great spent half the day making it! It could not be anything less than perfect~♪"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Yukikaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Yukikaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Yukikaze_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Yukikaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Yukikaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Yukikaze_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Yukikaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Yukikaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Yukikaze_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Yukikaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Yukikaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Yukikaze_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Yukikaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Yukikaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Yukikaze_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Yukikaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Yukikaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Yukikaze_SecIdle3JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Yukikaze_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Yukikaze_SecIdle4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Yukikaze_SecIdle4JP.ogg"
+      ],
+      "secretaryIdle5Url": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Yukikaze_SecIdle5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Yukikaze_SecIdle5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Yukikaze_SecIdle5JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/43/Yukikaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Yukikaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/43/Yukikaze_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Yukikaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Yukikaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Yukikaze_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Yukikaze_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Yukikaze_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Yukikaze_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Yukikaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Yukikaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Yukikaze_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Yukikaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Yukikaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Yukikaze_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Yukikaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Yukikaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Yukikaze_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Yukikaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Yukikaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Yukikaze_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Yukikaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Yukikaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Yukikaze_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Yukikaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Yukikaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Yukikaze_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Yukikaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Yukikaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Yukikaze_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Yukikaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Yukikaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Yukikaze_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Yukikaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Yukikaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Yukikaze_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Yukikaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Yukikaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Yukikaze_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Yukikaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Yukikaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Yukikaze_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Yukikaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Yukikaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Yukikaze_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Yukikaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Yukikaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Yukikaze_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Yukikaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Yukikaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Yukikaze_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Yukikaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Yukikaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Yukikaze_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Yukikaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Yukikaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Yukikaze_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Warmth of Spring",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "春日的暖风",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ポカポカ春模様",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Oath",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/64/YukikazeWedding.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/97/YukikazeWeddingChibi.png",
+      "shipDescription": [
+        "这身衣服好漂亮啊，诶嘿嘿……啊——咳咳！从今以后，你就是雪风大人最重要的另一半了，可不允许擅自消失，明白了吗！",
+        "この服カワイイよね、えへへへ……あっ！！こ、コホン！あんたはこれから、この雪風様の大切な付き人になるのだ！勝手にいなくなるのは許さないのだ！分かったのか？",
+        "This outfit is sooo cute~ ehehe... Ack!! *cough* *cough*! Ahem! From now on, you are the faithful companion of Yukikaze the Great! As such, you will not be permitted to leave my side, understood?"
+      ],
+      "acquisition": [
+        "这身衣服好漂亮啊，诶嘿嘿……啊——咳咳！从今以后，你就是雪风大人最重要的另一半了，可不允许擅自消失，明白了吗！",
+        "この服カワイイよね、えへへへ……あっ！！こ、コホン！あんたはこれから、この雪風様の大切な付き人になるのだ！勝手にいなくなるのは許さないのだ！分かったのか？",
+        "This outfit is sooo cute~ ehehe... Ack!! *cough* *cough*! Ahem! From now on, you are the faithful companion of Yukikaze the Great! As such, you will not be permitted to leave my side, understood?"
+      ],
+      "details": [
+        "看到指挥官就想上去蹭蹭呢——诶嘿嘿，好舒服~",
+        "指揮官を見るとスリスリしたくなるのだ――えへへへ～気持ちいいのだ♪",
+        "Commander, I want to rub against you every time I see you... Ehehe~ so comfy~♪"
+      ],
+      "secretaryIdle1": [
+        "有雪风大人陪在你身边，厄运什么的早就飞走啦！",
+        "この雪風様がそばにいたおかげで、悪運などとっくに消えてなくなったのだ！",
+        "As long as Yukikaze the Great is at your side, bad luck and whatnot shall be banished forever!"
+      ],
+      "secretaryIdle2": [
+        "再多黏着雪风大人也是可以的哦！毕竟你可是雪风大人看上的指挥官！",
+        "もっと雪風様と一緒にいてもいいのだぞ♪だってあんたは～この雪風様が見初めた指揮官なのだぞ♪",
+        "Spend as much time with Yukikaze the Great as you please! After all, you are the one who I have chosen!"
+      ],
+      "secretaryIdle3": [
+        "下次的约会就一起去赏花吧！（小声）又能一起约会了，诶嘿嘿~",
+        "次のデートは…お花見にいきたいのだ♪（小声）またデートできるよね～えへへ～",
+        "For our next date, you shall take me to view the cherry blossoms~♪ (Ahh, I'm so glad I'll get to go on another date~ ehehe~)"
+      ],
+      "secretaryTouch": [
+        "诶嘿嘿，指挥官的摸摸好舒服~",
+        "えへへ～指揮官、さわさわしてくれて気持ちいいのだ♪",
+        "Ehehe~ Commander, your rub-rub feels so nice~♪"
+      ],
+      "secretarySpecialTouch": [
+        "成，成熟的雪风大人早就习，习惯这些了！唔，唔……",
+        "お、大人の雪風様はこれぐらいなな、なんともないのだ！あぅ……うぅ………",
+        "The Great and M-Mature Yukikaze h-has long been accustomed to these kinds of things! Ah.... ahhn..."
+      ],
+      "task": [
+        "还有任务啊。没关系，我来帮助你一起完成吧！",
+        "まだ任務があるのか？問題ないのだ。この雪風様が手伝ってあげるのだ！",
+        "Still have missions left? Fear not. Yukikaze the Great shall lend you her aid!"
+      ],
+      "taskComplete": [
+        "任务奖励有很多很多呢~哼哼，这里面可有一半的功劳是雪风大人的！",
+        "任務報酬がいっぱいなのだー！ふふん、半分ぐらいはこの雪風様のおかげなのだ♪",
+        "Behold all the mission rewards! Heh, roughly half of this bounty was due to the efforts of Yukikaze the Great!"
+      ],
+      "mail": [
+        "有你的信呢！等等，该，该不会是花心……",
+        "あんたにメールなのだ！待て、も、もももしかしてフリンでは……",
+        "There's mail for you! Wait... W-w-wait a second! Are you cheating on me?"
+      ],
+      "commission": [
+        "委托完成了啦！快点去迎接她们，然后回到我的身边来啦！",
+        "委託が完了したのだ！早くみんなを迎えに行って、そしてこの雪風様のそばに帰ってくるのだ！",
+        "A commission has been finished! Make haste to welcome the others back, then promptly return to my side!"
+      ],
+      "affinityLove": [
+        "那个那个，我们什么时候出发呀？就是上次说的约会——先说好了，这次雪风大人只负责玩，其它的全部交给你了呢！你可要好好负责哦！……嗯！诶嘿嘿～最喜欢你了～",
+        "ねえねえ、いつ行くのだ？…この前言ってたデートなのだ！――雪風様は今回遊び担当で、ほかのことはぜんぶあんたに任せたのだから、ちゃんと責任を取るのだぞ！…うん！えへへへ～大好き～",
+        "Hey, hey! When are we going? ...Of course, the date I talked about before! Yukikaze the Great shall be responsible for having as much fun as possible, and the rest of the responsibilities shall be yours! You can take care of it, right? ...Mhm! Ehehe~ I love you~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Yukikaze_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Yukikaze_IntroSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Yukikaze_IntroSkin8JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Yukikaze_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Yukikaze_DetailsSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Yukikaze_DetailsSkin8JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Yukikaze_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Yukikaze_SecIdle1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Yukikaze_SecIdle1Skin8JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Yukikaze_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yukikaze_SecIdle2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Yukikaze_SecIdle2Skin8JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Yukikaze_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Yukikaze_SecIdle3Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Yukikaze_SecIdle3Skin8JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Yukikaze_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Yukikaze_Sec1Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Yukikaze_Sec1Skin8JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Yukikaze_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Yukikaze_Sec2Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Yukikaze_Sec2Skin8JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_TaskSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Yukikaze_TaskSkin8JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Yukikaze_TaskCSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Yukikaze_TaskCSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Yukikaze_TaskCSkin8JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Yukikaze_MailSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Yukikaze_MailSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Yukikaze_MailSkin8JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Yukikaze_CommissionSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Yukikaze_CommissionSkin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Yukikaze_CommissionSkin8JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Yukikaze_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Yukikaze_Affinity4Skin8JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Yukikaze_Affinity4Skin8JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Sovereign of the Swing",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "秋千上的天津风大人",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "ブランコ様",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2e/YukikazeEvent.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3e/YukikazeEventChibi.png",
+      "shipDescription": [
+        "终于完成了！“随时随地都能荡的秋千”！怎么样，指挥官，是不是很羡慕，想不想要坐一坐？很遗憾，这是高贵的雪风大人专用的！",
+        "あーはっはっは！「どこでも使えるブランコ」がついに完成したのだ！指揮官、羨ましいのか？座りたいのか？でもざーんねーん！これは高貴なる雪風様専用なのだ♪",
+        "Wa ha ha! My \"universal-as-long-as-there-is-a-ceiling\" swing set is finally complete! Commander, are you jealous? Want to give it a try? Too~ bad~! This seat is reserved only for the noble and elegant Yukikaze!"
+      ],
+      "acquisition": [
+        "终于完成了！“随时随地都能荡的秋千”！怎么样，指挥官，是不是很羡慕，想不想要坐一坐？很遗憾，这是高贵的雪风大人专用的！",
+        "あーはっはっは！「天井さえあればどこでも使えるブランコ」がついに完成したのだ！指揮官、羨ましいのか？座りたいのか？でもざーんねーん！これは高貴なる雪風様専用なのだ♪",
+        "Wa ha ha! My \"universal-as-long-as-there-is-a-ceiling\" swing set is finally complete! Commander, are you jealous? Want to give it a try? Too~ bad~! This seat is reserved only for the noble and elegant Yukikaze!"
+      ],
+      "login": [
+        "指挥官，回来的正好，来帮我荡秋千",
+        "指揮官、よく戻ったのだ！さあ！この雪風様をブランコに乗せるのだ！",
+        "Commander, good timing! I shall allow you to help push my swing!"
+      ],
+      "details": [
+        "虽然这套洋装很合身，但是荡秋千的时候总觉得有点碍事，唔唔……难以抉择！",
+        "この洋服はこの雪風様に似合っているのだけど、ブランコに乗るとなんか邪魔……ええい、どうすればいいのだ！",
+        "Even though this dress perfectly suits Yukikaze the Great, it makes it hard to play on the swings... Urgh... what should I do?!"
+      ],
+      "secretaryIdle1": [
+        "啊，我能感觉到指挥官在看着我，但是秋千是只属于本雪风大人的，我是个多么罪孽深重的女人啊，HO,HO,HO！",
+        "指揮官、こっちを見てる……しかーし！このブランコは雪風様専用なのだ！遊ばせてあげないのだ♪はーはっはっは！雪風様はなんて罪な子なのだ！",
+        "Ahh, I can feel Commander's longing gazes... but alas! This swing set is for Yukikaze the Great, and no one else! Wa ha ha! Am I not downright evil?"
+      ],
+      "secretaryIdle2": [
+        "洋装？哼哼，虽然早就听腻了，不过特别允许你赞扬雪风大人的美貌！",
+        "お洋服が可愛いのか？ふん！褒め言葉は聞き飽きたのだ！…けど、特別に褒めることを許してあげるのだ！",
+        "My gothic dress? Heheh~ You might think I've gotten tired of hearing it, but... I shall allow you to praise the beauty of Yukikaze the Great! Haha!"
+      ],
+      "secretaryIdle3": [
+        "秋千荡多了会变笨，要用工作来缓解？！真的吗！……唔，没、没办法",
+        "お仕事をしないでブランコ遊びばかりすると馬鹿になる…？本当なのか！……ぐぬぬ……しょ、しょうがないのだ！",
+        "Swinging around too much shakes around your brain and makes you stupid...? And the only way to fix it is to stay in one spot and work? Really?! Um, I suppose... it can't be helped then..."
+      ],
+      "secretaryTouch": [
+        "对，就是这样，指挥官，再用力一点也没关系！哇~飞起来啦！",
+        "そうそう、そうなのだ！指揮官、もっと力を入れるのだ！はははは！飛んでいるのだー！",
+        "Yes, yes! That's right, Commander, put your back into it! Wa ha haaaahh!! I'm flyingggg~!"
+      ],
+      "secretarySpecialTouch": [
+        "哇啊啊啊！吓死我了，差点摔下来……指挥官，受死吧！",
+        "ふにゃああ！び、びっくりした！！……うぐぐぐ…指揮官はもう死んじゃえ！",
+        "Funyaaaagh! Th-that scared me half to death!! Dumb Commander, go die already!"
+      ],
+      "startingMission": [
+        "你以为这是秋千，其实是鱼雷哒！",
+        "ただのブランコだと思ったのか？本当は魚雷発射管なのだ！",
+        "You thought this was just a regular swing set, but behold! Torpedo tubes!"
+      ],
+      "mvp": [
+        "以为雪风大人只想要享乐就大错特错啦！",
+        "雪風様が遊んでいるだけだと思ったら大間違いなのだ！",
+        "If you think Yukikaze the Great is simply here for fun and games, you'd be dead wrong!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yukikaze_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yukikaze_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Yukikaze_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Yukikaze_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Yukikaze_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Yukikaze_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Yukikaze_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Yukikaze_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Yukikaze_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Yukikaze_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Yukikaze_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Yukikaze_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Yukikaze_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Yukikaze_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Yukikaze_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9f/Yukikaze_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Yukikaze_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9f/Yukikaze_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Yukikaze_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Yukikaze_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Yukikaze_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Yukikaze_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Yukikaze_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Yukikaze_Sec2Skin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Yukikaze_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Yukikaze_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Yukikaze_MissionStartSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Yukikaze_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Yukikaze_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Yukikaze_MVPSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Winter's Snowy Wind",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "冬之雪风",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "冬のユキカゼ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 1200",
+      "l2dModel": true,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/51/YukikazeSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b3/YukikazeSpringChibi.png",
+      "shipDescription": [
+        "HOHOHO，是不是被雪风大人这美丽端庄的姿态折服了？好了，东煌那边似乎在放鞭炮呢，我们一起去凑凑热闹吧！来，握住我的手！",
+        "はっはっはー！雪風様の麗しい姿に見惚れたのか？むっ、あっちで東煌の子たちが爆竹を鳴らしているのだな…一緒に様子見に行くのだ！ほら、雪風様の手をしっかり握るのだ！",
+        "Wa ha ha~! Did your heart skip a beat from seeing the charming Yukikaze? Hmph... Well, looks like the Dragon Empery girls are setting off firecrackers... let's go join them! Here, make sure to hold on to my hand!"
+      ],
+      "acquisition": [
+        "HOHOHO，是不是被雪风大人这美丽端庄的姿态折服了？好了，东煌那边似乎在放鞭炮呢，我们一起去凑凑热闹吧！来，握住我的手！",
+        null,
+        null
+      ],
+      "login": [
+        "哼哼，有幸运的雪风大人在，指挥官当然整年都会一帆风顺了！",
+        null,
+        null
+      ],
+      "details": [
+        "Zzz……哈啊！不小心睡着了…和马拉尼那家伙准备了一晚上吃的……为什么普通的料理会被她做的那么复杂啊！？",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "外面好像下雪了！？一起出去玩雪…咳咳、要一起去看看雪吗，指挥官？",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "长春给了我这个，说是特制的鞭炮，很好玩的，嘿嘿，要不要在这里放一个试试啊！欸？不行吗……",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "新年好！博学的雪风大人知道，东煌是这个时期才算过新年的！",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "嗯？难道是要给我压岁钱吗！？",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "成，成熟的雪风大人早就习，习惯这些了！唔，唔……",
+        null,
+        null
+      ],
+      "task": [
+        "唔…还是把该做的事情做完再来享受节日氛围吧…",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

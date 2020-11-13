@@ -1,0 +1,806 @@
+{
+  "name": "Hatsuharu",
+  "constructionTime": "00:25:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Hatsuharu",
+  "ID": "171",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "ALLENES",
+  "pixiv": "https://www.pixiv.net/member.php?id=8217405",
+  "twitter": "https://twitter.com/CN_ALLENES",
+  "link": "https://weibo.com/u/3818062182",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/b/bb/Hatsuharu_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1773,
+      196,
+      45,
+      59,
+      478,
+      192,
+      43,
+      145,
+      0,
+      8,
+      180,
+      189,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1938,
+      196,
+      45,
+      59,
+      518,
+      212,
+      46,
+      175,
+      0,
+      8,
+      180,
+      189,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1642,
+      171,
+      45,
+      51,
+      475,
+      206,
+      46,
+      156,
+      0,
+      8,
+      171,
+      169,
+      0,
+      0
+    ],
+    "Level 100": [
+      1477,
+      171,
+      45,
+      51,
+      435,
+      186,
+      43,
+      126,
+      0,
+      8,
+      171,
+      169,
+      0,
+      0
+    ],
+    "Base Stats": [
+      286,
+      72,
+      45,
+      11,
+      92,
+      71,
+      43,
+      27,
+      0,
+      2,
+      66,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 80%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    4,
+    30,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Double Torpedo; CN: 鱼雷连射 JP: 次発装填",
+  "skill1Description": "When this ship fires its Torpedoes: 15.0% (30.0%) chance to launch a second wave of Torpedoes.",
+  "skill2Name": "(Retrofit) Torpedo Command: Destroyers; CN: 雷击指挥·驱逐舰 JP: 雷撃指揮・駆逐艦",
+  "skill2Description": "Increases the TRP of all DDs in your fleet by 5% (15%). Does not stack with the same skill.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-初春型",
+  "skill3Description": "Activates All Out Assault Ⅱ: Hatsuharu Class once every 10 times the Main Guns are fired.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f3/Hatsuharu.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2c/HatsuharuChibi.png",
+      "shipDescription": [
+        "初春级驱逐舰一番舰—初春",
+        "初春型駆逐艦一番艦・初春",
+        "Hatsuharu-class destroyer number one – Hatsuharu."
+      ],
+      "selfIntroduction": [
+        "我是初春级一号舰的初春……隶属于第二十一驱逐队，一直和妹妹们在北方海域活动……虽然没有什么战功，也努力过了……",
+        "は、初春級の、一番艦の、は、初春です……に、二十一駆逐隊の、妹たちと、ほ、北方海域で……戦果はなかったけど、が、がががんばりました……",
+        "I-I'm Hatsuharu, first ship of t-the Hatsuharu-class... I-I served in the north, together with my s-sisters from Destroyer Division 21... I didn't achieve much, b-b-but I tried my best..."
+      ],
+      "acquisition": [
+        "您好，我是初春……那个，请不要一直盯着我……",
+        "はは、初めまして、わ、私ははつは……あ、あの…あ、あまり見ないでください…！",
+        "I-i-it's nice to meet you, I-I'm Hatsuha... U-um... P-please don't stare at me so much...!"
+      ],
+      "login": [
+        "呜呜……秘书什么的我不行的啦……",
+        "うぅ……秘書艦なんてむりぃ……",
+        "*Cries*... I can't possibly be a secretary..."
+      ],
+      "details": [
+        "指挥官，虽、虽然关心我是很感激……",
+        "し、指揮官、その…し、心配してくれるのはう、嬉しい、けど…",
+        "C-Commander, um... I-I'm glad you're c-checking in on me, but..."
+      ],
+      "secretaryIdle1": [
+        "真想念妹妹们……",
+        "妹たちが恋しい……",
+        "I miss my sisters so much..."
+      ],
+      "secretaryIdle2": [
+        "指、指挥官，不要老是看我……",
+        "し、指揮官、あ、あまり見ないでください……",
+        "C-Commander... p-please don't stare at me so much..."
+      ],
+      "secretaryIdle3": [
+        "虽、虽然我很胆小，但是工作会努力的……大概",
+        "わ、わたし、お、臆病な性格だけど、が、がんばりますぅ！……たぶん……",
+        "I-I'm quite timid, b-but I'll work really hard! ... I hope..."
+      ],
+      "secretaryTouch": [
+        "我也要努力和指挥官交流才行……呀！！",
+        "指揮官とはもっと話さなくちゃ……きゃっ！？",
+        "I need to talk with you more oft... Eek?!"
+      ],
+      "secretarySpecialTouch": [
+        "呜……（初春晕了过去）",
+        "…！！（初春は気を失ったようだ）",
+        "...!! (It seems Hatsuharu has fainted.)"
+      ],
+      "task": [
+        "指、指挥官，拖延任务是、是不对的！",
+        "し、指揮官！そ、その…任務をほったらかしてはだ、だめですよ！",
+        "C-Commander! Um, well... you shouldn't ignore your m-missions!"
+      ],
+      "taskComplete": [
+        "指挥官，奖励下达了哦……欸？我、我不要的啦",
+        "し、指揮官、ぼーな……え！？わ、わたしはいいです！！",
+        "C-Commander, our rewards ha... Huh?! N-no, I don't need any!"
+      ],
+      "mail": [
+        "指挥官，邮件……",
+        "指揮官…め、メールです…",
+        "Commander... Y-you have mail..."
+      ],
+      "returnFromMission": [
+        "指、指挥官，您您您辛苦了！……说出来了！",
+        "しし、指揮官、お、おお、お疲れさまです…！い、言えました！！",
+        "C-C-Commander, g-g-great work...! I-I finally managed to say it!"
+      ],
+      "commission": [
+        "指挥官，姐妹们完成委托回来了……我去迎接？不不不我不行的啦！",
+        "指揮官、その、委託に出た皆が帰って……わ、私が出迎え？むむむむりです！！",
+        "Commander, um, the commission team is back... I-I should go greet them? N-n-n-no, there's no way!"
+      ],
+      "strengthening": [
+        "能帮上大家的忙就好了……",
+        "みんなの役に立っていれば…",
+        "I hope I can be of service to everyone..."
+      ],
+      "startingMission": [
+        "初、初春，会加油的！",
+        "は、初春、がんばります！",
+        "I-I'll give it all I've got!"
+      ],
+      "mvp": [
+        "赢了……吗？",
+        "勝った…の？",
+        "Did we... win?"
+      ],
+      "defeat": [
+        "呜呜果然我不适合战斗……",
+        "うぅ……私やっぱり戦闘には向いていないよ……",
+        "*Cries*... I really am not suited for combat..."
+      ],
+      "skillActivation": [
+        "大、大家，都让一让……",
+        "み、みなさん、どいてください……！",
+        "P-please get out of the way, everyone...!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指、指挥官，再靠近我就开、开炮了！",
+        "し、指揮官、こ、これ以上近づくと、う、撃ちますよ！",
+        "C-Commander, i-if you get any closer then I'll s-shoot you!"
+      ],
+      "affinityStranger": [
+        "指、指挥官，你觉得胆小真的能改过来吗……",
+        "し、指揮官、私の人見知りって、な、治りますでしょうか……",
+        "C-Commander, do you think it's possible for me to get over my fear of s-strangers...?"
+      ],
+      "affinityFriendly": [
+        "指挥官，能、能和我一起练习对话吗……我也想和舰队的大家交朋友……",
+        "えっと、し、指揮官…わ、私と会話の練習を…お願いできますか…？わ、私…艦隊の皆と仲良くなりたいです…",
+        "Umm, C-Commander... C-can I ask you to be my... conversation practice partner...? I-I... want to make friends with everyone in the fleet..."
+      ],
+      "affinityLike": [
+        "呜呜呜……果然还是不行……我只要能和指挥官交流就好了……",
+        "うぅぅ……やっぱりむ、むりぃ！……も、もし、指揮官とだけ話せれば…",
+        "*Sob*... I can't, I-I can't do it! ... B-but maybe I can hold a conversation with you, Commander..."
+      ],
+      "affinityLove": [
+        "指挥官，指挥官！刚、刚才我和其他姐妹们正常对话了！太好了……多亏指挥官一直给我勇气……",
+        "し、指揮官！さ、さっきほかの子と普通に話せました！！よかったぁ……し、指揮官のおかげです…",
+        "C-Commander! I-I just managed to have a normal conversation with someone else! I'm so relieved... I-it's all thanks to you, Commander..."
+      ],
+      "pledge": [
+        "虽然想要变得勇敢可能还要花很长时间，但是现在我不会担心了……因为指挥官会一直在我身边……",
+        "お、臆病な性格を克服するには時間がかかりますけど、今はもう心配していません……だって指揮官が、ずっと側にいてくれますから……",
+        "O-overcoming my timid nature is going to take a lot of time, but I'm not anxious anymore... Because I know you'll always be with me, Commander..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with ) 跟、跟紧姐姐",
+        "(Sortie with ) ね、姉さんに付いてきて！",
+        "(Sortie with ) F-follow me!"
+      ],
+      "giftDescriptionValentines2019": [
+        "呼……哈……“指挥官，情人节快乐！请收下初春的巧克力!!”……太好了！顺利地说出来了……",
+        "ふぅ…はぁ……「指揮官、ハッピーバレンタインです！初春のチョコレートを受け取ってくださいっ！！」……やった！上手く言えたぁ…！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "\"Commander! Here's your Valentine's chocolate! I-i-i-i-if y-y-y- you want... I c-c-c-could f-f-feed it to you...?\" Aaahmmm... I'm not done practicing, I think I'll keep practicing until next year..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatsuharu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatsuharu_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatsuharu_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Hatsuharu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Hatsuharu_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Hatsuharu_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hatsuharu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hatsuharu_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hatsuharu_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Hatsuharu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Hatsuharu_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Hatsuharu_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ea/Hatsuharu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Hatsuharu_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ea/Hatsuharu_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Hatsuharu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Hatsuharu_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Hatsuharu_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Hatsuharu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Hatsuharu_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Hatsuharu_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Hatsuharu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Hatsuharu_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Hatsuharu_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Hatsuharu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Hatsuharu_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Hatsuharu_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hatsuharu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hatsuharu_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hatsuharu_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hatsuharu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hatsuharu_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hatsuharu_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hatsuharu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hatsuharu_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hatsuharu_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Hatsuharu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Hatsuharu_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Hatsuharu_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Hatsuharu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Hatsuharu_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Hatsuharu_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Hatsuharu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Hatsuharu_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Hatsuharu_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Hatsuharu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Hatsuharu_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Hatsuharu_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hatsuharu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hatsuharu_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hatsuharu_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Hatsuharu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Hatsuharu_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Hatsuharu_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hatsuharu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hatsuharu_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hatsuharu_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hatsuharu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hatsuharu_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hatsuharu_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hatsuharu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hatsuharu_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hatsuharu_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Hatsuharu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Hatsuharu_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Hatsuharu_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Hatsuharu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Hatsuharu_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Hatsuharu_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatsuharu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatsuharu_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatsuharu_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Hatsuharu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Hatsuharu_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Hatsuharu_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Hatsuharu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Hatsuharu_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Hatsuharu_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7c/HatsuharuKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/82/HatsuharuKaiChibi.png",
+      "shipDescription": [
+        null,
+        "初春、改造完了しました…こ、これでもうちょっと気を強く持てるといいけど……",
+        "Hatsuharu, retrofit complete... H-hopefully I'm a little bit stronger now..."
+      ],
+      "acquisition": [
+        "初春、改造完毕…这、这样是不是能变得更坚强一些了呢…",
+        "初春、改造完了しました…こ、これでもうちょっと気を強く持てるといいけど……",
+        "Hatsuharu, retrofit complete... H-hopefully I'm a little bit stronger now..."
+      ],
+      "login": [
+        "秘书舰的工作什么的…现在的初春没问题的！大概…",
+        "秘書艦のお仕事とか、今の初春ならきっと大丈夫！……だ、大丈夫です…たぶん……",
+        "I've grown now and should be able to handle secretary work! I-I'll be just fine... I think..."
+      ],
+      "secretaryIdle1": [
+        "现在的我…能成为妹妹们的榜样了吗…？",
+        "今の初春なら、妹たちの手本には……ええと、なりませんよね…",
+        "Now that I've grown, I need to act as a role model for my sisters... Um, never mind, that's impossible..."
+      ],
+      "secretaryIdle2": [
+        "虽、虽然是说要变得更加坚强，但被指挥官这么看着果然还是…不行呜呜…",
+        "ゆ、勇敢になれたとは思いましたけど、指揮官に見られるとやっぱり私…むりぃ……",
+        "I-I thought I'd gained some courage, but when you stare at me like that, I... I lose it all..."
+      ],
+      "secretaryIdle3": [
+        "无论是出击还是委托，只要是工作，初春都会努力加油的…！",
+        "出撃でも委託でも、お仕事でしたら初春、が、頑張りますっ！",
+        "Entrust me with sorties, commissions, or work! I-I'll tackle them as best I can!"
+      ],
+      "secretaryTouch": [
+        "现在的初春，应该可以和指挥官，还有大家……",
+        "い、今の初春なら、指揮官も皆も……",
+        "A-after my retrofit, I should now be someone you and my friends can depend on..."
+      ],
+      "secretarySpecialTouch": [
+        "呀！？这、这种事情…是不可以的！！",
+        "ひゃぅ！？そ、そんなの……ダメ……！",
+        "Eek! Pl-please...! Don't do that...!"
+      ],
+      "returnFromMission": [
+        "虽、虽说是趁着改造改变一下形象…不过这一身果然还是有点……呜呜",
+        "改造では違う恰好になるとは聞きましたけど、こ、この格好はやっぱり……あぅ……",
+        "I was told you'd get a new outfit when you retrofit, b-but this a little too... Ughh..."
+      ]
+    },
+    {
+      "ENClientName": "Snow Day Hatsuharu",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "初春之雪",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "雪の初春",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/ef/HatsuharuSnow.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8a/HatsuharuSnowChibi.png",
+      "shipDescription": [
+        "大家都聚在一起玩……我，我的话要不还是算了……我，我也要一起吗？呜呜，指挥官这么说的话，我，我也要努力才行……",
+        "みんなが一緒に遊んでいる…私、や、やっぱり……えっ、私も参加するの……あぅ…がが、がんばりますぅ……",
+        "Everyone's playing together...? I-I think I'll pass... Y-you want me to join them? Ugh, well, if you say so, then I-I-I'll try to socialize with them...!"
+      ],
+      "acquisition": [
+        "大家都聚在一起玩……我，我的话要不还是算了……我，我也要一起吗？呜呜，指挥官这么说的话，我，我也要努力才行……",
+        "皆が集まって……や、やっぱりいいです……わ、私も参加するのですか？うぅ、指揮官がそう言ってくれたら、が、がが、頑張らないと……！",
+        "Everyone's playing together...? I-I think I'll pass... Y-you want me to join them? Ugh, well, if you say so, then I-I-I'll try to socialize with them...!"
+      ],
+      "login": [
+        "那个……指挥官的目光已经适应了所以没关系的！但，但是，一直被盯着的话，还是会……",
+        "あ、あの！……指揮官の目線ならも、もう慣れてるから大丈夫です！ですけど…じ、じっと見られたらやっぱり、私……",
+        "U-Um! ... I-I've already gotten u-used to Commander's gaze, so I'm okay! But... b-being stared at... I-I really can't..."
+      ],
+      "details": [
+        "这个是……雪做的小兔子，但是还没有完成……雪能够变成各种各样的样子，感觉很有趣……",
+        "これは…雪で作ったウサギさん…ま、まだできていません！……けどぉ…雪で色々作れて、お、面白い、ですぅ……",
+        "This is... a rabbit made of snow... I-It's still not done! ... But... making various things out of snow... i-is fun..."
+      ],
+      "secretaryIdle1": [
+        "眼睛，眉毛，鼻子……还差一点就完成了……",
+        "目と、眉毛と、お鼻……あと少しだけ……",
+        "Eyes, eyebrows, and a nose... Just a little bit more..."
+      ],
+      "secretaryIdle2": [
+        "若叶，我想港区的雪里应该是没有松果的……",
+        "わ、若葉ちゃん？み、港の雪には松の実はう、埋まってないよ……",
+        "W-Wakaba? T-The snow at home port isn't c-covered in pine nuts..."
+      ],
+      "secretaryIdle3": [
+        "雪仗？我，我这样子的根本不行的……呜呜……",
+        "ゆ、雪合戦！？わ、わわ、私なんて無理ですぅ！……あぅ……",
+        "S-Snowball fight?! It's im-impossible for me! ...Hau..."
+      ],
+      "secretaryTouch": [
+        "和指挥官一起，这次一定，一定要提起勇气和大家……",
+        "指揮官と一緒なら、今回こそ…今回こそ皆に……！",
+        "If it's with the Commander, this time... this time for sure... with everyone...!"
+      ],
+      "secretarySpecialTouch": [
+        "咿呀！这，这样子……呜呜……（初春又晕了过去）",
+        "ひゃう！？こ、こういうのは……あぅ……（初春は気を失ったようだ）",
+        "Wah?! Th-This is... unhh... (It looks like Hatsuharu fainted again)"
+      ],
+      "returnFromMission": [
+        "雪人……一个人的时候，不知不觉就完成了……",
+        "雪だるまさん……いつのまにかできちゃいました……",
+        "A snowman... Somehow, I was able to finish it..."
+      ],
+      "affinityLove": [
+        "和指挥官说话，感觉好温暖……冬天好像也不冷了……这样的话，我也一定能和大家正常对话的！",
+        "し、指揮官と一緒にいると、暖かくて、雪の寒気にもだ、大丈夫のようです……な、なんだか皆ともちゃんと話せるようになる気もします……",
+        "B-Being with the Commander, is so warm... it seems that it makes even the cold of the snow f-fine... I-I feel like I'll also be able to talk properly with everyone else..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Hatsuharu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Hatsuharu_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Hatsuharu_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hatsuharu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hatsuharu_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1b/Hatsuharu_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Hatsuharu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Hatsuharu_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Hatsuharu_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hatsuharu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hatsuharu_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Hatsuharu_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hatsuharu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hatsuharu_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hatsuharu_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Hatsuharu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Hatsuharu_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Hatsuharu_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Hatsuharu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Hatsuharu_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Hatsuharu_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Hatsuharu_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Hatsuharu_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Hatsuharu_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Hatsuharu_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Hatsuharu_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Hatsuharu_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Hatsuharu_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Hatsuharu_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Hatsuharu_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Evasion Enhancement Ⅰ",
+      "attributes": "Evasion +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Anti-Air Gun Efficiency +5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Torpedo Efficiency +5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "4x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / Health +75 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Evasion Enhancement Ⅱ",
+      "attributes": "Evasion +5 / Evasion +15 ",
+      "materials": "2 / 2x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air +15, Torpedo +30 ",
+      "materials": "1x DestroyerT3BP and 1x Hatsuharu or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

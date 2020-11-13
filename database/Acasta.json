@@ -1,0 +1,896 @@
+{
+  "name": "Acasta",
+  "constructionTime": "00:19:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "A and B",
+  "ID": "082",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "ALLENES",
+  "pixiv": "https://www.pixiv.net/member.php?id=8217405",
+  "twitter": "https://twitter.com/CN_ALLENES",
+  "link": "https://weibo.com/u/3818062182",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/0/04/Acasta_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1370,
+      193,
+      43,
+      68,
+      360,
+      209,
+      42,
+      154,
+      0,
+      8,
+      172,
+      173,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1535,
+      193,
+      43,
+      68,
+      400,
+      244,
+      45,
+      169,
+      0,
+      8,
+      172,
+      173,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1307,
+      168,
+      43,
+      59,
+      360,
+      238,
+      45,
+      149,
+      0,
+      8,
+      164,
+      155,
+      0,
+      0
+    ],
+    "Level 100": [
+      1142,
+      168,
+      43,
+      59,
+      320,
+      203,
+      42,
+      134,
+      0,
+      8,
+      164,
+      155,
+      0,
+      0
+    ],
+    "Base Stats": [
+      221,
+      71,
+      43,
+      13,
+      68,
+      78,
+      42,
+      29,
+      0,
+      2,
+      63,
+      42,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "105% → 115% → 115%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 145% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105% → 110%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Destroyer (DD) Anti-submarine warfare  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    4,
+    22,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Death Raid; CN: 决死突袭 JP: 捨て身の突貫",
+  "skill1Description": "If Acasta is the last ship alive in the Vanguard fleet: increase own damage dealt by 20% (50%) and increases own damage received by 8% (20%).",
+  "skill2Name": "Smokescreen; CN: 烟雾弹 JP: 煙幕散布",
+  "skill2Description": "After battle begins and 15% (30%) chance to activate every 15 seconds after that: deploy a smokescreen for 5 seconds. Vanguard ships within the smokescreen have 20% (40%) additional Evasion Rate. Does not stack with the same skill effect.",
+  "skill3Name": "(Retrofit) Flagship Cover; CN: 旗舰掩护 JP: 旗艦随伴",
+  "skill3Description": "Reduce the damage taken by the Flagship by 15% (25%).",
+  "skill4Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-A級",
+  "skill4Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - A-Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/13/Acasta.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/24/AcastaChibi.png",
+      "shipDescription": [
+        "A级驱逐舰—阿卡司塔，舷号H09",
+        "A級実験駆逐艦・アカスタ（H09)",
+        "A-class destroyer – Acasta, Hull Number H09."
+      ],
+      "selfIntroduction": [
+        "我是阿卡司塔……A型的一员。英勇的话，多少有些过誉了，我只是做了我应该做的事而已……虽然不是很强，不过指挥官有需要的话，我也会好好加油的",
+        "アカスタ……A型の一員。勇敢なんて、ちょっと褒め過ぎたかな。ただやるべきことをやっただけ……そんなに強くないけど、指揮官が必要というのなら、ちゃんと頑張るよ。",
+        "I'm Acasta... part of the A-class. Calling me \"brave\" would be flattery. I was just doing my job... I'm not all that strong, but I'll do my best if you need me to."
+      ],
+      "acquisition": [
+        "喔……阿卡司塔的说，你好",
+        "はい……アカスタっていうの。こんにちは",
+        "Right... I'm Acasta. Good day."
+      ],
+      "login": [
+        "Zzzz……啊，指挥官你回来了",
+        "Zzzz……あ、指揮官、おかえり",
+        "Zzzz... Ah, Commander. Welcome back"
+      ],
+      "details": [
+        "我的脸上有什么吗？",
+        "顔には何かがあるのかな？",
+        "Is there something on my face?"
+      ],
+      "secretaryIdle1": [
+        "我……不爱说话吗？——喔，其实是因为总是有点困",
+        "あ……あまりしゃべらない？ーーはぁ…いつも眠そうにしているせいかな…",
+        "Hmm? Not very talkative...? *Yawn*... I guess it's because I'm always so sleepy..."
+      ],
+      "secretaryIdle2": [
+        "欸？我睡着了么。天气不错所以……",
+        "ほぇ？…落ちたかな。いい天気だからつい……",
+        "Wha...? Guess I fell asleep. With weather this fine, I couldn't help it..."
+      ],
+      "secretaryIdle3": [
+        "指挥官变得和我一样不爱说话了，听起来很棒",
+        "指揮官も私と同じあまり喋らなくなった。いいね…",
+        "You don't talk much, just like me, Commander. How nice..."
+      ],
+      "secretaryTouch": [
+        "zzzZZ……唔……让我睡会儿……别摸……",
+        "zzzZZ……ぐぅ……少し寝るから……触らないで……",
+        "Zzzzz... Ugh... I'm trying to sleep... don't poke me like that..."
+      ],
+      "secretarySpecialTouch": [
+        "那个……被看到了你会被抓起来的哦",
+        "あの……見られたら捕まっちゃうよ？",
+        "Uhh... if anyone sees us, you'll get arrested."
+      ],
+      "task": [
+        "是不是需要查看一下任务记录？",
+        "ミッションログも確認したほうがいいかな？",
+        "Maybe you should take a look at the mission log?"
+      ],
+      "taskComplete": [
+        "喔，奖励送来了……",
+        "はぁ、ボーナスが届いたかな……",
+        "*Yawn*... Maybe the rewards are here now..."
+      ],
+      "mail": [
+        "有你的信……指挥官",
+        "メール……指揮官宛かな。",
+        "Got some mail... Wonder if it's for you."
+      ],
+      "returnFromMission": [
+        "欢迎回来，呼啊……（打哈欠），困了……",
+        "おかえり、はぁ……（あくび）、眠いかな……",
+        "Welcome back... *Yawn*... Guess I'm a little sleepy..."
+      ],
+      "commission": [
+        "Zzzzzz……嗯？指挥官，是委托完成的时间了",
+        "Zzzzzz……うん？指揮官、委託完了の時間かな？",
+        "Zzzzzz... Hmm? Commander, shouldn't that commission be done by now?"
+      ],
+      "strengthening": [
+        "变强了……期待我的努力吧",
+        "強くなった……努力を期待しててね。",
+        "I've gotten stronger... I'll work harder, so look forward to that."
+      ],
+      "startingMission": [
+        "各位……请保持冷静，抓准机会痛击敌人",
+        "みんな……落ち着いて、チャンスを掴んで敵を痛打してね。",
+        "Everyone... calm down. Seize the chance and hit the enemy where it hurts."
+      ],
+      "mvp": [
+        "赢了，面子上算是过得去吧",
+        "勝った。まあ顔だけは立てれたかな",
+        "We won. Well, at least I didn't make a fool of myself, I guess."
+      ],
+      "defeat": [
+        "这结果真是让人兴奋不起来啊……",
+        "この結果じゃいい気にはなれないかな……",
+        "I figure this outcome isn't something to celebrate..."
+      ],
+      "skillActivation": [
+        "稍微努力一下吧……",
+        "少し頑張ろうかな……",
+        "Guess I should put in a little more effort...?"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "能稍微安静点吗……",
+        "少し静かにしてよ……",
+        "Keep it down, will you..."
+      ],
+      "affinityStranger": [
+        "有点没干劲……睡一会儿好了……",
+        "やる気が出ない…寝ようかな……",
+        "I just can't be bothered... Maybe I should go to sleep..."
+      ],
+      "affinityFriendly": [
+        "我有一个可以睡觉的好地方呢……指挥官要一起来偷懒吗？",
+        "寝るにはちょうどいいとこを知ってるよ……指揮官も一緒にサボるってのはどうかな？",
+        "I know just the place to take a nap... You wanna come along and play hooky with me, Commander?"
+      ],
+      "affinityLike": [
+        "指挥官你……最好慎重考虑一下吧，和我在一起可能会有点无聊",
+        "指揮官……ちゃんと考えてね。私と一緒にいるとつまらないよ…？",
+        "Commander... give this some thought: isn't it boring, being with me...?"
+      ],
+      "affinityLove": [
+        "虽然不怎么说话……但是我们之间已经用不到语言交流了……对吧？",
+        "私あまりしゃべらないけど……でも私たち、もう言葉交わさなくても分かり合えるよね……そうよね？",
+        "I'm not all that talkative... but we don't even need words to understand each other... do we?"
+      ],
+      "pledge": [
+        "……………………抱歉，太高兴了不知道该说什么才好……我会好好保管的……",
+        "……………ごめん…嬉しすぎてもう何を話したらいいかわからない……大事にする……",
+        "... Sorry... I'm just so happy that I don't even know what to say... I'll take good care of this..."
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，给你巧克力。诶嘿嘿，果然从女孩子那里收到巧克力会让人高兴呢。我也很高兴啦♪",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "因为大家总说让我再提高一下女子力，所以我做了情人节的巧克力，送给指挥官……我变得像女孩子一些了吗？",
+        "よく女の子っぽくしたらいいって言われるから、バレンタインのチョコ作った。指揮官にあげる…。…私、女の子っぽくなれたかな？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I've brought Valentine's chocolate for you, Commander. Come closer and take it... Some friends of mine said I should whisper into your ear as I give you it, but I feel like they might've lied to me..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Acasta_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Acasta_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Acasta_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Acasta_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Acasta_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Acasta_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Acasta_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Acasta_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Acasta_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Acasta_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Acasta_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Acasta_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Acasta_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Acasta_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Acasta_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Acasta_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Acasta_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Acasta_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Acasta_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Acasta_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Acasta_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Acasta_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Acasta_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Acasta_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Acasta_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Acasta_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Acasta_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Acasta_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Acasta_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Acasta_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Acasta_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Acasta_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Acasta_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Acasta_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Acasta_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Acasta_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Acasta_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Acasta_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Acasta_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Acasta_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Acasta_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Acasta_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Acasta_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Acasta_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Acasta_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Acasta_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Acasta_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Acasta_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Acasta_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Acasta_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Acasta_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Acasta_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Acasta_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Acasta_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Acasta_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Acasta_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Acasta_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Acasta_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Acasta_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Acasta_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Acasta_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Acasta_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Acasta_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Acasta_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Acasta_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Acasta_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b5/Acasta_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Acasta_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b5/Acasta_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Acasta_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Acasta_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Acasta_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Acasta_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Acasta_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Acasta_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6a/AcastaKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/1e/AcastaKaiChibi.png",
+      "shipDescription": [
+        "热心老说我太懒散了，要更女孩子一点，于是趁着改造…指挥官，还认得我吗，我是阿卡司塔哦？",
+        "「いつも眠そうにしてるのはよくなーい」「もっと女のコっぽくしたほうがいーよ」ってアーデントに言われたから、改造ついでに…指揮官は私が誰かって分かるかな…ええと、アカスタだよ？",
+        "Meeeoooow! I haven't slept like that in forever! Hrm? Are you the one who woke me from my sleep? Woohoo, that makes you my owner! Because I've totally fallen for you, duh!"
+      ],
+      "acquisition": [
+        "热心老说我太懒散了，要更女孩子一点，于是趁着改造…指挥官，还认得我吗，我是阿卡司塔哦？",
+        "「いつも眠そうにしてるのはよくなーい」「もっと女のコっぽくしたほうがいーよ」ってアーデントに言われたから、改造ついでに…指揮官は私が誰かって分かるかな…ええと、アカスタだよ？",
+        "Ardent told me I \"gotta stop looking so tired\" and I \"gotta be more girly,\" so I did it while I was retrofitting... Do you recognise me, Commander? ... Umm, I'm Acasta, okay?"
+      ],
+      "login": [
+        "感觉改造后干劲没有一点提升呢……",
+        "改造してもやる気でないよね…",
+        "I just can't be bothered even after retrofitting..."
+      ],
+      "details": [
+        "虽然样子改变了，不过指挥官对我还是和以前一样，太好了……",
+        "見た目は変わっても、指揮官は相変わらず優しくしてくれてる…よかった……",
+        "I'm dressing differently, but you're still just as nice to me... Thank goodness..."
+      ],
+      "secretaryIdle1": [
+        "唔，用炮挡住，这样指挥官就不会看到我悄悄打哈欠了吧……",
+        "ふは……主砲で隠したから…今のあくび、見られていない、かな…",
+        "*Yawn*... Nobody'll see me yawning... if I cover it up with my turret... I think..."
+      ],
+      "secretaryIdle2": [
+        "……哈！好、好险，差点睡过去了，指挥官没有发现吧……",
+        "……！あ、危ない、寝落ちするところだった…指揮官にはバレてないかな……",
+        "Zzz... Oh, shoot! I almost fell asleep... I hope the Commander didn't notice..."
+      ],
+      "secretaryIdle3": [
+        "指挥官希望我有女子力一些，还是像现在这样就好呢？",
+        "指揮官、アカスタはもっと女のコっぽくなったほうがいいのかな……それとも今のままでいいのかな…？",
+        "Commander, do you wish I'd be even girlier than this...? Or am I fine the way I am now...?"
+      ],
+      "secretaryTouch": [
+        "都怪热心说什么女孩子太懒散是会被喜欢的人讨厌的……欸，指挥官！？唔……刚才的，你没听到吧？",
+        "気だるくしすぎると好きな人に嫌われちゃうって、アーデントが……あれ、指揮官！？うぅ……今のは聞こえてなかったかな…",
+        "Ardent warned me about my sweetheart growing to dislike me if I'm too passive... Huh?! Commander? Jeez... I hope you didn't hear that..."
+      ],
+      "returnFromMission": [
+        "指挥官辛苦了，要小睡一会儿吗？",
+        "指揮官お疲れ様、少し寝てみようかな？",
+        "Nice work, Commander. Now, how about getting some sleep?"
+      ],
+      "commission": [
+        "委托完成了吗……唔，指挥官，一起……去一趟港口吧？",
+        "委託が完了したのかな……えっと、指揮官、一緒に…一緒に港にいこ？",
+        "Wonder if that commission's done yet... Um, Commander, let's... let's head to the harbour together."
+      ],
+      "mvp": [
+        "这样的胜利指挥官还满意吗？",
+        "これで指揮官は満足かな……",
+        "Hope this'll be enough to satisfy the Commander..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Acasta_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Acasta_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Acasta_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Acasta_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Acasta_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Acasta_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Acasta_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Acasta_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Acasta_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Acasta_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Acasta_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Acasta_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Acasta_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Acasta_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Acasta_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Acasta_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Acasta_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Acasta_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Acasta_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Acasta_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Acasta_Sec1Skin9JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Acasta_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Acasta_MissionFinSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Acasta_MissionFinSkin9JP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Acasta_CommissionSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Acasta_CommissionSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Acasta_CommissionSkin9JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Acasta_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Acasta_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Acasta_MVPSkin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Fashionable Outing",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "外出模式",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "お出かけスタイル",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7b/AcastaSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b2/AcastaSchoolChibi.png",
+      "shipDescription": [
+        "啊，指挥官也出门吗？…不要用那种眼光看我嘛，我多少也是会出门的…顺路的话…要一起吗？",
+        "うん？指揮官もお出かけなのかな。…そんな目で見ないで…私だってお出かけぐらい…ええと、目的地…途中まででも一緒に歩こう…かな？",
+        "Hm? Guess we're both about to head out... Don't stare at me like that... Even I go outdoors sometimes... Since we're both, uh, headed the same way... maybe we could... walk there together?"
+      ],
+      "acquisition": [
+        "啊，指挥官也出门吗？…不要用那种眼光看我嘛，我多少也是会出门的…顺路的话…要一起吗？",
+        "うん？指揮官もお出かけなのかな。…そんな目で見ないで…私だってお出かけぐらい…ええと、目的地…途中まででも一緒に歩こう…かな？",
+        "Hm? Guess we're both about to head out... Don't stare at me like that... Even I go outdoors sometimes... Since we're both, uh, headed the same way... maybe we could... walk there together?"
+      ],
+      "details": [
+        "就算是我…也是会有所谓的“外出模式”的啦…虽然这样其实挺累的就是了…",
+        "私だってこういう「お出かけスタイル」は……疲れるけど、ね……",
+        "Even I go on these \"fashionable outings\"... They do wear me out, though..."
+      ],
+      "secretaryIdle1": [
+        "为了防止突然要出击的状况，我也随身带了武装哦",
+        "緊急の出撃に備えて、基本的な兵装はいつも持っているかな",
+        "I always bring some weapons with me, in case I'm needed for a sudden sortie, I guess."
+      ],
+      "secretaryIdle2": [
+        "最近常被大家说“阿卡司塔，你打扮起来真好看耶”，心情稍微有点微妙……",
+        "「アカスタ、やっぱりオシャレすると可愛いよね」って最近良く言われる……うぅ、ちょっと微妙かな……",
+        "Recently, I've gotten a lot of compliments like \"see, a little fashion could make you cute after all\"... *Sigh*, it feels kinda odd, I guess..."
+      ],
+      "secretaryIdle3": [
+        "指挥官，暂时不忙的话我睡会儿哦？",
+        "指揮官が忙しくないなら私、ちょっと寝ようかな…？",
+        "Commander, think I could take a nap if you're busy with that stuff...?"
+      ],
+      "secretaryTouch": [
+        "嗯…是不是换回原来的衣服比较好呢…",
+        "うぅ……元の服に戻したほうがいいかな…",
+        "*Sigh*... Maybe I should swap back to my old clothes..."
+      ],
+      "secretarySpecialTouch": [
+        "那个…乱碰的话会走火哦…",
+        "あの……不用意に触ったら爆発しちゃうよ？",
+        "Uhh... something might blow up if you poke me so casually."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Acasta_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Acasta_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Acasta_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Acasta_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Acasta_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Acasta_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Acasta_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Acasta_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Acasta_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Acasta_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Acasta_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Acasta_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Acasta_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Acasta_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Acasta_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Acasta_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Acasta_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Acasta_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Acasta_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Acasta_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Acasta_Sec2Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Lights of the Lantern Festival",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "元宵灯会",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "元宵の灯籠祭",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/68/AcastaSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/27/AcastaSpringChibi.png",
+      "shipDescription": [
+        "唔…听说东煌的”元宵节“就是要像这样挂满灯笼…在热心的怂恿下试着弄了下…怎么样，好看吗？…当然是说灯笼了…",
+        "「元宵節（げんしょうせつ）」は灯籠を飾る、みたい…アーデントと一緒にやってみた。どうかな？かわいいかな？…こ、この灯籠のことだよ…？",
+        "I heard you're supposed to hang lanterns up everywhere during the Spring Festival... so Ardent and I gave it a try! What do you think? Pretty cute, right? Um... I was talking about the lanterns..."
+      ],
+      "acquisition": [
+        "唔…听说东煌的“元宵节”就是要像这样挂满灯笼…在热心的怂恿下试着弄了下…怎么样，好看吗？…当然是说灯笼了…",
+        "「元宵節（げんしょうせつ）」は灯籠を飾る、みたい…アーデントと一緒にやってみた。どうかな？かわいいかな？…こ、この灯籠のことだよ…？",
+        "I heard you're supposed to hang lanterns up everywhere during the Spring Festival... so Ardent and I gave it a try! What do you think? Pretty cute, right? Um... I was talking about the lanterns..."
+      ],
+      "login": [
+        "唔？难得的节日，不就应该趁机偷懒…不，放松一下才对吗？",
+        "おやすみの日だし、さぼ…じゃなくて、休んだ方がいいと思わないかな…",
+        null
+      ],
+      "details": [
+        "装饰这些灯姑且还是花费了不少精力呢…要好好欣赏哦？",
+        "これを飾るの、結構大変だった…ちゃんと見てほしい、かな…？",
+        "It was no easy feat hanging up all these lanterns... Make sure to take it all in, okay...?"
+      ],
+      "secretaryIdle1": [
+        "这些灯下面挂的红色便签…是叫灯谜来着…东煌还真是总有些挺有意思的活动的呢…",
+        "この赤い便箋？は…クイズ、かな。東煌って面白い行事が結構あるのかな…",
+        "These red strips hanging from the lanterns? ...They're probably riddles of some sort? The Dragon Empery sure knows how to put on some interesting events..."
+      ],
+      "secretaryIdle2": [
+        "Zzzz…哈啊…！不小心睡着了…毕竟天色也不早了呢",
+        "Zzzz…しまった、寝かけてた…はぁあ…もうこんな時間だからかな…",
+        "Zzzz... Shoot, I dozed off... *sigh*... It's already this late..."
+      ],
+      "secretaryIdle3": [
+        "穿成这样，是不是稍微更女孩子一点了呢…？",
+        "この格好だとちょっとは女の子っぽく見える…かな…？",
+        "I wonder if this outfit... brings out my girlish side..."
+      ],
+      "secretaryTouch": [
+        "指挥官，这种时候不用说话，静静欣赏这些灯笼就好……我才不会睡着啦…大概",
+        "指揮官、こういう時は何も言わずに、静かに景色を眺めたほうがいいよ。……寝ないよ…多分",
+        "Commander, just hush and enjoy the lanterns. I'm totally... not dozing off..."
+      ],
+      "returnFromMission": [
+        "灯光还挺柔和的…嗯，似乎很催眠呢Zzzz…",
+        "優しい光…眠くなりそう…かな……",
+        "What a gentle glow... I think I'm... getting sleepy..."
+      ],
+      "affinityLove": [
+        "也就只有对指挥官，我才能鼓起干劲做这些装饰灯笼之类的麻烦事情了吧…唔？很好看？那就好…下次的节日，就换指挥官装饰给我看吧…",
+        "私、指揮官のためだけで、ここまで頑張れるのかな？……きれいだし、よくやったって…？う、うん…良かった……でも次は、指揮官にやってもらおう…かな…",
+        "I've only been able to work so hard because of you, Commander... Everything's so pretty, so you'd say it's a job well done, right...? Th-thanks... But next year, I'm going to make you do the hard work... probably..."
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Evasion Enhancement Ⅰ",
+      "attributes": "Evasion +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "4x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / Health +75 ",
+      "materials": "1 / 2x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Flagship Cover\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G",
+        "J"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Evasion Enhancement Ⅱ",
+      "attributes": "Evasion +5 / Evasion +10 ",
+      "materials": "2 / 2x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Torpedo +30, Evasion +15 ",
+      "materials": "1x DestroyerT3BP and 1x Acasta or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "name": "Z1",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Type 1934",
+  "ID": "233",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "Saru(猴妈)",
+  "pixiv": "https://www.pixiv.net/member.php?id=1422579",
+  "twitter": "https://twitter.com/saru_1127",
+  "link": "https://weibo.com/p/1005051054234800",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/a/a4/Z1_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2053,
+      207,
+      40,
+      65,
+      450,
+      148,
+      41,
+      154,
+      0,
+      9,
+      173,
+      197,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      2218,
+      207,
+      40,
+      85,
+      490,
+      153,
+      41,
+      229,
+      0,
+      9,
+      173,
+      207,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1890,
+      180,
+      40,
+      77,
+      447,
+      148,
+      41,
+      209,
+      0,
+      9,
+      165,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      1725,
+      180,
+      40,
+      57,
+      407,
+      143,
+      41,
+      134,
+      0,
+      9,
+      165,
+      177,
+      0,
+      0
+    ],
+    "Base Stats": [
+      334,
+      76,
+      40,
+      12,
+      86,
+      55,
+      41,
+      29,
+      0,
+      2,
+      63,
+      48,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "120% → 125% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 140% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75% → 85%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 22,
+  "level120StatBonus": "Destroyer (DD) Firepower  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    4,
+    29,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Special Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Z Vanguard; CN: Z系先驱 JP: Zの系譜",
+  "skill1Description": "During combat, increases Firepower and Evasion of by 20% (40%).",
+  "skill2Name": "(Retrofit) Destruction Mode - Prototype; CN: 毁灭模式·原型 JP: 重装形態・プロトタイプ",
+  "skill2Description": "Every 20 seconds, 50% (80%) chance to release a powerful barrage, while increasing own critical damage dealt by 30% (50%) and reducing aviation damage taken by the Escort Fleet by 10% (30%) for 10 seconds.",
+  "skill3Name": "All Out Assault; CN: 专属弹幕-Z1 JP: 特殊弾幕-Z1",
+  "skill3Description": "Every 15 (10) shots from the main guns triggers Full Barrage - Z1 I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a3/Z1.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png",
+      "shipDescription": [
+        "1934型驱逐舰—Z1 莱伯勒希特·马斯",
+        "1934型駆逐艦・Z1レーベレヒト・マース",
+        "Type 1934-class destroyer, Z1 Leberecht Maass."
+      ],
+      "selfIntroduction": [
+        "和其他那些所谓姐姐不一样，我Z1可是整个第三帝国驱逐的大姐头，背负的东西就已经差了十万八千里。 所以指挥官有了我就放一百个心吧，Z1大人可是无敌的",
+        "ほかの姉と呼ばれるやつらと違って、俺・Z1様は第三帝国すべての駆逐艦の姉貴分なのだ。背負っているものは違うぜ。だから指揮官はもう心配しなくていい、だってこの無敵のZ1様が加わっているからな",
+        "I’m not like the other so-called \"big sisters.\" I am Z1, the eldest of all Iron Blood destroyers, and bear countless resposibilities upon my shoulders. Rest assured, Commander, because the invincible Z1 is at your side."
+      ],
+      "acquisition": [
+        "指挥官吗，为这一刻欢呼吧，接下来万事只要交给我Z1大人就没问题了！",
+        "指揮官よ、今こそ喝采を！これからはこのZ1様に任せれば問題ないのだ！",
+        "Rejoice, Commander! Allow me, Z1, to handle all your problems from now on!"
+      ],
+      "login": [
+        "走，让我们来大闹一场吧！",
+        "よし、ドンパチやろうぜ！",
+        "Come, let us brawl!"
+      ],
+      "details": [
+        "又快又强，这就是我Z1大人！",
+        "速くて強い！それがこの俺、Z1様だ！",
+        "Fast and strong, that's me!"
+      ],
+      "secretaryIdle1": [
+        "来比比谁处理公文的速度快吗~",
+        "書類の作業速度を比べてみるか！",
+        "Let's see who can do this paperwork faster~!"
+      ],
+      "secretaryIdle2": [
+        "我的全名是莱伯勒希特·马斯，不过叫Z1也没什么",
+        "全称はレーベレヒト・マースだけど、Z1でもいいぜ",
+        "My full name is Leberecht Maass, but you can call me Z1."
+      ],
+      "secretaryIdle3": [
+        "加油啊指挥官，我会一直在你身边的",
+        "頑張れよ指揮官、この俺がずっとそばにいるからな",
+        "Do your best, Commander. I'll always be by your side~!"
+      ],
+      "secretaryTouch": [
+        "打招呼的话，这么软弱可不行！",
+        "アイサツならこんな軟弱なやり方じゃだめだぞ！",
+        "Don’t be so wishy-washy if you’re greeting someone."
+      ],
+      "secretarySpecialTouch": [
+        "想让我好好“疼爱”你一下吗？",
+        "「可愛がって」もらいたいのか？",
+        "You want some \"hard love,\" is that it?"
+      ],
+      "task": [
+        "新的任务，一起去挑战一下吗？",
+        "新しいミッションだ。挑んでみだらどうだ？",
+        "We have a new mission. How about we take it on together?"
+      ],
+      "taskComplete": [
+        "我们的组合是无敌的！来看看任务奖励吧",
+        "俺らのコンビネーションは無敵だ！ミッションボーナスを見てみようぜ",
+        "Our teamwork is unbeatable! Let’s go check out those mission rewards."
+      ],
+      "mail": [
+        "嘿，新邮件，接好了！",
+        "ふん、新しいメールだ、しっかり掴まえろよ！",
+        "Hey, you have new mail. Don’t drop it!"
+      ],
+      "returnFromMission": [
+        "表情不错啊，是场精彩的战斗吧",
+        "いい顔だ。さぞ素晴らしい戦いだったろ",
+        "Nice expression you've got there. Wasn't that battle simply exhilarating?"
+      ],
+      "commission": [
+        "有委托完成了。打起精神，要给长途跋涉的姐妹们最棒的笑脸才行",
+        "委託が完了した。まあしっかりせい。長旅の娘たちに最高の笑顔を見せないとな",
+        "A commission has been completed. Straighten up, you have to greet the hardworking girls with your best smile."
+      ],
+      "strengthening": [
+        "哈哈，这种感觉真不错！",
+        "ははは！この感じはいいぜ！",
+        "Hah, this feels pretty good!"
+      ],
+      "startingMission": [
+        "让我们乘风破浪！Feuer！",
+        "風に乗って波をかきわけるのだ！Feuer！",
+        "Ride the wind and break the waves! Feuer!"
+      ],
+      "mvp": [
+        "哈，哈，哈！Z1大人是无敌的！",
+        "はっはっは！Z1様は無敵だ！",
+        "Hah hah hah! The great Z1 is unrivaled!"
+      ],
+      "defeat": [
+        "干得不错，伙计们……",
+        "やってくれたな……！",
+        "Not bad, fellas..."
+      ],
+      "skillActivation": [
+        "跟我一起上！",
+        "俺に続けー！",
+        "Follow me to glory!"
+      ],
+      "lowHP": [
+        "你们在害怕什么！",
+        "何を怯えている！",
+        "What are you all afraid of?"
+      ],
+      "affinityDisappointed": [
+        "不行啊指挥官，你完全不开心啊",
+        "だめだなぁ指揮官、ちっとも楽しんでいない",
+        "How disappointing, Commander. You’re no fun at all."
+      ],
+      "affinityStranger": [
+        "怎么样，指挥官，和我一起度过的日子还算开心吗？我的话每天都很开心啊",
+        "どうだ指揮官。俺との日々は楽しいか？俺なら毎日楽しんでるぜ",
+        "What’s up, Commander? Are you enjoying your everyday life with me? I sure am."
+      ],
+      "affinityFriendly": [
+        "生涯短暂啊，指挥官，我想尽全力的活着。作为我的伙伴，你可不能落后，来，笑一个！",
+        "人生は短けぇもんだ。指揮官、俺、全力で行きたいんだから、仲間であるお前も遅れんなよ。はい、笑って！",
+        "Life is short, Commander, and I want to live life on the edge. If you are going to be my partner, you have to keep up. Now, let’s see that smile!"
+      ],
+      "affinityLike": [
+        "即使是世界末日我也不会害怕的，而且指挥官你能站在我的身边，我一定能像这样笑出来吧",
+        "世界の終わりも恐れはしないさ。それに指揮官もいるさ。きっとこうやって笑っていられるだろう",
+        "Even if the world was coming to an end, I have nothing to fear. As long as you are at my side, I can continue to laugh."
+      ],
+      "affinityLove": [
+        "这么说来，说到世界末日总是会想到轰轰烈烈的恋爱或者在世界的尽头抱在一起的两人呢，指挥官，要来做我的亚当吗？",
+        "そういや、世界の終わりの話といえば、波乱な恋話とか、世界の果で抱きあってる二人とかが連想されるな。指揮官、俺のイヴにでもならないか？",
+        "Now that I think about it, the apocalypse is often associated with wild romances, or couples who cling to each other until the bitter end. Commander, why don’t we become as Adam and Eve?"
+      ],
+      "pledge": [
+        "一旦和别人扯上关系，就不能只顾着自己了，不能想哭就哭，想笑就笑，不过和你扯上关系我一点也不后悔，指挥官",
+        "ほかのやつと付き合い始めたら、自分のことばかりじゃだめだからな。泣きたいときは泣き、笑いたい時は笑う生活とはもうおさらばだけど。…お前と付き合うこと、後悔はしないぜ。指揮官",
+        "Once you are with someone, you can no longer only think to take care of yourself. Though I can no longer cry or laugh to my heart’s desire, I do not regret becoming yours at all, Commander."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Prinz Eugen) 你的笑太假了",
+        "(Sortie with Prinz Eugen) 作り笑いがすぎんぞ。",
+        "(Sortie with Prinz Eugen) Your smile is so fake."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 5 ships designed by the same artist) 哈！小猴子们，跟我上！",
+        null,
+        "(Sortie with at least 5 ships designed by the same artist) Ha, follow me, you monkeys!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "Zクラス駆逐艦の長女として手本を見せなきゃな……指揮官、この俺が作ったチョコレートを受け取ってくれ！そして、これからもこのレーベ様に期待してなっ！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "レーベ様の特製チョコだ。…といっても別に特別ななにかが入ってるのではなく、ただのZクラスの集大成チョコってわけだ。ま、期待は裏切らんぞ。はは！",
+        "As the eldest of the Z-type destroyers, it goes without saying that I must lead by example. Commander, the one who made this chocolate was none other than myself! Yes, from now on, please continue to rely on the great Lebe!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Wahaha! These chocolates are from the great Lebe, big sister of the Z class. Hehe, these chocolates are different from the others'. Once you take a bite, you're bound to fall for me all over again!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z1_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z1_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Z1_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Z1_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Z1_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Z1_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Z1_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Z1_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Z1_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Z1_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Z1_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Z1_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z1_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z1_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Z1_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z1_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z1_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Z1_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Z1_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Z1_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Z1_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Z1_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Z1_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Z1_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Z1_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Z1_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Z1_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Z1_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Z1_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Z1_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Z1_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Z1_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Z1_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Z1_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Z1_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Z1_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Z1_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Z1_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Z1_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Z1_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Z1_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Z1_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Z1_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Z1_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Z1_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Z1_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Z1_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Z1_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Z1_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Z1_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Z1_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Z1_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Z1_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Z1_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ca/Z1_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Z1_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ca/Z1_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Z1_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Z1_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Z1_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Z1_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Z1_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Z1_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Z1_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Z1_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Z1_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Z1_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Z1_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Z1_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Z1_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Z1_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Z1_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Z1_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Z1_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Z1_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Z1_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Z1_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Z1_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Z1_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Z1_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Z1_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/fc/Z1Kai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/91/Z1KaiChibi.png",
+      "shipDescription": [
+        "哼～这就是改造吗…？感觉不错！再次欢呼吧，指挥官！万事继续交给变得更强的Z1大人就没问题啦！",
+        "ふぅ…これが改造か？いい感じだ！指揮官、今一度喝采せよ！どんな困難と強敵でも、さらに強くなったZ1様に任せれば良いのだ！",
+        "Hmm... So this is a retrofit, huh? Not bad! Rejoice once more, Commander, for no task or enemy is too daunting for the new and improved Z1!"
+      ],
+      "acquisition": [
+        "哼～这就是改造吗…？感觉不错！再次欢呼吧，指挥官！万事继续交给变得更强的Z1大人就没问题啦！",
+        "ふぅ…これが改造か？いい感じだ！指揮官、今一度喝采せよ！どんな困難と強敵でも、さらに強くなったZ1様に任せれば良いのだ！",
+        "Hmm... So this is a retrofit, huh? Not bad! Rejoice once more, Commander, for no task or enemy is too daunting for the new and improved Z1!"
+      ],
+      "login": [
+        "终于来了吗，我已经迫不及待要大闹一场了！",
+        "来たな。さあ、このZ1様と一緒にドンパチやろうぜ！",
+        "You're finally here! Come on, I want to start brawling already!"
+      ],
+      "details": [
+        "哼哼，Z1大人还可以变得更快更强！",
+        "ふふん、このZ1様はまだまだ速く、強くなれるんだぜ？",
+        "Heheh~ The mighty Z1 can get even stronger and faster!"
+      ],
+      "secretaryIdle1": [
+        "改造以后的Z1大人处理公文的速度也加倍了！指挥官还能追得上我吗～？",
+        "書類の処理速度も倍増したか。指揮官、俺のスピードについてこれるか？",
+        "Even my work productivity has doubled! Commander, can you even keep up with me~?"
+      ],
+      "secretaryIdle2": [
+        "Z46，想要名字的话Z1大人给你起个好听的吧！《歌剧战姬Ritter der Walküre》——诶，不行吗！？",
+        "フィーゼ、名前がほしいならこのZ1様がつけてやるぜ。「鉄血の戦姫リッター・ド・ヴァルキュリア」――だ、ダメか！？",
+        "Viersechs, if you want a name, let me choose a great one for you: \"Iron Blood Warrior Princess, Ritter der Walküre!\" ...H-huh? You don't like it?!"
+      ],
+      "secretaryIdle3": [
+        "是不是觉得没有我在你身边就不行了呢，指挥官！嘿嘿～",
+        "指揮官、このZ1様がいないとやる気も出ないってか？あははは～",
+        "Commander, do you feel like you can't get anything done without me? Ahahaha~!"
+      ],
+      "secretaryTouch": [
+        "这么没精神可不行啊指挥官，让我来给你打打气吧！",
+        "指揮官、そんな元気のない感じじゃダメだな～このZ1様が一発、元気づけてやるぜ！",
+        "Commander, I can't have you being this listless! Allow the great Z1 to pump you up!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Z1_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Z1_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Z1_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Z1_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Z1_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Z1_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Z1_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Z1_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Z1_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Z1_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Z1_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Z1_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z1_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z1_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Z1_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Z1_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Z1_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Z1_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Z1_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Z1_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Z1_Sec1Skin9JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "\"Rebellious\" Top Student",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "“叛逆”的优等生",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "反逆のフィアツェーン",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1d/Z1School.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Z1SchoolChibi.png",
+      "shipDescription": [
+        "因为是Z1，成绩当然也是NO.1！哼哼，无论到哪里，Z1大人都是最厉害的！",
+        "俺はZ1（レーベレヒト・マース）、Z1型の一番艦にして、成績も常にNo.1―ふふん、このZ1様はどこでも最強だ！",
+        "Because she’s the Z1, her results will of course be NO.1! Hehe, no matter where she goes, Z1-sama will always be the best!"
+      ],
+      "acquisition": [
+        "因为是Z1，成绩当然也是NO.1！哼哼，无论到哪里，Z1大人都是最厉害的！",
+        "俺はZ1（レーベレヒト・マース）、Z1型の一番艦にして、成績も常にNo.1―ふふん、このZ1様はどこでも最強だ！",
+        "Because she’s the Z1, her results will of course be NO.1! Hehe, no matter where she goes, Z1-sama will always be the best!"
+      ],
+      "details": [
+        "带武器去学校只是防身啦，总有些不知眉眼高低的人想挑衅Z1大人！",
+        "兵装はあくまで自衛用だ。ふん、愚かにもZ1様に挑む命知らずな奴が多いからな！",
+        "Bringing weapons to school is merely for self-defense purposes. There are always some bold fool who wishes to taunt Z1-sama!"
+      ],
+      "secretaryIdle1": [
+        "作业一瞬间就写完啦，哼哼，不愧是我Z1大人！",
+        "宿題も一瞬で完成した。ふん、さすがはこの俺、早くて強いZ1様だ！",
+        "The homework was finished in a flash, hehe, naturally for my Z1-sama!"
+      ],
+      "secretaryIdle2": [
+        "我才没有破坏课堂纪律！只是老师讲得太无聊，我向大家推荐换我来讲课，然后就…",
+        "授業をぶっ壊したんじゃないぞ！ただ先生の教え方があまりにもつまんなくて、この俺様が教えてやるって、つい……",
+        "I did not break classroom rules! It’s just that the teacher is too boring, I recommend to everyone that I should teach the class, then..."
+      ],
+      "secretaryIdle3": [
+        "哼，书上的东西又不一定是全都正确的！",
+        "ふん、本に載っているものは全て正しいとは限らないからな",
+        "Hehehe, stuff written on books may not always be correct!"
+      ],
+      "secretaryTouch": [
+        "果然，指挥官才是我最称心如意的搭档！",
+        "やっぱり指揮官こそ俺の一番の相棒だな",
+        "Naturally, only the Commander can be called my most desirable partner!"
+      ],
+      "secretarySpecialTouch": [
+        "听说用枪指着头，大脑就会飞速地运转起来哟，指挥官，不来尝试一下吗？",
+        "人間の頭は銃を突きつけられた時に一番はやく回転すると聞く。指揮官、やってみるかい？",
+        "People say when your head is pointed by a gun, your brain starts spinning. Commander, care to have a try?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z1_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z1_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Z1_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Z1_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Z1_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Z1_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Z1_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Z1_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Z1_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Z1_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Z1_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Z1_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Z1_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Z1_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Z1_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Z1_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Z1_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Z1_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Z1_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Z1_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Z1_Sec2Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Evasion Enhancement (I)",
+      "attributes": "Evasion + 5 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Improvement (I)",
+      "attributes": "Torpedo Efficiency + 5% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Torpedo Enhancement (I)",
+      "attributes": "Torpedo + 10 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Improvement (II)",
+      "attributes": "Anti-Air Efficiency + 5% / + 5% ",
+      "materials": "1x / 2x DestroyerT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement (II)",
+      "attributes": "Anti-air + 15 / + 25 ",
+      "materials": "1x / 1x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health + 45 / + 75 ",
+      "materials": "2x / 3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Firepower Enhancement (II)",
+      "attributes": "Firepower + 5 / + 15 ",
+      "materials": "1x / 2x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Torpedo Improvement (II)",
+      "attributes": "Torpedo Efficiency + 5% / + 5% ",
+      "materials": "1x / 1x DestroyerT3BP ",
+      "coinCost": 2500,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Torpedo Enhancement (II)",
+      "attributes": "Torpedo + 5 / +10 / + 15 ",
+      "materials": "1x / 1x / 1x DestroyerT3BP and 5x / 10x / 15x TorpT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 3,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Anti-air + 35, Anti-submarine warfare + 10 ",
+      "materials": "3x DestroyerT3BP and 1x Z1 or Universal Bulin ",
+      "coinCost": 4000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I"
+      ]
+    },
+    {
+      "index": "L",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Destruction Mode - Prototype\" ",
+      "materials": "2x DestroyerT3BP and 20x GunT3Plate ",
+      "coinCost": 3000,
+      "levelRequired": 90,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "K"
+      ]
+    }
+  ]
+}

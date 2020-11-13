@@ -1,0 +1,689 @@
+{
+  "name": "Rodney",
+  "constructionTime": "04:40:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Nelson",
+  "ID": "133",
+  "faction": "Royal Navy",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Y%C5%8D_Taichi",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7630,
+      149,
+      81,
+      407,
+      0,
+      31,
+      23,
+      219,
+      0,
+      14,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6577,
+      130,
+      81,
+      372,
+      0,
+      13,
+      23,
+      190,
+      0,
+      14,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1272,
+      55,
+      81,
+      79,
+      0,
+      5,
+      23,
+      41,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 16,
+  "maxLimitBreakTechPoints": 32,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 24,
+  "enhancementValue": [
+    65,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Big Seven; CN: BIG SEVEN JP: BIG SEVEN",
+  "skill1Description": "When firing main gun: 20% (40%) chance to fire a frontal barrage (damage increases with skill level).",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e3/Rodney.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/ca/RodneyChibi.png",
+      "shipDescription": [
+        "纳尔逊级战列舰—罗德尼，舷号29",
+        "ネルソン級戦艦・ロドニー(HMS Rodney）",
+        "Nelson-class battleship – Rodney, Hull Number 29!"
+      ],
+      "selfIntroduction": [
+        "我是纳尔逊姐姐的妹妹，罗德尼，嗯……我们姐妹也算挺有名吧？ 欸，和外表相反的战斗风格？讨厌啦，指挥官，这种空穴来风的事情当然是骗人的~",
+        "ネルソンの妹、ロドニーです。はい！……私たち姉妹もそこそこ有名ですね。 えっと、戦い方が見た目とイメージが違う、ですか？まあまあ指揮官、そういう噂はもちろんウソですよ~",
+        "I'm Nelson's little sister, Rodney! Um... us sisters are pretty famous right? Erm, you've heard that my fighting style is unbefitting of my appearance? Well well, Commander, such rumors are, of course, false~"
+      ],
+      "acquisition": [
+        "你好，我是罗德尼，从今往后还请多多关照",
+        "はじめまして、ロドニーです。これからよろしくお願いします",
+        "Hello, I'm Rodney. I shall be in your care from this day forward."
+      ],
+      "login": [
+        "啊指挥官你回来了吗，正好我稍微整理了一下文件，请过目吧",
+        "あ、指揮官お帰りなさい。ちょうど書類を整理しました。ご確認ください",
+        "Ah, Commander, you're back! I was just tidying up the documents, please have a look."
+      ],
+      "details": [
+        "需要我详细解释吗？",
+        "詳細の説明は要りますでしょうか？",
+        "Need me to explain the details?"
+      ],
+      "secretaryIdle1": [
+        "有什么事情就交给我罗德尼吧！",
+        "なにかあればロドニーにおまかせください！",
+        "I'm here to help you with anything you need."
+      ],
+      "secretaryIdle2": [
+        "不介意的话，就由我陪你打发时间吧",
+        "指揮官が大丈夫でしたら、ロドニーもご一緒させてください！",
+        "If the Commander doesn't mind, please allow me to keep you company!"
+      ],
+      "secretaryIdle3": [
+        "指挥官~再摸鱼的话，就算是罗德尼也要生气了哦？",
+        "指揮官？またサボりますと、ロドニーも怒りますよ？",
+        "Commander, if you keep slacking off, even I will get angry."
+      ],
+      "secretaryTouch": [
+        "怎么了吗？",
+        "どうしましたか？",
+        "What is it?"
+      ],
+      "secretarySpecialTouch": [
+        "不要在司令室做这种事啦",
+        "執務室でやっちゃだめですよ？",
+        "Please don't do this in the command room..."
+      ],
+      "task": [
+        "指挥官，一起去完成新的任务吧？",
+        "指揮官、一緒に新しいミッションを遂行しましょう？",
+        "Commander, shall we complete our new mission?"
+      ],
+      "taskComplete": [
+        "有任务奖励呢，打开看看吧",
+        "ミッションボーナスですよ。開けてみましょう",
+        "Here are your mission rewards. Let's take a look!"
+      ],
+      "mail": [
+        "有新的信件，我帮你拿过来了",
+        "新しいメールがあったので持ってきました",
+        "I've brought your new mail, Commander."
+      ],
+      "returnFromMission": [
+        "我来泡杯茶吧~",
+        "お茶を淹れますね",
+        "Let me make a cup of tea~"
+      ],
+      "commission": [
+        "嘻嘻，指挥官，完成委托的姐妹们已经回来了~",
+        "ふふ、指揮官、委託を完了した子たちが帰ってきましたよ",
+        "Hehe, Commander. The girls are back from commission!"
+      ],
+      "strengthening": [
+        "接下来也请期待罗德尼的表现吧~",
+        "ロドニーに期待してくださいね~",
+        "I hope you're looking forward to my performance from here on out!"
+      ],
+      "startingMission": [
+        "嗯……罗德尼也期待诸位恪尽职守，吧？",
+        "はい！……皆さんが義務を尽くすことに、ロドニーも期待しています！",
+        "Mmm... I'm looking forward to everyone finishing their work too~!"
+      ],
+      "mvp": [
+        "唔，好像不小心浪费了不少弹药呢……",
+        "あぅ、いつのまに…弾薬を多く使いすぎました…",
+        "Hmm, I think I accidentally wasted a lot of ammunition..."
+      ],
+      "defeat": [
+        "虽然还能战斗……不过还是先撤退吧",
+        "また戦えますが……まずは撤退します",
+        "I can still fight... but we should probably retreat, for now..."
+      ],
+      "skillActivation": [
+        "对待敌人就不用客气了呢",
+        "敵に情けをかける必要がありませんね",
+        "There's no need to be polite when dealing with enemies."
+      ],
+      "lowHP": [
+        "我可以加强些火力吗？",
+        "少し火力を強くしてもいいですか？",
+        "Can I increase my firepower?"
+      ],
+      "affinityDisappointed": [
+        "就算是罗德尼也有点失望了呢……",
+        "ロドニーでも少し失望しましたよ……？",
+        "Even I'm a bit disappointed..."
+      ],
+      "affinityStranger": [
+        "天气不错，要出去走走吗，指挥官？正好前阵子听来一些有趣的事情，聊聊天就当放松一下，怎么样？",
+        "いい天気ですね、お出かけしましょうか、指揮官？ちょうどいいお話を聞いたんです。すこしリラックスしていかがですか？",
+        "The weather is pretty nice. Want to take a walk, Commander? Let's relax and chat for a while. What do you think?"
+      ],
+      "affinityFriendly": [
+        "指挥官真是很温柔呢，一起散步时总是会照顾我放慢速度，这种细节，我很感动哦",
+        "指揮官は優しいですね。散歩していた時ロドニーのペースに合わせてくれて。こういう細かいところも、感動しちゃいます",
+        "Commander sure is gentle, always slowing down to match my pace when we're taking walks... I'm moved by details like this."
+      ],
+      "affinityLike": [
+        "上下关系不处理好可是会有大麻烦的，以前就有过这样的事……当然像我和指挥官这么亲密是不用啦~",
+        "上下関係はちゃんとしないと大変になる時もありますね。昔こんなことが……でもロドニーと指揮官の仲なら大丈夫です",
+        "Not respecting the chain of command can mean big trouble, it has happened before……Of course it's ok for us since we're so close~"
+      ],
+      "affinityLove": [
+        "指挥官，今天要一起吃饭吗？我来做你喜欢的菜哦——嗯？不是什么节日啦，只是忽然就这么想了……指挥官想的话，每天都可以哦~",
+        "指揮官、今日は一緒にご飯でもどうですか？大好物の料理を作りますーーうん？特別な日ではありませんよ、急に思いついちゃって……指揮官がいいなら毎日でもいいですよ？",
+        "Commander, want to have dinner together tonight? I'll make your favorite dish... Hmm? it's not a holiday or something like that... I just thought of it just now... If you want, Commander, we can do it every night~."
+      ],
+      "pledge": [
+        "和指挥官度过的每一天对于我来说都是纪念日，这样梦一般的日子真希望能延续到永远",
+        "指揮官と一緒に過ごす毎日が記念日です。こんな夢みたいな生活が、いつまでも続くといいですね…",
+        "Everyday I spend with the Commander is a special day, I hope days like these will last forever."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Hood) 胡德姐姐，犹豫不定可不好呀",
+        "(Sortie with Hood) フッド姉様、戸惑うのはいけないのですよ",
+        "(Sortie with Hood) Hood, It's not good to hesitate!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Nelson) 姐姐，不要太小看对手哦",
+        "(Sortie with Nelson) 姉様、相手をあまり侮らないでくださいね。",
+        "(Sortie with Queen Elizabeth) It's no good to underestimate your opponents, my sister"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 5 ships designed by the same artist) 枫之军团吗，一起加油吧~",
+        null,
+        "(Sortie with at least 5 ships designed by the same artist) Team Akatsuki? Let's do our best together!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、ハッピーバレンタイン！ロドニーがチョコを作りました、はい♪ついでにチョコ以外もお作りしましょうか？なにかご注文はありますか？もちろんお菓子以外も大丈夫、うふふ♪",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，今天是情人节呢，给你这个。还有，别在这里打开哦，独处的时候再打开吧。里面可能是指挥官最想要的东西哦？呵呵呵♪",
+        "指揮官、バレンタインデーですね。こちらをお渡しします。あと、ここで開けてはダメですよ。後でお一人になったときに開けてくださいね。指揮官が一番欲しいものかもしれませんよ？ふふふ♪",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Valentine's Day is here again. Commander, here are the chocolates you've been waiting so patiently for. Oh, do please wait a while before opening them. You should maintain an air of decorum before a lady, no?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Rodney_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Rodney_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Rodney_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Rodney_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Rodney_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Rodney_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Rodney_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Rodney_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Rodney_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Rodney_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Rodney_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Rodney_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Rodney_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Rodney_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Rodney_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Rodney_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Rodney_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Rodney_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Rodney_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Rodney_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Rodney_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Rodney_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Rodney_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Rodney_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Rodney_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Rodney_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Rodney_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Rodney_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Rodney_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Rodney_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Rodney_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Rodney_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Rodney_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Rodney_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Rodney_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Rodney_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Rodney_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Rodney_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Rodney_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Rodney_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Rodney_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Rodney_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Rodney_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Rodney_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Rodney_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Rodney_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Rodney_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Rodney_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Rodney_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Rodney_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Rodney_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Rodney_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Rodney_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Rodney_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Rodney_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Rodney_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Rodney_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Rodney_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Rodney_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Rodney_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Rodney_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Rodney_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Rodney_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Rodney_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Rodney_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Rodney_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Rodney_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Rodney_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Rodney_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Rodney_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Rodney_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Rodney_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Rodney_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Rodney_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Rodney_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Rodney_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Rodney_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Rodney_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Rodney_Extra3JP.ogg",
+        null,
+        "https://azurlane.koumakan.jp/w/images/1/15/Rodney_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Future Seaside Admiral",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "未来的海滨上将",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "未来の海浜大将",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f9/RodneySummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a8/RodneySummerChibi.png",
+      "shipDescription": [
+        "虽说是指挥官的礼物，穿起来还是有点害羞呐……指挥官，能来教教我游泳吗？",
+        "指揮官からのプレゼントですけど、着てみるとやはりちょっと恥ずかしいですね……指揮官、私に泳ぎを教えてくださいますか？",
+        "Although it's a gift from the Commander, it's still embarrassing to wear this....Commander, do you think you could teach me how to swim?"
+      ],
+      "acquisition": [
+        "虽说是指挥官的礼物，穿起来还是有点害羞呐……指挥官，能来教教我游泳吗？",
+        "指揮官からのプレゼントですけど、着てみるとやはりちょっと恥ずかしいですね……指揮官、ロドニーに泳ぎ方を教えてくださいますか？",
+        "Even if it's the Commander's gift, wearing it is pretty embarrassing. Commander, want to teach me how to swim?"
+      ],
+      "login": [
+        "这么热的天，连文件都不想处理了……指挥官，一起去冲个凉吧~",
+        "こうも暑くなると書類の整理も捗りませんね……指揮官、冷たいシャワーでもいかがですか？",
+        "It's so hot... I can't imagine doing any work! Commander, how about we take a cold shower together??"
+      ],
+      "details": [
+        "嘻嘻，指挥官~不要害羞嘛。来，再往这边靠靠~怎么样，我的手是不是很凉？",
+        "うふふ、指揮官、そんなに恥ずかしがらなくてもいいですよ。もっと近くによって…どうですか？ロドニーの手、ひんやりしていませんか？",
+        "Don't be shy, Commander~ Come on, come on over here~ How do you feel? Are my hands too cold?"
+      ],
+      "secretaryIdle1": [
+        "沙滩排球？好不容易才找到和指挥官亲密接触的机会，PASS～",
+        "ビーチバレー？せっかく指揮官と二人きりですから、ロドニーは不参加でお願いします♪",
+        "Beach volleyball? But I finally got a chance to be intimate with you...I'll PASS~"
+      ],
+      "secretaryIdle2": [
+        "只要是指挥官的礼物，无论什么我都喜欢！",
+        "指揮官からのプレゼントなら、何でも嬉しいです！",
+        "I'll love whatever gifts you give me!"
+      ],
+      "secretaryIdle3": [
+        "游泳游过头了……好累……指挥官，能背我回去吗？",
+        "少し泳ぎすぎたかな……ちょっとだるいです……指揮官、ロドニーをおんぶしてくださいます？",
+        "I'm wiped out. So much swimming! Commander... can you carry me home?"
+      ],
+      "secretaryTouch": [
+        "指挥官，能帮我涂防晒油吗？",
+        "指揮官、日焼け止めを塗ってもらえますか？",
+        "Commander, could you put some sunscreen on my back?"
+      ],
+      "secretarySpecialTouch": [
+        "如何？货真价实的BIG SEVEN尺寸的手感",
+        "いかがですか？ビッグセブン級のこの感触♪",
+        "How's that? The feeling of a bona-fide Big Seven"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Rodney_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Rodney_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Rodney_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Rodney_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Rodney_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Rodney_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Rodney_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Rodney_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Rodney_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Rodney_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Rodney_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Rodney_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Rodney_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Rodney_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Rodney_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Rodney_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Rodney_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Rodney_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Rodney_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Rodney_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Rodney_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Rodney_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Rodney_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Rodney_Sec2Skin1JP.ogg"
+      ]
+    },
+    {
+      "CNClientName": "一日见习店员",
+      "CNClientAvailability": "Event Limited",
+      "obtainedFrom": "Lawson Collaboration - Complete the event tasks.",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7f/RodneyLawson.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0e/RodneyLawsonChibi.png",
+      "shipDescription": [
+        "一日店员啊…真是新奇的体验呢，“谢谢惠顾～”，嘻嘻，指挥官觉得怎么样呢？",
+        null,
+        null
+      ],
+      "acquisition": [
+        "一日店员啊…真是新奇的体验呢，“谢谢惠顾～”，嘻嘻，指挥官觉得怎么样呢？",
+        null,
+        null
+      ],
+      "login": [
+        "欢迎光临，指挥官～",
+        null,
+        null
+      ],
+      "details": [
+        "收银机的使用…也是一门学问呢",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "需要帮你加热一下便当吗，指挥官？嘻嘻",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "这套衣服，裙子有点…短呢…",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "指挥官…是在看我的工作牌吗？",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "嗯？有什么需要我帮忙的吗？",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "啊…工作牌都要被你弄掉了呢，指挥官",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "要帮你泡杯咖啡吗，指挥官？",
+        null,
+        null
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Rodney_IntroSkin2JP.ogg",
+        null,
+        null
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Rodney_LogSkin2JP.ogg",
+        null,
+        null
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Rodney_DetailsSkin2JP.ogg",
+        null,
+        null
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Rodney_SecIdle1Skin2JP.ogg",
+        null,
+        null
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Rodney_SecIdle2Skin2JP.ogg",
+        null,
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Rodney_SecIdle3Skin2JP.ogg",
+        null,
+        null
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Rodney_Sec1Skin2JP.ogg",
+        null,
+        null
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Rodney_Sec2Skin2JP.ogg",
+        null,
+        null
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Rodney_MissionFinSkin2JP.ogg",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

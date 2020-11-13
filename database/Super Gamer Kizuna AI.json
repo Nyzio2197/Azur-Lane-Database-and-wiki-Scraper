@@ -1,0 +1,450 @@
+{
+  "name": "Super Gamer Kizuna AI",
+  "constructionTime": "04:50:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "KizunaAI",
+  "ID": "Collab044",
+  "faction": "KizunaAI",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Morikura En",
+  "pixiv": "https://www.pixiv.net/member.php?id=177784",
+  "twitter": "https://twitter.com/morikuraen",
+  "link": "http://2st.jp/canvas/",
+  "voiceActor": "https://en.wikipedia.org/wiki/Kizuna_AI",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7648,
+      142,
+      66,
+      409,
+      212,
+      30,
+      26,
+      199,
+      0,
+      15,
+      55,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6374,
+      123,
+      66,
+      368,
+      184,
+      28,
+      26,
+      173,
+      0,
+      15,
+      50,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1233,
+      52,
+      66,
+      78,
+      39,
+      11,
+      26,
+      37,
+      0,
+      5,
+      19,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    64,
+    4,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    10
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Super AIming Adjustments; CN: 描边大师 JP: スーパーエイム補正",
+  "skill1Description": "Increases Main Gun critical rate by 15% (30%), but increases its Spread Range by 1. Every 16 seconds after the start of the battle: 40% (70%) chance to fire a special barrage (damage is based on skill level).",
+  "skill2Name": "Coercion Assistance Mode; CN: 智能寻路系统 JP: 強制アシストモード",
+  "skill2Description": "Increase own Accuracy and Evasion by 10% (25%) through the use of advanced super A.I. tracking.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c9/Super_Gamer_Kizuna_AI.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d0/Super_Gamer_Kizuna_AIChibi.png",
+      "shipDescription": [
+        "嗨多磨～我是虚拟玩家绊爱！指挥官，请放心！碧蓝航线我玩得很多啦！…诶，我、变成舰船了！？",
+        "はいどうもー！バーチャルゲーマーキズナアイです！指揮官、安心してください！アズレンは結構やりこんでるんで！……え、私、艦船になったの！？",
+        "HAI DOMO! Virtual Gamer Kizuna AI here! Don't worry, Commander, I've played AL a whole bunch before! ... Wait, I've become a ship now?!"
+      ],
+      "selfIntroduction": [
+        "剪头发了？没有的，我可以自由变换头发的长度哦！毕竟是虚拟的嘛！这才是面不改色打出高分的绊爱超级玩家版！嗨呀！",
+        "髪切った？ふふーん、私、髪の長さだって自在に変えられちゃうんです！バーチャルですから！これぞ、クールにハイスコアを叩き出す、キズナアイのスーパーゲーマーバージョン！どやぁ！",
+        "My hair? Heheh, I'm virtual so I can change my hair's length whenever I want. How else do you think I look this cool while I'm fraggin' out? I'm the super gamer version of Kizuna AI! Check it!"
+      ],
+      "acquisition": [
+        "嗨多磨～我是虚拟玩家绊爱！指挥官，请放心！碧蓝航线我玩得很多啦！…诶，我、变成舰船了！？",
+        "はいどうもー！バーチャルゲーマーキズナアイです！指揮官、安心してください！アズレンは結構やりこんでるんで！……え、私、艦船になったの！？",
+        "HAI DOMO! Virtual Gamer Kizuna AI here! Don't worry, Commander, I've played AL a whole bunch before! ... Wait, I've become a ship now?!"
+      ],
+      "login": [
+        "指挥官，没忘了登录奖励吧？这可是游戏的基本哦～！",
+        "指揮官、ログインボーナスは忘れずもらってね？ゲームの基本だよー！",
+        "You haven't forgotten about the monthly check in, right? That'd be a real noob move!"
+      ],
+      "details": [
+        "指挥官也要来玩游戏吗？正好有个想实况的游戏呢！指挥官要一起来玩吗？",
+        "指揮官もゲームしに来たんですか？ちょうど実況しようとしてたゲームがあるんです！指揮官も一緒にどうですか？",
+        "Are you here to play a game, Commander? I was just about to start streaming one, actually! Would you like to play it with me?"
+      ],
+      "secretaryIdle1": [
+        "也想在这里举办绊爱杯呢～柚酱和长岛酱都说会参加，指挥官不参加吗？",
+        "ここでもキズナアイ杯を開催してみたいな～、綾波ちゃんとロング・アイランドちゃんは参加するって言ってくれたし、指揮官も参加しませんか？",
+        "Maybe I'll host the Kizuna AI Cup here! Ayanami and Long Island said they'd be down, so why not be our 4th player, Commander?"
+      ],
+      "secretaryIdle2": [
+        "明明是天才却要假装废柴还真是痛苦啊～",
+        "本当は天才なのにポンコツ演じるのつらいわ～",
+        "Being a genius but in reality playing like a total noob is suffering..."
+      ],
+      "secretaryIdle3": [
+        "咻～怎么样，从牙买加那里学来的姿势！是不是很帅呢？",
+        "シュッ、どうですかこのジャマイカちゃんから教えてもらったポーズ！かっこよくないですか？",
+        "Whoosh! What do you think about this pose I learned from Jamaica? Don't I look cool?"
+      ],
+      "secretaryTouch": [
+        "想和我用游戏一决胜负？好吧，我接下了！就让你看看我的实力吧！",
+        "私とゲームで勝負したい？いいでしょう、受けて立ちます！私の実力見せてあげますよ！",
+        "You wanna play a round with me? Certainly! I accept your challenge! My skill should not be underestimated!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官知道什么是”爆头“吗？想试试看吗？",
+        "指揮官、ヘッドショットって知ってますか？ちょっとやってみていいですか？",
+        "Commander, do you know what a \"headshot\" is? Mind if I perform one on you?"
+      ],
+      "task": [
+        "发现任务！一个个完成掉，然后赚进大把大把的物资吧！",
+        "ミッション発見！たくさんこなして資金をがっぽり稼いじゃいましょう！",
+        "Mission located! Let's do tons of them so we'll earn a boatload of money!"
+      ],
+      "taskComplete": [
+        "任务完成！报酬是什么呢～？嗯，怎么了梓酱？诶？“秘书舰”是领不了奖励的！？",
+        "ミッション完了！報酬は何かなー？ん、どうしたの雷ちゃん？えっ？「ひしょかん」は報酬を受け取れないの！？",
+        "Mission complete! Let's see what we got! Hm? What's up, Ikazuchi? You what? Secretaries can't collect mission rewards?!"
+      ],
+      "mail": [
+        "啊，邮件来了哦！说不定是“yunying”发来的礼物呢！！",
+        "あっ、メールが届いてるよ！「うんえい」さんからのプレゼントかも！！",
+        "Hey, we've got mail! Maybe it's a present from the publishers!"
+      ],
+      "returnFromMission": [
+        "指挥官辛苦啦～♪哈？膝枕？…好好，老老实实被柏酱宠着，一步步变成废柴指挥官吧～柏酱，接下来就拜托你啦～",
+        "指揮官お疲れ様ー♪は？膝枕？…はいはい、電ちゃんに甘やかされて、どーぞダメ指揮官になっちゃってくださいねー。電ちゃん後よろしくー。",
+        "Great performance, Commander! Huh? You want a lap pillow? ... Fine, fine. Inazuma babies you too much. Whatever, go ahead and let your guard down. Inazuma, do the next one for me."
+      ],
+      "commission": [
+        "委托组回来了哦。快点派出下一组委托吧！不然就浪费了哦！",
+        "委託組が戻ってきましたよ。早く次の委託に出さないと！もったいないですよ！",
+        "The commission team is back. Start another one immediately! We don't want to waste time!"
+      ],
+      "strengthening": [
+        "这下主炮的校准也完美啦！",
+        "これで主砲のエイムもばっちりですね！",
+        "Technically, I am an aimbot!"
+      ],
+      "startingMission": [
+        "上啦啦啦啦啦！嗨呀啊啊啊啊！",
+        "いくぞおおおぉぉ！うおりゃああぁぁぁ！",
+        "Let's fakkin' do this! Grraaaaagghh!"
+      ],
+      "mvp": [
+        "WINNER～！拿到MVP啦～！",
+        "WINNER～！MVP取ったどー！",
+        "A winner is me! I'm the MVP!"
+      ],
+      "defeat": [
+        "啊—好气！绝对不会放过你们的！！",
+        "もー、ほんとおこ！絶対許さないんだから！！",
+        "Okay, I'm getting ticked off now! I'm not forgetting this, ever!"
+      ],
+      "skillActivation": [
+        "要上啦～啪锵～！",
+        "いっくよー、ばきゅーん！",
+        "Here I go! Ba-biiiing!"
+      ],
+      "lowHP": [
+        "啊，好像有点糟…？",
+        "あ、やばみ…？",
+        "Oh, crap..."
+      ],
+      "affinityDisappointed": [
+        "啊啊啊 啊啊 aa 啊啊 aaa 啊啊啊啊啊……",
+        "ぁぁあ゛あ゛あｱｱ゛ああ゛ｱｱｱ゛ｱああｱｱ゛ああｱｱ゛ｱ゛ｱｧｧ…",
+        "AAAaaaaAAAAAaaaaaAAAAAAHHH!!!111!eleven!!"
+      ],
+      "affinityStranger": [
+        "游戏实况也不是那么简单的呢。明明拼命努力了，却还是被人说废…到底要怎么做才能玩得更好呢？",
+        "ゲーム実況も結構難しいんですよ。一生懸命やってるのにポンコツとか言われちゃうし……どうすればゲーム上手くなれるんだろ？",
+        "It's not easy to be a streamer. I try as hard as possible, but people still call me a noob... What should I do to get better?"
+      ],
+      "affinityFriendly": [
+        "诶？恐怖游戏的实况？不不，不会出的……不要不要不要不要！",
+        "え？ホラーゲームの実況？いやです、やりません……やだやだやだやだやだ！",
+        "Huh? Stream a horror game? No, I don't want to... I really, really, really don't want to!"
+      ],
+      "affinityLike": [
+        "啊～真是的！为什么恐怖游戏的实况反而更有人气啦～！虽然也是多亏了提出建议的指挥官啦…不过下次还请准备不那么恐怖的游戏，拜托了！",
+        "あーもう！なんでホラーゲームの方が人気出てるんですかー！そりゃあ、提案してくれた指揮官のおかげでもありますけど……次はもっと怖くないやつお願いしますよ！",
+        "Damn it all! Why are my horror game streams so popular?! I have you to thank for suggesting it, but... please suggest a less scary game next time!"
+      ],
+      "affinityLove": [
+        "指挥官很擅长教人玩游戏呢！又知道很多游戏，只要有指挥官在，就再也不怕被人说是废柴AI了！…接下来也拜托你啦，指挥官♪",
+        "指揮官はゲーム教えるのが上手いですよね！いろんなタイトル知ってるし、指揮官がいればポンコツAIだなんて言われませんね！……頼りにしてますよ、指揮官♪",
+        "You're such a good game explainer, Commander! You know about all sorts of games, and nobody will call me a noob A.I. with you by my side! ... I'm counting on you, Commander!"
+      ],
+      "pledge": [
+        "指挥官为了我准备了戒指吗！好高兴！啊，不对不对！其实想说的是谢谢才对！…接下来也要教我各种各样的游戏哦，指挥官！一直以来谢谢你了……♪",
+        "私のために指輪を用意してくれたんですね！うれしい！あ、うそうそ！本当に感謝してますってば！……これからもたくさんゲーム教えてね、指揮官！いつもありがと……♪",
+        "You got this ring just for me, didn't you? I'm so happy! Er! Actually, I meant I'm really grateful! ... I can't wait to hear you talk about games every day from now on! And thanks for all your help!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Prinz Eugen) 欧根酱，援护就拜托啦！",
+        "(Sortie with Prinz Eugen) プリンちゃん、援護は任せて！",
+        "(Sortie with Prinz Eugen) Eugen, I'll cover you!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Super_Gamer_Kizuna_AI_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Super_Gamer_Kizuna_AI_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Super_Gamer_Kizuna_AI_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Super_Gamer_Kizuna_AI_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Super_Gamer_Kizuna_AI_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Super_Gamer_Kizuna_AI_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Super_Gamer_Kizuna_AI_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Super_Gamer_Kizuna_AI_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Super_Gamer_Kizuna_AI_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Super_Gamer_Kizuna_AI_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Super_Gamer_Kizuna_AI_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Super_Gamer_Kizuna_AI_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Super_Gamer_Kizuna_AI_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Super_Gamer_Kizuna_AI_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Super_Gamer_Kizuna_AI_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Super_Gamer_Kizuna_AI_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Super_Gamer_Kizuna_AI_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Super_Gamer_Kizuna_AI_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Super_Gamer_Kizuna_AI_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Super_Gamer_Kizuna_AI_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Super_Gamer_Kizuna_AI_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Super_Gamer_Kizuna_AI_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Super_Gamer_Kizuna_AI_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Super_Gamer_Kizuna_AI_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Super_Gamer_Kizuna_AI_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Super_Gamer_Kizuna_AI_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Super_Gamer_Kizuna_AI_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Super_Gamer_Kizuna_AI_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Super_Gamer_Kizuna_AI_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Super_Gamer_Kizuna_AI_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Super_Gamer_Kizuna_AI_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Super_Gamer_Kizuna_AI_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Super_Gamer_Kizuna_AI_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Super_Gamer_Kizuna_AI_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Super_Gamer_Kizuna_AI_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Super_Gamer_Kizuna_AI_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Super_Gamer_Kizuna_AI_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Super_Gamer_Kizuna_AI_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Super_Gamer_Kizuna_AI_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Super_Gamer_Kizuna_AI_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Super_Gamer_Kizuna_AI_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Super_Gamer_Kizuna_AI_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Super_Gamer_Kizuna_AI_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Super_Gamer_Kizuna_AI_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Super_Gamer_Kizuna_AI_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Super_Gamer_Kizuna_AI_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Super_Gamer_Kizuna_AI_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Super_Gamer_Kizuna_AI_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Super_Gamer_Kizuna_AI_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Super_Gamer_Kizuna_AI_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Super_Gamer_Kizuna_AI_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Super_Gamer_Kizuna_AI_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Super_Gamer_Kizuna_AI_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Super_Gamer_Kizuna_AI_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Super_Gamer_Kizuna_AI_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Super_Gamer_Kizuna_AI_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Super_Gamer_Kizuna_AI_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Super_Gamer_Kizuna_AI_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Super_Gamer_Kizuna_AI_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Super_Gamer_Kizuna_AI_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Super_Gamer_Kizuna_AI_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Super_Gamer_Kizuna_AI_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Super_Gamer_Kizuna_AI_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Super_Gamer_Kizuna_AI_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Super_Gamer_Kizuna_AI_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Super_Gamer_Kizuna_AI_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Super_Gamer_Kizuna_AI_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Super_Gamer_Kizuna_AI_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Super_Gamer_Kizuna_AI_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Super_Gamer_Kizuna_AI_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Super_Gamer_Kizuna_AI_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Super_Gamer_Kizuna_AI_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Super_Gamer_Kizuna_AI_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Super_Gamer_Kizuna_AI_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Super_Gamer_Kizuna_AI_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Super_Gamer_Kizuna_AI_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Super_Gamer_Kizuna_AI_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Super_Gamer_Kizuna_AI_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Super_Gamer_Kizuna_AI_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Super_Gamer_Kizuna_AI_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Super_Gamer_Kizuna_AI_Extra1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,677 @@
+{
+  "name": "Memphis",
+  "constructionTime": "01:05:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Omaha",
+  "ID": "360",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "銀SilveRoid",
+  "pixiv": "https://www.pixiv.net/member.php?id=192782",
+  "twitter": "https://twitter.com/SilverRoid",
+  "link": "https://www.weibo.com/silveralice",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/2/23/Memphis_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3301,
+      185,
+      67,
+      146,
+      212,
+      101,
+      35,
+      295,
+      0,
+      9,
+      151,
+      82,
+      0,
+      0
+    ],
+    "Level 100": [
+      2921,
+      161,
+      67,
+      127,
+      184,
+      79,
+      35,
+      259,
+      0,
+      9,
+      135,
+      72,
+      0,
+      0
+    ],
+    "Base Stats": [
+      565,
+      68,
+      67,
+      27,
+      39,
+      30,
+      35,
+      55,
+      0,
+      2,
+      52,
+      20,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "115% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 155%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "115% → 125%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 9,
+  "level120StatBonus": "Light cruiser (CL) Reload  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    11,
+    13,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Quick Reload; CN: 快速装填 JP: 快速装填",
+  "skill1Description": "30% (60%) chance to activate every 20 seconds: increase own Reload by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-オマハ級",
+  "skill2Description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Omaha Class I(II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/e/e7/Memphis.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/72/MemphisChibi.png",
+      "shipDescription": [
+        "奥马哈级轻巡洋舰—孟菲斯，舷号CL-13",
+        "オマハ級軽巡洋艦・メンフィス（CL-12)",
+        "Omaha-class light cruiser – Memphis, Hull Number CL-12."
+      ],
+      "selfIntroduction": [
+        "我是奥马哈级的轻巡洋舰孟菲斯。生涯里迎接过一些重要的宾客，也曾作为旗舰被征用。多说无用，想要更好地了解我，就好好跟在后头，看我的精彩表现吧~",
+        "オマハ級軽巡のメンフィスよ。由緒正しい方々の乗艦、そしてロイヤル方面艦隊の旗艦を勤めたの。…後ろで私の活躍を目に焼き付けなさいな",
+        "I am the Omaha-class light cruiser, Memphis. I've hosted some very famous people, as well as served as flagship of the fleet in the Royal front. Make sure you carefully observe my every move!"
+      ],
+      "acquisition": [
+        "哦？你就是这里的指挥官吗？放心吧，我会为你护航的。不过，你得要先达到我的标准才行呢~",
+        "ふーん、あなたがここの指揮官？安心なさい。この私が護衛についてあげる。貴方はこの私に相応しくなれるのかしら？",
+        "Hmm, so you're the commander here? Don't worry, I'll carry out my duties as an escort ship. But first, you'll have to meet my standards!"
+      ],
+      "login": [
+        "指挥官，总算来了。那就出发吧~快跟上我的脚步！",
+        "指揮官、ようやく来たのね。さあ出発よ——私のペースについてこれるのかしら？",
+        "Commander, you sure took your time getting here. Come on, let's set sail. Can you keep up with me?"
+      ],
+      "details": [
+        "如果想继续陪着我，那就好好审视我的全部吧~",
+        "私と付き合ってくれるつもりなら、すべてを目に焼き付けてちょうだい",
+        "If you intend to keep me by your side, you'd better carefully observe my every move!"
+      ],
+      "secretaryIdle1": [
+        "接受检阅，就应该把最好的一面展示给大家看。这是我的准则~",
+        "観艦式で自らの最も素晴らしいパフォーマンスを魅せる。これこそ私の流儀よ",
+        "Capturing everyone's attention with my brilliant performance at Naval Reviews - that's the way I like to do things."
+      ],
+      "secretaryIdle2": [
+        "一直以来都频繁地巡洋四海，在港区多待上一段时间都是奢望…不过没关系，我喜欢让自己忙碌起来~",
+        "昔は海を行き来して、母港でのんびりすることも中々できなかったの。…まあいいわ。忙しいほうが私らしくて良いのではなくて？",
+        "Because of my hectic schedule, I never got much time to relax back in port... But that's fine, someone like me ought to be busy, wouldn't you agree~?"
+      ],
+      "secretaryIdle3": [
+        "要我在回港的时候带点礼物给你？指挥官得先在港区好好表现才行~",
+        "今度土産を持ってきてほしいって？貴方、母港で仕事をちゃんとこなしておくのが先じゃなくて？",
+        "You want me to bring you back a souvenir next time? Should you really be asking that while you still have work to do?"
+      ],
+      "secretaryTouch": [
+        "哦？迫不及待地就想看我训练？那就好好给你展示一下~",
+        "あら？私が訓練している姿が見たいの？では…その目に焼き付けてあげようかしら",
+        "Hm? You'd like to see me while I'm training? Very well... you'd better burn this into your eyes!"
+      ],
+      "secretarySpecialTouch": [
+        "不放开的话，你会知道下场的~",
+        "その手、離さないと痛い目に遭うわよ",
+        "If you don't unhand me this instant, I'll make you regret it~"
+      ],
+      "task": [
+        "有任务就赶快处理，不要放置不管。说你呢，指挥官~",
+        "任務はほったらかすんじゃなくて、すぐに実行するのよ。――貴方のことを言ってるのよ？指揮官",
+        "If there are any missions left, take care of them right away. Don't procrastinate... Hey, I'm talking to you, Commander!"
+      ],
+      "taskComplete": [
+        "抽空去看看吧，这是你应得的奖励。",
+        "貴方が得るべき褒美よ。あとでチェックしなさい",
+        "You've earned these rewards. Take a look when you have time."
+      ],
+      "mail": [
+        "快去收邮件吧~应该有好事发生。",
+        "メールを受け取ってちょうだい。いいことがあるわよ",
+        "Please go get the mail. I expect some good news."
+      ],
+      "returnFromMission": [
+        "嘻嘻，还是干得不赖嘛~可别太得意，后面还会有很多考验。",
+        "ふふん、よくできたじゃない。これからはもっと試される時があるの。あまり浮かれるんじゃないわ",
+        "Hehe, not bad. But don't get too cocky. There are still many trials ahead of us."
+      ],
+      "commission": [
+        "委托组已经回来了。抽空审阅下他们的工作实绩吧。",
+        "委託組、戻ってきたわよ。実績のほうをあとでチェックしなさいな",
+        "The commission fleet has returned. Don't forget to check the performance records later."
+      ],
+      "strengthening": [
+        "这下就能更好地护航了~",
+        "護衛任務、より確実にこなせるようになったのかしら？",
+        "I wonder if I'll be even better at my escort duties now?"
+      ],
+      "startingMission": [
+        "上吧！大家都要发挥出最好的水准！",
+        "行くわよ！最高のパフォーマンスを出すわ！",
+        "Let's go! I want to see everyone at their best!"
+      ],
+      "mvp": [
+        "哼~看到了吧！这是只属于我的荣耀时刻~",
+        "ふーん、目に焼き付けたのかしら？私だけの輝かしい瞬間を",
+        "Hmph! Did you witness that? That's the glory that only I can bring to bear~"
+      ],
+      "defeat": [
+        "居然会失败……真狼狈。",
+        "負けるなんて……無様ね",
+        "To think that I would lose... how unsightly!"
+      ],
+      "skillActivation": [
+        "护航还是要看我的！",
+        "護衛は私に任せてちょうだい！",
+        "Leave the escort duties to me!"
+      ],
+      "lowHP": [
+        "不能再掉以轻心了！",
+        "油断してはいけないわ！",
+        "We can't afford to be careless!"
+      ],
+      "affinityDisappointed": [
+        "哼，被我无视，是你咎由自取！",
+        "ふん、私に無視されるのも自業自得ではなくて？",
+        "Hmph. If it's about me ignoring you, you brought this upon yourself!"
+      ],
+      "affinityStranger": [
+        "接下来我会处理一些文书并审核一些训练计划，指挥官最好也帮忙看下其中的细节，可别拖了我后腿哟~",
+        "次は書類作業と訓練プランの審査を行うの。指揮官もちゃんとチェックしなさい。私のペースを遅らせるんじゃないわ",
+        "Next, I'll handle the paperwork and review the training plans. Commander, make sure to check my work properly. Don't slow me down, got it?"
+      ],
+      "affinityFriendly": [
+        "被我迷住也是没办法的事。行吧，就允许你多发一下呆~",
+        "この私に魅されるのも仕方のないことよ。いいわ。もう少しそこでボーっとすることを許してあげる",
+        "Who can blame you for being so captivated by me? Very well, I'll allow you to gawk a bit longer."
+      ],
+      "affinityLike": [
+        "挨得这么近，是想感受一下我发梢的气味吗？嘻嘻，怎么样，有没有海风的味道？",
+        "こんなに近くまで寄って、もしかして私の髪の匂いが気になるのではなくて？うふふ、どう？海風の香りでもあるのかしら？",
+        "Sidling up to me this closely... Are you trying to smell my hair? Hehe, how is it? Does it remind you of the sea breeze?"
+      ],
+      "affinityLove": [
+        "缺了我总觉得浑身不自在？放心吧，我会为你尽心护航的，所以，你也要尽心陪着我才好~",
+        "私がいないと違和感を感じるって？安心して、私がいつも貴方の護衛についているから。むしろ貴方も、私のそばにずっといなさいな",
+        "You feel uneasy when I'm not around? Don't worry, I'll always be here to escort you. As a matter of fact, you should make sure to always be around me."
+      ],
+      "pledge": [
+        "感到光荣吧，你已经得到我孟菲斯的认可了~我现在对你可是充满期待哟，可不要让我失望了~",
+        "光栄に思いなさい。貴方は私、メンフィスに認められたのよ――これからも期待しているから、失望させないでちょうだい",
+        "Do you feel honored? You've managed to earn my recognition. From here on out, I'll have high expectations for you, so don't let me down~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Omaha, Raleigh, Richmond) 好不容易能一起出战。跟我前进吧~",
+        "(Sortie with at least 1 of: Omaha, Raleigh, Richmond) せっかく一緒に出撃するんだから、私のペースに付いてきなさいな",
+        "(Sortie with at least 1 of: Omaha, Raleigh, Richmond) At long last, we're finally able to fight together. Follow my lead!"
+      ],
+      "giftDescriptionValentines2019": [
+        "节日快乐，指挥官。这可是新鲜现做的巧克力呢，要第一时间把它吃掉哦！",
+        "バレンタインおめでとう、指揮官。私からのプレゼントはこの作りたてのチョコレートよ、早く食べなさいな。ふふふ",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I used my spare time between work to make this chocolate. Happy Valentine's, Commander. Phew... Hopefully this'll do. Anyway, I hope I can count on your support, as always."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Memphis_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Memphis_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Memphis_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Memphis_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Memphis_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Memphis_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Memphis_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Memphis_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Memphis_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Memphis_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Memphis_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Memphis_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Memphis_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Memphis_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Memphis_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Memphis_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Memphis_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Memphis_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Memphis_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Memphis_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Memphis_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Memphis_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Memphis_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Memphis_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Memphis_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Memphis_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Memphis_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Memphis_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Memphis_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Memphis_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Memphis_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Memphis_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Memphis_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Memphis_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Memphis_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Memphis_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Memphis_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Memphis_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Memphis_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Memphis_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Memphis_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Memphis_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Memphis_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Memphis_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Memphis_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Memphis_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Memphis_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Memphis_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Memphis_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Memphis_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Memphis_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Memphis_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Memphis_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Memphis_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Memphis_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Memphis_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Memphis_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Memphis_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Memphis_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Memphis_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Memphis_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Memphis_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Memphis_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Memphis_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Memphis_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Memphis_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Memphis_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Memphis_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Memphis_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Memphis_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Memphis_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Memphis_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Memphis_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Memphis_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Memphis_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Memphis_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Memphis_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Memphis_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Memphis_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Memphis_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Memphis_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Casual Vacation",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "海风之旅",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "カジュアルバケーション",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 700",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/00/MemphisCasual.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fd/MemphisCasualChibi.png",
+      "shipDescription": [
+        "嗯？这身打扮很稀奇吗？我也是有休息日的哦？不觉得像这样悠闲地吹着海风很舒服么～？哼哼～",
+        "あら、この格好はそんなに珍しいかしら？私だって非番の日にはあるのよ？ふふん、こうしてのんびりと海風を浴びるのも気持ちいいと思わない？",
+        "Oh my, do I really look so unusual in this outfit? I want to be able to enjoy my day off as well, you know? Hehe, don't you think it feels nice to just sit back and take in the ocean breeze?"
+      ],
+      "acquisition": [
+        "嗯？这身打扮很稀奇吗？我也是有休息日的哦？不觉得像这样悠闲地吹着海风很舒服么～？哼哼～",
+        "あら、この格好はそんなに珍しいかしら？私だって非番の日はあるのよ？ふふん、こうしてのんびりと海風を浴びるのも気持ちいいと思わない？",
+        "Oh my, do I really look so unusual in this outfit? I want to be able to enjoy my day off as well, you know? Hehe, don't you think it feels nice to just sit back and take in the ocean breeze?"
+      ],
+      "login": [
+        "早安，今天的风也很棒，是适合乘船旅行的日子呢，你不觉得吗？",
+        "おはよう。今日もいい風。船旅にはもってこい、というべきかしら？",
+        "Morning. There's a nice wind blowing today. Perfect for a cruise, wouldn't you say?"
+      ],
+      "secretaryIdle1": [
+        "呼…今天就稍微放松一下吧…你也是，该休息的时候好好休息，才能在需要努力的时候更好的努力哦？",
+        "ふぅ…今日は気楽に過ごそうかしら……貴方も、努力すべきときは努力して、休める時は休むべきではなくて？",
+        "Phew... Let's hope this will be a relaxing day... Hey, Commander, you know what \"work hard, play hard\" means, right?"
+      ],
+      "secretaryIdle2": [
+        "拍照技术？虽说比不上真正的专业人士，不过好歹也是有不少经验的，可不会让你随便小瞧的哦？",
+        "カメラの腕？プロ顔負けとまで行かなくても経験者、侮らせはしないわよ？",
+        "My pictures? I wouldn't say I put the pros to shame, but I am experienced. Don't go underestimating my ability."
+      ],
+      "secretaryIdle3": [
+        "和布鲁克林偶尔会一起出门，不过和我不一样，她就算休息的时候也不大会放松……不，应该说她放松的方式和我完全不一样…吧……",
+        "ブルックリンとはたまに一緒に出かける仲よ。彼女は私と違って休みのときでもなかなかリラックスしないわ。…ううん、リラックスの仕方がぜんぜん違う、とでも言うべきかしら……",
+        "Brooklyn and I sometimes go out on day trips. Unlike me though, she just refuses to relax even on vacation days... Or rather, we each relax in very different ways, I suppose."
+      ],
+      "secretaryTouch": [
+        "训练？你是不知休息日是什么意思吗？",
+        "訓練？貴方、休日の意味をわかっていないのかしら？",
+        "Training? Hello, do you not understand what it means to be on vacation?"
+      ],
+      "secretarySpecialTouch": [
+        "呀啊！？你、你干嘛啦！？",
+        "きゃっ！？な、何をするの！？",
+        "Eek! Wh-what was that for?!"
+      ],
+      "returnFromMission": [
+        "（咔嚓）这边风景真不错！啊，指挥官你回来了啊？照片？哼哼，一会再给你看吧",
+        "（パシャッ！）これはいい眺めね！あら、指揮官、戻ってきたの？写真？ふふん、あとで見せてあげるわ",
+        "The view here is gorgeous! Oh, you're back, Commander? The picture I just took? Heheh, I'll show you later."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Memphis_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Memphis_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Memphis_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Memphis_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Memphis_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Memphis_LogSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/Memphis_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Memphis_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/Memphis_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Memphis_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Memphis_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Memphis_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Memphis_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Memphis_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Memphis_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Memphis_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Memphis_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Memphis_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Memphis_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Memphis_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Memphis_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Memphis_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Memphis_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Memphis_MissionFinSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Mystical Night",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "Mystical Night",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "ミスティックナイト",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Halloween Chaos - Complete all \"Halloween Chaos\" tasks",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/26/MemphisHalloween.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/47/MemphisHalloweenChibi.png",
+      "shipDescription": [
+        "就算是狂欢，也要拿出干劲，全力以赴才行呢~指挥官，准备好了吗？愉快的万圣之夜现在才要开始呢~",
+        "お祭り騒ぎは全力でやってこそよ？指揮官、準備はいいかしら？全力でハロウィンを楽しんでいくわよ？",
+        "We have to work hard if we want to play hard, isn't that right, Commander? Are you ready for our happy Halloween?"
+      ],
+      "acquisition": [
+        "就算是狂欢，也要拿出干劲，全力以赴才行呢~指挥官，准备好了吗？愉快的万圣之夜现在才要开始呢~",
+        "お祭り騒ぎは全力でやってこそよ？指揮官、準備はいいかしら？全力でハロウィンを楽しんでいくわよ？",
+        "We have to work hard if we want to play hard, isn't that right, Commander? Are you ready for our happy Halloween?"
+      ],
+      "login": [
+        "指挥官来得正好~一起来做个南瓜灯吧？可要按照我的最高标准来做~",
+        "指揮官、ちょうどいいところに。カボチャランプを作るの、手伝ってくれない？ふふ、作るからには私のペースで行くわよ？",
+        "Commander, you came at just the right time~! Shall we go carve the jack-o'-lanterns together? Just make sure you keep up with my high standards!"
+      ],
+      "details": [
+        "指挥官要来颗糖果吗？我从阿贝克隆比那里拿来的~（瞄）",
+        "指揮官、お菓子でもいかがかしら？アバークロンビーちゃんからもらってきたの",
+        "Commander, are you here to trick-or-treat? Here, I got this candy from Abercrombie."
+      ],
+      "secretaryIdle1": [
+        "给来访的孩子们发糖果的任务就交给你了，指挥官~…我？嘻嘻，当然是想办法再要点糖果回来~",
+        "指揮官、お菓子配りを任せるわよ。私？ふふ、もちろんお菓子をもうちょっと調達してくるわ",
+        "I'll let you handle giving candy out to the trick-or-treaters, Commander~ Me? Hehe, of course I'm going to go bring back more candy~"
+      ],
+      "secretaryIdle2": [
+        "现在的我可是魔女哦，不好好表现的话，就把你变成幽灵~嘻嘻，开玩笑的",
+        "ええ、魔女として素行の悪い指揮官をお化けにしちゃおうかしら？ふふ、冗談よ",
+        "I'm a witch now, so if you're not on your best behavior, I'll turn you into a critter~ Hehe, just kidding!"
+      ],
+      "secretaryIdle3": [
+        "扫帚和魔女可是标准搭配，不接受反驳哦",
+        "魔法とホウキこそ定番――反論なんて許さないわよ？",
+        "Look, a witch and her broomstick are always paired together. I won't hear your objections!"
+      ],
+      "secretaryTouch": [
+        "指挥官也想和我一起坐扫帚吗？真拿你没办法…掉下去我可不管哦？",
+        "指揮官もこのホウキに乗りたいのかしら？しょうがないわね…落ちても知らないわよ？",
+        "Commander, you'd like to sit on the broom with me? I suppose you can... but it's not my problem if you fall off, okay?"
+      ],
+      "secretarySpecialTouch": [
+        "…还是把你从扫帚上踢下去算了！",
+        "…蹴り落としてやるわよ！",
+        "... I should just boot you off the broomstick and be done with it!"
+      ],
+      "returnFromMission": [
+        "大家都在用各自的方式享受着万圣节呢，嗯嗯~很好很好~",
+        "みんなハロウィンを楽しんでるわね。ふふ、良かったわ",
+        "Everyone has a different way of enjoying Halloween. Hehe, that's how it should be~"
+      ],
+      "startingMission": [
+        "让你们尝尝魔女的厉害~",
+        "魔女の力を思い知りなさい！",
+        "Have a taste of a witch's power!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8f/Memphis_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Memphis_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8f/Memphis_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Memphis_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Memphis_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Memphis_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Memphis_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Memphis_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Memphis_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Memphis_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Memphis_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Memphis_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Memphis_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Memphis_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Memphis_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Memphis_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Memphis_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Memphis_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Memphis_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Memphis_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Memphis_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Memphis_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Memphis_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Memphis_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Memphis_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Memphis_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Memphis_MissionFinSkin2JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Memphis_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Memphis_MissionStartSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Memphis_MissionStartSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

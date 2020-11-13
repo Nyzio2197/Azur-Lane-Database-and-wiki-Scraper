@@ -1,0 +1,528 @@
+{
+  "name": "Nagara",
+  "constructionTime": "01:05:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Normal",
+  "shipClass": "Nagara",
+  "ID": "182",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "大月紅葉",
+  "pixiv": "https://www.pixiv.net/member.php?id=591937",
+  "twitter": "https://twitter.com/dayuehongye",
+  "link": "http://weibo.com/ootsukimomiji",
+  "voiceActor": "https://en.wikipedia.org/wiki/Akari_Kit%C5%8D",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2891,
+      173,
+      36,
+      140,
+      279,
+      105,
+      36,
+      278,
+      0,
+      8,
+      145,
+      84,
+      0,
+      0
+    ],
+    "Level 100": [
+      2547,
+      150,
+      36,
+      122,
+      244,
+      80,
+      36,
+      243,
+      0,
+      8,
+      129,
+      73,
+      0,
+      0
+    ],
+    "Base Stats": [
+      493,
+      64,
+      36,
+      26,
+      52,
+      31,
+      36,
+      52,
+      0,
+      2,
+      50,
+      20,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "110% → 110%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "135% → 160%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 125%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 7,
+  "level120StatBonus": "Light cruiser (CL) Health  +1",
+  "level120TechPoints": 5,
+  "enhancementValue": [
+    11,
+    17,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Anti-Air Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-長良型",
+  "skill2Description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Nagara Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/7c/Nagara.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cd/NagaraChibi.png",
+      "shipDescription": [
+        "长良级轻巡洋舰一番舰—长良",
+        "長良型軽巡洋艦一番艦・長良",
+        "First ship of the Nagara-class light cruisers, Nagara."
+      ],
+      "selfIntroduction": [
+        "重樱长良级轻巡洋舰一号舰。参加过所罗门、中太平洋等各处海战，中途岛时代替沉没的赤城担起旗舰职责，指挥了大家的撤退，不过到底还是逃不过被潜艇击沉的宿命呢……嘿嘿~",
+        "重桜長良型軽巡の一番艦、長良よ。ソロモンと、南太平洋などの海戦に参加して、ミッドウェイ海戦では沈んだ赤城さんの代わりに旗艦を勤め、みんなの撤退を指示したよ。最後は潜水艦に沈められちゃったけど……えへへ…",
+        "I'm the first ship of the Nagara-class light cruisers from the Sakura Empire. I took part in various battles in the Solomon Seas and in the center Pacific. During Midway, I took over Akagi's role as flagship after she sank and then coordinated our retreat. In the end, though, I too met the fate of being sunk by a submarine..."
+      ],
+      "acquisition": [
+        "诶嘿嘿，我是长良。指挥官，有期待我的加入吗？",
+        "えへへーあては長良っていうの。指揮官、あてのこと、期待してた？",
+        "Eheh, I'm Nagara. Commader, have you been anticipating my arrival?"
+      ],
+      "login": [
+        "戳戳~指挥官，在发呆吗？",
+        "つんつん、つんつん~指揮官、ぼーっとしてるの？",
+        "Hey, hey~ Commander, were you daydreaming again?"
+      ],
+      "details": [
+        "指挥官喜欢什么样的女孩子呢？——诶嘿嘿，是吗～",
+        "指揮官はどんな子がタイプなの？ーーえへへーそぉ？",
+        "What kind of girl do you like, Commander? Hehe. Oh yeah?"
+      ],
+      "secretaryIdle1": [
+        "被雨淋湿了就得赶紧换衣服……唔，要不要把我的衣服借给你？",
+        "雨に濡れたら服を着替えたほうがいいよ？……えっと、あての服を貸そうか？",
+        "You need to change clothes after getting soaked... Hey, do you want to borrow mine?"
+      ],
+      "secretaryIdle2": [
+        "阿武隈能交到朋友真是太好了，就是……",
+        "阿武隈ちゃん、お友達ができて本当によかった~はい、その子はね…",
+        "It's great that Abukuma is finally making friends, but..."
+      ],
+      "secretaryIdle3": [
+        "戳戳~指挥官的脸好可爱~",
+        "つんつん~指揮官の顔、すごく可愛い~",
+        "Commander~ Your face is so~ cute~!"
+      ],
+      "secretaryTouch": [
+        "指挥官碰到什么麻烦了吗？",
+        "指揮官、面倒事に巻き込まれたの？",
+        "Have you run into any trouble, Commander?"
+      ],
+      "secretarySpecialTouch": [
+        "有时候搞不懂指挥官想做些什么呢~",
+        "うーん、時々指揮官が何をしようとしているのか、ちょっとわからないよね…えへへー",
+        "Sometimes I really don't understand what you're trying to do, Commander..."
+      ],
+      "task": [
+        "偶尔休息一下、偷偷懒应该是会被原谅的吧，诶嘿嘿~",
+        "たまには少しズル休みして、サボっちゃってもいいよね？えへへー",
+        "If it's just taking a break once in a while, I think I can let that go."
+      ],
+      "taskComplete": [
+        "哇，完成了吗！？指挥官，好厉害！",
+        "わぁ、完了したの？指揮官、すごーい！",
+        "Wow, finished already? Well done, Commander!"
+      ],
+      "mail": [
+        "诶嘿嘿～指挥官，有新邮件",
+        "えへへー指揮官、新しい手紙だよ？",
+        "Hehe, Commander~! You've got new mail~!"
+      ],
+      "returnFromMission": [
+        "太好了，指挥官平安无事地回来了",
+        "指揮官が無事に帰った…よかったあ…",
+        "It's great to see that you returned safe and sound, Commander~!"
+      ],
+      "commission": [
+        "军事委托？那也是我的工作范围呢",
+        "軍事委託？そういえばこれもあてのお仕事ね",
+        "Commissions? That's part of my job too."
+      ],
+      "strengthening": [
+        "氧气鱼雷……好想要……",
+        "酸素魚雷……すごくほしいなぁ……",
+        "Oxygen Torpedoes.....I want......."
+      ],
+      "startingMission": [
+        "这次的敌人是什么？",
+        "今度の敵はなぁに？",
+        "Who is the enemy this time?"
+      ],
+      "mvp": [
+        "希望每场战斗都能像今天一样漂亮~",
+        "次の戦闘も、今日のようにうまく行けばいいなぁー",
+        "I hope every battle goes as well as this one did~!"
+      ],
+      "defeat": [
+        "呜哇，指挥官，我们先撤退吧",
+        "あわわ、指揮官、早く撤退しよう！",
+        "*Cries* Commander, let's retreat..."
+      ],
+      "skillActivation": [
+        "嘿嘿，做好准备了吗？",
+        "えへへー準備はいい？",
+        "Hehe, are you ready?"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官，请打起精神……",
+        "指揮官、元気出して……",
+        "Come on, Commander, cheer up~!"
+      ],
+      "affinityStranger": [
+        "唔，今天晚餐给妹妹们做什么好呢~",
+        "うーん、今日の夕食は妹たちに何を作ろうかな…",
+        "Hmm... What should I cook for my little sisters tonight?"
+      ],
+      "affinityFriendly": [
+        "指挥官~哎？没事啦，就是突然想打个招呼，嘿嘿~",
+        "指揮官~うん？別に何もないよ？ちょっと挨拶したくなちゃって、えへへー",
+        "Commander? Oh, nothing. I just wanted to say hi!"
+      ],
+      "affinityLike": [
+        "伴随护卫？这种事情我已经驾轻就熟啦，这次是？诶——和指挥官一起私访港区！？",
+        "随伴護衛？こういうのはあての十八番よ。今度はどの子なの？えーー指揮官と一緒に寮舎に潜入するの！？",
+        "An escort? That's my specialty. And this time? Ah, going to port with you, undercover?!"
+      ],
+      "affinityLove": [
+        "昨天看到了好多姐妹不为人知的一面呢……指挥官想看我不为人知的一面？唔……怎么办好呢？",
+        "昨日はみんなの知らない一面を一杯見れちゃったね……指揮官はあての知らない一面を知りたいの？うーん……どうしよう… かな？",
+        "Yesterday, I saw a side of my sisters that I hadn't seen before... Commander, do you want to see a side of me you haven't before? Hm... what should I do?"
+      ],
+      "pledge": [
+        "……嘿嘿~指挥官，准备好了吗？嗯，那我闭上眼睛了……",
+        "……えへへ~指揮官、準備はいい？うん、じゃあ、目を閉じるね……",
+        "... Hey~ Commander, are you ready? Okay, I'm closing my eyes..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Abukuma) 阿武隈，不要总缠着大井啦……",
+        "(Sortie with Hatsuharu) 初春ちゃん、今度は気をつけるね~えへへー",
+        "(Sortie with Abukuma) Abukuma shouldn't always pester Oi..."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、ハッピーバレンタイン♪あての手作りチョコ、食べて食べて～また食べたくなったらあてに言ってね♪",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，请吃情人节巧克力～嘿嘿～因为指挥官给我做过好多，我大体上已经能掌握指挥官喜欢的味道了哦～是吧？嗅嗅～",
+        "指揮官、バレンタインチョコをどうぞ～ えへへ～指揮官があてにいっぱい作ってくれたから、好きそうな味はだいたい掴めた気がしてるな～ね？つん、つん～",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, here's your Valentine's chocolate~ And would you like me to cook for everyone today? Ehehe, it's no trouble at all. Making chocolate isn't that hard, and I really love making it for you ♪"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Nagara_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Nagara_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Nagara_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Nagara_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Nagara_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Nagara_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Nagara_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Nagara_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Nagara_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Nagara_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Nagara_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Nagara_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagara_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagara_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Nagara_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Nagara_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Nagara_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Nagara_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Nagara_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Nagara_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Nagara_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Nagara_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Nagara_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Nagara_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagara_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagara_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Nagara_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Nagara_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Nagara_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Nagara_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/99/Nagara_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Nagara_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/99/Nagara_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Nagara_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Nagara_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Nagara_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Nagara_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Nagara_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Nagara_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Nagara_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Nagara_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Nagara_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Nagara_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Nagara_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Nagara_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Nagara_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Nagara_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Nagara_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Nagara_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Nagara_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Nagara_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Nagara_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Nagara_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Nagara_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Nagara_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Nagara_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Nagara_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Nagara_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Nagara_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Nagara_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Nagara_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Nagara_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Nagara_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Nagara_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Nagara_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Nagara_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Nagara_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Nagara_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Nagara_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Nagara_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Nagara_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Nagara_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Nagara_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Nagara_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Nagara_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Nagara_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Nagara_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Nagara_Extra1JP.ogg"
+      ]
+    },
+    {
+      "CNClientName": "悠闲春日",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "春風ゆらり",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/71/NagaraSpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b0/NagaraSpringChibi.png",
+      "shipDescription": [
+        "啊，指挥官，你好呀。嗯？你说房间吗？啊，这些是我在明石那里购买的东煌风装饰哦？春节期间特卖，我感觉很漂亮，就买下来了~欸嘿嘿",
+        "こんばんは、指揮官。この部屋…？あー、これは明石のお店で売ってた、簡易東煌（とうこう）風インテリアセットだよ。綺麗だし、「旧正月セール価格」だから、つい買っちゃった。えへへ",
+        "啊，指挥官，你好呀。嗯？你说房间吗？啊，这些是我在Akashi那里购买的东煌风装饰哦？春节期间特卖，我感觉很漂亮，就买下来了~欸嘿嘿"
+      ],
+      "acquisition": [
+        "啊，指挥官，你好呀。嗯？你说房间吗？啊，这些是我在明石那里购买的东煌风装饰哦？春节期间特卖，我感觉很漂亮，就买下来了~欸嘿嘿",
+        "こんばんは、指揮官。この部屋…？あー、これは明石のお店で売ってた、簡易東煌（とうこう）風インテリアセットだよ。綺麗だし、「旧正月セール価格」だから、つい買っちゃった。えへへ",
+        "啊，指挥官，你好呀。嗯？你说房间吗？啊，这些是我在Akashi那里购买的东煌风装饰哦？春节期间特卖，我感觉很漂亮，就买下来了~欸嘿嘿"
+      ],
+      "login": [
+        "指挥官，要来喝杯茶吗？",
+        "指揮官、このお茶でもいかが？",
+        "指挥官，要来喝杯茶吗？"
+      ],
+      "details": [
+        "指挥官春节期间有什么想做的事吗？我的话，想要躺在房间里喝着茶看着书，悠悠哉哉地度过呢",
+        "指揮官、旧正月休みはどう過ごしたいの？あては…うん、部屋でのんびりとお茶したり読書したり、ゴロゴロしたいかな～えへへ",
+        "指挥官春节期间有什么想做的事吗？我的话，想要躺在房间里喝着茶看着书，悠悠哉哉地度过呢"
+      ],
+      "secretaryIdle1": [
+        "指挥官，你有看到鬼怒吗？她呀，我一说要给她掏耳朵就不知道跑哪里去了，真是的，姐姐给妹妹掏耳朵不是天经地义的事情嘛…",
+        "指揮官、鬼怒ちゃん見なかった？耳かきしてあげようと思ったのに逃げちゃって…もう、妹に耳かきするの、別に普通なのにぃ…",
+        "指挥官，你有看到Kinu吗？她呀，我一说要给她掏耳朵就不知道跑哪里去了，真是的，姐姐给妹妹掏耳朵不是天经地义的事情嘛…"
+      ],
+      "secretaryIdle2": [
+        "指挥官，我跟你说哦，刚才啊，阿武隈，居然主动来找我喝茶了呢，而且还让我掏耳朵了！好高兴呀！",
+        "指揮官、あのね、阿武隈ちゃんがね、一緒にお茶を飲んで耳かきさせてくれるようになったの！えへへ、嬉しい！",
+        "指挥官，我跟你说哦，刚才啊，Abukuma，居然主动来找我喝茶了呢，而且还让我掏耳朵了！好高兴呀！"
+      ],
+      "secretaryIdle3": [
+        "总觉得比平时成熟了一些？唔…我可是长良级的大姐头，一直都很成熟的才是呀…",
+        "雰囲気がいつもと違って大人っぽい？んー、あては長良型の一番艦だから普段でも全然大人っぽいと思うけど…",
+        "总觉得比平时成熟了一些？唔…我可是Nagara级的大姐头，一直都很成熟的才是呀…"
+      ],
+      "secretaryTouch": [
+        "指挥官也想掏耳朵吗？可以哦，来，请躺下来~",
+        "指揮官も耳かき、してほしいの？いいよ、はい、どうぞ～（ポンポン",
+        "指挥官也想掏耳朵吗？可以哦，来，请躺下来~"
+      ],
+      "secretarySpecialTouch": [
+        "呀~指挥官，挖出血我可不管哦？",
+        "もう、指揮官、耳かき中に動いたら怪我しちゃうよ？",
+        "呀~指挥官，挖出血我可不管哦？"
+      ],
+      "returnFromMission": [
+        "指挥官，快看，茶柱立起来了呢，今天一定会有好事发生哦~",
+        "指揮官、ほら、茶柱が立ったよ。今日はきっと、いいことが起きるな～",
+        "指挥官，快看，茶柱立起来了呢，今天一定会有好事发生哦~"
+      ],
+      "affinityLove": [
+        "像这样一边和指挥官聊天，一边为指挥官掏耳朵，总觉得和恋人一样呢……嘻嘻，我什么都没说~嗯~~虽然采耳已经结束了，不过您想要多躺一会的话也没关系哦~",
+        "（小声）指揮官に耳かきしながらおしゃべりするの、なんだかカップルっぽいね～ううん、なんもないの。はい、これで耳かきおしまい。このまま横になっても大丈夫よ？ツンツン♪",
+        "像这样一边和指挥官聊天，一边为指挥官掏耳朵，总觉得和恋人一样呢……嘻嘻，我什么都没说~嗯~~虽然采耳已经结束了，不过您想要多趟一会的话也没关系哦~"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

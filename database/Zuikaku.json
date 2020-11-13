@@ -1,0 +1,704 @@
+{
+  "name": "Zuikaku",
+  "constructionTime": "04:30:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Shoukaku",
+  "ID": "229",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "Enka",
+  "pixiv": "https://www.pixiv.net/member.php?id=3321609",
+  "twitter": "https://twitter.com/enka996",
+  "link": "http://weibo.com/maoqishi",
+  "voiceActor": "https://en.wikipedia.org/wiki/Risa_Taneda",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      7193,
+      120,
+      73,
+      0,
+      0,
+      57,
+      34,
+      323,
+      414,
+      13,
+      87,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6365,
+      104,
+      73,
+      0,
+      0,
+      36,
+      34,
+      285,
+      372,
+      13,
+      78,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1231,
+      44,
+      73,
+      0,
+      0,
+      14,
+      34,
+      61,
+      79,
+      4,
+      30,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "115% → 130%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "110% → 125%",
+  "collectionStatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 16,
+  "maxLimitBreakTechPoints": 32,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +2",
+  "level120TechPoints": 24,
+  "enhancementValue": [
+    0,
+    0,
+    64,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    10
+  ],
+  "limitBreak1": "Number of Dive Bombers +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +7%",
+  "skill1Name": "Fifth Carrier Division (Zuikaku); CN: 五航战 JP: 五航戦",
+  "skill1Description": "If sortied with , increase own Air Power by 8% (20%) and reduce damage taken by self by 8% (20%).",
+  "skill2Name": "Crane's Endeavor; CN: 鹤之奋进 JP: 奮進の鶴",
+  "skill2Description": "When launching an airstrike: permanently increases the damage of next airstrike by 8% (20%). Can be stacked 3 times.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/08/Zuikaku.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png",
+      "shipDescription": [
+        "翔鹤级航空母舰二番舰—瑞鹤",
+        "翔鶴型航空母艦・瑞鶴",
+        "Second ship of the Shoukaku-class aircraft carriers, Zuikaku."
+      ],
+      "selfIntroduction": [
+        "我是五航战的瑞鹤！嘛，虽然也去过一航战就是啦。和姐姐一同，在前辈们华丽丽地退场后成为了重樱仅存的精锐航母。虽然还有一些后辈，可遗憾的是没发挥什么作用就都去追随一航战们了。参与击沉过列克星敦和大黄蜂，也重伤过企业，不过——灰色幽灵那家伙，说不定、不，是肯定比我更幸运吧！最后经列克星敦之手谢幕，也算是宿命和因果的轮回吧，不过和前辈们不同，在谢幕之前——我可是好好地把自己最后的任务完成了哟！",
+        "私は五航戦の瑞鶴よ！姉と一緒に先輩たちが沈んだあと重桜最後の精鋭空母として頑張って、レキシントンさんとホーネット、エンタープライズ－－そう、私よりも幸運なあの「グレイゴースト」とも戦った！最後は沈んじゃったけど、全力を尽くしたから、悔いはないわ！",
+        "I’m Zuikaku from the Fifth Carrier Divison, though I was assigned to the First Carrier Division at one point. Together with my sister Shoukaku, we became the last two elite carriers of the Sakura Empire. We triumphed in bitter battles against Lexington, Hornet, and even Enterprise. That’s right, I was even able to severely damage the Grey Ghost herself, although she proved to be luckier than me. My service came to an end when Lexington, risen from the dead, sunk me. In the end, I still completed my final mission and sank with no regrets."
+      ],
+      "acquisition": [
+        "我是重樱航空战队最后的精锐——瑞鹤！不过……指挥官，只有在翔鹤姐身边我才能发挥出全部的战斗力唷",
+        "重桜航空戦隊所属、かつての大戦最後の精鋭空母ーー瑞鶴よ！まあ、翔鶴姉がいてくれたほうが私の力を最大限に発揮出来るの。というわけで、よろしく頼むわ",
+        "I am Zuikaku, the last elite of the Sakura Empire’s Carrier Divisions. I can only be at my best when I am with my sister Shoukaku."
+      ],
+      "login": [
+        "今天要去哪里？珍珠港还是珊瑚海？",
+        "今日はどっち？真珠湾？それとも珊瑚海？",
+        "Where are we going today? Pearl Harbor? Or perhaps the Coral Sea?"
+      ],
+      "details": [
+        "真想和她单独决斗一次啊，那个灰色幽灵——",
+        "一対一で本気勝負をしたいな…「グレイゴースト」！",
+        "That Grey Ghost... I’d like to duel her just once."
+      ],
+      "secretaryIdle1": [
+        "现在这样别扭的翔鹤姐也很可爱！",
+        "拗ねてる翔鶴姉も可愛いよ！",
+        "Shoukaku is so cute when she’s embarrassed!"
+      ],
+      "secretaryIdle2": [
+        "直到最后都坚持到底，这才是所谓的“精锐”！",
+        "最後の最後まで戦う…これこそ「精鋭」よ！",
+        "Keep fighting until the last arrow is broken! That is what it means to be an elite!"
+      ],
+      "secretaryIdle3": [
+        "等等，灰色幽灵，不要赢了就跑！再、再来一次，这次我一定——",
+        "待て！「グレイゴースト」！勝ち逃げは許さないわよ！も、もう一回！もう一回だけ勝負だー！今度こそ絶対勝ってやる――！",
+        "Wait, Grey Ghost, don’t run away just because you won! Let’s have a rematch!"
+      ],
+      "secretaryTouch": [
+        "我最讨厌的食物？当然是火鸡咯",
+        "嫌いな食べ物？七面鳥よ！",
+        "My least favorite food? Turkey, of course."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，翔鹤姐的更大更软唷",
+        "指揮官？翔鶴姉のほうがもっと大きくて柔らかいんだよ？",
+        "Commander, Shoukaku’s are larger and softer..."
+      ],
+      "task": [
+        "到休息时间了？指挥官，也来尝尝翔鹤姐的手艺吧，嚼嚼～",
+        "もう休憩なの？あ、翔鶴姉の作った料理、指揮官も食べてみてよ！ほら！（もぐもぐ）",
+        "Is it time for a break? Commander, you should come try some of Shoukaku’s cooking!"
+      ],
+      "taskComplete": [
+        "这样、局势应该会稍稍好转一些吧",
+        "これで戦局も少し好転するはず…だよね…",
+        "Hmm... Seems like the situation has taken a turn for the better!"
+      ],
+      "mail": [
+        "那么，是好消息？还是坏消息？",
+        "で、グッドニュース？バッドニュース？",
+        "So? Is it good news or bad news?"
+      ],
+      "returnFromMission": [
+        "好好整备一下吧——不过，可不能耽误战机！",
+        "整備はちゃんと行うようお願いするねーーあっ、でも戦機を逃してはダメよ！",
+        "I’ll need you to perform some maintenance on me. Ah, don’t forget about the planes either!"
+      ],
+      "commission": [
+        "如果能有更多的舰载机……",
+        "もっと艦載機があれば……！",
+        "If only I had more planes...!"
+      ],
+      "strengthening": [
+        "前辈也好、幽灵也好——作为理想型航空母舰，无论和谁比都不会输！",
+        "完成されし空母として、先輩たちにも「グレイゴースト」にも、絶対に負けないわ！",
+        "As a perfected aircraft carrier, I shall not lose to anyone, not even to my seniors or to the Grey Ghost herself."
+      ],
+      "startingMission": [
+        "与像下饺子一样茫茫多的敌舰战斗——我早已习惯了！",
+        "次から次へと出て来る敵――こんなのもう慣れっこだからね！",
+        "A never-ending swarm of enemies? I’m already used to it."
+      ],
+      "mvp": [
+        "我可是幸运之鹤！",
+        "幸運艦の瑞鶴なんだから！",
+        "I am the auspicious crane, after all!"
+      ],
+      "defeat": [
+        "又要与大炮巨舰……一同消亡了吗……",
+        "また…沈むというの…",
+        "Am I going to be sunk... again...?"
+      ],
+      "skillActivation": [
+        "只要姐姐在我身边—!",
+        "お姉ちゃんさえいれば！",
+        "As long as Shoukaku is with me~!"
+      ],
+      "lowHP": [
+        "姐……姐姐呢？",
+        "姉ちゃん……翔鶴姉は大丈夫！？",
+        "Shoukaku... Is Shoukaku all right?"
+      ],
+      "affinityDisappointed": [
+        "指挥官，你想体验一下——马里亚纳海战时我的心情吗？",
+        "指揮官ってさ、マリアナ海戦の私の気持ちを体験したいの？",
+        "Commander, would you like a taste of the anguish I experienced during the Battle of the Marianas?"
+      ],
+      "affinityStranger": [
+        "呜哇，前辈也好后辈也好，都很让人头痛呢",
+        "あっちゃー…先輩も後輩もちょっと面倒くさいよね…",
+        "Seniors and juniors... they’re all such a pain."
+      ],
+      "affinityFriendly": [
+        "我的命运一直和列克星敦纠缠在一起……啊，指挥官，这句话不要告诉萨拉小姐，我可拿她没辙……",
+        "そう言えば私って昔レキシントンさんとずっとつるんでたんだよね……あ！指揮官、今のはサラトガさんにだけは言わないでね！私、あのコだけすっごく苦手だよ……",
+        "My fate always seems to be entertwined with Lexington’s... Ah~ Commander, please don’t tell Sara I said that. I can’t handle that girl."
+      ],
+      "affinityLike": [
+        "心情烦乱，不知道该做什么的时候就去训练吧！迟早有一天，我要追上那个“幽灵”！",
+        "イラッとする時や、何すればいいか分からない時はいつも訓練に行っているのよ！そう！私、いつか強くなって、絶対あの「グレイゴースト」を追い抜くんだから！",
+        "Whenever I feel irritated or lost, training always makes me feel at ease. Yes, I’ll definitely get stronger and catch up to that Grey Ghost one day."
+      ],
+      "affinityLove": [
+        "指挥官给我的感觉和翔鹤姐有点像呢……哎、哎？不是啦！我没有把指挥官当成姐姐啦！",
+        "指揮官って、ちょっと翔鶴姉と似てるよね……あ、あれ？違うよ！指揮官をお姉ちゃん扱いしてないってば！",
+        "Commander, you make me feel just as if I am with Shoukaku. H-huh? That’s not it! I’m not treating you as my sister!"
+      ],
+      "pledge": [
+        "哎、哎！这、这个代表的是……我、我没有想错吧！？那、那个……从今以后，请多多指教了，亲、亲爱的！呜哇呜哇！翔鹤姐在叫我！",
+        "え、えええ！？こ、これって……勘違いしていないよね！？そ、その……これからよ、よろしくお願いします…ね？あ、ああ、あなた……わあああ！翔鶴姉が呼んでるよ！！",
+        "E-eh?! Th-this is... I’m not misunderstanding you, right? Then... um, from now on, I’ll be in your care, dar... darling? Waaah! Shoukaku is calling me!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Shoukaku) 只要有姐姐在身边，我就无所畏惧！",
+        "(Sortie with Shoukaku) 翔鶴姉さえいればもう何も怖くない！",
+        "(Sortie with Shoukaku) I'm fearless, as long as my sister is with me!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Phoenix) 不知为何，就是觉得你很讨厌……",
+        "(Sortie with Phoenix) 理由はわからないけど、あんたのことが気に入らないね…",
+        "(Sortie with Phoenix) I don't know why, but I just find you terribly annoying..."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Lexington) 得分1:1，第三局开始！",
+        "(Sortie with Lexington) まだ引き分けよ！次で勝負を決めるわよ！",
+        "(Sortie with Lexington) That ties up the score. Next round decides the winner!"
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with Saratoga) 呜哇，一不留神就跑到了我的身边！",
+        "(Sortie with Saratoga) うわ！？サラトガさんいつの間に…！？",
+        "(Sortie with Saratoga) Uwah! When did you get here?!"
+      ],
+      "additionalVoiceLine5": [
+        "(Sortie with Enterprise) 真没想到能和那个“灰色幽灵”并肩战斗！",
+        "(Sortie with Enterprise) 「グレイゴースト」と一緒に戦えるなんて…！",
+        "(Sortie with Enterprise) I never thought I'd fight alongside the Grey Ghost herself!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "チョコレートなんて贈ったことないから何を言えばいいかわからないよね……まあとにかく、指揮官、いつもお疲れ様！これからも私たち五航戦に期待してねっ！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "「指揮官、いつもお疲れ様！はい！」…ってこんな感じで渡していいんだっけ？あっ、それとも…「私の気持ちを受け取ってください！///」こ、この感じのほうがいい、かな…？",
+        "I've never given chocolate before, so I'm not sure what to say at a time like this... Um, thank you for your hard work, Commander, and please continue to support us!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, take this as a symbol of my gratitude! Thank you for always looking after me and Shoukaku, and everyone else in the fleet! I'm really... sniff... really grateful I was able to meet you, Commander...!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Zuikaku_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Zuikaku_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Zuikaku_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Zuikaku_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Zuikaku_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Zuikaku_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Zuikaku_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Zuikaku_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Zuikaku_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Zuikaku_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Zuikaku_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Zuikaku_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Zuikaku_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Zuikaku_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Zuikaku_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Zuikaku_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Zuikaku_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Zuikaku_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Zuikaku_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Zuikaku_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Zuikaku_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Zuikaku_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Zuikaku_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Zuikaku_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Zuikaku_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Zuikaku_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Zuikaku_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Zuikaku_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Zuikaku_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Zuikaku_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Zuikaku_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Zuikaku_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Zuikaku_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Zuikaku_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Zuikaku_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Zuikaku_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Zuikaku_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Zuikaku_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Zuikaku_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Zuikaku_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Zuikaku_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Zuikaku_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Zuikaku_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Zuikaku_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Zuikaku_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Zuikaku_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Zuikaku_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Zuikaku_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Zuikaku_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Zuikaku_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Zuikaku_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Zuikaku_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Zuikaku_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Zuikaku_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Zuikaku_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Zuikaku_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Zuikaku_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/65/Zuikaku_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Zuikaku_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/65/Zuikaku_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Zuikaku_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Zuikaku_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Zuikaku_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Zuikaku_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Zuikaku_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Zuikaku_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/Zuikaku_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Zuikaku_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/Zuikaku_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Zuikaku_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Zuikaku_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Zuikaku_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Zuikaku_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Zuikaku_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Zuikaku_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Zuikaku_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Zuikaku_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Zuikaku_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Zuikaku_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Zuikaku_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Zuikaku_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Zuikaku_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Zuikaku_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Zuikaku_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Zuikaku_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Zuikaku_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Zuikaku_Extra3JP.ogg"
+      ],
+      "additionalVoiceLine4Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Zuikaku_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Zuikaku_Extra4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Zuikaku_Extra4JP.ogg"
+      ],
+      "additionalVoiceLine5Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Zuikaku_Extra5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Zuikaku_Extra5JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Zuikaku_Extra5JP.ogg"
+      ]
+    },
+    {
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/34/ZuikakuOriginal.png"
+    },
+    {
+      "ENClientName": "Ceremonial Crane",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "祭华之鹤",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "祭華の鶴",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/29/ZuikakuFestival.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/1c/ZuikakuFestivalWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a8/ZuikakuFestivalChibi.png",
+      "shipDescription": [
+        "新一航战精锐航母，瑞鹤，参上！——一直在想什么时候能这么帅气的表演一次呢！在翔鹤姐面前的话肯定要被笑话，所以就借着今天祭典的气氛试试了……指挥官，怎么样？",
+        "新一航戦精鋭空母、瑞鶴、参上！――こうかっこよく決めようとずっと思ってたんだ～！翔鶴姉の前でやると笑われちゃうから、こう…お祭りの空気を借りる感じでやってみたけど、指揮官、どう？",
+        "New Elite 1st CarDiv, Zuikaku, reporting for duty! Ahh, I've always wanted to give such a cool introduction! Shoukaku would definitely make fun of me if she heard it, but I wanted to try it while everyone is in a festive mood... Commander, what'd you think?"
+      ],
+      "acquisition": [
+        "新一航战精锐航母，瑞鹤，参上！——一直在想什么时候能这么帅气的表演一次呢！在翔鹤姐面前的话肯定要被笑话，所以就借着今天祭典的气氛试试了……指挥官，怎么样？",
+        "新一航戦精鋭空母、瑞鶴、参上！――こうかっこよく決めようとずっと思ってたんだ～！翔鶴姉の前でやると笑われちゃうから、こう…お祭りの空気を借りる感じでやってみたけど、指揮官、どう？",
+        "New Elite 1st CarDiv, Zuikaku, reporting for duty! Ahh, I've always wanted to give such a cool introduction! Shoukaku would definitely make fun of me if she heard it, but I wanted to try it while everyone is in a festive mood... Commander, what'd you think?"
+      ],
+      "login": [
+        "指挥官，今天工作要从什么开始呢？支援就交给我吧！",
+        "指揮官、今日は何から始める感じ？サポートは私におまかせ！",
+        "Commander, how should we begin our work today? Allow me to aid you!"
+      ],
+      "details": [
+        "和平时感觉不太一样？嘿嘿，这个当是在夸我没问题吧？其实我偶尔也会想换一身啦，就当是转换心情了呢",
+        "いつもとは違うって？へへ、これは褒めてるって思っていいのかな？まあたまには違う格好を着てみたいものだよ。それでこそ気分転換って感じじゃない？",
+        "I'm giving off a different vibe from usual? Hehe, I'll take that as a compliment! As a matter of fact, I do like trying on different outfits from time to time for a change of pace."
+      ],
+      "secretaryIdle1": [
+        "赤城前辈，总是不大愿意来这种祭典啊…莫非是讨厌人多的地方？！…呃，好像不大对…",
+        "赤城先輩、こういう時はなかなか顔を出さないみたいね…ひょっとして人込みが弱点！？…うーん、ないか…",
+        "Akagi isn't exactly a fan of these large gatherings... Wait, could she be antisocial?! Err, that doesn't seem right..."
+      ],
+      "secretaryIdle2": [
+        "大凤、大凤！？公共场合禁止做这种事！指挥官也是，快回避一下！现在不能出来！",
+        "ちょ、ちょっと大鳳！？そういうのは公共の場では禁止！指揮官ちょっとどっか隠れてて、今前に出ちゃダメってば！",
+        "T-Taihou?! You can't do that kind of stuff in public! Commander too, you should keep your distance! Stay hidden until I say otherwise!"
+      ],
+      "secretaryIdle3": [
+        "指挥官，要吃点什么吗？大家都说多吃才能长得快嘛～哈哈哈，开玩笑的啦",
+        "指揮官、なんか食べない？ほら、よく食べる子は育つっていうじゃない！ははは、今のは冗談！",
+        "Commander, would you like something to eat? Can't grow big and strong without good food, you know~ Hahaha, just kidding!"
+      ],
+      "secretaryTouch": [
+        "嗯？怎么了，指挥官？有什么想逛逛的地方吗？",
+        "指揮官、どうしたの？どこか行きたい場所でもある？",
+        "Huh? What's the matter, Commander? Is there some place you'd like to check out?"
+      ],
+      "secretarySpecialTouch": [
+        "额…果然还是会和翔鹤姐的比一下吗？",
+        "んっ…やっぱり翔鶴姉のと比べたいの…？",
+        "Uhh... So you wanted to compare mine to Shoukaku's after all?"
+      ],
+      "task": [
+        "比三笠前辈的特训要简单多了！这点程度随便就能搞定啦！",
+        "三笠大先輩の特訓よりは楽よ！こんなのなんてことないんだから！",
+        "This is nothing compared to Mikasa's hellish training! I'll be done in no time!"
+      ],
+      "returnFromMission": [
+        "呼…逛着虽然挺开心的不过还是有些累啊…指挥官，我能再拿点零食过来吗？",
+        "ふぅ…見回るのって楽しいけど疲れるよね…指揮官、ちょっとおやつを取って来てもいい？",
+        "Phew... I'm in a pretty good mood, but that was still pretty tiring... Commander, can you bring me something to eat?"
+      ],
+      "startingMission": [
+        "瑞鹤，参上！",
+        "瑞鶴、参る！",
+        "Zuikaku, advancing!"
+      ],
+      "mvp": [
+        "有我瑞鹤在当然是轻松取胜了！",
+        "この瑞鶴にかかればこんなものよ！",
+        "Victory is assured as long as I'm here!"
+      ],
+      "affinityLove": [
+        "只要有想守护的人，遇到任何强敌都会勇往直前，失败多少次也绝不会气馁。无论倒下多少次，只要有坚强的心就能再次爬起来。…不管发生什么事，我都会像保护翔鹤姐一样保护指挥官你的！",
+        "守りたい人がいるから、どんな相手でも怯まないし、何回負けても挫けない。倒れても立ち上がらせてくれるのは、自分を貫く強い心。…どんなことがあっても、私が指揮官を守るから！",
+        "As long as there is someone I want to protect, I won't fear the strongest of enemies or the the sting of defeat. No matter how many times I am knocked down, I will always persevere and claw my way back up. No matter what happens, Commander, I will always protect you and Shoukaku."
+      ]
+    },
+    {
+      "ENClientName": "The Wind's True Name",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "飙速之鹤",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "瞬速の真名",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/59/ZuikakuRaceQueen.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8d/ZuikakuRaceQueenChibi.png",
+      "shipDescription": [
+        "虽说是我自愿接下的工作，而且能帮上指挥官忙是很让人高兴啦，不过这身衣服…之、之前没听说露出度有这么高啊…？",
+        "指揮官の手助けになるならって自ら手を挙げたけど、…この格好…こ、こんなに露出度が高いのが普通なの…？",
+        "Commander, I volunteered to take this job in order to help you out, but this outfit... did it always require such a high degree of exposure...?"
+      ],
+      "acquisition": [
+        "虽说是我自愿接下的工作，而且能帮上指挥官忙是很让人高兴啦，不过这身衣服…之、之前没听说露出度有这么高啊…？",
+        "指揮官の手助けになるならって自ら手を挙げたけど、…この格好…こ、こんなに露出度が高いのが普通なの…？",
+        "Commander, I volunteered to take this job in order to help you out, but this outfit... did it always require such a high degree of exposure...?"
+      ],
+      "login": [
+        "嘿嘿，不用担心我啦，指挥官。这对我来说不过小场面而已~",
+        "指揮官、大丈夫大丈夫！心配しないで！こんなのどうってことないんだから！",
+        "Commander, it's fine! You don't need to worry about me! I can totally handle something like this!"
+      ],
+      "details": [
+        "啊，说起来，翔鹤姐也答应了这个工作吧？虽然衣服款式和我的好像差不多，不过穿在翔鹤姐身上就是有不一样的感觉呢",
+        "あ、そういえば翔鶴姉もこの仕事を受けたんだっけ？服が似てても、やっぱり翔鶴姉が着るとなんかこう、私と雰囲気がぜんぜん違うって感じがするな～",
+        "Oh, Shoukaku was also doing this job, right? Even though she's also wearing the same outfit, she gives off completely different vibes than me..."
+      ],
+      "secretaryIdle1": [
+        "唔…总感觉跟翔鹤姐比起来还是差了点味道呢…啊，难道这就是所谓的“女子力”？",
+        "んーやっぱり翔鶴姉と違う気がする…これがいわゆる「女子力の差」ってやつ？",
+        "Hmm... I just can't pull the look off as well as Shoukaku... Is this the difference in our \"girlish appeal?\""
+      ],
+      "secretaryIdle2": [
+        "原来这个工作就只是摆造型给人拍吗…？我还以为能亲自开赛车呢…",
+        "この任務って宣材写真を撮られたりするだけなんだ…自分で車を運転できると思ってたのに……",
+        "Is this job just to sit here for the photo ops...? I thought I'd get to drive..."
+      ],
+      "secretaryIdle3": [
+        "呼……啊！不能松懈不能松懈…要随时在镜头前保持最佳的状态！",
+        "ふぅ…うん！しっかりして瑞鶴！カメラの前ではビシッと決めないと！",
+        "Phew...! Keep it together, Zuikaku... You've gotta look your best in front of the camera!"
+      ],
+      "secretaryTouch": [
+        "还要保持这个姿势吗…？哎，为啥不能换个帅气点的造型呢…",
+        "こんな感じでもうちょっと頼むって…？んー、ちょっと格好いいポーズにできないかなー",
+        "Hold this position a bit longer...? Mm, can't I ask for a slightly cooler pose...?"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，不会也对其他伙伴做了这样的事情吧…？",
+        "指揮官、もしかしてほかの子にもこうやって手を出してるの…？",
+        "Commander, you're not doing this kind of stuff to the other girls, are you...?"
+      ],
+      "returnFromMission": [
+        "哈啊…维持着这样的姿势，感觉肩膀都有点酸了…",
+        "んーこのポーズ…長くやると肩が凝っちゃう…",
+        "Ugh... Having to hold this pose for so long is making my shoulders stiff..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Zuikaku_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Zuikaku_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Zuikaku_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Zuikaku_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Zuikaku_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Zuikaku_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bc/Zuikaku_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Zuikaku_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bc/Zuikaku_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Zuikaku_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Zuikaku_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Zuikaku_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Zuikaku_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Zuikaku_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Zuikaku_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Zuikaku_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Zuikaku_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Zuikaku_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Zuikaku_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Zuikaku_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Zuikaku_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Zuikaku_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Zuikaku_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Zuikaku_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ae/Zuikaku_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Zuikaku_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ae/Zuikaku_MissionFinSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

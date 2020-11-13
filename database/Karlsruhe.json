@@ -1,0 +1,669 @@
+{
+  "name": "Karlsruhe",
+  "constructionTime": "01:10:00",
+  "constructionPools": [
+    true,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Normal",
+  "shipClass": "Königsberg",
+  "ID": "239",
+  "faction": "Iron Blood",
+  "classification": "Light cruiser (CL)",
+  "retrofit": true,
+  "artist": "八才提督",
+  "pixiv": "https://www.pixiv.net/member.php?id=1393609",
+  "twitter": "https://twitter.com/haorabbit",
+  "link": "http://hl0220.lofter.com/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/2/2f/Karlsruhe_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3372,
+      175,
+      39,
+      152,
+      273,
+      100,
+      32,
+      333,
+      0,
+      8,
+      153,
+      87,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      3612,
+      180,
+      39,
+      172,
+      318,
+      100,
+      32,
+      348,
+      0,
+      8,
+      153,
+      87,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      3229,
+      157,
+      39,
+      153,
+      284,
+      76,
+      32,
+      310,
+      0,
+      8,
+      133,
+      76,
+      0,
+      0
+    ],
+    "Level 100": [
+      2989,
+      152,
+      39,
+      133,
+      239,
+      76,
+      32,
+      295,
+      0,
+      8,
+      133,
+      76,
+      0,
+      0
+    ],
+    "Base Stats": [
+      578,
+      64,
+      39,
+      28,
+      51,
+      29,
+      32,
+      63,
+      0,
+      2,
+      51,
+      21,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL Guns",
+  "slot1Efficiency": "110% → 120% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 155% → 170%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130% → 135%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 14,
+  "level120StatBonus": "Light cruiser (CL) Health  +1",
+  "level120TechPoints": 10,
+  "enhancementValue": [
+    12,
+    17,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10s.",
+  "skill2Name": "(Retrofit) Disturbance Strategy; CN: 袭扰战术 JP: 攪乱作戦",
+  "skill2Description": "Increases damage dealt to suicide, torpedo, and transport ships by 10% (25%).",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ケーニヒスベルク型",
+  "skill3Description": "Every 12 (8) shots from the main gun, triggers Full Barrage - Königsberg Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/17/Karlsruhe.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8b/KarlsruheChibi.png",
+      "shipDescription": [
+        "柯尼斯堡级轻巡洋舰—卡尔斯鲁厄",
+        "ケーニヒスベルク級軽巡洋艦・カールスルーエ",
+        "Königsberg class light cruiser, Karlsruhe."
+      ],
+      "selfIntroduction": [
+        "我是柯尼斯堡级轻巡二号舰，卡尔斯鲁厄哟～曾经作为铁血雷击舰队的领舰参与过作战。讨厌的东西是寒冷的天气和海上的风暴还有怠惰(Truant)呜呜…",
+        "ケーニヒスベルク級軽巡の二番艦、カールスルーエよ～。鉄血水雷戦隊の旗艦として作戦に参加したことあるんだ。嫌いなものは、寒さ、嵐と怠惰（トルーアント）のやつ。むぅ…",
+        "I am the second ship of the Königsberg-class light cruisers, Karlsruhe! I participated in battles as the flagship of an Iron Blood torpedo squadron. I hate cold weather, storms, and that pesky Truant..."
+      ],
+      "acquisition": [
+        "嗨嗨～是我卡尔斯鲁厄哟～指挥官请多指教～",
+        "はいはい~カールスルーエよ~指揮官さん、よろしくね~",
+        "Hi, it's me, Karlsruhe! Please take good care of me, Commander."
+      ],
+      "login": [
+        "欸嘿，今天有种会遇上好事的预感呢～",
+        "えへへ、なんか今日いい事がある予感~",
+        "Ehehe... I have a feeling something good will happen today!"
+      ],
+      "details": [
+        "啊哈哈，指挥官对我这么有兴趣吗～",
+        "あはは、指揮官さんって私にこんなに興味あるんだ~",
+        "Ahaha~ Are you that interested in me, Commander?"
+      ],
+      "secretaryIdle1": [
+        "啦啦啦～啦啦～下一次出击是什么时候呢～",
+        "ららら~らら~つっぎのしゅつげきいつなーのかー",
+        "La~ la~ la~ When is the next battle?"
+      ],
+      "secretaryIdle2": [
+        "风、风暴要来了吗？",
+        "あ、嵐がくるの！？",
+        "Is.. is there a storm coming?"
+      ],
+      "secretaryIdle3": [
+        "好～无～聊～人家就是静不下来嘛…",
+        "つまんーなーいー！もう静かにしてられないんだってば~",
+        "Boring~ boring! How do you expect me to stay quiet?"
+      ],
+      "secretaryTouch": [
+        "喵哈哈哈，好痒的啦～",
+        "にゃははは、くすぐったいよぉ~",
+        "Nyahaha! That tickles!"
+      ],
+      "secretarySpecialTouch": [
+        "嗯喵？被指挥官碰过的地方…感觉热热的…",
+        "んにゃ？指揮官さんが触ったとこ、なんか熱い…",
+        "Nya? Why do I feel so hot where you touched me...?"
+      ],
+      "task": [
+        "任务～任务～赚钱的好机会～",
+        "にんむ~にんむ~金儲け~",
+        "Mission~ Mission~ It's time to make some money~!"
+      ],
+      "taskComplete": [
+        "任务完成！快快，我们去领取奖励吧～",
+        "任務完了！ささ、早く報酬を貰いに行こうよ！",
+        "Mission complete! Hurry up, let's collect those rewards!"
+      ],
+      "mail": [
+        "新邮件～会是谁呢～",
+        "新しいメール~誰なんだろう~",
+        "There's new mail! I wonder who it is?"
+      ],
+      "returnFromMission": [
+        "指挥官辛苦了～来放松一下吧～比如和卡尔斯鲁厄玩一会什么的～",
+        "指揮官さんお疲れ~ちょっとリラックスして~カールスルーエと遊んだり、とか~",
+        "Good work, Commander~! Why not take a break... and play with me!"
+      ],
+      "commission": [
+        "执行委托的姐妹们回来了！快去迎接经费，哦不姐妹们吧！",
+        "委託の子たちが帰ったよ！早くお金、いいえ姉妹たちを迎えにいこ！",
+        "The girls have returned from commission! Let's go welcome back our money- I mean... the girls!"
+      ],
+      "strengthening": [
+        "感觉能去更远的地方玩耍了！",
+        "もっと遠くまで遊びに行けるね！",
+        "I've found the strength to continue exploring afar."
+      ],
+      "startingMission": [
+        "让你们看看卡尔斯鲁厄的厉害！要上咯～",
+        "カールスルーエの力を見せてやる！いっくよー！",
+        "Let me show you my true power... Here I come!"
+      ],
+      "mvp": [
+        "哎…？胜利了吗？",
+        "へ…？勝ったの？",
+        "Eh? I won?"
+      ],
+      "defeat": [
+        "啊呜…大意了…",
+        "あぅ…油断した…",
+        "Uu... I let my guard down..."
+      ],
+      "skillActivation": [
+        "嗯……我有预感这一发会中！",
+        "うん……今のは当たる気がする！",
+        "I have a feeling this one's gonna hit!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "不想跟指挥官玩……",
+        "指揮官さんとはあんまり遊びたくないなぁ……",
+        "I don't want to play with you anymore..."
+      ],
+      "affinityStranger": [
+        "哇～～指挥官是来找我玩的吗～？",
+        "わぁい！指揮官さんは遊びに来たのかな？",
+        "Wow~! Are you here to play with me, Commander?"
+      ],
+      "affinityFriendly": [
+        "我既不喜欢宅在房间里，也不喜欢怠惰（Truant）那家伙……这么想，难不成这就是宿命……",
+        "部屋にこもるのは苦手で、トルーアントのこともあんまり……あ！もしかして指揮官さんのこともそうなの…？",
+        "I don't like being cooped up in the house, nor do I like that pesky Truant! When I look at it that way... isn't this my destiny?"
+      ],
+      "affinityLike": [
+        "想到指挥官的时候，总是会莫名的感觉胸口一紧，究竟是为什么呢…",
+        "指揮官さんのことを考えるとなぜか心がキュンとする…なんでだろう…",
+        "My chest tightens whenever I think about you, Commander. Why is that?"
+      ],
+      "affinityLove": [
+        "我问过姐姐了，姐姐说这就是”喜欢“的感觉呢，感觉有点难过，又有点幸福…",
+        "姉さんに聞いたけど、この気持ちが「好き」っていうんだ。なんだかちょっと辛くて、幸せ……",
+        "I asked my sister about it, and she said that this feeling is called \"love.\" It feels a bit painful, but it also makes me very happy."
+      ],
+      "pledge": [
+        "想到指挥官就觉得很幸福，见不到的时候又觉得有点难过…总而言之，能喜欢指挥官真是太好了",
+        "指揮官さんに会えなくなると辛いけど、でも指揮官さんのことを思うと、幸せ……とにかく、指揮官さんのこと好きになって本当によかった~",
+        "I feel happy whenever I think about you, but I miss you whenever I can't see you. Overall, I'm still glad that I fell in love with you!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "今日はチョコレートで気持ちを伝える日だと聞いて、ケルンに作り方を教えてもらって作ってみたんだ～指揮官にあげるから、これからも一緒に遊んでね～",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "はい、私からの気持ちを伝えるバレンタインチョコをあげる！まあ結構長持ちするから、一回で食べきらなくても、時々私のことを思い出したら食べていいさ！",
+        "Hey~ I heard that today is the day to convey your feelings with chocolate, so I learned how to make it from Köln~ Here, this is for you, Commander. Please continue to play with me, okay~"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Do you know the kinds of storms I had to brave to secure the ingredients for this chocolate? The old me would have been sent home with my equipment in tatters, let alone be ready to make any chocolate. But, I'm fine now! Here, hurry up and try it!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Karlsruhe_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Karlsruhe_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Karlsruhe_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Karlsruhe_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Karlsruhe_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Karlsruhe_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/53/Karlsruhe_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Karlsruhe_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/53/Karlsruhe_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Karlsruhe_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Karlsruhe_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Karlsruhe_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Karlsruhe_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Karlsruhe_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Karlsruhe_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Karlsruhe_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Karlsruhe_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Karlsruhe_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Karlsruhe_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Karlsruhe_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Karlsruhe_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Karlsruhe_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Karlsruhe_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Karlsruhe_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/eb/Karlsruhe_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Karlsruhe_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/eb/Karlsruhe_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Karlsruhe_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Karlsruhe_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Karlsruhe_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Karlsruhe_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Karlsruhe_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Karlsruhe_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Karlsruhe_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Karlsruhe_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Karlsruhe_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Karlsruhe_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Karlsruhe_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Karlsruhe_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Karlsruhe_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Karlsruhe_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Karlsruhe_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Karlsruhe_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Karlsruhe_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Karlsruhe_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Karlsruhe_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Karlsruhe_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Karlsruhe_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/37/Karlsruhe_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Karlsruhe_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/37/Karlsruhe_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Karlsruhe_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Karlsruhe_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Karlsruhe_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Karlsruhe_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Karlsruhe_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Karlsruhe_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Karlsruhe_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Karlsruhe_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Karlsruhe_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Karlsruhe_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Karlsruhe_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Karlsruhe_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Karlsruhe_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Karlsruhe_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Karlsruhe_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Karlsruhe_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Karlsruhe_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Karlsruhe_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Karlsruhe_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Karlsruhe_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Karlsruhe_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Karlsruhe_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Karlsruhe_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Karlsruhe_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/87/KarlsruheKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c7/KarlsruheKaiChibi.png",
+      "shipDescription": [
+        "指挥官，你看你看，新武装的色泽，线条还有质感是不是好棒？感觉再遇到风暴也不会出事了！大概！",
+        "指揮官、見てよこの新しい艤装！すごく強そうで塗装もピッカピカだよ！これで嵐に遭っても大丈夫…かも！",
+        "Königsberg-class light cruiser – Karlsruhe."
+      ],
+      "acquisition": [
+        "指挥官，你看你看，新武装的色泽，线条还有质感是不是好棒？感觉再遇到风暴也不会出事了！大概！",
+        "指揮官、見てよこの新しい艤装！すごく強そうで塗装もピッカピカだよ！これで嵐に遭っても大丈夫…かも！",
+        "Commander, take a look at my new rigging! Doesn't it look all shiny and strong? Now, I feel like I can weather any storm... probably!"
+      ],
+      "login": [
+        "指挥官，今天也鼓起干劲好好加油吧！",
+        "指揮官、今日も元気いっぱい、頑張っちゃうぞ！",
+        "Commander, let's put our best foot forward and work hard today!"
+      ],
+      "secretaryIdle2": [
+        "看我把风暴一拳打飞！嘿呀！",
+        "嵐をぶっ飛ばしちゃうぞ！セイヤーッ！",
+        "I'll give any storm a good thrashing! Hyaah!"
+      ],
+      "secretaryIdle3": [
+        "啊，指挥官果然也在意的吧，我们柯尼斯堡级的美腿可是很有名的！",
+        "あ、やっぱり指揮官も気になる？えへへ、私たちケーニヒスベルク級のスタイルは有名なんだぞー！",
+        "Commander, are you interested in me? Ehehe, us Königsberg sisters are famous for our good looks~!"
+      ],
+      "secretaryTouch": [
+        "叫我吗？要玩的话我随时奉陪哦！",
+        "私？遊びならいつでもいいよー",
+        "Did you call? If you want to play, I'm down any time!"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +70 ",
+      "materials": "1x CruiserT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 300,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 400,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "2x CruiserT1BP ",
+      "coinCost": 500,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 600,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x CruiserT1BP ",
+      "coinCost": 800,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +70 / Health +100 ",
+      "materials": "1 / 1x CruiserT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Disturbance Strategy\" ",
+      "materials": "3x CruiserT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Torpedo Improvement Ⅱ",
+      "attributes": "Equip 2 Efficiency +5.0% / Equip 2 Efficiency +5.0% ",
+      "materials": "1 / 2x CruiserT2BP ",
+      "coinCost": 1400,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Torpedo Enhancement Ⅱ",
+      "attributes": "Torpedo +5 / Torpedo +15 ",
+      "materials": "2 / 2x CruiserT2BP ",
+      "coinCost": 1600,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +20, Torpedo +15 ",
+      "materials": "6x CruiserT2BP and 1x Karlsruhe or Universal Bulin ",
+      "coinCost": 2000,
+      "levelRequired": 80,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

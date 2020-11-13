@@ -1,0 +1,599 @@
+{
+  "name": "Hobby",
+  "constructionTime": "00:27:00",
+  "constructionPools": [
+    true,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Benson",
+  "ID": "362",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "AO凹凹凹",
+  "pixiv": "https://www.pixiv.net/member_illust.php?id=1248744",
+  "link": "https://www.weibo.com/ultramnnice",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/9/9d/Hobby_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1826,
+      204,
+      68,
+      87,
+      320,
+      163,
+      45,
+      172,
+      0,
+      8,
+      184,
+      212,
+      0,
+      0
+    ],
+    "Level 100": [
+      1521,
+      178,
+      68,
+      76,
+      282,
+      157,
+      45,
+      149,
+      0,
+      8,
+      175,
+      192,
+      0,
+      0
+    ],
+    "Base Stats": [
+      294,
+      75,
+      68,
+      16,
+      60,
+      60,
+      45,
+      32,
+      0,
+      2,
+      67,
+      52,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 130%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "125% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 125%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    5,
+    20,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Little Star; CN: LittleStar JP: リトルスター",
+  "skill1Description": "15 seconds after battle begins, increases Firepower, Reload and Evasion for all ships in the fleet by 1.5% (6%) for 20 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ベンソン級",
+  "skill2Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Benson Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/63/Hobby.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/HobbyChibi.png",
+      "shipDescription": [
+        "本森级驱逐舰—霍比，舷号DD-610",
+        "ベンソン級駆逐艦・ホビー（DD-610)",
+        "Benson class Destroyer— Hobby, hull number DD-610."
+      ],
+      "selfIntroduction": [
+        "白鹰驱逐舰DD610，霍比来咯！平时东奔西走，可惜没什么突出战绩啦~但是但是，霍比以前可是童星哦，还上过银幕呢~是不是很惊讶？",
+        "ユニオン駆逐艦DD610、ホビーちゃんだよ！いろいろと走り回っていたけど、目ぼしい戦績はないの～でもでも、ホビーちゃん昔は映画に出ていたの～すごいでしょう？",
+        "Eagle Union Destroyer DD610, Hobby has arrived! Usually, Hobby is too busy to have an outstanding battle record. Also, Hobby used to be a child star who also starred in movies~ Surprised?"
+      ],
+      "acquisition": [
+        "独一无二的霍比闪亮登场！指挥官指挥官，准备好被我的魅力所折服了吗？嘿嘿~",
+        "唯一無二のホビーちゃんきらりんと登場！指揮官指揮官、ホビーちゃんの魅力にホレボレする準備はできてる？へへん！",
+        "The one and only Hobby has arrived! Commander, Commander! Are you ready to be impressed by my charm? Hehe~"
+      ],
+      "login": [
+        "指挥官欢迎回来！是想念霍比才回来的吧！",
+        "指揮官、おかえりなさい！ホビーちゃんがいなくて寂しいから帰ってきたんでしょう？",
+        "Welcome back Commander! Did you come back because you missed Hobby?"
+      ],
+      "details": [
+        "霍比已经摆好POSE了！指挥官，有好好拍照吗？",
+        "ホビーちゃんはもうポーズ決めてるよ！……指揮官、ちゃんと写真撮れた？",
+        "Hobby is ready with her POSE! Commander, did you take a good photo?"
+      ],
+      "secretaryIdle1": [
+        "驱逐舰没什么大本事不是很正常嘛，霍比啊，过得开心就好啦~",
+        "駆逐艦が大したことできないのは普通でしょう、ホビーちゃんはね、楽しければいいの～",
+        "It’s no big deal that Destroyers can be normal, Hobby, lives a happy lifestyle~"
+      ],
+      "secretaryIdle2": [
+        "无论名字也好，性格也好，霍比可都是独一无二的哦~",
+        "名前もキャラも、ホビーちゃんは唯一無二なんだよ～",
+        "Whether it’s her name or characteristics, Hobby is truly unique~"
+      ],
+      "secretaryIdle3": [
+        "指挥官，没相机的话，就用拇指和食指把可爱的霍比框住吧。",
+        "指揮官、カメラがないのなら、かわいいホビーちゃんの姿は親指と人差し指でパシャッと収めてね",
+        "Commander, if you don’t have a camera with you, just use your hand to mimic a frame for cute little Hobby."
+      ],
+      "secretaryTouch": [
+        "有什么事要我帮忙吗？尽管说吧，说不定霍比是指挥官的救星呢~",
+        "なにか手伝えることある？なんでも言って、もしかしたらホビーちゃんは指揮官にとってのカミサマなのかも～",
+        "Do you need my help? Just say so, maybe Hobby will even become the Commander’s savior~"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，真的很大胆啊……那么今晚就让我们跳过ABCD直奔EFG吧……哈哈，脸红啦脸红啦，略略略，骗你的哦。（吐舌头）",
+        "指揮官、本当にダイタンね……それじゃあ、今夜はABCDを飛ばしてホビーちゃんとEFGまでいっちゃう？……ははは、てれてるてれてる！なんちゃってー",
+        "Commander, you’re really bold… then let us skip ABCD and go directly to EFG tonight… haha, blushes, just kidding! (Wiggles tongue)."
+      ],
+      "secretaryHeadpat": [
+        "嘿嘿，手感不错吧？再多摸一会儿也可以哦。",
+        "へへ～、いい触り心地でしょう？もっと触ってもいいよ",
+        "Hehe, feels good? Well, you can pet me for a while longer."
+      ],
+      "task": [
+        "还有很多任务吧？霍比也来帮指挥官的忙。",
+        "まだ任務がいっぱいあるでしょう？ホビーちゃんも指揮官のこと手伝ってあげる！",
+        "There are still many tasks to complete? Hobby can also help you, Commander."
+      ],
+      "taskComplete": [
+        "哦？任务完成了……辛苦啦辛苦啦。",
+        "お？任務が完了したか……えらい、えらい",
+        "Hmm? Mission complete...great job everyone..."
+      ],
+      "mail": [
+        "邮件来了，快瞧瞧！",
+        "メールが来たよ、早くみてみて！",
+        "Mail is here...come take a look!"
+      ],
+      "returnFromMission": [
+        "终于结束战斗啦。陪霍比玩一会儿吧~",
+        "ようやく戦闘が終わったね。ホビーちゃんとあそぼう～",
+        "Finally, the battle is over. Come play with Hobby for a while~"
+      ],
+      "commission": [
+        "委托完成啦，指挥官快查看一下吧。",
+        "委託が完了したよ指揮官、早くみてみて！",
+        "The commission has been completed, Commander, won’t you go check it out?"
+      ],
+      "strengthening": [
+        "嘿嘿，好像更厉害了一些~指挥官多谢啦！",
+        "へへん！ちょっと強くなったみたい～指揮官、ありがとね！",
+        "Hehe, I seem to be getting stronger~ Thank you, Commander!"
+      ],
+      "startingMission": [
+        "独一无二的霍比当然是旗舰啦。",
+        "唯一無二のホビーちゃんは、当然旗艦なんだよ！",
+        "The one and only Hobby will be the flagship of course."
+      ],
+      "mvp": [
+        "哼哼，霍比是最棒的~",
+        "へへん！ホビーちゃんが一番よ！",
+        "Hehe, Hobby is the best~"
+      ],
+      "defeat": [
+        "小小挫折而已啦……",
+        "ちょっと失敗した……",
+        "This is just a little setback that’s all..."
+      ],
+      "skillActivation": [
+        "独一无二的霍比，干劲十足哦~",
+        "唯一無二のホビーちゃん、テンションマックス！",
+        "The one and only Hobby, full of enthusiasm~"
+      ],
+      "lowHP": [
+        "可恶，霍比不会原谅你们！",
+        "このっ、ホビーちゃんは許さないんだから！",
+        "Impossible, Hobby will not forgive you!"
+      ],
+      "affinityDisappointed": [
+        "指挥官笨蛋笨蛋大笨蛋！（吐舌头，略略略）",
+        "指揮官のバカバカ、大バカアァ～～～！",
+        "Commander is stupid, Commander is stupid! (makes face, wiggles tongue)"
+      ],
+      "affinityStranger": [
+        "指挥官，要我帮忙就不要支支吾吾啦~",
+        "指揮官、ホビーちゃんに手伝ってほしいならはっきり言って～",
+        "Commander, if you want my help then just say so~"
+      ],
+      "affinityFriendly": [
+        "指挥官，作为一个童星，镜头感可是很重要的。今天的我也很可爱吧！",
+        "指揮官、映画スターとして、カメラ目線は大事だよ。ふふーん、今日のホビーちゃんもかわいいでしょう！",
+        "Commander, as a child star,the sense of lens is very important. I am also very cute today,right?"
+      ],
+      "affinityLike": [
+        "霍比和指挥官在一起最开心啦~嘿嘿，这头带很像大大的兔子耳朵吧？霍比，想做指挥官的小兔子！",
+        "ホビーちゃん、指揮官と一緒にいるのが一番たのしい～へへ～このリボン、ウサギさんの大きな耳みたいでしょ？ホビーちゃん、指揮官のウサギちゃんになりたい！",
+        "Hobby and the Commander are happiest together~ hehe. Wearing this headband makes me have huge rabbit ears? Hobby, wants to be a cute little bunny for the Commander!"
+      ],
+      "affinityLove": [
+        "指挥官就当一天马让我骑骑嘛。说好咯，不准耍赖哦！哈哈，驾~",
+        "指揮官、一日だけでいいからホビーちゃんのお馬さんになって～いい？ずるはダメだよ！……ははは、どうどう～",
+        "Commander, can you give me a piggyback, just for today, please. You agreed! Don’t turn back on a promise! Haha, yeeha~"
+      ],
+      "pledge": [
+        "嘻嘻，总算来了 啊，指挥官~霍比早就等不及啦！接下来要多拍点照片记录可爱的霍比，永远做霍比的小马哦！拉钩拉钩~",
+        "へへ、やっと来たね。指揮官～ホビーちゃん、もう待ちきれない！これからはかわいいホビーちゃんの写真をもっと撮って、ずーっとホビーちゃんのお馬さんでいてね！ゆーびきった！",
+        "Oh, finally you’ve arrived Commander~ Hobby just can’t wait anymore! Next, we’ll take lots of pictures of cute little Hobby, and you’ll always be Hobby’s dashing prince charming! Promises promises~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 2 of: Kalk, Benson, Laffey, Bailey) 大家~跟我一起上！",
+        "(Sortie with at least 2 of: Kalk, Benson, Laffey, Bailey) みんな～ホビーちゃんについてきて！",
+        "(Sortie with at least 2 of: Kalk, Benson, Laffey, Bailey) Everyone~ Charge with me!"
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "唯一無二のホビーちゃんからの、唯一無二のチョコプレゼント～指揮官、早く食べてホビーの虜になっててね！ふふふ！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Get a taste of Hobby's Valentine's chocolate~ It has my signature special ingredient that nobody else can replicate. Have a bite, then tell Hobby how good it is!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Hobby_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Hobby_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Hobby_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Hobby_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Hobby_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Hobby_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Hobby_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Hobby_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Hobby_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Hobby_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Hobby_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Hobby_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Hobby_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Hobby_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Hobby_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Hobby_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Hobby_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Hobby_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hobby_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hobby_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Hobby_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Hobby_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Hobby_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Hobby_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Hobby_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Hobby_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Hobby_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Hobby_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Hobby_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Hobby_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Hobby_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Hobby_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Hobby_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/82/Hobby_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Hobby_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/82/Hobby_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Hobby_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Hobby_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Hobby_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hobby_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hobby_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hobby_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Hobby_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Hobby_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Hobby_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Hobby_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Hobby_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Hobby_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Hobby_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Hobby_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Hobby_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Hobby_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Hobby_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Hobby_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Hobby_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Hobby_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Hobby_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Hobby_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Hobby_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Hobby_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Hobby_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Hobby_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Hobby_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Hobby_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Hobby_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Hobby_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Hobby_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Hobby_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Hobby_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Hobby_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Hobby_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Hobby_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Hobby_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Hobby_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Hobby_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Hobby_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Hobby_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Hobby_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Hobby_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Hobby_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Hobby_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Hobby_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Hobby_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Hobby_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Little Idol Schoolgirl",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "小小学园偶像",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "リトルスクールスター",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0f/HobbySchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4a/HobbySchoolChibi.png",
+      "shipDescription": [
+        "穿上校服的霍比再次闪亮登场哦~指挥官，好看吗？好看吗？霍比也有成长哦~",
+        "ホビーちゃん、制服に着替えてまたまたきらりんと登場～指揮官、かわいい？かわいい？ホビーちゃんだって、ちゃんと成長してるんだよ～",
+        "Here comes the debut of school uniform Hobby~ Commander, how do I look? Hobby is all grown up~"
+      ],
+      "acquisition": [
+        "穿上校服的霍比再次闪亮登场哦~指挥官，好看吗？好看吗？霍比也有成长哦~",
+        "ホビーちゃん、制服に着替えてまたまたきらりんと登場～指揮官、かわいい？かわいい？ホビーちゃんだって、ちゃんと成長してるんだよ～",
+        "Here comes the debut of school uniform Hobby~ Commander, how do I look? Hobby is all grown up~"
+      ],
+      "login": [
+        "指挥官，HELLO！陪霍比一起去学院啦~放心吧，时间还很充裕，路上有很多独处的时间哦~",
+        "ハロー、指揮官！ホビーちゃんと一緒に学校いこう～大丈夫、時間はいっぱいあるから、途中は二人でたくさん一緒にいられるよ～",
+        "Commander, HELLO! Accompany Hobby to class today~ Relax, we still got plenty of time for the road~"
+      ],
+      "details": [
+        "要仔细看看霍比有什么变化么？哼哼！指挥官，相机准备好哦，尽管瞧吧~",
+        "ホビーちゃんの変わったとこもっと知りたい？ふふん、指揮官、カメラは用意した？好きなだけ撮っちゃっていいよ～",
+        "Are you taking a closer look at all of Hobby’s changes? Hey! Commander, ready your camera, take as many pics as you like!"
+      ],
+      "secretaryIdle1": [
+        "书包上的小科尔克布偶？嗯~那孩子是我的好朋友啦，虽然喜欢恶作剧，但指挥官要和她好好相处哦~",
+        "カバンのカークちゃんぬいぐるみ？うーん、あの子はおともだちだよ～ちょっとイタズラ好きなんだけど、指揮官も仲良くしてあげてね～",
+        "My backpack has a little Kalk puppet? Yes~ She is my close friend. Even though she likes to play pranks, but you should get along with her Commander~"
+      ],
+      "secretaryIdle2": [
+        "霍比如果变成舰队的头脑派，指挥官会更喜欢我吧？",
+        "もしホビーちゃんが艦隊の頭脳派になったら、指揮官はもっとホビーちゃんにホレちゃう？",
+        "If Hobby becomes the “mind” of the fleet, then will Commander like her more?"
+      ],
+      "secretaryIdle3": [
+        "指挥官，指挥官~一起出门吧。今天的霍比也和往常一样可爱吧？",
+        "指揮官、指揮官～一緒にお出かけしよ～今日のホビーちゃんもいつも通りかわいいでしょう？",
+        "Commander, Commander~ Let’s go together. Is Hobby as cute as ever today?"
+      ],
+      "secretaryTouch": [
+        "帮指挥官分担工作的话，霍比最拿手啦！随叫随到哦~",
+        "指揮官のお手伝いするの、ホビーちゃん大得意なんだから、いつでも呼んでいいよ～",
+        "Hobby is the best at sharing the workload of the Commander, on call at anytime~"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官，再这样下去，鱼雷先生是不会放过你的哦~——哈哈，指挥官别害怕，骗你的啦~",
+        "指揮官、このままだと、魚雷さんがドーンと飛んでいっちゃうよ～——ははは、指揮官こわがらないで、ウソだよ～",
+        "Commander, if it goes on like this, then Mr. torpedo will not let you go—— haha, don’t be afraid Commander, I’m just kidding~"
+      ],
+      "returnFromMission": [
+        "欢迎回港指挥官！霍比也刚好放学，一起去哪儿逛逛吗？",
+        "おかえり指揮官！ホビーちゃんもちょうど学校が終わったところだから、一緒にどこかいかない？",
+        "Welcome back Commander! Hobby just finished class today, do you want to go take a stroll together?"
+      ],
+      "startingMission": [
+        "要学的东西虽然还很多，霍比可不会怕你们哦~",
+        "お勉強はまだまだたくさんあるけど、ホビーちゃん、全然怖くないんだから～",
+        "Even though there’s still tons of stuff to learn, but Hobby is not afraid of it~"
+      ],
+      "affinityLove": [
+        "哦？霍比的魅力让指挥官彻底折服了？哈哈~霍比已经准备好了！要摸摸头还是抱抱我都可以哦~",
+        "あれれ？もう完全にホビーちゃんにホレちゃった？ははん～頭なでなでも、思いっきりのハグも、ホビーちゃんはいつだって準備オーケーだよ～",
+        "Oh? Commander is completely mesmerized by Hobby’s cute charm? Haha~ Hobby is ready! Does the Commander want to touch Hobby's head or give her a hug?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Hobby_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Hobby_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Hobby_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Hobby_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Hobby_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Hobby_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Hobby_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Hobby_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Hobby_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Hobby_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Hobby_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Hobby_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Hobby_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Hobby_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Hobby_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Hobby_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Hobby_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Hobby_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Hobby_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Hobby_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Hobby_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Hobby_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Hobby_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Hobby_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hobby_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hobby_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hobby_MissionFinSkin1JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Hobby_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Hobby_MissionStartSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Hobby_MissionStartSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Hobby_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Hobby_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Hobby_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

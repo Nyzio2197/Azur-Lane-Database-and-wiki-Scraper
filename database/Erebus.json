@@ -1,0 +1,709 @@
+{
+  "name": "Erebus",
+  "constructionTime": "01:00:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Erebus",
+  "ID": "149",
+  "faction": "Royal Navy",
+  "classification": "Monitor (BM)",
+  "retrofit": false,
+  "artist": "Saru(猴妈)",
+  "pixiv": "https://www.pixiv.net/member.php?id=1422579",
+  "twitter": "https://twitter.com/saru_1127",
+  "link": "http://weibo.com/p/1005051054234800",
+  "voiceActor": "https://en.wikipedia.org/wiki/ja:%E5%A0%80%E7%B1%A0%E6%B2%99%E8%80%B6",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3642,
+      145,
+      91,
+      282,
+      0,
+      61,
+      12,
+      171,
+      0,
+      10,
+      81,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3035,
+      126,
+      91,
+      247,
+      0,
+      28,
+      12,
+      149,
+      0,
+      10,
+      72,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      587,
+      53,
+      91,
+      52,
+      0,
+      11,
+      12,
+      32,
+      0,
+      3,
+      28,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "90% → 120%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 10,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Reload  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    35,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    4
+  ],
+  "limitBreak1": "Secondary Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Secondary Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Infinite Darkness; CN: 无限之darkness JP: 魂凍ル氷闇ノ深淵",
+  "skill1Description": "Every 20 seconds: 30% (60%) chance to fire a special barrage at enemies (damage based on skill level).",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/34/Erebus.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a3/ErebusChibi.png",
+      "shipDescription": [
+        "黑暗界级浅水重炮舰—黑暗界，舷号I02",
+        "エレバス級モニター艦・エレバス (HMS Erebus)",
+        "Erebus-class monitor – Erebus, Hull Number I02!"
+      ],
+      "selfIntroduction": [
+        "黑暗界这个名字听起来是不是有点超现实？ 我的前身是载着探险队去往北极再也没有回来的一艘船，倒确实很有通往深渊的气质…… 总而言之，比起我请多照顾一下我妹妹吧",
+        "探検隊を乗せて北極に向かい、そして二度と戻ってくることはなかったから、深淵、という意味合いでは、確か…",
+        "Erebus, my name, sounds surreal? My predecessor was a ship which carried explorers to the North Pole and never returned... like a journey into the abyss. Please pay more attention to my sisters!"
+      ],
+      "acquisition": [
+        "指挥官，是你么？我是黑暗界，听从你的呼唤，从遥远的地方而来",
+        "あなただったのね？指揮官。私、エレバスーー遙か遠い暗黒の世界から、あなたの呼び声を聞いてやって来たの",
+        "Commander, is that you? I'm Erebus. I followed your voice and have come from afar."
+      ],
+      "login": [
+        "指挥官，黑暗界一直在这里等候你的召唤……",
+        "指揮官、エレバスはずっとここであなたの召喚を待ってるわ…",
+        "Commander, I'm always here, awaiting for your summons..."
+      ],
+      "details": [
+        "我并不会带来死亡……我只是…在她们的命数止尽之时负责清理场地而已",
+        "私の役目は死をもたらさない……生命尽きかける彼女たちに居場所を掃除してあげることだけ",
+        "I am not the harbinger of death... I am just..... guiding them after their times are up"
+      ],
+      "secretaryIdle1": [
+        "我想，我可以将你刚才的状态理解成灵魂出窍？",
+        "あなた、さっき幽体離脱してなかった？",
+        "Did you just have an out-of-body experience?"
+      ],
+      "secretaryIdle2": [
+        "我会一直守护妹妹",
+        "これからもずっと、妹を守り続けるわ",
+        "I'll always protect my little sisters."
+      ],
+      "secretaryIdle3": [
+        "也许，我并不讨厌这里的温暖",
+        "この暖かさ……嫌いじゃないかも",
+        "I have to say, this warmth, I don't dislike it."
+      ],
+      "secretaryTouch": [
+        "我将藉由身体向你传达，这属于亡者的低语……",
+        "この体を通して、亡者の囁きを伝えてあげるわ……",
+        "Allow me to channel forth the whispers of the dead..."
+      ],
+      "secretarySpecialTouch": [
+        "……唔……抱歉，我有点灵魂出窍了",
+        "…う…（！！！）ごめんなさい、今また幽体離脱しちゃってたみたい。",
+        "... ... uh... ... I'm sorry, it seems like I was having an out-of-body experience."
+      ],
+      "task": [
+        "把任务拖到死后世界的人，会不得安宁的喔",
+        "死んでも任務をやり遂げたい執念は、ずっとまとわりつくものなのよ",
+        "You'll experience an eternity of restlessness if you die with incomplete missions."
+      ],
+      "taskComplete": [
+        "奖励是身外之物，取不取倒都没有所谓",
+        "報酬？身につかないものだ。取らなくてもいい",
+        "Rewards are but worldly possessions. It makes no difference to me whether you collect them or not."
+      ],
+      "mail": [
+        "信件是人与人之间的联结，要珍惜呢",
+        "手紙は人間をつなげるものだ。くれぐれも大切に",
+        "Letters are what connect humans. Hold them dear."
+      ],
+      "returnFromMission": [
+        "激战之后的宁静来之不易，请好好休息吧",
+        "激戦のあとの静けさは得難いものだ。ゆっくりしていって",
+        "The silence after a battle is divine. Take your time and rest."
+      ],
+      "commission": [
+        "姐妹们都不太喜欢跟我一起出委托，说我总会看到些奇怪的东西，我也没办法嘛……不说了，她们回来了",
+        "みんなは変なものが見えちゃうからって、私と一緒に委託に出るのに気が乗らないの。仕方ないわ……それより、あの娘たちが帰ってきたわ",
+        "I'm not particularly interested in embarking on commissions... The other girls always say I see weird stuff. I suppose it can't be helped... Anyway, your girls are back!"
+      ],
+      "strengthening": [
+        "黑暗愈发纯粹，我的内心也愈发平静",
+        "闇が純粋になればなるほど、私の心も落ち着くわ",
+        "The purer the darkness, the calmer my mind."
+      ],
+      "startingMission": [
+        "各位请放心，黑暗会让群星更加闪耀",
+        "みんな安心して。暗黒があるからこそ、空の星々がいっそう輝いて見えるの",
+        "Please remain calm. The darkness will only make the stars shine brighter."
+      ],
+      "mvp": [
+        "敌人的灵魂，就由我收割了",
+        "敵の魂は、この私が刈り取った",
+        "Allow me to harvest the souls of our enemies."
+      ],
+      "defeat": [
+        "你可以打败我，但绝对没办驱除那无止境的黑暗",
+        "私に勝っても、これからずっと果てなき暗黒から逃れることはできない",
+        "Even if you manage to defeat me, you'll never escape the infinite darkness."
+      ],
+      "skillActivation": [
+        "想死一次吗？",
+        "いっぺん、死んでみる？",
+        "Want a taste of death?"
+      ],
+      "lowHP": [
+        "黑暗与你我同在",
+        "闇は我々とともに",
+        "The darkness is with us."
+      ],
+      "affinityDisappointed": [
+        "指挥官，你如果想堕入黑暗，就请做好被黑暗界收割的准备吧……",
+        "指揮官、闇に堕ちるというのなら、エレバスに狩られる準備をしてちょうだい",
+        "Commander, if you fall into darkness, know that it will be me hunting your soul..."
+      ],
+      "affinityStranger": [
+        "照顾妹妹一开始是一件比较困难的事，不过现在我也习惯了……习惯孤独？不，只是习惯害怕孤独而已……",
+        "妹の世話は最初は難しかったけど、今はもう慣れたわ……孤独に慣れた？いいえ、孤独に慣れるのを恐れるだけ…",
+        "It was hard to take care of my sister at the beginning, but I got used to it... used to being alone? I'm just used to the fear of it."
+      ],
+      "affinityFriendly": [
+        "每当害怕的时候，只要想着还有妹妹在就能坚持下去了，某种意义上来说妹妹虽然不能没有我，我也不能没有她呢",
+        "怖い時、妹のことを思い出すと堪えられる。妹は私がいないとだめなんだけど、私もあの子がいないとだめのようね",
+        "Whenever I'm afraid, all I have to do is think of my little sister. It gives me the strength to push on. Even though my sister can't be without me, I can't be without her either."
+      ],
+      "affinityLike": [
+        "现在我不会害怕了。在你身边，我非常乐意化作衬托光芒的黑暗，哪怕被光芒吞噬……不……被吞噬也心甘情愿",
+        "今はもう怖くない。あなたのそばなら、喜んで光をより輝かす闇になろう。たとえ光に飲み込まれ……飲み込まれても本望だ",
+        "I'm afraid no longer. Being next to you, I'm willing to become the darkness to your light; And if that light were to swallow me... No, even if I was to be devoured, that would be fine too."
+      ],
+      "affinityLove": [
+        "有光就会有影，所以只要你存在，我就一定会在你身边，这不是命运，而是一种规律——嘻嘻，没什么，只是以前想着，有了喜欢的人后，哪怕一次也想说说看这样的台词呢",
+        "光あるところに闇あり。あなたのいる場所には私がきっとそばにいる。これは運命ではなく、法則ーーふふ、なんでもないわ。昔好きな人ができたら言ってみたかったセリフなのよ",
+        "Where there's light, there's darkness. Wherever you are, I'll be near. This isn't fate but the law of this world... It's nothing, it's just something that I've wanted to say for a long time, if I ever found someone who I truly liked."
+      ],
+      "pledge": [
+        "追逐着光的影，拥抱影的光，也许会有人笑他们愚蠢，但谁又知道他们是不是幸福的呢，对吧，指挥官~",
+        "光を追いかける影、影を抱き締める光ーーお互いがかき消されるから愚かだ、と言う人がいようが、光と影こそが幸せであると知る人がいるまい。そうよね、指揮官",
+        "Shadows chase after light, and light embraces the shadows. I've heard of foolish lovers who erase each other, but who can judge another's love? Isn't that right, Commander?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Terror) 恐怖，待在姐姐身边",
+        "(Sortie with Terror) テラー、姉ちゃんから離れないでね。",
+        "(Sortie with Terror) Terror, stay close to me."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Vampire) 吸血鬼小姐，血…红酒还是适量就好…",
+        "(Sortie with Vampire) ヴァンパイアさん、せんけ…ワインはほどほどにね",
+        "(Sortie with Vampire) Vampire, please imbibe wine - I mean, blood - with moderation..."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Warspite) 厌战大人，我会支援你的",
+        "(Sortie with Warspite) ウォースパイト様、支援するわ",
+        "(Sortie with Warspite) Lady Warspite, I shall support you."
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with at least 5 ships designed by the same artist) 猴子军团，真是个热闹的名字",
+        null,
+        "(Sortie with at least 5 ships designed by the same artist) Saru Legion? What a fun name!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "華々しいバレンタイン、影にいる私たちには不釣り合いとも思うけど…指揮官がよろしければ、このチョコでもどうぞ。少し苦い味もするけど、糖分補給には十分よ",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这个巧克力……和情人节的由来一样，能够证明影子里的我那份心意——希望指挥官获得幸福。如果你能喜欢我会很开心",
+        "このチョコは――バレンタインの由来と同じ、指揮官への幸せを願う影にいる私の気持ちの証明。美味しいと言っていただけると嬉しいわ",
+        "This clamorous Valentine's Day is perhaps not suited for those who dwell in the shadows like us, but... if you are willing, Commander, please accept this chocolate. Although it tastes bitter, it has enough sugar to give you a rush."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, have this Valentine's chocolate. If you get chocolate from any other monitor girls, besides Terror and myself... Do be careful... I have a dreadful feeling about it."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Erebus_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Erebus_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Erebus_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2b/Erebus_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Erebus_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2b/Erebus_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Erebus_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Erebus_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Erebus_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Erebus_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Erebus_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Erebus_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Erebus_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Erebus_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Erebus_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Erebus_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Erebus_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Erebus_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Erebus_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Erebus_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Erebus_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Erebus_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Erebus_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Erebus_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Erebus_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Erebus_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Erebus_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Erebus_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Erebus_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Erebus_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Erebus_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Erebus_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Erebus_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Erebus_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Erebus_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Erebus_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Erebus_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Erebus_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Erebus_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Erebus_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Erebus_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Erebus_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Erebus_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Erebus_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Erebus_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Erebus_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Erebus_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Erebus_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Erebus_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Erebus_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Erebus_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Erebus_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Erebus_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Erebus_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Erebus_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Erebus_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Erebus_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Erebus_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Erebus_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Erebus_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Erebus_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Erebus_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Erebus_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Erebus_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Erebus_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Erebus_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Erebus_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Erebus_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Erebus_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1f/Erebus_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Erebus_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1f/Erebus_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Erebus_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Erebus_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Erebus_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Erebus_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Erebus_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Erebus_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/76/Erebus_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Erebus_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/76/Erebus_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Erebus_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Erebus_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Erebus_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Erebus_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Erebus_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Erebus_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Illusory Happiness",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "虚幻的幸福",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "幻の幸福",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/01/ErebusFestival.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/04/ErebusFestivalChibi.png",
+      "shipDescription": [
+        "有些人只拥吻影子，于是只拥有幸福的幻影——但对我来说，那样就足够了",
+        "影を抱きしめる人は、その幸せもうたかたのようーー私にとっては、それで十分だわ",
+        "Those who embrace the shadows will find only an illusory happiness... But for me, that much is sufficient."
+      ],
+      "acquisition": [
+        "有些人只拥吻影子，于是只拥有幸福的幻影——但对我来说，那样就足够了",
+        "影を抱きしめる人は、その幸せもうたかたのようーー私にとっては、それで十分だわ",
+        "Those who embrace the shadows will find only an illusory happiness... But for me, that much is sufficient."
+      ],
+      "details": [
+        "我依然只是影子，只是现在多了个小小的愿望而已",
+        "私は影のまま。今は、小さき願いを、余分に持っているだけ",
+        "I am still but a shadow. The only difference is, I've found a small, small thing to strive for."
+      ],
+      "secretaryIdle1": [
+        "指挥官，不用客气，巧克力还有很多",
+        "チョコレートはまだあるわ。指揮官、遠慮なんかしないで",
+        "Commander, there's no need to be reserved. I still have a lot of chocolate."
+      ],
+      "secretaryIdle2": [
+        null,
+        "これからもずっと、妹を守り続けるわ",
+        null
+      ],
+      "secretaryIdle3": [
+        "我能这样看着指挥官，还能给指挥官做巧克力，已经非常开心了",
+        "指揮官をこうして見ながら、チョコレートを作ってあげられる。私は嬉しいわ",
+        "Commander, just being able to watch you like this, and give you chocolate, is enough to make me happy."
+      ],
+      "secretaryTouch": [
+        "我在这里，一直都在哦",
+        "私はここよ。ずっと",
+        "I'm here, as always."
+      ],
+      "secretarySpecialTouch": [
+        "碰触到幸福了吗，指挥官？",
+        "指揮官、幸せに触れた?",
+        "Were you able to touch happiness, Commander?"
+      ],
+      "returnFromMission": [
+        "指挥官，要吃些甜食补充糖分吗？",
+        "指揮官、甘い物で糖分の補充でもどう？",
+        "Commander, would you like some sweets to replenish your energy?"
+      ],
+      "mvp": [
+        "黑夜无论怎样悠长,白昼总会到来……",
+        "夜はどんなに長くとも、夜明けは必ず来る…",
+        "No matter how long the night, the dawn will come again..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Erebus_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Erebus_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Erebus_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Erebus_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Erebus_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Erebus_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Erebus_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Erebus_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Erebus_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        null,
+        "https://azurlane.koumakan.jp/w/images/8/8b/Erebus_SecIdle2Skin1JP.ogg",
+        null
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Erebus_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Erebus_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Erebus_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Erebus_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Erebus_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Erebus_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Erebus_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Erebus_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Erebus_Sec2Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Erebus_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Erebus_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Erebus_MissionFinSkin1JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Erebus_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Erebus_MVPSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Erebus_MVPSkin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Wardrobe Witchery",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "变装魔法",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "仮装のウィッチクラフト",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/86/ErebusHalloween.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/57/ErebusHalloweenChibi.png",
+      "shipDescription": [
+        "「我是万圣前夜的女巫，引导着彷徨于黑暗中的灵魂」…万圣节的女巫…是这种感觉吗？",
+        "「ハロウィンイブに現れ、闇に彷徨う魂を導く存在」…ハロウィンの概念に内包された「ウィッチ」、こんな感じでいいかしら",
+        "\"I am the witch of Hallow's Eve, here to guide your soul into the ever darkness\"... that's what the concept of the Halloween witch is about, right?"
+      ],
+      "acquisition": [
+        "「我是万圣前夜的女巫，引导着彷徨于黑暗中的灵魂」…万圣节的女巫…是这种感觉吗？",
+        "「ハロウィンイブに現れ、闇に彷徨う魂を導く存在」…ハロウィンの概念に内包された「ウィッチ」、こんな感じでいいかしら",
+        "\"I am the witch of Hallow's Eve, here to guide your soul into the ever darkness\"... that's what the concept of the Halloween witch is about, right?"
+      ],
+      "login": [
+        "万圣派对开始了。不过女巫只需要在黑暗之中静静守候…",
+        "ハロウィンの催事が始まったわ。もっとも、私は出番が来るまで、ここで待つだけ",
+        "The Halloween event has started. But, I'm supposed to wait here until it's my time to come out."
+      ],
+      "details": [
+        "恐怖看上去非常希望我能和她一起参加万圣前夜的派对…不过…我……",
+        "テラーは私と一緒にハロウィンの催事の行列に並びたいみたいけど…私……",
+        "Terror really wanted to go to the Halloween party with me, but... I..."
+      ],
+      "secretaryIdle1": [
+        "据说在万圣前夜的派对上，也许会有真正的妖怪混入其中…要找找看吗？",
+        "ハロウィンイブとなれば、本物の怪異も潜んでいるかもしれないわ。…探してみる？",
+        "Legend has it that real monsters come out on Hallow's Eve... Shall we search for them?"
+      ],
+      "secretaryIdle2": [
+        "原本深邃幽暗的黑夜，也因为派对变得热闹了起来，感觉……并不坏",
+        "深き闇に包まれる夜も灯火と喧騒でいつもとは違う、騒がしい風景に…ううん、これはこれで悪くないわ",
+        "These festivities have diluted the ever darkness with noise and light... but it's not such a bad thing."
+      ],
+      "secretaryIdle3": [
+        "要糖果吗？给，女巫的特制糖果。",
+        "と、トリックオア…トリート…？あ、は、はい…ウィッチの特製キャンディ、ね",
+        "T-trick or treat...? Oh, right, you can have this special bewitched candy."
+      ],
+      "secretarySpecialTouch": [
+        "指挥官…被奇怪的怨灵附身了么…",
+        "指揮官、変なゴーストにでも憑かれた？",
+        "Commander, have you been possessed by a perverted ghost?"
+      ],
+      "returnFromMission": [
+        "我能听到，黑夜之中…彷徨的灵魂们在窃窃私语…想知道她们说了什么吗？",
+        "闇世の夜に浮かぶ魂たちのつぶやきが聞こえるわ。…何を言っているか、知りたい…？",
+        "I can hear the wailing of souls passing through the ever darkness... You want to know what they're saying...?"
+      ],
+      "affinityLove": [
+        "要和女巫签订契约吗？女巫…会实现你的愿望。代价是，你的灵魂将永远无法与女巫分开… 指挥官，要向我许个愿吗？",
+        "ウィッチとの契約とは、望みを叶える代わりに、そのヒトの魂を永遠に離れないようそばに縛り付けること……指揮官、あなたの望み…教えて？",
+        "Forming a contract with a witch will allow one of your wishes to come true. In return, your souls will forever be bound, unable to separate from one another... Commander, tell me... what is your wish?"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Erebus_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Erebus_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Erebus_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Erebus_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Erebus_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Erebus_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Erebus_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Erebus_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Erebus_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Erebus_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Erebus_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Erebus_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Erebus_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Erebus_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Erebus_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Erebus_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Erebus_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Erebus_SecIdle3Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Erebus_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Erebus_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Erebus_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8e/Erebus_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Erebus_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8e/Erebus_MissionFinSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Erebus_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Erebus_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Erebus_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

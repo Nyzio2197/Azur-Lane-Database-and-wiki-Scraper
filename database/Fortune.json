@@ -1,0 +1,694 @@
+{
+  "name": "Fortune",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "F",
+  "ID": "092",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "哈路卡",
+  "pixiv": "https://www.pixiv.net/member.php?id=12785336",
+  "link": "https://weibo.com/u/1952889047",
+  "voiceActor": "https://en.wikipedia.org/wiki/Y%C5%ABko_Got%C5%8D",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1402,
+      195,
+      68,
+      72,
+      357,
+      209,
+      42,
+      154,
+      0,
+      8,
+      180,
+      218,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1567,
+      195,
+      68,
+      107,
+      357,
+      249,
+      45,
+      169,
+      0,
+      8,
+      180,
+      218,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1333,
+      169,
+      68,
+      97,
+      318,
+      243,
+      45,
+      149,
+      0,
+      8,
+      171,
+      197,
+      0,
+      0
+    ],
+    "Level 100": [
+      1168,
+      169,
+      68,
+      62,
+      318,
+      203,
+      42,
+      134,
+      0,
+      8,
+      171,
+      197,
+      0,
+      0
+    ],
+    "Base Stats": [
+      226,
+      72,
+      68,
+      13,
+      67,
+      78,
+      42,
+      29,
+      0,
+      2,
+      66,
+      54,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 120% → 125%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105% → 110%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 8,
+  "level120StatBonus": "Destroyer (DD) Anti-submarine warfare  +1",
+  "level120TechPoints": 6,
+  "enhancementValue": [
+    4,
+    22,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill1Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill2Name": "(Retrofit) Flank Defense; CN: 侧翼掩护 JP: 側面援護",
+  "skill2Description": "Reduce damage received by main fleet by 5% (15%). Does not stack with the same skill.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-F級",
+  "skill3Description": "Every 15(10) shots from the main battery, trigger Full Barrage - F-Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/bf/Fortune.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b9/FortuneChibi.png",
+      "shipDescription": [
+        "F级驱逐舰—命运女神，舷号H70",
+        "F級駆逐艦・フォーチュン（H70)",
+        "F-class destroyer ー Fortune, Hull Number H70!"
+      ],
+      "selfIntroduction": [
+        "皇家海军F级驱逐命运女神……我和妹妹狐提后来被一起转入了加拿大皇家海军……做为F级驱逐，有好好努力过了呢……",
+        "ロイヤルネイビーFクラスの駆逐艦、フォーチュンです……妹のフォックスハウンドと一緒に楓の国の海軍に転属しました……Fクラス駆逐艦として、頑張りました……",
+        "Royal Navy's F-class destroyer, Fortune. ...I was transferred to the navy of the Maple Monarchy along with my younger sister Foxhound. ...As an F-class destroyer, I have worked hard..."
+      ],
+      "acquisition": [
+        "你好，指挥官……我、我是命运女神……作为F级驱逐有好好努力过喔……",
+        "はじめまして指揮官、わ、私はフォーチュンと言います……Fクラス駆逐艦として、頑張りました……",
+        "Greetings, Commander. I-I'm Fortune... As an F-class destroyer, I'll do my best..."
+      ],
+      "login": [
+        "指挥官，有、有让你等很久吗？……呜……",
+        "指揮官、ま、待たせてしまいました？……うう……",
+        "Commander, d-did I make you wait? ...I-I'm... *cries*"
+      ],
+      "details": [
+        "指挥官……我、我有帮上忙吗？",
+        "指揮官……わたし、頑張りましたけど…やっぱりダメ？",
+        "Commander... I worked hard but... am I still not good?"
+      ],
+      "secretaryIdle1": [
+        "Fortune……也是财富的意思呢……",
+        "フォーチュンは……「富」の意味もありますよ……",
+        "Fortune... means 'wealth' in a way..."
+      ],
+      "secretaryIdle2": [
+        "只要能与妹妹在一起，去哪里都可以……",
+        "妹と一緒なら、どこへでも……",
+        "If I'm with my sister, I can go anywhere..."
+      ],
+      "secretaryIdle3": [
+        "萨斯喀彻温……是神所赐予的新名字……",
+        "サスカチュワン……神から貰った新しい名前……",
+        "Saskatchewan... a new name bestowed by God..."
+      ],
+      "secretaryTouch": [
+        "果、果然我给您添麻烦……了吧？",
+        "や、やっぱりご迷惑をおかけしました…か?><",
+        "I... I'm causing trouble... aren't I...?"
+      ],
+      "secretarySpecialTouch": [
+        "那……个，呜呜……",
+        "あ、あの…うぅ…",
+        "Uh... mmm.... *sobs*"
+      ],
+      "task": [
+        "任、任务……还有没做完的……（小声）",
+        "に、任務……まだ終わっていないのが……",
+        "T-there are... still unfinished missions..."
+      ],
+      "taskComplete": [
+        "感谢神赐予了如此多的财富",
+        "神より賜った富に、感謝です。",
+        "Praise be to God for blessing us with such wealth! *gets on knees and prays*"
+      ],
+      "mail": [
+        "新的邮件……会不会是神的旨意？",
+        "新しいメール……神の御意では…？",
+        "A new mail... Is it the will of God...?"
+      ],
+      "returnFromMission": [
+        "那个……您辛苦了！>.<",
+        "あの……お疲れ様です！><",
+        "Umm... Good work! ><"
+      ],
+      "commission": [
+        "指挥官……那个，委托组好像回来了……",
+        "指揮官……あのぉ、委託チームが帰ってきたようです……",
+        "Commander... Umm, it looks like the commission team is back..."
+      ],
+      "strengthening": [
+        "命运……感觉更近了",
+        "運命は……もっと近くに…",
+        "Fate... is coming closer..."
+      ],
+      "startingMission": [
+        "接受……神的制裁吧！",
+        "神さまの裁き…受けちゃえ！",
+        "Bear witness to the Wrath of GOD!"
+      ],
+      "mvp": [
+        "胜利……是神的眷顾……",
+        "勝利は…神さまの恵みです……",
+        "Victory... is a blessing from God..."
+      ],
+      "defeat": [
+        "神……抛弃我了么……",
+        "神さまは……わたしを見捨てたの……",
+        "Has God... given up on me?"
+      ],
+      "skillActivation": [
+        "那，那个，命运会碾碎你们的>.<!",
+        "あ、あの、運命はあなた方を滅ぼしちゃいますよ>.<!",
+        "Uh, umm, you are all fated to be destroyed >.< !"
+      ],
+      "lowHP": [
+        "愿命运指引我们……",
+        "運命の導きのままに……",
+        "Just as guided by fortune..."
+      ],
+      "affinityDisappointed": [
+        "命运……在将我们分开……",
+        "運命は私達を引き離していきます…",
+        "Fortune is tearing us apart..."
+      ],
+      "affinityStranger": [
+        "……我、我觉得有点紧张……呜呜~",
+        "……き、緊張します……うぅ～",
+        "...I-I'm nervous... Ugh..."
+      ],
+      "affinityFriendly": [
+        "我、我以前也、想跟指挥官搭话的……那个……",
+        "わ、私も前から指揮官とお話したくて……その……",
+        "I-I have also wanted to talk to the Commander... Umm..."
+      ],
+      "affinityLike": [
+        "指挥官……我……一直都在、在注视着指挥官你——突然这样讲，会让你困扰吗？……",
+        "指揮官……私……ずっと、見てますよーー突然こんな事言って、迷惑、ですか…？",
+        "Commander, I... I've always watched you-- Am I troubling you... with such a sudden remark?"
+      ],
+      "affinityLove": [
+        "现在的话，我敢说……如、如果我的名字确实有发挥作用的话，那一定、一定是让我遇到了指挥官……",
+        "今だから言えます…私の名前になっている運命の女神さまが、私と指揮官を出会わせてくださったって……",
+        "I finally have the courage to can say this... The goddess of fortune has allowed us to meet each other..."
+      ],
+      "pledge": [
+        "能和指挥官走到这一步……虽、虽然有命运的指引，但是也、也多亏指挥官能够一直拉着我，我才能对未知的命运抱有信心……谢谢……",
+        "指揮官とここまで来れたのは……う、運命の導きですけど…指揮官がずっと私の手を引いてくれたおかげで、私の運命を信じ続けられました……ありがとうございます……",
+        "To think that we've gotten to this point together, Commander... W-well, fortune has guided us... but it's also due to you guiding my hand as well. I will continue to believe in my own fortune... Thank you very much..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Foxhound) 同为F级一起加油吧~",
+        "(Sortie with Foxhound) F級ととして、いっしょにがんばりましょう…",
+        "(Sortie with Foxhound) Come on F-class, let's do our best!"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "う、運命は指揮官にチョコを贈るべきだと言ってましたから、チョコを……ひゃぅ…に、握りしめてて潰れちゃいました……",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这……这个能带来缘分的巧克力……也能给指挥官带来好的缘分哦……这也是命运呢><",
+        "この……ご縁を授かることができるチョコで…指揮官にもいいご縁が訪れますよ……それもまた運命です＞＜",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "It is our collective fate to give the Commander chocolate today... Huh? Pardon? I'm the first to give you any today?! How can that be?!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Fortune_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Fortune_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Fortune_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Fortune_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Fortune_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Fortune_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Fortune_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Fortune_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Fortune_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Fortune_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Fortune_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Fortune_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Fortune_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Fortune_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Fortune_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/08/Fortune_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Fortune_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/Fortune_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Fortune_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Fortune_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Fortune_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Fortune_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Fortune_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Fortune_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f2/Fortune_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Fortune_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f2/Fortune_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Fortune_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Fortune_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Fortune_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Fortune_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Fortune_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Fortune_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/92/Fortune_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Fortune_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/92/Fortune_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Fortune_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Fortune_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Fortune_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fortune_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fortune_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fortune_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Fortune_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Fortune_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Fortune_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Fortune_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Fortune_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Fortune_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Fortune_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Fortune_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Fortune_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Fortune_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Fortune_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Fortune_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/16/Fortune_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Fortune_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/Fortune_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Fortune_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Fortune_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Fortune_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Fortune_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Fortune_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Fortune_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cb/Fortune_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Fortune_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cb/Fortune_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Fortune_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Fortune_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Fortune_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Fortune_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Fortune_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Fortune_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Fortune_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Fortune_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Fortune_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Fortune_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Fortune_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Fortune_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/03/Fortune_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Fortune_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/03/Fortune_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3c/FortuneKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/74/FortuneKaiChibi.png",
+      "shipDescription": [
+        "这样真的能帮助指挥官吗……诶！？指挥官，就算不这么做，命运也决不会出轨！啊……原来只是个玩笑啊……",
+        "こうすれば指揮官の役に立てるのですか……え！？指揮官、こうしなくてもフォーチュンは……は、はぅ……冗談ですか…",
+        "Is this really going to help you, Commander? Ah? I doubt our destiny will change with this... Just kidding, Commander! Anything for you."
+      ],
+      "acquisition": [
+        "这样真的能帮助指挥官吗……诶！？指挥官，就算不这么做，命运也决不会出轨！啊……原来只是个玩笑啊……",
+        "本当にこれで指揮官の役に……えええ！？そ、そんな！フォーチュンはレールから外れないよ！あぅ……冗談……だったの？",
+        "Can I really be of use with this... Eeeeh?! N-No way! I can't get off the rails! Ugh... Was that... a joke?"
+      ],
+      "secretaryIdle1": [
+        "Fortune……也有财富的意思，要是能给舰队带来财富就好了",
+        "フォーチュンは……「富」の意味もありますよ。艦隊に富をもたらすといいですね",
+        "Fortune...means 'wealth' in a way. It would be great if I can enrich our fleet."
+      ],
+      "secretaryIdle2": [
+        "呜呜，指挥官，我能稍微休息一下吗",
+        "あぅ……指揮官、少し休ませてください…",
+        "Ugh... Commander, please let me rest..."
+      ],
+      "secretaryIdle3": [
+        "呜呜，神大人，真的有必要给我这样的试炼吗……",
+        "ああ神さま、こんな試練は本当に必要なのでしょうか…",
+        "Oh God, is such a trial truly necessary..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Fortune_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Fortune_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Fortune_IntroSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Fortune_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Fortune_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Fortune_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Fortune_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Fortune_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Fortune_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6b/Fortune_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Fortune_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6b/Fortune_SecIdle3Skin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Evasion Enhancement Ⅰ",
+      "attributes": "Evasion +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Main Gun Improvement Ⅰ",
+      "attributes": "Equip 1 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Firepower Enhancement Ⅰ",
+      "attributes": "Firepower +10 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 1000,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "4x DestroyerT1BP ",
+      "coinCost": 1200,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / Health +75 ",
+      "materials": "1/2x DestroyerT2BP ",
+      "coinCost": 1500,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Flank Defense\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1800,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 2000,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Evasion Enhancement Ⅱ",
+      "attributes": "Evasion +5 / Evasion +10 ",
+      "materials": "2x DestroyerT2BP ",
+      "coinCost": 2500,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B,I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Firepower +25, Evasion +20 ",
+      "materials": "1x DestroyerT3BP and 1x Fortune or Universal Bulin ",
+      "coinCost": 3000,
+      "levelRequired": 85,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "H,I,J"
+      ]
+    }
+  ]
+}

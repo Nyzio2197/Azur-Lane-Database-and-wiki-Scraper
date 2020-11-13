@@ -1,0 +1,453 @@
+{
+  "name": "Fletcher",
+  "constructionTime": "00:28:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Fletcher",
+  "ID": "011",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Lino(番茄)",
+  "pixiv": "https://www.pixiv.net/member.php?id=238071",
+  "twitter": "https://twitter.com/lino__",
+  "link": "http://weibo.com/p/1005051859846292",
+  "voiceActor": "https://en.wikipedia.org/wiki/Manaka_Iwami",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2077,
+      196,
+      73,
+      85,
+      283,
+      160,
+      43,
+      172,
+      0,
+      8,
+      189,
+      206,
+      0,
+      0
+    ],
+    "Level 100": [
+      1746,
+      171,
+      73,
+      74,
+      248,
+      156,
+      43,
+      150,
+      0,
+      8,
+      180,
+      186,
+      0,
+      0
+    ],
+    "Base Stats": [
+      338,
+      72,
+      73,
+      16,
+      53,
+      60,
+      43,
+      32,
+      0,
+      2,
+      69,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 13,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    5,
+    17,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Sister's Temperament; CN: 姐姐气质 JP: お姉さん気質",
+  "skill1Description": "In combat, increases Firepower and Evasion of all in the fleet by 10% (30%).",
+  "skill2Name": "Tactical Command: Destroyers; CN: 战术指挥·驱逐舰 JP: 戦術指揮・駆逐艦",
+  "skill2Description": "Increases Firepower, Torpedo stat, and Reload of all Destroyers in the fleet by 1% (10%). Does not stack with other command skills that have similar effect.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フレッチャー級",
+  "skill3Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Fletcher Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c2/Fletcher.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/33/FletcherChibi.png",
+      "shipDescription": [
+        "弗莱彻级驱逐舰—弗莱彻，舷号DD-445",
+        "フレッチャー級駆逐艦・フレッチャー（DD-445)",
+        "Fletcher-class destroyer - Fletcher, Hull Number DD-445!"
+      ],
+      "selfIntroduction": [
+        "我是弗莱彻级175艘驱逐舰的大姐弗莱彻号！是驱逐舰队的主力，重要的海上战役都参与过喔~",
+        "フレッチャー級駆逐艦、全175隻の長女、フレッチャーでーす！駆逐艦隊の主力として、色々な戦闘に参加しましたわ~",
+        "I'm Fletcher, the big sister of all 175 Fletcher-class destroyers! As the main force of the destroyer fleet, I participated in all the important naval battles~"
+      ],
+      "acquisition": [
+        "欸？我们之前见过？喔……我懂了……您知道吗，这个世界上有上百个和我长得很像的哦！——那么请多指教了，指挥官",
+        "え？どこかで会った、ですか？あら…そういうことですか…実はこの世界で、私とよく似ている娘が100人以上いますよ~よろしくお願いしますね、指揮官さん",
+        "Hm? You think we've met before? I get it... You know, I have over 100 sisters who look like me! I'll be following your orders from now on, Commander."
+      ],
+      "login": [
+        "指挥官，今天是不是比较容易认出我了？妹妹们可不是长这样的哦~！",
+        "指揮官さん、今日の私は見分けやすかった？妹たちとは違いますよ~？",
+        "Can you recognize me today, Commander? My sisters don't look like this!"
+      ],
+      "details": [
+        "我跑得很快，他们打不到我的！唔……就算被普通的打一下的话也完全没问题……的吧？",
+        "私、足が早いから弾が多分当たりませんよ？え……まあ少し当たっても平気……かな？",
+        "I can move quickly, so I probably won't get hit. Well... even if I do, I'll... probably be fine."
+      ],
+      "secretaryIdle1": [
+        "上次有人冒充我，妹妹要她把所有姐妹的名字都说出来。然后那边道歉了呢~",
+        "この前私を装ったニセモノに、妹は私たち姉妹艦全員の名前を言わせようとしたの。そしたら相手から折れちゃいました～",
+        "Last time someone tried to impersonate me, one of my little sisters told them to name EVERY Fletcher-class ship. That's when they gave up the act~"
+      ],
+      "secretaryIdle2": [
+        "唔，看着妹妹们……我都要怀疑妈妈是不是兔子了……",
+        "妹たちを見るたびに…私たちの家族がもしかしてウサギではないかなって気になります…",
+        "When I look at my little sisters, it makes me wonder... Maybe our parents were rabbits?"
+      ],
+      "secretaryIdle3": [
+        "……指挥官？真是的……又在走神想我的哪个妹妹了么？",
+        "指揮官さん？もう…、また妹の誰かを考えてました？",
+        "... Commander? Really... Are you thinking about one of my sisters again?"
+      ],
+      "secretaryTouch": [
+        "这样的，妹妹们一定也很喜欢——欸？手会酸？……",
+        "妹たちもきっとこういうのが気にいると思うよーーえ？突きすぎると手が疲れるって？……",
+        "My little sisters would probably like doing this too. Huh? Your hand would get sore from it?"
+      ],
+      "secretarySpecialTouch": [
+        "指、指挥官请不要这样，被妹妹们看到的话……",
+        "し、指揮官さん止めてください！妹たちに見られたら……",
+        "C-Commander, please stop! What if my sisters see this..."
+      ],
+      "task": [
+        "又可以和妹妹们一起执行任务了，指挥官下达命令吧",
+        "また妹たちと一緒に任務に行けますね。指揮官さん、ご命令ください",
+        "I can go on missions with my sisters again. Give the order whenever you're ready, Commander!"
+      ],
+      "taskComplete": [
+        "任务奖励不知道够不够分给妹妹们一人一点呢……",
+        "ボーナス、妹たち全員分足りるかな……",
+        "I wonder if all my sisters can get an equal share of the rewards..."
+      ],
+      "mail": [
+        "唔，平时都是谁给指挥官写信呢，有点在意呢……",
+        "指揮官さんはいつも誰からメールをもらっているのですか？ちょっと気になります…",
+        "Who has been writing so many letters to you, Commander? I'm a bit curious..."
+      ],
+      "returnFromMission": [
+        "欢迎回来～指挥官不在的这段时间又多了几个妹妹呢！",
+        "ただいま~あれ？いない間にまた妹が増えちゃいました？",
+        "I'm back~ Wait, huh? Did another one of my little sisters join the fleet while I was gone?"
+      ],
+      "commission": [
+        "委托完成了喔~我看看下一个……哇，委托跟妹妹们一样多",
+        "委託が完了しましたわ。次は…えっと、妹たちと同じいっぱいありますね…",
+        "A commission has been completed! Let's see what's next... Wow, there's so many! Almost one for each of my little sisters..."
+      ],
+      "strengthening": [
+        "这样就能更好地照顾妹妹们了",
+        "これでもっと妹の世話ができますね",
+        "Now I can take better care of my sisters!"
+      ],
+      "startingMission": [
+        "对面只有几个人呢~让我们用数量碾压他们吧！",
+        "相手はただ数隻ですよ~数で圧倒しましょう！",
+        "There's only a handful of enemies. Let's beat them with sheer numbers!"
+      ],
+      "mvp": [
+        "据说凑齐15个星星的话可以满足一个愿望呢~",
+        "星を15個集めると、どんな願いも1つだけ叶えてくれるって～",
+        "I've heard that if you collect fifteen stars then one of your wishes will come true~!"
+      ],
+      "defeat": [
+        "呜……欺负我……被妹妹们知道了的话你会很惨的！",
+        "うぅ…いじわる…妹たちに知られたらただじゃすまないよ！",
+        "*Sob*... You bullies... My sisters will hurt you if they find out about this!"
+      ],
+      "skillActivation": [
+        "妹妹们，帮帮我吧……！",
+        "妹たち、私に力を……！",
+        "My sisters, give me strength...!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "对，对不起，我要去照顾妹妹了！",
+        "す、すみません。妹たちの世話が…",
+        "S-sorry, I have to go check up on my little sisters..."
+      ],
+      "affinityStranger": [
+        "唔，毕竟要照顾妹妹们，所以不是很有时间去想多余的事呢……",
+        "ふぅ……妹たちの世話をしなければならないですから、ほかのことを考える時間は中々ないみたいですね……",
+        "Whew... I need to take care of my sisters so much that I don't really have time to think about anything else..."
+      ],
+      "affinityFriendly": [
+        "指挥官，能来帮我一下吗——谢谢，果然指挥官比我要有力气呀，稍微有点羡慕呢",
+        "指揮官さん、すみません少し手伝って――ありがとうございます。やっぱり指揮官さんは力持ちですね…ちょっと羨ましいです",
+        "Commander, can you help me a little bit? Thank you... You're stronger than me, after all... I'm a little jealous."
+      ],
+      "affinityLike": [
+        "这么多妹妹之中……指挥官……最喜欢哪个呢？……把、把我也算上……的话……",
+        "こんなに多い姉妹艦たちの中で、指揮官さん的に……どの子が一番お気に入りですか？……わ、私も入れて……（小声）",
+        "Out of all of us in the fleet... Who do you personally like the most, Commander? ... Counting me as well?"
+      ],
+      "affinityLove": [
+        "欸？要帮我照顾妹妹？但，但是，妹妹们很多，有时候我都觉得困扰，真的真的真的可以吗？那我……可以误会一下吗？",
+        "え？妹の世話を手伝ってくれるのですか？で、でも、妹が多過ぎて自分も時々困りますよ？？本当に本当にいいですか？じゃあ……ここは少し…よく考えてもいいですか……？",
+        "Hm? You want to help me take care of my little sisters? There's a lot of them, and I could use the help, but... Are you really, REALLY sure? In that case... Can I think about it for a bit first...?"
+      ],
+      "pledge": [
+        "家人啊……虽然已经有许多妹妹了，不过指挥官是特别的呢……嘻嘻",
+        "家族ですか……妹はたくさんいますけど、でも指揮官さんはやっぱり特別です♪……うふふ♪",
+        "A family, huh? ... I already have so many sisters, but you're special to me after all, Commander!"
+      ],
+      "giftDescriptionValentines2018": [
+        "这是和妹妹们一起做的巧克力！可可是海尔酱，砂糖是欧文酱提供的…这是我们大家庭的味道！",
+        "妹たちと一緒に作ったチョコレートです！えっと、ココアはヘイルちゃん、砂糖はアーウィンちゃん…みんなが持ち寄った私たち大家族の味です！はい！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这是我和妹妹们一起做的巧克力！请品尝！……其实完美地采纳所有人的喜好很难哦？比如说拉德福特和马拉尼她们总是想放点奇怪的东西进去……",
+        "妹たちと一緒に作ったチョコレートです！どうぞ召し上がってください！…実はみんなの好みをうまく取り入れるって結構難しいですよ？ラドフォードちゃんとかマラニ―ちゃんとか、変なものを入れたがるのですから……",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "My sisters and I got together again and made more chocolate! This is for you, Commander! By the way, it seems like you have more girls at port who want to give you chocolate than I have sisters. Hahaha~"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Fletcher_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Fletcher_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Fletcher_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d6/Fletcher_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Fletcher_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d6/Fletcher_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fd/Fletcher_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Fletcher_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fd/Fletcher_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Fletcher_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Fletcher_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Fletcher_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Fletcher_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Fletcher_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Fletcher_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Fletcher_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Fletcher_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Fletcher_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Fletcher_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Fletcher_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Fletcher_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Fletcher_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Fletcher_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Fletcher_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Fletcher_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Fletcher_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Fletcher_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Fletcher_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Fletcher_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Fletcher_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Fletcher_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Fletcher_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Fletcher_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Fletcher_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Fletcher_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Fletcher_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Fletcher_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Fletcher_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Fletcher_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Fletcher_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Fletcher_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Fletcher_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Fletcher_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Fletcher_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Fletcher_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Fletcher_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Fletcher_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Fletcher_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Fletcher_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Fletcher_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Fletcher_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Fletcher_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Fletcher_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Fletcher_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Fletcher_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Fletcher_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Fletcher_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/Fletcher_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Fletcher_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/Fletcher_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Fletcher_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Fletcher_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Fletcher_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Fletcher_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Fletcher_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Fletcher_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fletcher_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fletcher_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Fletcher_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

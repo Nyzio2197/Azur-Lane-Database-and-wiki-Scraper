@@ -1,0 +1,388 @@
+{
+  "name": "Chitose",
+  "constructionTime": "02:15:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Zuihou",
+  "ID": "470",
+  "faction": "Sakura Empire",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "artist": "yuui（ゆうい)",
+  "pixiv": "https://www.pixiv.net/en/users/2334129",
+  "twitter": "https://twitter.com/tofuyuui",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4398,
+      185,
+      57,
+      0,
+      0,
+      72,
+      29,
+      261,
+      347,
+      11,
+      81,
+      90,
+      0,
+      0
+    ],
+    "Level 100": [
+      3759,
+      161,
+      57,
+      0,
+      0,
+      52,
+      29,
+      228,
+      308,
+      11,
+      68,
+      79,
+      0,
+      0
+    ],
+    "Base Stats": [
+      727,
+      68,
+      57,
+      0,
+      0,
+      20,
+      29,
+      49,
+      65,
+      3,
+      26,
+      22,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "115% → 130%",
+  "slot2Equipment": "Torpedo Bombers",
+  "slot2Efficiency": "135% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 80%",
+  "collectionStatBonus": "Light aircraft carrier (CVL) Health  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Aviation  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    0,
+    0,
+    43,
+    13
+  ],
+  "retireValue": [
+    0,
+    7,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / Fighters Efficiency +5%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Fighters +1 / Fighters Efficiency +10%",
+  "limitBreak3": "Number of All Planes +1 / Torpedo Bombers Efficiency +10%",
+  "skill1Name": "Strike Team, Attack!; CN: 千之羽",
+  "skill1Description": "Every battle, when this ship launches its first Airstrike: launches an additional seaplane airstrike; when it launches its second Airstrike and onwards: 40% (70%) chance to launch an additional torpedo bomber airstrike (DMG is based on the skill's level). If there is a Sakura Empire CVL in the same fleet as this ship: improves these airstrikes.",
+  "skill2Name": "Air Support; CN: 制空支援 JP: 制空支援",
+  "skill2Description": "When this ship launches an airstrike, increase the AVI stat of each CV and CVL in your fleet by 5.0% (15.0%) for 8 seconds. This buff does not apply to the airstrike that triggered it.",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/62/Chitose.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3b/ChitoseChibi.png",
+      "shipDescription": [
+        "鹳级轻型航空母舰—鹂",
+        "瑞鳳型航空母艦・千歳",
+        "Zuihou-class aircraft carrier – Chitose."
+      ],
+      "selfIntroduction": [
+        "最初我和鹃都是作为水上飞机母舰诞生。不过，在那一役过后，我、鹃，还有一些同伴们都加入了航空母舰的队伍。不过，应该说是时运不济，还是实力不足呢…我们直到最后，也没有什么亮眼的发挥…",
+        "水上機母艦として設計された私と千代田、かの大戦での、あの戦闘を経て仲間たちと共に空母に改造された。…実力不足か、はたまた時の流れに逆らえないためか…活躍できなかったわ。色々とね",
+        "Though Chiyoda and I were originally designed as seaplane tenders, during a certain war, we were remodeled into aircraft carriers. Whether it's due to my lack of skill or my inability to oppose the passing of time... I wasn't able to be of much use until the end."
+      ],
+      "acquisition": [
+        "重樱轻型航空母舰，鹂号。指挥官，还请以后多多指教。对了，我听说鹃她也在这里，对吗？……没什么，只是问一下而已。",
+        "重桜所属、軽空母千歳。指揮官、よろしく。千代田もここにいると聞いているけど、本当？……いいえ、ただ聞いてみただけ",
+        "I am Chitose, light carrier of the Sakura Empire. Commander, I look forward to receiving your guidance. By the way, is it true that Chiyoda is also here? ...Don't worry, I was merely inquiring."
+      ],
+      "login": [
+        "来了吗…桌子上有鹃送来的羊羹，你想吃的话就拿去吃吧。",
+        "あ、来た。千代田が差し入れてくれた羊羹が机の上にあるわ。もらってあげて",
+        "Oh, you're here. There's some red bean jelly from Chiyoda on your desk. Feel free to take some."
+      ],
+      "details": [
+        "我和鹃，姑且都算是神社巫女的一员呢，虽然鹃老是那么闹腾…不过也算是带来了不太一样的欢乐呢。",
+        "千代田とは一応、神社勤めの仲間。千代田、ああいう感じでうるさいけど、楽しいときもあるわ",
+        "Chiyoda and I are partners in carrying out shrine duties. Even though Chiyoda can be pretty annoying at times, there are still times she's fun to be around."
+      ],
+      "secretaryIdle1": [
+        "貉…真是个好孩子呢，虽然有点胆小，不过，也正因为这样显得更加可爱了…",
+        "五十鈴…ちょっと怖がり屋だけど、いい子。その怖がりなところも可愛いわ",
+        "Isuzu... is quite a scaredy cat, but she's a good girl. But even that side of her is cute."
+      ],
+      "secretaryIdle2": [
+        "鹃坚持让我留着这麻烦的发型，所以就保持这样了。倒是一直麻烦她帮忙打理，有些对不住就是…",
+        "この髪型、千代田がどうしてもっていつも彼女がやってくれる。ちょっとだけ…申し訳ない気持ち",
+        "Chiyoda always insists on doing my hair this way, so I let her. However, I always feel a bit apologetic for making her do so much..."
+      ],
+      "secretaryIdle3": [
+        "神乐舞…我其实还满擅长的哦？下次有机会的话…可以来观摩一下。",
+        "神楽の舞は、まあまあ得意。機会があったら、見に来て",
+        "I'm at least confident in my Kagura dancing skills. If you get the chance, please come and watch."
+      ],
+      "secretaryTouch": [
+        "！？…呼，是指挥官啊，还以为是白鹰那个粉毛小姑娘又来捉弄人了…",
+        "！？…指揮官か…ユニオンのピンク髪の子の、いたずらだと思った",
+        "Who?! ... Oh, it's you. I thought it was a prank from that pink-haired Union girl."
+      ],
+      "secretarySpecialTouch": [
+        "！？请、请不要这样…",
+        "！？ちょっと、ダメ…！",
+        "Hah?! Wait, no...!"
+      ],
+      "secretaryHeadpat": [
+        "你也和鹃一样，喜欢摸我的头发吗？",
+        "千代田と同じく、髪に触れるのが好き？",
+        "Do you like touching my bangs like Chiyoda does?"
+      ],
+      "task": [
+        "任务？没完成放着的话，不太好吧？",
+        "任務。こなさないまま放置、まずいのでは？",
+        "Here are some more missions. Isn't it bad to let them pile up like this?"
+      ],
+      "taskComplete": [
+        "任务完成了，嗯，是值得高兴的事情呢。",
+        "任務。完了…うん、喜ばしいわ",
+        "The mission is... complete. That's good."
+      ],
+      "mail": [
+        "有给你的信件，请注意查收…指挥官。",
+        "指揮官宛の手紙あり。査収を",
+        "There's a letter addressed to you. Please check it out."
+      ],
+      "returnFromMission": [
+        "平安回来了啊。…衣服里的护身符是我做的，给指挥官和鹃都做了一个。",
+        "無事だったね。…お守りは私の手作り。指揮官と千代田の分、服にコッソリと",
+        "I'm glad you're safe... I made a protective charm for you, and also one for Chiyoda. Please keep it safely inside your clothes."
+      ],
+      "commission": [
+        "委托组，平安回来了，真是太好了。",
+        "委託組、無事帰還。よかった",
+        "The commission team has returned safely. What a relief."
+      ],
+      "strengthening": [
+        "总之谢谢你了，指挥官。",
+        "ひとまず、感謝。指揮官",
+        "For the time being, thanks, Commander."
+      ],
+      "startingMission": [
+        "总之…先谨慎行动吧。",
+        "まずは、慎重に…",
+        "I have to make sure to be careful..."
+      ],
+      "mvp": [
+        "我…也能帮上大家这么多了么…",
+        "皆の役に立つこと……私にもできた",
+        "I'm glad... that I was able to be a help to everyone else."
+      ],
+      "defeat": [
+        "该撤退了…希望鹃能平安无事…",
+        "後退する。…千代田、無事でいて…",
+        "We're pulling back. Chiyoda, please be safe..."
+      ],
+      "skillActivation": [
+        "攻击队，缠住敌人…！",
+        "攻撃隊、絡みつけ…！",
+        "Attack force, surround them...!"
+      ],
+      "lowHP": [
+        "不太妙…鹃…没事吧…",
+        "まずい…千代田…大丈夫かな…",
+        "This is bad... I hope Chiyoda... is alright..."
+      ],
+      "affinityDisappointed": [
+        "指挥官，能离鹃远一点吗？越远越好…",
+        "指揮官、千代田から離れていて。できるだけ遠く",
+        "Commander. Get away from Chiyoda. As far as you possibly can."
+      ],
+      "affinityStranger": [
+        "“诱饵舰队”么……希望那样的事情不会再次发生就好。",
+        "「囮機動部隊」……もう一度起きてほしくない",
+        "The one thing I hope I never have to see again is the formation of a \"decoy fleet\"..."
+      ],
+      "affinityFriendly": [
+        "有一个老是缠着自己撒娇的妹妹还真是…倒也不是讨厌…嗯…怎么说呢……",
+        "甘えてくる妹は…なんというか、嫌ではない……なんといえばいいかな…",
+        "I don't dislike having to pamper Chiyoda... If anything, I might actually find it quite endearing..."
+      ],
+      "affinityLike": [
+        "做饭打扫这类的活儿，总是被鹃揽过去做了，导致我的手艺反而生疏了……唔，我想说的其实就是…这些其实我也可以做得到…仅，仅此而已哦？",
+        "料理や掃除、身の回りのお世話はいつも千代田がやっている。……つまり、私はできないのではなく、やろうと思えば…そ、それだけのこと……",
+        "Cooking, cleaning, even taking care of my things... Chiyoda takes care of it all. ... Basically, it's not that I can't do these tasks. If I put my mind to it, I can do it... I totally can..."
+      ],
+      "affinityLove": [
+        "那个…指挥官，不向我撒撒娇吗？啊…我是想说…我在被撒娇方面还是很有经验的，比方说，膝枕之类的…不，不来试试吗？",
+        "指揮官、私に甘えてみない？……こう見えても、甘えられ上手というか……例えば膝枕、とか…されてみたいとか、ない？",
+        "Commander, won't you rely on me some more? I'm actually pretty good at spoiling people, you know... Oh I know... would you like me to give you a lap pillow, or something...?"
+      ],
+      "pledge": [
+        "既然是指挥官的心意，我自然愿意欣然接受…以后每天，鹂都会在港区等着你，为你祈福。你也可以…像鹃那样……嗯，经常来找我撒娇的哦？",
+        "あなたの気持ちだから、喜んで……これから毎日、無事を祈りながら、あなたの居場所になる。あなたも…千代田のように、時々、甘えてきて…？",
+        "If that's how you feel about me, I'll gladly accept your feelings... I'll pray for your safety every day, and be your refuge from your daily hardships. I hope... you'll come look for me whenever you're feeling troubled, because I want to pamper you like I do with Chiyoda..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Chiyoda) 好了好了，我知道了，一起上吧。",
+        "(Sortie with Chiyoda) わ、わかったわよ…一緒にね",
+        "(Sortie with Chiyoda) Alright, alright... We'll go together."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Saratoga) 小、小鹂？？",
+        "(Sortie with Saratoga) ち、千歳ちゃんって…",
+        "(Sortie with Saratoga) D-Don't call out to me so endearingly..."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Isuzu) 不要怕，这次我在你身后",
+        "(Sortie with Isuzu) 私がいるわ。怖がらないで",
+        "(Sortie with Isuzu) I'm here. There's nothing to fear."
+      ]
+    },
+    {
+      "ENClientName": "Summer Shine",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "夏阳璀璨之日",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "夏陽燦々千歳",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/59/ChitoseSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ef/ChitoseSummerChibi.png",
+      "shipDescription": [
+        "来份椰子汁…还有烤肠。嗯，这样应该就行了……嗯？指挥官？也是来买吃的吗，还是来乘凉的？",
+        "ココナッツミルクに…フランクフルト。うん、これで。…指揮官？食べものを買いに？それとも、単なる暇つぶし？",
+        "An order of coconut milk... and grilled sausage. Mm, that should do it. ...Hm? Commander? Are you here to place an order, or to get away from the heat?"
+      ],
+      "acquisition": [
+        "来份椰子汁…还有烤肠。嗯，这样应该就行了……嗯？指挥官？也是来买吃的吗，还是来乘凉的？",
+        "ココナッツミルクに…フランクフルト。うん、これで。…指揮官？食べものを買いに？それとも、単なる暇つぶし？",
+        "An order of coconut milk... and grilled sausage. Mm, that should do it. ...Hm? Commander? Are you here to place an order, or to get away from the heat?"
+      ],
+      "login": [
+        "夏天的烈日真的是一种煎熬…得找个阴凉的休息处了……",
+        "日差しはキツイ、かも…日除け、探さないと…",
+        "The sun's rays are so harsh... I should go look for some awning to hide under..."
+      ],
+      "details": [
+        "呼…来到海边，大家都闹腾起来了呢…嗯…希望能平安顺利地度过今天，不要有飞过来的排球，也不要有突然出现的舰载机……",
+        "……海辺では皆、騒がしくなる…今日は無事でいたい。ビーチボールも、艦載機も、突然飛んでこないように…",
+        "Everyone becomes so rowdy when they get to the beach... I hope nothing bad happens today. Please, may enemy aircraft and volleyballs not come flying our way..."
+      ],
+      "secretaryIdle1": [
+        "貉，虽然不知道你是听谁说的…不过这边的海里是没有幽灵的，安心去玩吧",
+        "五十鈴、その話は誰から…？おばけはいないから、安心して遊んで",
+        "Isuzu, who told you that...? There aren't any ghosts here, don't worry. Go out and play."
+      ],
+      "secretaryIdle2": [
+        "鹃…还真是锲而不舍啊…大夏天的…堆堆沙堡还好说…沙滩排球？还是对付白鹰那位…？哈啊…我还是在这边休息吧…",
+        "千代田、負けず嫌い…砂のお城づくりならともかく、ビーチバレーって……ピンク髪の子が相手なら、私、休んだほうが…",
+        "Chiyoda's quite the sore loser... She's like that even when it comes to building sand castles, so I can't even imagine how worked up she'd get over beach volleyball... If that pink-haired union girl is our opponent, I think I'll just sit out..."
+      ],
+      "secretaryIdle3": [
+        "天气预报…唔，一直到晚上都会是大晴天么…",
+        "天気予報…夜まで快晴…ん……",
+        "The weather forecast says... it'll be clear until the evening... Mmn..."
+      ],
+      "secretaryTouch": [
+        "草莓刨冰…好像也不错呢，说到夏天，果然就应该是这些美味的东西了吧。",
+        "アイスのかき氷、美味しそう…夏は涼しいものが人気、ね",
+        "That shaved ice looks really good... I guess there's a good reason cold treats are popular in the summer."
+      ],
+      "returnFromMission": [
+        "指挥官，已经满头大汗了呢…这是毛巾，拿去用吧。",
+        "指揮官、汗、大丈夫？…タオルよ。持っていって",
+        "Commander, you're sweating so profusely. Are you okay? ...Here's a towel. Let me wipe you down."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

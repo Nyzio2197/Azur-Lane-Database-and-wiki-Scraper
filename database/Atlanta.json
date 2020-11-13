@@ -1,0 +1,453 @@
+{
+  "name": "Atlanta",
+  "constructionTime": "01:10:00",
+  "constructionPools": [
+    true,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Atlanta",
+  "ID": "034",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://www.imdb.com/name/nm5877942/",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3517,
+      179,
+      12,
+      129,
+      157,
+      95,
+      32,
+      422,
+      0,
+      9,
+      168,
+      187,
+      0,
+      0
+    ],
+    "Level 100": [
+      3126,
+      156,
+      12,
+      112,
+      137,
+      73,
+      32,
+      380,
+      0,
+      9,
+      150,
+      168,
+      0,
+      0
+    ],
+    "Base Stats": [
+      605,
+      66,
+      12,
+      24,
+      29,
+      28,
+      32,
+      81,
+      0,
+      2,
+      58,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CL",
+  "slot1Efficiency": "100% → 105%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "140% → 160%",
+  "collectionStatBonus": "Light cruiser (CL) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Light cruiser (CL) Reload  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    10,
+    10,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    6,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Anti-Air Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Anti-Air Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Anti-Air Command: Cruisers; CN: 防空指挥·巡洋舰 JP: 対空指揮・巡洋艦",
+  "skill1Description": "Increase Anti-Air of cruisers in the same fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "Anti-Air Mode; CN: 防空模式 JP: 対空配置",
+  "skill2Description": "When firing Anti-Air Guns, 25% chance to increase own Anti-Air by 20% (40%), and decrease own Firepower by 40% (20%) for 3 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-アトランタ級",
+  "skill3Description": "Every 12 (8) times the main battery is fired, trigger Full Barrage - Atlanta Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/98/Atlanta.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/41/AtlantaChibi.png",
+      "shipDescription": [
+        "亚特兰大级轻巡洋舰—亚特兰大，舷号CL-51",
+        "アトランタ級軽巡洋艦・アトランタ（CL-51)",
+        "Atlanta-class light cruiser – Atlanta, Hull Number CL-51!"
+      ],
+      "selfIntroduction": [
+        "轻型防空巡洋舰亚特兰大……做过大西洋舰队第10、第11巡演舰队的旗舰。太平洋上的军事行动基本都参加过呢，总统都夸过我！",
+        "防空巡洋艦アトランタよ。……大西洋艦隊第10、第11巡洋艦隊の旗艦を務めただけでなく、太平洋上の軍事行動もほとんど参加したの。大統領にも褒められたことがあるのよ！",
+        "I'm the anti-aircraft cruiser Atlanta... I was the flagship of the 10th and 11th Atlantic cruising fleet and I've taken part in nearly every military operation in the Pacific. Even the President has given me praise!"
+      ],
+      "acquisition": [
+        "轻型防空巡洋舰亚特兰大，指挥官，让您久等了。之后的事就放心的交给姐姐我吧！",
+        "防空巡洋艦アトランタよ。おまたせ、指揮官。これからは安心してお姉さんに任せなさい！",
+        "I'm the anti-aircraft cruiser Atlanta. Kept you waiting, huh, Commander? But from now on you can rest easy and let me handle everything!"
+      ],
+      "login": [
+        "指挥官，有什么问题都尽管告诉姐姐我吧",
+        "指揮官、問題あればいつでも言ってください！",
+        "Commander, if you ever run into a problem, please tell me!"
+      ],
+      "details": [
+        "啊，指挥官在盯着呢……要做出姐姐的样子才行！",
+        "あ、指揮官が見てる…姉としてちゃんとしないと！",
+        "Ah, Commander's looking... I have to behave like a big sister!"
+      ],
+      "secretaryIdle1": [
+        "不做旗舰的日子真是清闲啊……",
+        "旗艦務めじゃないと本当に暇だよね……",
+        "Not being a flagship sure is more peaceful..."
+      ],
+      "secretaryIdle2": [
+        "旧金山这家伙……真是太靠不住了！打一下就算了，你有见过误伤十几下的么？",
+        "サンフランシスコのやつほんとにひどかったの！一発ならまだしも、十発以上じゃ誤射でも何でもないわよ！",
+        "San Francisco was terrible to me! Just once is tolerable for accidental friendly fire, but she shot me well over ten times!"
+      ],
+      "secretaryIdle3": [
+        "我有特别的打飞机技巧，指挥官你要听么？",
+        "コウクウキを撃ち落とすのが得意よ。指揮官にも教えてあげようか？",
+        "Shooting down aircraft is my specialty. Want me to teach you how to do it, Commander?"
+      ],
+      "secretaryTouch": [
+        "唔，不要这么摸呀……我做姐姐的形象都没了",
+        "あぅ、これ以上触らないで……姉としての尊厳が~",
+        "Mgh, don't touch me like that... My big sister image would be ruined!"
+      ],
+      "secretarySpecialTouch": [
+        "呀——！干、干什么呀突然！？",
+        "きゃっ！急になにするのよ！？",
+        "*Eek* W-what are you doing?!"
+      ],
+      "task": [
+        "指挥官，这些没完成的任务要交给我吗？",
+        "指揮官は、未完了の任務はアトランタに任せたってこと？",
+        "So, does this mean you're leaving all your unfinished missions to me, Commander?"
+      ],
+      "taskComplete": [
+        "任务奖励送来了呢，我那份就让给妹妹们好了",
+        "ミッションボーナスが届いたよ。私の分は妹たちに譲るわ",
+        "Our mission rewards have arrived. I'll give my share of the rewards to my little sisters."
+      ],
+      "mail": [
+        "有新邮件寄达了！不知道有没有妹妹们的信……",
+        "新しいメール！妹たち宛のがないかな……",
+        "You've got new mail! I wonder if any of the messages are from my sisters..."
+      ],
+      "returnFromMission": [
+        "不愧是我的指挥官，这点程度小意思吧",
+        "さすがは私の指揮官、これぐらいは平気だよね？",
+        "That's the Commander I know. No problem for you at all, right?"
+      ],
+      "commission": [
+        "指挥官，委托的时间已经到了，去迎接姐妹们吧",
+        "指揮官、委託完了の時間よ。皆を迎えに行こう？",
+        "Commander, the commission's done. Are we gonna go welcome the girls back?"
+      ],
+      "strengthening": [
+        "接下来也都交给姐姐我吧！",
+        "これからもお姉さんに任せて！",
+        "Let me handle things from now on!"
+      ],
+      "startingMission": [
+        "多炮塔神教是什么意思？让姐姐教、给、你、吧！",
+        "大量砲塔ドクトリンの真価、お姉さんが教えてあ・げ・る！",
+        "I'll show you what the tons-of-guns doctrine is really worth!"
+      ],
+      "mvp": [
+        "目标肃清完毕，请求下一个任务！",
+        "目標掃討完了、次の任務を要請する！",
+        "All targets eliminated. Requesting new mission!"
+      ],
+      "defeat": [
+        "呃，糟糕，我的作为姐姐的形象……",
+        "うっ、しまった、姉としての尊厳が…",
+        "Argh, this is bad... My big sister image is ruined..."
+      ],
+      "skillActivation": [
+        "决胜负吧！",
+        "勝負よ！",
+        "It's on now!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "我不是你这种家伙的亲姐姐真是太好了……",
+        "時々本当のお姉さんじゃなくてよかったと思う…",
+        "Sometimes I'm happy that I'm not actually your big sister..."
+      ],
+      "affinityStranger": [
+        "所谓姐姐可不是看身材决定的，要有气质才行，所以说，尽管依赖姐姐我吧",
+        "姉というのはスタイルを見せるのではなく、性格こそよくないと務まらないの。だから、このお姉さんに思いっきり頼って頂戴♪",
+        "Being a big sister isn't just about looking like one, you need to have the personality of one as well. That's why you can depend on me all you want~!"
+      ],
+      "affinityFriendly": [
+        "大就是好，多就是美，你不觉得吗？……喂！你在看哪里？不够大还真是抱歉啊！",
+        "大きいのがいいなぁ～あなたもそう思わない？…あ！どこを見てんのよ！大きくなくて悪かったわね！",
+        "The bigger the better, don't you think? ...Hey! What are you staring at?! Gee, sorry for not being big enough, I guess!"
+      ],
+      "affinityLike": [
+        "指挥官会喜欢占主动的姐姐型的吗？比如……我这样的……",
+        "指揮官は積極的なお姉さんが好き？例えば……私みたいな……",
+        "Are you fond of assertive big sister type characters? That is to say... someone like me..."
+      ],
+      "affinityLove": [
+        "——诶？希望在各方面都能得到姐姐的引导？当当当当然没没没问题了！谁叫我是姐、姐姐呢！",
+        "ーーえ？お姉さんに導いてほしいって？ももももちろん大丈夫よ！だ、だって私はお姉さんなんだからね！",
+        "... Huh? You want me to take the initiative? O-o-o-o-of course, I don't mind! I-I mean, I'm your big sister after all, so it's my job to guide you!"
+      ],
+      "pledge": [
+        "谢谢，接下来的日子里我也……欸？想要我这个姐姐的引导所以要由我送给你？好像……也有道理……那……我们再来一遍？",
+        "ありがとう…これからも……え？私に導いてほしいから、私から渡したほうがいいって？い、一理あるけど……じゃ…もう一回…する？",
+        "Thank you... From now on I'll... What? You'd prefer it if I took the initiative and gave it to you instead? Y-you have a point... Okay then, should we do it again from the start?"
+      ],
+      "giftDescriptionValentines2018": [
+        "这是亚特兰大姐姐亲手做的巧克力哦！姐姐我做甜点也是最擅长的！……作为姐姐是理所当然的啦！",
+        "アトランタお姉さんの手作りチョコよ！はい！お菓子作りは一番得意なの！……姉として当たり前よ！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，谢谢你帮我照顾朱诺和圣地亚哥！这是我这个姐姐送你的谢礼巧克力，快收下吧！",
+        "指揮官、ジュノーとサンディエゴの面倒を見てくれてありがとう！はい、お姉さんからの感謝のチョコよ、受け取ってちょうだい！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Phew... With San Juan around now, I could make Valentine's chocolate with peace of mind... So, anyway, here's big sister's doting chocolate for you, Commander! And don't worry, I'm only getting started with my chocolate-making!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Atlanta_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Atlanta_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Atlanta_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Atlanta_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Atlanta_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Atlanta_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Atlanta_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Atlanta_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Atlanta_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b8/Atlanta_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Atlanta_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b8/Atlanta_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/58/Atlanta_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Atlanta_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/58/Atlanta_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Atlanta_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Atlanta_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Atlanta_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Atlanta_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Atlanta_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Atlanta_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Atlanta_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Atlanta_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Atlanta_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Atlanta_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Atlanta_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Atlanta_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Atlanta_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Atlanta_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Atlanta_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9c/Atlanta_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Atlanta_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9c/Atlanta_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Atlanta_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Atlanta_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Atlanta_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/67/Atlanta_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Atlanta_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/67/Atlanta_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Atlanta_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Atlanta_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Atlanta_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Atlanta_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Atlanta_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Atlanta_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Atlanta_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Atlanta_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Atlanta_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Atlanta_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Atlanta_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Atlanta_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Atlanta_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Atlanta_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Atlanta_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Atlanta_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Atlanta_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Atlanta_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Atlanta_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Atlanta_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Atlanta_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Atlanta_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Atlanta_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Atlanta_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Atlanta_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Atlanta_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Atlanta_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Atlanta_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Atlanta_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Atlanta_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4a/Atlanta_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Atlanta_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4a/Atlanta_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Atlanta_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Atlanta_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Atlanta_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

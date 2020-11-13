@@ -1,0 +1,731 @@
+{
+  "name": "Queen Elizabeth",
+  "constructionTime": "04:10:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Queen Elizabeth",
+  "ID": "130",
+  "faction": "Royal Navy",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "MD",
+  "voiceActor": "https://en.wikipedia.org/wiki/Sumire_Uesaka",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7512,
+      145,
+      25,
+      403,
+      0,
+      33,
+      24,
+      212,
+      0,
+      14,
+      68,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6464,
+      126,
+      25,
+      368,
+      0,
+      15,
+      24,
+      185,
+      0,
+      14,
+      56,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1250,
+      53,
+      25,
+      78,
+      0,
+      6,
+      24,
+      40,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "CL",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Accuracy  +1",
+  "level120TechPoints": 21,
+  "enhancementValue": [
+    64,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Queen's Orders; CN: 女王号令 JP: 女王号令",
+  "skill1Description": "During combat, increases Firepower, Torpedo stat, Air Power, Anti-Air, Reload, and Evasion of HMS (Royal Navy) ships by 5% (15%).",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/53/Queen_Elizabeth.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png",
+      "shipDescription": [
+        "伊丽莎白女王级战列舰—伊丽莎白女王，舷号00",
+        "クイーンエリザベス級戦艦・クイーンエリザベス(HMS Queen Elizabeth）",
+        "Queen Elizabeth-class battleship - Queen Elizabeth, Hull Number 00!"
+      ],
+      "selfIntroduction": [
+        "皇家海军超级无畏舰旗舰，给我把这个名号刻在骨髓上牢记吧！ 战功？那种东西让臣子们去拿，本王只要看着她们就好了！",
+        "ロイヤルネイビー超弩級旗艦よ、この名を骨に刻んでおきなさい！ 戦果？そんなもの、下僕どもに取らせて、私はその働きを見るだけでいいわ！",
+        "I am the super-dreadnought of the Royal Navy. Make sure to remember my name! My military achievements? I let my subjects take care of those kind of things. I simply need to watch them do their work!"
+      ],
+      "acquisition": [
+        "你就是指挥官？想要指挥本王你还早了十万年呢，不过姑且给你个机会吧——嗯嗯，今天起你就是我忠诚的仆从之一了",
+        "あなたが指揮官？私に指図するなど10万年早いわ！でもまあ、チャンスをあげるわ･･･今日からあなたは、私の忠実な下僕の１人となるのよ",
+        "Are you the commander? You are still 100,000 years too early to command me! Well, I shall be generous and give you a chance... From this day on, you will be one of my faithful servants!"
+      ],
+      "login": [
+        "可恶~居然让我等你这么久",
+        "何なのよ、私をこんなに待たせるなんて！",
+        "Despicable, to have me wait on you for so long!"
+      ],
+      "details": [
+        "庶民！谁允许你偷看的！本、本王还没准备好呢……",
+        "この庶民！誰が盗み見していいって言ったの？ま、まだ準備できてないんだからね･･･",
+        "Peasant! Who permitted you to peak?! I-I have not prepared myself yet..."
+      ],
+      "secretaryIdle1": [
+        "娇小是高贵的象征，明白吗！",
+        "小さいのは高貴のしるしよ、分かった？",
+        "Being petite is a noble characteristic, understand?"
+      ],
+      "secretaryIdle2": [
+        "撞人？只能怪他们不给本王让路！",
+        "ぶつかったですって？私に道を開けないからよ！",
+        "You're saying I bumped into you? That's because you didn't make way for the Queen!"
+      ],
+      "secretaryIdle3": [
+        "别碰本王的肚子，这样很失礼节啊！",
+        "おなかに触らないで、失礼よ！",
+        "Do not touch my belly, it's rude!"
+      ],
+      "secretaryTouch": [
+        "不要随便碰本王高贵的身体！",
+        "私の高貴な体に触らないで！",
+        "Please do not touch our noble body so casually"
+      ],
+      "secretarySpecialTouch": [
+        "什、什么……愚蠢的人类，你在做什么！！给、给本王去死两次啊！！！",
+        "ちょ、ちょっと･･･愚か者、何するの！！し、死刑にするわよ！",
+        "W-wait... You fool, what are you doing?! I-I'll sentence you to death!"
+      ],
+      "task": [
+        "快去完成你的任务，即使是庶民也不能懈怠！",
+        "早くミッションを終わらせなさい！庶民の分際で仕事をサボるな！",
+        "Hurry and finish the mission! Do not skip your work!"
+      ],
+      "taskComplete": [
+        "跪着领取这完成任务的恩赐吧",
+        "跪いてミッションの恩賞を受け取るがいいわ！",
+        "Kneel before me and accept your mission rewards!"
+      ],
+      "mail": [
+        "本王对信的内容并不是很感兴趣……唔……",
+        "メールの中身に興味などないわ…ぐぅ…",
+        "I have no interest in the contents of your mail... Mmh..."
+      ],
+      "returnFromMission": [
+        "表现的不错，我就大发慈悲地准许你休息一下",
+        "いい働きよ。特別に少し休ませてあげるわ！",
+        "A fine display, I shall be benevolent and permit you to rest."
+      ],
+      "commission": [
+        "去委托的臣子们回来了，快去看看有没有给本王带来有趣的贡品！",
+        "委託に行った下僕たちが帰ってきたわ。面白い献上物がないか見てきなさい！",
+        "The subjects tasked with a commission have returned. Go at once and see if they brought me a tribute!"
+      ],
+      "strengthening": [
+        "本王才不需要变强！——嘛…既然是你的一片心意…",
+        "強くなる必要なんてないわ！ーーまあ…あなたがせっかく強くしてくれるというのなら…",
+        "I have no need to get any stronger! But... well, if you're going through to effort of doing it, then..."
+      ],
+      "startingMission": [
+        "让你看看超无畏舰的威力！",
+        "超弩級戦艦の威力を見るがいいわ！",
+        "Witness the might of a super-dreadnought!"
+      ],
+      "mvp": [
+        "Piece of cake！本王做事怎么会有差池的~！",
+        "Piece of cake！私のやることに間違いはないわ！",
+        "Piece of cake! There are no mistakes in my actions!"
+      ],
+      "defeat": [
+        "可恶！！！竟敢令我伊丽莎白蒙羞！给我记住！",
+        "何てこと！このエリザベス様に恥をかかせるなんて！覚えておきなさい！",
+        "How despicable! To have brought shame to the great Elizabeth! You better remember this!"
+      ],
+      "skillActivation": [
+        "跪倒在女王面前吧！",
+        "女王の前に跪きなさい！",
+        "Kneel before the Queen!"
+      ],
+      "lowHP": [
+        "还愣着干什么，上啊！",
+        "何とぼけてるのよ！早く行きなさいよ！",
+        "Why are you spacing out?! Hurry! Get them!"
+      ],
+      "affinityDisappointed": [
+        "你这个没用的臣子，本王要辞了你！",
+        "この役立たずの下僕！クビにしてやるわ！",
+        "You useless servant! I will have you relieved of your post!"
+      ],
+      "affinityStranger": [
+        "为了本王好好努力吧！",
+        "このエリザベス様のために頑張りなさい！",
+        "Work hard for the great Elizabeth!"
+      ],
+      "affinityFriendly": [
+        "本王只是比较喜欢这里的环境才过来坐坐，你可别会错意了！",
+        "ここの雰囲気が気に入ったから、少しだけここで座ってやっているの！勘違いしないでちょうだい！",
+        "I'm sitting here for just a moment because I like the mood! Don't start getting any strange ideas!"
+      ],
+      "affinityLike": [
+        "he，哼！你这家伙也算有点可取之处，本王就破例封你为皇家卫队队长好了，要是本王叫你你要马上过来，知道吗，马上，立即！",
+        "ふ、ふん！あなたも少しは役に立つところがあるから、特別に王家親衛隊の隊長に引き上げてやるわ！私が呼んだらすぐに来るのよ！いい？すぐ！速攻で！最速で！",
+        "H-hmph! You have been slightly exceeding in your duty, thus I will make an exception and promote you to captain of the Royal Guard! When I call for you, you will come hither immediately! Understood? Immediately! Swiftly! At maximum speed!"
+      ],
+      "affinityLove": [
+        "我说你，工作交给手下去做就好了，要做本王夫婿的人怎么能不天天陪在本王身边！不会让人觉得寂寞嘛……",
+        "あなたね、仕事は手下に任せればいいじゃない？この私の婿となるものが私のそばにいてくれないとはどういうことかしら！さ、寂しくなっちゃうじゃない……",
+        "Hey, can't you just leave your work to your underlings? How can you be a proper consort if you aren't always by my side?! I-I would be so lonely..."
+      ],
+      "pledge": [
+        "终于把它送到了本王的手里，你这蠢货，让本王等了多久啊！……不过看在你这么努力的份上，过来，准许你牵起本王的手，从今往后，本王会陪着你的",
+        "ようやく私に届いたのね。この馬鹿下僕、どれだけ私を待たせるつもりよ！……でもその努力に免じて、こっちに来て、私の手を取ることを許可してやるわ！はい！これからは私が付いていってあげるんだから！",
+        "Finally you have arrived before me. Foolish servant! Just how long did you intend to make me wait?! ...But I acknowledge your endeavors. Come here, I am giving you permission to take my hand! Yes! From now on I will always be with you!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Warspite) 厌战，快去把那些家伙解决掉！",
+        "(Sortie with Warspite) ウォースパイト、早くあいつらをやっちゃってよ！",
+        "(Sortie with Warspite) Warspite! Hurry up and take care of these enemies!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with at least 3 Super Rare ships) 这才是符合我身份的舰队！",
+        "(Sortie with at least 3 Super Rare ships) これこそこの私にふさわしい艦隊だわ！",
+        "(Sortie with at least 3 Super Rare ships) Now this is the fleet I've been wishing for!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 5 of Royal Navy) 皇家的战士们，为荣耀而战吧！",
+        "(Sortie with at least 5 of Royal Navy) 王家の戦士たち、栄光のために戦いなさい！",
+        "(Sortie with at least 5 of Royal Navy) Warriors of the Royal Navy, fight for glory!"
+      ],
+      "additionalVoiceLine4": [
+        "(Sortie with Valiant) 为了我好好干吧！你·也·一·样！",
+        null,
+        null
+      ],
+      "additionalVoiceLine5": [
+        "(Sortie with at least 2 of: Illustrious, Victorious, Formidable, Illustrious µ) 这巨乳姐妹…太碍眼了！！＞＜",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "メイドたちに作ってもらった「女王さまチョコレート」よ！庶民の祝日に合わせて、この私アイデアを考えたの！ありがたく受け取りなさい！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这是由本王自己发明，然后安排女仆们做的超无畏巧克力！里面可是有庶民见都见不到的材料呢！心怀感激地品尝吧！",
+        "私が考えた超弩級のチョコをメイドたちに用意させたわ！庶民には拝むことすらできない素材が入っているわ。ありがたくお食べなさい！",
+        "I had my maids make this \"Queen's Chocolate!\" I even deigned to accommodate a commoner's holiday. Be thankful and praise me!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Warspite's gigantic chocolate is indeed delicious, but there is far too much of it for me to finish... Servant, by order of the Queen! You are to come help me eat it at once!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Queen_Elizabeth_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Queen_Elizabeth_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Queen_Elizabeth_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Queen_Elizabeth_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Queen_Elizabeth_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Queen_Elizabeth_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Queen_Elizabeth_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Queen_Elizabeth_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Queen_Elizabeth_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Queen_Elizabeth_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Queen_Elizabeth_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Queen_Elizabeth_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Queen_Elizabeth_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Queen_Elizabeth_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Queen_Elizabeth_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4d/Queen_Elizabeth_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Queen_Elizabeth_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4d/Queen_Elizabeth_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Queen_Elizabeth_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Queen_Elizabeth_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Queen_Elizabeth_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Queen_Elizabeth_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Queen_Elizabeth_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Queen_Elizabeth_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Queen_Elizabeth_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Queen_Elizabeth_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Queen_Elizabeth_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Queen_Elizabeth_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Queen_Elizabeth_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Queen_Elizabeth_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Queen_Elizabeth_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Queen_Elizabeth_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Queen_Elizabeth_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Queen_Elizabeth_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Queen_Elizabeth_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Queen_Elizabeth_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Queen_Elizabeth_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Queen_Elizabeth_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Queen_Elizabeth_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Queen_Elizabeth_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Queen_Elizabeth_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Queen_Elizabeth_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Queen_Elizabeth_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Queen_Elizabeth_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Queen_Elizabeth_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Queen_Elizabeth_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Queen_Elizabeth_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Queen_Elizabeth_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Queen_Elizabeth_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Queen_Elizabeth_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Queen_Elizabeth_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/72/Queen_Elizabeth_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Queen_Elizabeth_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/72/Queen_Elizabeth_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Queen_Elizabeth_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Queen_Elizabeth_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Queen_Elizabeth_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Queen_Elizabeth_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Queen_Elizabeth_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Queen_Elizabeth_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/Queen_Elizabeth_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Queen_Elizabeth_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/Queen_Elizabeth_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Queen_Elizabeth_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Queen_Elizabeth_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Queen_Elizabeth_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Queen_Elizabeth_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Queen_Elizabeth_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Queen_Elizabeth_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Queen_Elizabeth_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Queen_Elizabeth_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Queen_Elizabeth_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Queen_Elizabeth_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Queen_Elizabeth_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Queen_Elizabeth_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Queen_Elizabeth_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Queen_Elizabeth_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Queen_Elizabeth_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Queen_Elizabeth_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Queen_Elizabeth_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Queen_Elizabeth_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Queen_Elizabeth_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Queen_Elizabeth_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Queen_Elizabeth_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Queen_Elizabeth_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Queen_Elizabeth_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Queen_Elizabeth_Extra3JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "The Queen's Ball",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "女王的舞踏会",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "女王さまの舞踏会",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/7/72/Queen_ElizabethParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e2/Queen_ElizabethPartyChibi.png",
+      "shipDescription": [
+        "哼哼，感到荣幸吧仆从！特别允许你伴随本王参加今晚的舞会！才、才不是特意选你，只是顺便，顺便的而已！知道了吗！",
+        "ふふ～ん、この下僕、ありがたく思いなさい！今日は特別に私のパートナーとしてパーティーに参加することを許してやるわ！……べ、別に好きであなたを選んだわけじゃないからね！てきとう…そう、テキトウに選んだだけよ！わかった？",
+        "Hah haah! You're a lucky servant this evening! We shall allow you to accompany us to the party! ... B-but it's not like I chose you because I like you! I just... Yes! I just sort of chose randomly! Got it?!"
+      ],
+      "acquisition": [
+        "哼哼，感到荣幸吧仆从！特别允许你伴随本王参加今晚的舞会！才、才不是特意选你，只是顺便，顺便的而已！知道了吗！",
+        "ふふ～ん、この下僕、ありがたく思いなさい！今日は特別に私のパートナーとしてパーティーに参加することを許してやるわ！……べ、別に好きであなたを選んだわけじゃないからね！てきとう…そう、テキトウに選んだだけよ！わかった？",
+        "Hah haah! You're a lucky servant this evening! We shall allow you to accompany us to the party! ... B-but it's not like I chose you because I like you! I just... Yes! I just sort of chose randomly! Got it?!"
+      ],
+      "details": [
+        "特别允许你赞美本王吧！快组织你的语言，仆从!",
+        "この私に賞賛を捧げることを許してやるわ！……さっさと褒める言葉を並べなさい！この下僕！",
+        "We shall allow you to bask in our splendor! ... Now out with your praise already! Lowly servant!"
+      ],
+      "secretaryIdle1": [
+        "为了不在舞会上丢脸，多练习下舞步吧！要、要本王陪你练习也不是不行…欸，不用麻烦我？也、也没有那么麻烦啦…",
+        "パーティーで恥をかかせないようにダンスの練習に励みなさい！わ、私が一緒に練習してやっても…わ、私を煩わせる必要はないって！？べ、べべべ別に面倒でもなんでもないわよ！？",
+        "So as not to embarrass me at the party, you need to practice your dancing! Y-you could practice with m-... You don't want to bother me?! B-b-but it really wouldn't be much trouble!"
+      ],
+      "secretaryIdle2": [
+        "为女王的前进清除障碍也是仆从应尽的职责，知道了吗！",
+        "女王の進む道にある障害をキレイに取り除くのも下僕の役目よ。わかった？",
+        "It is a servant's duty to clear the way for the Queen, are we clear?!"
+      ],
+      "secretaryIdle3": [
+        "贝尔法斯特，舞会的准备都做好了吗？我、我可没有迫不及待，只是关心一下女仆们的工作而已！",
+        "ベル！パーティーの準備はもうできているの？べ、別に待ち遠しくなったわけじゃないわよ！メイドたちの仕事を心配しているだけよ！",
+        "Bel! Is everything ready for the party? N-not that I'm excited about it or anything! I'm just supervising my maids!"
+      ],
+      "secretaryTouch": [
+        "he、哼…难得为舞会做了准备，这次就原谅你的无礼好了，感激本王的宽宏大量吧，仆从！",
+        "ふ、ふん！…せっかく用意したパーティーなんだから、この無礼は大目に見てやるわ。私の寛大さに感謝しなさい！この下僕！",
+        "Hm, hmph! ... Considering the lengths to which you went for this party, we shall overlook your boorishness for now. Be grateful for your queen's leniency! Lowly servant!"
+      ],
+      "secretarySpecialTouch": [
+        "厌、厌战！用你的15口径炮给这大胆的仆从死刑！多死几次！！",
+        "うぉ、ウォースパイト！！15インチ砲でこの不埒な下僕を死刑に処しなさい！し、死刑だあああ！！",
+        "Aie! Warspite!! Level your fifteen-inch guns at this insolent servant! Off with its heeaaaaaad!!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Queen_Elizabeth_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Queen_Elizabeth_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Queen_Elizabeth_IntroSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Queen_Elizabeth_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Queen_Elizabeth_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Queen_Elizabeth_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Queen_Elizabeth_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Queen_Elizabeth_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Queen_Elizabeth_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Queen_Elizabeth_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Queen_Elizabeth_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Queen_Elizabeth_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Queen_Elizabeth_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Queen_Elizabeth_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Queen_Elizabeth_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Queen_Elizabeth_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Queen_Elizabeth_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Queen_Elizabeth_Sec1Skin1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Queen_Elizabeth_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Queen_Elizabeth_Sec2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Queen_Elizabeth_Sec2Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "One Night of the Queen",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "A Night At The Stage",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "A Night At The Stage",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/9d/Queen_ElizabethIdol.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9e/Queen_ElizabethIdolChibi.png",
+      "shipDescription": [
+        "这才是与本王最相符的舞台！好了，仆从，不许移开视线！为了我燃烧全部的激情吧！",
+        "これこそ女王である私にふさわしいステージだわ！さあ下僕、目を離すんじゃないわ！私のために最っ高に盛り上がっていきなさい！",
+        "Now this is a stage worthy of our majesty! You are not to leave our sight, servant! Let your passions burn for me!"
+      ],
+      "acquisition": [
+        "这才是与本王最相符的舞台！好了，仆从，不许移开视线！为了我燃烧全部的激情吧！",
+        null,
+        null
+      ],
+      "login": [
+        "哼哼，给我好好宣传啊，仆从！要让世人都知晓本王的威光！",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "“拜倒在我的面前吧，仆从！”…嗯？总觉得和平时没什么两样…？",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "像这样…？看起来会比较可爱？好，辛苦了，无敌。这下肯定能轻易就把仆从“一击击沉”了！",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "女仆队也出人当偶像了呢…贝法和格罗斯特她们平时是怎么进行教育的啊？",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "安可？哼哼，再来几首都没问题！",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "你在摸哪里啊下仆！把你关禁闭哦！",
+        null,
+        null
+      ],
+      "secretaryHeadpat": [
+        "你这失礼的家伙！",
+        null,
+        null
+      ],
+      "task": [
+        "有给本王的通告？好、好吧，倾听庶民的请愿也是女王的职责之一…",
+        null,
+        null
+      ],
+      "taskComplete": [
+        "任务奖励里包含给你的慰问品！心怀感激地收下吧！",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "干得不错。作为奖励，就把这个大头贴给你吧。要好好找个地方贴上哦！",
+        null,
+        null
+      ],
+      "startingMission": [
+        "这可是女王陛下的舞台！",
+        null,
+        null
+      ],
+      "mvp": [
+        "英勇，向大家好好宣传这场胜利吧！",
+        null,
+        null
+      ]
+    },
+    {
+      "ENClientName": "Queen of the Campus",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "女王的学园命令",
+      "CNClientAvailability": "Event Limited",
+      "obtainedFrom": "Queen of the Campus",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a8/Queen_ElizabethSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cb/Queen_ElizabethSchoolChibi.png",
+      "shipDescription": [
+        "哼哼，看吧~这就是茗制作的新衣服！怎么样？尽管拜倒在我优雅的制服身姿之下吧！仆从~♪",
+        null,
+        "Hehe, behold the new outfit that I had Akashi make for me! Impressive, no? Prostrate yourself before the elegant charm of my school uniform, servant~♪"
+      ],
+      "acquisition": [
+        "哼哼，看吧~这就是茗制作的新衣服！怎么样？尽管拜倒在我优雅的制服身姿之下吧！仆从~♪",
+        null,
+        "Hehe, behold the new outfit that I had Akashi make for me! Impressive, no? Prostrate yourself before the elegant charm of my school uniform, servant~♪"
+      ],
+      "login": [
+        "伊丽莎白女王到达学校了！都给我保持肃静！",
+        null,
+        "Your Queen has arrived! Do make way, my subjects!"
+      ],
+      "details": [
+        "仆从，社团活动选什么比较好？偶像之类听起来就很可疑的还是算了…",
+        null,
+        "Servant, do advise me on these \"club activities.\" I have heard much commotion about \"idols\" or something like that..."
+      ],
+      "secretaryIdle1": [
+        "贝法，饼干还没好吗…仆从，你和海王星也去帮帮忙！",
+        null,
+        "Bel, where's my cake...? Servant, take Neptune with you and make yourself useful!"
+      ],
+      "secretaryIdle2": [
+        "厌战，和鲨她们的茶会准备得怎么样了？让乔治五世她们骑士队去送邀请函吧！",
+        null,
+        "Warspite, how fares the tea party plans with Nagato and the others? Have George and the knights deliver the invites to them!"
+      ],
+      "secretaryIdle3": [
+        "“修学旅行”去哪里？嗯…没错！就去撒丁吧！让维内托准备最高级的宴会！",
+        null,
+        "\"Field trip?\" Let us make our way to Sardegna! Have Veneto regale us with the most exquisite banquet!"
+      ],
+      "secretaryTouch": [
+        "去小卖部买了糖果来？哼哼，身为女王也得了解下庶民的口味才行呢！",
+        null,
+        "Did you go buy candy from the student store? Heh, even a noble such as myself must learn the tastes of commoners."
+      ],
+      "mail": [
+        "检查一下鞋柜♪…嗯？纽卡斯尔留的字条？我看看…“已清扫”…啊，这样…",
+        null,
+        "Time to check my locker~♪ ...Hm, a note from Newcastle? Um... \"Already cleaned for you.\" ...Oh, I see."
+      ],
+      "returnFromMission": [
+        "数学、历史…体育就算了！本王如此高贵，要混在庶民堆里打篮球什么的…绝对不行！",
+        null,
+        "Mathematics, check. History, check... Physical Education? Pass! A noble like me playing basketball with commoners? Unthinkable!"
+      ],
+      "mvp": [
+        "哼哼哼，胜利是理所当然的！我和那个自称精神领袖的家伙可不一样！",
+        null,
+        "Ehehe, why it's only natural, of course! Nothing like that self-proclaimed \"spiritual leader!\""
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,681 @@
+{
+  "name": "Comet",
+  "constructionTime": "00:21:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  ],
+  "additionalNotes": "✓ ",
+  "rarity": "Normal",
+  "shipClass": "C",
+  "ID": "088",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": true,
+  "artist": "和茶",
+  "pixiv": "https://www.pixiv.net/member.php?id=3312169",
+  "twitter": "https://twitter.com/hecha01964237",
+  "link": "https://weibo.com/538001251",
+  "voiceActor": "https://en.wikipedia.org/wiki/Minori_Suzuki",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1359,
+      190,
+      54,
+      68,
+      350,
+      210,
+      43,
+      150,
+      0,
+      7,
+      178,
+      206,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      1524,
+      195,
+      54,
+      68,
+      385,
+      245,
+      46,
+      165,
+      0,
+      7,
+      178,
+      206,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      1298,
+      170,
+      54,
+      59,
+      345,
+      239,
+      46,
+      146,
+      0,
+      7,
+      169,
+      186,
+      0,
+      0
+    ],
+    "Level 100": [
+      1133,
+      165,
+      54,
+      59,
+      310,
+      204,
+      43,
+      131,
+      0,
+      7,
+      169,
+      186,
+      0,
+      0
+    ],
+    "Base Stats": [
+      219,
+      70,
+      54,
+      13,
+      66,
+      78,
+      43,
+      28,
+      0,
+      1,
+      65,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 120% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105% → 110%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 2,
+  "maxLimitBreakTechPoints": 4,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 3,
+  "enhancementValue": [
+    4,
+    22,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Torpedo Command: Destroyers; CN: 雷击指挥·驱逐舰 JP: 雷撃指揮・駆逐艦",
+  "skill1Description": "Increase Torpedo stat of Destroyers in the fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "(Retrofit) Smokescreen; CN: 烟雾弹 JP: 煙幕散布",
+  "skill2Description": "After battle begins, and 15% (30%) chance to activate every 15 seconds after that: deploy a smokescreen for 5 seconds. Escort ships within the smokescreen have 20% (40%) additional Evasion Rate, does not stack with same skill effect.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-C級",
+  "skill3Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - C-Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/99/Comet.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d0/CometChibi.png",
+      "shipDescription": [
+        "C级驱逐舰—彗星，舷号H00",
+        "C級駆逐艦・コメット（H00)",
+        "C-class destroyer ー Comet, Hull Number H00!"
+      ],
+      "selfIntroduction": [
+        "咱是C级驱逐舰，彗星哦，一开始被分配到了远东舰队，后来回到了本土舰队的时候被爸爸们加装了布雷轨。听说老家那边好像出了什么事……我很担心……",
+        "うちはCクラスの駆逐艦のコメットですよ。最初は極東艦隊に配属され、その後本土艦隊に転属して、機雷敷設レールを装備しました。実は実家のほうで何かが起きていると聞いて、ちょっと心配です……",
+        "I am Comet of C class. My first assignment was at the Far East, and then I got transferred to The Home Fleet to be equipped with water mine rails. Actually, I'm a little worried about rumors of something happening to the homeland..."
+      ],
+      "acquisition": [
+        "咱是C级驱逐舰，彗星哦~~能得到指挥官的青睐，咱实在是太开心了！",
+        "Cクラス駆逐艦のコメットでーす！指揮官に応援してもらえて、嬉しいです！",
+        "I'm Comet of the C-class destroyers! I'm happy that I have your support, Commander!"
+      ],
+      "login": [
+        "啦啦啦~♪指挥官，咱唱的好听吗？",
+        "LaLaLa~♪わたしの歌、きれいですか？",
+        "♪Lalala♪~ Is my song a good one?"
+      ],
+      "details": [
+        "指挥官~彗星是不是很闪闪……闪闪发亮呢！呜……好羞耻……",
+        "指揮官~「コメットちゃんはピカピカ…キラキラしていますか～？」うぅ……恥ずかしいよぉ……",
+        "Commander~ Is Comet dazzling and shining~? Nnngh... This is so embarrassing..."
+      ],
+      "secretaryIdle1": [
+        "指挥官，为什么不理咱？",
+        "指揮官、なんでうちにかまってくれないんですか？",
+        "Commander, why are you not giving me attention?"
+      ],
+      "secretaryIdle2": [
+        "还是有点想念老家的生活啊……就只是有点喔！",
+        "実家暮らしがちょっと恋しくなって…ほんのちょっとだけですよ！",
+        "I'm a little homesick... Just a little!"
+      ],
+      "secretaryIdle3": [
+        "咱、哦不……我是大家的偶像，彗星酱～唔，感觉姿势有点问题呢……",
+        "うち、コホン！「私はみんなのアイドル、コメットちゃんで~す！」ちっくとポーズが変かえ？",
+        "I, er-hm! I'm everyone's idol, Comet! Should I change my pose a little?"
+      ],
+      "secretaryTouch": [
+        "以后咱成了偶像，指挥官就只能握手了哦~",
+        "うちがアイドルになったら、指揮官も握手ばあになるがで",
+        "If I become an idol, I'll let you shake my hand too, Commander"
+      ],
+      "secretarySpecialTouch": [
+        "呜哇！被看到了就做不成偶像了啦！",
+        "うわぁ！こんなの見られたらアイドルになれなくなっちゃいますよ~！",
+        "Wha! If someone see this, I won't be able to become an idol~!"
+      ],
+      "task": [
+        "指挥官啊……作为偶像的经纪人要好好完成任务呢！",
+        "指揮官……アイドルのマネージャーとして、ちゃんとミッションをこなしてくださいね！",
+        "Commander... as a manager of idols, please complete your missions properly!"
+      ],
+      "taskComplete": [
+        "哇！好多奖励！——咳……",
+        "わあ！ボーナスが一杯やき！ーーコホン！……",
+        "Wow! Such a huge reward! --Ahem!..."
+      ],
+      "mail": [
+        "哇~老家来的信欸~",
+        "わぁ~実家からのメールですよ~",
+        "Waa~ It's a letter from home~!"
+      ],
+      "returnFromMission": [
+        "还是有指挥官在的感觉好",
+        "指揮官がいるといい気持ちになりますね~",
+        "It feels good to have you around, Commander~"
+      ],
+      "commission": [
+        "指挥官，委托组回来了……咱下次也能一起去吗！",
+        "指揮官、委託チームが帰ってきました！……次はうちも一緒に行っていいでしょうか！",
+        "Commander, the commission team has returned! ...How about I go with them next time!"
+      ],
+      "strengthening": [
+        "咱离偶像又近了一步！",
+        "うち、アイドルに一歩近づけたき！",
+        "I am one step closer to becoming an idol!"
+      ],
+      "startingMission": [
+        "好、好棒，大家都是这样战斗的吗？?",
+        "す、すごい…みんなこうやって戦っているんですか？？",
+        "A-Amazing... Does everyone fight like this??"
+      ],
+      "mvp": [
+        "大家~今天也要和咱……和彗星一样光彩夺目哟~",
+        "みんな~今日もうち……コメットちゃんと一緒にキラキラしてね~",
+        "Everyone, Today, I... Comet, am dazzling everyone again~"
+      ],
+      "defeat": [
+        "呜，果然不能吃苦就当不了大人吗……",
+        "うぅ…やはり耐えないと大人になれやーせんか",
+        "*cries* ...I can't grow up if I can't endure this after all..."
+      ],
+      "skillActivation": [
+        "咱要成为大偶像！",
+        "うち、トップアイドルになりたいです！",
+        "I wanna become the top idol!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "咱要回家，呜呜呜呜……",
+        "うちもういのう・・・ううぅ…",
+        "I had enough already... *cries*..."
+      ],
+      "affinityStranger": [
+        "呜~咱还是有些想家……",
+        "あぅ…うちはやはり実家が恋しいですぅ……",
+        "Awww... I miss my home after all..."
+      ],
+      "affinityFriendly": [
+        "指挥官，你说像咱这样的小船，真的能成为偶像吗？",
+        "指揮官、うちのような小さな艦でも、アイドルになれるかえ？",
+        "Commander, do you think a small girl like me can become an idol?"
+      ],
+      "affinityLike": [
+        "感觉有指挥官当咱的制作人，咱就有勇气去挑战一下了……",
+        "指揮官がうちのマネージャーになってくれれば、うちも頑張る勇気があるちや………",
+        "If you become my manager, Commander, I feel like I'm going to have the courage to try harder..."
+      ],
+      "affinityLove": [
+        "指挥官，咱有在闪闪发光吗？嘻嘻，能被指挥官认可，咱就很开心了呢",
+        "指揮官、「私、輝いてますか☆」えへへ、指揮官に認めてもらえるなんて、嬉しい♪",
+        "Commander, am I shining~? Ehehe, being approved by you makes me so happy~"
+      ],
+      "pledge": [
+        "即使没有当上列克星敦姐姐那样的偶像也没关系……咱已经得到了更重要的东西了……",
+        "レキシントン姉さんのようなアイドルにならなくてもいいんです……だってもっともっと大事なものはもう手に入れたから……",
+        "It's alright if I don't become a superstar like Ms. Lexington... Why? Because I've already got something far more valuable..."
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "うち、実家からお土産のチョコを送られたけど、一緒に食べていいかな…う、うちは食べきれんで…そ、それにアイドルはダイエットしないと…",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "今年咱和新月小天鹅一起做了巧克力哦。那个，“彗星的亮闪闪☆巧克力，请收下♪”……欸嘿嘿，怎么样？",
+        "今年はうち、クレセント、シグニットが一緒にチョコを作ったよ。ええと、「コメットちゃんからのピカピカ☆流れ星チョコ、受け取ってね♪」…えへへ、どうかな？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "♪L-O-V-E! Chocolate loooove, to yooouuu, from meeee~♪ I hope my chocolate and song will succeed in capturing your heart, Commander!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/39/Comet_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Comet_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/39/Comet_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Comet_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Comet_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Comet_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Comet_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Comet_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Comet_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/Comet_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Comet_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/Comet_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Comet_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Comet_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Comet_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Comet_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Comet_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Comet_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Comet_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Comet_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Comet_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Comet_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Comet_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Comet_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Comet_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Comet_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Comet_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Comet_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Comet_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Comet_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Comet_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Comet_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Comet_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1d/Comet_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Comet_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1d/Comet_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Comet_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Comet_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Comet_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9d/Comet_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Comet_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9d/Comet_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Comet_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Comet_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Comet_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Comet_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Comet_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Comet_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Comet_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Comet_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Comet_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Comet_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Comet_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Comet_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Comet_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Comet_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Comet_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Comet_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Comet_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Comet_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Comet_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Comet_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Comet_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Comet_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Comet_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Comet_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Comet_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/2d/CometKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png",
+      "shipDescription": [
+        "咱……我是不是已经有点偶像的气质了？嗯！作为新晋偶像，咱……我以后一定会更加努力的！",
+        "うちは……わたし、ちょっとアイドルっぽくなりました？うん！新人アイドルとして、う……わたし、もっともっと頑張ります！",
+        "Do ya reckon... I you think I've become more idol-like? Mhm! As a new idol, I'll show y'all... I'll show you how hard I work as a new idol!"
+      ],
+      "acquisition": [
+        "咱……我是不是已经有点偶像的气质了？嗯！作为新晋偶像，咱……我以后一定会更加努力的！",
+        "うちは……わたし、ちょっとアイドルっぽくなりました？うん！新人アイドルとして、う……わたし、もっともっと頑張ります！",
+        "Do ya reckon... I you think I've become more idol-like? Mhm! As a new idol, I'll show y'all... I'll show you how hard I work as a new idol!"
+      ],
+      "details": [
+        "虽然独自训练的时候有些寂寞，但能在舞台上看到大家的笑容真的好开心！",
+        "一人でレッスンする時は寂しいけど、舞台でみんなの笑顔が見れれば嬉しいです！",
+        "Although the long hours I spent practicing by myself were lonely, being able to see everyone's smiling faces while I was on stage made me really happy!"
+      ],
+      "secretaryIdle1": [
+        "指挥官，能帮我想想咱的专属pose吗？",
+        "指揮官、うちの決めポーズを考えてくれませんか？",
+        "Commander, wanna help me come up with a signature pose?"
+      ],
+      "secretaryIdle2": [
+        "呜，咱也想像小天鹅那样整天零食不离口，但体脂率……",
+        "う、うちもシグニットちゃんのようにおやつをいっぱい食べたいけど、体型が……",
+        "Ugh... I wanna be able to snack all day like Cygnet, but my figure..."
+      ],
+      "secretaryIdle3": [
+        "我是大家的偶像，彗星～唔……指挥官，这个姿势怎么样？",
+        "「みんなのアイドル、コメットちゃんで～す！」うんうん……指揮官、このポーズはどうですか？",
+        "I am everyone's idol, Comet~ Hmm... whaddya think about this pose, Commander?"
+      ],
+      "secretaryTouch": [
+        "即使真的成为了大偶像，咱也不会离开指挥官的！",
+        "トップアイドルになっても、指揮官を置いてったりしませんよ！",
+        "Even if I manage to become an actual idol, I won't leave your side, Commander!"
+      ],
+      "secretarySpecialTouch": [
+        "呜哇！不要这样，咱、咱可是偶像！",
+        "きゃっ！だめぇ！う、うちはアイドルですよ！",
+        "Eek! Cut that out... I-I'm an idol after all!"
+      ],
+      "startingMission": [
+        "虽然是偶像，但战斗中我可不会偷懒！",
+        "アイドルですけど、戦闘もちゃんとがんばりますよ！",
+        "Even though I'm an idol, I won't fall behind when it comes to combat!"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement Ⅰ",
+      "attributes": "Health +45 ",
+      "materials": "1x DestroyerT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Reload Enhancement Ⅰ",
+      "attributes": "Reload +5 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 300,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Improvement Ⅰ",
+      "attributes": "Equip 2 Efficiency +5.0% ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 400,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Torpedo Enhancement Ⅰ",
+      "attributes": "Torpedo +10 ",
+      "materials": "2x DestroyerT1BP ",
+      "coinCost": 500,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Improvement Ⅰ",
+      "attributes": "Equip 3 Efficiency +5.0% ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 600,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement Ⅰ",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x DestroyerT1BP ",
+      "coinCost": 800,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement Ⅱ",
+      "attributes": "Health +45 / Health +75 ",
+      "materials": "1 / 1x DestroyerT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Smokescreen\" ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1200,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Motor Enhancement",
+      "attributes": "Speed +3 ",
+      "materials": "3x DestroyerT2BP ",
+      "coinCost": 1400,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G,H"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Evasion Enhancement Ⅱ",
+      "attributes": "Evasion +5 / Evasion +10 ",
+      "materials": "2 / 2x DestroyerT2BP ",
+      "coinCost": 1600,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "B,I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Torpedo +25, Evasion +20 ",
+      "materials": "6x DestroyerT2BP and 1x Comet or Universal Bulin ",
+      "coinCost": 2000,
+      "levelRequired": 80,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I,J"
+      ]
+    }
+  ]
+}

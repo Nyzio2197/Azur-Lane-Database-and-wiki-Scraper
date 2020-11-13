@@ -1,0 +1,441 @@
+{
+  "name": "Kitakaze",
+  "constructionTime": "Research",
+  "rarity": "Priority",
+  "shipClass": "Kitakaze",
+  "ID": "Plan009",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "黑猫",
+  "pixiv": "https://www.pixiv.net/member.php?id=2331978",
+  "link": "http://weibo.com/u/2959771544",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/9/97/Kitakaze_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2641,
+      223,
+      0,
+      86,
+      393,
+      197,
+      44,
+      197,
+      0,
+      11,
+      208,
+      199,
+      0,
+      0
+    ],
+    "Level 100": [
+      2348,
+      194,
+      0,
+      75,
+      352,
+      187,
+      44,
+      171,
+      0,
+      11,
+      195,
+      180,
+      0,
+      0
+    ],
+    "Base Stats": [
+      454,
+      82,
+      0,
+      16,
+      75,
+      72,
+      44,
+      37,
+      0,
+      6,
+      75,
+      122,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "85% → 105%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 135%",
+  "collectionStatBonus": "Destroyer (DD) Firepower  +1",
+  "collectionTechPoints": 14,
+  "maxLimitBreakTechPoints": 28,
+  "level120StatBonus": "Destroyer (DD) Firepower  +1",
+  "level120TechPoints": 21,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "skill1Name": "Kitakaze Style - Horizon Splitter; CN: 苝流·一致斩 JP: 北風流・イッチ文字斬り",
+  "skill1Description": "Main Gun damage is not affected by enemy's armor type; Main Gun always inflict 100% (115%) damage to all enemies. If equipped with an IJN (Sakura Empire) DD Gun: increases Main Gun efficiency by 5% (15%).",
+  "skill2Name": "Kitakaze Style - Lotus Torpedoes; CN: 苝流·六莲雷 JP: 北風流・魚雷ロクレン弾",
+  "skill2Description": "When sortieing as Lead Ship, 10 seconds after battle starts: launches a torpedo barrage (DMG scales with levels). Whenever own torpedoes hit 10 times (excluding the ones from barrages): launches the same barrage.",
+  "skill3Name": "(Fate Simulation) Kitakaze Style - Lotus Torpedoes+; CN: 苝流·六莲雷+ JP: 北風流・魚雷ロクレン弾+",
+  "skill3Description": "10s after the start of the battle: fires a special torpedo barrage (DMG scales with levels) and decreases this ship's DMG taken by 1.5% (6.0%) for 50s. After every 8 hits with this ship's Torpedoes (barrage torpedoes do not count): fires this same barrage.",
+  "skill4Name": "Siren Killer; CN: 塞壬之敌 JP: 対セイレーン特化改修",
+  "skill4Description": "Increases own damage dealt to Sirens by 5% (15%).",
+  "level5": "Health  +111, Anti-air  +9\nMain Gun Mount +1\n",
+  "level10": "Gains Full Barrage I\nGains Siren Killer I\n\nMain Gun Efficiency +5%\nShip Rarity increases to ★★★★☆☆\n",
+  "level15": "Health  +221, Anti-air  +18\nMain Gun Efficiency +10%\nPre-Loaded Torpedo +1\n",
+  "level20": "Upgrades Siren Killer I→II\nAnti-Air Gun Efficiency +10%\nShip Rarity increases to ★★★★★☆\n",
+  "level25": "Health  +333, Anti-air  +27\n",
+  "level30": "Upgrades Full Barrage I→II\nUpgrades Siren Killer II→III\nAll Weapon Efficiency +5%\nShip Rarity increases to ★★★★★★\n",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/bd/Kitakaze.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/1c/KitakazeChibi.png",
+      "shipDescription": [
+        "驱逐舰—苝",
+        "駆逐艦・北風",
+        "Destroyer – Kitakaze."
+      ],
+      "selfIntroduction": [
+        "超椛级驱逐舰、苝…就是我。以前没能活跃在战场上，不过现在展示自己的实力还来得及。就让大家好好见识下如今苝的装备性能和绝佳机动性吧",
+        "超秋月型一番艦…それがこの北風である。かの大戦では戦場で活躍し得なかったが、まだ遅くはない。今一度北風の兵装と速力をご覧に入れようぞ",
+        "Lead ship of the Super Akizuki-class... That is I, Kitakaze. During the war, I was not able to display my prowess upon the battlefield, but it is not too late to do so here. Bear witness to my agility as well as the strengths of my armaments."
+      ],
+      "acquisition": [
+        "苝已经准备就绪……今后由我来协助作战指挥的话，指挥官就可以清闲一些了",
+        "うむ、準備万端――この北風が作戦指揮の補佐に加わったからには、指揮官も枕を高く寝られようぞ。ふっふん！",
+        "Indeed, the preparations are complete... Now that I, Kitakaze, shall be assisting you with your operational command, you can now sleep more soundly at night, Commander. Heheh!"
+      ],
+      "login": [
+        "刚好指挥官回来了…苝正要训练刀柄上的小家伙，要让它的站姿具有大将之风才好",
+        "指揮官、よく戻った。北風は今、このコと訓練中ぞ。うむ、将官らしく立ってもらわないとな",
+        "Commander, you’ve come. I am currently training this little one. Indeed, I must teach it to stand like a general."
+      ],
+      "details": [
+        "指挥作战的将领都会配备一把适合自己的刀…所以放心吧，这柄刀一点都不沉",
+        "戦の指揮を取る者は刀を持参すると聞く…うむ、この子は重くない、安心するが良いぞ",
+        "Those who lead upon the battlefield must also carry their own blade... Worry not, this one is not heavy at all."
+      ],
+      "secretaryIdle1": [
+        "经常受到椛级姐姐们的照顾，苝会好好回报她们的期待，也会努力保护好大家。",
+        "秋月型のみなに世話になっているな。北風はみなの期待に応え上手く守ろうぞ",
+        "My Akizuki-class sisters have always taken good care of me. I, Kitakaze, swear to meet their expectations, and will work hard to protect everyone."
+      ],
+      "secretaryIdle2": [
+        "相比于浴血奋战，坐镇后方运筹帷幄的感觉好像更棒…不过请相信苝的实力，就算是直接出击作战，苝也是很强的",
+        "直接戦うことより、指揮を補佐するほうがいい気分になるな。…ちょ、直接戦っても北風はほかの子に引けをとらないぞ",
+        "I prefer strategizing and leading from the rear over fighting in the frontlines... B-but I’m perfectly capable of fighting head on."
+      ],
+      "secretaryIdle3": [
+        "真正的实力，源于内心的勇气。可不要小看了苝的能耐",
+        "真の力は己の勇気が源。北風の力、侮るでないぞ",
+        "True power comes from the strength of one’s convictions. It would behoove you to not underestimate my abilities!"
+      ],
+      "secretaryTouch": [
+        "身体娇小也是有好处的…哼哼，要玩躲避球的话，指挥官别想击中我",
+        "小さい体にも利点がある…ふっふん、この「どっじぼーる」で北風に当てられるとは思わないことぞ",
+        "Being small has its advantages... Heheh. For example, don’t even try to hit me in a game of dodgeball!"
+      ],
+      "secretarySpecialTouch": [
+        "虽然不知道该不该阻止指挥官……总之，请停止无礼的举动",
+        "うむ、指揮官を止めるべきか重い悩んでいるが……無礼なことはだ、ダメぞ",
+        "Hmm... The responsibility of cleaning up your conduct weighs heavily upon me, but... please cease your crass behavior."
+      ],
+      "task": [
+        "指挥官，振作起来，不能丢下这些任务不管",
+        "指揮官、しっかりぞ。任務をほったらかすわけにはいかないからな",
+        "Shape up, Commander. You can’t afford to just leave these missions sitting there."
+      ],
+      "taskComplete": [
+        "有付出就会有回报。指挥官这么努力，奖赏也自然不会溜走",
+        "努力は報われよう――指揮官の頑張りへのご褒美は逃げたりしないぞ",
+        "Effort is rewarded in kind. Given how hard you’ve worked, Commander, your rewards won’t be disappointing."
+      ],
+      "mail": [
+        "快查看下邮件吧，苝预感到会有好事发生",
+        "メールを確認しようぞ。北風、良いことが起きる予感…！",
+        "Let’s check the mail. I have a feeling that something good has happened...!"
+      ],
+      "returnFromMission": [
+        "指挥官辛苦了……接下来的事就交给苝来处理吧，不会辜负指挥官期许的",
+        "指揮官、ご苦労ぞ。残った仕事はこの北風に任せてもらおう。ご期待どおり、良き働きをさせてもらおう",
+        "Good work, Commander. Please leave the rest of the work to me. I shall not disappoint you."
+      ],
+      "commission": [
+        "委托组的大家应该带回了很多好东西，指挥官去看看吧…",
+        "委託組の子たちは良いものを多く持ち帰ってきた模様。指揮官、検品に参ろうぞ",
+        "The commission fleet must have returned with a lot of goodies. Commander, you should take a look."
+      ],
+      "strengthening": [
+        "希望力量增强后，苝也能保持清醒的头脑",
+        "力を得ても、頭脳は冴えたままのほうが望ましいぞ",
+        "Even after gaining power, I, Kitakaze, shall keep a clear head."
+      ],
+      "startingMission": [
+        "苝已经预料到敌人的动向了…大家，快跟在苝身后前进",
+        "敵の動き、見切ったり！皆、北風に続け！",
+        "The enemy’s movements... are clear as day! Everyone, follow me!"
+      ],
+      "mvp": [
+        "一场胜利不足以骄傲，准备下一场吧",
+        "一回の勝利などでは驕るに値しない。次の戦いの準備をしっかり行おうぞ",
+        "A single victory is nothing to be proud of. Let us prepare for the next battle."
+      ],
+      "defeat": [
+        "这不可能…一定哪里计算有误…",
+        "そんな…ど、どこが間違っていたの……",
+        "Impossible... h-how did I miscalculate...?"
+      ],
+      "skillActivation": [
+        "看招！会心一击！",
+        "会心の一撃、受けてもらおうぞ！",
+        "My single strike shall seal your fate!"
+      ],
+      "lowHP": [
+        "知难而进，不是明智之选…不过现在也只能拼了！",
+        "激流に逆らうなんて無粋…けど、今は仕方ない！",
+        "It’s not wise to swim against the current... but we have no choice now!"
+      ],
+      "affinityDisappointed": [
+        "如果指挥官非要荒废自己的才能，那么很快就会变成废材吧…",
+        "己の才能を無駄に捨てつづけるなら、指揮官も、いつか……",
+        "Commander, if you continue to squander your talents, then one day..."
+      ],
+      "affinityStranger": [
+        "想让我展示一下刀法？以后有机会，会给指挥官演示的",
+        "ぬっ、この子が気になる…？うむ、いつかこの北風がじきに華麗に振って見せようぞ",
+        "Hmm, you’re curious about the little one...? Very well, perhaps I will give you a demonstration when I get the chance."
+      ],
+      "affinityFriendly": [
+        "椛级的姐姐们每次见面都会给苝很多零食。分一些给指挥官也可以的…",
+        "秋月型から常々駄菓子をもらっているぞ。し、指揮官に少し分けても……むぅ……",
+        "My sisters always give me lots of candy whenever they see me. I, I suppose I can share them with you, Commander..."
+      ],
+      "affinityLike": [
+        "有点怕黑……就让苝慢慢跟在指挥官的身后吧（扯住衣角）",
+        "暗いのが、苦手ぞ……き、北風は指揮官をゆっくり追従する！",
+        "I’m not... good with the dark. I, Kitakaze, shall slowly follow behind you!"
+      ],
+      "affinityLove": [
+        "哈……（打呵欠）现在苝有些困了，指挥官不会袖手旁观的……嗯，苝的直觉一向很灵验，指挥官一定会把我抱回床上",
+        "ふはぁ……北風、眠気の限界…指揮官は見ぬふりをしないはず……うむ、指揮官、北風をベッドに運んでくれる…北風の直感がまた当たったぞ…ふっふっふ…",
+        "*yawn*.... I am getting a bit sleepy... and the Commander probably won’t ignore that... Indeed, the Commander would probably carry me back to bed... My intuition is seldom wrong... Hehe..."
+      ],
+      "pledge": [
+        "只要在指挥官身边，心情也会变得安稳起来…所以，苝想一直待在指挥官的身边…可以的话就拉钩？椛级的姐姐们教我的，像指挥官这样出众的人，只要拉钩就会一直信守承诺",
+        "指揮官の側にいると、北風の心も穏やか…だから北風、指揮官の側にずっといたい…いい？いいならゆ、指切りする？秋月型のみなが教えてくれたぞ、指揮官のような素晴らしい人は約束を違えるはずがないって",
+        "My mind is at peace whenever I am by your side, Commander... so can I always keep you company? Can we pinky swear on it then? My sisters told me... that this is enough to form a vow with a person of integrity."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "O Valentine's Day, how long I've waited for thee! First up is Commander, followed by the Akizuki sisters, and then and then... indeed, it was felicitous that I prepared so many mini chocolates as presents!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Kitakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Kitakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Kitakaze_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kitakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kitakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Kitakaze_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9a/Kitakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Kitakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9a/Kitakaze_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Kitakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Kitakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Kitakaze_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Kitakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Kitakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Kitakaze_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Kitakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Kitakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Kitakaze_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kitakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kitakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Kitakaze_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Kitakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Kitakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Kitakaze_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/75/Kitakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Kitakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/75/Kitakaze_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Kitakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Kitakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Kitakaze_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kitakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kitakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kitakaze_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Kitakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Kitakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Kitakaze_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Kitakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Kitakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Kitakaze_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/14/Kitakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Kitakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/14/Kitakaze_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/da/Kitakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Kitakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/da/Kitakaze_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Kitakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Kitakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Kitakaze_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/Kitakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Kitakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/Kitakaze_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/Kitakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Kitakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/Kitakaze_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ee/Kitakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Kitakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ee/Kitakaze_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Kitakaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Kitakaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Kitakaze_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Kitakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Kitakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Kitakaze_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kitakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kitakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kitakaze_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/86/Kitakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Kitakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/86/Kitakaze_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Kitakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kitakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Kitakaze_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Kitakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Kitakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Kitakaze_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Kitakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Kitakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Kitakaze_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Celebration Conquest!",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "祭典制霸！",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "会場制覇！",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f8/KitakazeFestival.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/15/KitakazeFestivalWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bf/KitakazeFestivalChibi.png",
+      "shipDescription": [
+        "苝，准备就绪——指挥官，和苝一起制霸祭典吧！…不过在那之前，可以先吃点东西吗？",
+        "北風、準備万端――指揮官、一緒にこの会場でも制覇しようぞ！…の前に、ちょ、ちょっと小腹を満たしておくのはどうかな…？",
+        "All the preparations are now complete... Commander, let us sally forth and conquer these festival grounds! ...But before that, can we get something to eat first?"
+      ],
+      "acquisition": [
+        "苝，准备就绪——指挥官，和苝一起制霸祭典吧！…不过在那之前，可以先吃点东西吗？",
+        null,
+        null
+      ],
+      "login": [
+        "小家伙也等不及了，我们这就出发吧，指挥官，祭典可不会等我们呢。",
+        null,
+        null
+      ],
+      "details": [
+        "章鱼烧！烤鱿鱼！…呣呣…竟然还有炒面！指挥官，帮我拿一下…啊，那个我也要！",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "只要提前预测到金鱼的运动方向，捞金鱼也就没有什么难的了",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "难得的祭典，今天就稍微放松一下好了…不过，明天开始就要更加努力了呢，指挥官",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "看在指挥官陪我来逛祭典的份上，就分你一点吃的吧。喏，要苹果糖吗？还是章鱼烧？",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "哼哼，指挥官想要在祭典游戏上挑战苝吗？尽管放马过来吧。",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "射击、捞金鱼…这些对苝来说都是小菜一碟呢。指挥官也觉得苝很厉害吧！",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

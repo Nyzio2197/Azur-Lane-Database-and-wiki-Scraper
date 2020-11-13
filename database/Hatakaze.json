@@ -1,0 +1,472 @@
+{
+  "name": "Hatakaze",
+  "constructionTime": "00:20:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Kamikaze",
+  "ID": "369",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "NoriZC",
+  "pixiv": "https://www.pixiv.net/member.php?id=4592232",
+  "twitter": "https://twitter.com/norizci",
+  "link": "https://weibo.com/zicaitangxiansheng",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/8/82/Hatakaze_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1561,
+      203,
+      87,
+      60,
+      404,
+      193,
+      44,
+      139,
+      0,
+      7,
+      183,
+      189,
+      0,
+      0
+    ],
+    "Level 100": [
+      1301,
+      176,
+      87,
+      52,
+      362,
+      187,
+      44,
+      121,
+      0,
+      7,
+      174,
+      169,
+      0,
+      0
+    ],
+    "Base Stats": [
+      252,
+      74,
+      87,
+      11,
+      77,
+      72,
+      44,
+      26,
+      0,
+      1,
+      67,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 2,
+  "maxLimitBreakTechPoints": 4,
+  "level120StatBonus": "Destroyer (DD) Reload  +1",
+  "level120TechPoints": 3,
+  "enhancementValue": [
+    4,
+    25,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gained Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Swift Defender; CN: 机动护卫 JP: 機動艦隊護衛",
+  "skill1Description": "While alive in fleet, reduces damage received by main fleet by 3.5% (8%). Additionally, reduces Light Cruisers' and Destroyers' gun and torpedo damage dealt to Hatakaze by 1% (10%).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-神風型",
+  "skill2Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - Kamikaze-class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8c/Hatakaze.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/96/HatakazeChibi.png",
+      "shipDescription": [
+        "神风级驱逐舰五番舰—旗风",
+        "神風型駆逐艦五番艦・旗風",
+        "Kamikaze-class destroyer number five – Hatakaze."
+      ],
+      "selfIntroduction": [
+        "我是神风级驱逐舰旗风。虽然算是舰队中的前辈了，不过其实并没有什么出彩的战绩，过去大部分时间都在执行护卫任务，甚至没能像神风那样奋战都最后…对我来说，多少还是有点遗憾……",
+        "神風型駆逐艦の旗風だぞ。ちなみに艦種的には先輩にあたるが、主に護衛任務に従事して、華々しき戦果がなかったばかりか、神風のように最後まで戦い抜くことも叶わんかったカンレキだ。ふむ、私としては、いささか残念ではあるな",
+        "I'm Hatakaze, a Kamikaze-class destroyer. Oh, also, though my class might make me seem experienced, not only did I mainly engage in escort missions and achieve nothing spectacular, my story ends with my wish to fight the bitter end, like Kamikaze did, going unfulfilled. For someone like me, that's rather deplorable."
+      ],
+      "acquisition": [
+        "你就是指挥官吗，露出这副不成器的表情可不行啊。我是第五驱逐队所属的旗风，今后将会作为前辈好好指引你的，做好心理准备吧",
+        "お主が指揮官か。ふむふむ……これ、情けない顔を晒すでないぞ。私は第五駆逐隊の旗風。ちなみにこれからは先輩として面倒を見てやるから、覚悟してくれ",
+        "You must be the Commander. I see... No, I'm not looking disgruntled. I'm Hatakaze of Destroyer Division 5. Oh, also, be ready. I will watch over you as your superior from now on."
+      ],
+      "login": [
+        "准时报道不过是作为一名指挥官最基本的修养，不过看在你坚持了这么久的份上，表扬一下也不为过",
+        "「時間を守ること」、指揮官としては基本中の基本だ――ちなみに、お主がここまで頑張ってきたことを鑑みて、少し褒めてやらなくもないぞ？",
+        "A commander should at the very least be on time. But considering your achievements up till now, you at least deserve some praise."
+      ],
+      "details": [
+        "说起来我最开始的名字是“九号驱逐舰”……不管怎么说，幸好最后没有沿用下来呢",
+        "ちなみに私の最初の名前は「第九号駆逐艦」だ。……まあ、名前の付け方はそのまま踏襲されなくて良かったな",
+        "Oh, also, did you know my original name was \"Destroyer No. 9\"? ... I suppose it's a good thing they decided to change it."
+      ],
+      "secretaryIdle1": [
+        "松风对我们总是担心这担心那的，有时候还真不知道该怎么应对…",
+        "松風はどうも姉妹艦たる私たちを気遣っていないと気が済まないようだが、どう応じればいいのか時々悩まされるな…",
+        "I think Matsukaze feels compelled to worry about us so much, and sometimes we don't even know how we should respond..."
+      ],
+      "secretaryIdle2": [
+        "偷懒的想法还是尽快打消吧，还有很多工作等着处理呢",
+        "サボる気なら諦めな。ちなみに、仕事はまだ結構残っているぞ",
+        "If you want to slack off all day, just resign. Oh, also, you have much work left to do."
+      ],
+      "secretaryIdle3": [
+        "神风，对指挥官的挑逗还是适可而止吧…",
+        "神風、指揮官をからかうのはいい加減にせんかい",
+        "Kamikaze, could you stop teasing the Commander?"
+      ],
+      "secretaryTouch": [
+        "防空也是很重要的，一不小心付出的代价，可能会比你想象的要惨痛的多…",
+        "対空は大事だ。ちなみに、油断の代償はお主が思っているよりずっと重いぞ",
+        "Anti-air is crucial. Oh, also, the price one pays for negligence is much higher than you think."
+      ],
+      "secretarySpecialTouch": [
+        "如果你能把刚刚的勇气用在别的地方，我或许还能更加欣赏你",
+        "……今の根性を他のところに使えば、まだ評価してやらんでもなかったんだがな",
+        "... Now if you'd just use that bravery for something else, my view of you might actually change."
+      ],
+      "task": [
+        "能者多劳，既然有未完成的任务，岂有放着不管的道理？",
+        "才ある者は多く働く。未完了の任務をほったらかすことはあるまい",
+        "Those with talent work a lot. Do not leave missions incomplete."
+      ],
+      "taskComplete": [
+        "嚯…任务奖励比想象中的要多呢",
+        "ほぉ……任務報酬、予想より多いとはな",
+        "Well... I wasn't expecting this big of a reward."
+      ],
+      "mail": [
+        "记得及时查看新的信件——喏，这里就有一封",
+        "新しいメールを確認するのだぞ――ちなみに、ここにも一通あるからな",
+        "Check the new mail you received. Oh, also, I have a copy of it as well."
+      ],
+      "returnFromMission": [
+        "出击辛苦了，来喝杯温茶，然后就开始战术总结吧",
+        "出撃ご苦労。お茶でも飲んで、戦術レヴェルでの振り返りをするんだぞ",
+        "Admirable work out there. Have some tea and reflect on your tactics."
+      ],
+      "commission": [
+        "在领取奖励之前，可别忘了先慰劳一下辛苦归来的同伴们",
+        "報酬を受け取る前に、苦労した仲間たちを労うのを忘れるでないぞ",
+        "Before you go collect those mission rewards, remember to give thanks to those who worked so hard for them."
+      ],
+      "strengthening": [
+        "其实不必为我付出这么多…不过…谢谢",
+        "私なんぞのためにそこまでせんでも……いや、感謝するぞ",
+        "You needn't go so far for the likes of me... But I'm still grateful."
+      ],
+      "startingMission": [
+        "无需多虑，各司其职便是，上吧",
+        "今更熟慮など要らん。それぞれの役割を果たせば戦に勝てる。往くぞ！",
+        "Don't think too hard, just do your part and we'll win. Let's go!"
+      ],
+      "mvp": [
+        "胜利就是胜利，不需要过多的修饰与评价。",
+        "勝利は勝利だ。虚飾も賛辞も要らぬな",
+        "A victory is merely a victory. Garishness and applause are needless."
+      ],
+      "defeat": [
+        "看来…还是有点跟不上时代了啊…",
+        "時代には追いつけていないようだな……",
+        "It seems I have not kept up with the times..."
+      ],
+      "skillActivation": [
+        "看来轮到我了呢",
+        "私の番ね",
+        "It seems to be my turn."
+      ],
+      "lowHP": [
+        "唔…损伤已经到了不容忽视的状况了吗",
+        "くっ、損傷は無視できないってところか",
+        "Agh... So this is why they say you can't flee from pain..."
+      ],
+      "affinityDisappointed": [
+        "趁其它人对你的评价进一步降低之前，赶紧认识到自己的问题吧",
+        "ほかの子からの評価が下がる前に、早く自らの非を認識したまえ",
+        "Could you acknowledge the error of your ways before other girls start thinking poorly of you?"
+      ],
+      "affinityStranger": [
+        "如果指挥官有兴趣的话，身为舰队的前辈，我倒是可以给你些怎么和大家相处的建议，如何？",
+        "指揮官に気があるなら、先輩として人間関係についてアドバイスしてやらんこともないんだぞ？",
+        "If you'd like, perhaps I could give you a wise lady's advice on how to interact with others?"
+      ],
+      "affinityFriendly": [
+        "对待性格各异的同伴就要用不同的相处方式。这可不是善变，只是一点拉近关系的技巧而已。",
+        "性格が異なる仲間にはそれぞれ違う接し方をするのだ。変わり身が早いのではなく、人間関係を上手くする処世術だぞ",
+        "Different people must be treated in their own unique way. This is no secret to social success, but it will help make you more sociable."
+      ],
+      "affinityLike": [
+        "对了，拿着这个护身符吧，会保佑你和在意的人关系变得更好的。不过要注意，如果做出让对方伤心的事情的话，可是会遭到天罚的哦",
+        "そうだな、このお守りを持っていくといい。人間関係もうまくいく。だが注意することだ。相手を傷つける行動をしたら罰があたるからな",
+        "Ah, you should also take this amulet. It will make you more sociable. But beware: if you use it to hurt someone, you will be too."
+      ],
+      "affinityLove": [
+        "还有什么烦恼的话尽管对我说吧。身为年长者，大抵的事情都能依靠经验解决～而且，我们这样的关系，也不需要互相隐藏什么了吧？嘿嘿…",
+        "悩みなら言ってみたまえ。こう見えても年長者としての経験で解決してきたことは多い。そもそもお主との仲だ、隠すことも何も無かろう。ふふ",
+        "If something's on your mind, tell me. I may be old, but my experience has been useful for solving many problems. Besides, why would you hide anything from your partner? Ahah."
+      ],
+      "pledge": [
+        "选我真的好吗？像我这种没什么吸引人的地方，又啰嗦，又爱管闲事…真的不是开玩笑的？既、既然如此…咳咳，就让我一直陪你走下去吧，直到大海干涸为止——",
+        "この私で良いのか？別に人を惹き付ける所もないし、世話焼きで説教したがるし…冗談ではないだと？そ、それなら…コホン、では海が涸れ果てるまで、この私がずっとそばに付いていてやろう――",
+        "It's me you want? But I'm not attractive, I'm just a bother who likes nagging about you... You're really not joking? I-if so... *Ahem*, then till the oceans of the world dry up, I will remain by your side."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Hatakaze, Kamikaze, Matsukaze) 让对面见识一下年长者的实力吧！",
+        "(Sortie with Hatakaze, Kamikaze, Matsukaze) 戦いの年季を見せてやろう！",
+        "(Sortie with Hatakaze, Kamikaze, Matsukaze) Let's show them how veterans fight!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Shigure) 可别大意了哦，时雨",
+        "(Sortie with Shigure) 時雨、油断するな",
+        "(Sortie with Shigure) Shigure, don't get caught off guard."
+      ],
+      "giftDescriptionValentines2019": [
+        "女孩子的巧克力要好好珍惜才行。当然了，不是说巧克力本身，而是蕴含在这其中的感情。所以你可要心怀感激地收下啊，我的巧克力。",
+        "女の子からもらったチョコレートは大事にしないとね。ちなみにチョコそのものより贈ってくれる気持ちを大事にするという意味よ。つまるところ、私からのチョコも大切にしなさいってことだぞ。",
+        "You should treasure chocolate received from a girl. Oh, also, that means treasuring the feelings behind the chocolate, more so than the chocolate itself. So, in short, be appreciative of this chocolate I'm giving you now."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Don't worry about it. It's normal not to get any chocolate on Valentine's Day. But since you have me you'll get at least one. How about it? Aren't you going to thank me?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Hatakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Hatakaze_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Hatakaze_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Hatakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Hatakaze_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Hatakaze_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Hatakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Hatakaze_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Hatakaze_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Hatakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hatakaze_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hatakaze_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Hatakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Hatakaze_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Hatakaze_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Hatakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Hatakaze_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Hatakaze_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Hatakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Hatakaze_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Hatakaze_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Hatakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Hatakaze_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Hatakaze_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Hatakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Hatakaze_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Hatakaze_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Hatakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Hatakaze_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Hatakaze_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Hatakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Hatakaze_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Hatakaze_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Hatakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Hatakaze_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Hatakaze_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hatakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hatakaze_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hatakaze_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Hatakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Hatakaze_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Hatakaze_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/df/Hatakaze_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Hatakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Hatakaze_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Hatakaze_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ad/Hatakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Hatakaze_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ad/Hatakaze_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatakaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatakaze_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Hatakaze_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cc/Hatakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Hatakaze_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cc/Hatakaze_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Hatakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Hatakaze_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Hatakaze_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Hatakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Hatakaze_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Hatakaze_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Hatakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Hatakaze_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Hatakaze_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Hatakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Hatakaze_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Hatakaze_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/18/Hatakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Hatakaze_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/18/Hatakaze_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Hatakaze_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Hatakaze_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Hatakaze_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Hatakaze_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Hatakaze_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6f/Hatakaze_Extra2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

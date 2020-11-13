@@ -1,0 +1,609 @@
+{
+  "name": "Georgia",
+  "constructionTime": "Research",
+  "rarity": "Priority",
+  "shipClass": "Georgia",
+  "ID": "Plan008",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "八九",
+  "pixiv": "https://www.pixiv.net/member.php?id=4935155",
+  "twitter": "https://twitter.com/SB898989",
+  "link": "https://www.weibo.com/NinnG1017",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/a/a1/Georgia_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      8297,
+      163,
+      0,
+      436,
+      0,
+      30,
+      33,
+      409,
+      0,
+      16,
+      73,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      7543,
+      142,
+      0,
+      394,
+      0,
+      24,
+      33,
+      368,
+      0,
+      16,
+      60,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1459,
+      60,
+      0,
+      84,
+      0,
+      9,
+      33,
+      79,
+      0,
+      9,
+      23,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "125% → 165%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 110%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Accuracy  +1",
+  "collectionTechPoints": 26,
+  "maxLimitBreakTechPoints": 52,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +2",
+  "level120TechPoints": 39,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "skill1Name": "Ironsight Caliber; CN: Iron Sight Caliber JP: アイアンサイト・キャリバー",
+  "skill1Description": "Decreases equipped Main Gun Spread by 3. Increases own damage dealt to Heavy Cruisers, Large Cruisers, Battlecruisers, Battleships, and Aviation Battleships by 10% (20%).",
+  "skill2Name": "(Fate Simulation) Ironsight Caliber+; CN: Iron Sight Caliber+ JP: アイアンサイト・キャリバー+",
+  "skill2Description": "Decreases this ship's Main Gun Spread Range by 3 and increases own damage dealt to Heavy Cruisers, Large Cruisers, Battlecruisers, Battleships, and Aviation Battleships by 10% (20%), and also increases own damage dealt to Aircraft Carriers and Light Aircraft Carriers by 1% (10%).",
+  "skill3Name": "Heavy Barrel Buster; CN: Heavy Barrel Blaster JP: ヘビーバレル・バスター",
+  "skill3Description": "When firing Main Guns: 50% (80%) chance to fire a special barrage.",
+  "skill4Name": "Siren Killer; CN: 塞壬之敌 JP: 対セイレーン特化改修",
+  "skill4Description": "Increases own damage dealt to Sirens by 5% (15%).",
+  "level5": "Health  +356, Anti-air  +19\nMain Gun Efficiency +5%\n",
+  "level10": "Main Gun Mount +1\nGains Siren Killer I\n\nMain Gun Efficiency +5%\nShip Rarity increases to ★★★★☆☆\n",
+  "level15": "Health  +711, Anti-air  +39\nAnti-Air Gun Efficiency +10%\n",
+  "level20": "Secondary Gun Mount +2\nUpgrades Siren Killer I→II\nMain Gun Efficiency +10%\nShip Rarity increases to ★★★★★☆\n",
+  "level25": "Health  +1068, Anti-air  +58\nMain Gun Efficiency +5%\n",
+  "level30": "Upgrades Siren Killer II→III\nMain Gun Efficiency +15%\nShip Rarity increases to ★★★★★★\n",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/1/19/Georgia.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a4/GeorgiaChibi.png",
+      "shipDescription": [
+        "战列舰—佐治亚",
+        "戦艦・ジョージア",
+        "Battleship – Georgia."
+      ],
+      "selfIntroduction": [
+        "我是白鹰所属战列舰，佐治亚。比起那几位远房姐妹，我的主炮口径更大一些。而我，会用这主炮，粉碎挡在面前的所有敌人",
+        "ユニオンの戦艦ジョージアだ。ちょっと縁があるあの子と比べて、私の主砲のほうが口径が大きい。そう、この主砲で目の前に立ちはだかる敵全て…薙ぎ払うのだ！",
+        "I am the Eagle Union Battleship Georgia. My main guns are bigger than those of my distant cousins. Yes indeedy, these guns of mine take all the bad guys in front of me... and blast 'em all to hell!"
+      ],
+      "acquisition": [
+        "我是白鹰的佐治亚。安心吧，我会用巨炮为你带来胜利的",
+        "ユニオン所属のジョージアだ。安心しろ、この大砲であんたに勝利をもたらしてやるぞ",
+        "I am Georgia from the Eagle Union. Fear not, for my cannons shall bring victory in your name."
+      ],
+      "login": [
+        "哼，来得正好。热身运动刚刚好，是要演习还是出击？",
+        "ほぅ、いいタイミングで来たな。ウォーミングアップが済んだところだ。さては演習か？それとも出撃か？",
+        "Oh, perfect timing. I just finished warming up. Time to exercise? Or sortie?"
+      ],
+      "details": [
+        "定期的装备检查与维护可是非常重要的，指挥官，你也要来帮忙吗？",
+        "兵装の定期検査とメンテナンスは大事だ。指揮官も手伝ってくれるか？",
+        "It's a good idea to look over your weapons and keep it all working. You want to help?"
+      ],
+      "secretaryIdle1": [
+        "我有个梦想，那就是有一天，大海上不再有硝烟，所有人都回到和平之中…",
+        "私には夢がある。それはいつか、この海での硝煙をなくし、すべての人が平和に生きるという夢だ",
+        "I have a dream. A dream where the seas are free of the stink of gunpowder, and all the people of the world live in peace."
+      ],
+      "secretaryIdle2": [
+        "可乐真是很棒的饮料呢，啊，不过酸素可乐指挥官大概不能喝吧……",
+        "コーラは飲み物として最高だろ？あっ、指揮官は酸素コーラ飲めないんじゃ…なかったっけ……",
+        "Cola sure is the best drink, isn't it? Oh, but you can't drink Oxy-cola, Commander..."
+      ],
+      "secretaryIdle3": [
+        "有机会的话，还是挺想去世界各个不同的地方看看的呢，重樱、东煌、皇家……干脆计划个环球旅行好像也不错？",
+        "きっかけさえあればいろんなところに行きたいな。重桜、東煌、ロイヤル……ふむ、いっそ世界一周でもいい気がする？",
+        "If I had the chance, I'd love to travel all around the world. The Sakura Empire, the Dragon Empery, the Royal Navy... Hmm, some kind of world tour sounds nice, doesn't it?"
+      ],
+      "secretaryTouch": [
+        "嚯~指挥官也觉得这巨炮很美吗？那就尽管欣赏个够吧~",
+        "ははーん、指揮官もこの主砲が美しいと思ってくれるのか？思う存分鑑賞するがいいぞ～",
+        "Oooh? You find my guns so appealing, Commander? Enjoy them to your heart's content~"
+      ],
+      "secretarySpecialTouch": [
+        "嚯~？看来指挥官是想要自告奋勇当炮靶呢…",
+        "ははーん、さては指揮官、自ら試射の標的になろうとする魂胆か……？",
+        "Oooh? Hey Commander, did you want me to use you for target practice...?"
+      ],
+      "secretaryHeadpat": [
+        "佐治亚光线！…开玩笑的，只是普通的头饰而已，啊哈哈",
+        "ジョージアビーム！…なんてな、ただの飾りだって！ははは！",
+        "GEORGIA BEEAAAAM! ... Just playing around! Hahaha!"
+      ],
+      "task": [
+        "任务啊…如果是战斗任务就好了呢，嘿嘿~",
+        "任務か…戦闘任務ならさぞいいだろうな。ははは",
+        "A mission...? If it's a combat mission, we're good to go. Hahaha!"
+      ],
+      "taskComplete": [
+        "没有报告过的任务，就不算完成。可别忘了啊，指挥官",
+        "レポートを提出していない任務は完了したとは言えない。指揮官、確認するのを忘れるでないぞ",
+        "A job's not done until a report's submitted. Commander, don't forget to double check everything."
+      ],
+      "mail": [
+        "指挥官，你的信。如果方便的话，能把信封上的风景纪念邮票留给我吗？",
+        "指揮官、あんた宛のメールだ。良ければ封筒にある切手を譲ってくれないか？",
+        "Commander, mail here for you. Would it be okay if I kept the stamp?"
+      ],
+      "returnFromMission": [
+        "嗯，出击辛苦了。喝瓶冰镇可乐放松下吧",
+        "おう、出撃ご苦労だ。冷えたコーラでも飲んでスッキリしないか？",
+        "Yo. Good work out there. Nothing like an ice cold Cola after work, huh?"
+      ],
+      "commission": [
+        "委托组回来了呢。等等，把这些酸素可乐带给她们吧，慰劳将士的辛苦是指挥官应当做的事情",
+        "委託組が戻ってきたな。そうだ、酸素コーラも持っていってあげよう。部下を労うのは上官のすべきことだからな",
+        "Commission team's back. Hey, how about we serve them up some Oxy-cola? An officer has to reward her subordinates for a job well done, you know."
+      ],
+      "strengthening": [
+        "下次的战斗，你会看到我的表现的",
+        "次の戦闘では私の力を見せつけてやろう",
+        "You'll see how strong I am next time I fight."
+      ],
+      "startingMission": [
+        "这次会是什么样的对手呢？希望不要辜负了我的期待啊",
+        "今度はどんな相手だ？期待して損したってのは勘弁してくれよー！",
+        "Who am I up against this time? I hope they're up to the task!"
+      ],
+      "mvp": [
+        "再坚固的装甲，也只有被巨炮击碎的命运！",
+        "どんな装甲だろうと…この巨砲で撃ち貫くのみ！",
+        "No matter how thick the armor... these guns can pierce it!"
+      ],
+      "defeat": [
+        "只能…暂时撤退了吗",
+        "撤退しか…ないのか",
+        "All we can do... is fall back?"
+      ],
+      "skillActivation": [
+        "这巨炮的轰鸣就是你们最后的回忆！",
+        "この巨砲の響きでお前らの最後を奏でよう！",
+        "The sound of these massive guns is your funeral march!"
+      ],
+      "lowHP": [
+        "咕唔…装甲区损伤？！我会加倍奉还的！",
+        "くっ…装甲損傷だと！？倍返ししてやる！",
+        "Ack... you scratched my armor?! You'll pay for that!"
+      ],
+      "affinityDisappointed": [
+        "看来指挥官并不足以拥有这份力量……",
+        "指揮官はこの力を手にするのに相応しくないようだな……",
+        "You are unworthy of my power..."
+      ],
+      "affinityStranger": [
+        "桃子很不错的哦，营养又美味，指挥官要来一颗吗？",
+        "モモはいいぞ。美味しくて栄養もバッチリだ。指揮官もどうだ？",
+        "Peaches are great. Tasty and nutritious. Want one, Commander?"
+      ],
+      "affinityFriendly": [
+        "出击战斗固然让人热血沸腾，不过偶尔放松一下也是很重要的呢",
+        "出撃、戦闘は確かに血が沸くものだが、たまにはリラックスするのも大事だぞ",
+        "Sorties and battles really get my blood pumping, but every once in a while it's nice to relax."
+      ],
+      "affinityLike": [
+        "下次有机会的话，就一起去旅行怎么样？有你同行的话，感觉会是段有趣的旅程呢",
+        "今度旅行する時は一緒にどうだ？あんたがいれば、きっと面白い旅になるだろうな",
+        "Why don't we go on a trip together next time? I think we'd have a lot of fun together."
+      ],
+      "affinityLove": [
+        "先从白鹰出发…然后到皇家和鸢尾…再是东煌…——嗯？我在计划我们的环球之旅哦。事到如今，指挥官不会说不愿意去了吧~？",
+        "ユニオンから出発して…ロイヤルとアイリス、そして東煌と――あっ、いつかする世界一周の旅行の計画を立てているんだ。まさか、行かないってことはないだろう？",
+        "So we head out from the Eagle Union... Drop in on the Royal Navy and Iris, then head over to the Dragon Empery... Oh! I was just planning our world tour. Don't tell me you can't go?"
+      ],
+      "pledge": [
+        "咳…没想到会是指挥官发起的直球进攻啊~？啊哈哈…我很高兴哦，看来环球之旅可以提前准备出发了呢~",
+        "コホン…指揮官が真正面からアタックしてくるとは思わなかったな…いや、私としては世界一周の旅が思ったより早く始まりそうで嬉しいのだぞ、はははは！",
+        "Ahem... I never thought you'd attack me head on, Commander... Well, I guess I'm glad I get my world tour sooner than I expected. Hahaha!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here, some chocolates as a souvenir. While I wouldn't say these are luxurious, it's good to try such foreign delicacies from time to time. Ah, by the way, these taste better when you eat them with some cola."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Georgia_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Georgia_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Georgia_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6c/Georgia_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Georgia_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6c/Georgia_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Georgia_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Georgia_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Georgia_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Georgia_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Georgia_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Georgia_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Georgia_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Georgia_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Georgia_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Georgia_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Georgia_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Georgia_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Georgia_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Georgia_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Georgia_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Georgia_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Georgia_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Georgia_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Georgia_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Georgia_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Georgia_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Georgia_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Georgia_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Georgia_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Georgia_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Georgia_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Georgia_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Georgia_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Georgia_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Georgia_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Georgia_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Georgia_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Georgia_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Georgia_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Georgia_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Georgia_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Georgia_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Georgia_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Georgia_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Georgia_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Georgia_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Georgia_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Georgia_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Georgia_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Georgia_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Georgia_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Georgia_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Georgia_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Georgia_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Georgia_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Georgia_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/27/Georgia_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Georgia_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/27/Georgia_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Georgia_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Georgia_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Georgia_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/15/Georgia_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Georgia_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/15/Georgia_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Georgia_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Georgia_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Georgia_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Georgia_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Georgia_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Georgia_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/83/Georgia_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Georgia_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/83/Georgia_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "South Town Pearl",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "南方的黑珍珠",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "サウスタウンパール",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 800",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a6/GeorgiaParty.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4c/GeorgiaPartyChibi.png",
+      "shipDescription": [
+        "呀，指挥官，出来透透气吗？我？哈哈，我不太习惯宴会那种高雅的氛围，所以偷溜出来了……要一起走走吗？",
+        "おや？指揮官も気分転換か？私？あはは、どうもあのフォーマルな雰囲気が苦手だから、こうして外に新鮮な空気を吸いに来たわけだが……少し一緒に歩かないか？",
+        "Oh? Commander, did you need to get some fresh air as well? Me? Ahaha... It's a bit too stiff inside that venue, so I came out for a change of pace. Why don't we take a little stroll together?"
+      ],
+      "acquisition": [
+        "呀，指挥官，出来透透气吗？我？哈哈，我不太习惯宴会那种高雅的氛围，所以偷溜出来了……要一起走走吗？",
+        "おや？指揮官も気分転換か？私？あはは、どうもあのフォーマルな雰囲気が苦手だから、こうして外に新鮮な空気を吸いに来たわけだが……少し一緒に歩かないか？",
+        "Oh? Commander, did you need to get some fresh air as well? Me? Ahaha... It's a bit too stiff inside that venue, so I came out for a change of pace. Why don't we take a little stroll together?"
+      ],
+      "login": [
+        "还是旁边没有人的时候能够放松下来啊～对吧，指挥官？",
+        "人がいないところのほうが落ち着くな。指揮官もそう思わないか？",
+        "It's so much easier to relax when we're alone... Don't you think, Commander?"
+      ],
+      "details": [
+        "这套礼服？啊，这是西雅图给我准备的……老实说，连我自己都不知道我还能打扮成这样……",
+        "このドレス？ああシアトルのやつが用意してくれたものだ。正直こんな格好をする日がくるとは思ってなかったな……",
+        "My dress? Oh, Seattle helped me with it. We all know I couldn't get it looking like this myself..."
+      ],
+      "secretaryIdle1": [
+        "呼，还是在这样的地方喝可乐适合我，指挥官，我包里带了一些，要喝吗？",
+        "ふぅ…やっぱりこうして静かな場所で酸素コーラを飲んでいるほうが性に合う。あっ指揮官も飲まないか？まだあるぞ",
+        "Whew, now this is a fine place to enjoy a cola. You want one, Commander? I brought extra."
+      ],
+      "secretaryIdle2": [
+        "指挥官，你不回去会场没有关系吗，还有很多人在等着你吧？",
+        "指揮官は会場に戻らなくても大丈夫か？待ってる子もいるだろ？",
+        "Don't you have to hurry back to the party, Commander? Lots of girls waiting for you, no?"
+      ],
+      "secretaryIdle3": [
+        "指挥官，不用担心，我很喜欢这支舰队，等一会儿，我也会回到会场去的",
+        "指揮官、心配しなくていい、この艦隊のことが好きだ。あと少ししたら私も会場に戻るぞ",
+        "Don't worry about it, Commander. I love the fleet. I'll head back inside in a bit."
+      ],
+      "secretaryTouch": [
+        "呜哇……！好险，谢谢你扶我，指挥官……我拿高跟鞋是真的没辙",
+        "！！危なかった…指揮官、ありがとう、こういうハイヒールの靴はどうも苦手でな",
+        "Woah!! That was close... Thanks, Commander. Getting around in high heels isn't exactly my forte."
+      ],
+      "returnFromMission": [
+        "指挥官，这里的空气很不错，稍微休息一下吧",
+        "指揮官、ここの空気はスッキリしているぞ。少し休憩しよう",
+        "Commander, the air out here is delightful. Come take a breather."
+      ],
+      "affinityLove": [
+        "月色真美啊，指挥官……欸？啊，不，我不是那个意思……呃，不对，我也不是没有那个意思…啊哈哈…怎么说呢…有点不好意思啊……",
+        "指揮官、今夜はいい月だな……え？そういう意味じゃなくて……あ、いや、そういう意味がないわけでもないぞ？……一体ここは何と言えば……まずい、なんだか恥ずかしいぞ……",
+        "I love being with you under the moonlight, Commander... Err, not like that. Unless...? I mean, I could maybe mean it like that... Sorry, I'm making it weird... This is so awkward..."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Georgia_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Georgia_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Georgia_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Georgia_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Georgia_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Georgia_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/Georgia_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Georgia_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/Georgia_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Georgia_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Georgia_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Georgia_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/ce/Georgia_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Georgia_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/ce/Georgia_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Georgia_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Georgia_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Georgia_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Georgia_Sec1Skin1JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bd/Georgia_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Georgia_MissionFinSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bd/Georgia_MissionFinSkin1JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Georgia_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Georgia_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Georgia_Affinity4Skin1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Lanier Swan",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "Lanier Swan",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ラニアースワン",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 880",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d1/GeorgiaSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2e/GeorgiaSummerChibi.png",
+      "shipDescription": [
+        "嗯哼，阳光正好，海风也恰到好处。好啦，一起来享受夏天吧！你也很期待的吧，指挥官？",
+        "ふふ、日差しも海風もちょうどいい感じ、か。よし、では思いっきり夏を楽しもうじゃないか！指揮官も結構、期待していたんだろ？",
+        "Heh heh, the warm sun and the sea breeze really hit the spot, don't they? Alright, let's get out there and enjoy ourselves! That's what you've been waiting for, right, Commander?"
+      ],
+      "acquisition": [
+        "嗯哼，阳光正好，海风也恰到好处。好啦，一起来享受夏天吧！你也很期待的吧，指挥官？",
+        "ふふ、日差しも海風もちょうどいい感じ、か。よし、では思いっきり夏を楽しもうじゃないか！指揮官も結構、期待していたんだろ？",
+        "Heh heh, the warm sun and the sea breeze really hit the spot, don't they? Alright, let's get out there and enjoy ourselves! That's what you've been waiting for, right, Commander?"
+      ],
+      "login": [
+        "哦？来的正好，我正要把遮阳伞撑起来，来搭把手吧，指挥官。",
+        "ほぉ、いいタイミングで来たな。指揮官、このピーチパラソルを立てるのを手伝ってもらえないか？",
+        "Ooh, you're just in time. Commander, mind helping me set up this parasol?"
+      ],
+      "details": [
+        "这件黑色薄纱是西雅图帮忙选的，那家伙虽然看起来大大咧咧的，却意外地对这些分外拿手呢…",
+        "このレースはシアトルが選んだものだ。あいつこういうのにやたら詳しいよな……",
+        "Seattle picked out this lace coverup for me. She's good with this kind of thing..."
+      ],
+      "secretaryIdle1": [
+        "怎么样，这个太阳眼镜造型很有趣吧？嘿嘿，我还挺喜欢的呢。",
+        "このサングラスはどうだ？結構気に入ってるよ。ははは",
+        "What do you think of my sunglasses? I dig them, personally. Hahaha!"
+      ],
+      "secretaryIdle2": [
+        "说到夏天，怎么能少了冰镇的可乐呢！你也来一瓶吧指挥官—哦，错了错了，嘿嘿，这个是酸素可乐，这个才是给指挥官的可乐。",
+        "夏といえば、冷えた酸素コーラがないとな！指揮官も一本……間違えた、これは指揮官飲めないやつだ…こっちなら飲めるぞ、ほら",
+        "Nothing beats an ice cold Oxy Cola on a summer day! Here, take one, Commander... Oh right, you can't drink these. This one's for you."
+      ],
+      "secretaryIdle3": [
+        "趁着夏天还未过去，来计划个“世界沙滩之旅”好像也不错？",
+        "夏がまだ過ぎないうちに、「世界のビーチ巡り」をやってみても悪くない気がするな？",
+        "We've still got some summer left, so why not try to plan a \"Beach World Tour\" for us?"
+      ],
+      "secretaryTouch": [
+        "看你露出一副“不知道眼睛往哪摆”的表情意外的有趣呢，哈哈哈！",
+        "指揮官のその「目のやり場がわからない」って顔、見ていると意外と楽しいな。はははは",
+        "Commander, it's really funny watching you try to figure out where it's safe to look. Hahaha!"
+      ],
+      "secretarySpecialTouch": [
+        "嚯~？指挥官的心也随着来到海边放开了嘛，是不是需要给你一点“刺激”呢？比如这个遮阳伞什么的？",
+        "ははーん、さては指揮官、海辺で気分もノッてきたかな。どれ、もっと「刺」激を与えたほうがいいか？ビーチパラソルでこうやってカキーンっとな",
+        "Ah haah? Commander, you've really gotten into the spirit of the beach now. Maybe I should give you a bit more \"stimulation.\" Like a whooping with this parasol, for instance."
+      ],
+      "returnFromMission": [
+        "嗯，出击辛苦了。要来根冰棒吗？我这里还有。",
+        "おう、出撃ご苦労だ。アイスでもどうだ？まだまだあるぞ",
+        "Ooh, nice work on that sortie. Did you want an ice cream? I still have some here."
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Georgia_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Georgia_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Georgia_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Georgia_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Georgia_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Georgia_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Georgia_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Georgia_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Georgia_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Georgia_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Georgia_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Georgia_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Georgia_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Georgia_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Georgia_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Georgia_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Georgia_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Georgia_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Georgia_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Georgia_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Georgia_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Georgia_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Georgia_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Georgia_Sec2Skin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/90/Georgia_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Georgia_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/90/Georgia_MissionFinSkin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

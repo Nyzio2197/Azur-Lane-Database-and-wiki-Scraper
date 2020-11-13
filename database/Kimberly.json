@@ -1,0 +1,609 @@
+{
+  "name": "Kimberly",
+  "constructionTime": "00:28:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Fletcher",
+  "ID": "374",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "TwinBox",
+  "pixiv": "https://www.pixiv.net/member.php?id=264932",
+  "twitter": "https://twitter.com/digimon215",
+  "link": "https://www.twinbox-tb.com/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/62/Kimberly_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      2054,
+      201,
+      77,
+      82,
+      283,
+      160,
+      42,
+      182,
+      0,
+      8,
+      199,
+      206,
+      0,
+      0
+    ],
+    "Level 100": [
+      1712,
+      175,
+      77,
+      72,
+      248,
+      154,
+      42,
+      158,
+      0,
+      8,
+      190,
+      186,
+      0,
+      0
+    ],
+    "Base Stats": [
+      331,
+      74,
+      77,
+      15,
+      53,
+      59,
+      42,
+      34,
+      0,
+      2,
+      73,
+      51,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 120%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "120% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 13,
+  "level120StatBonus": "Destroyer (DD) Anti-air  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    5,
+    17,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Anti-Air Vigilance; CN: 防空警戒 JP: 対空警戒",
+  "skill1Description": "Increase own Anti-Air by 5% (15%).",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-フレッチャー級",
+  "skill2Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Fletcher-Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/bb/Kimberly.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7e/KimberlyChibi.png",
+      "shipDescription": [
+        "弗莱彻级驱逐舰—金伯利，舷号DD-521",
+        "フレッチャー級駆逐艦・キンバリー（DD-521)",
+        "Fletcher-class Destroyer - Kimberly (DD-521)"
+      ],
+      "selfIntroduction": [
+        "我是弗莱彻级驱逐舰金伯利号，平时主要负责护航与反潜。如果有需要的话，请尽管差遣我。",
+        "フレッチャー級のキンバリーです。船団護衛と対潜作戦を主に担当していました。わたしの力が必要でしたらお使いください",
+        "I am the Fletcher-class destroyer Kimberly. I am normally tasked with escort and anti-submarine duties, so should the need arise, please do not hesitate to deploy me."
+      ],
+      "acquisition": [
+        "弗莱彻级驱逐舰金伯利号，今天开始就是您麾下的一员了，请多指教。",
+        "フレッチャー級のキンバリーです。本日をもってこちらに配属されます。よろしくお願いします",
+        "I am the Fletcher-class destroyer, Kimberly. From today onward, I will be one of your subordinates. Pleased to meet you."
+      ],
+      "login": [
+        "准时是个好习惯，请继续坚持吧。",
+        "時間遵守はいい習慣です。引き続きよろしくお願いします",
+        "Being punctual is a good habit to have, so please keep it up."
+      ],
+      "details": [
+        "你在看什么？赶紧回到自己的岗位上吧。",
+        "何を見ているのですか？持ち場に戻ってください",
+        "Just what are you looking at? You ought to hurry up and return to your post."
+      ],
+      "secretaryIdle1": [
+        "累了的话就休息一下吧，要是你倒下了，指挥工作就麻烦了。",
+        "疲れを感じているのでしたら休んでください。指揮官に倒れられたら艦隊の指揮が大変になります",
+        "If you are tired, please take a break. If you were to collapse, the command chain would follow suit."
+      ],
+      "secretaryIdle2": [
+        "对我来说，无论身处何方，名为何物，只要我还活着，我就会继续战斗。",
+        "どこにいようが、どんな名前で呼ばれようが、生きている限りわたしは戦います",
+        "For me, no matter where I am, or what I am called, I will continue to fight on as long as I live."
+      ],
+      "secretaryIdle3": [
+        "我为战争而生，为和平而死。除此之外，我不去考虑。",
+        "戦争のために生まれ、平和のために沈む――わたしが考えていることはそれだけです",
+        "I was born for battle and died for peace. Other than this fact, I won't dwell on anything else."
+      ],
+      "secretaryTouch": [
+        "有什么任务吗？",
+        "ご指示はありますか？",
+        "What tasks are there?"
+      ],
+      "secretarySpecialTouch": [
+        "想去军事法庭了吗？",
+        "軍事法廷に出廷したいのですか？",
+        "Do you want to pay a visit to the court martial?"
+      ],
+      "secretaryHeadpat": [
+        "这是……什么意思？",
+        "これは……どういう意味ですか？",
+        "What is... the meaning of this?"
+      ],
+      "task": [
+        "身为指挥官，你应当完成这些任务才是。",
+        "指揮官として、これらの任務をこなすべきです",
+        "As a commander, it is only fitting that you complete these tasks."
+      ],
+      "taskComplete": [
+        "任务完成了，不过你的职责可不仅于此。",
+        "任務が完了しました。……指揮官の責務はこれだけではありませんが",
+        "Mission complete. However, your work doesn't end there."
+      ],
+      "mail": [
+        "有邮件，指挥官。",
+        "メールです。指揮官",
+        "Commander, there's mail for you."
+      ],
+      "returnFromMission": [
+        "按照预定的时间回来了呢，不过还没到放松的时候，指挥官。",
+        "時間どおりご帰還されましたね。ですが、まだ気を緩める時間ではありませんよ。指揮官",
+        "I see you've returned at the scheduled time, Commander. However, you can't afford to take it easy just yet."
+      ],
+      "commission": [
+        "有委托完成了，指挥官。",
+        "委託が完了しました。指揮官",
+        "Commander, a commission has finished."
+      ],
+      "strengthening": [
+        "战力的强化也是战斗中重要的一环。",
+        "戦力の強化も大事です",
+        "Strengthening combat effectiveness is also an important link when it comes to battle."
+      ],
+      "startingMission": [
+        "准备迎敌。",
+        "迎撃、用意！",
+        "Prepare to meet the enemies."
+      ],
+      "mvp": [
+        "真是一次完美的战术配合，下次继续保持吧。",
+        "いいコンビネーションでした。次もよろしくお願いします",
+        "This is a fine example of tactical synergy. Let's keep it up."
+      ],
+      "defeat": [
+        "战略性撤退……",
+        "戦略的撤退……",
+        "Strategic retreat..."
+      ],
+      "skillActivation": [
+        "停止无谓的争斗吧！",
+        "無駄な争いは止めてください！",
+        "Let's put this needless battle to an end!"
+      ],
+      "lowHP": [
+        "损伤确认，作战继续。",
+        "損傷確認、戦闘続行…！",
+        "Damage confirmed, continuing combat."
+      ],
+      "affinityDisappointed": [
+        "无能者终将被时间所过滤，你也一样。",
+        "無能者は時代に置いていかれます。あなたも…同じ",
+        "The incompetent will be weeded out by time. You are no exception."
+      ],
+      "affinityStranger": [
+        "只要一直赢下去，战斗就会结束吗？比起寻找这个问题的答案，专注于赢下眼前的战斗更为实际。",
+        "勝ち続ければ戦争は終わるか…この問題の答えを探すことより、目の前の戦いに勝つことに集中したほうが合理的です",
+        "As long as we keep on winning, will we be able to bring an end to the war? Rather than searching for the answer to that question, it would be more practical to focus on winning the battles ahead of us."
+      ],
+      "affinityFriendly": [
+        "“战争结束之后的打算？”我没有考虑过这个问题，也从来没想过去考虑。不过，你为什么要突然问这个……",
+        "戦争が終わったら何をしたいか……考えたことはありませんし、考えるつもりもありません。しかし、どうして急にこれを…？",
+        "\"What do I plan to do after the war is over?\" Hmm... I've never given this much thought, nor have I wanted to. However, why did you bring it up all of a sudden?"
+      ],
+      "affinityLike": [
+        "最近做了一个很奇怪的梦，梦到我不再战斗了，还和一个熟悉的人手牵着手在港口边散步……有，有，有什么好笑的！",
+        "変な…夢を見ました。もう戦わなくなったわたしが、よく知っている人と手を繋いだまま母港で散歩して……ど、どこかおかしいですか！？",
+        "Recently, I had a strange dream. I dreamt that I wasn't on the battlefield, but instead taking a walk along the port, hand-in-hand with someone close to me... Wh-what's so funny?"
+      ],
+      "affinityLove": [
+        "和姐妹们聊过了，我才发现，要是战争真的结束了，我真的什么都不会了——会和我一起，手把手教我？嗯，这样的话就没问题了呢……欸欸欸？？？",
+        "皆に相談してようやくわかりました。戦争が本当に終わったら、何一つできなくなったわたしは……その時は側にいてわたしに色々教えてくださるのですか？そうですね、確かにそれでしたら……えええ！？",
+        "After discussing things with my sisters a bit, I realized that if the war actually ended, I wouldn't know how to do anything else... Eh, you'd stay with me and teach me yourself... so there would be no problem? E-ehhh?"
+      ],
+      "pledge": [
+        "这，这就是誓约的戒指……真的，我从来没想过我自己会有这么一天。但是，我现在是真的真的非常开心，心里感觉真的好幸福。这就是姐妹们说的……爱一个人吧？……你，你别笑啊！",
+        "こ、これは誓いの指輪……こんな時があるなんて夢にも見たことがありませんでした…で、でも今はすごく、すごく嬉しくて、幸せで……これが皆が言ってた「恋」……わ、笑わないでください！",
+        "S-so this is a promise ring... Really, I never could have imagined that this would happen to me... However, I'm truly, truly happy, from the bottom of my heart. Is this... the \"love\" that my sisters were talking about? Hey... don't laugh!"
+      ],
+      "giftDescriptionValentines2019": [
+        "姑且试着认真做了，不过果然还是不太擅长啊，只能送指挥官这样的巧克力了…别、别笑了！下次一定会做得更好的！",
+        "一通り頑張りましたけど、やはりまだコツを掴めていないのですね。こんな出来で申し訳ございません。…次はちゃんとしたチョコを作ります…絶対に！",
+        "I did the best I could, but I guess I still don't know the trick to making chocolate. I'm sorry for how shabby it is... But next time, I'll make some proper chocolate... I promise you!"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I made you some Dragon Empery-style chocolate. They used to call it something different, but I wonder if they still use that name... I should've looked into it, but I didn't have enough time this year!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Kimberly_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Kimberly_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Kimberly_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/64/Kimberly_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kimberly_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/64/Kimberly_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Kimberly_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Kimberly_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Kimberly_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Kimberly_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Kimberly_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Kimberly_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kimberly_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kimberly_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2c/Kimberly_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kimberly_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kimberly_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b6/Kimberly_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kimberly_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kimberly_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Kimberly_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kimberly_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kimberly_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Kimberly_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kimberly_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kimberly_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Kimberly_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kimberly_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kimberly_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/Kimberly_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/26/Kimberly_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Kimberly_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/26/Kimberly_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kimberly_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kimberly_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Kimberly_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kimberly_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kimberly_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Kimberly_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Kimberly_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Kimberly_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Kimberly_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Kimberly_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Kimberly_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Kimberly_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Kimberly_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Kimberly_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Kimberly_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Kimberly_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Kimberly_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Kimberly_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Kimberly_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Kimberly_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Kimberly_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Kimberly_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Kimberly_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Kimberly_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Kimberly_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Kimberly_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Kimberly_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kimberly_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kimberly_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Kimberly_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Kimberly_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Kimberly_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Kimberly_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kimberly_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kimberly_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Kimberly_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0f/Kimberly_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Kimberly_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0f/Kimberly_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kimberly_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kimberly_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Kimberly_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Kimberly_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Kimberly_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Kimberly_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/Kimberly_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Kimberly_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/Kimberly_PledgeJP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Style of the East",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "东煌之风",
+      "CNClientAvailability": "Event Limited",
+      "JPClientName": "安陽の異文化勉強",
+      "JPClientAvailability": "Event Limited",
+      "obtainedFrom": "Lunar New Year 2019 - Complete 10 laps in the board game",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/80/KimberlySpring.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/47/KimberlySpringChibi.png",
+      "shipDescription": [
+        "换上一身东煌的服装，让人不禁想起在东煌的那段日子…呵呵，指挥官，白鹰的造型和东煌的造型，你更喜欢哪个呢？",
+        "東煌の衣装を着ていると、あの頃のことを思い出しますね…指揮官、ユニオンの衣装と東煌の衣装、どっちのほうが好きですか？",
+        "While wearing clothes from the Dragon Empery, I can't help but reminisce about those days... Hehe, Commander, do you prefer me in Empery-style clothes, or Union-style clothes?"
+      ],
+      "acquisition": [
+        "换上一身东煌的服装，让人不禁想起在东煌的那段日子…呵呵，指挥官，白鹰的造型和东煌的造型，你更喜欢哪个呢？",
+        "東煌の衣装を着ていると、あの頃のことを思い出しますね…指揮官、ユニオンの衣装と東煌の衣装、どっちのほうが好きですか？",
+        "When I change into clothes from the Dragon Empery, I can't help but to reminisce about the time I spent there... Commander, which style of clothes do you prefer - Union, or Empery?"
+      ],
+      "login": [
+        "东煌有句古话：“一日之计在于晨”，不过，无论是不是早上，好的开头都是很重要的呢，您不觉得吗，指挥官？",
+        "東煌では「一日の計は朝にあり」という諺がありますね。でも、朝じゃなくても、始まりはいい始まりであってほしいものです。指揮官もそう思いませんか？",
+        "There is a proverb from the Dragon Empery: \"A day's plans begin in the morning.\" Even if it's not the morning though, don't you think it's important to start off on the right foot, Commander?"
+      ],
+      "details": [
+        "东煌和白鹰，还是有许多的不同呢。不过，无论在哪，大家对于美好明天的渴望都是一样的",
+        "東煌とユニオンはやはり違うところがいっぱいありますね。ですが、どこの所属だろうといい明日を求める気持ちはみんな同じです",
+        "There are many differences between the Eagle Union and the Dragon Empery, but the one thing that doesn't change no matter where you are is everyone's desire for a better future."
+      ],
+      "secretaryIdle1": [
+        "东煌的伙伴们和我讲了很多有趣的传说呢",
+        "東煌の仲間たちから面白い昔話をたくさん聞かされました",
+        "My friends from the Dragon Empery told me about a lot of fascinating legends! Commander, do you want to hear them too?"
+      ],
+      "secretaryIdle2": [
+        "最近试着学了笛子，指挥官要听听吗？…可不能笑哦！",
+        "最近は笛を勉強していますね。指揮官は聞きたいですか？……わ、笑わないでくださいね！",
+        "Recently, I tried to learn the bamboo flute. Commander, want to give it a listen?"
+      ],
+      "secretaryIdle3": [
+        "唔…毛笔字，好难写啊…",
+        "ん……筆で字を書くのは難しいですね……",
+        "Ugh... calligraphy is really difficult..."
+      ],
+      "secretaryTouch": [
+        "还有不少工作未完成呢…不过没关系，一起努力吧，指挥官！",
+        "仕事はまだ結構残っていますね……でも大丈夫、指揮官、一緒に頑張りましょう！",
+        "There's still a lot of work left to do... but don't worry, Commander! Let's knock it out together!"
+      ],
+      "secretarySpecialTouch": [
+        "指挥官…做这种事情是要被抓起来的哦？",
+        "指揮官…こんなことをするとつかまっちゃいますよ？",
+        "Commander... you could go to jail for this, you know?"
+      ],
+      "secretaryHeadpat": [
+        "指……指挥官，团子会乱掉的……",
+        "し、指揮官……お団子が潰れちゃいますよ……",
+        "C-Commander, the buns are going to get messed up..."
+      ],
+      "task": [
+        "明日复明日，明日何其多…今天的任务就不要等到明天了吧",
+        "「明日の次にはまた明日、明日だけ待つ人生は万事蹉跌（さてつ）するだろう」…今日の任務は明日に残さないようにね",
+        "If you put things off for tomorrow, you'll find that there's always another tomorrow. That's why you shouldn't put off today's missions for tomorrow."
+      ],
+      "taskComplete": [
+        "任务完成了呢。指挥官，休息一下吧？",
+        "任務が完了しました。指揮官、休憩しませんか？",
+        "Mission complete. Commander, want to take a break?"
+      ],
+      "returnFromMission": [
+        "每次回港都让人感到万分安心呢，这就是“家”的感觉吧？",
+        "母港に戻ってくる度に落ち着いた気持ちになりますね。これが「お家」というものでしょうか",
+        "Every time I return to port, I feel a wave of relief wash over me. Is this what \"home\" is?"
+      ],
+      "affinityLove": [
+        "在您身边工作时，总会感觉精力焕发，事半功倍呢。或许…这就是指挥官的魅力吧？呵呵…",
+        "指揮官の側で仕事していると、なんだかすごくやる気が湧いて効率も良くなりますね。これは…指揮官の魅力なのでしょうか。ふふふ",
+        "When I'm with you, I feel energized and my productivity goes through the roof. Perhaps... this is your magic spell? Hehe~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Kimberly_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Kimberly_IntroSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Kimberly_IntroSkin2JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Kimberly_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Kimberly_LogSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Kimberly_LogSkin2JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Kimberly_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Kimberly_DetailsSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Kimberly_DetailsSkin2JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Kimberly_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Kimberly_SecIdle1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Kimberly_SecIdle1Skin2JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Kimberly_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Kimberly_SecIdle2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Kimberly_SecIdle2Skin2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Kimberly_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Kimberly_SecIdle3Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Kimberly_SecIdle3Skin2JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Kimberly_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Kimberly_Sec1Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Kimberly_Sec1Skin2JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Kimberly_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Kimberly_Sec2Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Kimberly_Sec2Skin2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Kimberly_HeadpatSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Kimberly_HeadpatSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Kimberly_HeadpatSkin2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Kimberly_TaskSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Kimberly_TaskSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Kimberly_TaskSkin2JP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kimberly_TaskCSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kimberly_TaskCSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Kimberly_TaskCSkin2JP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Kimberly_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Kimberly_MissionFinSkin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Kimberly_MissionFinSkin2JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Kimberly_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Kimberly_Affinity4Skin2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Kimberly_Affinity4Skin2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,385 @@
+{
+  "name": "Kumano",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Elite",
+  "shipClass": "Mogami",
+  "ID": "469",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "ぴょん吉",
+  "pixiv": "https://www.pixiv.net/en/users/197076",
+  "twitter": "https://twitter.com/pyon_kti",
+  "voiceActor": "https://en.wikipedia.org/wiki/Azumi_Waki",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4141,
+      185,
+      10,
+      237,
+      212,
+      82,
+      27,
+      215,
+      0,
+      11,
+      129,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3680,
+      161,
+      10,
+      206,
+      184,
+      36,
+      27,
+      187,
+      0,
+      11,
+      115,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      712,
+      68,
+      10,
+      44,
+      39,
+      14,
+      27,
+      40,
+      0,
+      3,
+      44,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA",
+  "slot1Efficiency": "125% → 135%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "140% → 145%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "95% → 110%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 12,
+  "maxLimitBreakTechPoints": 24,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Firepower  +1",
+  "level120TechPoints": 18,
+  "enhancementValue": [
+    24,
+    13,
+    0,
+    13
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Unlock All Out Assault I / Main Gun Efficiency +5%",
+  "limitBreak2": "Torpedo Base +1 / Torpedo Preload +1 / Anti-Air Gun Efficiency +10%",
+  "limitBreak3": "Improve All Out Assault I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Veil of Night; CN: 事不过三！",
+  "skill1Description": "After taking damage three times, reduce own damage taken by 3.5% (8.0%) for the rest of the battle. On the 2nd, 4th, and 6th battle of each sortie, 60 seconds after the battle starts, heal this ship for 4.0% (10.0%) of its max HP. If there is at least one other ship in the same fleet as this ship: improve this ship's All Out Assault.",
+  "skill2Name": "AP Protection; CN: 穿甲防护 JP: 徹甲弾防御",
+  "skill2Description": "Reduce AP damage taken by self by 10.0% (20.0%).",
+  "skill3Name": "All-Out Assault; CN: 全弹发射II JP: 全弾発射-鈴谷型Ⅱ",
+  "skill3Description": "Activates All Out Assault I (II): Suzuya-class once every 9 (6) times the Main Guns are fired.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/38/Kumano.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/73/KumanoChibi.png",
+      "shipDescription": [
+        "猨级重巡洋舰四番舰—猁",
+        "最上型重巡洋艦四番艦・熊野",
+        "Mogami-class heavy cruiser number four – Kumano."
+      ],
+      "selfIntroduction": [
+        "我是猨型重巡洋舰猁！在大战中曾经作为第七舰队的一员努力过哦！怎么说呢，虽然在那个岛，以及最后的时刻发生过不少事情…算啦，这次会和小伙伴们全力以赴加油努力的，还请多多关照啦！",
+        "最上型重巡洋艦の熊野よ！かの大戦では第七戦隊のメンバーとして、マジで頑張った！まああの島、そして最後は色々あったけど……今度こそ仲間たちと一緒に全力で頑張っちゃうから、よろしくぅ！",
+        "Name's Kumano, Mogami-class heavy cruiser! Back in the war, I was Cruiser Division 7, workin' my ass off! Shame about what happened at the island in you-know-where, though... Welp, no point crying over spilt milk. Just gotta do better this time."
+      ],
+      "acquisition": [
+        "锵~！重巡猁，来报道啦~！指挥官，多多指教~",
+        "じゃーん！重巡熊野、参上したよー！指揮官、よろしく～",
+        "Bam! Heavy cruiser, Kumano, ready for action~! Commander, pleased to meetcha~!"
+      ],
+      "login": [
+        "哦哦指挥官来啦！所以~今天要做什么？和猁一起去哪玩玩？啧，要工作吗…",
+        "おお指揮官来た来た！んで？今日はどうする？熊野と遊んでくれる？ 仕事かぁ…",
+        "There you are, Commander! Nice, nice! So, what's up today? We hangin' out together? Just work? Figures..."
+      ],
+      "details": [
+        "指挥官，和猁一起玩嘛~啊！要给我糖吃吗？那不用一起玩也没事啦！啊~呣！",
+        "しきかーん、熊野と遊んでぇ～あ！アメさんくれんの？じゃあ遊ばなくていいや！はむ！",
+        "Yo, Commander! Hang out with me, now! Oh, is that a lollipop for me? 'Kay, some other time then! Nom!"
+      ],
+      "secretaryIdle1": [
+        "噢，战斗的时候很认真？那是~猁可是该干的时候就能好好干的类型呢。",
+        "おっ、戦闘の時はしっかりしてるって？熊野はやる時はやるタイプだからね",
+        "Huh? Me takin' the battle seriously surprised you? Well, yeah, I get serious when the situation demands it."
+      ],
+      "secretaryIdle2": [
+        "指挥官~喜欢什么类型的女孩子呀？难道…猁也有机会…？啊哈☆",
+        "指揮官さあ、どんな子がタイプ？ま・さ・かー熊野もワンチャンあったりして？あは☆",
+        "So, Commander, what kinda girls do ya like? Wait, lemme guess, I'm your type, aren't I? Ahah!"
+      ],
+      "secretaryIdle3": [
+        "超闲…指挥官，我叫狺过来好不好？想商量下下次出门买东西的事～",
+        "マジ暇……しきかーん、鈴谷呼んできてくんない？今度買い物に行くときの相談したいからさ～",
+        "Soooo bored... Hey, could ya get Suzuya up in this place? I wanna chat with her about my next shopping trip."
+      ],
+      "secretaryTouch": [
+        "啊哈~刚才指挥官偷偷看我了吧？呼呼呼，不用这么藏着掖着，正・大・光・明地看就好了嘛♡",
+        "はぁ～ん、今ここをチラッと見たでしょ？ふふふ、そう隠さなくていいって、ガン見してもい・い・わ・よ♡",
+        "Well, well! Caught you admirin', Commander! Hehehe, you don't gotta act innocent. If you wanna stare, stare all ya want!"
+      ],
+      "secretarySpecialTouch": [
+        "哼~果然指挥官也喜欢这样啊~没关系哦，只是这点程度的话，随便你~♡",
+        "ふーん、やっぱこういうのが好きなんだ～いーよ、そんぐらいは好きなだけ触らせてあげる～♡",
+        "Weeeell, someone's feeling frisky, huh? Totes fine with me. Go on, touch me 'till you're content~♡"
+      ],
+      "task": [
+        "任务啊…应付这种还是狺更拿手啊…",
+        "任務か…こういうの鈴谷のほうが得意ね…",
+        "Ugh, missions? You're probs better off hittin' up Suzuya..."
+      ],
+      "taskComplete": [
+        "好困……呜哇糟糕，任务奖励来啦！喂~！",
+        "ねむーい…うわやばっ、任務報酬来てんじゃん！おーい！",
+        "Sooo tireeed... Oh, crap! Hey, unclaimed mission rewards! C'mon, man!"
+      ],
+      "mail": [
+        "私信…不对，是邮件来啦！指挥官，不可以假装已读哦！",
+        "DM…じゃなかった、メール来たよ！指揮官、既読スルーはなしだからね！",
+        "You've got a new DM– Err, I mean, new mail! And don't go ghosting whoever sent it!"
+      ],
+      "returnFromMission": [
+        "战斗反省？挺好的，去吧~？欸，要猁来做吗？",
+        "戦闘の振り返りをすんの？いーよ、やってー？えっ、熊野がやるの？？",
+        "You gonna review that last battle? Aight, cool, go ahead. Wait, I'm the one who's gotta do it?"
+      ],
+      "commission": [
+        "委托组回来了哦~不赶紧去迎接她们可不行啊~！",
+        "委託組帰ってきたよー出迎えに行かないとダメっしょ！",
+        "Commission team's back, yo. Don't got time for rhymes, but let's go!"
+      ],
+      "strengthening": [
+        "哦哦！搞不好出击的机会要变多了？",
+        "おお！ワンチャン出番が増えたり？",
+        "Sweet! This'll get me more time in the limelight, yeah?"
+      ],
+      "startingMission": [
+        "发现敌舰！这下只能干一架了吧！",
+        "敵艦見ゆ！こういうの戦うしかないっしょ！",
+        "Enemies spotted! Guess we're rollin' up our sleeves and squarin' off!"
+      ],
+      "mvp": [
+        "猁，MVP！嘿嘿~快夸我快夸我~！",
+        "熊野、MVP！よっしゃー褒めて褒めてー！",
+        "MVP, baybee! Hell yeah! Give it up for Kumano!"
+      ],
+      "defeat": [
+        "这还怎么打呀~",
+        "やってらんないよー",
+        "Payback's-a comin', ya hear?!"
+      ],
+      "skillActivation": [
+        "我可要认真揍你了哦！",
+        "マジボコってやるよ！",
+        "It's ass-whoopin' time!"
+      ],
+      "lowHP": [
+        "一定要…回到港区…！",
+        "母港には…絶対に戻る！",
+        "I'll return to port if it's the last thing I do!"
+      ],
+      "affinityDisappointed": [
+        "指挥官…不太行啊感觉~啊不是批评你啦，只不过我也有点小想法而已～",
+        "指揮官ってイケてないね～いやまあ、別に責めてるわけじゃないけどさぁ～ほら、私も色々と考えることがあるじゃん？",
+        "You're lame, you know that? Not tryin' to be mean, or anything, just saying. Listen, I've got a couple ideas for how to unlamify you."
+      ],
+      "affinityStranger": [
+        "指挥官~好闲啊~做点什么嘛~真是的，有什么关系嘛！又不会少块肉~啊，好疼！",
+        "しきかーん、ひまー、なんかやって～もう、別にいいじゃん！減るもんじゃないしさあ～あいたっ！",
+        "Commandeeeeer, I'm boooored, let's do somethiiiing. Yeah, it's candy, so what? Not like I'll turn into a lardo from a single– Hey, oww!"
+      ],
+      "affinityFriendly": [
+        "指挥官～猁一个人好寂寞啊～什么都行来玩玩吧～ 找别人？好过分！猁就是想找指挥官玩嘛～来啦来啦！",
+        "しきかーん、熊野寂しくなったー、なんでもいいから遊んで～ほかの人にしてって？ひどっ！指揮官のほうがいいんだもん！ほらほら！",
+        "Commandeeeer, I'm lonelyyyy. We can do whatever, just hang out with meeee. \"Find someone else?\" Wow, rude much? I wanna hang with you! C'mooon!"
+      ],
+      "affinityLike": [
+        "能陪猁一起玩？太棒了！一开始就这么说不就好了～于是去哪玩呢？就我们两・个・人♡",
+        "熊野と遊んでくれるの？やったぁ！最初から素直になりゃよかったのに～んで？どこ行く？ふ・た・り・で♡",
+        "You'll finally hang with me? Hell yeah! Wish you would've just said so from the beginning! Anyway, where we goin'? Y'know, just the two of us~♡"
+      ],
+      "affinityLove": [
+        "指、指挥官喜欢猁吗！？是这样啊……其实猁也喜欢指挥官哦…？诶，是说正经的啦！",
+        "く、熊野のことが好きなの！？そうなんだ……実は熊野も指揮官のことが大好きだよ…？ま、マジだってば～！",
+        "Y-you really like me?! Really, huh... Thing is, I actually love you, Commander... Seriously, though! I do!"
+      ],
+      "pledge": [
+        "呃，“互相信赖，互相帮助……”后面是什么来着？啊啊这东西又长又不好记，而且在别人面前说也太羞耻了吧！跳过这个直接回房间去吧？亲爱的也没问题吧！",
+        "ええと、「お互いを信じあって、支え合って…」あとはなんだっけ？もう長くて覚えられないし、こういうの人の前で恥ずしすぎてやってられないってばー！もうすっ飛ばして部屋に戻ろ？ダーリンもそれでいいよね？",
+        "Uhh, \"I take you, to have and to hold, from this day forward\"... How'd the rest go? Agh, screw it, it's too long and I'm makin' a fool of myself in front of everyone! You don't mind if we bail and go straight to our room, right, darling?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Mogami) 猨姐，和猁玩啦！",
+        "(Sortie with Mogami) 最上姉さん、熊野と遊んで―",
+        "(Sortie with Mogami) Yo, Mogami, let's hang out later!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Suzuya) 狺，那边就交给你了！",
+        "(Sortie with Suzuya) 鈴谷、そっちは頼む！",
+        "(Sortie with Suzuya) Suzuya, you take that one!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with Fiji) 这个妆画得不错嘛！",
+        "(Sortie with Fiji) そのメイク結構イケてるじゃん！",
+        "(Sortie with Fiji) Hot damn, your makeup game is on point!"
+      ]
+    },
+    {
+      "ENClientName": "Fancy Waves",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "Fancy Wave",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "ファンシーウェーブ",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0d/KumanoSummer.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/aa/KumanoSummerChibi.png",
+      "shipDescription": [
+        "猁~以泳装之姿闪亮登场！开玩笑的☆ 那边的指挥官~眼睛盯·在·哪·里了~？哈哈♡",
+        "熊野の水着姿、新登場！んなんちゃって☆あそこにいる指揮官は～ど・こ・に目を釘付けにしてんのぉ～あは♡",
+        "It's time for Kumano's sexy swimsuit debut~! Just kidding~☆ Hey Commander, just where~ are~ you~ staring~? Ahaha~♡"
+      ],
+      "acquisition": [
+        "猁~以泳装之姿闪亮登场！开玩笑的☆ 那边的指挥官~眼睛盯·在·哪·里了~？哈哈♡",
+        "熊野の水着姿、新登場！んなんちゃって☆あそこにいる指揮官は～ど・こ・に目を釘付けにしてんのぉ～あは♡",
+        "It's time for Kumano's sexy swimsuit debut~! Just kidding~☆ Hey Commander, just where~ are~ you~ staring~? Ahaha~♡"
+      ],
+      "details": [
+        "露出度太高？没感觉哦～你看潜艇小伙伴们的衣服不是更危险～",
+        "露出度が高いって？別にぃ～だって潜水艦の子たちとかもっとアブないのもいるじゃんさ～",
+        "This is too revealing? Meh, not really~? I've seen submarines wearing more risqué stuff than this."
+      ],
+      "secretaryIdle1": [
+        "指挥官，在那边愣什么呢？快来这边啊！喂～",
+        "しきかーん、なにやってんの？早くこっちに来ようよ！おーい！",
+        "Commandeeeer, what're you up to? Get over here already, c'mooon!"
+      ],
+      "secretaryIdle2": [
+        "猨姐的泳装…想看哦！想看对吧？猁可是很想看的！指挥官呢？嗯？",
+        "最上姉さんの水着姿…見たい！見たいよね？熊野は見たいけど！指揮官は？ね？",
+        "I wanna see Mogami in a bikini! Don't you? I do, at least! And you? Same, right?"
+      ],
+      "secretaryIdle3": [
+        "累死啦～指挥官快给我揉揉肩揉揉脚～对不起那个地方不用揉啦！",
+        "疲れたぁ～しきかーん、足揉んでぇ肩揉んでぇ～スミマセンそこは揉まなくていいからぁ！",
+        "Phew, I'm tired! Commandeeeer, massage my feet and shoulders! ...Err, I didn't ask you to massage THOSE!"
+      ],
+      "secretaryTouch": [
+        "糖果？这是猁自己拿到的，不给你！哈哈哈！",
+        "アメさん？これ熊野がもらったんだからあげないもーんだ！ははは！",
+        "Candy? Nuh-uh, this is mine, and I ain't givin' it away! Hahahah!"
+      ],
+      "secretarySpecialTouch": [
+        "果然指挥官很在意这・里・呢♡真像个小孩子～",
+        "やっぱ気になるんだ～こ・こ♡　もう子供っぽいんだから～",
+        "Hah, I knew this would catch your eye! You're like a little kid~"
+      ],
+      "affinityLove": [
+        "指挥官～猁的泳装你觉得怎么样？再靠近一点看也没问题哦？嘿嘿嘿，呼…猁这回可是玩真的哦♡",
+        "しきかーん、熊野の水着姿はどぉ？もっと近くで見てもいーよ？ほーら、ひゅー…熊野はマジで魅せてるつもりよ？",
+        "Yo, Commandeeer, how'd ya like my bikini? Come closer if ya need a better look~ Yeah, you bet I'm tryin' to hit on you."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

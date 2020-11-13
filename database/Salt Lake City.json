@@ -1,0 +1,462 @@
+{
+  "name": "Salt Lake City",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "rarity": "Normal",
+  "shipClass": "Pensacola",
+  "ID": "040",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "紫瑟",
+  "pixiv": "https://www.pixiv.net/member.php?id=2893535",
+  "twitter": "https://twitter.com/287764380",
+  "link": "http://weibo.com/u/2193276854",
+  "voiceActor": "https://en.wikipedia.org/wiki/Manaka_Iwami",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3290,
+      160,
+      71,
+      232,
+      0,
+      55,
+      26,
+      198,
+      0,
+      9,
+      118,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      2911,
+      139,
+      71,
+      202,
+      0,
+      23,
+      26,
+      172,
+      0,
+      9,
+      101,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      563,
+      59,
+      71,
+      43,
+      0,
+      9,
+      26,
+      37,
+      0,
+      2,
+      39,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "100% → 120%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "40% → 45%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 11,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Anti-air  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    23,
+    0,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Main Gun Mount +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Full Firepower; CN: 火力全开 JP: 火力全開",
+  "skill1Description": "Every 20 seconds, 30% (60%) chance to increase own Firepower by 20% (40%) for 10 seconds.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ペンサコーラ級",
+  "skill2Description": "Every 12 (8) times the main gun is fired, triggers Full Barrage - Pensacola Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/09/Salt_Lake_City.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/49/Salt_Lake_CityChibi.png",
+      "shipDescription": [
+        "彭萨科拉级重巡洋舰—盐湖城，舷号CA-25",
+        "ペンサコーラ級重巡洋艦・ソルトレイクシティ（CA-25)",
+        "Pensacola-class Heavy Cruiser – Salt Lake City, Hull Number CA-25!"
+      ],
+      "selfIntroduction": [
+        "彭萨科拉级重巡洋舰二号舰“盐湖城”号，嗯，毫无疑问是重巡洋舰哦。虽然因为条约的关系装甲（衣服）较薄，但火力可没有下降哦。参与了太平洋战争中的诸多战斗，并且成功存活到了最后，所以说装甲（衣服）根本没有大用嘛。科曼多尔？运气也是实力的一部分嘛。不，我才没再狡辩，难道指挥官想让我穿的和拉菲一样多吗？",
+        "私はペンサコーラ級重巡二番艦のソルトレイクシティ、はい、正真正銘の重巡洋艦よ。条約の関係で装甲が薄いけど、火力は落ちていないわ。まぁ、装甲も太平洋で多くの戦いに参加して、最後まで生き延びたから別にそこまで大変じゃなかったかも。アッツ島沖海戦？あれは運も実力のウチよ？…いや別に言い訳してないよ？それとも指揮官は、私もラフィーちゃんと同じくらい着込んだほうがいいの？",
+        "I'm Salt Lake City, second ship of the Pensacola-class. That's right, I'm a genuine heavy cruiser. My armor's thin because of that treaty thing, but my firepower holds up. Although, I participated in lots of battles in the Pacific and survived to the end of it, so maybe armor isn't that important. The battle of Attu Island? Luck is a power of sorts too, you know? ... No, no, I'm not arguing. Anyway, do you really want me to wear as much as Laffey does?"
+      ],
+      "acquisition": [
+        "指挥官，我是“盐湖城”号重巡洋舰！衣服很薄？因为得严格控制体重嘛",
+        "指揮官、私は重巡・ソルトレイクシティ!露出が高い？まあ、ウェイトコントロールは意識するでしょ！",
+        "Commander, I'm Salt Lake City, a heavy cruiser! You think I'm exposing too much? Well, I gotta keep a close eye on my waist, you know?"
+      ],
+      "login": [
+        "指挥官，要来一起游泳吗？",
+        "指揮官、一緒に泳ぎに行かない？",
+        "Commander, want to go swimming together?"
+      ],
+      "details": [
+        "即便只是静静躺在海面上，有时也会遇到好事呢",
+        "海に浮いているだけでも時々いいことがあるよね！",
+        "Sometimes good things happen when you're just coasting across the sea."
+      ],
+      "secretaryIdle1": [
+        "指挥官，不会游泳的话我可以教你哦",
+        "指揮官がカナヅチなら泳ぎを教えてあげる",
+        "If you don't know how to swim then I can teach you, Commander."
+      ],
+      "secretaryIdle2": [
+        "炮击基斯卡岛？啊哈哈，那也是新奇的体验嘛",
+        "キスカ島砲撃？あはは…まああれはあれで新しいんじゃない？",
+        "Shell Kiska Island? Ahaha... that'd be a new experience for me."
+      ],
+      "secretaryIdle3": [
+        "企业大姐太严格了，指挥官可不要学她",
+        "エンタープライズの姉貴は厳しすぎるから、指揮官は真似しないほうがいいよ",
+        "Enterprise is too strict. Please don't be like her, Commander."
+      ],
+      "secretaryTouch": [
+        "诶，是指挥官呀，我还以为是彭萨科拉姐姐呢",
+        "あ、指揮官じゃん。ペンサコーラ姉だと思った…",
+        "Oh, it's you, Commander. I thought it was Pensacola..."
+      ],
+      "secretarySpecialTouch": [
+        "喂，不要做和彭萨科拉姐姐一样的事啊",
+        "おーい、ペンサコーラ姉と同じことするんじゃないぞー",
+        "Hey, don't do the same stuff Pensacola does..."
+      ],
+      "secretaryHeadpat": [
+        null,
+        null,
+        "Your hand feels just like Pensacola's..."
+      ],
+      "task": [
+        "不要理那些任务了，我们去参加party吧！",
+        "任務はいいからパーティに行こうよ！",
+        "Who cares about missions, let's party!"
+      ],
+      "taskComplete": [
+        "现在可以去参加party了吗？",
+        "これでパーティに行けるの？",
+        "Can we go join the party now?"
+      ],
+      "mail": [
+        "新的信件？好像不是情书呢，唔……垃圾桶在哪？",
+        "新しいメールよ？あら？ラブレター？…ふむ、ゴミ箱はどこだっけ？",
+        "New mail for you. Oh my, is this a love letter? ... Hmm... Okay, now where's the trashcan?"
+      ],
+      "returnFromMission": [
+        "哇，皮肤都被晒伤了。女灶神，能帮我做次SPA吗？",
+        "あちゃー、肌焼けたしー…ヴェスタルごめん、スパをお願いできる？",
+        "Oh man, my skin is on fire... Sorry, Vestal, think I could ask for a spa treatment from you?"
+      ],
+      "commission": [
+        "唔，在暴晒的阳光下完成了委托呢，真是辛苦了",
+        "ふー、あの子たち、こんな炎天下の日に委託に行ってたのね。で委託を完成したのね。大変～",
+        "Whew, those girls went out on a commission in this blazing heat? They even completed it, too. Must be awful out there~"
+      ],
+      "strengthening": [
+        "美少女的仪容得仔细保养呢",
+        "アメリカンガールも、肌荒れに気をつけないと",
+        "Us pretty girls need to take care to maintain our good looks."
+      ],
+      "startingMission": [
+        "对面并非友军，全武装准备！",
+        "向こうは味方じゃないわ。全砲門発射用意！",
+        "Those aren't allies up ahead. Ready all weapons!"
+      ],
+      "mvp": [
+        "这次可不是运气！",
+        "今度は運じゃない、よ！",
+        "This time it wasn't just all luck!"
+      ],
+      "defeat": [
+        "呜哇！穿甲弹已经没有了……可恶！",
+        "うわああ！徹甲弾が切れちゃった……もう！",
+        "Wuah! I'm out of armor-piercing shells... damn!"
+      ],
+      "skillActivation": [
+        "进攻是最好的防守！",
+        "攻撃こそ最大の防御!",
+        "The best defense is a good offense!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官的眼神，有点恶心……",
+        "指揮官の目、ちょっと気持ち悪いかも……",
+        "Commander, that look in your eyes kinda creeps me out..."
+      ],
+      "affinityStranger": [
+        "海伦娜，能靠你的索敌帮我找点有趣的事情吗？诶……那是圣地亚哥？太好了，我们一起去玩水吧！",
+        "ヘレナ、レーダーで何か面白いこと探してもらえない？え……あれはサンディエゴ？よぉし、一緒に水遊びに行こうよ！",
+        "Helena, could you go find something interesting with that radar of yours? Wait... that's San Diego? Great, let's go play in the water together!"
+      ],
+      "affinityFriendly": [
+        "指挥官，躺在沙滩上很没意思吧，快起来和我一起打排球！晒伤？没关系啊，彭萨科拉姐姐已经帮我涂过防晒油了",
+        "指揮官、砂浜で横になるだけじゃつまんないでしょ。ビーチバレーでもどう？日焼け？大丈夫、ペンサコーラ姉にもう日焼け止めを塗ってもらったから",
+        "Commander, don't you ever get bored of lying around on the beach? Why don't we play some beach volleyball? Sun burn? No worries, Pensacola has already rubbed me down with sunscreen."
+      ],
+      "affinityLike": [
+        "指挥官，玩累了的话就在我大腿上休息一会吧。放心啦，我不会对你做恶作剧的。诶……我一直是这么温柔啊！",
+        "指揮官、疲れたら私のふとももで休んでいいよ。大丈夫いたずらはしないから～え…私ずっと優しいでしょ！",
+        "You can always rest on my lap if you get tired, Commander. Don't worry, I won't play any tricks on you. ... Hm? I've always been this kind to you!"
+      ],
+      "affinityLove": [
+        "欢迎回来，指挥官！刚刚在晾衣物啦。嗯，书和杂物我也帮你整理了，怎么样，这样一来干净多了吧。接下来，晚餐是…诶？为什么做这些？那当然是因为——要为以后做准备呀！",
+        "おかえり指揮官！今洗濯物干し終わった所よ。本とか散らかってた物も片付けたから。どう？これでずっと綺麗になったでしょ。じゃあ夕食は……え？なぜここまでするって？そりゃもうーー将来のための準備よ！",
+        "Welcome back, Commander! I was just about to finish drying your laundry. I cleaned up the books and other stuff that was lying around. How's it look? The tidiest it's ever been, right? And dinner will be... Hm? Why am I doing all this? Well, you know... just preparing for what comes later!"
+      ],
+      "pledge": [
+        "指挥官，约定好了，以后每天都要陪我玩哦，不管是冲浪、排球还是攀岩。当然，我也会陪你做你感兴趣的事啦",
+        "指揮官、約束ね。これからは毎日私の楽しみに付き合ってーーサーフィンも、ビーチバレーも、あと…スキューバーダイビング？もちろん、あなたの楽しいことも全部付き合ってあげる♡",
+        "It's a promise, Commander! Every day from now on you'll hang out with me and do the stuff I enjoy. Like surfing, beach volleyball, and... scuba diving, I guess? Of course, I'll hang out with you and do all the stuff you enjoy, too~!"
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，给你巧克力！里面是…我的爱情占三成养眼两成，剩下的就是糖分补充的感觉就对啦！",
+        "指揮官、チョコあげる！中身は…私の愛情三割に目の保養二割、あとは糖分補給って感じで！",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这是盐湖城的情人节巧克力礼物！肯定好吃！小鹰可以担保哦！",
+        "ソルトレイクシティからのバレンタインチョコ・プレゼント！味は保証するよ！いーぐるちゃんのお墨付きなんだよ！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here you go, my Valentine's chocolate! I worked hard on this, plain and simple, so promise to eat it, okay?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6d/Salt_Lake_City_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Salt_Lake_City_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6d/Salt_Lake_City_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1e/Salt_Lake_City_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Salt_Lake_City_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1e/Salt_Lake_City_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Salt_Lake_City_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Salt_Lake_City_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Salt_Lake_City_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Salt_Lake_City_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Salt_Lake_City_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Salt_Lake_City_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/b1/Salt_Lake_City_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Salt_Lake_City_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b1/Salt_Lake_City_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/f/f6/Salt_Lake_City_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Salt_Lake_City_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f6/Salt_Lake_City_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3b/Salt_Lake_City_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Salt_Lake_City_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3b/Salt_Lake_City_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Salt_Lake_City_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Salt_Lake_City_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Salt_Lake_City_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6a/Salt_Lake_City_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Salt_Lake_City_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6a/Salt_Lake_City_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        null,
+        null,
+        "https://azurlane.koumakan.jp/w/images/2/28/Salt_Lake_City_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/aa/Salt_Lake_City_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Salt_Lake_City_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/aa/Salt_Lake_City_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Salt_Lake_City_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Salt_Lake_City_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Salt_Lake_City_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Salt_Lake_City_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Salt_Lake_City_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Salt_Lake_City_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Salt_Lake_City_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Salt_Lake_City_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Salt_Lake_City_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Salt_Lake_City_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Salt_Lake_City_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Salt_Lake_City_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Salt_Lake_City_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Salt_Lake_City_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Salt_Lake_City_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Salt_Lake_City_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Salt_Lake_City_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Salt_Lake_City_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Salt_Lake_City_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Salt_Lake_City_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Salt_Lake_City_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/60/Salt_Lake_City_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Salt_Lake_City_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/60/Salt_Lake_City_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Salt_Lake_City_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Salt_Lake_City_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Salt_Lake_City_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Salt_Lake_City_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Salt_Lake_City_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Salt_Lake_City_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Salt_Lake_City_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Salt_Lake_City_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Salt_Lake_City_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5f/Salt_Lake_City_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Salt_Lake_City_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5f/Salt_Lake_City_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Salt_Lake_City_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Salt_Lake_City_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Salt_Lake_City_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Salt_Lake_City_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Salt_Lake_City_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Salt_Lake_City_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Salt_Lake_City_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Salt_Lake_City_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Salt_Lake_City_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,458 @@
+{
+  "name": "Shropshire",
+  "constructionTime": "01:30:00",
+  "constructionPools": [
+    false,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "County",
+  "ID": "120",
+  "faction": "Royal Navy",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "时辰",
+  "pixiv": "https://www.pixiv.net/member.php?id=7514361",
+  "twitter": "https://twitter.com/shichen00",
+  "link": "https://weibo.com/u/3042386674",
+  "voiceActor": "https://en.wikipedia.org/wiki/Ibuki_Kido",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      3461,
+      160,
+      75,
+      218,
+      215,
+      67,
+      25,
+      208,
+      0,
+      10,
+      116,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      3049,
+      139,
+      75,
+      190,
+      187,
+      22,
+      25,
+      181,
+      0,
+      10,
+      99,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      590,
+      59,
+      75,
+      40,
+      40,
+      9,
+      25,
+      39,
+      0,
+      3,
+      38,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "130% → 145%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "145% → 160%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 7,
+  "maxLimitBreakTechPoints": 14,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Reload  +1",
+  "level120TechPoints": 10,
+  "enhancementValue": [
+    22,
+    13,
+    0,
+    11
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / Torpedo Efficiency +15%",
+  "skill1Name": "Double Gun; CN: 主炮连射 JP: 主砲連射",
+  "skill1Description": "When firing main gun: 15% (25%) chance to fire an extra round.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ロンドン級",
+  "skill2Description": "Every 9 (6) shots from the main guns, triggers Full Barrage - London Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/89/Shropshire.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/32/ShropshireChibi.png",
+      "shipDescription": [
+        "伦敦级重巡洋舰—什罗普郡，舷号73",
+        "ロンドン級重巡洋艦・シュロップシャー（ (HMS Shropshire）",
+        "London-class heavy cruiser – Shropshire, Hull Number 73!"
+      ],
+      "selfIntroduction": [
+        "伦敦级的幺妹，唯一离开姐姐们出国留学的就是我了~啊，虽然不是在博取同情心，不过指挥官要是稍微注意一下这方面的话我会给高分的~装可爱？讨厌啦，这就是我的真面目哦~",
+        "ロンドン級の一番下、姉たちから離れて里子に出されたのがこの私ですよ～あ、別に同情してほしいってことじゃなくて、すこーしだけそこに気を付けてくれたら指揮官の点数をたかくつけちゃってあげますって！…あざとい？いやん、私的には真面目にやっていますよ～",
+        "The youngest of London class, and sent abroad away from my sisters. That is me~ Ah, it's not that I particularly wanted your sympathy, but if you give me a little bit of attention, I'll give you high points for that! ... Acting cute? Oh shush, I was being serious you know~"
+      ],
+      "acquisition": [
+        "伦敦级的小妹什罗普郡报到~经常被人说看起来比较迟钝或者很好骗的样子，还要多多麻烦指挥官了，总而言之请多指教啦~",
+        "ロンドン級の末っ子シュロップシャー着任しました~よくテンネンだの騙されやすいだの言われてますから、指揮官に迷惑をかけちゃいますかも~ではでは、よろしくです~",
+        "London class' youngest, Shropshire, reporting for duty~ I've been told that I am air-headed and gullible, so I'll be giving you some problems~ Well then, my time awaits~"
+      ],
+      "login": [
+        "啊指挥官你终于回来了，我正想去迎接你呢~",
+        "あ、指揮官今戻った？迎えに行こうとしたところですよ~",
+        "Ah, have you come back, Commander? I was just about to go to your place~"
+      ],
+      "details": [
+        "指挥官很闲嘛~",
+        "指揮官は暇そうですね~",
+        "You appear to have time, Commander~"
+      ],
+      "secretaryIdle1": [
+        "和指挥官独处虽然有点紧张，不过只有指挥官一个人也比较好应……让人安心，这样也好~",
+        "指揮官と二人きりの時はキンチョウしますけど、指揮官一人だけならごまか（誤魔化す）…安心しやすいですしまあいっか~",
+        "I am a little nervous when I am alone with you, Commander, but since you are alone I'm fu... fully calm myself~"
+      ],
+      "secretaryIdle2": [
+        "指·挥·官，快来帮我一下~拜托，只有指挥官可以帮我了~",
+        "し・き・か・ん～助けて～お願い、指揮官だけが頼りなの～",
+        "Com~man~der~ Help me~ Please, you are the only one I can count on~"
+      ],
+      "secretaryIdle3": [
+        "指挥官你知道吗，偶尔出些差错是让人变得可爱的秘诀哦~",
+        "指揮官知ってる？人はたまにミスしたほうがもっと可愛く見えますよ～",
+        "Did you know, Commander? Sometimes, making small mistakes can make one seem cuter~"
+      ],
+      "secretaryTouch": [
+        "不好好工作的话我也是会生气的哦指挥官",
+        "ちゃんとお仕事しないと、私だってプンプンしますよ？し・き・か・ん？",
+        "If you don't do your work properly, even I will show an angry face for it. Com~man~der?"
+      ],
+      "secretarySpecialTouch": [
+        "呀！指挥官，这样不行的吧！",
+        "きゃっ！指揮官、こういうのはダメですよ！",
+        "Ah! Commander, this is inappropriate!"
+      ],
+      "task": [
+        "新的任务……指挥官要是好好完成说不定我会很高兴哦~",
+        "新しいミッション……指揮官がちゃんとこなせたら私、すっごく見直しちゃいますよ～",
+        "A new mission... If you finish it properly, I will re-evaluate you right away~"
+      ],
+      "taskComplete": [
+        "奖励下达了哦，还是说指挥官更想要我的奖励呢~",
+        "ボーナスが届きましたよ～それとも~指揮官は私からのゴホウビがほしいですか？",
+        "The rewards have been distributed~ Or could it be~ that you want a reward from me?"
+      ],
+      "mail": [
+        "指挥官，有新邮件~是情书吗？是情书吧~快看看快看看~",
+        "指揮官に～新しいメール～ねえラブレターですか？ラブレターですよね~？開けて開けて～",
+        "Commander, you have new mail~ Is it a love letter? It's a love letter, isn't it? Open it, open it!"
+      ],
+      "returnFromMission": [
+        "指挥官好帅！我也要加倍努力了~……怎么样～在战场上受伤的心灵被我的后辈力治愈了吗？",
+        "指揮官かっこいい！私も頑張らなきゃ~……どう？戦場で傷ついたココロは私の後輩力で癒されちゃいました？",
+        "You were dashing, Commander! I have to put in effort as well... Hmm, how about I heal your damaged heart from the battlefield, with my junior wiles?"
+      ],
+      "commission": [
+        "指挥官，虽然我不介意再被你注视一会儿，不过委托组的姐妹们回来了呢~",
+        "指揮官？私をずっと見つめてもいいですけどぉ、委託に出かけたみんなはもう戻ってきましたよ？",
+        "Commander? Staring at me is one thing, but you should also look out for the commission team. They have returned, you know?"
+      ],
+      "strengthening": [
+        "虽然不变强也没关系，不过能帮上指挥官的忙也不错~",
+        "強くならなくてもいいけどぉ、指揮官の役に立てるのはいいですね~",
+        "It's alright to not become stronger. I'm fine as long as I can be of use to Commander~"
+      ],
+      "startingMission": [
+        "虽然我自己无所谓，不过要把胜利带给指挥官呢~",
+        "私は別にいいけど、指揮官に勝利をもたらさないと～",
+        "I do not mind, but I really have to bring victory to Commander~"
+      ],
+      "mvp": [
+        "不用特别夸奖我也没关系哦，多关注一下其他姐妹们吧~",
+        "私を褒めなくても大丈夫、ほかの姉妹たちをもおっと見てあげて~",
+        "You need not shower me with praises. Pay attention to others as well~"
+      ],
+      "defeat": [
+        "指挥官不觉得简单的事情反而做不好的女孩子更可爱吗，欸嘿~",
+        "ダメな子のほうが、カワイイって言いません？エッヘン～",
+        "Commander, clumsy girls have their charms as well, wouldn't you say? Heh-hey~"
+      ],
+      "skillActivation": [
+        "不加油可不行了呢~",
+        "頑張らないと～",
+        "Ganbara Knight!"
+      ],
+      "lowHP": [
+        "糟了糟了这下糟了……",
+        "ヤバイよヤバイよ……",
+        "Oh dear, this is bad!"
+      ],
+      "affinityDisappointed": [
+        "指挥官，碍事，请让一让（笑）",
+        "指揮官、ちょっとジャマ、どいてどいて",
+        "Commander, you're in the way. Move aside, move aside"
+      ],
+      "affinityStranger": [
+        "有什么事吗？对不起如果是搭讪的话很对不起我现在想要集中精力在工作上",
+        "何か用ですか？今オシゴトに集中していますから、ナンパは勘弁してくださいね~",
+        "Do you need something? I'm concentrating on work right now, so spare me the sweet talk~"
+      ],
+      "affinityFriendly": [
+        "指挥官虽然是个好人而且又很有未来不过冷静想想觉得太快了所以对不起！",
+        "指揮官はいい人ですし将来もありますしでも冷静に考えたら今はまだ早いですからだからごめんなさい！",
+        "Commander, you are a good man and you have a prospective future. But after I think about it calmly, now is just not the time. I'm sorry!"
+      ],
+      "affinityLike": [
+        "对不起虽然我确实比较喜欢指挥官这样的类型也没有什么特别的理由还有点心动不过现在还不行！",
+        "指揮官のような方はタイプですけど今は好きになる理由が特にありませんからだからごめんなさい！",
+        "You are my type, Commander, but there are no specific reasons for me to like you so... I'm sorry!"
+      ],
+      "affinityLove": [
+        "对不起指挥官请再注意一下时间和场合还有气氛不过请多努力几次我不介意的",
+        "もっと時間と場合とムードに気をつけてほしいですだからごめんなさい！…あ、私、告った回数とか気にしていませんから♪",
+        "Please mind the time, place and mood when you do this, so I'm sorry! ... Ah! I don't mind the amount of times you confess to me~"
+      ],
+      "pledge": [
+        "对不起……以为我会这么说吗？指挥官，请好好负起责任哦~",
+        "ごめんなさい……と、言うとでも思いましたか？はい指揮官、これからは責任、ちゃんと取ってくださいね~",
+        "I'm sorry... is what you thought I was going to say? Well Commander, from now on, my life is your life~"
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、バレンタインおめでとう！チョコを作ったから食べてみて？あっ、実は作った時にちょっと失敗しちゃって、もしかしたら甘すぎるかも…今からもう一回作るから、ほしいなら教えてね〜",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，今天是情人节哦，给你巧克力～没错没错，确实有点苦，其实我有点搞砸了……去年做得又很甜，做巧克力真难啊～对指挥官的爱意太强烈了才失败的吧？～开玩笑的啦，欸嘿！",
+        "指揮官、バレンタインだよ。チョコどうぞ～。そうそう、実はちょっとミスっちゃって、苦すぎるかも…去年は甘すぎちゃったし、難しいね～。指揮官へのラブが強すぎて失敗しちゃったかな～？なんてね、エッヘン！",
+        "Happy Valentine's Day, Commander! I made some chocolate, care to try it? I kind of messed up while making it, so it might be too sweet... I'll make you more, so tell me if you want some~"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, happy Valentine's Day! Sorry, I forgot to bring the chocolate... Aren't I silly♪ Aw, forget it. I think it's cuter to just hand over my love chocolate at a time like this, no more playing the ditz!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Shropshire_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Shropshire_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Shropshire_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Shropshire_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Shropshire_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Shropshire_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Shropshire_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Shropshire_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Shropshire_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Shropshire_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Shropshire_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Shropshire_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/78/Shropshire_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Shropshire_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/78/Shropshire_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Shropshire_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Shropshire_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Shropshire_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/3/3a/Shropshire_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Shropshire_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3a/Shropshire_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Shropshire_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Shropshire_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Shropshire_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/20/Shropshire_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Shropshire_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/20/Shropshire_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Shropshire_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Shropshire_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Shropshire_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Shropshire_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Shropshire_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Shropshire_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Shropshire_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Shropshire_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Shropshire_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Shropshire_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Shropshire_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Shropshire_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Shropshire_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Shropshire_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Shropshire_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Shropshire_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Shropshire_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Shropshire_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Shropshire_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Shropshire_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Shropshire_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4c/Shropshire_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Shropshire_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4c/Shropshire_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Shropshire_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Shropshire_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Shropshire_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e4/Shropshire_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Shropshire_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e4/Shropshire_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Shropshire_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Shropshire_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Shropshire_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Shropshire_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Shropshire_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Shropshire_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5a/Shropshire_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Shropshire_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5a/Shropshire_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Shropshire_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Shropshire_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Shropshire_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6e/Shropshire_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Shropshire_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/6e/Shropshire_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Shropshire_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Shropshire_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Shropshire_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3f/Shropshire_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Shropshire_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3f/Shropshire_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

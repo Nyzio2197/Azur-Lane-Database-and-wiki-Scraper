@@ -1,0 +1,603 @@
+{
+  "name": "Colorado",
+  "constructionTime": "04:25:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Colorado",
+  "ID": "060",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "Chuzenji",
+  "twitter": "https://twitter.com/_Chuzenji_",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/c/c8/Colorado_TitleScreen.ogg",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7456,
+      149,
+      67,
+      409,
+      0,
+      30,
+      21,
+      216,
+      0,
+      14,
+      69,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6416,
+      130,
+      67,
+      368,
+      0,
+      11,
+      21,
+      188,
+      0,
+      14,
+      57,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1241,
+      55,
+      67,
+      78,
+      0,
+      4,
+      21,
+      40,
+      0,
+      5,
+      22,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 16,
+  "maxLimitBreakTechPoints": 32,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Firepower  +1",
+  "level120TechPoints": 24,
+  "enhancementValue": [
+    64,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    4
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Big Seven; CN: BIG SEVEN JP: BIG SEVEN",
+  "skill1Description": "When firing main gun: 20% (40%) chance to fire a frontal barrage (damage increases with skill level).",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/d/d8/Colorado.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b3/ColoradoChibi.png",
+      "shipDescription": [
+        "科罗拉多级战列舰—科罗拉多，舷号BB-45",
+        "コロラド級戦艦・コロラド（BB-45)",
+        "Colorado class battleship— Colorado, hull number BB-45"
+      ],
+      "selfIntroduction": [
+        "我是“科罗拉多”级战列舰的1号舰，为了在舰队决战中取得优势，我成为了白鹰第一艘安装16英寸主炮的战舰。“Big Seven”…那是赋予我等战列舰的荣光之名。",
+        "私はコロラド級戦艦の一番艦、艦隊決戦中、優勢になるべくユニオンで16インチ主砲を装備した最初の戦艦だ。ビッグセブン……それは戦艦である私たちに与えられた栄光の名だ",
+        "I'm the lead ship of the Colorado class. In order to gain an advantage in the decisive battle, I'm the first ship to be equipped with 406mm guns. BIG SEVEN... is the most honored title for us battleships."
+      ],
+      "acquisition": [
+        "是你在呼唤着我么？也好，这一天我已经等了很久了。白鹰战列舰科罗拉多，以“Big Seven”之名，加入作战序列。",
+        "お前が私を呼んでいるのか？いいだろう、この日を待ちわびていた。ユニオン戦艦コロラド、「ビッグセブン」の一人として、戦闘序列に加わる",
+        "Are you the one calling me? Well, I've been waiting for this day for a long. In the name of the BIG SEVEN, Eagle Union battleship Colorado, reporting in."
+      ],
+      "login": [
+        "指挥官，待机的时间应该已经结束了吧，何时才能出击？",
+        "指揮官、待機の時間はもう終わっているだろう、いつ出撃できる？",
+        "Commander, you’ve rested long enough. When shall we weigh anchor?"
+      ],
+      "details": [
+        "指挥官…能把您的目光从我的身上移开么？",
+        "指揮官……あまり私を見ないでくれるか？",
+        "Commander... Can you take your eyes off me?"
+      ],
+      "secretaryIdle1": [
+        "指挥官，虽然航母确实是很厉害的舰船，但战列舰也并非过时之物...不，是必不可少的力量！",
+        "指揮官、空母は確かにすごい艦ではあるが、戦艦もまた時代遅れなものではない……いや、むしろ必要不可欠な力だ！",
+        "Commander, although aircraft carriers are really powerful, but battleships are not obsolete. They are indispensable!"
+      ],
+      "secretaryIdle2": [
+        "阿梅莉亚…那是位伟大的女性，虽然最后还是没能找到她…或许，她正在另一个世界自由地飞翔吧…",
+        "アメリア……あの方は偉大な女性だったが、最後まで見つからなかった……或いは、彼女は今別の世界で自由に羽ばたいているのかもしれないな……",
+        "Amelia... She was a great woman, though she still cannot be found. Perhaps she is flying freely in another world..."
+      ],
+      "secretaryIdle3": [
+        "在那个耻辱之日，我的两个可怜的妹妹遭受了伤害，总有一天，我会让侵略者们付出应有的代价！",
+        "あの屈辱の日、かわいそうなことに私の妹が二人も傷ついてしまった。いつか、侵略者たちにはそれ相応の代価を支払ってもらおう！",
+        "My poor sisters were hurt on that humiliating day. One day, I will have those invaders pay for what they have done!"
+      ],
+      "secretaryTouch": [
+        "指挥官，请不要随便碰我刚刚校射过的主炮，会影响射击精度的。",
+        "指揮官、校正した私の主砲に触らないでくれ、射撃の精度に影響が出る",
+        "Commander, please don't touch the main gun that I was just using, you will affect my shooting accuracy."
+      ],
+      "secretarySpecialTouch": [
+        "果然还是把指挥官塞进16英寸炮里再发射出去比较好么？",
+        "やはり指揮官を16インチ砲にぶち込んで発射した方がいいのでは？",
+        "Shall I load the Commander into a 406mm gun and fire him?"
+      ],
+      "task": [
+        "指挥官，火力支援也好，舰队决战也好，请下达作战命令。",
+        "指揮官、火力支援でも、艦隊決戦でもいい、作戦命令を！",
+        "Whether you need fire support or fleet battle, please give the order Commander."
+      ],
+      "taskComplete": [
+        "指挥官，任务奖励已经送达了。",
+        "指揮官、任務の報酬が届いた",
+        "Commander, mission reward has been delivered."
+      ],
+      "mail": [
+        "有新的信件，里面说不定有姐妹们的消息…",
+        "新しいメールがある、中には妹たちの消息があるかもしれない……",
+        "You’ve got new mail. There may be news from my sisters..."
+      ],
+      "returnFromMission": [
+        "让所有人都能平安回港，也是我的职责所在。",
+        "すべての人を無事母港に帰らせること、これは私の責務でもある",
+        "Making sure everyone returns home safely is also one of my duties."
+      ],
+      "commission": [
+        "运来了不少燃油和物资呢…看来下次出击也没什么问题了。",
+        "かなりの燃料と物資が運ばれてきたな……これで次の出撃も問題なさそうだ",
+        "A lot of oil and supplies have been shipped in. Looks like we got plenty of both for the next mission."
+      ],
+      "strengthening": [
+        "嗯。虽然身为“Big Seven”的我拥有强大的力量，但及时的改装也是很有必要的",
+        "ふむ。ビッグセブンとしての私は強大な力を持っているが、戦局に適する改装も必要だ",
+        "Emm, as one of the BIG SEVEN, my powers are unquestionable. Although, timely enhancements are still a necessity."
+      ],
+      "startingMission": [
+        "这次不会再允许你们胡作非为…全主炮装填完毕，准备齐射！",
+        "今度こそ好き勝手させない……全主砲装填完了、一斉射用意！",
+        "I will not allow you to misbehave anymore... All guns, ready to fire a volley!"
+      ],
+      "mvp": [
+        "嗯？我是MVP么？对于Big Seven而言，这不过是小菜一碟罢了。",
+        "ん？私がMVPか、ビッグセブンにとって、こんなの朝飯前だ",
+        "Huh? Am I the MVP? Such a piece of cake for one of the BIG SEVEN."
+      ],
+      "defeat": [
+        "这绝对不是我的终点…",
+        "ここで終わる私ではない……",
+        "This is not the end of the line..."
+      ],
+      "skillActivation": [
+        "现在就让你们看看Big Seven真正的力量吧！",
+        "今こそ見せてやる、ビッグセブンの真の力を！",
+        "It's time to show you the true power of the BIG SEVEN!"
+      ],
+      "lowHP": [
+        "舰桥被命中了？迅速进行损害管制！",
+        "ブリッジが被弾した？ダメージコントロール、急げ！",
+        "The bridge was hit? Damage control, now!"
+      ],
+      "affinityDisappointed": [
+        "指挥官，请不要…靠近我。",
+        "指揮官、あの……あまり近づかないでくれないか",
+        "Commander, please… don’t come any closer."
+      ],
+      "affinityStranger": [
+        "“Big Seven”，这是我为之自豪的称号，遗憾的是，曾经属于我们战列舰的时代，似乎要迎来新的主人了…",
+        "「ビッグセブン」、これは私の誇りの名だ。しかし残念ながら、かつての私たち戦艦の時代は過ぎ去り、新たな時代を迎えなければならないようだ……",
+        "I’m proud of my BIG SEVEN title. Unfortunately the battleship era is closing, and a new wave of ships are arriving..."
+      ],
+      "affinityFriendly": [
+        "指挥官为什么要这么在意我呢？许多人都畏惧我，不愿意靠近我，大概，我早就已经习惯了吧。但是，最近突然觉得…有点寂寞呢。",
+        "指揮官はなぜそんなに私のことを気に掛けるのか？多くの人が私を恐れ、遠ざける。多分、私もそれに慣れていたのだろう。だが、最近は何だか……少し寂しい。",
+        "Commander, why do you care about me so much? Many people are afraid of me and keep their distance from me. Perhaps I've been too used to this. But recently, I’ve suddenly felt... so lonely."
+      ],
+      "affinityLike": [
+        "指挥官真是个怪人呢，愿意和我这样性格恶劣的人说话…可是，和指挥官说话，我并不讨厌。",
+        "指揮官は本当に変な人だ、私のような性格の悪いやつと話がしたいなんて……でも、指揮官と話すのは、嫌いではない",
+        "The Commander is willing to talk to someone as bad-tempered as me. Such a weirdo... I don't hate talking to the Commander, though."
+      ],
+      "affinityLove": [
+        "每次战斗结束之后，能得到指挥官的夸奖，也成为了我战斗的意义之一呢。指挥官，能稍微…多夸奖一下我么？",
+        "毎回戦闘が終わった後、指揮官からの褒め言葉をもらえるのも、私が戦う意義の一つとなっている。指揮官、もう少し……もう少し私を褒めてくれないか？",
+        "The Commander's compliment after the end of each battle is something which I crave for. Commander, can you... praise me a little more?"
+      ],
+      "pledge": [
+        "不知不觉，我也逐渐变得依赖指挥官了呢。“Big Seven”的这份力量，就让我用来守护您直到最后吧。",
+        "知らないうちに、私も指揮官を頼るようになったな。「ビッグセブン」としてのこの力、あなたを守るために使おう",
+        "Unknowingly I’ve slowly become more dependent on you, Commander. With the power of the BIG SEVEN, I shall protect you until my dying breath."
+      ],
+      "giftDescriptionValentines2018": [
+        "指挥官，情人节快乐~我们BIG SEVEN平时总是战斗，偶尔也需要一个作为女性活跃的舞台呢。“这个舞台也是战场？”…说的也是♪",
+        null,
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，情人节快乐。虽然我并不擅长做巧克力…如果您觉得难吃的话，丢到看不见的地方就好了",
+        "指揮官、ハッピーバレンタイン。チョコを作るのは得意じゃないけど……目障りだったらどこか見えないところに捨ててくれて構わないわ",
+        "Happy Valentine's Day. This is a day for love and intimacy, rather than remembrance and sadness... At any rate, I made you some chocolate. It's not much, but I poured my heart into it."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's, Commander. We got together with Nelson and Rodney and made this for you. Our Big Seven titles might've had influence on our baking, and resulted in too much chocolate... I don't expect you to be able to finish it all, but even just a bite... would satisfy me."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Colorado_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Colorado_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Colorado_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Colorado_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Colorado_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Colorado_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a4/Colorado_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Colorado_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a4/Colorado_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2d/Colorado_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Colorado_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2d/Colorado_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Colorado_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Colorado_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Colorado_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a3/Colorado_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Colorado_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a3/Colorado_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Colorado_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Colorado_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Colorado_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Colorado_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Colorado_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Colorado_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Colorado_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Colorado_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Colorado_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dc/Colorado_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Colorado_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dc/Colorado_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Colorado_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Colorado_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Colorado_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Colorado_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Colorado_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Colorado_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/63/Colorado_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Colorado_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/63/Colorado_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/Colorado_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Colorado_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/Colorado_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Colorado_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Colorado_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Colorado_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fb/Colorado_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Colorado_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fb/Colorado_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cd/Colorado_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Colorado_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cd/Colorado_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Colorado_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Colorado_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Colorado_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Colorado_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Colorado_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Colorado_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Colorado_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Colorado_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Colorado_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Colorado_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Colorado_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Colorado_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Colorado_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Colorado_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Colorado_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ac/Colorado_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Colorado_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ac/Colorado_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Colorado_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Colorado_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Colorado_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Colorado_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Colorado_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Colorado_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Colorado_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Colorado_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Colorado_PledgeJP.ogg"
+      ]
+    },
+    {
+      "CNClientName": "科罗拉多",
+      "CNClientAvailability": "Permanently Available",
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/3/3e/ColoradoOriginal.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d1/ColoradoOriginalChibi.png",
+      "shipDescription": [
+        "科罗拉多级战列舰—科罗拉多，舷号BB-45",
+        null,
+        null
+      ],
+      "selfIntroduction": [
+        "白鹰“科罗拉多”号战列舰，自建成以来经历了诸多的远航与演习，作为BIG SEVEN之一，辗转世界各地宣扬了白鹰海军的军威。太平洋战争开始后幸运地逃过了珍珠港奇袭，随后在多次战役中表现活跃。指挥官，我的名字可不是取自大峡谷哦",
+        null,
+        null
+      ],
+      "acquisition": [
+        "科罗拉多前来报道，接下来的舰队战就交给我吧。",
+        null,
+        null
+      ],
+      "login": [
+        "指挥官，我已整装待命！",
+        null,
+        null
+      ],
+      "details": [
+        "和密苏里相比，我还差得远呢！",
+        null,
+        null
+      ],
+      "secretaryIdle1": [
+        "什么时候能见到妹妹们呢？",
+        null,
+        null
+      ],
+      "secretaryIdle2": [
+        "华盛顿？我曾梦到过和她……",
+        null,
+        null
+      ],
+      "secretaryIdle3": [
+        "指挥官也想吃冰激凌吗？来、张嘴，啊——",
+        null,
+        null
+      ],
+      "secretaryTouch": [
+        "诶，是指挥官呀。抱歉，我又发呆了，是有什么作战指令吗？",
+        null,
+        null
+      ],
+      "secretarySpecialTouch": [
+        "诶，指挥官……那里只有妹妹们碰过呀。",
+        null,
+        null
+      ],
+      "task": [
+        "指挥官，请下达作战指令。",
+        null,
+        null
+      ],
+      "taskComplete": [
+        "演习也好，支援也好，我完成的都毫不逊色吧！",
+        null,
+        null
+      ],
+      "mail": [
+        "有新的信件，里面会不会有妹妹们的消息呢？",
+        null,
+        null
+      ],
+      "returnFromMission": [
+        "放松放松，然后去喝几杯吧。西弗吉尼亚，你要一起吗？",
+        null,
+        null
+      ],
+      "commission": [
+        "唔，有人回来了，有侦察到敌情吗？",
+        null,
+        null
+      ],
+      "strengthening": [
+        "距离密苏里又近了一步！",
+        null,
+        null
+      ],
+      "startingMission": [
+        "这片大洋都是我的战场！",
+        null,
+        null
+      ],
+      "mvp": [
+        "全炮转向……咦，已经没有敌人了吗？",
+        null,
+        null
+      ],
+      "defeat": [
+        "唔……大意了呢。",
+        null,
+        null
+      ],
+      "skillActivation": [
+        "昭昭天命！",
+        null,
+        null
+      ],
+      "lowHP": [
+        "阿啦，接下来我可不会再像刚才那样大意了！",
+        null,
+        null
+      ],
+      "affinityDisappointed": [
+        "指挥官……本质上不是个坏孩子呢。",
+        null,
+        null
+      ],
+      "affinityStranger": [
+        "战争结束之后？我没想过这个问题呢，指挥官去问问南达科他怎么样？",
+        null,
+        null
+      ],
+      "affinityFriendly": [
+        "指挥官，夜晚一起去港口外转转如何？放心吧，我会好好保护您的。咦，在海上可没有“醉驾”这种说法哦，嘻嘻。",
+        null,
+        null
+      ],
+      "affinityLike": [
+        "昨晚梦到了华盛顿，她对我说在我心中最近有一个人的分量超过了她。奇怪，明明是一个悲伤的梦，为什么她在梦里那么喜悦呢。",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "指挥官，您送我的薰衣草，我会永远收在衣服中的。我对您的爱，与对马里兰、西弗吉尼亚的不同，是世界上独一无二的哦。",
+        null,
+        null
+      ],
+      "pledge": [
+        "呼……接受妹妹们的轮番祝贺真的有点吃不消。不过，接下来…就是我和夫君两人的时间了哦",
+        null,
+        null
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Maryland) 妹妹，小心不要冲过头",
+        null,
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

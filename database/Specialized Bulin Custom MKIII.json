@@ -1,0 +1,460 @@
+{
+  "name": "Specialized Bulin Custom MKIII",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Ultra Rare",
+  "shipClass": "Bulin",
+  "ID": "003",
+  "faction": "Universal",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://en.wikipedia.org/wiki/Asami_Shimoda",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      232,
+      116,
+      100,
+      23,
+      23,
+      116,
+      35,
+      23,
+      23,
+      3,
+      116,
+      33,
+      0,
+      0
+    ],
+    "Level 100": [
+      210,
+      105,
+      100,
+      21,
+      21,
+      105,
+      35,
+      21,
+      21,
+      3,
+      105,
+      31,
+      0,
+      0
+    ],
+    "Base Stats": [
+      100,
+      50,
+      100,
+      10,
+      10,
+      50,
+      35,
+      10,
+      10,
+      2,
+      50,
+      20,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "100% → 100%",
+  "slot2Equipment": "Anti-Air Guns",
+  "slot2Efficiency": "100% → 100%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "retireValue": [
+    500,
+    4,
+    3,
+    30
+  ],
+  "limitBreak1": "",
+  "limitBreak2": "",
+  "limitBreak3": "",
+  "skill1Name": "Specialized Bulin Custom MKIII; CN: 改造娘MKIII",
+  "skill1Description": "Can be used as material to Limit Break any ship of Ultra Rare (UR) quality.",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/5/57/Specialized_Bulin_Custom_MKIII.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3f/Specialized_Bulin_Custom_MKIIIChibi.png",
+      "shipDescription": [
+        "特装型布里MKIII ，可以用于海上传奇角色的突破",
+        "特装型ブリMKIII。Uレアのキャラの限界突破に使用可能。",
+        "Specialized Bulin Custom MKIII. Can be used to Limit Break all Ultra Rare ships."
+      ],
+      "selfIntroduction": [
+        "大姐是钻头、二姐是扳手…而我是锤子…？这其中莫非有什么规律burin？",
+        "ドリルにレンチにハンマー……あっ！もしかして何かルールがあるプリン！？",
+        "A wrench, a drill, and a hammer... Wait a sec! Is there some kind of pattern here, bulin?!"
+      ],
+      "acquisition": [
+        "burin~！感动吧！在你面前的是布里家族传说中的隐藏角色，也就是我！为你那无与伦比的好运而欢呼吧bulin！",
+        "プリン！聞いて驚け涙流しとけ！ブリシリーズの隠しキャラとは私のこと！あんたの豪運に声あげてこープリン！",
+        "Bulin~! Aren't you amazed? Standing before you is the legendary secret unlockable character of the Bulin family, none other than me! Rejoice, for you have been blessed with supremely good RNG, bulin!"
+      ],
+      "login": [
+        "指挥官，要不要我给你一锤子呀？会变得很厉害的burin？",
+        "指揮官、一発叩いてもいいプリン？すごく強くなるかもプリン？",
+        "Commander, it's hammer time! You'll get super strong, bulin!"
+      ],
+      "details": [
+        "有什么难题，交给“超级喵喵1号”burin一下就好了！",
+        "なにかがあったらこれでプリン！としたらいいプリン！",
+        "If ever in doubt, just tell me to bonk it with my hammer, bulin!"
+      ],
+      "secretaryIdle1": [
+        "指挥官累了吗？让我来给你充充电burin！只要把这个插到…欸？不行的吗…？",
+        "疲れたプリン？チャージしてやるプリン！これをここに差し込んで……ん？ダメプリン？",
+        "Sleepy, bulin? Then I'll charge you right up! I just need to plug in my... What? That doesn't work, bulin?"
+      ],
+      "secretaryIdle2": [
+        "据说只要能集齐三种布里，就能碰到好事哦！什么好事？我也不知道burin！",
+        "ブリを三種類集めるといいことあるかも！？でも何が起きるかわからないプリン！",
+        "You might get a surprise when you collect 1 of each bulin! But I dunno what the surprise would even be!"
+      ],
+      "secretaryIdle3": [
+        "“超级喵喵1号”能发出五颜六色的光，看起来非常酷炫burin！就像这样！",
+        "スーパーニャンニャン1号はキラキラピカピカキラリンパ！と光るプリン！こう！",
+        "My Kitty Kabam Hammer goes glimmer-glammer, sparkely sparkle, whooshy-kablam! Check it out, bulin!"
+      ],
+      "secretaryTouch": [
+        "“超级喵喵1号”可是我的专属，乱碰的话可是会受伤的哦？",
+        "この子はブリのものプリン！触ると怪我するプリン！",
+        "This bad boy is my \"raison d'etre\"! Be careful with it, or you'll get hurt, bulin!"
+      ],
+      "secretarySpecialTouch": [
+        "要、要过载了burin！",
+        "おおおおおオーバーロードになるプリン！！",
+        "Oh nooooooo! I'm gonna overload, bulin!"
+      ],
+      "task": [
+        "任务？交给“超级喵喵1号”burin一下就好了！",
+        "任務？この子でプリン！とすればいいプリン！",
+        "A new mission? A good bonk with my hammer should finish it, bulin!"
+      ],
+      "taskComplete": [
+        "就用这个把任务奖励burin出来吧！",
+        "これ――任務報酬をプリン！するプリン！",
+        "Look here! Smash that Collect All button, bulin!"
+      ],
+      "mail": [
+        "听说，只要让布里burin一下，信里的东西就就会变多？",
+        "ブリがプリン！したら多くなるって噂？",
+        "Is it true that more mail comes in when I go \"bulin\"?"
+      ],
+      "returnFromMission": [
+        "burin？布里和“超级喵喵1号”都需要充能了burin…",
+        "プリン？ブリと装備はエネルギー補給が必要プリン！",
+        "Bulin? My gear and I both need to recharge, bulin!"
+      ],
+      "commission": [
+        "burin！委托队的姐妹们带着好多奖励回来了burin！",
+        "プリン！委託の子たちは報酬満載で戻ってきたプリン！",
+        "Bulin! The commission team has returned with boatloads of rewards!"
+      ],
+      "strengthening": [
+        "布里是不能强化的burin！",
+        "ブリは強化できないプリン！",
+        "Glad you asked, but I can't be enhanced, bulin!"
+      ],
+      "startingMission": [
+        "Full Charge！让对面知道我们的厉害burin！",
+        "フルチャージプリン！ブリたちの力を見せるプリン！",
+        "I'm fully charged, bulin! Let's show them what a real bulin's made of!"
+      ],
+      "mvp": [
+        "“超级喵喵1号”是最强的burin！",
+        "スーパーニャンニャン1号は最強プリン！",
+        "My Kitty Kabam Hammer is the strongest around, bulin!"
+      ],
+      "defeat": [
+        "能量耗尽了burin…“超级喵喵1号”，果然不能用于实战吗…",
+        "エネルギー切れプリン…スーパーニャンニャン1号、実戦は無理プリン…",
+        "My batteries are out... My Kitty Kabam Hammer was never made for battle, bulin!"
+      ],
+      "skillActivation": [
+        "我的锤子是击坠星辰的锤子口牙！",
+        "私のハンマーは星を落とすハンマープリン！",
+        "My hammer is the hammer that will bring down the stars, bulin!"
+      ],
+      "lowHP": [
+        "burin？超级喵喵1号开始闪灯了burin？",
+        "プリン！？タイマーが光ったプリン！",
+        "Oh heck! My health bar is glowing red, bulin!"
+      ],
+      "affinityDisappointed": [
+        "即使指挥官变成了这样…布里也是不会放弃你的burin！快振作起来burin！",
+        "指揮官がこうなってもブリはプリン！しないプリン！しっかりしてプリン！",
+        "You've lost your way, but don't give up! Pull yourself together, bulin!"
+      ],
+      "affinityStranger": [
+        "姐姐们都只有一种颜色，但我和“超级喵喵1号”都是彩色的，也就是什么颜色都有！所以，我比姐姐们都要强burin！",
+        "ブリたちはみんな一つの色だけど、ブリとこの子はカラフル！というわけで色がいっぱいある！つまりブリはほかのブリより強いプリン！",
+        "The other bulins are only one color, but I'm the whole rainbow! Which can only mean one thing: that I'm the strongest of the bunch, bulin!"
+      ],
+      "affinityFriendly": [
+        "指挥官总是愿意和我玩，那我也要报答指挥官！这次，就破例把“超级喵喵1号”借给指挥官玩1个小时burin！不准拿去干坏事哦？",
+        "いつも遊んでくれる指揮官にお礼するプリン！このスーパーニャンニャン1号を1時間貸してあげるプリン！悪いことに使っちゃダメだよ？",
+        "As thanks for always hanging with me, I'll let you borrow my Kitty Kabam Hammer for an hour, bulin! But don't use it for any mean stuff, okay?"
+      ],
+      "affinityLike": [
+        "burin？指挥官最近和我玩的时间会不会太多了？这样下去可不行，港区都要荒废了burin！",
+        "プリン！指揮官、ブリと遊ぶ時間が長すぎないプリン？このままでは母港が廃墟になるプリン！",
+        "Are you sure you aren't hanging out with me too much, Commander? If this keeps up, the port will be in ruins soon, bulin!"
+      ],
+      "affinityLove": [
+        "明明布里应该是为了强化舰队而生的，指挥官却依然这么重视我…指挥官！我已经喜欢上你了burin！作为回报，就让我来给你一发特别的burin吧！…唔？果然还是不行？",
+        "ブリは艦隊を強化するためにやってきたのに、こんなに大事にされるなんて……指揮官、好きプリン！お礼に特別にプリン！してあげるプリン！…ん？やっぱりダメ？",
+        "I was made to upgrade fleets, nothing more, and yet you're being so kind to me... I love you, Commander! Let me give you a special type of bonk, bulin! Hm? You'd rather not?"
+      ],
+      "pledge": [
+        "耶~这个亮晶晶的戒指，就是我和指挥官关系的证明burin！好~就让“超级喵喵1号”来把它burin到最佳状态！…绝对不能这么做？我知道了burin！",
+        "イェ～イこのキラキラの指輪は指揮官との絆のショウコだプリン！よぉし、スーパーニャンニャン1号でプリン！と最高にするプリン！…絶対ダメって？分かったプリン！",
+        "Woohoo! This shiny ring is proof of our love bond, bulin! Watch this! I'm gonna whack it to infinity with my hammer! ...Never, ever whack the ring? Okay then, bulin!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Prototype Bulin MKII and Universal Bulin) 无敌布里战队，上啦burin！",
+        "(Sortie with Prototype Bulin MKII and Universal Bulin) ブリ戦隊、参上プリン！",
+        "(Sortie with Prototype Bulin MKII and Universal Bulin) Bulin Brigade, busting through, bulin!"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Eldridge) 让对面见识下彩虹之力！",
+        "(Sortie with Eldridge) レインボーパワーを見せるプリン！",
+        "(Sortie with Eldridge) Let's make 'em taste the rainbow!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Specialized_Bulin_Custom_MKIII_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Specialized_Bulin_Custom_MKIII_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Specialized_Bulin_Custom_MKIII_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/Specialized_Bulin_Custom_MKIII_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Specialized_Bulin_Custom_MKIII_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/Specialized_Bulin_Custom_MKIII_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Specialized_Bulin_Custom_MKIII_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Specialized_Bulin_Custom_MKIII_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Specialized_Bulin_Custom_MKIII_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Specialized_Bulin_Custom_MKIII_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Specialized_Bulin_Custom_MKIII_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Specialized_Bulin_Custom_MKIII_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/7/77/Specialized_Bulin_Custom_MKIII_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Specialized_Bulin_Custom_MKIII_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/77/Specialized_Bulin_Custom_MKIII_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Specialized_Bulin_Custom_MKIII_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Specialized_Bulin_Custom_MKIII_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Specialized_Bulin_Custom_MKIII_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Specialized_Bulin_Custom_MKIII_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Specialized_Bulin_Custom_MKIII_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Specialized_Bulin_Custom_MKIII_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Specialized_Bulin_Custom_MKIII_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Specialized_Bulin_Custom_MKIII_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Specialized_Bulin_Custom_MKIII_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e6/Specialized_Bulin_Custom_MKIII_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Specialized_Bulin_Custom_MKIII_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e6/Specialized_Bulin_Custom_MKIII_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Specialized_Bulin_Custom_MKIII_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Specialized_Bulin_Custom_MKIII_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Specialized_Bulin_Custom_MKIII_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Specialized_Bulin_Custom_MKIII_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Specialized_Bulin_Custom_MKIII_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Specialized_Bulin_Custom_MKIII_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/Specialized_Bulin_Custom_MKIII_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Specialized_Bulin_Custom_MKIII_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/Specialized_Bulin_Custom_MKIII_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f7/Specialized_Bulin_Custom_MKIII_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Specialized_Bulin_Custom_MKIII_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f7/Specialized_Bulin_Custom_MKIII_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/30/Specialized_Bulin_Custom_MKIII_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Specialized_Bulin_Custom_MKIII_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/30/Specialized_Bulin_Custom_MKIII_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c4/Specialized_Bulin_Custom_MKIII_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Specialized_Bulin_Custom_MKIII_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c4/Specialized_Bulin_Custom_MKIII_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Specialized_Bulin_Custom_MKIII_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Specialized_Bulin_Custom_MKIII_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Specialized_Bulin_Custom_MKIII_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Specialized_Bulin_Custom_MKIII_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Specialized_Bulin_Custom_MKIII_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Specialized_Bulin_Custom_MKIII_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d5/Specialized_Bulin_Custom_MKIII_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Specialized_Bulin_Custom_MKIII_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d5/Specialized_Bulin_Custom_MKIII_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d2/Specialized_Bulin_Custom_MKIII_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Specialized_Bulin_Custom_MKIII_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d2/Specialized_Bulin_Custom_MKIII_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a8/Specialized_Bulin_Custom_MKIII_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Specialized_Bulin_Custom_MKIII_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a8/Specialized_Bulin_Custom_MKIII_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a0/Specialized_Bulin_Custom_MKIII_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Specialized_Bulin_Custom_MKIII_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a0/Specialized_Bulin_Custom_MKIII_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/00/Specialized_Bulin_Custom_MKIII_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Specialized_Bulin_Custom_MKIII_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/00/Specialized_Bulin_Custom_MKIII_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/41/Specialized_Bulin_Custom_MKIII_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Specialized_Bulin_Custom_MKIII_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/41/Specialized_Bulin_Custom_MKIII_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Specialized_Bulin_Custom_MKIII_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Specialized_Bulin_Custom_MKIII_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Specialized_Bulin_Custom_MKIII_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a9/Specialized_Bulin_Custom_MKIII_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Specialized_Bulin_Custom_MKIII_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a9/Specialized_Bulin_Custom_MKIII_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Specialized_Bulin_Custom_MKIII_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Specialized_Bulin_Custom_MKIII_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Specialized_Bulin_Custom_MKIII_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/d/de/Specialized_Bulin_Custom_MKIII_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Specialized_Bulin_Custom_MKIII_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/de/Specialized_Bulin_Custom_MKIII_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Specialized_Bulin_Custom_MKIII_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Specialized_Bulin_Custom_MKIII_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Specialized_Bulin_Custom_MKIII_Extra2JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,467 @@
+{
+  "name": "Vert",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Neptunia",
+  "ID": "Collab004",
+  "faction": "Neptunia",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "artist": "つなこ",
+  "link": "http://mayo.warabimochi.net",
+  "voiceActor": "https://en.wikipedia.org/wiki/Rina_Sat%C5%8D",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      5523,
+      112,
+      93,
+      0,
+      0,
+      48,
+      28,
+      288,
+      377,
+      12,
+      86,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4802,
+      97,
+      93,
+      0,
+      0,
+      34,
+      28,
+      253,
+      336,
+      12,
+      79,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      929,
+      41,
+      93,
+      0,
+      0,
+      13,
+      28,
+      54,
+      71,
+      4,
+      30,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "120% → 120%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "Dive Bombers",
+  "slot3Efficiency": "110% → 125%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    0,
+    0,
+    62,
+    8
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Number of Fighters +1 / Dive Bombers Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Dive Bombers +1 / Dive Bombers Efficiency +5%",
+  "limitBreak3": "Number of Fighters +1 / Dive Bombers Efficiency +7%",
+  "skill1Name": "Assam Link; CN: 联结·阿萨姆 JP: アッサムリンク",
+  "skill1Description": "Increases own Reload by 1.5% (5%) and reduces damage taken from shelling by self by 1.5% (5%) per Destroyer in the fleet.",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/6/6d/Vert.png",
+      "shipDescription": [
+        "我是绿荫箱庭（Leanbox）的女神，贝露。我也很擅长射击游戏呢，所以就放心交给我吧！",
+        "わたくしはリーンボックスの女神、ベールと申します。シューティングゲームも得意ですので、おまかせくださいまし！",
+        "My name is Vert, I am the CPU of Leanbox. I'm very good at first-person shooters, so please let me handle all combat-related matters!"
+      ],
+      "selfIntroduction": [
+        "我是绿荫箱庭（Leanbox）的女神、贝露。喜欢的东西是红茶和游戏，还有可爱的妹妹们！…嗯？没有妹妹？只要我认定是妹妹，就是妹妹了呀！",
+        "わたくしはリーンボックスの女神、ベールと申します。好きなものは紅茶とゲーム、そして可愛い妹たちですわ！…え？妹なんていないでしょって？わたくしが妹と認定したら妹ですわ！",
+        "My name is Vert, I am the CPU of Leanbox. My favorite things are tea, video games, and my adorable little sisters! ...Hm? I have no little sisters, you say? If I view someone as my little sister then they ARE my little sister!"
+      ],
+      "acquisition": [
+        "我是绿荫箱庭（Leanbox）的女神，贝露。我也很擅长射击游戏呢，所以就放心交给我吧！",
+        "わたくしはリーンボックスの女神、ベールと申します。シューティングゲームも得意ですので、おまかせくださいまし！",
+        "My name is Vert, I am the CPU of Leanbox. I'm very good at first-person shooters, so please let me handle all combat-related matters!"
+      ],
+      "login": [
+        "贵安。我正好泡了红茶，指挥官不妨一起喝杯红茶如何？",
+        "ごきげんよう。　丁度紅茶を淹れたところですわ。指揮官さんもご一緒に如何でしょうか？",
+        "Good day. I was just about to brew some tea. Would you like to have some together with me, Commander?"
+      ],
+      "details": [
+        "呵呵，找我有什么事吗？",
+        "うふふ、わたくしに何か？",
+        "Ohoho, do you have business with me?"
+      ],
+      "secretaryIdle1": [
+        "呵呵呵，指挥官就由我来保护吧，放宽心尽管依靠我吧",
+        "うふふ、指揮官さんはこのわたくしがお守りいたしますわ。大船に乗ったつもりでドーンと構えてくださいまし。",
+        "Ohoho, I will watch over you, Commander. You may rest assured and know that I can guarantee your safety."
+      ],
+      "secretaryIdle2": [
+        "哈！？那孩子、那孩子到底是谁！？请、请一定要让她做我的妹妹——",
+        "はっ！？あの子、あの子は一体誰ですの！？ぜひ、ぜひわたくしの妹になってくださいましー",
+        "Ohhh?! Tell me, what is that girl's name?! Please, I beg you, let me make her my little sister!"
+      ],
+      "secretaryIdle3": [
+        "竟然有这么多可爱的女孩子，我觉得好幸福呢",
+        "可愛い子が沢山いらして、わたくしはとても幸せですわ",
+        "I feel completely overjoyed that there are so many cute little girls here."
+      ],
+      "secretaryTouch": [
+        "呵呵，指挥官真是调皮呢",
+        "ふふ、指揮官さんはイタズラっ子なんですのね",
+        "Ohoho, you're quite the mischief-maker, aren't you?"
+      ],
+      "secretarySpecialTouch": [
+        "要温柔对待女性，不然的话会被讨厌的哦？",
+        "女性は優しく扱わないと嫌われてしまいますわよ？",
+        "If you don't treat women delicately then they will grow tired of you very fast."
+      ],
+      "task": [
+        "指挥官要完成任务的话，5分钟就很够了吧？",
+        "指揮官さんなら５分もあれば任務は余裕ですわよね？",
+        "Even just 5 minutes is plenty of time for you to finish a mission, no?"
+      ],
+      "taskComplete": [
+        "任务完成了呢！快去领取奖励吧！",
+        "任務完了ですわ！ボーナスを受け取りに行きましょう！",
+        "Mission completed! Let us go collect our rewards!"
+      ],
+      "mail": [
+        "有邮件来了呢。要记得经常检查哦",
+        "メールが来たようですわね。こまめにチェックいたしましょう。",
+        "It would appear mail has arrived. I suggest that you check for it regularly."
+      ],
+      "returnFromMission": [
+        "辛苦了呢。要来杯红茶吗？",
+        "お疲れ様ですわ。ティータイムにいたしましょう。",
+        "Thank you for your hard work. Now it is time for some tea."
+      ],
+      "commission": [
+        "大家都回来了呢。一起去迎接他们吧",
+        "皆さんがお戻りになられたようですわ。お迎えに上がりましょう",
+        "It seems everyone was able to make it back. Let us give them a warm welcome."
+      ],
+      "strengthening": [
+        "要以更高处为目标了呢",
+        "さらに上を目指していきますわよ",
+        "I shall set my sights even higher."
+      ],
+      "startingMission": [
+        "指挥官，准备好了吗？",
+        "指揮官さん、準備の方はよろしいかしら？",
+        "Commander, are you prepared for this?"
+      ],
+      "mvp": [
+        "我的字典里可没有失败这个词哦？",
+        "わたくしの辞書に敗北という文字はありませんわ？",
+        "There is no entry for \"defeat\" in my lexicon."
+      ],
+      "defeat": [
+        "这就是失败……原来如此，确实是场令人热血沸腾的战斗",
+        "これが敗北……なるほど、心が沸き立つくらい楽しい戦いでしたわ",
+        "So this is how defeat feels... I see. That battle was so enjoyable that it made my heart race."
+      ],
+      "skillActivation": [
+        "见识一下绿荫箱庭女神的力量吧！",
+        "リーンボックスの女神の力、見せてさしあげますわ",
+        "Witness the glorious power of Leanbox's CPU!"
+      ],
+      "lowHP": [
+        "这样才足以当我的对手呢",
+        "そうこなくては、わたくしの相手として物足りませんわ",
+        "It is just as I thought; the enemy is no match for me."
+      ],
+      "affinityDisappointed": [
+        "我可以回去了吗？",
+        "もう帰ってもよろしいでしょうか？",
+        "Could I just return home to Leanbox?"
+      ],
+      "affinityStranger": [
+        "下次要一起玩我正在玩的网游吗？当然会手把手地辅助你啦～",
+        "今度わたくしがプレイ中のネトゲを一緒にやりませんか？もちろん手取り足取りサポートして差し上げますわ！",
+        "Would you like to play an MMO together with me? Yes, of course I will assist you with everything you need to know!"
+      ],
+      "affinityFriendly": [
+        "今天想办场网游的线下聚会呢。指挥官当然也会参加的吧？参加者就暂定为我和指挥官两个人了哦",
+        "本日ネトゲのオフ会を開きたいと思いまーす。指揮官さんはもちろん参加いたしますわよね？参加者はわたくしと指揮官さんの2名を予定しておりますわ",
+        "I would like to hold a meetup for fellow MMO enthusiasts today! Surely you will be part of it, Commander? I will move forward under the premise that you and I will be in attendance."
+      ],
+      "affinityLike": [
+        "指挥官，能聊聊天吗？最近我有个十分在意的人，不知道该怎么和他相处…不，还是忘了我说的吧！",
+        "指揮官さん、少しご相談してもよろしいでしょうか？最近気になるお方がいるのですが、どうアプローチをすれば良いのか…いえ、やっぱり忘れてくださいまし！",
+        "May I ask you for some advice, Commander? There's a person who I've recently grown quite fond of, but I don't know how I should approach him... On second thought, never mind I said anything!"
+      ],
+      "affinityLove": [
+        "只要和指挥官在一起，就觉得心里暖暖的呢。对，就像我最喜欢的红茶一样。真希望这样的时光能永远持续下去，是不是太贪心了呢？",
+        "指揮官さんと一緒にいると、心が温まりますわ。そう、わたくしの大好きな紅茶によく似ています。永遠にこの時が続いて欲しいって思ってしまうのですが、欲張りでしょうか…？",
+        "Being with you warms my heart, like a hot cup of tea. And just as I love tea, I love you. I want this moment in time to last forever, but perhaps that makes me sound selfish...?"
+      ],
+      "pledge": [
+        "每天都想喝到我泡的红茶吗…我很高兴哦。我很乐意，指挥官…我会为你泡你喜欢喝的红茶的",
+        "わたくしが淹れる紅茶を毎日飲みたいだなんて…嬉しいですわ。喜んで指揮官さん…いえ、あなた好みの紅茶を淹れて差し上げますわ。",
+        "So you wish to drink my tea till death do us apart, I see...? That makes me so happy. I will gladly make tea to just your liking, my commander... no, my sweetheart."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Blanc) 不觉得阅读和红茶很相配吗？要试试吗？",
+        "(Sortie with Blanc) 読書には紅茶がぴったりだと思うのですが、いかがでしょうか？",
+        "(Sortie with Blanc) I think books and tea go hand in hand. May I offer you a cup?"
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with HDN Neptune, Noire, Blanc) 为与我们为敌而忏悔吧！",
+        "(Sortie with HDN Neptune, Noire, Blanc) わたくしたちを敵にしたことを後悔させてあげますわよ！",
+        "(Sortie with HDN Neptune, Noire, Blanc) You will regret the day the you decided to make us your enemy!"
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with 3 Destroyers) 回去以后让我抱抱吧～",
+        "(Sortie with 3 Destroyers) 帰ったら、わたくしが抱きしめて差し上げますわ！",
+        "(Sortie with 3 Destroyers) Once we come back home I will give you all a big hug!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e8/Vert_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Vert_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e8/Vert_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/af/Vert_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Vert_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/af/Vert_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Vert_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Vert_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Vert_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/ff/Vert_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Vert_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/ff/Vert_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Vert_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Vert_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Vert_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Vert_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Vert_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Vert_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Vert_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Vert_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Vert_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/59/Vert_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Vert_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/59/Vert_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Vert_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Vert_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Vert_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Vert_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Vert_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Vert_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Vert_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Vert_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Vert_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Vert_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Vert_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Vert_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Vert_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Vert_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Vert_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/02/Vert_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Vert_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/02/Vert_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/88/Vert_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Vert_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/88/Vert_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3d/Vert_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Vert_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3d/Vert_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Vert_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Vert_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Vert_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/68/Vert_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Vert_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/68/Vert_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Vert_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Vert_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Vert_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Vert_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Vert_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Vert_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/01/Vert_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Vert_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/01/Vert_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/Vert_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Vert_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/Vert_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Vert_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Vert_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Vert_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Vert_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Vert_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Vert_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Vert_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Vert_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Vert_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Vert_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Vert_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Vert_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Vert_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Vert_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Vert_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Vert_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Vert_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Vert_Extra2JP.ogg"
+      ],
+      "additionalVoiceLine3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Vert_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Vert_Extra3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Vert_Extra3JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

@@ -1,0 +1,453 @@
+{
+  "name": "McCall",
+  "constructionTime": "00:25:00",
+  "constructionPools": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "✓ ",
+  "rarity": "Normal",
+  "shipClass": "Gridley",
+  "ID": "009",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "麻酱",
+  "pixiv": "https://www.pixiv.net/member.php?id=1480584",
+  "twitter": "https://twitter.com/shenbeixiaoqiu",
+  "link": "http://weibo.com/u/3032064021",
+  "voiceActor": "https://enpedia.rxy.jp/wiki/%E6%98%A5%E6%9D%91%E5%A5%88%E3%80%85",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1724,
+      196,
+      69,
+      72,
+      429,
+      162,
+      43,
+      171,
+      0,
+      7,
+      194,
+      192,
+      0,
+      0
+    ],
+    "Level 100": [
+      1437,
+      171,
+      69,
+      62,
+      387,
+      156,
+      43,
+      149,
+      0,
+      7,
+      184,
+      173,
+      0,
+      0
+    ],
+    "Base Stats": [
+      278,
+      72,
+      69,
+      13,
+      82,
+      60,
+      43,
+      32,
+      0,
+      1,
+      71,
+      47,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "110% → 115%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "115% → 135%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 125%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 3,
+  "maxLimitBreakTechPoints": 6,
+  "level120StatBonus": "Destroyer (DD) Health  +1",
+  "level120TechPoints": 4,
+  "enhancementValue": [
+    4,
+    27,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    0
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Double Torpedo; CN: 鱼雷连射 JP: 次発装填",
+  "skill1Description": "When launching a wave of torpedoes: 15% (30%) chance to launch another wave.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-グリッドレイ級",
+  "skill2Description": "Every 15 (10) times the main gun is fired, triggers Full Barrage - Gridley Class I (II).",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f0/McCall.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/30/McCallChibi.png",
+      "shipDescription": [
+        "格里德利级驱逐舰—麦考尔，舷号DD-400",
+        "グリッドレイ級駆逐艦・マッコール（DD-400)",
+        "Gridley-class destroyer - McCall, Hull Number DD-400!"
+      ],
+      "selfIntroduction": [
+        "我是格里德利级三号舰麦考尔……除了和姐姐们一样长寿以外没啥特别想说的，看着姐姐妹妹们都这么活跃我就放心了",
+        "グリッドレイ級三番艦のマッコールよ。姉ちゃん達と同じく長生きしてた事以外特に何もないけれど、まあみんなが活躍したのを見れてよかったと思うよ。",
+        "I'm McCall, third ship of the Gridley-class. There isn't much special about me, except that I've lived as long as my big sisters. I'm just relieved know that they're doing well."
+      ],
+      "acquisition": [
+        "你好，指挥官。叫我麦考尔就好，爱好睡觉发呆吃冰棒，请给我安排一个清闲点的位置，谢谢",
+        "こんにちは指揮官さん。マッコールでいいよ。寝たり、ぼーっとしたり、あとアイスを食べたりすることが好き。楽できる配置でお願いするね",
+        "Hello, Commander. Just call me McCall. I like to sleep, daydream, and eat popsicles. Please assign me somewhere peaceful, will you?"
+      ],
+      "login": [
+        "指挥官，我今天就这么坐着可以吗？",
+        "指揮官さん、今日はこのまま座ってるだけでいい？",
+        "Commander, can't I just sit around here for today instead?"
+      ],
+      "details": [
+        "麻烦能快点看么？我想去拿根新的冰棒了",
+        "ごめんちょっと早くしてくれない？新しいアイス取ってきたいの",
+        "Sorry, can we keep it brief? I need a new popsicle."
+      ],
+      "secretaryIdle1": [
+        "唔，我们宅得挺同步的……来根冰棒？",
+        "うん、なんかわたしたち、結構気が合うね……アイス、どう？",
+        "We all get along around here, don't you think? Care for a popsicle?"
+      ],
+      "secretaryIdle2": [
+        "呃……Hawaii热得人都要融化了",
+        "ふぅ……ハワイの天気が熱くて、溶けちゃいそうだよ…",
+        "Ahh... Hawaii was so hot. I felt like I was melting..."
+      ],
+      "secretaryIdle3": [
+        "……（呆）……啊，糟了，冰棒都溶了",
+        "……あぅ……あ、やばい、アイス溶けちゃった",
+        "... Ah! Oh no! My popsicle melted."
+      ],
+      "secretaryTouch": [
+        "……是在鼓励我吗？",
+        "……励ましのつもり、なの？",
+        "... Are you trying to encourage me?"
+      ],
+      "secretarySpecialTouch": [
+        "喂，这样会很热的……",
+        "あ、熱いよ……",
+        "Ah, it's so hot..."
+      ],
+      "task": [
+        "任务嘛~没做完就算了呗",
+        "ミッションか~なるようになるさ",
+        "Missions, huh? Whatever happens, happens."
+      ],
+      "taskComplete": [
+        "麻烦帮我打个包，能快递到家么？",
+        "報酬の荷造り手伝ってー。宅配でお願いしてもいい？",
+        "Help me pack up these rewards... Hey, can we have them sent to my house?"
+      ],
+      "mail": [
+        "啧……这邮件怎么没完没了……",
+        "はぁ。こういうメールって本当にキリがないね……",
+        "*Sigh* There's no end to all this mail..."
+      ],
+      "returnFromMission": [
+        "身体好热啊，有能快速降温的办法么？",
+        "なんか熱いよね、何か冷やせるものない？",
+        "It's kinda hot in here, got anything to help me cool down?"
+      ],
+      "commission": [
+        "……啊，有姐妹回来了，我去给她们送棒冰",
+        "……あ、みんなが戻ってきた。アイス届けてくる",
+        "...Oh, everyone's back. I'll go get some popsicles."
+      ],
+      "strengthening": [
+        "嗯……感觉没什么所谓",
+        "うん……特に何も",
+        "Hm... It's nothing special."
+      ],
+      "startingMission": [
+        "啊，还是要上吗…果然不能一直绕路呢……",
+        "あ、やっぱり戦闘か。流石にずっと避けては通れないよね。",
+        "We have to fight? Guess I couldn't avoid it forever..."
+      ],
+      "mvp": [
+        "古有温酒斩华雄，今有冰棒胜敌……啊，溶了",
+        "「酒冷めぬ間に将を斬る」ってアイスでも行けるかな？…あ、溶けちゃった",
+        "\"Slay the enemy while your blade is still warm\"... Is that true for popsicles as well? Oh, it melted..."
+      ],
+      "defeat": [
+        "喔……吓得我棒棒都掉了……",
+        "うわぁ、びっくりしてアイス落としちゃった……",
+        "Whoa, I got so scared I dropped my popsicle..."
+      ],
+      "skillActivation": [
+        "在冰棒溶掉前解决吧",
+        "アイスが溶ける前に…！",
+        "Let's finish this before my popsicle melts!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "（麦考尔只是继续舔冰棍，并不理你）",
+        "（マッコールはアイスに集中しているようで、こっちには気づいていない素振り）",
+        "(McCall continues licking her popsicle and acts like she didn't notice you.)"
+      ],
+      "affinityStranger": [
+        "听说重樱的闲人们能抱着一杯茶坐一下午，真想和他们交流一下",
+        "重桜の暇人たちはお茶一杯で午後まるごと過ごせるって。色々聞きたいよね",
+        "I heard those Sakura Empire girls sit around and drink tea all afternoon. I'd like to try that some day!"
+      ],
+      "affinityFriendly": [
+        "发呆的心得？大脑放空，什么都不去想，不过冰棒经常会掉就是了……",
+        "ぼーっとするコツ？頭を真っ白にして何も考えないようにすればいいよ。でもまあ、そうしているうちによくアイス溶けちゃうけど……",
+        "Tips for daydreaming? Empty your mind and don't think about anything. Don't forget about your popsicle before it melts, though..."
+      ],
+      "affinityLike": [
+        "指挥官，要吃冰棒吗？间接接吻？指挥官的话就没关系啦……比起这个，背借我靠靠",
+        "指揮官さん、アイス要る？間接キス？指揮官なら大丈夫よ……それより、ぼーっとするからちょっと背中貸して~",
+        "Want a taste of my popsicle, Commander? Ah, yeah, it'd be like an indirect kiss, but that's fine... Anyway, can I daydream for a bit and lean on your back?"
+      ],
+      "affinityLove": [
+        "以前我总觉得，每天像这样舔着冰棒发呆，一成不变的日常就是最好的。遇见指挥官以后，才开始有种可能不是这样的感觉……",
+        "実は、毎日アイス舐めながら一日中ぼーっとして何も変わらない日々が続けばいいなぁと思ってた。指揮官さんと出会ってから、実はそうでも無いって気がしてさ……",
+        "I used to hope that my days of just eating popsicles and daydreaming would go on forever. But after meeting you, Commander, I think I might have been wrong..."
+      ],
+      "pledge": [
+        "我的生活在遇见指挥官之后改变了，接下来和指挥官在一起也一定会遇到许多事情，但是只有和指挥官在一起这一点，我希望永远一成不变……",
+        "わたし、指揮官さんと出会ってから結構変わったね…これからもいろいろあると思うけど、指揮官と一緒にいる、ということだけは変わってほしくないな…",
+        "My life's changed ever since I met you, Commander... I'm sure we'll get to do many new things together. But there's one thing I hope won't ever change: that I'll be together with you..."
+      ],
+      "giftDescriptionValentines2018": [
+        "巧克力+冰棒就是巧克力雪糕…但是既然是情人节了，偶尔也换成盒装雪糕比较好…勺子有两个？应、应该是备用的……吧？",
+        "チョコといえばチョコアイス・・・でもせっかくのバレンタインだから、たまにはカップアイスもいいんだよね。スプーンが２つあるって？え、えっと・・・スペア・・・かな？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "这是半人马推荐给我的，永不融化的“航天冰激凌”……嗯，是巧克力味。要不要一起吃……？",
+        "セントーさんに薦められたこれ、いつまでも融けない「アストロアイス」……うん、チョコレート味よ。一緒に食べない…？",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Here, your Valentine's chocolate, Commander. Nope, it's not a popsicle, it's chocolate... I can handle popsicles at any time of the year, but you have a sensitive stomach, don't you? We'll have some together, later in summer."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/McCall_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/McCall_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/McCall_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0a/McCall_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/McCall_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0a/McCall_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c7/McCall_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/McCall_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c7/McCall_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c1/McCall_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/McCall_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c1/McCall_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e3/McCall_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/McCall_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e3/McCall_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/16/McCall_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/McCall_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/16/McCall_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/5e/McCall_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/McCall_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5e/McCall_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/97/McCall_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/McCall_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/97/McCall_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/McCall_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/McCall_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/McCall_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/McCall_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/McCall_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/McCall_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/McCall_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/McCall_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/McCall_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e1/McCall_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/McCall_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e1/McCall_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/69/McCall_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/McCall_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/McCall_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7f/McCall_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/McCall_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7f/McCall_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/McCall_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/McCall_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/McCall_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5d/McCall_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/McCall_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5d/McCall_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8d/McCall_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/McCall_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8d/McCall_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/McCall_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/McCall_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/McCall_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e2/McCall_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/McCall_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e2/McCall_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0c/McCall_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/McCall_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0c/McCall_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/McCall_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/McCall_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/McCall_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/33/McCall_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/McCall_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/33/McCall_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/McCall_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/McCall_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/McCall_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/23/McCall_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/McCall_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/23/McCall_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/08/McCall_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/McCall_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/08/McCall_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

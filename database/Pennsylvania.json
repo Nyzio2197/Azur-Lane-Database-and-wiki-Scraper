@@ -1,0 +1,462 @@
+{
+  "name": "Pennsylvania",
+  "constructionTime": "04:10:00",
+  "constructionPools": [
+    false,
+    true,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Pennsylvania",
+  "ID": "054",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "artist": "SA",
+  "pixiv": "https://www.pixiv.net/member.php?id=5529284",
+  "link": "http://weibo.com/u/3405529060",
+  "voiceActor": "https://www.imdb.com/name/nm6806421/",
+  "armor": "Heavy",
+  "statsHashMap": {
+    "Level 120": [
+      7194,
+      137,
+      72,
+      390,
+      0,
+      27,
+      21,
+      212,
+      0,
+      13,
+      70,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      6165,
+      119,
+      72,
+      349,
+      0,
+      11,
+      21,
+      185,
+      0,
+      13,
+      54,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      1192,
+      50,
+      72,
+      74,
+      0,
+      4,
+      21,
+      40,
+      0,
+      4,
+      21,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "BB Guns",
+  "slot1Efficiency": "100% → 130%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "200% → 200%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 100%",
+  "collectionStatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Health  +2",
+  "collectionTechPoints": 11,
+  "maxLimitBreakTechPoints": 22,
+  "level120StatBonus": "Battleship (BB) Battlecruiser (BC) Aviation battleship (BBV) Reload  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    61,
+    0,
+    0,
+    10
+  ],
+  "retireValue": [
+    0,
+    11,
+    4,
+    1
+  ],
+  "limitBreak1": "Main Gun Mount +1 / Main Gun Efficiency +5%",
+  "limitBreak2": "Secondary Gun Mount +2 / Main Gun Efficiency +10%",
+  "limitBreak3": "Main Gun Mount +1 / Main Gun Efficiency +15%",
+  "skill1Name": "Sister Penn; CN: 崩姐 JP: ペン姉さん！",
+  "skill1Description": "Every 20 seconds: 30% (60%) chance to fire a unique barrage (damage increases with skill level).",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/af/Pennsylvania.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/61/PennsylvaniaChibi.png",
+      "shipDescription": [
+        "宾夕法尼亚级战列舰—宾夕法尼亚，舷号BB-38",
+        "ペンシルベニア級戦艦・ペンシルベニア（BB-38)",
+        "Pennsylvania-class battleship – Pennsylvania, Hull Number BB-38!"
+      ],
+      "selfIntroduction": [
+        "我是内华达级战列舰的改进型，宾夕法尼亚级大姐头——宾夕法尼亚号。 虽然也没什么好自夸的，不过我也曾多次优秀地完成支援与护航任务，对自己的能力是很自信的，尽管依赖我吧",
+        "ネバダ級の改良型、ペンシルベニア級のネームシップーーペンシルベニアだ。 自慢ではないけど、支援と護衛任務を何度も上手く遂行した。能力には自信があるから、どんどん頼ってくれ",
+        "I'm Pennsylvania, lead ship of an improved Nevada class. You can call me \"Sister Penn.\" I really shouldn't brag, but I've sortied on countless successful missions. You can definitely depend on me!"
+      ],
+      "acquisition": [
+        "我是内华达级战列舰的改进型，宾夕法尼亚级大姐头——宾夕法尼亚号，你可以叫我崩姐。多次优秀地完成支援与护航的任务，我对自己的能力是很自信的",
+        "私はネバダ級戦艦の改良型、ペンシルベニア級戦艦のネームシップ、ペンシルベニアよ。ペン姉さんって呼んで。支援と護衛任務を何度も成功させてきた。何でもできる自信があるわ",
+        "I'm Pennsylvania, lead ship of an improved Nevada class. You can call me \"Sister Penn.\" I've sortied on countless successful missions, so you can be confident in my ability."
+      ],
+      "login": [
+        "指挥官，如果有什么意见的话，不用顾虑地直接说出来",
+        "指揮官、意見があれば、遠慮なく言って",
+        "Commander, you know you can always share any thoughts you have with me."
+      ],
+      "details": [
+        "十分感谢。被人这么关心还是头一次……",
+        "ありがとう、こんなに気にかけてもらえるの、初めてだ…",
+        "Thanks. This is the first time someone has really cared about me..."
+      ],
+      "secretaryIdle1": [
+        "你这眼神，怎么好像被抛弃的小狗一样",
+        "その目、なんだか捨てられた子犬みたいね",
+        "Your eyes... Why do they look like those of an abandoned puppy?"
+      ],
+      "secretaryIdle2": [
+        "麻烦你别用那种看见食物般的眼神看着我",
+        "そんな飢えた目で私を見ないでくれる？",
+        "Can you please not look at me with those hungry eyes?"
+      ],
+      "secretaryIdle3": [
+        "你的想象真是贫乏啊。不会是姐控吧？！",
+        "ほんと、想像力が乏しいのね。あなた…まさかシスコン！？",
+        "You don't have the best imagination, do you?"
+      ],
+      "secretaryTouch": [
+        "没什么事就别一惊一乍的",
+        "何もないなら、いちいち興奮しないでよ",
+        "You dont have to get worked up over tiny things, Commander."
+      ],
+      "secretarySpecialTouch": [
+        "……！！你、你真的是笨蛋吗？",
+        "…！！ちょっと、頭大丈夫？",
+        "...!! Hold up, are you alright in the head?"
+      ],
+      "task": [
+        "我说，你是不是有任务忘了？",
+        "任務、忘れた？",
+        "I say, have you forgotten a mission?"
+      ],
+      "taskComplete": [
+        "奖励就放着了，别忘了收起来",
+        "ボーナスはこっちに置いておく。回収するのだけは忘れるでないぞ",
+        "I left your rewards over there. Don't forget to collect them!"
+      ],
+      "mail": [
+        "接着，信，好好回复人家啊",
+        "ほら、メールだ。ちゃんと返しなさいな",
+        "Here, I got your mail. Will ya make sure to reply soon?"
+      ],
+      "returnFromMission": [
+        "战斗完后喝一杯的滋味可是不同凡响的，来一杯？",
+        "戦闘のあとの一杯は格別よ。あなたもどう？",
+        "Having a drink after battle is something else. You want some?"
+      ],
+      "commission": [
+        "委托完成了……不错，大家都在成长",
+        "委託完了だ。みんなが成長している。結構よ",
+        "Commission completed... Not bad. Everyone seems to be growing stronger."
+      ],
+      "strengthening": [
+        "尽管依赖我吧",
+        "私に頼っていいわ",
+        "You can depend on me."
+      ],
+      "startingMission": [
+        "来，尝尝我14英寸的舰炮吧！",
+        "さあ、この14インチ砲を受けるがいい！",
+        "Come on, taste my 14-inch guns!"
+      ],
+      "mvp": [
+        "啧……无聊，真是个十分无趣的结果啊",
+        "ちぇっ…こんなんで勝ってもちっとも面白くないわ",
+        "Tsk...Winning like this is so dull..."
+      ],
+      "defeat": [
+        "稍微有点期待你指挥能力的我也是太轻率了",
+        "あなたの指揮能力にちょっとでも期待した私がバカだった…",
+        "I was a fool to have any expectations of your commanding abilities."
+      ],
+      "skillActivation": [
+        "你们只有这种程度吗？",
+        "あんたたち、この程度？",
+        "Is that the best you've got?"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "你还真是个胆小鬼啊……",
+        "こんな臆病者だったとは……",
+        "You're such a coward..."
+      ],
+      "affinityStranger": [
+        "你就和亚利桑那一样站在我的身后就好了，姐姐会保护好你们的",
+        "アリゾナと同じく私の後ろに隠れてな。この私が守ってやるよ",
+        "You and Arizona can hide behind me. I'll protect you."
+      ],
+      "affinityFriendly": [
+        "想要和我站在一起？……你要想好，这可是非常，非常难的事",
+        "私と肩を並べる気？……よく考えてごらん。それはとても困難なことなのよ",
+        "You want to stand next to me?... Think carefully now. That is a very hard thing to do."
+      ],
+      "affinityLike": [
+        "不用勉强也没关系，你已经很努力了，没想到你居然不是开玩笑……怎么说呢，我习惯去保护人了……像你这样的，还真是头一个",
+        "そんなに無理しなくてもいいわ。あなたが頑張っているもの。私もまさか本気だったとは考えていなかったけど……なんというか、人を守るのは慣れているが……あなたのような人は、初めてだ",
+        "It's alright if you don't want to push yourself further. You've worked very hard. I thought you were joking, but... How do I say this... I'm used to protecting others... But to meet someone who cares about me really is something else."
+      ],
+      "affinityLove": [
+        "嗯，你很努力了，我也没想到你真的跟上了我的脚步……想要什么奖励吗？一个吻，还是一个难忘的夜晚？都可以哦~",
+        "うん、頑張ってるな。まさか本当に私について来れてるとは思わなかったが……ご褒美は何がいい？キスか？忘れられないほど素敵な夜か？どっちでもいいわ",
+        "Mmm, you've worked so hard. I didn't think that you'd be able to catch up with me... You want a reward? How about a kiss? Or an unforgettable evening? Both are fine with me~!"
+      ],
+      "pledge": [
+        "这支舰队看来就是我的归宿了……有应该保护的人，有明明一只鸡都杀不死却想要保护我的人，偏偏我还高兴的不行……笨蛋，抱住我",
+        "この艦隊こそ私の帰る場所のようだな……守りたい人と、虫も殺せないのにこの私を守ろうとする人、そしてその人のために舞い上がってる私……バカ…",
+        "This fleet has turned into a place I can call home... The people I want to protect, and the person who protects me despite being unable to kill a bug, and then the 'me' who becomes so giddy for that person are all here... You idiot *blush*..."
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Saratoga, Nagato) 作为大人，让我来保护你们！",
+        "(Sortie with at least 1 of: Nagato, Saratoga) 大人として守ってやるわ！",
+        "(Sortie with at least 1 of: Nagato, Saratoga) As an adult, let me protect you!"
+      ],
+      "giftDescriptionValentines2018": [
+        "这是我和亚利桑那一起做的巧克力，没问题就收着吧。参加这种活动的话那孩子心情也比较轻松。指挥官，谢谢你了",
+        "アリゾナと一緒に作ったチョコ、よかったら受け取って。こういう行事に参加するとあの子も気分が晴れる。指揮官、ありがとう。",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，这是情人节的巧克力哦。至于味道……嗯，对你而言算是“大人的味道”。到了晚上再吃吧。",
+        "指揮官、バレンタインチョコよ。味は…そうね、あなたからすると「大人の味」になりそうね。夜になってから食べてちょうだい。",
+        "Arizona and I made this chocolate together. Take it if you want. Even she cheers up when she preoccupies herself with stuff like this. And thank you, Commander."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's, Commander. Just one thing: I expect you'll like this chocolate, but not exactly in a \"happy\" kind of way. Tell you what, how about I explain what I mean over a romantic dinner later?"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Pennsylvania_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Pennsylvania_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Pennsylvania_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Pennsylvania_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Pennsylvania_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Pennsylvania_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f1/Pennsylvania_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Pennsylvania_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f1/Pennsylvania_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Pennsylvania_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Pennsylvania_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Pennsylvania_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/22/Pennsylvania_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Pennsylvania_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/22/Pennsylvania_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/40/Pennsylvania_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Pennsylvania_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/40/Pennsylvania_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Pennsylvania_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Pennsylvania_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Pennsylvania_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Pennsylvania_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Pennsylvania_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Pennsylvania_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Pennsylvania_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Pennsylvania_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Pennsylvania_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Pennsylvania_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Pennsylvania_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Pennsylvania_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Pennsylvania_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Pennsylvania_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Pennsylvania_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2a/Pennsylvania_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Pennsylvania_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2a/Pennsylvania_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/35/Pennsylvania_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Pennsylvania_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/35/Pennsylvania_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Pennsylvania_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Pennsylvania_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Pennsylvania_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b4/Pennsylvania_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Pennsylvania_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b4/Pennsylvania_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/93/Pennsylvania_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Pennsylvania_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/93/Pennsylvania_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Pennsylvania_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Pennsylvania_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Pennsylvania_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Pennsylvania_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Pennsylvania_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Pennsylvania_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b0/Pennsylvania_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Pennsylvania_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b0/Pennsylvania_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/2f/Pennsylvania_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Pennsylvania_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2f/Pennsylvania_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/81/Pennsylvania_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Pennsylvania_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/81/Pennsylvania_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c0/Pennsylvania_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Pennsylvania_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c0/Pennsylvania_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Pennsylvania_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Pennsylvania_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Pennsylvania_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Pennsylvania_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Pennsylvania_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Pennsylvania_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Pennsylvania_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Pennsylvania_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Pennsylvania_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ed/Pennsylvania_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Pennsylvania_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ed/Pennsylvania_Extra1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

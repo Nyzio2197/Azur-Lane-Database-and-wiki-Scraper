@@ -1,0 +1,608 @@
+{
+  "name": "Minato Aqua",
+  "constructionTime": "00:20:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Super Rare",
+  "shipClass": "Hololive",
+  "ID": "Collab053",
+  "faction": "Hololive",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "artist": "Gaou",
+  "pixiv": "https://www.pixiv.net/member.php?id=3569577",
+  "twitter": "https://twitter.com/umaiyo_puyoman",
+  "link": "http://matsulatte.uunyan.com/",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/5/50/Minato_Aqua_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1681,
+      109,
+      64,
+      65,
+      539,
+      45,
+      18,
+      0,
+      0,
+      7,
+      175,
+      0,
+      268,
+      2
+    ],
+    "Level 100": [
+      1401,
+      94,
+      64,
+      57,
+      490,
+      25,
+      18,
+      0,
+      0,
+      8,
+      159,
+      0,
+      268,
+      2
+    ],
+    "Base Stats": [
+      271,
+      40,
+      64,
+      12,
+      104,
+      10,
+      18,
+      0,
+      0,
+      3,
+      61,
+      0,
+      268,
+      2
+    ]
+  },
+  "slot1Equipment": "Submarine Torpedoes",
+  "slot1Efficiency": "110% → 125%",
+  "slot2Equipment": "Submarine Torpedoes",
+  "slot2Efficiency": "110% → 125%",
+  "slot3Equipment": "DD Guns",
+  "slot3Efficiency": "85% → 85%",
+  "collectionTechPoints": 0,
+  "maxLimitBreakTechPoints": 0,
+  "level120TechPoints": 0,
+  "enhancementValue": [
+    1,
+    41,
+    0,
+    8
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    10
+  ],
+  "limitBreak1": "Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Hunting Radius Increase",
+  "limitBreak3": "Torpedo Efficiency +10%",
+  "skill1Name": "Shut-in Maid; CN: 室内系女仆 JP: インドア系メイド",
+  "skill1Description": "Decreases own Oxygen stat by 150 (60). For 20 seconds after entering battle, increases own damage dealt by 15% (30%). When retreating: increases Speed by 100% during the retreat.",
+  "skill2Name": "Failen Angel; CN: 废柴天使 JP: ダメ天使",
+  "skill2Description": "When entering battle, gives all allied ships a random buff. Allied Hololive ships will receive 1.5x buff effect. Possible effects (20% chance each) are:",
+  "skill3Name": "Promise to the Sunflower; CN: 向日葵的约定 JP: ひまわりの約束",
+  "skill3Description": "When entering battle: fires a special barrage with 100% critical hit chance (damage scales with skill level). If fleet consists of at least 2 other Hololive ships, improves the barrage.",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f8/Minato_Aqua.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c4/Minato_AquaChibi.png",
+      "shipDescription": [
+        "早、早阿库娅~！我是Hololive所属游戏女仆、湊阿库娅。呜、呜呜……没听说过要穿成这样打招呼啊~！",
+        "こ、こんあくあ〜…！ホロライブ所属のゲーマーメイド、湊あくあでーす。う、うぅ…こんな格好で挨拶するなんて聞いてないよ〜！",
+        "G-Good Aquafternoon...! I'm Minato Aqua, the Gamer Maid from Hololive~ U-Ugh... I didn't know I would have to introduce myself in this outfit!"
+      ],
+      "selfIntroduction": [
+        "我是hololive所属的虚拟女仆！虽然经常被说迷迷糊糊…其实才没有呢！",
+        "ホロライブ所属のバーチャルメイド！おっちょこちょいでドジとかよく言われるけど…そんなことないもん！",
+        "The Virtual Maid of Hololive! I'm often called clumsy and careless, but... that's not true!"
+      ],
+      "acquisition": [
+        "早、早阿库娅~！我是hololive所属游戏女仆、湊阿库娅。呜、呜呜……没听说过要穿成这样打招呼啊~！",
+        "こ、こんあくあ〜…！ホロライブ所属のゲーマーメイド、湊あくあでーす。う、うぅ…こんな格好で挨拶するなんて聞いてないよ〜！",
+        "G-Good Aquafternoon...! I'm Minato Aqua, the Gamer Maid from Hololive~ U-Ugh... I didn't know I would have to introduce myself in this outfit!"
+      ],
+      "login": [
+        "早阿库娅~我还要再玩一会游戏，指挥官工作加油哦~",
+        "こんあくあ〜わたしもちょっとゲームするから、指揮官お仕事頑張ってねぇ～",
+        "Good Aquafternoon~ I'm going to be playing games for a bit as well, so best of luck with your work, Commander~"
+      ],
+      "details": [
+        "只要我站在舰装上，就能比指挥官还高了！.....大概",
+        "この艤装の上に立てば、指揮官よりも背が高く見える！…はず",
+        "If I stand on top of this equipment, I'm taller than the Commander! ... Or so it was supposed to be."
+      ],
+      "secretaryIdle1": [
+        "平时都穿着女仆装，这样还真有点冷静不下来呢…",
+        "普段はメイド服だから落ち着かないなぁ",
+        "I usually wear a maid uniform so this is a bit uncomfortable."
+      ],
+      "secretaryIdle2": [
+        "不要一直盯着我看啦！太让人害羞了！",
+        "あんまりジロジロみないでよね！恥ずかしいんだから！",
+        "Don't stare at me so much, okay?! I'm really embarrassed!"
+      ],
+      "secretaryIdle3": [
+        "再看就要请我吃好吃的东西了啦！",
+        "こんど見たら美味しいものご馳走してもらうよ！",
+        "If you look at me again, I'm going to have you treat me to something tasty!"
+      ],
+      "secretaryTouch": [
+        "怎么了？有事情要拜托身为最强女仆的我了吗？",
+        "ん？最強メイドであるこの私に頼みたいことでもあるの？",
+        "Hm? Did you have something you wanted to request of the strongest maid, me?"
+      ],
+      "secretarySpecialTouch": [
+        "不，行！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！",
+        "ダ、メ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！",
+        "DON'T DO THAT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+      ],
+      "secretaryHeadpat": [
+        "嘿嘿嘿嘿，很痒啊，指挥官",
+        "えへへへへ、くすぐったいよ、指揮官！",
+        "Ehehehe, that tickles, Commander!"
+      ],
+      "task": [
+        "在指挥官没有完成任务之前，我都会一直陪着你哦",
+        "指揮官が任務を達成するまで、ずっと付き合うよ",
+        "Commander, I'll stay with you as long as it takes you to finish your missions."
+      ],
+      "taskComplete": [
+        "任务完成~！一直看着努力工作的指挥官，我也感觉好累啊...",
+        "任務達成～！ずっと頑張ってる指揮官を見て、こっちまで疲れてきちゃった…",
+        "Mission completed~! Commander, watching you give it your all until the end... has made even me tired…"
+      ],
+      "mail": [
+        "指挥官的邮件，只是偷看一下的话...哇啊！为什么都没有注音啊！",
+        "指揮官あてのメール、ちょっとだけ覗いて…げぇ！なんで漢字にふりがなが付いてないの！",
+        "Mail directed at the Commander, let's take a peek... Eww! What's with all the naval jargon?!"
+      ],
+      "returnFromMission": [
+        "“欢迎回来，主人。”嘿嘿，刚这句是不是很有女仆的感觉！？~指挥室的扫除和今天的晚饭就拜托指挥官了哦~",
+        "「ご主人、お帰りなさい！」なんちゃって、今のすごいメイドっぽくなかった！？～んじゃ、執務室の掃除と今日の晩ご飯の支度、よろしく～",
+        "\"Welcome back, Master!\" or something. Wasn't that super maid-like?! Well then, I'll leave the cleaning of the office and preparation of dinner to you~"
+      ],
+      "commission": [
+        "指挥官！委托队带着几亿兆物资回来啦！",
+        "指揮官！委託組がたくさんの物資を持って帰ってきたよ！",
+        "Commander! The Commission Team has brought a ton of materials back!"
+      ],
+      "strengthening": [
+        "这样就变强了吗？原来如此，懂了懂了",
+        "これで強くなった？なるほどね、理解理解。",
+        "Did I become stronger? Hm, I see, I get it, I get it."
+      ],
+      "startingMission": [
+        "阿库娅号，全弹发射！...哎？不是这个按钮？！！",
+        "あくあ号、全弾発射！…ってあれ！？こっちのボタンじゃない！？",
+        "Submarine Aqua, all-out attack! ... Eh? This button isn't the right one?"
+      ],
+      "mvp": [
+        "哼哼哼，你，弱，我，强",
+        "ふっふっふ～、お前、弱い、あたし、強い",
+        "You, Weak, Me, Strong"
+      ],
+      "defeat": [
+        "完蛋啦--！对不起，对不起，对不起，真的十分对不起！！！",
+        "終わったーー！すみません、すみません、すみません、本当にすみませんでした！！！",
+        "I'm donezo!! I'm sorry, I'm sorry, I'm sorry, I'm telling you, I'm really sorry!!!"
+      ],
+      "skillActivation": [
+        "余裕、余裕",
+        "余裕よ余裕～",
+        "Too easy~"
+      ],
+      "lowHP": [
+        "不行了啦~~~！指挥官，撤退吧！",
+        "もうダメーーーー！撤退しよう、指揮官！",
+        "I can't go on...! Commander, let's retreat!"
+      ],
+      "affinityDisappointed": [
+        "我，湊阿库娅马上就要毕业了，虽然时间短暂，不过，还是感谢您一直以来的关照",
+        "わたし、湊あくあは、まもなく卒業します。短い間ですが、今までありがとうございました",
+        "I, Minato Aqua, will soon be graduating from this post. While it has been a short while, thank you for all you've done for me all this time."
+      ],
+      "affinityStranger": [
+        "指挥官知道A·M·T么？是阿库娅真是天使的缩写哦~哈哈哈，尽情的崇拜我吧",
+        "指揮官、「A·M·T」って知ってる？「あくあ まじ てんし」の略だぞ～はっはっはー！私を崇めなさい！",
+        "Commander, do you know about \"A.M.T\"? Basically, it stands for \"Angelic Maid Talent\"~ Hahaha~! Worship me!"
+      ],
+      "affinityFriendly": [
+        "迷糊女仆？废柴天使？！！太过分了，指挥官！只是把水烧开这种程度的话，完全没有问题哦！！！",
+        "ポンコツメイド！？ダメ天使！？ひどいよ指揮官！お湯を沸かす程度なら、全然問題ないよ！",
+        "Useless maid?! Failen Angel?! You're so cruel, Commander! If it's just something like warming up the bath, I can do it with no issues!"
+      ],
+      "affinityLike": [
+        "这，个，是，阿库娅经过皇家女仆特训之后的成果！正宗皇家红茶！不愧是我，在如此短的时间内就掌握了诀窍！……味道不对？怎么可能！",
+        "こ・れ・ぞ、あくあのロイヤルメイド特訓の成果！本格ロイヤル紅茶！うん、さすが私、こんな短期間でコツを完璧に会得したとは！…ん？味が変？んな馬鹿なぁ！",
+        "THIS IS IT. The results of my special Royal Navy maid training! Genuine Royal Navy black tea! Yep, as expected of me! That I'd be able to perfectly grasp the hang of this in such a short period of time! ... Hm? The taste is weird? There'z nowai!"
+      ],
+      "affinityLove": [
+        "指挥官与主人，指挥官更喜欢哪个称呼~哎？我自己决定就好？那么，工作的时间叫指挥官，休息的时间叫主人，就这么决定了！",
+        "指揮官とご主人、呼び方はどっちがいい？——あくあにお任せ？じゃあ、仕事中は指揮官、休み中はご主人で！決まりだね！",
+        "Commander or Master, which do you prefer to be called by? ... You'll leave it to me? Then, I'll call you Commander while working and Master when I'm on break! It's settled!"
+      ],
+      "pledge": [
+        "这个是...誓约戒指？！指挥官！等、等、等...现在应该叫主人才对，也不对....如果收下了这个主人也就不再是主人了，应该叫...亲爱的....么？感觉好害羞啊...这个戒指，湊阿库娅可以收下吗？欸嘿嘿，谢谢你，亲爱的~",
+        "これが…誓いの指輪！？指揮官、これって…待って待って待って、これはつまりいまから指揮官ではなく「ご主人」…じゃなくて、いやいや、「ご主人」でも変だし。えっと、「あなた」、だっけ？うぅ…なんか恥ずかしいよぉ…指輪、あくあが貰っちゃっていいの？えへへへ、ありがとう、あなた…",
+        "This is... a Promise Ring?! Commander, this would... waitholdonasecond, with this you mean to say that you're no longer the Commander but \"Master\"... not that even, nono Master is \"Master\" but in a different sense and... Um, \"Darling,\" was it? Oh no... it's embarrassing... Commander, is it really okay for me to have this? Ehehe, thanks, Darling…"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with at least 1 of: Sheffield, Glasgow, Newcastle, Edinburgh, Belfast, Little Bel, Sirius, Curacoa, Curlew, Suffolk) 这就是皇家的女仆的实力么...我也要加把劲了！",
+        "(Sortie with at least 1 of: Sheffield, Glasgow, Newcastle, Edinburgh, Belfast, Little Bel, Sirius, Curacoa, Curlew, Suffolk) これがロイヤルメイドの実力か…わたしも頑張らないと！",
+        "(Sortie with at least 1 of: Sheffield, Glasgow, Newcastle, Edinburgh, Belfast, Little Bel, Sirius, Curacoa, Curlew, Suffolk) Gammadion Gang, let's go! Is this the true power of the Royal Maids... I guess I'll have to do my best, too!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/06/Minato_Aqua_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Minato_Aqua_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/06/Minato_Aqua_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Minato_Aqua_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Minato_Aqua_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Minato_Aqua_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Minato_Aqua_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Minato_Aqua_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Minato_Aqua_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Minato_Aqua_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Minato_Aqua_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Minato_Aqua_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Minato_Aqua_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Minato_Aqua_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Minato_Aqua_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4f/Minato_Aqua_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Minato_Aqua_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4f/Minato_Aqua_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/29/Minato_Aqua_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Minato_Aqua_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/29/Minato_Aqua_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Minato_Aqua_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Minato_Aqua_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Minato_Aqua_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/47/Minato_Aqua_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Minato_Aqua_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/47/Minato_Aqua_Sec2JP.ogg"
+      ],
+      "secretaryHeadpatUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fa/Minato_Aqua_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Minato_Aqua_HeadpatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fa/Minato_Aqua_HeadpatJP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/74/Minato_Aqua_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Minato_Aqua_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/74/Minato_Aqua_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/25/Minato_Aqua_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Minato_Aqua_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/25/Minato_Aqua_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Minato_Aqua_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Minato_Aqua_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Minato_Aqua_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/46/Minato_Aqua_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Minato_Aqua_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/46/Minato_Aqua_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0d/Minato_Aqua_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Minato_Aqua_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0d/Minato_Aqua_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/70/Minato_Aqua_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Minato_Aqua_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/70/Minato_Aqua_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Minato_Aqua_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Minato_Aqua_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Minato_Aqua_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Minato_Aqua_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Minato_Aqua_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Minato_Aqua_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d1/Minato_Aqua_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Minato_Aqua_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d1/Minato_Aqua_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0b/Minato_Aqua_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Minato_Aqua_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0b/Minato_Aqua_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Minato_Aqua_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Minato_Aqua_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Minato_Aqua_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f8/Minato_Aqua_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Minato_Aqua_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f8/Minato_Aqua_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/2/28/Minato_Aqua_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Minato_Aqua_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/28/Minato_Aqua_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/07/Minato_Aqua_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Minato_Aqua_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/07/Minato_Aqua_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f9/Minato_Aqua_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Minato_Aqua_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f9/Minato_Aqua_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a7/Minato_Aqua_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Minato_Aqua_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a7/Minato_Aqua_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/ab/Minato_Aqua_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Minato_Aqua_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/ab/Minato_Aqua_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Minato_Aqua_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Minato_Aqua_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Minato_Aqua_Extra1JP.ogg"
+      ]
+    },
+    {
+      "ENClientName": "Marine Maid",
+      "ENClientAvailability": "Limited",
+      "CNClientName": "海之女仆",
+      "CNClientAvailability": "Limited",
+      "JPClientName": "マリンメイド",
+      "JPClientAvailability": "Limited",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 900",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b9/Minato_AquaMaid.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/21/Minato_AquaMaidChibi.png",
+      "shipDescription": [
+        "指挥官，早阿库娅~！初次见面，我是hololive所属的游戏女仆湊阿库娅！会让你见识到最强女仆的实力的！！！！！",
+        "指揮官、こんあくあ〜！はじめまして、ホロライブ所属のゲーマーメイド湊あくあです！最強メイドの実力見せてやるんだから！！！！！！",
+        "Commander, good Aquafternoon~! Nice to meet you, it's Aqua, the Gamer Maid from Hololive! I'll show ya what the strongest maid can do!"
+      ],
+      "acquisition": [
+        "啊、啊，大家好，早阿库娅~总而言之，今天要开始碧蓝航线的直播了哦！",
+        "あー、あー、みなさんどうもこんあくあー。ということで、今日はアズールレーンの配信始めちゃうよー",
+        "Commander, good Aquafternoon~! Nice to meet you, it's Aqua, the Gamer Maid from Hololive! I'll show ya what the strongest maid can do!"
+      ],
+      "login": [
+        "呼~今天没有睡过头真是太好了。那么接下来，指挥官，需要我做些什么吗？",
+        "ふぅ～今日は寝坊しなくてよかった。で、私なにすればいい、指揮官？",
+        "Whew~ I'm glad I didn't sleep in today. Well, what should I do, Commander?"
+      ],
+      "details": [
+        "先、先说一下…我不会游泳，指挥官可要好好支援我哦！不过浅水的话倒还好…",
+        "い、いちおう伝えておくけど…わたしかなずちなんだから指揮官がサポートしてよね！浅瀬なら平気だけど…",
+        "I-I'm telling you just this once, so... I sink like a rock in the water, so make sure you support me properly, okay! I'm okay with shallow water, though."
+      ],
+      "secretaryIdle1": [
+        "主…指挥官！平常没叫习惯，总觉得有点混乱呢…",
+        "ごしゅ…指揮官！普段呼び慣れてないからややこしいなぁ…",
+        "Mas... Commander! It's really confuzzling because I'm not used to calling people that ..."
+      ],
+      "secretaryIdle2": [
+        "不要觉得因为是女仆，所以就很擅长护理工作哦",
+        "メイドだからってお世話全般得意なわけじゃないんだからね！",
+        "Just because I'm a virtual maid doesn't mean that I'm good at doing all sorts of chores!"
+      ],
+      "secretaryIdle3": [
+        "作为照顾指挥官的回报，请我吃寿司啦~",
+        "お世話してあげる代わりにおいしいお寿司食べさせてよー！",
+        "In exchange for taking care of chores, feed me tasty sushi~!"
+      ],
+      "secretaryIdle4": [
+        "哼哼哼，设备升级之后就能做更多有趣的企划了。总之先把光影效果全开，然后点火.....全都炸飞吧！！！哎？E-R-R-O-R？Neeeeeeeeeee！！！！！！",
+        "ふふふ、設備をアップグレードしたら、もっと面白い企画ができるぞ！とりあえずグラフィックエフェクト全開にして、こうやって火をつけて…すべてを吹っ飛ばす！！！——え、エラー？…ぇ”ぇ”ぇ”ー！！！！！！",
+        "Hehehehe, I'll be able to make my broadcast more interesting if I upgrade my equipment! For now, let's set the visual effects to MAX, start this up like so, and ... let's blow everything up!!! ... Eh, an error...? ... Come onNNNNNNNN!!!"
+      ],
+      "secretaryTouch": [
+        "要玩游戏吗？我可是超强的，做好心理准备吧！",
+        "ゲームする？私めっちゃ強いぞ、覚悟しなさい！",
+        "You wanna play a game with me? I'm super duper strong, so prepare yourself!"
+      ],
+      "task": [
+        "...任务？指挥官，其实我刚刚得了一种只要离开房间就会死的病，任务就拜托你了！！！！！！",
+        "に…任務？あー実は私、部屋を出ると死ぬ病気なの！というわけで任務頼んだぞ、指揮官！！！！",
+        "M... Mission? ...To tell you the truth, I've got a disease that kills me if I leave the room! As such, I'll leave the Mission to YOU, Commander!!!"
+      ],
+      "defeat": [
+        "嘶--------咦？刚刚一瞬间的记忆，好像消失了？",
+        "すぅぅうう——あれ、さっき記憶が一瞬飛んじゃなった？",
+        "*Breathes in* ...Eh, did I just black out?"
+      ],
+      "affinityFriendly": [
+        "哼哼哼，设备升级之后就能做更多有趣的企划了。总之先把光影效果全开，然后点火.....全都炸飞吧！！！哎？E-R-R-O-R？Neeeeeeeeeee！！！！！！",
+        null,
+        null
+      ],
+      "affinityLike": [
+        "指挥官也对直播有兴趣么？太好了！作为入门企划，24小时耐久，极限俄罗斯方块，指挥官挑一个喜欢的吧~！",
+        null,
+        null
+      ],
+      "affinityLove": [
+        "指挥官也对直播有兴趣么？太好了！作为入门企划，24小时耐久，极限俄罗斯方块，指挥官挑一个喜欢的吧~！",
+        "指揮官も配信に興味あるの？やったぁ！じゃ初心者企画として、24時間耐久、我慢配信、好きなやつを選んで、配信しよう～",
+        "Commander, are you interested in live streaming too? Yaaay! Then, for your debut as a newbie streamer, pick between a 24-hour endurance stream and Tetris 99, and let's get streaming~"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d8/Minato_Aqua_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Minato_Aqua_IntroSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d8/Minato_Aqua_IntroSkin1JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c6/Minato_Aqua_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Minato_Aqua_LogSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c6/Minato_Aqua_LogSkin1JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Minato_Aqua_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Minato_Aqua_DetailsSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Minato_Aqua_DetailsSkin1JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e7/Minato_Aqua_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Minato_Aqua_SecIdle1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e7/Minato_Aqua_SecIdle1Skin1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Minato_Aqua_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Minato_Aqua_SecIdle2Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Minato_Aqua_SecIdle2Skin1JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/e/ec/Minato_Aqua_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Minato_Aqua_SecIdle3Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/ec/Minato_Aqua_SecIdle3Skin1JP.ogg"
+      ],
+      "secretaryIdle4Url": [
+        "https://azurlane.koumakan.jp/w/images/8/8b/Minato_Aqua_SecIdle4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Minato_Aqua_SecIdle4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8b/Minato_Aqua_SecIdle4Skin1JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8c/Minato_Aqua_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Minato_Aqua_Sec1Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8c/Minato_Aqua_Sec1Skin1JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d7/Minato_Aqua_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Minato_Aqua_TaskSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d7/Minato_Aqua_TaskSkin1JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/42/Minato_Aqua_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Minato_Aqua_DefeatSkin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/42/Minato_Aqua_DefeatSkin1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Minato_Aqua_Affinity2Skin1JP.ogg",
+        null,
+        null
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/6f/Minato_Aqua_Affinity3Skin1JP.ogg",
+        null,
+        null
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Minato_Aqua_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Minato_Aqua_Affinity4Skin1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Minato_Aqua_Affinity4Skin1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

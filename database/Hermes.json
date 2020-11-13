@@ -1,0 +1,784 @@
+{
+  "name": "Hermes",
+  "constructionTime": "02:10:00",
+  "constructionPools": [
+    false,
+    false,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Normal",
+  "shipClass": "Hermes",
+  "ID": "140",
+  "faction": "Royal Navy",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": true,
+  "artist": "梦咲枫",
+  "pixiv": "https://www.pixiv.net/member.php?id=1023957",
+  "twitter": "https://twitter.com/yumesaki_kaede/",
+  "link": "http://weibo.com/u/3558369570",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/e/e0/Hermes_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4157,
+      173,
+      41,
+      0,
+      0,
+      66,
+      25,
+      247,
+      280,
+      9,
+      81,
+      104,
+      0,
+      0
+    ],
+    "Level 120 Retrofit": [
+      4367,
+      193,
+      41,
+      0,
+      0,
+      66,
+      25,
+      297,
+      300,
+      9,
+      81,
+      104,
+      0,
+      0
+    ],
+    "Level 100 Retrofit": [
+      3763,
+      170,
+      41,
+      0,
+      0,
+      47,
+      25,
+      265,
+      266,
+      9,
+      68,
+      91,
+      0,
+      0
+    ],
+    "Level 100": [
+      3553,
+      150,
+      41,
+      0,
+      0,
+      47,
+      25,
+      215,
+      246,
+      9,
+      68,
+      91,
+      0,
+      0
+    ],
+    "Base Stats": [
+      687,
+      64,
+      41,
+      0,
+      0,
+      18,
+      25,
+      46,
+      52,
+      2,
+      26,
+      25,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Torpedo Bombers",
+  "slot1Efficiency": "115% → 130% → 140%",
+  "slot2Equipment": "Torpedo Bombers",
+  "slot2Efficiency": "115% → 130% → 140%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "80% → 80% → 85%",
+  "collectionStatBonus": "Light aircraft carrier (CVL) Anti-submarine warfare  +1",
+  "collectionTechPoints": 4,
+  "maxLimitBreakTechPoints": 9,
+  "level120StatBonus": "Light aircraft carrier (CVL) Anti-submarine warfare  +1",
+  "level120TechPoints": 7,
+  "enhancementValue": [
+    0,
+    0,
+    35,
+    12
+  ],
+  "retireValue": [
+    0,
+    7,
+    3,
+    0
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / Torpedo Bomber Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Torpedo Bomber Efficiency +5%",
+  "limitBreak3": "Number of Torpedo Bombers +1 / Torpedo Bomber Efficiency +7%",
+  "skill1Name": "Assault Carrier; CN: 强袭空母 JP: 強襲空母",
+  "skill1Description": "When launching an airstrike: 15% (25%) chance to deal double damage for 10 seconds.",
+  "skill2Name": "(Retrofit) Destiny Draw!; CN: Destiny Draw！ JP: ヘルメスドロー！",
+  "skill2Description": "When Health falls under 30%, increase own Luck by 7. Every 20 seconds, activate a special skill (damage depends on skill level):",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0d/Hermes.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a1/HermesChibi.png",
+      "shipDescription": [
+        "竞技神级航空母舰—竞技神，舷号95",
+        "初代ハーミーズ級航空母艦・ハーミーズ (HMS Hermes）",
+        "Hermes-class aircraft carrier – Hermes, Hull Number 95!"
+      ],
+      "selfIntroduction": [
+        "我叫竞技神，好像是世界上第二艘建造的航母吧。 唯一被重樱击沉的皇家海军空母吗，那也是没办法的事，不过有机会的话真想和第一那家伙决斗一场啊",
+        "私はハーミーズ。世界で二番目に建造された空母であり、そして重桜に撃沈された唯一のロイヤルネイビーの空母だ。あの時は仕方なかったが…いつか、世界最初のやつと一度デュエルをしてみたいものだ",
+        "I am called Hermes, I was the second aircraft carrier to be ever built. The only carrier to be sunk by the Sakura Empire? Can't do much about stuff like that. But if I ever get the chance, I want to duel that first carrier."
+      ],
+      "acquisition": [
+        "我将荣耀寄宿于右手的卡中，将魂魄寄宿在左手的决斗——啊不，跑道内。竞技神号，听从你的调遣",
+        "栄光をカードに、魂をデュエルに…じゃなくて飛行甲板に！私はハーミーズ。指揮官、ご命令を！",
+        "Glory to the cards, my soul to the duel d... I mean, the flight deck! I am Hermes. Commander, give me your orders!"
+      ],
+      "login": [
+        "回来了吗，来一场激动人心的决斗吧！",
+        "戻ったか。楽しいデュエルしよう！",
+        "You're back. Now it's time to duel!"
+      ],
+      "details": [
+        "数据不是关键，只要应用得当",
+        "データは全てではない。ちゃんと使いこなせてこそ力になるのだ",
+        "Statistics aren't important, it's how you take advantage of them."
+      ],
+      "secretaryIdle1": [
+        "我的愿望是和凤翔一较高下",
+        "私の望みは、あの鳳翔と一度勝負することだ",
+        "It is my wish to duel with Houshou"
+      ],
+      "secretaryIdle2": [
+        "卡牌与飞机都寄宿着灵魂，我的回合！",
+        "カードにも航空機にも魂が宿っている。私のターン！",
+        "In each plane and every card resides a soul."
+      ],
+      "secretaryIdle3": [
+        "除了胜利，我同样希望将欢笑带给大家",
+        "勝利だけではなく、私の力で、みんなに笑顔を…！",
+        "It's my turn!Victory aside, I also want to bring happiness to everyone."
+      ],
+      "secretaryTouch": [
+        "怎么，想要决斗吗？",
+        "なんだ？デュエルのお誘いか？",
+        "What, you want to duel?"
+      ],
+      "secretarySpecialTouch": [
+        "嗯……指挥官要是感兴趣的话，你赢一次摸一次怎么样？",
+        "うん……指揮官がそこまで興味があるなら、一回勝ったら一回触らせてあげるってのはどうだ？",
+        "Hmm.... If the Commander is interested, I'll properly reward you each time you win."
+      ],
+      "task": [
+        "任务即挑战，指挥官，让我们挑战新的高峰吧！",
+        "ミッションはすなわち、チャレンジだ。指揮官、さらなる高みに挑もう！",
+        "Missions are like challenges, Commander. Let us challenge ourselves to even greater heights."
+      ],
+      "taskComplete": [
+        "奖励，和决斗一样美妙的词汇啊，打开看看吧",
+        "ボーナス、デュエルと同じいい響きだ。開封しよう。",
+        "Rewards' is a good of a word as \"duel\". Let's see what you've got!"
+      ],
+      "mail": [
+        "指挥官，有新的邮件，不知道是不是约战的呢",
+        "指揮官、新しいメールだ。果たし状かな",
+        "You've got new mail, Commander. I wonder if it's a request for a duel!"
+      ],
+      "returnFromMission": [
+        "真是令人热血沸腾的一战啊",
+        "ガッチャ！熱いデュエルだったよ。",
+        "Gotcha! Your dueling was hot out there!"
+      ],
+      "commission": [
+        "暂停！远征的同志们已经回来了，先去看看她们的成果吧",
+        "一時中止だ！遠征に出た同志たちが帰ってきた。まずは彼女たちの成果を見に行こう",
+        "Hold on! Our fleet has come back from commission. Let's see what they've earned."
+      ],
+      "strengthening": [
+        "现在的我，能与我的卡组更进一步……！",
+        "今の私は、デッキともっとつながっている…！",
+        "The new me now can move to even greater heights with my deck!"
+      ],
+      "startingMission": [
+        "只要你相信舰队，舰队就会回应你的期望",
+        "艦隊を信じる限り、いつか艦隊が応えてくれる！",
+        "If you believe in your fleet, we'll work our hardest to meet your expectations!"
+      ],
+      "mvp": [
+        "聚集的群星化为一体时，我们的羁绊将照亮未来！",
+        "集いし星が一つになる時、私たちの絆は新たな未来を照らし出す！",
+        "When the stars gather in one place, our bonds will illuminate a new future!"
+      ],
+      "defeat": [
+        "我是不会投降的，我的回合……不要拉我！",
+        "私はサレンダーしない！私のターン……離せ！",
+        "I won't surrender. My turn... Let me go!"
+      ],
+      "skillActivation": [
+        "我的回合！",
+        "私のターン！",
+        "It's my turn!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "指挥官，你要堕落成黑暗决斗者了吗……那我只能打倒你了",
+        "指揮官は闇のデュエリストに堕ちたというのか……なら、倒すしかない！",
+        "Have you fallen to the forces of darkness, Commander...? I'll have to defeat you then!"
+      ],
+      "affinityStranger": [
+        "怎么了指挥官，对决斗感兴趣了吗？来吧，不会也没关系，我会从头教你的，总而言之首先是气势！",
+        "どうした指揮官、デュエルに興味があるのか？さあ、わからなくても大丈夫、最初から教えてやる！まずは、勢いだ！",
+        "What's up, Commander? Interested in duels? Don't worry, we'll start from the beginning, I'll teach you! The most important thing is spirit!"
+      ],
+      "affinityFriendly": [
+        "决斗之外的兴趣吗……我倒是没有想过，指挥官愿意教我吗？",
+        "デュエル以外の趣味か？……考えたことはないけど、指揮官が教えてくれるか？",
+        "Interests in anything besides dueling? Hmm... I've never thought about it. Will you show me something new, Commander?"
+      ],
+      "affinityLike": [
+        "嗯……指挥官，我决定把你的画像刻在卡牌的背面，这样你的精神就一直与我同在了",
+        "ふぅん、この指揮官の似顔絵をプロテクターにすることに決めた。これであなたとはいつも一緒だ",
+        "Mmm... Commander, I decided to engrave your portrait on the back of my cards. That way you're always with me!"
+      ],
+      "affinityLove": [
+        "指挥官，决斗者要是成为伴侣的话，决斗之路会更加开阔，不过一定要是互相已经十分理解的对象才行。我觉得我们已经满足条件了…所以…要试试看吗",
+        "指揮官、デュエリストが伴侶になれれば、デュエルの道はもっと広がる。ただ、それはお互いを知り尽くしていることが前提だ。……私たちはもうこの条件を満たしていると思うんだが……だから……なって…みないか？",
+        "If two duelists fall in love, Commander, they can undertake more duels together! They also must truly understand each other... I think that requirement is already fulfilled for us... so... shall we try?"
+      ],
+      "pledge": [
+        "这个感觉是……！在此结成的我与指挥官之间羁绊将会开创崭新的未来，成为光芒闪耀的道路吧——我们的回合，抽牌！",
+        "この感覚は……！私と指揮官の絆は新たな未来を切り開き、光指す道となる―――これからは私達のターンだ！さあ、ドローだ！",
+        "This feeling is……! The bonds formed between Commander and I here shall open up a brand new future, a path of brilliance! It’s our turn, draw!"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Jamaica) 你也是……决斗者？",
+        "(Sortie with Jamaica) あなたも……デュエリスト！？",
+        null
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Houshou) 凤翔，你有无限的可能性",
+        "(Sortie with Houshou) 鳳翔、あなたには無限な可能性がある…！",
+        null
+      ],
+      "giftDescriptionValentines2018": [
+        null,
+        "指揮官、今日のために用意したチョコだ。そういえば、こういうお菓子はやっぱりいいものだ。自分で食べるとお腹が膨らむし、相手に食べてもらえば心残りもない。…え？なんか違う？",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "在送给指挥官巧克力之前……决斗吧！要是指挥官赢了，就再送你一个巧克力如何!?",
+        "指揮官にチョコをプレゼントする前に……デュエルだ！指揮官が勝ったらチョコをもう1個プレゼントするってのはどうだ！？",
+        "Commander, I got you chocolate for this occasion. This stuff is pretty nice. It's quite filling if you eat it on your own, you can give it to someone else without regret, and... Eh? Did I say something weird?"
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, I'm struggling with this year's chocolate... Would you rather have a foil or a holographic card...? Oh, I mean with the box! Of course the chocolate is gonna be the same flavor you always like!"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/13/Hermes_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Hermes_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/13/Hermes_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c9/Hermes_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Hermes_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c9/Hermes_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Hermes_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Hermes_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Hermes_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Hermes_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Hermes_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Hermes_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Hermes_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Hermes_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Hermes_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hermes_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hermes_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/2e/Hermes_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/2/24/Hermes_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Hermes_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/24/Hermes_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Hermes_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Hermes_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Hermes_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/84/Hermes_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Hermes_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/84/Hermes_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/94/Hermes_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Hermes_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/94/Hermes_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hermes_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hermes_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/cf/Hermes_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/56/Hermes_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Hermes_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/56/Hermes_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hermes_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hermes_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f5/Hermes_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hermes_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hermes_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7b/Hermes_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hermes_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hermes_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hermes_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5b/Hermes_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Hermes_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5b/Hermes_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hermes_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hermes_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hermes_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/db/Hermes_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Hermes_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/db/Hermes_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Hermes_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Hermes_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Hermes_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a5/Hermes_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Hermes_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a5/Hermes_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/98/Hermes_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Hermes_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/98/Hermes_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hermes_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hermes_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7e/Hermes_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hermes_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hermes_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Hermes_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/38/Hermes_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Hermes_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/38/Hermes_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/09/Hermes_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Hermes_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/09/Hermes_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hermes_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hermes_Extra1JP.ogg",
+        null
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/69/Hermes_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/69/Hermes_Extra2JP.ogg",
+        null
+      ]
+    },
+    {
+      "ENClientName": "Retrofit",
+      "obtainedFrom": "Retrofit",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b1/HermesKai.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fb/HermesKaiChibi.png",
+      "shipDescription": [
+        "聚集的荣耀化为一体时，新的羁绊将照亮未来！超越极限的风，将化作光芒闪耀的道路！竞技神，改造完成！",
+        "集いし栄光が一つになるとき、新たなキズナは未来を照らし出す！限界を突き破る風は光の道筋とならん！ハーミーズ、改造終了！",
+        "Our glory coalesces into the bonds that forge a bright new future! Let's rev it up! Hermes, retrofit complete!"
+      ],
+      "acquisition": [
+        "聚集的荣耀化为一体时，新的羁绊将照亮未来！超越极限的风，将化作光芒闪耀的道路！竞技神，改造完成！",
+        "集いし栄光が一つになるとき、新たなキズナは未来を照らし出す！限界を突き破る風は光の道筋とならん！ハーミーズ、改造終了！",
+        "Our glory coalesces into the bonds that forge a bright new future! Let's rev it up! Hermes, retrofit complete!"
+      ],
+      "login": [
+        "我已经等待许久了，卡片…不，是燃烧的灵魂告诉我您已经回来了。",
+        "待ってたよ。カード…ううん、その荒ぶる魂があなたが戻ってきたのを教えてくれた",
+        "I've been waiting. The cards... no... my burning soul told me you'd returned."
+      ],
+      "details": [
+        "对真正的决斗者来说，没有什么是偶然的，指挥官",
+        "真のデュエリストに偶然はない。指揮官",
+        "For a true duelist, there are no accidents, Commander."
+      ],
+      "secretaryIdle1": [
+        "凤翔……她很强大，指挥官。我从她身上学到了，名为“温柔”的强大",
+        "鳳翔は強い。今になってわかった、その強さは彼女の優しさから来ている",
+        "Houshou is strong. And now I know. That strength comes from her kindness."
+      ],
+      "secretaryIdle2": [
+        "心灵，强大的武器，也是更大的弱点。不管身处何处都不应该忘了这一点",
+        "精神、それは大きな武器であり、さらに大きな弱点でもある。どこにいようとそれを忘れるべきではない",
+        "Your spirit is a great weapon, and an even greater weakness. No matter where you are, you must not forget that."
+      ],
+      "secretaryIdle3": [
+        "半人马教我做的这个也给你尝尝吧。哼哼，也让你看看我也不光是只有决斗的！",
+        "セントーにこれを教わった。さあ食べて。ふん、私だって、デュエルだけじゃないことを思い知らせてあげる！",
+        "Centaur taught me how to make this. Try it. I'm showing you that I'm more than just a duelist."
+      ],
+      "secretaryTouch": [
+        "风来了…指挥官，跟紧我的船尾波！",
+        "風が来ている…指揮官、航跡波を追って私についてきて！",
+        "That's the wind... Commander, follow my wake!"
+      ],
+      "mail": [
+        "信件之中，承载着一样看得见，同时又看不到的东西，那就是——友谊",
+        "メールには存在するけど目に見えないものがある。それは――友情だ",
+        "There is something present in the mail beyond what you can see with your eyes. That is: friendship."
+      ],
+      "startingMission": [
+        "舰载库，Gate Open！",
+        "格納庫、ゲートオープン！",
+        "Hangar, gate open!"
+      ],
+      "mvp": [
+        "所谓的憎恨，无论聚集起多少，都不堪一击",
+        "憎しみなど、束になっても弱いものよ",
+        "Hatred, no matter how deep it runs, will always be weak."
+      ],
+      "defeat": [
+        "不败只不过是幻想，指挥官……你如果在这里气馁，那就不配做我的指挥官",
+        "不敗など所詮幻想にすぎない。……ここで諦めたら指揮官失格よ",
+        "No one is truly undefeatable... If you give up now, you were never worthy of being my Commander."
+      ],
+      "lowHP": [
+        "我的胜利方程式可不只是这种程度！",
+        "私の勝利の方程式はこの程度じゃないわ！",
+        "My path to victory does not end here!"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f0/Hermes_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Hermes_IntroSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f0/Hermes_IntroSkin9JP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fc/Hermes_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Hermes_LogSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fc/Hermes_LogSkin9JP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c3/Hermes_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Hermes_DetailsSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c3/Hermes_DetailsSkin9JP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/1/19/Hermes_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Hermes_SecIdle1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/19/Hermes_SecIdle1Skin9JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Hermes_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Hermes_SecIdle2Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Hermes_SecIdle2Skin9JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a6/Hermes_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Hermes_SecIdle3Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a6/Hermes_SecIdle3Skin9JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/8a/Hermes_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Hermes_Sec1Skin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/8a/Hermes_Sec1Skin9JP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/0e/Hermes_MailSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Hermes_MailSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/0e/Hermes_MailSkin9JP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/57/Hermes_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Hermes_MissionStartSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/57/Hermes_MissionStartSkin9JP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hermes_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hermes_MVPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Hermes_MVPSkin9JP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1a/Hermes_DefeatSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Hermes_DefeatSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1a/Hermes_DefeatSkin9JP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hermes_LowHPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hermes_LowHPSkin9JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b3/Hermes_LowHPSkin9JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": [
+    {
+      "index": "A",
+      "project": "Hull Improvement (I)",
+      "attributes": "Health +60 ",
+      "materials": "1x CarrierT1BP ",
+      "coinCost": 200,
+      "levelRequired": 1,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        ""
+      ]
+    },
+    {
+      "index": "B",
+      "project": "Air Power Enhancement (I)",
+      "attributes": "Aviation +10 ",
+      "materials": "2x CarrierT1BP ",
+      "coinCost": 300,
+      "levelRequired": 5,
+      "limitBreakRequired": 0,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "C",
+      "project": "Torpedo Bomber Proficiency (I)",
+      "attributes": "Torpedo Bomber Efficiency +3% ",
+      "materials": "2x CarrierT1BP ",
+      "coinCost": 400,
+      "levelRequired": 20,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "A"
+      ]
+    },
+    {
+      "index": "D",
+      "project": "Reload Enhancement (I)",
+      "attributes": "Reload +5 ",
+      "materials": "2x CarrierT1BP ",
+      "coinCost": 500,
+      "levelRequired": 25,
+      "limitBreakRequired": 1,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "E",
+      "project": "Anti-Air Gun Proficiency (I)",
+      "attributes": "Anti-Air Gun Efficiency +5% ",
+      "materials": "3x CarrierT1BP ",
+      "coinCost": 600,
+      "levelRequired": 35,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "C"
+      ]
+    },
+    {
+      "index": "F",
+      "project": "Anti-Air Enhancement (I)",
+      "attributes": "Anti-air +15 ",
+      "materials": "3x CarrierT1BP ",
+      "coinCost": 800,
+      "levelRequired": 40,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "G",
+      "project": "Hull Improvement (II)",
+      "attributes": "Health +60 / +90 ",
+      "materials": "1 / 1x CarrierT2BP ",
+      "coinCost": 1000,
+      "levelRequired": 50,
+      "limitBreakRequired": 2,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "E"
+      ]
+    },
+    {
+      "index": "H",
+      "project": "Tactical Learning",
+      "attributes": "Unlock Skill \"Destiny Draw!\" ",
+      "materials": "3x CarrierT2BP ",
+      "coinCost": 2200,
+      "levelRequired": 55,
+      "limitBreakRequired": 2,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "G"
+      ]
+    },
+    {
+      "index": "I",
+      "project": "Torpedo Bomber Proficiency (II)",
+      "attributes": "<div class=\"tooltip\" style=\"\">\n Torpedo Bomber Efficiency +3% / +4%\n <div class=\"tooltiptext\" style=\"background-color:#202020;width:150px;top:100%;left:50%;margin-left:-75px;padding:2px 5px;font-size:80%;\">\n  Shown as +5%/+5% in game\n </div>\n</div> ",
+      "materials": "1 / 2x CarrierT2BP ",
+      "coinCost": 1400,
+      "levelRequired": 70,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "G",
+        "H"
+      ]
+    },
+    {
+      "index": "J",
+      "project": "Reload Enhancement (II)",
+      "attributes": "Reload +5 / +10 ",
+      "materials": "2 / 2x CarrierT2BP ",
+      "coinCost": 1600,
+      "levelRequired": 75,
+      "limitBreakRequired": 3,
+      "recurrence": 2,
+      "requiredIndexes": [
+        "D",
+        "I"
+      ]
+    },
+    {
+      "index": "K",
+      "project": "Modernization",
+      "attributes": "Aviation +10 , Anti-air +35 ",
+      "materials": "6x CarrierT2BP and 1x Hermes or Universal Bulin ",
+      "coinCost": 2000,
+      "levelRequired": 80,
+      "limitBreakRequired": 3,
+      "recurrence": 1,
+      "requiredIndexes": [
+        "I",
+        "J"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "name": "Indianapolis",
+  "constructionTime": "01:50:00",
+  "constructionPools": [
+    false,
+    true,
+    true,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "Portland",
+  "ID": "045",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "artist": "Saru(猴妈)",
+  "pixiv": "https://www.pixiv.net/member.php?id=1422579",
+  "twitter": "https://twitter.com/saru_1127",
+  "link": "http://weibo.com/p/1005051054234800",
+  "voiceActor": "http://www.rme.jp/talent/women/aya-yokota.html",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      4734,
+      174,
+      23,
+      210,
+      0,
+      58,
+      26,
+      252,
+      0,
+      11,
+      125,
+      0,
+      0,
+      0
+    ],
+    "Level 100": [
+      4227,
+      152,
+      23,
+      183,
+      0,
+      25,
+      26,
+      219,
+      0,
+      11,
+      107,
+      0,
+      0,
+      0
+    ],
+    "Base Stats": [
+      818,
+      64,
+      23,
+      39,
+      0,
+      10,
+      26,
+      47,
+      0,
+      3,
+      41,
+      0,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "CA Guns",
+  "slot1Efficiency": "100% → 110%",
+  "slot2Equipment": "DD Guns",
+  "slot2Efficiency": "50% → 60%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "120% → 130%",
+  "collectionStatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Health  +1",
+  "collectionTechPoints": 10,
+  "maxLimitBreakTechPoints": 21,
+  "level120StatBonus": "Heavy cruiser (CA) Large cruiser (CB) Monitor (BM) Anti-air  +1",
+  "level120TechPoints": 16,
+  "enhancementValue": [
+    21,
+    0,
+    0,
+    12
+  ],
+  "retireValue": [
+    0,
+    9,
+    3,
+    4
+  ],
+  "limitBreak1": "Gains Full Barrage I / All Weapon Efficiency +2%",
+  "limitBreak2": "Main Gun Mount +1 / All Weapon Efficiency +3%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Pandora's Box; CN: 潘多拉的魔盒 JP: パンドラボックス",
+  "skill1Description": "Every 30 seconds, spawns 2 rotating shields for 5 (15) seconds that block up to 8 shots. When broken, explodes and deals a small amount of damage to nearby enemies.",
+  "skill2Name": "Vice Defense; CN: 重点防护 JP: All or Nothing",
+  "skill2Description": "3.5% (8%) chance to decrease damage received by 50%.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-ポートランド級",
+  "skill3Description": "Every 12 (8) times the main gun is fired, trigger Full Barrage - Portland Class I (II).",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c1/Indianapolis.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png",
+      "shipDescription": [
+        "波特兰级重巡洋舰—印第安纳波利斯，舷号CA-35",
+        "ポートランド級重巡洋艦・インディアナポリス（CA-35)",
+        "Portland-class Heavy Cruiser – Indianapolis, Hull Number CA-35!"
+      ],
+      "selfIntroduction": [
+        "……波特兰级重型巡洋舰二号舰，印第安那波利斯。 有个比较吵闹的姐姐，要是给你添麻烦了十分抱歉……核弹？不是很清楚",
+        "……ポートランド級重巡二番艦、インディアナポリス。うるさい姉が迷惑をかけた。ごめん……核爆弾？よくわからない",
+        "... I'm Indianapolis, second ship of the Portland-class. I apologize for any trouble my big sister caused... A nuclear bomb? I'm not sure what that is."
+      ],
+      "acquisition": [
+        "Hi…指挥官，我是印第安纳波利斯，小名叫印第，欸，核弹？那是什么？",
+        "はい？…指揮官、私はインディアナポリス。ニックネームはインディよ。え、核爆弾？それ、何？",
+        "Yeah? ... Commander, I'm Indianapolis. My nickname is Indy. Hm? A nuclear bomb? What's that?"
+      ],
+      "login": [
+        "……？指挥官，什么时候来的，吓到我了",
+        "……？！指揮官、いつの間に来てたの？びっくりしたあ",
+        "...?! When did you get here, Commander? You startled me..."
+      ],
+      "details": [
+        "你在看什么？小麦色是天生的，所以这里不会有晒痕",
+        "何見てるの？小麦色の肌は生まれつきだから、日焼けの跡はないの",
+        "What are you looking at? My skin color has always been light brown, it's not a tan."
+      ],
+      "secretaryIdle1": [
+        "如果我等不住先走了的话，你就只能找新墨西哥了",
+        "私が行っちゃったら、ニューメキシコに頼むしかないね。",
+        "If I go away, I guess you'll have to rely on New Mexico."
+      ],
+      "secretaryIdle2": [
+        "为什么姐姐老是盯着我看……",
+        "どうしてお姉ちゃんは私のことずっと見てるんだろう…",
+        "I wonder why my sister's always looking at me..."
+      ],
+      "secretaryIdle3": [
+        "我其实……都无法和别人正常对话……",
+        "実は…他の人とちゃんと会話できなくて…",
+        "To be honest... I can't really have a proper conversation with other people..."
+      ],
+      "secretaryTouch": [
+        "呼噜……",
+        "ふう…",
+        "Whew..."
+      ],
+      "secretarySpecialTouch": [
+        "…………（盯）",
+        "…………（ジーと見つめてくる）",
+        "... (Indianapolis fixates her eyes on you.)"
+      ],
+      "task": [
+        "Mission unfinished……",
+        "Mission unfinished……",
+        "Mission unfinished..."
+      ],
+      "taskComplete": [
+        "奖励，搬过来了",
+        "ボーナス、運んだ",
+        "I brought the rewards."
+      ],
+      "mail": [
+        "信，都在这里了",
+        "メール、ここ",
+        "Here, mail."
+      ],
+      "returnFromMission": [
+        "…………已经结束了吗？",
+        "……もう終わり？",
+        "... Is it already over?"
+      ],
+      "commission": [
+        "……差点忘了报告，委托完成了",
+        "……危うく報告を忘れかけたけど、委託が完了した",
+        "... I almost forgot to report it, but... a commission's been completed."
+      ],
+      "strengthening": [
+        "………………力量，涌出来了",
+        "………………力が、湧いてきた",
+        "... I feel the... power surging through me."
+      ],
+      "startingMission": [
+        "我是队长……欸，队长？",
+        "私が隊長…ええ、隊長！？",
+        "I'm the captain... Wait, I'm the captain?!"
+      ],
+      "mvp": [
+        "喔……好像赢了……",
+        "あれ…勝ったみたい…",
+        "Hey... I think we won..."
+      ],
+      "defeat": [
+        "……情况好像不太妙……一定是可恶的伊-58",
+        "…なんだかまずい感じ…きっとあの伊58だわ。",
+        "... Something feels wrong... must be that damn I-58."
+      ],
+      "skillActivation": [
+        "……？到我了吗？知道了",
+        "……？私の番？わかった。",
+        "...? It's my turn? Got it."
+      ],
+      "lowHP": [
+        "…………糟了",
+        "……しまった。",
+        "... Oops."
+      ],
+      "affinityDisappointed": [
+        "……（你并不清楚波利斯是真的没有反应还是只是不想理你）",
+        "……（インディアナポリスが気づいていないのか、それともし単にあなたに構いたくないのか、はっきりわからない）",
+        "... (It's not clear whether Indianapolis hasn't become aware of you yet or if she simply doesn't care about you.)"
+      ],
+      "affinityStranger": [
+        "……指挥官，我只是反应比较慢——不要一直戳我，我在听的",
+        "……指揮官、私はただ反応が遅いだけーーだから突っつかないで、聞いているから",
+        "... I just have a slow reaction time, that's all, Commander. You don't need to poke me, I'm listening."
+      ],
+      "affinityFriendly": [
+        "姐姐……虽然总说我可爱，但她要是稍微花点时间在自己身上一定会非常受欢迎的……所以我一直觉得有些对不起姐姐……",
+        "お姉ちゃん……私のことばかりかわいいかわいいと言ってるけど、自分に少し気を使うときっとモテる……だから私、ずっとお姉ちゃんにはちょっと申し訳ないと思ってる……",
+        "My sister's... always talking about how cute I am, but if she'd just focus a little more on herself, I'm sure she'd be popular... That's why I've always felt a little guilty about her..."
+      ],
+      "affinityLike": [
+        "姐姐什么都愿意给我，我也什么都愿意给姐姐，但是只有指挥官……",
+        "お姉ちゃんはなんでもくれるから、私もなんでもお姉ちゃんにあげているよ。指揮官以外……",
+        "My sister gives me everything I need, so I'll give her everything she needs, too. Except for you, Commander..."
+      ],
+      "affinityLove": [
+        "我……既没有姐姐那么活泼，也没有姐姐身材那么好，指挥官还是选择了我……稍微……不对……非常开心……",
+        "私……お姉ちゃんみたいに元気でもないしスタイルもお姉ちゃんほどよくないのに、でも指揮官は私を選んでくれた……少し…‥…ううん……とても嬉しい……",
+        "I'm... not as cheerful as my sister, nor do I look as good as her, yet you still chose me... That makes me a little... no... it makes me very happy..."
+      ],
+      "pledge": [
+        "好开心……但是不知道怎么传达给指挥官……所以……给你抱抱……",
+        "うれしい……でも指揮官になんていえばいいかわからない……だから……抱きついても、いいよ……？",
+        "I'm really happy... but I don't know what I should say... So can I just... give you a hug?"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Portland) 姐姐，好吵",
+        "(Sortie with Portland) お姉ちゃん、うるさい…",
+        "(Sortie with Portland) Shut up, Portland..."
+      ],
+      "additionalVoiceLine2": [
+        "(Sortie with Eldridge) …………我只是反应比较慢",
+        "(Sortie with Eldridge) ……私の反応が遅いだけ",
+        "(Sortie with Eldridge) ... I just have a slow reaction time..."
+      ],
+      "additionalVoiceLine3": [
+        "(Sortie with at least 5 ships designed by the same artist) …………我们是猴子军团",
+        null,
+        "(Sortie with at least 5 ships designed by the same artist) ... We are the Monkey Corps!"
+      ],
+      "giftDescriptionValentines2018": [
+        "这个巧克力剩了好多，能麻烦指挥官也帮忙一起吃吗…？不好意思…姐姐她又做没用的东西了……",
+        "このチョコ、指揮官にも頑張って食べてもらっていい…？ごめん…お姉ちゃんまた無駄なもの作って……凄く余ってて……",
+        null
+      ],
+      "giftDescriptionValentines2019": [
+        "姐姐今年做了“一人给一个的高级印第巧克力”，不知道为什么只有我收到了两个……指挥官，分你……一半？",
+        "お姉ちゃん、今年は「一人に一個プレミアムインディちゃんチョコ」を作ったけど、なぜか私だけが2つもらってて……指揮官、半分こ…する？",
+        "Could I ask you to try to eat this chocolate...? Sorry... Portland went and made something stupid again... and there's so much left over..."
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "I've got this... \"Indy chocolate\" for you, Commander... I wanted to make some of my own, but it'd be too much since I also have to eat all these that Portland made... Sorry..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f4/Indianapolis_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Indianapolis_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f4/Indianapolis_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Indianapolis_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Indianapolis_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Indianapolis_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3e/Indianapolis_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Indianapolis_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3e/Indianapolis_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d4/Indianapolis_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Indianapolis_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d4/Indianapolis_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/b/bb/Indianapolis_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Indianapolis_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bb/Indianapolis_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Indianapolis_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Indianapolis_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Indianapolis_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/5/50/Indianapolis_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Indianapolis_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/50/Indianapolis_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Indianapolis_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Indianapolis_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Indianapolis_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Indianapolis_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Indianapolis_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Indianapolis_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/be/Indianapolis_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Indianapolis_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/be/Indianapolis_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d3/Indianapolis_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Indianapolis_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d3/Indianapolis_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/91/Indianapolis_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Indianapolis_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/91/Indianapolis_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Indianapolis_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Indianapolis_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Indianapolis_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/f3/Indianapolis_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Indianapolis_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/f3/Indianapolis_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9e/Indianapolis_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Indianapolis_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9e/Indianapolis_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/11/Indianapolis_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Indianapolis_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/11/Indianapolis_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/45/Indianapolis_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Indianapolis_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/45/Indianapolis_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Indianapolis_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Indianapolis_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Indianapolis_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/48/Indianapolis_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Indianapolis_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/48/Indianapolis_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Indianapolis_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Indianapolis_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Indianapolis_LowHPJP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7c/Indianapolis_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Indianapolis_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7c/Indianapolis_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e5/Indianapolis_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Indianapolis_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e5/Indianapolis_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Indianapolis_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Indianapolis_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Indianapolis_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Indianapolis_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Indianapolis_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Indianapolis_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/54/Indianapolis_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Indianapolis_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/54/Indianapolis_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/e/e0/Indianapolis_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Indianapolis_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e0/Indianapolis_Extra1JP.ogg"
+      ],
+      "additionalVoiceLine2Url": [
+        "https://azurlane.koumakan.jp/w/images/c/c5/Indianapolis_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Indianapolis_Extra2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c5/Indianapolis_Extra2JP.ogg"
+      ]
+    },
+    {
+      "obtainedFrom": "Unobtainable",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/2/22/IndianapolisOriginal.png"
+    },
+    {
+      "ENClientName": "At School With My Sister...",
+      "ENClientAvailability": "Permanently Available",
+      "CNClientName": "与姐姐一起的校园生活？",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "学園でお姉ちゃんと……",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Skin Shop",
+      "cost": "Gem 780",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/a/a0/IndianapolisSchool.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/81/IndianapolisSchoolChibi.png",
+      "shipDescription": [
+        "学校…如果指挥官…和姐姐都一起的话，好像也不错……",
+        "学園生活…お姉ちゃんと指揮官がいるといい、よね…",
+        "School life... It's nice as long as you and my sister are here... I think..."
+      ],
+      "acquisition": [
+        "学校…如果指挥官…和姐姐都一起的话，好像也不错……",
+        "学園生活…お姉ちゃんと指揮官がいるといい、よね…",
+        "School life... It's nice as long as you and my sister are here... I think..."
+      ],
+      "login": [
+        "啊，指挥官…如果一会儿姐姐来了，就说我不在这里，指挥官，拜托你了…",
+        "あ、指揮官…お姉ちゃんが来たら私はいないって言ってもらえないかな？ごめん、お願い…",
+        "Oh, Commander... If my sister asks, could you tell her I'm not going? Please, it would help..."
+      ],
+      "details": [
+        "指挥官又在看什么？…校服很适合？…似乎从指挥官身上感觉到了和姐姐一样的气息",
+        "指揮官はなにを見てるの？…制服が似合う…？…お姉ちゃんと同じ雰囲気を感じた…",
+        "What are you looking at, Commander? ... It looks good on me? Sounds like what my sister would say..."
+      ],
+      "secretaryIdle1": [
+        "姐姐准备的便当虽然很好吃，但是如果不每次都摆出“印第LOVE”之类的造型就更好了…",
+        "お姉ちゃんの弁当、美味しいけど…「インディちゃんLOVE」って毎回書かなくてもいいのに…",
+        "My sister makes great lunch boxes... but she doesn't need to write \"I Love Indy\" on them every single time..."
+      ],
+      "secretaryIdle2": [
+        "姐姐给的这个玩偶虽然很可爱…但是总觉得有一股邪恶的意念…",
+        "お姉ちゃんがくれたこのぬいぐるみ、可愛いけど…妙な雰囲気を感じる……",
+        "I like this plushie Portland gave me... But something about it feels off..."
+      ],
+      "secretaryIdle3": [
+        "比起语文，还是数理更容易学会…怎样才能准确表达自己的情感呢？",
+        "私、国語よりは理系が得意…自分の気持ちを、どうしたら上手く言えるかな？",
+        "I'm definitely better at science than languages... How do I get better at expressing my feelings?"
+      ],
+      "secretaryTouch": [
+        "…唔？我没睡着哦。都说了我只是比其他人反应慢一点而已",
+        "…うん？寝てないよ。ほかの子より反応が遅いだけって言ったじゃない…？",
+        "... What? I'm not sleeping. Haven't I told you that I just have a slower reaction time than others?"
+      ],
+      "secretaryHeadpat": [
+        "这是……给好学生的奖励吗？",
+        "これは……良い子にしてたご褒美？",
+        "Is this... my reward for behaving?"
+      ],
+      "returnFromMission": [
+        "…已经到了放学的时间了吗？",
+        "…もう下校時間？",
+        "... It's time to go home already?"
+      ]
+    },
+    {
+      "ENClientName": "The Light of Circle City",
+      "ENClientAvailability": "Event Limited",
+      "CNClientName": "环城之夜",
+      "CNClientAvailability": "Permanently Available",
+      "JPClientName": "サークルシティナイト",
+      "JPClientAvailability": "Permanently Available",
+      "obtainedFrom": "Lights of Circle City - 1,500",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c6/IndianapolisParty.png",
+      "spriteNoBackgroundUrl": "https://azurlane.koumakan.jp/w/images/thumb/b/b7/IndianapolisPartyWithoutBG.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/95/IndianapolisPartyChibi.png",
+      "shipDescription": [
+        null,
+        null,
+        "Oh. Good evening, Commander. Do you want some steak? It goes great with wine."
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

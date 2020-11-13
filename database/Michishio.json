@@ -1,0 +1,316 @@
+{
+  "name": "Michishio",
+  "constructionTime": "Cannot Be Constructed",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Rare",
+  "shipClass": "Asashio",
+  "ID": "333",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "Alic",
+  "pixiv": "https://www.pixiv.net/member.php?id=4605939",
+  "link": "https://weibo.com/u/5933724645",
+  "voiceActor": "https://www.imdb.com/name/nm9008630/",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1964,
+      196,
+      48,
+      62,
+      509,
+      191,
+      42,
+      150,
+      0,
+      8,
+      184,
+      189,
+      0,
+      0
+    ],
+    "Level 100": [
+      1636,
+      171,
+      48,
+      54,
+      463,
+      185,
+      42,
+      131,
+      0,
+      8,
+      175,
+      170,
+      0,
+      0
+    ],
+    "Base Stats": [
+      317,
+      72,
+      48,
+      12,
+      98,
+      71,
+      42,
+      28,
+      0,
+      2,
+      67,
+      46,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "70% → 75%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "130% → 150%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "70% → 75%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 6,
+  "maxLimitBreakTechPoints": 12,
+  "level120StatBonus": "Destroyer (DD) Accuracy  +1",
+  "level120TechPoints": 9,
+  "enhancementValue": [
+    4,
+    32,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    1
+  ],
+  "limitBreak1": "Gains Full Barrage I / Torpedo Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Torpedo Efficiency +10%",
+  "limitBreak3": "Upgrades Full Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Battleship Escort; CN: 战舰护航 JP: 戦艦護衛",
+  "skill1Description": "When alive in fleet, reduce damage taken by allied BBs/BCs by 5% (15%). Does not stack with the same skill.",
+  "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-朝潮型",
+  "skill2Description": "Every 15 (10) times the main battery is fired, trigger Full Barrage - Asashio Class I (II)",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/c/c2/Michishio.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/01/MichishioChibi.png",
+      "shipDescription": [
+        "朝潮级驱逐舰三番舰—满潮",
+        "朝潮型駆逐艦三番艦・満潮",
+        "Third ship of Asashio class destroyers, Michishio."
+      ],
+      "selfIntroduction": [
+        "咱是朝潮型的三号舰，满潮，最开始是和姐妹们一起在第8驱，后来是第24驱，最后和第4驱一起参与了莱特湾海战……啊哈哈，咱的运气不是很好呢，不过咱已经决定了，要和这里的大家搞好关系！",
+        "あたしは朝潮型の三番艦満潮。第八駆逐隊と第二十四駆逐隊、それから第四駆逐隊に配属され、レイテ沖海戦にも参加しました～……ふーん、運があまり良くありませんけど、ここのみんなと仲良くしたいなーって、思います！",
+        "I'm the third ship of the Asashio-class, Michishio. I was part of the 8th and 24th Destroyer Squadrons, until finally I was assigned to the 4th Destroyer Squadron. That's when I joined the Battle of Leyte Gulf... Hmm, even though I'm pretty unlucky, I'm hoping everyone here will still be my friend!"
+      ],
+      "acquisition": [
+        "樱花啊，樱花呀~啦~啦~啦~啊，你是……哎呀，你好，指挥官，初次见面，咱叫满潮，往后还要请多多指教",
+        "さーくーらーのーはーなーびーらー…、あらら、こんにちは指揮官、はじめまして、あたしは満潮、これからよろしくお願いしますねー",
+        "Petaaals of the saaaakuuuraaa... Oh, hello, Commander. Nice to meet you. I'm Michishio. It's a pleasure."
+      ],
+      "login": [
+        "啊，你回来啦，咱已经把今天会用到的东西都准备好咯，快看看吧",
+        "あら、こんにちは。今日使えそうなものを準備しておきましたよ？早く確認してくださいね",
+        "Oh, hello. Do we have everything we'll need today? Better make sure."
+      ],
+      "details": [
+        "指挥官，有什么事尽管叫咱哦，咱最喜欢被拜托了",
+        "指揮官？頼みたいことがあったらあたしを呼んでくださいね？あたし、お願いされるの、大好きですから~",
+        "Commander? If there's anything you want me to do, please let me know. I love helping out."
+      ],
+      "secretaryIdle1": [
+        "噜啦啦~啦啦噜~今天也是美好的一天呢，指挥官",
+        "らーらーらー♪今日もいい一日ですね！指揮官！",
+        "Laa laa laa ♪ It's another beautiful day today, Commander!"
+      ],
+      "secretaryIdle2": [
+        "今天给大家做点什么好呢……指挥官，有什么建议吗？",
+        "今日はみんなに何を作ろうかな……指揮官、なにがいいですか？",
+        "What should I make for the girls today... Any ideas, Commander?"
+      ],
+      "secretaryIdle3": [
+        "在这里每天都能看到大家的笑容，咱实在是太喜欢这里了",
+        "ここでは毎日みんなの笑顔が見れますね～あたし、ここが大好き♪",
+        "It's great seeing all the happy faces here every day. I truly love it here♪"
+      ],
+      "secretaryTouch": [
+        "怎么了，指挥官，累了吗？饿了吗？还是说渴了？一切都包在咱身上吧",
+        "指揮官、どうしました？疲れた？喉乾いた？お腹へった？なーんでもあたしに任せていいですよ？",
+        "What's wrong, Commander? Are you tired? Thirsty? Hungry? Aaanything you need, I'll take care of it."
+      ],
+      "secretarySpecialTouch": [
+        "呀！指挥官……呜呜，下流……",
+        "きゃっ！指揮官……スケベさん……",
+        "Aie! Commander... You're dirty..."
+      ],
+      "task": [
+        "指挥官，新的任务书咱就放这里了哦？",
+        "指揮官、新しい任務の指令書はここに置いておきますよ？",
+        "Commander, I'm putting the new mission documents right here, okay?"
+      ],
+      "taskComplete": [
+        "指挥官，你看，咱把任务奖励都搬过来啦",
+        "指揮官？はい、任務報酬を運んできました！",
+        "Commander? The mission rewards have been delivered!"
+      ],
+      "mail": [
+        "指挥官，有你的信~",
+        "指揮官、メールですよー",
+        "Commander, you've got mail."
+      ],
+      "returnFromMission": [
+        "大家都回来了，真是太好了",
+        "みんな戻りましたね。良かったですぅ～",
+        "You came back. Thank goodness."
+      ],
+      "commission": [
+        "指挥官，我们一起去接委托组的姐妹们怎么样？她们差不多要回来了呢",
+        "指揮官、委託に出かけた子たちを出迎えにいきませんか？そろそろ戻ってくる時間ですよ？",
+        "Commander, shouldn't we go out to meet the girls you sent out on commission? It's about time for them to be getting back."
+      ],
+      "strengthening": [
+        "这样咱也能保护大家了吗？",
+        "あたしも、みんなを守れるようになれますねー",
+        "Now I'll be able to protect everyone."
+      ],
+      "startingMission": [
+        "咱不想失去朋友！",
+        "友達を失いたくありませんっ！",
+        "I don't want to lose any friends today!"
+      ],
+      "mvp": [
+        "这、这都是大家的功劳啦，咱，咱，哎呀呀，好害羞……",
+        "み、みんなのおかげですよ…う、あたしは…あらら、恥ずかしいですぅ＞＜",
+        "B-but everyone pitched in... Um, I'm... I just, everyone's looking at meee!"
+      ],
+      "defeat": [
+        "大家不要丢下我……",
+        "みんな、おいて行かないでくださぁい~",
+        "Wait! Please don't leave me heeere!"
+      ],
+      "skillActivation": [
+        "-",
+        "あたし……負けたくないもん！",
+        "-"
+      ],
+      "lowHP": [
+        "大家……再坚持一下",
+        "みんな……もうちょっと持ちこたえて…！",
+        "Everyone... just a little bit longer...!"
+      ],
+      "affinityDisappointed": [
+        "咱和指挥官无法成为朋友呢……",
+        "あたしと指揮官はお友達になれないですね……",
+        "I don't think I can be friends with you, Commander..."
+      ],
+      "affinityStranger": [
+        "指挥官，没有需要我的地方吗？多么小的事情都可以交给咱哦，咱完全不在意的",
+        "指揮官、あたしに手伝えることありますか？どんなに小さなことでもいいんですよ？あたしはなーんでも大丈夫♪",
+        "Commander, can I give you a hand with anything? Any little old thing? Really, I can do aaaaaanything♪"
+      ],
+      "affinityFriendly": [
+        "咱以前失去过不少朋友呢，朝潮她们，凉风、海风……所以咱就好害怕，害怕失去朋友，然后想要为朋友做到更多……",
+        "あたしは昔、何度も友達を失いました…朝潮ちゃんたちに、涼風、海風……やっぱりあたし友達を失うのが怖くて…もっと友達のために色々したいなーって……",
+        "I've lost a lot of friends over the years... Asashio and them, Suzukaze, Umikaze... I'm so afraid to lose any more... I'll do anything for my friends..."
+      ],
+      "affinityLike": [
+        "所以说已经是习惯了呢，不过咱真的不讨厌哦，能为人付出，能被人依赖，对咱来说是一件非常幸福的事",
+        "人のためになにかするのは幸せです――むっ、別にあたし無理していませんよ？それにほら、何かがあっても、指揮官があたしを心配してくれるんじゃありませんか～",
+        "Helping people makes me happy. Hm? You don't want me to overdo it? You're worried about me after all, Commander~"
+      ],
+      "affinityLove": [
+        "指挥官真是爱操心呢……不过一定要说回报的话，让我想想……嗯……指挥官能答应我，永远永远，都不会消失吗？",
+        "あたしが自分のことを顧みなさすぎって…？指揮官はちょっと心配症です……あたしのことが心配でしたら、ええと、ひとつ約束していただけますか？指揮官はこれからずっと、ずーーっとあたしのそばからいなくならないでほしいです…",
+        "I'm not taking care of myself...? Commander, you're such a worrywart... Since you're so concerned about me, can I ask you for a favor? Commander, I want you to promise me you'll aaalways be with me, forever and ever..."
+      ],
+      "pledge": [
+        "真开心呢，咱有生以来第一次这么开心……不过以后一定还会有比今天更开心的日子，对吧，指挥官？",
+        "あたし、ここまで嬉しいのは初めてで……これからは今日よりもっと嬉しい日々が待ってますよね？きっとそうですよね？ね、指揮官♪",
+        "I've never been so happy before... But I know today is just the start of an even happier life, isn't it? It definitely is, isn't it, Commander♪"
+      ],
+      "giftDescriptionValentines2019": [
+        null,
+        "朝潮ちゃんたちとのお茶会でいつも用意したチョコレートを指揮官にあげますね♪ いつもとは同じだけど、これはお茶会のためではなく、指揮官のために作ったのですよ？そう考えるとちょっとだけ変わりますよね？",
+        null
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

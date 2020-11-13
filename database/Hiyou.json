@@ -1,0 +1,447 @@
+{
+  "name": "Hiyou",
+  "constructionTime": "Drop Only",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "additionalNotes": "- ",
+  "rarity": "Rare",
+  "shipClass": "Hiyou",
+  "ID": "218",
+  "faction": "Sakura Empire",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "artist": "蛆虫音",
+  "pixiv": "https://www.pixiv.net/member.php?id=1483756",
+  "link": "https://weibo.com/nnlsama",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/6/6d/Hiyou_TitleScreen.ogg",
+  "armor": "Medium",
+  "statsHashMap": {
+    "Level 120": [
+      5204,
+      157,
+      43,
+      0,
+      0,
+      68,
+      25,
+      247,
+      279,
+      11,
+      78,
+      80,
+      0,
+      0
+    ],
+    "Level 100": [
+      4448,
+      137,
+      43,
+      0,
+      0,
+      49,
+      25,
+      215,
+      244,
+      11,
+      65,
+      70,
+      0,
+      0
+    ],
+    "Base Stats": [
+      860,
+      58,
+      43,
+      0,
+      0,
+      19,
+      25,
+      46,
+      52,
+      3,
+      25,
+      19,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "Fighters",
+  "slot1Efficiency": "85% → 100%",
+  "slot2Equipment": "Dive Bombers",
+  "slot2Efficiency": "105% → 120%",
+  "slot3Equipment": "Torpedo Bombers",
+  "slot3Efficiency": "95% → 110%",
+  "collectionStatBonus": "Light aircraft carrier (CVL) Anti-submarine warfare  +1",
+  "collectionTechPoints": 8,
+  "maxLimitBreakTechPoints": 16,
+  "level120StatBonus": "Aircraft carrier (CV) Light aircraft carrier (CVL) Reload  +1",
+  "level120TechPoints": 12,
+  "enhancementValue": [
+    0,
+    0,
+    34,
+    11
+  ],
+  "retireValue": [
+    0,
+    7,
+    3,
+    1
+  ],
+  "limitBreak1": "Number of Torpedo Bombers +1 / All Plane Efficiency +3%",
+  "limitBreak2": "Hangar Capacity +1 / Number of Fighters +1 / All Plane Efficiency +5%",
+  "limitBreak3": "Number of Dive Bombers +2 / All Plane Efficiency +7%",
+  "skill1Name": "Eagle's Defiance; CN: 鹰之顽抗 JP: 鷹の急襲",
+  "skill1Description": "In each round of combat, the first two airstrikes performed will be accompanied with extra planes.",
+  "skill2Name": "",
+  "skill2Description": "",
+  "skill3Name": "",
+  "skill3Description": "",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/85/Hiyou.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7a/HiyouChibi.png",
+      "shipDescription": [
+        "飞鹰级航空母舰一番舰—飞鹰",
+        "飛鷹型航空母艦一番艦・飛鷹",
+        "Hiyou-class aircraft carrier number one – Hiyou."
+      ],
+      "selfIntroduction": [
+        "飞鹰型航空母舰一号舰——嗯，飞鹰型哦。虽说是轻型航空母舰，但无论是排水量还是载机量，都无比接近正航哦。在中途岛海战后成为重樱联合舰队的主力，直到重樱航空舰队最后的那场海战……",
+        "飛鷹型航空母艦一番艦。飛鷹だ。軽空母だが、排水も搭載数も正規空母に負けないぞ。かの大戦ではミッドウェイ海戦後、機動艦隊の主力としてあの最後の戦いまで戦っていた……",
+        "I'm Hiyou, Hiyou-class aircraft carrier number one. I'm a light carrier, but my damage control and loading capacity are just as good as a regular carrier's. After Midway, I was a key part of the Mobile Fleet and fought hard to my very last battle..."
+      ],
+      "acquisition": [
+        "轻型航空母舰飞鹰报到——指挥官，可不要因为我们姐妹是轻母就小看我们哦",
+        "軽空母・飛鷹参上だ。指揮官、我々飛鷹型が軽空母だからといってなめるんじゃないぞ",
+        "Light carrier Hiyou reporting in. Commander, I won't have you looking down on the Hiyou class just 'cause we're light carriers!"
+      ],
+      "login": [
+        "呼呼……今天也请多多关照了哟，指挥官大人~",
+        "ふふん……指揮官、今日もよろしく頼む",
+        "Heheh... Let's get some good work done today, Commander."
+      ],
+      "details": [
+        "怎么，要邀我一起共进午餐吗？",
+        "食事の誘いか？",
+        "You gonna ask if I wanna go for lunch?"
+      ],
+      "secretaryIdle1": [
+        "出云吗……真想去一次啊",
+        "出雲か……いつか見てみたいものだな",
+        "Ah, Izumo... I'd like to meet her one day."
+      ],
+      "secretaryIdle2": [
+        "明明至少我比苍龙要大……",
+        "蒼龍より私のほうが大きいはず……",
+        "I'm pretty sure mine are larger than Souryuu's..."
+      ],
+      "secretaryIdle3": [
+        "走得慢？那是因为我在深思熟虑啦",
+        "足が遅い？ふん、こう見えても考え事が多くてな",
+        "I'm slow-witted? Hmph, believe it or not, I'm a girl with a lot on her mind."
+      ],
+      "secretaryTouch": [
+        "装甲很薄，所以请不要……",
+        "装甲が薄いので、その……",
+        "I'm lightly armored, so, uh..."
+      ],
+      "secretarySpecialTouch": [
+        "呜哇——都说装甲很薄了！",
+        "だ、だから装甲は薄いんだって！",
+        "D-didn't I tell you I was lightly armored?!"
+      ],
+      "task": [
+        "任务？只要不是去马里亚纳就……",
+        "任務？マリアナ沖じゃなかったらなんだって…",
+        "A mission? As long as it ain't in the Marianas, I'll take it on..."
+      ],
+      "taskComplete": [
+        "不断积累功勋……终有一日我也会成为真正的航空母舰吧",
+        "こうして武勲を積めば、私だっていつか真の空母に……！",
+        "If we keep earning honors, one day even I can become a full-fledged carrier...!"
+      ],
+      "mail": [
+        "既然信鸽能运送信件，那我的舰载机们应该也可以吧？",
+        "メールの輸送ならハトも艦載機も変わんないだろ？",
+        "Doesn't matter if it's a pigeon or a plane delivering your mail, does it?"
+      ],
+      "returnFromMission": [
+        "战机、甲板……各种各样的地方都到该休整的时间了",
+        "艦載機、甲板……みな整備の時間だな",
+        "Planes, up on deck... It's time we all get ready."
+      ],
+      "commission": [
+        "我最初也是计划用来执行这种任务的呢~",
+        "私も最初、こういう任務のために設計されたんだがな…",
+        "I was actually designed with these types of missions in mind..."
+      ],
+      "strengthening": [
+        "……技巧更加纯熟了",
+        "…技が研ぎ澄まされたな",
+        "... Seems my technique's gotten more refined."
+      ],
+      "startingMission": [
+        "以翔天飞鹰之名——出击！",
+        "天翔ける翼の名のもとに――発艦せよ！",
+        "In the name of the wings of the sky: take off!"
+      ],
+      "mvp": [
+        "这都是舰载机们的功劳~",
+        "艦載機たちのおかげだな",
+        "It was all thanks to my little planes."
+      ],
+      "defeat": [
+        "舰载机们的战损也不能忽视……",
+        "艦載機の損害も無視できんな……",
+        "It's pretty hard to ignore the damage done to my planes..."
+      ],
+      "skillActivation": [
+        "舰载机……升空！",
+        "艦載機…発進せよ！",
+        "Planes... take off!"
+      ],
+      "lowHP": [
+        "-",
+        "-",
+        "-"
+      ],
+      "affinityDisappointed": [
+        "肮脏——不、我不是在说你哦",
+        "汚らわしい……はぁ？お前のことじゃない…",
+        "So filthy... What? I'm not talking about you..."
+      ],
+      "affinityStranger": [
+        "隼鹰——虽说我是姐姐，但也觉得她有点危险呢",
+        "隼鷹――姉が言うのもなんだが、あの子は色々危ないな…",
+        "Junyou is... I know I'm warning you about my own little sister, but she's really dangerous..."
+      ],
+      "affinityFriendly": [
+        "眼罩？知名的海盗不都是这样打扮的吗？",
+        "眼帯？さあな、気まぐれでかけたんだったかな。海賊とかそれらしい格好をする人間も多かろう？",
+        "My eyepatch? Kinda just started wearing it on a whim. Plenty of people out there who dress like pirates, you know?"
+      ],
+      "affinityLike": [
+        "稍微在意起你了，不过……只是稍微哦",
+        "お前のことは少し見直した。少しだけだぞ！",
+        "My opinion of you has improved a little bit. Just a little bit, you hear!"
+      ],
+      "affinityLove": [
+        "舰载机们都放出去了，所以，现在这里只有我们两人哦……",
+        "艦載機は全部放った。今ここにいるのは…私たち二人だけだな",
+        "I've sent out all my planes. Right now... there's just us two in here."
+      ],
+      "pledge": [
+        "指挥官，一直以来都承蒙您的照顾了……那么——请允许航空母舰飞鹰，在这场旅途中成为你的伴侣",
+        "指揮官、今までずっと世話になったな……これから――この飛鷹があなたの生涯の伴侶となることを、どうか……！",
+        "You've been real good to me, Commander... So, how about I be your lifelong partner from this day onwards...?"
+      ],
+      "giftDescriptionValentines2019": [
+        "隼鹰这些天一直在厨房里摆弄着巧克力…我也不太会做，所以就拿了一个她做的代替啦！指挥官不会介意的吧~还是很好吃的！",
+        "隼鷹のやつ、ここ数日ずっとキッチンでチョコを作っていたが……私はこういうの作れないから、一つだけ取って指揮官、あなたに渡したってわけだ。いや、すまない、気にしないでくれ！",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Commander, this is for you. It's a little embarrassing to take what someone else made and give it to you, so I did what I could to help her. Let me just make sure she didn't put anything weird in it..."
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b2/Hiyou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Hiyou_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b2/Hiyou_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiyou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiyou_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiyou_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/80/Hiyou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Hiyou_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/80/Hiyou_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Hiyou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Hiyou_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Hiyou_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/5/55/Hiyou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Hiyou_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/55/Hiyou_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hiyou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hiyou_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hiyou_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/4/44/Hiyou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Hiyou_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/44/Hiyou_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7d/Hiyou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Hiyou_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7d/Hiyou_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/ba/Hiyou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Hiyou_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/ba/Hiyou_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/e/e9/Hiyou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Hiyou_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/e/e9/Hiyou_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4e/Hiyou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Hiyou_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4e/Hiyou_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/10/Hiyou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Hiyou_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/10/Hiyou_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hiyou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hiyou_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d0/Hiyou_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/51/Hiyou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Hiyou_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/51/Hiyou_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/62/Hiyou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Hiyou_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/62/Hiyou_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c8/Hiyou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Hiyou_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c8/Hiyou_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/95/Hiyou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Hiyou_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/95/Hiyou_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/0/05/Hiyou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Hiyou_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/05/Hiyou_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiyou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiyou_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/61/Hiyou_SkillActivationJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/7a/Hiyou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Hiyou_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/7a/Hiyou_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Hiyou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Hiyou_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Hiyou_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/73/Hiyou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Hiyou_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/73/Hiyou_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/6/66/Hiyou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Hiyou_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/6/66/Hiyou_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Hiyou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Hiyou_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Hiyou_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hiyou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hiyou_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a1/Hiyou_PledgeJP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}

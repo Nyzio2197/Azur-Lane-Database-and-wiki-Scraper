@@ -1,0 +1,461 @@
+{
+  "name": "Grenville",
+  "constructionTime": "00:25:00",
+  "constructionPools": [
+    false,
+    false,
+    false,
+    true,
+    true
+  ],
+  "dropLocations": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "rarity": "Elite",
+  "shipClass": "G",
+  "ID": "093",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "artist": "りいちゅ",
+  "pixiv": "https://www.pixiv.net/member.php?id=159905",
+  "twitter": "https://twitter.com/rityulate",
+  "voiceActor": "https://azurlane.koumakan.jp/w/images/2/2a/Grenville_TitleScreen.ogg",
+  "armor": "Light",
+  "statsHashMap": {
+    "Level 120": [
+      1518,
+      201,
+      32,
+      85,
+      364,
+      210,
+      43,
+      164,
+      0,
+      9,
+      184,
+      215,
+      0,
+      0
+    ],
+    "Level 100": [
+      1265,
+      175,
+      32,
+      74,
+      324,
+      204,
+      43,
+      143,
+      0,
+      9,
+      175,
+      195,
+      0,
+      0
+    ],
+    "Base Stats": [
+      245,
+      74,
+      32,
+      16,
+      69,
+      78,
+      43,
+      31,
+      0,
+      2,
+      67,
+      53,
+      0,
+      0
+    ]
+  },
+  "slot1Equipment": "DD Guns",
+  "slot1Efficiency": "115% → 135%",
+  "slot2Equipment": "Torpedoes",
+  "slot2Efficiency": "125% → 130%",
+  "slot3Equipment": "Anti-Air Guns",
+  "slot3Efficiency": "100% → 105%",
+  "collectionStatBonus": "Destroyer (DD) Health  +1",
+  "collectionTechPoints": 5,
+  "maxLimitBreakTechPoints": 11,
+  "level120StatBonus": "Destroyer (DD) Evasion  +1",
+  "level120TechPoints": 8,
+  "enhancementValue": [
+    5,
+    23,
+    0,
+    14
+  ],
+  "retireValue": [
+    0,
+    4,
+    3,
+    4
+  ],
+  "limitBreak1": "Gained Special Barrage I / Main Gun Efficiency +5%",
+  "limitBreak2": "Max Torpedo Capacity +1 / Pre-Loaded Torpedo +1 / Main Gun Efficiency +10%",
+  "limitBreak3": "Upgrades Special Barrage I→II / All Weapon Efficiency +5%",
+  "skill1Name": "Artillery Command: Destroyers; CN: 炮术指挥·驱逐舰 JP: 砲術指揮・駆逐艦",
+  "skill1Description": "Increases Firepower of Destroyers in the same fleet by 5% (15%). Does not stack with other command skills that have similar effect.",
+  "skill2Name": "Emergency Maneuvers; CN: 紧急回避 JP: 緊急回避",
+  "skill2Description": "Every 20 seconds, 15% (30%) chance to evade all incoming attacks for 6 seconds.",
+  "skill3Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-G級",
+  "skill3Description": "Every 15 (10) times the main battery is fired, triggers Full Barrage - G-Class I (II)",
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "obtainedFrom": "Default",
+      "l2dModel": false,
+      "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/f/f1/Grenville.png",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cc/GrenvilleChibi.png",
+      "shipDescription": [
+        "G级驱逐舰—格伦维尔，舷号H03",
+        "G級駆逐艦・グレンヴィル（H03)",
+        "G-class Destroyer - Grenville (H03)"
+      ],
+      "selfIntroduction": [
+        "我是皇家G级驱逐舰格伦维尔号，是驱逐领舰，也曾担任过驱逐舰队的旗舰哦！虽然因为服役期比较短而没有什么战绩是一大遗憾就是了。要特别说明的是，我并不太喜欢水雷呢……",
+        "ロイヤルGクラス駆逐艦のグレンヴィルよ。嚮導駆逐艦、そして駆逐艦隊の旗艦も務めたの。まあそこまで長くは戦えてなかったかな。それと言わなきゃならないことがあるんだ。私、水雷はちょっと苦手なんだよね……",
+        "I'm Grenville, Royal G-class Destroyer. I served as the lead ship and flagship of a destroyer squadron! However, it's a darn shame that I didn't leave behind much of a legacy because of my short service. If there's anything special I'd like you to know, um, I'm not fond of naval mines..."
+      ],
+      "acquisition": [
+        "YAHO，指挥官好啊~G级驱逐舰格伦维尔前来报到。有我在，你就放心睡大觉好啦。哈哈，开玩笑的~让我们好好相处吧！",
+        "ヤッホー、ごきげんよう指揮官、Gクラス駆逐艦のグレンヴィルよ！私が着任したからにはもう指揮官は安心してよし！なーんて、冗談よ♪　ま、お互い仲良くしましょう？",
+        "Heyyo~ Good morning, Commander! G-class Destroyer, Grenville, reporting for duty! Now that I'm here, you can leave everything to me and take a nap! Hehe, just kidding~ Let's get along well, all right?"
+      ],
+      "login": [
+        "指挥官欢迎回来！有没有好好休息过呀？有的话，就速速开始今天的工作吧～",
+        "指揮官、おかえり！ゆっくり休めた？休めたら今日の仕事、早く始めましょ？",
+        "Commander, welcome back! Did you sleep well? If so, let's get started with today's work!"
+      ],
+      "details": [
+        "指挥官，我照着胡德小姐的教导泡了一杯红茶给你哦~试试看？……诶？甜到腻？啊哈哈哈，果然直接一大勺蜂蜜加进去是不行的吗……",
+        "指揮官、私フッドさんから紅茶の入れ方を勉強したけど、試しに一杯飲んでみる？……あれ？甘すぎ…？あははは、やっぱハチミツをドカーンと入れたのがダメだったかな……",
+        "Commander, I steeped tea according to Miss Hood's instructions. Care to try? Huh...? It's too sweet...? Ahaha... I suppose that big ol' scoop of honey was a bit overkill..."
+      ],
+      "secretaryIdle1": [
+        "嘻嘻，指挥官来和我一起学习“礼仪”嘛～比如说…像这样优～雅地挽起女士的手什么的～",
+        "ふふん、指揮官も私の「作法」の勉強に付き合ってみない？例えばこう、レディの手を優雅に取れるやり方とか～",
+        "Hehe, Commander, would you like to study etiquette with me~? For example, take this fine lady's hand gracefully like this~"
+      ],
+      "secretaryIdle2": [
+        "作为驱逐领舰，应当成为可靠的战力才对嘛，嗯~嗯~我也会为此而努力哦~",
+        "嚮導駆逐艦として、頼れる戦力になるべきなんだよね！うんうん、私もこれを目標にしてるよ～",
+        "As a lead ship, it's only right that I become a pillar of strength! Hehe~ Because of that, I'll continue to work hard!"
+      ],
+      "secretaryIdle3": [
+        "没有什么实绩并不可怕的！关键是在未来能够经受挑战……嘿嘿，好像在说大话了~",
+        "実績がなくても怖くない！大切なのは明日の試練を乗り越え……あっごめんごめん、今のちょっと偉そうにしちゃった？",
+        "Even though I may be inexperienced, I have nothing to fear! What matters is the ability to overcome any adversity in the future... Hehe, sounds like I'm beginning to boast~"
+      ],
+      "secretaryTouch": [
+        "要是哪一天我也成为胡德小姐那样的淑女该多好啊～",
+        "フッドさんのような優雅なレディになれるといいな～",
+        "Ahh... If only I could become an elegant lady like Miss Hood~"
+      ],
+      "secretarySpecialTouch": [
+        "呜哇……我要生气了！指挥官应该更具绅士气质才对！",
+        "きゃっ！？……もう怒るよ！指揮官ったらもっと紳士的にならないと！",
+        "Woah?! Gosh... I'm going to get angry! Commander, you have to conduct yourself appropriately!"
+      ],
+      "task": [
+        "任务还有很多，指挥官不要偷懒哦~加油，一起来完成吧。",
+        "指揮官、任務が残ってるから、まだサボっちゃダメよ～一緒に頑張って、こなしちゃお♪",
+        "Commander, there are a lot of tasks left still, so don't slack off~ Let's keep at it and finish up together!"
+      ],
+      "taskComplete": [
+        "快去领取任务的奖励吧~",
+        "任務報酬を受取に行こ？",
+        "Let's hurry up and claim the mission rewards~"
+      ],
+      "mail": [
+        "邮件到了~嘻嘻，要不要我来帮忙拆开？",
+        "メールだ！ふふん、私が開けてもいい？",
+        "The mail's here! Hehe~ need my help opening them?"
+      ],
+      "returnFromMission": [
+        "指挥官你总算回来了～快来看我的训练成果吧—啊…不好意思不好意思，出击应该已经很累了吧~？来，给你一杯果汁，尽快恢复元气吧（摸头）",
+        "指揮官戻った？じゃあ早速特訓の成果を…ってごめんごめん！出撃でもう疲れたよね！はい、ジュースよ！とりあえず早く元気になろ？",
+        "Commander, you're finally back! Hey, come and see the results of my training- I-I mean, pardon me! You must be tired from battle! Here, have some juice! Anyway, feel better soon, okay?"
+      ],
+      "commission": [
+        "委托组的大家都回来啦！真想和她们一起玩……啊，你听错了哦~我是说，想和大家一起出港啦！",
+        "委託組のみんなが戻ってきた！私も一緒に遊びに……じゃなくて！みんなと一緒に海にでたいな～！",
+        "Everyone's back from commissions! I sure want to be able to play with them too... Ahem, you heard me wrong~ I said, I wanted to be able to sortie with them!"
+      ],
+      "strengthening": [
+        "这样就能更经常地被编入出击阵容了吧~嘻嘻，指挥官多谢！",
+        "これで出撃艦隊に編成される機会がもっと増えるよね！ふふん、指揮官、サンキュー♪",
+        "With this, I'll be added to the sortie fleet more often, right~? Hehe, Commander, thank you!"
+      ],
+      "startingMission": [
+        "向对手展示我们的强大吧～！",
+        "敵にこっちのスゴさを見せちゃいなよ！",
+        "Let's show our opponents how awesome we are!"
+      ],
+      "mvp": [
+        "作为驱逐领舰，这也是理所当然的事啦~",
+        "嚮導駆逐艦として当たり前よ♪",
+        "Expect nothing less from a lead destroyer~♪"
+      ],
+      "defeat": [
+        "呜…是我的能力还有不足吗……",
+        "うぅ…やっぱり私じゃ力不足ってこと……？",
+        "Ugh... are my abilities still lacking...?"
+      ],
+      "skillActivation": [
+        "你们马上就会知道我的厉害了！看招吧！",
+        "今私のスゴさを見せてやるわ！くーらえー！",
+        "You're about to bear witness to our greatness! Take this!"
+      ],
+      "lowHP": [
+        "别小看人，我可是驱逐领舰！",
+        "嚮導駆逐艦を甘く見るなよ～！",
+        "Don't underestimate the power of a lead ship!"
+      ],
+      "affinityDisappointed": [
+        "指挥官再不打起精神，以后就不管你了哦~哈哈，骗你的！不过不要再让我失望了哦~",
+        "指揮官、しっかりしないと放っておくよ！なーんてね♪もちろんウソ！もう失望させないでね",
+        "Commander, if you don't perk up, I won't pay pay attention to you anymore! Juuuust kidding~ of course that's a lie! Although, you still shouldn't disappoint me~"
+      ],
+      "affinityStranger": [
+        "港区还有很多个性鲜明的小伙伴吧～指挥官有机会就多给我介绍点嘛？想多和她们认识认识呢～",
+        "母港には個性的な子はまだまだたくさんいるでしょ～私に紹介してもらえないかな？もっと皆と知り合いたいよね！",
+        "There are a lot more interesting friends to meet around port, right? Commander, if you have the opportunity, why don't you introduce me to them? I want to learn a lot more about everyone else~"
+      ],
+      "affinityFriendly": [
+        "要学习的东西还有很多，而且，有指挥官在身边陪伴的话，就更有动力了～！",
+        "勉強したいことがいっぱいあるよね！ふふん、今は指揮官がそばにいるからモチベーションも上々よ！",
+        "There is still much that I must learn, but as long as you're by my side, Commander, I'll be super motivated~!"
+      ],
+      "affinityLike": [
+        "作为一名来自皇家的淑女，自然要用美食俘获指挥官的胃了！指挥官，想尝尝我做的皇家料理吗？嘿嘿，虽然鱼头全都烤糊了……",
+        "指揮官の胃をトリコにしないのはロイヤルレディ失格よ！というわけで、指揮官は私の作ったロイヤルグルメを食べてみない？って、ちょっと頭が焦げちゃってるけどね……あははは",
+        "In order to prove myself as a fine Royal lady, I must be able to satiate your appetite with my delicious cooking! Commander, would you care to try my Royal-style cuisine? Eh...? I burnt all the fish heads to a crisp? ...Ahaha~"
+      ],
+      "affinityLove": [
+        "指挥官…我喜欢你哦！！诶嘿嘿…嗯？女孩子主动说出口很新鲜吗？唔…别一直盯着我嘛，就算是指挥官，我也有点难为情……诶？想再听一遍？真的吗？嘻嘻，喜欢你！最喜欢你哦~",
+        "指揮官のことは…好きよ！えへへ……あれ？女の子から告白されるのはそんなに珍しいの…？さ、さすがに指揮官でもそんなにじっと見つめられたらちょっと恥ずかしいかな……えっ、もう一回聞きたい？本当に？じゃあ…うん！好きよ！大好き！",
+        "Commander, I... like you a lot! Ehehe... Um... is it that unusual for girls to confess to you? Uhh... please don't stare at me like that, it's embarrassing... Huh? You'd like to hear it again? Really? I like you, a lot! I love you~!"
+      ],
+      "pledge": [
+        "原本只想努力成为指挥官的可靠助手，没想到最后由指挥官亲手给我戴上了戒指……指挥官，放下你的礼仪和优雅，尽情地和我拥抱吧~",
+        "指揮官の頼れる助手さんになるつもりだったけど、まさか指揮官から指輪を送られるなんて……はい、もう優雅とか作法とか無理しなくていいから、私のことを思いっきり抱きしめちゃって♪",
+        "Commander, I originally just wanted to be useful to you, and never expected for you to give me a ring... Commander, it's fine to let go of things like etiquette and manners, and just embrace me~"
+      ],
+      "additionalVoiceLine1": [
+        "(Sortie with Glowworm) 嗯嗯！就这么猛撞上去吧！",
+        "(Sortie with Glowworm) うんうん！そのままぶつけていいよ！",
+        "(Sortie with Glowworm) Mmhmm! Let's slam right into 'em!"
+      ],
+      "giftDescriptionValentines2019": [
+        "指挥官，情人节快乐！淑女风味的巧克力，你值得拥有哦~嘻嘻~终于做出来啦，请收下吧~",
+        "指揮官、ハッピーバレンタイン！フッドさんよろしくレディの嗜みである手作りチョコケーキよ！ふっふん、ついに完成することが出来たんだ！どうぞ♪",
+        null
+      ],
+      "giftDescriptionValentines2020": [
+        null,
+        null,
+        "Happy Valentine's day, Commander! Take a gander at what I've got for you! It's a little chocolate that'll give you an energy boost when you've got a ton of work on your hands! Hehe, come on, take it! ♪"
+      ],
+      "selfIntroductionUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/d9/Grenville_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Grenville_SelfIntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/d9/Grenville_SelfIntroJP.ogg"
+      ],
+      "acquisitionUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/9b/Grenville_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Grenville_IntroJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/9b/Grenville_IntroJP.ogg"
+      ],
+      "loginUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/31/Grenville_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Grenville_LogJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/31/Grenville_LogJP.ogg"
+      ],
+      "detailsUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/32/Grenville_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Grenville_DetailsJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/32/Grenville_DetailsJP.ogg"
+      ],
+      "secretaryIdle1Url": [
+        "https://azurlane.koumakan.jp/w/images/2/21/Grenville_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Grenville_SecIdle1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/2/21/Grenville_SecIdle1JP.ogg"
+      ],
+      "secretaryIdle2Url": [
+        "https://azurlane.koumakan.jp/w/images/4/4b/Grenville_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Grenville_SecIdle2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/4b/Grenville_SecIdle2JP.ogg"
+      ],
+      "secretaryIdle3Url": [
+        "https://azurlane.koumakan.jp/w/images/8/89/Grenville_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Grenville_SecIdle3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/89/Grenville_SecIdle3JP.ogg"
+      ],
+      "secretaryTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/bf/Grenville_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Grenville_Sec1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/bf/Grenville_Sec1JP.ogg"
+      ],
+      "secretarySpecialTouchUrl": [
+        "https://azurlane.koumakan.jp/w/images/9/96/Grenville_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Grenville_Sec2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/9/96/Grenville_Sec2JP.ogg"
+      ],
+      "taskUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/3c/Grenville_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Grenville_TaskJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/3c/Grenville_TaskJP.ogg"
+      ],
+      "taskCompleteUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/52/Grenville_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Grenville_TaskCJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/52/Grenville_TaskCJP.ogg"
+      ],
+      "mailUrl": [
+        "https://azurlane.koumakan.jp/w/images/a/a2/Grenville_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Grenville_MailJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/a/a2/Grenville_MailJP.ogg"
+      ],
+      "returnFromMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/79/Grenville_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Grenville_MissionFinJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/79/Grenville_MissionFinJP.ogg"
+      ],
+      "commissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b7/Grenville_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Grenville_CommissionJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b7/Grenville_CommissionJP.ogg"
+      ],
+      "strengtheningUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/1c/Grenville_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Grenville_StrJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/1c/Grenville_StrJP.ogg"
+      ],
+      "startingMissionUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/85/Grenville_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Grenville_MissionStartJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/85/Grenville_MissionStartJP.ogg"
+      ],
+      "mvpUrl": [
+        "https://azurlane.koumakan.jp/w/images/4/49/Grenville_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Grenville_MVPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/4/49/Grenville_MVPJP.ogg"
+      ],
+      "defeatUrl": [
+        "https://azurlane.koumakan.jp/w/images/7/71/Grenville_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Grenville_DefeatJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/7/71/Grenville_DefeatJP.ogg"
+      ],
+      "skillActivationUrl": [
+        "https://azurlane.koumakan.jp/w/images/1/12/Grenville_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Grenville_SkillActivationJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/1/12/Grenville_SkillActivationJP.ogg"
+      ],
+      "lowHPUrl": [
+        "https://azurlane.koumakan.jp/w/images/d/dd/Grenville_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Grenville_LowHPJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/d/dd/Grenville_LowHPJP.ogg"
+      ],
+      "affinityDisappointedUrl": [
+        "https://azurlane.koumakan.jp/w/images/5/5c/Grenville_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Grenville_Affinity0JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/5/5c/Grenville_Affinity0JP.ogg"
+      ],
+      "affinityStrangerUrl": [
+        "https://azurlane.koumakan.jp/w/images/c/c2/Grenville_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Grenville_Affinity1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/c/c2/Grenville_Affinity1JP.ogg"
+      ],
+      "affinityFriendlyUrl": [
+        "https://azurlane.koumakan.jp/w/images/f/fe/Grenville_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Grenville_Affinity2JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/f/fe/Grenville_Affinity2JP.ogg"
+      ],
+      "affinityLikeUrl": [
+        "https://azurlane.koumakan.jp/w/images/3/36/Grenville_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Grenville_Affinity3JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/3/36/Grenville_Affinity3JP.ogg"
+      ],
+      "affinityLoveUrl": [
+        "https://azurlane.koumakan.jp/w/images/b/b9/Grenville_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Grenville_Affinity4JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/b/b9/Grenville_Affinity4JP.ogg"
+      ],
+      "pledgeUrl": [
+        "https://azurlane.koumakan.jp/w/images/8/87/Grenville_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Grenville_PledgeJP.ogg",
+        "https://azurlane.koumakan.jp/w/images/8/87/Grenville_PledgeJP.ogg"
+      ],
+      "additionalVoiceLine1Url": [
+        "https://azurlane.koumakan.jp/w/images/0/04/Grenville_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Grenville_Extra1JP.ogg",
+        "https://azurlane.koumakan.jp/w/images/0/04/Grenville_Extra1JP.ogg"
+      ]
+    }
+  ],
+  "retrofitNodes": []
+}
