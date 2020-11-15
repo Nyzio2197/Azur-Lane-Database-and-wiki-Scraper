@@ -155,7 +155,7 @@
   "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +1 / Fighter Efficiency +10%",
   "limitBreak3": "Number of All Planes +1 / Torpedo Bombers Efficiency +15%",
   "skill1Name": "Evasive Scramble; CN: 遁入雨云 JP: クラウド・イヴェイジョン",
-  "skill1Description": "When this ship launches an Airstrike (airstrikes launched via skills do not count): decreases this ship's aviation DMG taken by 40.0% (70%) for 8s. When this buff wears off: 40.0% (70%) chance to launch an additional Lv.1 (Lv.10) TBF Avenger airstrike (DMG is based on the skill's level.)",
+  "skill1Description": "When this ship launches an Airstrike, decrease this ship's aviation DMG taken by 40.0% (70.0%) for 8 seconds. When this buff wears off, 40.0% (70.0%) chance to launch a TBF Avenger plane barrage (barrage damage scales with skill level).",
   "skill2Name": "Extinguishing Gale; CN: 燃烧禁令 JP: クール・エクスティンクション",
   "skill2Description": "When sortied with or when there are at least 3 Eagle Union ships in the fleet: decreases your Vanguard's Burn DMG taken by 5.0% (15.0%) and Burn duration by 1 (3)s; if this ship is your Flagship: further decreases your Vanguard's Burn duration by 1 (3)s.",
   "skill3Name": "",

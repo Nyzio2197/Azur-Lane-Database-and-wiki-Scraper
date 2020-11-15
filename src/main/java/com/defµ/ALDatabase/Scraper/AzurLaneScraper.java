@@ -590,228 +590,231 @@ public class AzurLaneScraper {
                         if (skinName.equalsIgnoreCase("Beauty of White Jade")) // this requires cross comparison with the other tabbertabs, which is simply too much work for a skin that isn't on EN anyways;
                             continue;
                         Element table = div.select("table").get(i);
+                        int index = 2;
+                        if (table.select("tr").get(0).select("th").get(2).ownText().equalsIgnoreCase("cn"))
+                            index++;
                         for (int rowN = 1; rowN < table.select("tr").size(); rowN++) {
                             Element row = table.select("tr").get(rowN);
                             if (row.select("td").get(0).ownText().equalsIgnoreCase("Ship Description")) {
-                                skin.getShipDescription()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getShipDescription()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Self Introduction")) {
-                                skin.getSelfIntroduction()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSelfIntroduction()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSelfIntroductionUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Acquisition")) {
-                                skin.getAcquisition()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAcquisition()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAcquisitionUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Login")) {
-                                skin.getLogin()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getLogin()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getLoginUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Details")) {
-                                skin.getDetails()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getDetails()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getDetailsUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Self Introduction")) {
-                                skin.getSelfIntroduction()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSelfIntroduction()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSelfIntroductionUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Idle) 1")) {
-                                skin.getSecretaryIdle1()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryIdle1()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryIdle1Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Idle) 2")) {
-                                skin.getSecretaryIdle2()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryIdle2()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryIdle2Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             }  else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Idle) 3")) {
-                                skin.getSecretaryIdle3()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryIdle3()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryIdle3Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Idle) 4")) {
-                                skin.getSecretaryIdle4()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryIdle4()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryIdle4Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Idle) 5")) {
-                                skin.getSecretaryIdle5()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryIdle5()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryIdle5Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Idle) 6")) {
-                                skin.getSecretaryIdle6()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryIdle6()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryIdle6Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Touch)")) {
-                                skin.getSecretaryTouch()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryTouch()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryTouchUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Special Touch)")) {
-                                skin.getSecretarySpecialTouch()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretarySpecialTouch()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretarySpecialTouchUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Secretary (Headpat)")) {
-                                skin.getSecretaryHeadpat()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSecretaryHeadpat()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSecretaryHeadpatUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Task")) {
-                                skin.getTask()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getTask()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getTaskUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Task Complete")) {
-                                skin.getTaskComplete()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getTaskComplete()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getTaskCompleteUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Mail")) {
-                                skin.getMail()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getMail()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getMailUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Return From Mission")) {
-                                skin.getReturnFromMission()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getReturnFromMission()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getReturnFromMissionUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Commission")) {
-                                skin.getCommission()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getCommission()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getCommissionUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Strengthening")) {
-                                skin.getStrengthening()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getStrengthening()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getStrengtheningUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Starting Mission")) {
-                                skin.getStartingMission()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getStartingMission()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getStartingMissionUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("MVP")) {
-                                skin.getMvp()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getMvp()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getMvpUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Defeat")) {
-                                skin.getDefeat()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getDefeat()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getDefeatUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Skill Activation")) {
-                                skin.getSkillActivation()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getSkillActivation()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getSkillActivationUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Low HP")) {
-                                skin.getLowHP()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getLowHP()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getLowHPUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Affinity (Disappointed)")) {
-                                skin.getAffinityDisappointed()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAffinityDisappointed()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAffinityDisappointedUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Affinity (Stranger)")) {
-                                skin.getAffinityStranger()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAffinityStranger()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAffinityStrangerUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Affinity (Friendly)")) {
-                                skin.getAffinityFriendly()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAffinityFriendly()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAffinityFriendlyUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Affinity (Like)")) {
-                                skin.getAffinityLike()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAffinityLike()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAffinityLikeUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Affinity (Love)")) {
-                                skin.getAffinityLove()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAffinityLove()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAffinityLoveUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Pledge")) {
-                                skin.getPledge()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getPledge()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getPledgeUrl()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 1")) {
-                                skin.getAdditionalVoiceLine1()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine1()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine1Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 2")) {
-                                skin.getAdditionalVoiceLine2()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine2()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine2Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 3")) {
-                                skin.getAdditionalVoiceLine3()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine3()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine3Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 4")) {
-                                skin.getAdditionalVoiceLine4()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine4()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine4Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 5")) {
-                                skin.getAdditionalVoiceLine5()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine5()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine5Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 6")) {
-                                skin.getAdditionalVoiceLine6()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine6()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine6Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 7")) {
-                                skin.getAdditionalVoiceLine7()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine7()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine7Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 8")) {
-                                skin.getAdditionalVoiceLine8()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine8()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine8Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 9")) {
-                                skin.getAdditionalVoiceLine9()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine9()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine9Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 10")) {
-                                skin.getAdditionalVoiceLine10()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine10()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine10Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Additional Voice Line 11")) {
-                                skin.getAdditionalVoiceLine11()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getAdditionalVoiceLine11()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                                 if (row.select("td").get(1).select("a").size() == 1) {
                                     skin.getAdditionalVoiceLine11Url()[n] = row.select("td").get(1).select("a").get(0).attr("href");
                                 }
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Gift Description Valentines 2018")) {
-                                skin.getGiftDescriptionValentines2018()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getGiftDescriptionValentines2018()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Gift Description Valentines 2019")) {
-                                skin.getGiftDescriptionValentines2019()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getGiftDescriptionValentines2019()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Gift Description Valentines 2020")) {
-                                skin.getGiftDescriptionValentines2020()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getGiftDescriptionValentines2020()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                             } else if (row.select("td").get(0).ownText().equalsIgnoreCase("Gift Description Valentines 2021")) {
-                                skin.getGiftDescriptionValentines2021()[n] = row.select("td").get(2).ownText().replace("\\\"", "\"");
+                                skin.getGiftDescriptionValentines2021()[n] = row.select("td").get(index).ownText().replace("\\\"", "\"");
                             }
                         }
                     }

@@ -159,7 +159,7 @@
   "limitBreak2": "Torpedo base +1/Torpedo preload +1/All weapons' efficiency +3%",
   "limitBreak3": "Improve All Out Assault/All weapons' efficiency +5%",
   "skill1Name": "Black Cat Cyclone; CN: CHANGE NEKO! JP: サイクロンブラックキャット",
-  "skill1Description": "Every 20s: launches a Lvl. 1 (10) seaplane airstrike, increasing this ship's FP by 5.0% (15.0%), revealing the location of all enemy SSs for 10s, and increasing the damage they take by 1% (10%) for 10s. Once per battle, if this ship has the PBY-5A Catalina equipped when its HP falls below 40.0%: launches a special seaplane airstrike. Airstrike DMG is based on the skill's level.",
+  "skill1Description": "Every 20s: launches a Lvl. 1 (10) seaplane airstrike, increasing this ship's FP by 5.0% (15.0%), revealing the location of all enemy SSs for 10s, and increasing the damage they take by 1% (10%) for 10s. Once per battle, if this ship has the equipped when its HP falls below 40.0%: launches a special seaplane airstrike. Airstrike DMG is based on the skill's level.",
   "skill2Name": "All Out Assault; CN: 全弹发射 JP: 全弾発射-アレン・M・サムナー級",
   "skill2Description": "Activates All Out Assault Ⅱ: Allen M. Sumner-class once every 10 times the Main Guns are fired.",
   "skill3Name": "",

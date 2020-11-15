@@ -206,159 +206,159 @@
       "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/8/8a/Ning_Hai.png",
       "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2c/Ning_HaiChibi.png",
       "shipDescription": [
-        "",
-        "",
-        ""
+        "宁海级轻巡洋舰—宁海",
+        "寧海級軽巡洋艦・寧海",
+        "Ning Hai-class Light Cruiser, Ning Hai"
       ],
       "selfIntroduction": [
-        "",
-        "",
-        ""
+        "我是宁海级的首舰宁海，为了振兴海军，我和妹妹一直过着省吃俭用的生活，指挥官要是敢铺张浪费的话，我可是会生气的！",
+        "寧海級のネームシップの寧海よ。海軍復興のために、妹とずっと節約生活をしてきたの。指揮官がもし浪費したら、私怒るからね！",
+        "I'm Ning Hai, the first ship of the Ning Hai-class! In order to revive our nation's navy, we have been living as frugally as possible. If you waste our efforts, Commander, I'm going to be very angry with you!"
       ],
       "acquisition": [
-        "",
-        "",
-        ""
+        "你就是指挥官吗，今天起我会负起督促你的职责，希望你也能恪尽……包子？谢谢，我就不客气了",
+        "あんたが指揮官？今日から私があんたを監督するわ、ちゃんと職務に……包子（バオズ）！コホン、に、肉まん？ど、どうも、頂くわ",
+        "You're the Commander? Well, from this day forward, I'll take the duty of supervising the fleet. I hope you'll coopera... Buns? Thank you, I'll help myself."
       ],
       "login": [
-        "",
-        "",
-        ""
+        "去哪儿偷懒了回来这么晚！给我带了吃的？……开始工作吧",
+        "遅い！どこで油売ってたの？え？食べ物持ってきた？……まあ仕事を始めなさいな…",
+        "Where were you? Lazing around again?! Did you bring me any food...? Hmph. Let's get to work."
       ],
       "details": [
-        "",
-        "",
-        ""
+        "怎么，想看武术表演吗？",
+        "なに？演舞が見たいの？",
+        "What is it? You want to watch a martial arts performance?"
       ],
       "secretaryIdle1": [
-        "",
-        "",
-        ""
+        "就算你把包子放在桌上我也不会放松的……",
+        "テーブルに肉まんを置いたって気を抜いたりしないわよ……",
+        "Even if you put a giant plate of steamed buns on the table in front of me, I won't relax..."
       ],
       "secretaryIdle2": [
-        "",
-        "",
-        ""
+        "比起我自己变强，我更希望看到指挥官和舰队变强",
+        "私自身が強くなることより、指揮官と艦隊が強くなるのを見たいわ",
+        "Commander, I would rather see you and the fleet become stronger instead of just myself."
       ],
       "secretaryIdle3": [
-        "",
-        "",
-        ""
+        "不好好锻炼身体的话是没办法保护重要的人的！",
+        "病弱すぎるよね、鍛えなおしてあげるわ！",
+        "You cannot protect your loved ones if you neglect your training."
       ],
       "secretaryTouch": [
-        "",
-        "",
-        ""
+        "怎么了，想和我过过招吗？",
+        "なに？組手でもしたいの？",
+        "What, you want to have a go with me?"
       ],
       "secretarySpecialTouch": [
-        "",
-        "",
-        ""
+        "呵呵呵，这下就算你喊玉皇大帝来外加十笼包子也没用了……",
+        "ふふん…玉皇大帝を呼んできたって肉まん10せいろう上乗せしたってぜったいに許さないわよ……",
+        "*sigh* I won't forgive you, even if you beg God for forgiveness and bribe me with a lifetime supply of steamed buns."
       ],
       "task": [
-        "",
-        "",
-        ""
+        "任务可不是靠发呆就能完成的，赶快出发吧",
+        "ボーっとしてても任務は終わらないわよ。早く出発しなさい",
+        "Missions won't complete themselves if you are daydreaming. Let's get going!"
       ],
       "taskComplete": [
-        "",
-        "",
-        ""
+        "任务奖励统计好了，总共可以换包……咳咳，清单在这里",
+        "任務報酬を資料にまとめたわ。肉まん何個ぐら……コホン！はい、これよ",
+        "Rewards have been counted. We could buy a huge stack of steamed buns... *ahem* The list is here, Commander."
       ],
       "mail": [
-        "",
-        "",
-        ""
+        "及时阅读信件是基本礼仪，好好回复别人吧",
+        "メールを適時に読むのはマナーの基本よ、ちゃんと返しなさい",
+        "Reading the mail in a timely manner is a common courtesy. Make sure to properly respond as well!"
       ],
       "returnFromMission": [
-        "",
-        "",
-        ""
+        "凑巧包子蒸好了，你要不要吃一个休息一下？",
+        "肉まん、できたわ。一個食べて休んでみない？",
+        "I just finished steaming these buns. Why not relax and have a quick snack?"
       ],
       "commission": [
-        "",
-        "",
-        ""
+        "指挥官，之前的委托差不多到时间了",
+        "指揮官、前の委託はそろそろ時間よ",
+        "Commander, the prior commission should be finished just about now."
       ],
       "strengthening": [
-        "",
-        "",
-        ""
+        "为了平衡舰队的收支，我要更加努力才行",
+        "艦隊の家計を守るためにももっと頑張らないと…",
+        "I've got to work even harder to balance the fleet's income and expenses."
       ],
       "startingMission": [
-        "",
-        "",
-        ""
+        "对敌人我是不会客气的",
+        "敵には容赦しないわ！",
+        "I'll never hold back against our enemies!"
       ],
       "mvp": [
-        "",
-        "",
-        ""
+        "姐妹们要胜过我才行啊",
+        "姉妹たちにも私に勝ってもらわないとね！",
+        "Everyone must aspire to outperform me!"
       ],
       "defeat": [
-        "",
-        "",
-        ""
+        "是我……能力不足……",
+        "力不足だった…",
+        "My abilities... are inadequate..."
       ],
       "skillActivation": [
-        "",
-        "",
-        ""
+        "见识一下功夫的威力吧！",
+        "カンフーの力、見せてみろ！",
+        "I'll show you the power of kung fu!"
       ],
       "lowHP": [
-        "",
-        "",
-        ""
+        "坚持住！",
+        "持ちこたえろ！",
+        "Persevere!"
       ],
       "affinityDisappointed": [
-        "",
-        "",
-        ""
+        "我才不吃你给的包子！",
+        "あんたの肉まんは食べないわ！",
+        "As if I'd eat your buns!"
       ],
       "affinityStranger": [
-        "",
-        "",
-        ""
+        "我说，这个月的开支是怎么回事！！怎么有一盘包子……饭？还没吃……好吧，那就一起吃吧",
+        "あのね、今月の支出はどうなのよ！！なんで肉まんがまた……ご飯？まだだけど……じゃ、じゃあ一緒に食べようかしら？",
+        "Come on! What's going on with this month's expenses?! Why are these buns here... Have I eaten? Not yet... Fine, let's eat together."
       ],
       "affinityFriendly": [
-        "",
-        "",
-        ""
+        "指挥官，你不要老是在说正事的时候用包子想蒙混过去，我看起来有那么好收买吗！——唔呜呜！……好吃",
+        "だから大事な時に肉まんでごまかすな！私がそう簡単に釣られるように見えーーもぐもぐ！……美味しい！",
+        "Don't always try to change the subject to buns when we're discussing serious business, Commander! Do I look like I can be bought that easily? Ooo... mmm.... So delicious!"
       ],
       "affinityLike": [
-        "",
-        "",
-        ""
+        "这次不会被蒙混过去了，我一定要好好说说你！……诶，喜欢？！等，不，这，这一定是新的偷懒手段吧！呜……",
+        "今回はごまかされないわ！しっかり言ってや……え、好き！？ちょ、まっ、やだ、これ新しいごまかし方！？うぅ……",
+        "You won't trick me this time! I'm telling you... Eh? You like me? Wait, th-this must be your new way of tricking me! Uu..."
       ],
       "affinityLove": [
-        "",
-        "",
-        ""
+        "我们东煌有句老话叫“由俭入奢易，由奢入俭难”，我可不希望我喜欢的人变成那种骄奢淫逸的家伙……我我我我才没有说喜欢！你刚才绝对听错了",
+        "私達の東煌のことわざには「節約から贅沢に入ると慣れやすいが、贅沢から節約に戻るのが難しい」ってのがあるわ。好きな人にはそんな贅沢三昧になってほしく……すすす好きとか言ってないわよ！今の聞き間違いよ！",
+        "There's an old saying in our nation: \"It's easy to go from a life of frugality to one of extravagance, but not the other way around.\" I hope that the one I like would not turn me into a frivolous... wh-wh-why would I say that I like you? You must have heard me wrong."
       ],
       "pledge": [
-        "",
-        "",
-        ""
+        "……既然指挥官你这么信任我，那我们就开始规划一下吧，接下来舰队的方针就是——开源节流！尽可能的节省才能让舰队运营下去，还有……别跑！",
+        "……指揮官がそこまで信頼してくれるなら、早速計画を立てようかしら。これから艦隊の方針はーー財源開拓と支出削減よ！艦隊を長く運営していくためには節約は必須よ！それと……ああ逃げるな！",
+        "... Since you trust me so much, Commander, why don't we plan ahead? The next focus of our fleet is... cost cutting! We've got to maintain the fleet by minimizing expenses, and... Hey! Don't run away!"
       ],
       "additionalVoiceLine1": [
-        "",
-        "",
-        ""
+        "(Sortie with Ping Hai) 平海，别吃包子了！",
+        "(Sortie with Ping Hai) 平海、もう包子を食べるな！",
+        "(Sortie with Ping Hai) Ping Hai! Stop eating my buns!"
       ],
       "giftDescriptionValentines2018": [
         null,
-        "",
+        "この風習どうやってここまで大きくなったのかしら…とりあえずこれ、平海と一緒に作ったのをあげるわ。絶対食べてよね！無駄にしたらただじゃすまないわよ！",
         null
       ],
       "giftDescriptionValentines2019": [
         null,
-        "",
-        ""
+        "立春から春節、お中元、バレンタイン、そして元宵節…あああどうして今年は祝日がこうも集中してるのよ！これじゃあ出費が……指揮官へのチョコだけは死守よ！そのコストは絶対に動かせないんだから！",
+        "I have no idea how these Western holidays got so popular... Anyway, this is for you. Ping Hai and I made it for you. Make sure to eat it all up! I won't let you off the hook easily if I catch you wasting food!"
       ],
       "giftDescriptionValentines2020": [
         null,
         null,
-        ""
+        "Now that I think about it, chocolates are very reasonable. The raw materials are cheap, and if you don't pay attention to the appearance, they don't take much work... I've decided! This year, I'm going to make a ton of chocolate!"
       ],
       "selfIntroductionUrl": [
         "https://azurlane.koumakan.jp/w/images/e/e9/Ning_Hai_SelfIntroJP.ogg",

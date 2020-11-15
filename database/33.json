@@ -170,137 +170,137 @@
       "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/9/9c/33.png",
       "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/83/33Chibi.png",
       "shipDescription": [
-        "",
+        "空降成功，感谢指挥官。我是33，来自bilibili。偶尔可能需要充下电，请不要在意。",
         null,
         null
       ],
       "selfIntroduction": [
-        "",
+        "我是33，22的妹妹，平时可能会吐槽。",
         null,
         null
       ],
       "acquisition": [
-        "",
+        "空降成功，感谢指挥官。我是33，来自bilibili。偶尔可能需要充下电，请不要在意。",
         null,
         null
       ],
       "login": [
-        "",
+        "登录成功，请触摸33执行权限认证……认证成功，指挥官，欢迎回来。",
         null,
         null
       ],
       "details": [
-        "",
+        "信号接收中…",
         null,
         null
       ],
       "secretaryIdle1": [
-        "",
+        "插座什么的，看起来很好吃的样子",
         null,
         null
       ],
       "secretaryIdle2": [
-        "",
+        "谢谢22…帮忙",
         null,
         null
       ],
       "secretaryIdle3": [
-        "",
+        "哔哩哔哩 (゜-゜)つロ 干杯~",
         null,
         null
       ],
       "secretaryTouch": [
-        "",
+        "嗯…",
         null,
         null
       ],
       "secretarySpecialTouch": [
-        "",
+        "“哔“声后开始录音，哔——",
         null,
         null
       ],
       "task": [
-        "",
+        "指挥官，任务，需要33帮忙吗？",
         null,
         null
       ],
       "taskComplete": [
-        "",
+        "姐姐，BUG修复了",
         null,
         null
       ],
       "mail": [
-        "",
+        "指挥官，是邮件。",
         null,
         null
       ],
       "returnFromMission": [
-        "",
+        "Zzz..（充电中）",
         null,
         null
       ],
       "commission": [
-        "",
+        "欢迎回来，大家。",
         null,
         null
       ],
       "strengthening": [
-        "",
+        "硬币，收到了。",
         null,
         null
       ],
       "startingMission": [
-        "",
+        "开始扫描。",
         null,
         null
       ],
       "mvp": [
-        "",
+        "biubiu~",
         null,
         null
       ],
       "defeat": [
-        "",
+        "电量不足…",
         null,
         null
       ],
       "skillActivation": [
-        "",
+        "弹幕Attack！",
         null,
         null
       ],
       "lowHP": [
-        "",
+        "警报，警报！",
         null,
         null
       ],
       "affinityDisappointed": [
-        "",
+        "非常抱歉，本视频有可能由于以下原因导致无法正常播放",
         null,
         null
       ],
       "affinityStranger": [
-        "",
+        "有什么吩咐？",
         null,
         null
       ],
       "affinityFriendly": [
-        "",
+        "指挥官，弹幕...飘过去了...",
         null,
         null
       ],
       "affinityLike": [
-        "",
+        "不要勉强自己做做不到的事情，指挥官好好讲清楚的话，33愿意帮指挥官的忙。",
         null,
         null
       ],
       "affinityLove": [
-        "",
+        "指挥官，想要先吃饭、先洗澡还是先充下电？不开心的话啃啃电池就会和姐姐一样动力十足了。",
         null,
         null
       ],
       "pledge": [
-        "",
+        "说出你的愿望吧，指挥官。不管是长生不老还是富可敌国大概都不行，但是若是想让33陪在身边的话，现在…应该可以了。",
         null,
         null
       ],

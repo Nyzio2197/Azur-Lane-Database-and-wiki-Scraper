@@ -206,159 +206,159 @@
       "spriteUrl": "https://azurlane.koumakan.jp/w/images/thumb/0/0d/Ping_Hai.png",
       "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ec/Ping_HaiChibi.png",
       "shipDescription": [
-        "",
-        "",
-        ""
+        "宁海级轻巡洋舰—平海",
+        "寧海級軽巡洋艦・平海",
+        "Ning Hai-class Light Cruser, Ping Hai"
       ],
       "selfIntroduction": [
-        "",
-        "",
-        ""
+        "我是宁海级的一号舰宁海，姐姐说自我介绍要这么做，欸，我是平海？对哦……那我是宁海级的一号舰平海。还是错了？好麻烦……",
+        "寧海級の一番艦の寧海よ。姉ちゃんから自己紹介の時はこう言うようにって言われたの。え？私が平海？そうだよね……じゃあ、寧海級の一番艦の平海よ。また間違えた？めんどう…",
+        "I'm Ning Hai, the first ship of the Ning Hai-class. Big sister told me to say this when I was introducing myself. Ah? I'm Ping Hai? That's right! Then... I'm Ping Hai, the first ship of the Ning Hai-class... I'm wrong again? This is so confusing..."
       ],
       "acquisition": [
-        "",
-        "",
-        ""
+        "指挥官？姐姐说要找个养得起自己的指挥官才行，指挥官养得起自己吗？……不是自己是我？……？",
+        "指揮官？姉ちゃんが養ってもらえる指揮官を探そって言ってたけど、指揮官ならできるよね？",
+        "Commander? Big sister told me that commanders who can’t even put food on the table are no good. Can you support yourself? ...Then, how about me?"
       ],
       "login": [
-        "",
-        "",
-        ""
+        "指挥官，吃饱了吗？不吃饱可没有力气做事情哦",
+        "指揮官、ちゃんと食べた？腹いっぱい食べないと力が出ないよ？",
+        "Commander, have you eaten yet? You can’t work on an empty stomach."
       ],
       "details": [
-        "",
-        "",
-        ""
+        "……？指挥官在看什么呢",
+        "……？指揮官、何見てるの？",
+        "What are you looking at, Commander?"
       ],
       "secretaryIdle1": [
-        "",
-        "",
-        ""
+        "袜子？姐姐说要节省，就两个人共穿一双了",
+        "靴下？姉ちゃんが節約って、二人で一足履いてるよ",
+        "Socks? Big sister said we should spend less money, so we share one pair together..."
       ],
       "secretaryIdle2": [
-        "",
-        "",
-        ""
+        "功夫？姐姐说可以卖艺就让平海也学了",
+        "カンフー？姉ちゃんが儲かるからって平海にも学ばせたの",
+        "Kung Fu? Big sister said we could earn some Coins by performing on the street, so I learned that too..."
       ],
       "secretaryIdle3": [
-        "",
-        "",
-        ""
+        "头上？姐姐养的大宝和我的二宝也是姐妹喔",
+        "頭の上に乗ってるのは…？平平と寧寧は姉妹だよ？",
+        "Pandas? On our heads? They're also sisters!"
       ],
       "secretaryTouch": [
-        "",
-        "",
-        ""
+        "指挥官也想抱抱吗？平海经常和姐姐抱抱",
+        "指揮官も抱きつきたいの？平海はよく姉ちゃんに抱きついてるよ？",
+        "Commander, do you also want a hug? I hug my big sister all the time."
       ],
       "secretarySpecialTouch": [
-        "",
-        "",
-        ""
+        "姐姐说遇到色狼要揍他，但是色狼是什么？",
+        "姉ちゃんがチカンに遭ったらボコボコにするって言ったけど、チカンってなに？",
+        "Big sister told me to beat up any bad guys that I come across. But what is a bad guy?"
       ],
       "task": [
-        "",
-        "",
-        ""
+        "姐姐说任务不是靠发呆就能完成的，那练武就可以吗？",
+        "ボーっとしても任務が終わらないわよって姉ちゃんが言ったけど、カンフーできるようになったら終わるの？",
+        "Big sister says that missions won’t complete themselves if I’m daydreaming. Does that mean they will if I practice kung fu?"
       ],
       "taskComplete": [
-        "",
-        "",
-        ""
+        "指挥官，奖励有好多，能换很多包子吗？",
+        "指揮官、報酬がいっぱい…肉まんをたくさん買えるの？",
+        "So many rewards, Commander! Can we trade them for buns?"
       ],
       "mail": [
-        "",
-        "",
-        ""
+        "姐姐说及时回复信件是基本礼仪，指挥官要看吗？",
+        "メールを適時に読むのはマナーの基本よって姉ちゃんが言ったけど、指揮官も読む？",
+        "Big sister says that checking the mail in a timely manner is a common courtesy! Commander, want to read these?"
       ],
       "returnFromMission": [
-        "",
-        "",
-        ""
+        "姐姐累了的时候只要吃包子就会开心，指挥官要吗？",
+        "姉ちゃんは疲れた時、肉まん食べると機嫌良くなるよ。指揮官もどう？",
+        "Whenever big sister is tired, the only way to make her happy is by giving her steamed buns. Do you want some, Commander?"
       ],
       "commission": [
-        "",
-        "",
-        ""
+        "指挥官指挥官，姐姐说有委托完成的话要告诉指挥官",
+        "指揮官指揮官、姉ちゃんが委託が完了したら指揮官に教えてって",
+        "Commander, Commander! Big sister said that I have to tell you whenever a commission is finished."
       ],
       "strengthening": [
-        "",
-        "",
-        ""
+        "平海……饿了！",
+        "平海……お腹減った！",
+        "I'm... hungry!"
       ],
       "startingMission": [
-        "",
-        "",
-        ""
+        "赢了会有好吃的吗？",
+        "勝ったら美味しいものくれるの？",
+        "Do I get any tasty food for winning?"
       ],
       "mvp": [
-        "",
-        "",
-        ""
+        "第一？好吃吗？",
+        "一位？美味しいの？",
+        "Number one? Does that taste good?"
       ],
       "defeat": [
-        "",
-        "",
-        ""
+        "姐姐你在哪儿……",
+        "姉ちゃん、どこ……",
+        "Big sister, where are you?"
       ],
       "skillActivation": [
-        "",
-        "",
-        ""
+        "嗨~呀！功夫~~",
+        "へい～や～カンフー~",
+        "Hi-ya! Kung fu!"
       ],
       "lowHP": [
-        "",
-        "",
-        ""
+        "肚子饿了……",
+        "お腹減った……",
+        "I'm hungry..."
       ],
       "affinityDisappointed": [
-        "",
-        "",
-        ""
+        "指挥官……就是姐姐说的坏人吗……",
+        "指揮官は……姉ちゃんが言ってた悪い人なの……",
+        "Commander... are you one of those \"bad guys\" that big sister talks about?"
       ],
       "affinityStranger": [
-        "",
-        "",
-        ""
+        "姐姐总是说穷的揭不开锅了，但是平海每次打开锅总有吃的，这是为什么呢？",
+        "姉ちゃんがいつもご飯代がなくなるって言うけど、平海がお鍋を見るといつも食べ物があるの。なんで？",
+        "Big sister always says that we are too poor to have food in the pot, but every time I open the lid, there’s always food in there! What’s the deal with that?"
       ],
       "affinityFriendly": [
-        "",
-        "",
-        ""
+        "姐姐说不能随便和指挥官独处——姐姐要独占包子？！平海以后会多来找指挥官的！",
+        "姉ちゃんが指揮官と二人きりになってはいけないってーー姉ちゃんが肉まんを独占する気なの！？平海、これからも指揮官のところにどんどん来るよ！",
+        "Big sister said I shouldn’t be alone with Commander... is it because she wants the buns all for herself? Then, I shall come visit Commander more often from now on!"
       ],
       "affinityLike": [
-        "",
-        "",
-        ""
+        "姐姐说比起喜欢的人不如找能管饱的人，那平海既喜欢指挥官又能吃饱，应该没问题吧？",
+        "姉ちゃんが好きな人より養ってもらえる人のほうがいいって。じゃあ平海は指揮官が好きで、指揮官は養ってくれるんだから、問題ないよね？",
+        "Big sister told me that finding someone who can feed me is more important than finding someone I like. Since I like Commander and get plenty of food, there shouldn’t be any problems."
       ],
       "affinityLove": [
-        "",
-        "",
-        ""
+        "平海只要和指挥官在一起，还偶尔能见到姐姐就心满意足了……欸，姐姐会哭的？为什么？",
+        "平海は指揮官と一緒に、たまには姉ちゃんにも会えば満足なの。…え？姉ちゃんが泣いちゃう？なんで？",
+        "I will be satisfied as long as I can be with Commander all the time, and just see my sister every now and then. Hmm? Big Sister would cry? Why?"
       ],
       "pledge": [
-        "",
-        "",
-        ""
+        "也就是说，以前平海只听姐姐的话，现在开始平海要只听指挥官的话了吗？——自己决定？（歪头）那平海决定都听好了",
+        "つまり、これまでは姉ちゃんの話だけ聞いてたけど、これからは指揮官の話だけ聞けばいいの？――自分で決めて？…じゃあどっちも聞く！",
+        "Does this mean that I should only listen to Commander from now on instead of my big sister? ...Make my own decision? Hm... then, I shall listen to both of you."
       ],
       "additionalVoiceLine1": [
-        "",
-        "",
-        ""
+        "(Sortie with Ning Hai) 姐姐，你要吃包子吗？",
+        "(Sortie with Ning Hai) 姉ちゃん、肉まん食べる？",
+        "(Sortie with Ning Hai) Big sister! Do you want some buns?"
       ],
       "giftDescriptionValentines2018": [
         null,
-        "",
+        "バレンタインは感謝を述べる日だって姉ちゃんが言ってた。指揮官はいつも平海に美味しい食べ物をくれるから感謝しないと。…これ寧海姉が作り方を教えてくれた。指揮官にあげる。",
         null
       ],
       "giftDescriptionValentines2019": [
         null,
-        "",
-        ""
+        "姉ちゃん、最近ずっと出費のことで頭抱えてる……だから平海は自分のお金で指揮官のチョコを作った！はい！これで姉ちゃんは少し楽になるかな…",
+        "My sister told me that Valentine's Day is a time to express gratitude. Commander always gives me lots of delicious food, so thank you. She also told me to give this to you, Commander."
       ],
       "giftDescriptionValentines2020": [
         null,
         null,
-        ""
+        "My big sis suddenly became super motivated to make chocolate. Also, she keeps telling me to eat as much as I'd like... Want to help me out?"
       ],
       "selfIntroductionUrl": [
         "https://azurlane.koumakan.jp/w/images/c/ca/Ping_Hai_SelfIntroJP.ogg",

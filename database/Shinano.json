@@ -157,7 +157,7 @@
   "limitBreak2": "Hangar Capacity +1 / Number of Torpedo Bombers +2 / Torpedo Bomber Efficiency +10%",
   "limitBreak3": "Number of All Planes +1 / All Plane Efficiency +5%",
   "skill1Name": "Hope's Tempest; CN: 星夜之云",
-  "skill1Description": "Three seconds after the start of the battle, launch a Saiun barrage. When this ship launches an airstrike, launch an additional Shinden Kai 2, Ryusei, and Saiun barrage (damage scales with skill level). Saiun barrages do not do damage; instead, they decrease the FP, TRP, AVI, and AA of one random enemy (humanoids prioritized) by 3.0% and increase the damage they receive by 3.0%, until the end of the battle. This debuff may stack up to three times.",
+  "skill1Description": "Three seconds after the start of the battle, launch a Saiun barrage. When this ship launches an airstrike, launch an additional Shiden Kai 2, Ryuusei, and Saiun barrage (damage scales with skill level). Saiun barrages do not do damage; instead, they decrease the FP, TRP, AVI, and AA of one random enemy (humanoids prioritized) by 3.0% and increase the damage they receive by 3.0%, until the end of the battle. This debuff may stack up to three times.",
   "skill2Name": "Dreamwaker's Bow; CN: 幽蝶之梦",
   "skill2Description": "Increase own AVI stat by 5.0% (15.0%) during her first two battles of each sortie. Every 15 seconds after the start of the battle, fire a special barrage (barrage damage scales with skill level). If this ship is afloat and ANOTHER fleet in the same sortie engages in its third, fourth, or fifth battle, fire a special barrage 15 seconds into the start of that battle (damage scales with skill level and the AVI stat of that fleet's flagship).",
   "skill3Name": "Protector of the New Moon; CN: 守护之樱",
