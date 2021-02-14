@@ -56,6 +56,18 @@ public class Skin {
         return ENClientName != null ? ENClientName : JPClientName != null ? JPClientName : CNClientName;
     }
 
+    public String getENClientName() {
+        return ENClientName;
+    }
+
+    public String getCNClientName() {
+        return CNClientName;
+    }
+
+    public String getJPClientName() {
+        return JPClientName;
+    }
+
     public void setENClientName(String ENClientName) {
         this.ENClientName = ENClientName;
     }
@@ -156,6 +168,12 @@ public class Skin {
         if (secretaryHeadpat == null)
             secretaryHeadpat = new String[3];
         return secretaryHeadpat;
+    }
+
+    public String[] getMail() {
+        if (mail == null)
+            mail = new String[3];
+        return mail;
     }
 
     public String[] getSelfIntroductionUrl() {

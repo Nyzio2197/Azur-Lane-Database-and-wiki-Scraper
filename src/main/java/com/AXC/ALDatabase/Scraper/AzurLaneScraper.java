@@ -126,6 +126,7 @@ public class AzurLaneScraper {
                             }
                         }
                     }
+                    System.out.println(skin);
                     skinList.add(skin);
                 }
             }
@@ -252,8 +253,9 @@ public class AzurLaneScraper {
             return skin;
         }
         for (Skin skin : skinList) {
-            if ((skin.getName() != null && skin.getName().replaceAll("[^a-zA-Z]", "")
-                    .equalsIgnoreCase(skinName.replaceAll("[^a-zA-Z]", "")))) {
+            if ((skin.getCNClientName() != null && skin.getCNClientName().equalsIgnoreCase(skinName)) ||
+                    (skin.getJPClientName() != null && skin.getJPClientName().equalsIgnoreCase(skinName)) ||
+                    (skin.getENClientName() != null && skin.getENClientName().replaceAll("[^a-zA-Z]", "").equalsIgnoreCase(skinName.replaceAll("[^a-zA-Z]", "")))) {
                 return skin;
             }
         }
