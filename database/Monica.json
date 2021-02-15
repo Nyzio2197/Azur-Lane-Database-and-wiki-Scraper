@@ -1,0 +1,41 @@
+{
+  "name": "Monica",
+  "rarity": "Elite",
+  "ID": "10067",
+  "faction": "Venus Vacation",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/55/MonicaChibi.png",
+      "shipDescription": "Are you the one in charge here? The \"Commander\"? I'm Monica, the dealer! Well, dealer-in-training. I know it's sudden, but would you care to gamble with me? The stakes will, of course, be high!",
+      "selfIntroduction": "Why do I want to be a dealer? Because it's cool! Why else? Dealer distribute cards with so much style, and they've got such solid poker faces!",
+      "acquisition": "Are you the one in charge here? The \"Commander\"? I'm Monica, the dealer! Well, dealer-in-training. I know it's sudden, but would you care to gamble with me? The stakes will, of course, be high!",
+      "login": "Greetings, Commander. What do you say to... a small bet before starting work?",
+      "details": "High-stakes gamble are once-a-day only! You'll have to wait until tomorrow to give the wheel another spin, Commander.",
+      "secretaryIdle1": "Which do you prefer, Commander? Skill-based card games, or luck-based roulette?",
+      "secretaryIdle2": "You can wager more than just chips. Like an afternoon teatime, for instance. The loser provides the tea and biscuits!",
+      "secretaryIdle3": "Something... on your mind? I could offer you some insight, if you'd like. Assuming you win this next bet, that is!",
+      "secretaryTouch": "This next gamble wiiiill... have to wait until our work is finished!",
+      "secretarySpecialTouch": "Th-there's no sleight of hand going on here!",
+      "secretaryHeadpat": "Heheh. Is there something the matter?"
+    },
+    {
+      "ENClientName": "The Ace of Hearts",
+      "CNClientName": "特别的红心Ace",
+      "JPClientName": "格別なエースオブハーツ",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7d/MonicaSummerChibi.png",
+      "shipDescription": "\"Welcome to Monica's Fantabulous Casino! Where you can have your every whim satisfied!\" ...Oh, that doesn't sound very casino-managery? Heheh!",
+      "acquisition": "\"Welcome to Monica's Fantabulous Casino! Where you can have your every whim satisfied!\" ...Oh, that doesn't sound very casino-managery? Heheh!",
+      "login": "Welcome, Commander! Enjoy your stay at the Fantabulous Casino! Here are your chips for the day.",
+      "details": "\"You want my fortune, do ya? Beat me in cards, and it's all yours, kid!\" ...That's how they do those huge gambles in movies, right? Heheh!",
+      "secretaryIdle1": "Would you like a nice, cold beverage? It'll clear your head, I can promise you that!",
+      "secretaryIdle2": "Be it at work or at the tables, you always need a clear head and a poker face! Those so happen to be my special skills!",
+      "secretaryIdle3": "Don't you think it's interesting how, even though the odds are the same for everyone, if there are winners, there must be losers too?",
+      "secretaryIdle4": "I see you blushing there, Commander. Heheh, eyes on the prize!",
+      "secretaryTouch": "You've run out of chips? Now, that just won't do! Here you are. Spend them wisely, okay?",
+      "secretarySpecialTouch": "A slave to temptation, are we? Heheh, you'll have to fix that if you want any favors from Lady Luck!"
+    }
+  ]
+}

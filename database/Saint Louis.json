@@ -1,0 +1,53 @@
+{
+  "name": "Saint Louis",
+  "rarity": "Priority",
+  "ID": "Plan006",
+  "faction": "Iris Libre",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/ba/Saint_LouisChibi.png",
+      "shipDescription": "Heavy cruiser – Saint Louis.",
+      "selfIntroduction": "Because ruination befell my homeland, I was returned to nothingness before I was born. As I am now, I am but an illusion, a manifestation of an ideal. But as long as you continue to lead my way, I shall in return clear all obstacles standing before yours.",
+      "acquisition": "It is an honor to meet you at last - my prophet, my leader. I am Saint Louis, brought to your side by God's will. As long as it is justice that guides your hand, then this humble spear shall be yours to wield.",
+      "login": "Bonjour, Commander. Please instruct me, what should we do next?",
+      "details": "Commander, have you come here to offer your prayers to God?",
+      "secretaryIdle1": "Commander, your time should not be squandered here. Leave the chores to me.",
+      "secretaryIdle2": "If there are any disputes within our ranks, allow me to handle the arbitration. That is my specialty.",
+      "secretaryIdle3": "Just winning the battle alone is enough to satisfy me, but you, Commander, ought to look far beyond that.",
+      "secretaryTouch": "I fight so that there may be peace. That is the single role that I can play.",
+      "secretarySpecialTouch": "Commander, your self-respect...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Saint_Louis_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/b3/Saint_Louis_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/1/1f/Saint_Louis_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/2f/Saint_Louis_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/09/Saint_Louis_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/c/c0/Saint_Louis_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/40/Saint_Louis_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/0/0d/Saint_Louis_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/c/ca/Saint_Louis_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Holy Knight's Resplendence",
+      "CNClientName": "华服的圣骑士",
+      "JPClientName": "華麗なる聖騎士",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b2/Saint_LouisPartyChibi.png",
+      "shipDescription": "With all due respect, Commander, this finery and this throne are not fit for one such as myself. Despite the hallowed name I have inherited, I am nothing more than a warrior. —However, if such an arrangement pleases you, then I shall hold my objections.",
+      "acquisition": "With all due respect, Commander, this finery and this throne are not fit for one such as myself. Despite the hallowed name I have inherited, I am nothing more than a warrior. —However, if such an arrangement pleases you, then I shall hold my objections.",
+      "login": "Commander, making me sit up here waiting for you by myself is a tribulation in its own right.",
+      "details": "I have no serious objections to sitting up here, but... there is one thing I cannot figure out. Are you perhaps deriving pleasure from seeing me up here like this?",
+      "secretaryIdle1": "So I've managed to capture your gaze? Your eyes are... Nevermind, it doesn't bother me.",
+      "secretaryIdle2": "My arbitration is needed? ...Very well, please excuse me for a moment. I will make sure to hear them out.",
+      "secretaryIdle3": "As the one guiding this fleet forward... Commander, you are the one best suited to this throne.",
+      "secretaryTouch": "My weapon is always within reach. Should you will it, I am ready to sortie at any time."
+    },
+    {
+      "ENClientName": "Alluring Administrator",
+      "CNClientName": "瑰丽的执勤人",
+      "JPClientName": "瑰麗なる執行者",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9f/Saint_LouisSpringChibi.png"
+    }
+  ]
+}

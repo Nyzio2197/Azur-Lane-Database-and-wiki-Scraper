@@ -1,0 +1,37 @@
+{
+  "name": "Colorado",
+  "rarity": "Elite",
+  "ID": "060",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b3/ColoradoChibi.png",
+      "shipDescription": "Colorado class battleship¡ª Colorado, hull number BB-45",
+      "selfIntroduction": "I'm the lead ship of the Colorado class. In order to gain an advantage in the decisive battle, I'm the first ship to be equipped with 406mm guns. BIG SEVEN... is the most honored title for us battleships.",
+      "acquisition": "Are you the one calling me? Well, I've been waiting for this day for a long. In the name of the BIG SEVEN, Eagle Union battleship Colorado, reporting in.",
+      "login": "Commander, you¡¯ve rested long enough. When shall we weigh anchor?",
+      "details": "Commander... Can you take your eyes off me?",
+      "secretaryIdle1": "Commander, although aircraft carriers are really powerful, but battleships are not obsolete. They are indispensable!",
+      "secretaryIdle2": "Amelia... She was a great woman, though she still cannot be found. Perhaps she is flying freely in another world...",
+      "secretaryIdle3": "My poor sisters were hurt on that humiliating day. One day, I will have those invaders pay for what they have done!",
+      "secretaryTouch": "Commander, please don't touch the main gun that I was just using, you will affect my shooting accuracy.",
+      "secretarySpecialTouch": "Shall I load the Commander into a 406mm gun and fire him?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/5/50/Colorado_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/7/73/Colorado_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/a/a4/Colorado_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/2d/Colorado_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/0a/Colorado_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a3/Colorado_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/7/73/Colorado_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/38/Colorado_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/0/09/Colorado_Sec2JP.ogg"
+    },
+    {
+      "CNClientName": "¿ÆÂÞÀ­¶à",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d1/ColoradoOriginalChibi.png"
+    }
+  ]
+}

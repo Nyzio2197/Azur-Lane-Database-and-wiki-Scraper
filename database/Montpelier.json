@@ -1,0 +1,47 @@
+{
+  "name": "Montpelier",
+  "rarity": "Super Rare",
+  "ID": "329",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/18/MontpelierChibi.png",
+      "shipDescription": "Cleveland-class light cruiser ®C Montpelier, hull number CL-57.",
+      "selfIntroduction": "Listen, the Cleveland-class were the most powerful cruisers the Eagle Union had in the war. You should show more respect for my big sis. ... Me? I was in the battles of Midway, Augusta Bay, and a few others. I guess I did okay.",
+      "acquisition": "You're a commander? You don't... look reliable. But my big sis works for you... I've no choice, then. Montpelier, reporting for duty. I don't really care whether you give me orders or not.",
+      "login": "So, you're back. I'll take my leave, then. It's too crowded in here for me.",
+      "details": "Big sis! ... Oh, it's you. Need something?",
+      "secretaryIdle1": "How can I be more like Cleveland... \"Smile\"? ... That might not be possible...",
+      "secretaryIdle2": "I don't get along with anyone but my sisters. As for you, Commander... I'll try.",
+      "secretaryIdle3": "Commander, I'm curious: when my sister's doing secretary work, what's she like?",
+      "secretaryTouch": "... Huh? If you've no need of me, don't call for me.",
+      "secretarySpecialTouch": "G-gotta put up with it... This is obviously a test of the trust I have for my big sis...!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/b/b9/Montpelier_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a8/Montpelier_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/0f/Montpelier_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/1/13/Montpelier_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/4/4e/Montpelier_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/30/Montpelier_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d6/Montpelier_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Montpelier_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Montpelier_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Flower of the Snowy Night",
+      "CNClientName": "—©“π÷Æª®",
+      "JPClientName": "—©“π§Œ»A",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/40/MontpelierNew_YearChibi.png",
+      "shipDescription": "So this is Sakura-style New Year's attire... If Cleve was also interested in this... Hm? Commander, were you watching? Um, well, Happy New Year's.",
+      "acquisition": "So this is Sakura-style New Year's attire... If Cleve was also interested in this... Hm? Commander, were you watching? Um, well, Happy New Year's.",
+      "details": "The Sakura Empire's New Year's celebration is... a bit different from my expectations.",
+      "secretaryIdle1": "The sleeves on this outfit are long and heavy... and this, uh... dress? It's really hard to move around in. Don't they find this cumbersome?",
+      "secretaryIdle2": "If Cleve was to wear this outfit... Hmm, I can't picture it after all.",
+      "secretaryIdle3": "My New Year's wish...? I'd like to get a bit closer with Cleve, I suppose...",
+      "secretaryTouch": "...You'd like to see me dance in this outfit? Commander, you're as prone to flights of fancy as always.",
+      "secretarySpecialTouch": "Everyone is hard at work preparing for New Year's... but what in the world is going on inside that head of yours?"
+    }
+  ]
+}

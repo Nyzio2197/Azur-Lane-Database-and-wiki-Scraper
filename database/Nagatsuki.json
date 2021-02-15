@@ -1,0 +1,48 @@
+{
+  "name": "Nagatsuki",
+  "rarity": "Rare",
+  "ID": "278",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/00/NagatsukiChibi.png",
+      "shipDescription": "Mutsuki-class destroyer number eight ¨C Nagatsuki.",
+      "selfIntroduction": "I'm the \"eiff\" Mutsuki-class destroyer, Nagatsuki! I did a lot of \"protikshin\" and \"trainsport\" missions, and fought hard in the Battle of \"Coola Golf\"! It's true! ... What's on my backpack? Heh-heh-heh, it's my secret weapon against dangerous strangers, its name is Peepsy!",
+      "acquisition": "You're the Commander? You look a bit suspicious, but... you don't seem dangerous anyhow. The name's Nagatsuki! Heh, if you underestimate me, you're gonna regret it!",
+      "login": "Teehee! What fun things will we do today, Commander?",
+      "details": "\"For whom does Peepsy toll\"?",
+      "secretaryIdle1": "When I take this ring, stick my finger through it, and pull as hard as I can... It makes a really loud noise, like when a torpedo goes kaboom!",
+      "secretaryIdle2": "My service history? I helped Naka when she was in trouble! I think...",
+      "secretaryIdle3": "Commander, how do you say this word? \"Try-yumf\"? I dunno what that means, but I think I can do that by setting off Peepsy!",
+      "secretaryTouch": "Teehee~ Commander, do you wanna find out what it takes for me to set off Peepsy's alarm?",
+      "secretarySpecialTouch": "Eeeep...! I knew you're a dangerous stranger! Hear Peepsy roar!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/1/13/Nagatsuki_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/bb/Nagatsuki_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/bd/Nagatsuki_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/5/5c/Nagatsuki_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/a/a9/Nagatsuki_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/1/1e/Nagatsuki_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/c/c9/Nagatsuki_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1a/Nagatsuki_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/2f/Nagatsuki_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Dangerous Kitty Maid?",
+      "CNClientName": "ß÷ß÷Å®ÆÍÓÐµãÎ£ÏÕ£¿",
+      "JPClientName": "¥Ë¥ã¥ó¥Ë¥ã¥ó¥á¥¤¥É¤Ï¥­¥±¥ó¤Ç¤¹",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/11/NagatsukiMaidChibi.png",
+      "shipDescription": "Nagatsuki the kitty maid is at your service~ Do your best to not fall madly in love with my cute looks~! Hehe~",
+      "acquisition": "Nagatsuki the kitty maid is at your service~ Do your best to not fall madly in love with my cute looks~! Hehe~",
+      "login": "Welcome back, Master? Oh, you wanna hear that again? Sure, but first I want strawberry ice cream!",
+      "details": "Sure I'm wearing a maid costume, but I can't do any maid work with these kitty paw gloves on! Sooorry?",
+      "secretaryIdle1": "I still have Peepsy with me~! I've just hidden it somewhere!",
+      "secretaryIdle2": "What do maids even do...? Oh, I know! Commander, I'm thirsty! I want some tea! Hehehe!",
+      "secretaryIdle3": "My kitty paws are really nice and soft. Don't you wanna feel them? Here you go! Kitty paws to the face!",
+      "secretaryTouch": "You really like maids, huh~ But just so you know, Peepsy's gonna go off if you keep poking me!",
+      "secretarySpecialTouch": "I totally forgot I can't set off Peepsy with these kitty paw gloves oooon!"
+    }
+  ]
+}

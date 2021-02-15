@@ -1,0 +1,39 @@
+{
+  "name": "Nagisa",
+  "rarity": "Elite",
+  "ID": "10065",
+  "faction": "Venus Vacation",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2b/NagisaChibi.png",
+      "shipDescription": "Are you the person who led Misaki to this port? You go by the name... \"Commander\"? Hmm... I don't know how you sweet-talked her into it, but you're not fooling me. The moment you do anything strange... you better be on guard! My name? It's Nagisa. You... silly dog!",
+      "selfIntroduction": "Like I said the first time we met, I'm Misaki's sister, Nagisa. What I like most are soufflé pancakes, and what I hate most are green peppers. Do anything weird to Misaki, and I'll never forgive you for it, you dirty dog.",
+      "acquisition": "Are you the person who led Misaki to this port? You go by the name... \"Commander\"? Hmm... I don't know how you sweet-talked her into it, but you're not fooling me. The moment you do anything strange... you better be on guard! My name? It's Nagisa. You... silly dog!",
+      "login": "Welcome back, Commander. ...You're quite the hard worker. Like a sled dog.",
+      "details": "I can't believe there are so many girls at this port... You must have tricked them into coming here, didn't you?!",
+      "secretaryIdle1": "Hey, you silly dog. This is a gift from someone. Apparently, there are some soufflé pancakes inside, too... I-I didn't say anything! Don't forget about it later!",
+      "secretaryIdle2": "You're quite a hard worker, which I'd say is good... Even for a lowly dog...",
+      "secretaryIdle3": "Hey, is there anything I can help you with? ...Don't take this the wrong way, I'm just doing this for leverage against you.",
+      "secretaryTouch": "Wh-what do you think you're doing, you dirty dog?!",
+      "secretarySpecialTouch": "I guess... you really are an incorrigible dirty dog..."
+    },
+    {
+      "ENClientName": "Blue Skies, Good Vibes",
+      "CNClientName": "蓝天好心情",
+      "JPClientName": "青空と弾む気持ち",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/71/NagisaSummerChibi.png",
+      "shipDescription": "Whew! The wind feels great! ...What are you staring at me like that for, you silly dog? You're the one who said you wanted to go to the beach, remember? To start with, how about... we take a stroll?",
+      "acquisition": "Whew! The wind feels great! ...What are you staring at me like that for, you silly dog? You're the one who said you wanted to go to the beach, remember? To start with, how about... we take a stroll?",
+      "login": "You finally came? ...It's nothing. I was just wondering if you had forgotten our promise to go to the beach together.",
+      "details": "A photoshoot? Outdoors, like this? Fine... But no indecent photos, you hear? ...Excuse me?! Those aren't allowed, indoors or outdoors, you pervert!",
+      "secretaryIdle1": "I can't believe how many girls there are, playing around in their swimsuits... Hold on a sec, is this the reason you came to the beach on your day off? You dirty dog!",
+      "secretaryIdle2": "How long are you going to stare, you dirty dog... I'm c-cute? I don't need your cheap pickup lines!",
+      "secretaryIdle3": "Let me take a look at the pictures you have of Misaki. If I spot any weird ones... then you're really in for it!",
+      "secretaryTouch": "Eek! What are you touching me for?!",
+      "secretarySpecialTouch": "Are you in heat? ...You dirty dog!"
+    }
+  ]
+}

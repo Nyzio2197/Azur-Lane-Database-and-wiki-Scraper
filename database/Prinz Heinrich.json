@@ -1,0 +1,40 @@
+{
+  "name": "Prinz Heinrich",
+  "rarity": "Super Rare",
+  "ID": "483",
+  "faction": "Iron Blood",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b1/Prinz_HeinrichChibi.png",
+      "shipDescription": "P-class armored ship ¨C Prinz Heinrich.",
+      "selfIntroduction": "An introduction? You got it! My name's Prinz Heinrich, I'm a P-class armored ship. What else is there... Hmmmm... Eisen! Hey, Eisen, any ideas what to tell the Commander?",
+      "acquisition": "Hello there, Commander~! I'm the P-class armored ship, Prinz Heinrich. My little friend here is called Eisen... Hey, Eisen! Introduce yourself to the commander normally... Wait, how many times have I told you not to chew on others' clothes?!",
+      "login": "Welcome back! Let's get fired up and do this thing! Hahahah!",
+      "details": "What's a good way to make Eisen look less threatening... Hmm, maybe some cute stickers would do the trick?",
+      "secretaryIdle1": "My gut tells me the papers you're looking for are right here! ...Aww, I was wrong?",
+      "secretaryIdle2": "There's plenty girls in other factions who don't have a history, huh! I thought it was just an Iron Blood thing.",
+      "secretaryIdle3": "Sure, Peter gives me a lot of flak, but honestly, I dunno how I'd manage to get anything done! Hahahah!",
+      "secretaryTouch": "Mmmhh! Aahhh... Don't you ever get restless, working as much as you do, Commander? Get up and we'll take a jog down the hall!",
+      "secretarySpecialTouch": "Stop RIGHT there! This is where I draw the line!",
+      "secretaryHeadpat": "Woo!"
+    },
+    {
+      "ENClientName": "Fireworks and Tapestries",
+      "CNClientName": "»¨»ðÀÃÂþµÄ´º»æ¾í",
+      "JPClientName": "»¨»ð¤È´º½}Ž†",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/31/Prinz_HeinrichNew_YearChibi.png",
+      "shipDescription": "Phew... Changing into these clothes took quite a long time~ So, how does it look? A fine mixing of different cultures, wouldn't you agree? Ahaha, Happy New Year, Commander!",
+      "acquisition": "Phew... Changing into these clothes took quite a long time~ So, how does it look? A fine mixing of different cultures, wouldn't you agree? Ahaha, Happy New Year, Commander!",
+      "login": "I've heard the Sakura Empire has loads of fun New Year customs! We've got to check 'em out together, Commander!",
+      "details": "Where Eisen's gone? It's New Year's after all, so I let him out to play. He's a good boy! He won't harm anyone.",
+      "secretaryIdle1": "Strasser gave me an envelope with cash inside! She said it's a Sakura Empire and Dragon Empery tradition! Commander, you gimme one too~",
+      "secretaryIdle2": "Let's crank it up to eleven for New Year's! Even Spee's out there having fun with the gang!",
+      "secretaryIdle3": "Can't we leave all the office work for later and get dressed for a snowball fight? I promised Lebe I'd come!",
+      "secretaryTouch": "You in the mood for an outdoor stroll? Hahahah, I'll be just fine in the cold, don't worry.",
+      "secretarySpecialTouch": "Hey! Hold it right there! I'm gonna doodle on your face as payback for that!"
+    }
+  ]
+}

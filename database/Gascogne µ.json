@@ -1,0 +1,32 @@
+{
+  "name": "Gascogne ?",
+  "rarity": "Super Rare",
+  "ID": "418",
+  "faction": "Vichya Dominion",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "Gascogne module change process complete. New directive: sing for the world. Master's order is my will.",
+      "selfIntroduction": "Gascogne has received an alternate functionality mode and undergone minor rigging upgrades to allow for singing in combat. Numerous incorrect parametric values caused by current mode have been detected. Referring to Gascogne's default form for basic information is advised.",
+      "acquisition": "Gascogne module change process complete. New directive: sing for the world. Master's order is my will.",
+      "login": "To do: vocals, dancing, band aesthetics. Requesting establishment of Gascogne's schedule for today, Master.",
+      "details": "Information request: what is Master's favorite song?",
+      "secretaryIdle1": "Concept in database detailed as \"saving the world by singing\" was analyzed and logically equated to Gascogne's ultimate goal.",
+      "secretaryIdle2": "\"Emotion-packed singing can truly touch people's hearts\"... Unable to infer meaning of said statement. Requesting assessment of Gascogne's singing ability.",
+      "secretaryIdle3": "Detecting factual conflict between promotional materials' claim of Gascogne being \"inexpressive\" and existence of installed emotion module.",
+      "secretaryTouch": "Gascogne is currently practicing.",
+      "secretarySpecialTouch": "Warning: unsolicited physical contact with idols is unnecessary. Likelihood of others interpreting said contact as sexual harassment is high.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/e/e5/Gascogne_%C2%B5_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Gascogne_%C2%B5_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/85/Gascogne_%C2%B5_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Gascogne_%C2%B5_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/d/d8/Gascogne_%C2%B5_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/2f/Gascogne_%C2%B5_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/99/Gascogne_%C2%B5_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/15/Gascogne_%C2%B5_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/a/ae/Gascogne_%C2%B5_Sec2JP.ogg"
+    }
+  ]
+}

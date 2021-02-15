@@ -1,0 +1,33 @@
+{
+  "name": "Shropshire",
+  "rarity": "Rare",
+  "ID": "120",
+  "faction": "Royal Navy",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/32/ShropshireChibi.png",
+      "shipDescription": "London-class heavy cruiser ¨C Shropshire, Hull Number 73!",
+      "selfIntroduction": "The youngest of London class, and sent abroad away from my sisters. That is me~ Ah, it's not that I particularly wanted your sympathy, but if you give me a little bit of attention, I'll give you high points for that! ... Acting cute? Oh shush, I was being serious you know~",
+      "acquisition": "London class' youngest, Shropshire, reporting for duty~ I've been told that I am air-headed and gullible, so I'll be giving you some problems~ Well then, my time awaits~",
+      "login": "Ah, have you come back, Commander? I was just about to go to your place~",
+      "details": "You appear to have time, Commander~",
+      "secretaryIdle1": "I am a little nervous when I am alone with you, Commander, but since you are alone I'm fu... fully calm myself~",
+      "secretaryIdle2": "Com~man~der~ Help me~ Please, you are the only one I can count on~",
+      "secretaryIdle3": "Did you know, Commander? Sometimes, making small mistakes can make one seem cuter~",
+      "secretaryTouch": "If you don't do your work properly, even I will show an angry face for it. Com~man~der?",
+      "secretarySpecialTouch": "Ah! Commander, this is inappropriate!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/d/d0/Shropshire_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/66/Shropshire_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/b4/Shropshire_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/22/Shropshire_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/78/Shropshire_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/0/06/Shropshire_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/3/3a/Shropshire_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/95/Shropshire_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/20/Shropshire_Sec2JP.ogg"
+    }
+  ]
+}

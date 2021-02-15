@@ -1,0 +1,61 @@
+{
+  "name": "Cooper",
+  "rarity": "Elite",
+  "ID": "444",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/84/CooperChibi.png",
+      "shipDescription": "Allen M. Sumner-class destroyer ¨C Cooper, Hull Number DD-695.",
+      "selfIntroduction": "I'm an Allen M. Sumner-class destroyer, Cooper! I fought alongside Allen M. Sumner and Moale at Ormoc Bay, but I guess I didn't try hard enough... Nnng, damn it! How was I supposed to pick out anything like those oxygen torpedoes!",
+      "acquisition": "Hey Commander, I'm Cooper! Let's join forces and fight for the future of the world! Booyah!",
+      "login": "It's nice to see your smiling face, Commander! Heh heh!",
+      "details": "I have an incredible power inside me that will burst forth to save everyone at that critical moment... Yeah! That would be badass!",
+      "secretaryIdle1": "Paperwork? How does that help in a fight?",
+      "secretaryIdle2": "Aaahhh~ I just lose it whenever I see a kitty cat. Commander, let's keep one in the office, a black one!",
+      "secretaryIdle3": "Hey... how long are we gonna stay in the office? I'm so bored...",
+      "secretaryTouch": "Hey! Ready to move anytime!",
+      "secretarySpecialTouch": "Commander, do you understand what you're doing here?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/3/38/Cooper_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/16/Cooper_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Cooper_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/d/d7/Cooper_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/7c/Cooper_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/b/be/Cooper_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/da/Cooper_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7b/Cooper_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/f/f9/Cooper_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Blazing Tennis Battle",
+      "CNClientName": "ÁÒÈÕµÄÍøÇò³¡",
+      "JPClientName": "ÁÒÈÕ¤Î¥Æ¥Ë¥¹¥Ð¥È¥ë",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f8/CooperSportChibi.png",
+      "shipDescription": "Break point!",
+      "acquisition": "30 to 15... Next match will be mine, you hear! Oh, Commander, are you here to play a round of tennis?",
+      "login": "Watch me beat this Sakura girl... then it's you and me, Commander!",
+      "details": "I never thought a game of afternoon tennis would be so exhausting... Huh? What's up, Commander?",
+      "secretaryIdle1": "Ace shot! Yaaaaaah!",
+      "secretaryIdle2": "This is for me? Alright...! Glug glug... Haah!",
+      "secretaryIdle3": "A black kitty cat! Where is it...?! Hey now, don't distract me!",
+      "secretaryTouch": "Y-you probably shouldn't touch me. I'm all sweaty right now.",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/11/Cooper_IntroSkin1JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/ee/Cooper_LogSkin1JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/d/db/Cooper_DetailsSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/e/e7/Cooper_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/b/b8/Cooper_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/21/Cooper_SecIdle3Skin1JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1f/Cooper_Sec1Skin1JP.ogg"
+    },
+    {
+      "ENClientName": "Heartwarming Holiday Hearth",
+      "CNClientName": "Ê¥Ò¹µÄÎÂÅ¯À¡Ôù",
+      "JPClientName": "Â}Ò¹¤ÎÅ¯¤«¤¤Ù›¤êÎï",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/da/CooperChristmasChibi.png",
+      "shipDescription": "Hm? I'm just wrapping up some presents! Can't just present them as-is, and all that. Hehe~ I could sure use a little help, Commander!"
+    }
+  ]
+}

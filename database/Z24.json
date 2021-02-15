@@ -1,0 +1,39 @@
+{
+  "name": "Z24",
+  "rarity": "Elite",
+  "ID": "487",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c0/Z24Chibi.png",
+      "shipDescription": "Type 1936A \"Narvik class\" destroyer – Z24.",
+      "selfIntroduction": "After Z23, the 1936-class destroyers no longer were given actual names... Why?! Why can't I have a cool and easy-to-remember name like Lebe or Thiele...?!",
+      "acquisition": "Tremble, mortal! Before you is the Fiend of the Crimson Darkness, the Avatar of Fear, the Iron Blood destroyer, Z24! All you need to do is grovel at my feet!",
+      "login": "Do you have any idea what time it is? This is why I can't stand you lazy mortals... Get back to work already!",
+      "details": "A mortal that does not tremble before my visage? How strange... I thought I did my best to look absolutely hellish... I wonder why...",
+      "secretaryIdle1": "Black is the mark of my infernal nobility— yes, black coffee, dark chocolate, and black forest cake... are all things within my domain! Surely even human scum such as you recognizes this~?",
+      "secretaryIdle2": "Aaaahhhhh... I'm sooooo booooored... Shall I teach the next person who walks through these doors the meaning of true fear? ...No good? Tsk...",
+      "secretaryIdle3": "The ways of the mortal realm have no bearing upon me! Therefore, Zed, I have no need for this \"homework\" stuff. Oww! F-fine, I get it, so stop chewing me out!",
+      "secretaryIdle4": "You... forgot to bring the offerings? ...Looks like I will have to teach you about the fragility of human life.",
+      "secretaryTouch": "These massive claws suit my status as an Archfiend, both in terms of appearance and destructive power! Ahahaha!",
+      "secretarySpecialTouch": "Surely you already know the fate of those who dare to disrespect me? Foolish mortal...",
+      "secretaryHeadpat": "Impudent mortal, how dare you wantonly touch my head... W-wait, don't stop, please~"
+    },
+    {
+      "ENClientName": "Festival-going Fiend",
+      "CNClientName": "「魔王」的祝祭",
+      "JPClientName": "デモニックde正月",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cb/Z24New_YearChibi.png",
+      "shipDescription": "Come, human! The rite of festivities is upon us! Come hither, and let us revel in this foreign holiday together!",
+      "acquisition": "Come, human! The rite of festivities is upon us! Come hither, and let us revel in this foreign holiday together!",
+      "login": "Are you all rested up? I'll give you the privilege of keeping me entertained today! Consider this your greatest honor, mortal!",
+      "details": "Even off duty, I cannot remove this claw, as it is a symbol of my dignity! ...What do I do if I need to pick something up? Th-that's your job, you foolish mortal!",
+      "secretaryIdle1": "I shall reward you with a taste of this black fruit! Open your mouth, foolish mortal!",
+      "secretaryTouch": "Do you want to stay by my side tht badly? Heheh~",
+      "secretarySpecialTouch": "Th-there are some things you just shouldn't do! I hope you're ready for some punishment, foolish mortal!"
+    }
+  ]
+}

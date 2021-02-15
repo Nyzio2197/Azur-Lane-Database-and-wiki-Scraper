@@ -1,0 +1,33 @@
+{
+  "name": "Maury",
+  "rarity": "Elite",
+  "ID": "010",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png",
+      "shipDescription": "Gridley-class destroyer, Maury, Hull Number DD-401 Unlock build after receiving",
+      "selfIntroduction": "I'm Maury, the fourth ship of the Gridley-class destroyer squadron. Although I'm the youngest of my class, I'm also the fastest short-distance Union ship! I'm prone to getting hungry a lot? Well, they say that light meals make you live longer, don't they?",
+      "acquisition": "You can just call me Maury. As a track athlete, I hold the Union's speed record, reaching a maximum speed of 42.8 knots. Just don't make me run a marathon...",
+      "login": "Commander, want to do some warm-ups with me?",
+      "details": "Umm... Why are you always watching me do my warm-ups? Do you like watching me sweat?",
+      "secretaryIdle1": "Commander, want to work out a bit? Sitting for so long is terrible for your body!",
+      "secretaryIdle2": "I thought we were going for some long distance trip at Wake Island again.",
+      "secretaryIdle3": "I swear it wasn't my tummy making that noise!",
+      "secretaryTouch": "Are you helping me recover? ... Thank you...",
+      "secretarySpecialTouch": "...!! Hey! There's a line you shouldn't cross when giving massages.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Maury_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/d1/Maury_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/8d/Maury_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/89/Maury_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/d/d7/Maury_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/2e/Maury_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/82/Maury_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/a/ae/Maury_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bd/Maury_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "HDN Neptune",
+  "rarity": "Elite",
+  "ID": "Collab001",
+  "faction": "Neptunia",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6e/HDN_NeptuneChibi.png",
+      "shipDescription": "Heya! My name's Neptune! Nice to meet you!",
+      "selfIntroduction": "I'm the protiest of protagonists, Neptune! I'm the CPU of a country called Planeptune. What's a CPU? It's a long story, so I'll tell you another time.",
+      "acquisition": "Heya! My name's Neptune! Nice to meet you!",
+      "login": "Welcome back! Let's give it all we've got, nep!",
+      "details": "It's so embarrassing when people stare at me like that.",
+      "secretaryIdle1": "Heheh! How's my rigging look? It's all so Azur Laney! Looks good on me, don'tcha think?",
+      "secretaryIdle2": "Nep nep? Nep nep? Nep nep neppynep?",
+      "secretaryIdle3": "I'm hungry... Go get me some pudding, Commander!",
+      "secretaryTouch": "Ahahah! That tickles! Stop it, will you!",
+      "secretarySpecialTouch": "Hey! You can't do that, Commander!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/2/21/HDN_Neptune_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a0/HDN_Neptune_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/ea/HDN_Neptune_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/9/9e/HDN_Neptune_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/9/9b/HDN_Neptune_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/7c/HDN_Neptune_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/20/HDN_Neptune_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/8/8a/HDN_Neptune_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/20/HDN_Neptune_Sec2JP.ogg"
+    }
+  ]
+}

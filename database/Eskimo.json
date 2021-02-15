@@ -1,0 +1,37 @@
+{
+  "name": "Eskimo",
+  "rarity": "Elite",
+  "ID": "460",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7e/EskimoChibi.png",
+      "shipDescription": "Tribal-class destroyer – Eskimo.",
+      "selfIntroduction": "I'm Tribal-class Destroyer Eskimo! During the war, I mostly served in the Home Fleet. I defeated Z19 at the Battle of Narvik, but then Z2 struck back at me... After that, I did good work in the Mediterranean.",
+      "acquisition": "Eskimo, Tribal-class Destroyer, is here! Oi, this fleet's not half bad! Nice to meet you, Commander!",
+      "login": "Commander, you kept me waiting so long I got mad and took apart your chair! Wh-what if I can't put it back together...?",
+      "details": "I was just looking for you, Commander! Let's do something fun.",
+      "secretaryIdle1": "Commander, let's build an igloo when it snows! I'm pretty good at those!",
+      "secretaryIdle2": "Yippeeee! Yahoooo! Ah, Commander, errr~ Why am I horsing around like this? Just bored, I guess.",
+      "secretaryIdle3": "All right, target acquired: daydreaming Commander. Eskimo head smasher! GO!",
+      "secretaryTouch": "What's up, Commander? Time I get to work? All right, time I get to work!",
+      "secretarySpecialTouch": "Oh? Something on my coat?"
+    },
+    {
+      "ENClientName": "Parkaless Prankster",
+      "CNClientName": "海边的“问题儿童”",
+      "JPClientName": "アティギの問題児？",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/1a/EskimoSummerChibi.png",
+      "shipDescription": "Oh woe, nobody wants to play with me because they're all too busy~ ...Oh, hello little Manjuu... Heheh, maybe I'll play a prank on you instead!",
+      "acquisition": "Oh woe, nobody wants to play with me because they're all too busy~ ...Oh, hello little Manjuu... Heheh, maybe I'll play a prank on you instead!",
+      "login": "Commander, shhhh!",
+      "secretaryIdle1": "Ehehe... You have no choice but to play with me! ...Commander! Oh, it's nothing!",
+      "secretaryIdle2": "Miss Belfast and Dunkerque? You brought ice cream for me? Thanks a ton! Ah, got any for the Manjuu? Huh, what do you mean you're not falling for that?",
+      "secretaryIdle3": "Commander, you done with work yet? You're not? Aw, I wanted to play...",
+      "secretaryTouch": "Oww! All right, please stop bonking me... I just got bored because you wouldn't play with me... Okay, okay, I won't bully the Manjuu anymore..."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Hatsushimo",
+  "rarity": "Rare",
+  "ID": "174",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ac/HatsushimoChibi.png",
+      "shipDescription": "Hatsuharu-class Destroyer, number 4 - Hatsushimo",
+      "selfIntroduction": "I am Hatsushimo of the Hatsuharu-class destroyers. I fought in many battles alongside the 21st Destroyer Division. Although I didn't really sustain many injuries, in the end, you know how it went...",
+      "acquisition": "Oh my, what's with that scared expression? I won't bite~ I am Hatsushimo of the Hatsuharu class. I hope we can get along, ahaha~",
+      "login": "Did you only just realize that you still have work to do?",
+      "details": "Excellent. You seem to have remembered our appointment~",
+      "secretaryIdle1": "Are you more concerned with your popularity among the girls than with your actual work?",
+      "secretaryIdle2": "Yukikaze? I must admit, she is the luckier one...",
+      "secretaryIdle3": "Huh? Right now... could you not space out while we still have work to do?",
+      "secretaryTouch": "You want to touch my tail? Well, I can't promise you what happens next~",
+      "secretarySpecialTouch": "Ehehe... Commander, such a brave soul...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/2/26/Hatsushimo_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/b3/Hatsushimo_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/a/a4/Hatsushimo_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/9/9c/Hatsushimo_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/e/e3/Hatsushimo_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/1/17/Hatsushimo_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/4a/Hatsushimo_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/31/Hatsushimo_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/9/9d/Hatsushimo_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a6/HatsushimoKaiChibi.png",
+      "shipDescription": "Hatsushimo's retrofitting is complete. You don't think I look all that different? Oh, Commander, you're still as simple as ever~ I've changed in tons of ways beyond what's just on the surface. Heheheh~",
+      "acquisition": "Hatsushimo's retrofitting is complete. You don't think I look all that different? Oh, Commander, you're still as simple as ever~ I've changed in tons of ways beyond what's just on the surface. Heheheh~",
+      "login": "Oh, you're on time today.",
+      "details": "Being able to come to this port, and now even receiving a retrofit... Looks like my luck's not too bad, hehe~",
+      "secretaryIdle1": "Hatsuharu doesn't seem to be as scared of strangers anymore. Heh, looks like you've been taking good care of her~",
+      "secretaryIdle2": "Hmm, what are you staring at? Naughty Commander~",
+      "secretaryIdle3": "*staaaare*... Oh, I'm just carrying out my secretary duties of observing you, Commander~ Don't let your mind wander so easily~",
+      "secretaryTouch": "Interested in my tail? Well, I guess I'll let you touch it. You'd better be grateful~",
+      "secretarySpecialTouch": "Do you want to experience for yourself... the less visible parts of me that have changed? Commander~?"
+    },
+    {
+      "ENClientName": "Perennial Joy",
+      "CNClientName": "º™ ±◊£—Á",
+      "JPClientName": "ºæπùÜñ§Ô§Ã–“§ª§Œ◊£—Á§Ë",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cd/HatsushimoPartyChibi.png",
+      "shipDescription": "Cheers, Commander~ C'mere, you've got to enjoy the party too! If you're thinking of doing something tactless like running off to go back to work, people are going to get upset with you~",
+      "acquisition": "Cheers, Commander~ C'mere, you've got to enjoy the party too! If you're thinking of doing something tactless like running off to go back to work, people are going to get upset with you~",
+      "details": "Commander, please be mindful of the girls who tend to get lonely easily. Like Kasumi, for example... Hmm? She's perfectly fine? ...Was I misunderstanding something?",
+      "secretaryIdle1": "I see, I see. So this is one of Ikazuchi's \"creative dishes!\" ...I have no freakin' clue what this is! Hey, Salt Lake City, how about you?",
+      "secretaryIdle2": "I wonder what that stuff is that the Northern Parliament girls are always drinking... Feels like something I shouldn't look too deeply into.",
+      "secretaryIdle3": "Russian Roulette with candy? Hmm, count me in. I don't lose at this kind of stuff.",
+      "secretaryTouch": "Though I don't quite stack up compared to Wakaba and Naganami, I've got plenty of confidence when it comes to the size~ of my tail, of course. Heehee~"
+    }
+  ]
+}

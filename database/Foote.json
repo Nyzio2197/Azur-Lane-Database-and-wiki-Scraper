@@ -1,0 +1,33 @@
+{
+  "name": "Foote",
+  "rarity": "Normal",
+  "ID": "016",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2d/FooteChibi.png",
+      "shipDescription": "Fletcher-class destroyer - Foote, Hull Number DD-511!",
+      "selfIntroduction": "I'm Foote, one of the Fletcher-class Little Beavers. You think you have family issues? Try remembering the names of your thirty older sisters and nearly a hundred younger sisters...",
+      "acquisition": "*Tsk* Greetings... I hate greetings. But I suppose it's a formality... Hello, Commander. I'm Foote...",
+      "login": "It's so annoying having to greet you every day...",
+      "details": "Come on, hurry up. It's exhausting to hold this pose!",
+      "secretaryIdle1": "*Tsk* Is the food ready yet?",
+      "secretaryIdle2": "Commander... this doesn't go... oh forget it. It's too much trouble to fix.",
+      "secretaryIdle3": "Thatcher and Spence are always fighting. Can't they just quiet down?",
+      "secretaryTouch": "C-Commander... Could you stop touching me for a while?! I'm getting sore...",
+      "secretarySpecialTouch": "Being shy... is also pretty annoying...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/7f/Foote_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a6/Foote_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/d/d1/Foote_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/cd/Foote_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/3a/Foote_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/3e/Foote_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/97/Foote_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Foote_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/0/00/Foote_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Admiral Hipper ?",
+  "rarity": "Elite",
+  "ID": "422",
+  "faction": "Iron Blood",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "Huh? Why are you staring at me like I'm some weirdo? I'll have you know, it's not like I wanted to do this or anything!",
+      "selfIntroduction": "I'm the mightiest heavy cruiser in the world, Admiral Hipper of the Iron Blood. It's not like I wanted to do this or anything, I just had no say in the matter.",
+      "acquisition": "Huh? Why are you staring at me like I'm some weirdo? I'll have you know, it's not like I wanted to do this or anything!",
+      "login": "Lessons are finally done for the day. Good grief, why'd I ever agree to do this...!",
+      "details": "...My guitar sounds a bit off today... Huh, try tuning it? Nah, that's not it, I just have to warm up a bit more...",
+      "secretaryIdle1": "Hey idiot, tell me what's next on my schedule! How long do you intend to keep me waiting?",
+      "secretaryIdle2": "Deutschland, it's fine to be proud of your sister, but have some self-control! ...Jeez, you're so lucky to have such a reliable sister... Meanwhile, look what I'm stuck with...",
+      "secretaryIdle3": "Huh? Who asked you to be my publicist? I'll earn my own fans!",
+      "secretaryTouch": "Haah? Who gave you permission to touch me?!",
+      "secretarySpecialTouch": "H-haah?! You did that on purpose, didn't you?!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/96/Admiral_Hipper_%C2%B5_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/c8/Admiral_Hipper_%C2%B5_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/35/Admiral_Hipper_%C2%B5_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/d/d5/Admiral_Hipper_%C2%B5_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/1/1f/Admiral_Hipper_%C2%B5_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/dd/Admiral_Hipper_%C2%B5_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d7/Admiral_Hipper_%C2%B5_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7d/Admiral_Hipper_%C2%B5_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7c/Admiral_Hipper_%C2%B5_Sec2JP.ogg"
+    }
+  ]
+}

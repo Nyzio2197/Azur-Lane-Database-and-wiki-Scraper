@@ -1,0 +1,47 @@
+{
+  "name": "Fiji",
+  "rarity": "Rare",
+  "ID": "327",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/34/FijiChibi.png",
+      "shipDescription": "Fiji-class light cruiser ®C Fiji.",
+      "selfIntroduction": "Name's Fiji, I'm pretty much the nameship of my class. Things I fancy include... What? Spare the details? Then, if you're asking about my service record, all I did was fight in the Battle of Crete. Pretty rubbish record, innit... ahaha. Just gonna have to live with it and work on it, you know?",
+      "acquisition": "Heeey! Fiji's here~! Are you the Commander? Hmmm...? Pfft... Hahaha! You don't look too shabby! Nice seeing you, Com~man~der~?",
+      "login": "Had supper yet, Commander? If not, I could cook you something up.",
+      "details": "What's up, Commander? Missed me, have you? Hah, alright, have a seat and I'll get you some tea.",
+      "secretaryIdle1": "Jamaica? Ah, yeah, proper oddball, that girl~ But it's all good as long as she's having fun, innit?",
+      "secretaryIdle2": "What's up? You look knackered... Fancy a nap in my lap, maybe?",
+      "secretaryIdle3": "Hey, take a gander at this, Commander! Fancy what I've done with my hair? How about my nails?",
+      "secretaryTouch": "Feeling lonely, Commander? I'm always here for you.",
+      "secretarySpecialTouch": "If you wanna know my three sizes, can't you just ask? I mean, if you do, I'll tell you~ Hahaha~?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/5/5b/Fiji_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/4/41/Fiji_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/1/1a/Fiji_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/4/41/Fiji_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/8/8e/Fiji_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/e0/Fiji_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/83/Fiji_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/f/fb/Fiji_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/60/Fiji_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Trendy and Vogue?",
+      "CNClientName": " ±…–∑Á«È£ø",
+      "JPClientName": "•’•°•√•∑•Á•Û•π•ø•§•Î£ø",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/65/FijiCasualChibi.png",
+      "shipDescription": "Did I keep you waiting, Commander? Ahaha... A girl's gotta take her time before stepping out onto the streets, remember? Come on, take my hand, and let's get going! Hehe~",
+      "acquisition": "Did I keep you waiting, Commander? Ahaha... A girl's gotta take her time before stepping out onto the streets, remember? Come on, take my hand, and let's get going! Hehe~",
+      "login": "Commander, we've talked about the importance of being punctual before, right...? As compensation for making me wait, we're gonna shop 'til we drop! Ahaha!",
+      "details": "Hehe, what do you think about my outfit, Commander? Pretty nice, isn't it? ...You don't know where you should be looking? Haha, you cheeky little...",
+      "secretaryIdle1": "The joy of going shopping is knowing that every time you go out, there's something new to be discovered. Commander, I'll let you handle the \"spoils\" of our shopping trip.",
+      "secretaryIdle2": "You've gotta try on some new clothes during your downtime every now and then! Hehe, want me to help you pick out some clothes, Commander?",
+      "secretaryIdle3": "Girls need to do a lot of preparation before going out, you know? Hair, makeup, clothes, you name it... So, if you want to see us at our cutest, you've got to be patient~",
+      "secretaryTouch": "When we're on a date, it's only natural to lock arms and lean against you like this~ Ahaha, are you embarrassed, Commander?"
+    }
+  ]
+}

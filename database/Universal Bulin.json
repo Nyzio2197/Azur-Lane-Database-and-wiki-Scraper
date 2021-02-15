@@ -1,0 +1,39 @@
+{
+  "name": "Universal Bulin",
+  "rarity": "Elite",
+  "ID": "001",
+  "faction": "Universal",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/41/Universal_BulinChibi.png",
+      "shipDescription": "Universal Bulin. Can be used to limit break all ships of Elite rarity or below.",
+      "selfIntroduction": "They say I'm just like my sister, but we're actually in charge of different colors... What's a color? Sounds yummy!",
+      "acquisition": "Buli? Seems like I can help make your fleet stronger, buli!",
+      "login": "If I swing this wrench hard enough, I could poke a hole in the office floor, buli!",
+      "details": "Buli? Buli? Where are we? What are we gonna do here?",
+      "secretaryIdle1": "Us Bulins are pretty awesome, buli!",
+      "secretaryIdle2": "Is there nothing for Bulin to do? Really? Then let's go play! Wheee!",
+      "secretaryIdle3": "Commander, let's go dig for some treasure, buli~!",
+      "secretaryTouch": "Buli? Do you want to be bulified?",
+      "secretarySpecialTouch": "Buli? ... ... Buli?",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Universal_Bulin_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/8b/Universal_Bulin_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/26/Universal_Bulin_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/4/47/Universal_Bulin_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a2/Universal_Bulin_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/98/Universal_Bulin_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b5/Universal_Bulin_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/3/32/Universal_Bulin_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Universal Enhanced Rigging (Experimental) +α",
+      "CNClientName": "泛用型强化武装(工作用)",
+      "JPClientName": "汎用型強化兵装（工作用）＋α",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/16/Universal_BulinEventChibi.png",
+      "shipDescription": "Buli? Did I just get an upgrade buli?! Now, I can fight too buli!"
+    }
+  ]
+}

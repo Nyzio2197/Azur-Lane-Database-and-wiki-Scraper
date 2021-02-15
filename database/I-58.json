@@ -1,0 +1,24 @@
+{
+  "name": "I-58",
+  "rarity": "Elite",
+  "ID": "340",
+  "faction": "Sakura Empire",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4b/I-58Chibi.png",
+      "shipDescription": "Type-B Mod 2 cruiser submarine ¨C I-58.",
+      "selfIntroduction": "Type-B Mod 2 cruiser submarine, I-58. Yup, that's me. I was born towards the end of the war, and participated in several missions. Before the end of things, I managed to sink Indianapolis. Even though it was a great achievement, it's not like it ultimately made a difference...",
+      "acquisition": "I-58, reporting in. I usually like hanging out in the water by the docks, so you know where to look if you need me~",
+      "login": "Commander, submarines will die if you take them out of the water. I-I was just kidding...",
+      "details": "I love the serenity of the night. Nobody ever notices my presence.",
+      "secretaryIdle1": "It's not like I'll die if I'm taken out of the ocean, but I definitely prefer being in it. *blub blub*",
+      "secretaryIdle2": "Commander, when it comes to swimming, which stroke is your favorite? Crawl? Butterfly? Breaststroke?",
+      "secretaryIdle3": "There are a lot of miraculous things in the ocean. Want to go on a dive with me and experience it for yourself?",
+      "secretaryTouch": "It's important to warm up before diving. Commander, let's do some exercises together.",
+      "secretarySpecialTouch": "I mean... I'll admit they're on the small side... but that makes it more hydrodynamic!"
+    }
+  ]
+}

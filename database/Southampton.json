@@ -1,0 +1,38 @@
+{
+  "name": "Southampton",
+  "rarity": "Rare",
+  "ID": "110",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/05/SouthamptonChibi.png",
+      "shipDescription": "Southampton-class light cruiser – Southampton.",
+      "selfIntroduction": "I am the name ship of the Southampton-class. During the war, I was the only one of my sisters to be sunk. How lucky of me... Ugh. Let's not speak of such unpleasant memories...",
+      "acquisition": "Good day, Mast- ahem! My name is Southampton. Let me know if there's anything I might do for you. Oh and, not to be a bother, but is there a space here where I can make tea and enjoy some music?",
+      "login": "Oho! Commander, let us combine forces to finish the day's work as soon as possible!",
+      "details": "Naturally, I rather enjoy being a knight more than a maid. Losing myself in this music is such a delight. Commander, you simply must try it as well!",
+      "secretaryIdle1": "Commander, why don't we put a nice old phonograph right there in your office?",
+      "secretaryIdle2": "The maids would be running ragged right about now... I am terribly unsuited to that sort of work.",
+      "secretaryIdle3": "Honour guard? Bite your tongue! I am a Royal Knight under the command of King George V!",
+      "secretaryTouch": "Are you tired? Well then let's lie down for a nap, shall we?",
+      "secretarySpecialTouch": "I-I'm not a maid! ... Err, rather, you can't do that to a maid either!"
+    },
+    {
+      "ENClientName": "New Year's Little Knight",
+      "CNClientName": "新年的LittleKnight",
+      "JPClientName": "お正月のリトルナイト",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ee/SouthamptonNew_YearChibi.png",
+      "shipDescription": "Hello there~! Royal Knight Southampton is reporting for duty in a Sakura-style outfit! Hehe, don't you have something to tell me about my new look, like how cute it is? Come on, don't be shy. Speak up~",
+      "acquisition": "Hello there~! Royal Knight Southampton is reporting for duty in a Sakura-style outfit! Hehe, don't you have something to tell me about my new look, like how cute it is? Come on, don't be shy. Speak up~",
+      "login": "Commander, Happy New Year! Now it's off to the shrine for a special blessing, isn't it? Heheh, easy does it then.",
+      "details": "Dressing up all Sakura style has me feeling like I want to listen to some Sakura music. Ehehe.",
+      "secretaryIdle1": "I think this here is the \"Demon Breaker Arrow,\" isn't it? Seems to be some kind of warding charm... brilliant!",
+      "secretaryIdle2": "I got one of those omikuji fortunes for you at the shrine, Commander. Let's see, what does it say...?",
+      "secretaryIdle3": "I find myself wanting to dive into all the girls' festivals now~ What delightful holiday do we have next? I'm so excited!",
+      "secretaryTouch": "Commander, come do the shrine business with me! Let's see, I think the Sakura girls did it something like this... you put your hands together, don't you?"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Albacore ?",
+  "rarity": "Elite",
+  "ID": "477",
+  "faction": "Eagle Union",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "Lights! Camera! Albacore! Ahaha, don't worry about it, I'm just getting fired up over here! Oh, did you come up with a better idea? Tell me, tell me~",
+      "selfIntroduction": "Here comes Albacore, submarine-slash-idol! I'm unique, I'm in the groove, so make some noise as I perform for you! Vocals, dancing, you name it, I can do it!",
+      "acquisition": "Lights! Camera! Albacore! Ahaha, don't worry about it, I'm just getting fired up over here! Oh, did you come up with a better idea? Tell me, tell me~",
+      "login": "Morning there, P! Let's make the most of today!",
+      "details": "My new gig must leave me with little time to play pranks? Haha, my friend, a true idol can perform AND play pranks, too! If you want an example, look no further than Sara!",
+      "secretaryIdle1": "Surprise! How's my new stage prop look?",
+      "secretaryIdle2": "Most of the stuff we're wearing was brilliantly handmade by Dido! Curious about that doll she's got, though. What's it represent?",
+      "secretaryIdle3": "I wanna see Taihou's concern in person! We should totally set some time aside for that!",
+      "secretaryTouch": "I wouldn't be here without your support!",
+      "secretarySpecialTouch": "I wonder what'd happen to you if I were to scream \"I'm being molested!\" right now... Wanna find out? Heheheh~"
+    }
+  ]
+}

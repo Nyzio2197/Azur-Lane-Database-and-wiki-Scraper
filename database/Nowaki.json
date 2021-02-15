@@ -1,0 +1,33 @@
+{
+  "name": "Nowaki",
+  "rarity": "Elite",
+  "ID": "170",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/11/NowakiChibi.png",
+      "shipDescription": "Kagerou-class destroyer number fifteen - Nowaki.",
+      "selfIntroduction": "I'm Nowaki, a Kagerou-class destroyer. Luck? Kure and Sasebo ships have that, us Maizuru ships do not. I was unable to save Maikaze in Truk, but when I was in the Leyte Gulf I came running to Chikuma's rescue. In the end I couldn't save everyone... but in my dreams we're all still together...",
+      "acquisition": "This place is... Huh? Are you the commander?! Ahem! Destroyer Nowaki, reporting in!",
+      "login": "Zzz... Fiiine, I'll get up in a second... The sun... is so warm... Zzz...",
+      "details": "The Leyte Gulf? I don't remember very much of it...",
+      "secretaryIdle1": "If only I'd tried harder when I was in Truk...",
+      "secretaryIdle2": "I like this place, I don't need to hurt any of my allies here...",
+      "secretaryIdle3": "Arashi... Yukikaze... We're all together again in my dreams...",
+      "secretaryTouch": "Huh, what? Commander...? *Giggle*... *Yawn*...",
+      "secretarySpecialTouch": "*Giggle*... You're like Maikaze-chan, Commander...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/f/f5/Nowaki_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/6f/Nowaki_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/5/52/Nowaki_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a8/Nowaki_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/37/Nowaki_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/b/be/Nowaki_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/54/Nowaki_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/0/05/Nowaki_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7a/Nowaki_Sec2JP.ogg"
+    }
+  ]
+}

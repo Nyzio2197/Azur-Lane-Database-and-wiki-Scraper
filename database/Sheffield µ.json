@@ -1,0 +1,32 @@
+{
+  "name": "Sheffield ?",
+  "rarity": "Elite",
+  "ID": "421",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "I am Sheffield, from the Royal Maids. I will explain how this transpired to you, so please stop looking like the world has turned upside down.",
+      "selfIntroduction": "Town-class light cruiser, Sheffield. I am currently serving as an idol at Her Majesty's request. Do you have a problem with that?",
+      "acquisition": "I am Sheffield, from the Royal Maids. I will explain how this transpired to you, so please stop looking like the world has turned upside down.",
+      "login": "I finished cleaning up the office before I have to head off for lessons. I'd appreciate it if you don't mess it up while I'm gone.",
+      "details": "Call you Producer? No thank you, Master works just fine for me. Or... would you prefer to be called a \"pest?\"",
+      "secretaryIdle1": "I heard that there are some folks out there who get aroused from being abused by their favorite idol... I'll never understand.",
+      "secretaryIdle2": "Defeating enemies with song? Utterly unrealistic, but might make for an interesting school project.",
+      "secretaryIdle3": "To be honest, I'm a bit jealous of Belfast. Her talents are boundless, beyond just being a maid.",
+      "secretaryTouch": "I may not have my gun with me, but you would still be wise to mind your conduct.",
+      "secretarySpecialTouch": "Surely you're aware of the consequences for doing such things to an idol?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/8/81/Sheffield_%C2%B5_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/de/Sheffield_%C2%B5_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/85/Sheffield_%C2%B5_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/80/Sheffield_%C2%B5_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/01/Sheffield_%C2%B5_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/50/Sheffield_%C2%B5_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/a/a6/Sheffield_%C2%B5_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/4/44/Sheffield_%C2%B5_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Sheffield_%C2%B5_Sec2JP.ogg"
+    }
+  ]
+}

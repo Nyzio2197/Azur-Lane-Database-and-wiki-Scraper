@@ -1,0 +1,33 @@
+{
+  "name": "Fletcher",
+  "rarity": "Rare",
+  "ID": "011",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/33/FletcherChibi.png",
+      "shipDescription": "Fletcher-class destroyer - Fletcher, Hull Number DD-445!",
+      "selfIntroduction": "I'm Fletcher, the big sister of all 175 Fletcher-class destroyers! As the main force of the destroyer fleet, I participated in all the important naval battles~",
+      "acquisition": "Hm? You think we've met before? I get it... You know, I have over 100 sisters who look like me! I'll be following your orders from now on, Commander.",
+      "login": "Can you recognize me today, Commander? My sisters don't look like this!",
+      "details": "I can move quickly, so I probably won't get hit. Well... even if I do, I'll... probably be fine.",
+      "secretaryIdle1": "Last time someone tried to impersonate me, one of my little sisters told them to name EVERY Fletcher-class ship. That's when they gave up the act~",
+      "secretaryIdle2": "When I look at my little sisters, it makes me wonder... Maybe our parents were rabbits?",
+      "secretaryIdle3": "... Commander? Really... Are you thinking about one of my sisters again?",
+      "secretaryTouch": "My little sisters would probably like doing this too. Huh? Your hand would get sore from it?",
+      "secretarySpecialTouch": "C-Commander, please stop! What if my sisters see this...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/2/25/Fletcher_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Fletcher_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/f/fd/Fletcher_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/f/f4/Fletcher_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/b/b3/Fletcher_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/5d/Fletcher_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c0/Fletcher_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/49/Fletcher_Sec2JP.ogg"
+    }
+  ]
+}

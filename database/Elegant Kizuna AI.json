@@ -1,0 +1,33 @@
+{
+  "name": "Elegant Kizuna AI",
+  "rarity": "Super Rare",
+  "ID": "Collab042",
+  "faction": "KizunaAI",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/69/Elegant_Kizuna_AIChibi.png",
+      "shipDescription": "Well met. I'm Kizuna AI, the new addition to your base. I will do all in my power to be at least of some use. It is a pleasure meeting you, Commander.",
+      "selfIntroduction": "I am the embodyment of cuteness and etiquette! Please, enjoy the splendor of this smarter and more refined Kizuna AI!",
+      "acquisition": "Well met. I'm Kizuna AI, the new addition to your base. I will do all in my power to be at least of some use. It is a pleasure meeting you, Commander.",
+      "login": "Welcome back, Commander. Soon it will be time for our scheduled meeting. Let's get a lot of work done today.",
+      "details": "Please, feel at ease. Although my elegant uniform may steal your attention, I am still very much the intelligent super A.I. Kizuna AI I have always been.",
+      "secretaryIdle1": "Commander, Hood invited me to a tea party. Would you perhaps like to attend it as well?",
+      "secretaryIdle2": "Formal attire certainly aids one's composure... Belfast, if you don't mind, would you kindly teach me the Royal Navy's etiquette?",
+      "secretaryIdle3": "Commander, would it be agreeable with you if I uploaded videos from this base? I am quite talented at video making, you see.",
+      "secretaryTouch": "Please, do you not know uncouth it is to touch a lady nonchalantly?",
+      "secretarySpecialTouch": "You are guilty. There is no room for alternate interpretations. You are guilty.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/c1/Elegant_Kizuna_AI_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/2/2a/Elegant_Kizuna_AI_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/38/Elegant_Kizuna_AI_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/8c/Elegant_Kizuna_AI_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/f/fb/Elegant_Kizuna_AI_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/dd/Elegant_Kizuna_AI_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/a/a8/Elegant_Kizuna_AI_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/29/Elegant_Kizuna_AI_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Elegant_Kizuna_AI_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Z28",
+  "rarity": "Elite",
+  "ID": "488",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/69/Z28Chibi.png",
+      "shipDescription": "Type 1936A \"Narvik class\" destroyer ®C Z28.",
+      "selfIntroduction": "As a lead ship, I may not be as qualified as my sisters due to my armament... As a result, I've come to value problem-solving in other ways rather than directly fighting.",
+      "acquisition": "Pleased to meet you, Commander! I'm the one in the exact middle of the 1936A-class destroyers, Z28! My mission is to support you to the best of my abilities!",
+      "login": "Ah... Commander, I'm sure you had your reasons for being late! Anyway, it's fine, don't worry about it! Let's just word hard starting right now!",
+      "details": "Commander, look at this torpedo! I drew a funny face on it! Cute, isn't it?",
+      "secretaryIdle1": "I want to play with cute animals all day long~/This big ol' office feels a bit empty, but it's also refreshing and helps me focus on work!/If you finish all your work on time, I'll make some delicious sweets for you~",
+      "secretaryTouch": "Please go to sleep already! You can wait until later to finish the work!",
+      "secretarySpecialTouch": "All the girls will hate you if you do stuff like this, you know?",
+      "secretaryHeadpat": "Ehehe, let me pat your head too~"
+    },
+    {
+      "ENClientName": "New Year Smorgasbord!",
+      "CNClientName": "–¬ƒÍ¥Û‘”ª‚£°",
+      "JPClientName": "§¥§¡§„§ﬁ§º•À•Â©`•§•‰©`",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/69/Z28New_YearChibi.png",
+      "shipDescription": "Commander, Happy New Year! Is there anything you'd like to do on New Year's Day? Say, why don't we try doing all of that stuff, all at once~?",
+      "acquisition": "Commander, Happy New Year! Is there anything you'd like to do on New Year's Day? Say, why don't we try doing all of that stuff, all at once~?",
+      "login": "Hello, Commander. I thought you were still hiding inside the kotatsu. Ehehe~",
+      "details": "Should I make offerings at the shrine first, or play hanetsuki with my friends...? Ugh, there are just so many things I want to do!",
+      "secretaryIdle1": "Commander, look at this lifelike tail! Doesn't this make me look like one of those girls from the Sakura Empire?/Hmm, why does this lion have a scary face? ...Wouldn't it be better if he's cute...?/Commander, want to try some New Year dango? ...Here, open your mouth, say ahhn~",
+      "secretaryTouch": "All tuckered out from playing? Let's take a break then! I'll wake you up if there's an exciting event going on!",
+      "secretarySpecialTouch": "Promise me you won't do this any more, okay?"
+    }
+  ]
+}

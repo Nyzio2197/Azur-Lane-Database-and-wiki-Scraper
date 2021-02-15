@@ -1,0 +1,32 @@
+{
+  "name": "Li'l Sandy",
+  "rarity": "Elite",
+  "ID": "392",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "Atlanta-class light cruiser ®C San Diego (CL-53)",
+      "selfIntroduction": "I'm the third ship of the Atlanta-class light cruisers, San Diego! I'm aiming to become the fleet's number one Super°ÓStar!",
+      "acquisition": "San Diego, making her shining debut! She shoots, she scores~ Yaay! Hehe, only a genius like me could come up with a one-of-a-kind intro like that!",
+      "login": "Yo, Commander! There's a lot of paper lying around here, so let's fold some paper airplanes and see whose fly the farthest!",
+      "details": "The skies don't just belong to the planes, but to clouds and stars as well!",
+      "secretaryIdle1": "My sisters always told me to ask if there's anything I don't understand. But, what if I still don't get it?",
+      "secretaryIdle2": "Hrmmm... Is there some way to get everyone to know about how awesome I am?",
+      "secretaryIdle3": "Ehhh? Commander, doesn't it get boring sitting there all day?",
+      "secretaryTouch": "Awright! It's my turn to be it! One, two, skip a few... Ninety-nine, a hundred! Here I come, Commander!",
+      "secretarySpecialTouch": "Commander, you jerk!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Li%27l_Sandy_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/1c/Li%27l_Sandy_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/e6/Li%27l_Sandy_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/30/Li%27l_Sandy_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/31/Li%27l_Sandy_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/7a/Li%27l_Sandy_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/3/38/Li%27l_Sandy_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/95/Li%27l_Sandy_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/3/37/Li%27l_Sandy_Sec2JP.ogg"
+    }
+  ]
+}

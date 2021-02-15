@@ -1,0 +1,45 @@
+{
+  "name": "Sims",
+  "rarity": "Rare",
+  "ID": "026",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fd/SimsChibi.png",
+      "shipDescription": "Sims-class destroyer - Sims, Hull Number DD-409!",
+      "selfIntroduction": "I'm Sims, the name ship of the Sims-class. Commander... don't even think about mentioning the Battle of the Coral Sea in front of me. It instinctively makes me want to pull pranks on people~",
+      "acquisition": "So you're the commander... I'm Sims, the name ship of the Sims class of destroyers. Hehe, nice to meet you!",
+      "login": "Welcome back, Commander... Hmm? No, I didn't see who hid your stuff.",
+      "details": "Look, Commander, I won't level up just from you staring at me.",
+      "secretaryIdle1": "You know, I've got a little sister called Morris. She's just so fun to tease~",
+      "secretaryIdle2": "Try to find out how many surprises I've got in store for you, Commander!",
+      "secretaryIdle3": "Come on, let's play! Ahaha! Tickle tickle!",
+      "secretaryTouch": "Don't you find this hobby of yours a bit strange...?",
+      "secretarySpecialTouch": "... You'd better be ready when you're going to sleep tonight, Commander!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/e/e5/Sims_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/dc/Sims_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/e7/Sims_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/e8/Sims_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b7/Sims_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/6/69/Sims_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/1f/Sims_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b6/Sims_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4a/Sims_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/38/SimsKaiChibi.png",
+      "shipDescription": "Y'know, Commander~ No matter how nice you are to me, I'm still going to prank you~ Oh, but if you want my help with pranking others, I'll consider it~ Heehee~",
+      "acquisition": "Y'know, Commander~ No matter how nice you are to me, I'm still going to prank you~ Oh, but if you want my help with pranking others, I'll consider it~ Heehee~",
+      "login": "Commander, would you rather have an ultra-spicy or ultra-salty cake~?",
+      "details": "Hey, Commander~ You look like you're free, so let's play a game.",
+      "secretaryIdle1": "That thing when you think you've been pranked even though I haven't actually done anything is a prank of sorts, too~",
+      "secretaryIdle2": "Hmm... You've gotten too used to my old bag of tricks, so it's time to come up with some new ones! ... Whoops, sorry~ First, I'll need to finish all this work~",
+      "secretaryIdle3": "Hey, Commander~ Don't you agree Hammann's reaction when she got pranked was just hilarious?",
+      "secretaryTouch": "Ahahahahaha! That tickles! Stop it, Commander! Okay, I'm sorry! I'm sorry for pranking you! Ahahahahaha!"
+    }
+  ]
+}

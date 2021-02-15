@@ -1,0 +1,52 @@
+{
+  "name": "Furutaka",
+  "rarity": "Normal",
+  "ID": "190",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/db/FurutakaChibi.png",
+      "shipDescription": "First ship of the Furutaka-class heavy cruisers, Furutaka.",
+      "selfIntroduction": "I'm the Furutaka-class heavy... Err, just call me Furutaka! I may not look it, but I participated in the First Battle of the Solomon Sea! I also helped my sister Aoba out a lot! In the end though, I rushed too far ahead and didn't make it back myself... Ehehe...",
+      "acquisition": "Ah! Sorry for bumping into you... Huh? You're the Commander?! F-Furutaka, first ship of the Furutaka class, reporting for duty! Can you please forget what just happened? Ehehe...",
+      "login": "Commander, please be more careful when you open the door...",
+      "details": "I'm a bit bored...",
+      "secretaryIdle1": "Commander, Kako doesn't really hate you, so don't take it too personally.",
+      "secretaryIdle2": "Um... because I'm not very smart, maybe Kako should take my place at meetings instead...",
+      "secretaryIdle3": "Ouch...! Ahh, I'm fine... I just nodded off and bumped my head.",
+      "secretaryTouch": "What's up?",
+      "secretarySpecialTouch": "I never thought you'd take an interest in me, Commander... Frankly, I'm a bit happy~",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/0/0e/Furutaka_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/c6/Furutaka_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/e1/Furutaka_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/5/50/Furutaka_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/a/ab/Furutaka_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/25/Furutaka_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/7/7f/Furutaka_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/7/78/Furutaka_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/9/91/Furutaka_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png",
+      "shipDescription": "What's wrong, Commander? Why are you staring at me like that? My body? Yes, some things seem to have gotten bigger... Want to take a look?",
+      "acquisition": "What's wrong, Commander? Why are you staring at me like that? My body? Yes, some things seem to have gotten bigger... Want to take a look?",
+      "login": "Commander, did you have a good rest? Me? Umm... I slept very well.",
+      "secretaryIdle1": "I might have changed, but I'm still the same Furutaka, Commander!",
+      "secretaryIdle2": "Ouch! Ah... I just bumped my head again...",
+      "secretaryIdle3": "My hair feels a bit messy... maybe Kako can teach me how to tie it up.",
+      "secretaryTouch": "Commander~! Want to take a nap together?",
+      "secretarySpecialTouch": "Since you like me so much... I suppose it's okay~",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/13/Furutaka_IntroSkin9JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/44/Furutaka_LogSkin9JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b0/Furutaka_SecIdle1Skin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/1/1e/Furutaka_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/a/ae/Furutaka_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/4/41/Furutaka_Sec1Skin9JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7b/Furutaka_Sec2Skin9JP.ogg"
+    }
+  ]
+}

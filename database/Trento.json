@@ -1,0 +1,39 @@
+{
+  "name": "Trento",
+  "rarity": "Rare",
+  "ID": "414",
+  "faction": "Sardegna Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ad/TrentoChibi.png",
+      "shipDescription": "Trento-class heavy cruiser ¨C Trento.",
+      "selfIntroduction": "I am the nameship of the Trento class, but if you count the days since our launches, Trieste has a longer service record. Speaking of which, I had a little incident on my launch day... but I still carried out my missions as a member of the Sardegnian fleet~",
+      "acquisition": "I am Trento, first heavy cruiser of the Sardegna Empire, here to help out. I'll support everyone in my own special little way, so please do look forward to that, Commander?",
+      "login": "Right on time~ Way to go, Commander~!",
+      "details": "Umm... What was I doing just now? Do you have any ideas, Commander...?",
+      "secretaryIdle1": "You've already finished all the paperwork? That's great~!",
+      "secretaryIdle2": "Tea blends, let's see... Hmm, would any Royal girls take issue with this mix? Yeah, they might...",
+      "secretaryIdle3": "Looks like I'll get to enjoy both the Dragon Empery's AND the Sakura Empire's cuisine at this port~ That's wonderful~",
+      "secretaryTouch": "I've heard that hugs help people relax~ Shall we test that theory, Commander?",
+      "secretarySpecialTouch": "That's naughty, Commander! You'll be unpopular with the girls if you keep doing stuff like this."
+    },
+    {
+      "ENClientName": "Summer's Hotness?",
+      "CNClientName": "Ê¢ÏÄµÄ¶àÖØÓÕ»ó£¿",
+      "JPClientName": "¥Þ¥ë¥Á¥×¥ë?¥Æ¥ó¥×¥Æ©`¥·¥ç¥ó",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e5/TrentoSummerChibi.png",
+      "shipDescription": "The summer's scorching heat is alleviated by the ocean~ Commander, why don't you set aside your worries and... cut loose a bit~?",
+      "acquisition": "The summer's scorching heat is alleviated by the ocean~ Commander, why don't you set aside your worries and... cut loose a bit~?",
+      "login": "Commander? Did you doze off to the sound of the waves just now? Ahah, don't worry~ There's plenty of time, so you should enjoy your nap~",
+      "details": "I might get sunburnt? Ah, you're right, I should be more careful... Commander, would you mind helping me apply the sunscreen?",
+      "secretaryIdle1": "Commander, would you like to try this sundae? Here, say \"ahh~\" Very good, very good~",
+      "secretaryIdle2": "Playing in the water seems like a lot of fun. Commander, shall we join them as well?",
+      "secretaryIdle3": "The rhythm of the waves is quite hypnotic... Commander, if you want to take a nap, just come lie down over here and let me take good care of you~",
+      "secretaryTouch": "If there's anything you want me to do, just speak up~ Don't be shy~",
+      "secretarySpecialTouch": "Being at the beach always makes people more easygoing... I suppose I'll forgive you today~"
+    }
+  ]
+}

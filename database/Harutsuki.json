@@ -1,0 +1,48 @@
+{
+  "name": "Harutsuki",
+  "rarity": "Elite",
+  "ID": "296",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9a/HarutsukiChibi.png",
+      "shipDescription": "Akizuki-class destroyer number nine ®C Harutsuki.",
+      "selfIntroduction": "I am the ninth ship of the Akizuki-class destroyers, Harutsuki. Due to various circumstances, I wasn't able to do much, but... I'll make up for it this time, Commander!",
+      "acquisition": "I was guided here by the gods... Ah! M-My name is Harutsuki! Pleased to meet you!",
+      "login": "Commander, w-welcome back!",
+      "details": "Hyaa! C-Commander, when did you get here?",
+      "secretaryIdle1": "O gods, please bless this port so that everyone may come home safely.",
+      "secretaryIdle2": "Yoizuki may seem cold, but she's very nice and is always thinking of everyone else!",
+      "secretaryIdle3": "Good luck! I'll... be supporting you!",
+      "secretaryTouch": "Commander? Would you like to try the sakura mochi that I made?",
+      "secretarySpecialTouch": "C-Commander! P-Please stop doing that... *sniffles*",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/98/Harutsuki_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/31/Harutsuki_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/80/Harutsuki_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/82/Harutsuki_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b4/Harutsuki_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/2c/Harutsuki_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/b/bf/Harutsuki_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/16/Harutsuki_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/f/f2/Harutsuki_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "A Dance for the Coming Spring",
+      "CNClientName": "”≠¥∫µƒ…Ò¿÷ŒË",
+      "JPClientName": "˚ê§∑§≠”≠¥∫§ŒŒË",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/45/HarutsukiNew_YearChibi.png",
+      "shipDescription": "Happy New Year, Commander! I am currently on my way to give a Kagura dance at the shrine. If you have time... would you like to come see it?",
+      "acquisition": "Happy New Year, Commander! I am currently on my way to give a Kagura dance at the shrine. If you have time... would you like to come see it?",
+      "login": "All right, that should be all the rehearsing I need... C-Commander?! Just now, were you... watching me the whole time?",
+      "details": "Um, Commander... It's a bit embarrassing if you stare at me like that...",
+      "secretaryIdle1": "I practiced a lot for this... so I hope I can do a good job...",
+      "secretaryIdle2": "Fusou and Yamashiro went out of their way to practice with me! I'll have to make sure to thank them after this...!",
+      "secretaryIdle3": "Gods, please watch over everyone this year...",
+      "secretaryTouch": "Do you like this outfit that much?",
+      "secretarySpecialTouch": "P-please stop that, Commander! You're going to mess up my clothes..."
+    }
+  ]
+}

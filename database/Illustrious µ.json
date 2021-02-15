@@ -1,0 +1,23 @@
+{
+  "name": "Illustrious ?",
+  "rarity": "Super Rare",
+  "ID": "480",
+  "faction": "Royal Navy",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "I am the newest addition to the Muse System, Illustrious. Through my songs, I shall spread the light of love and peace¡ª Don't you think that's a wonderful thing?",
+      "selfIntroduction": "I am the name ship of the Illustrious-class armored carriers... Oh, should I call myself \"Idol Illustrious\" now? I lack experience, but I will do what I must for the sake of peace.",
+      "acquisition": "I am the newest addition to the Muse System, Illustrious. Through my songs, I shall spread the light of love and peace¡ª Don't you think that's a wonderful thing?",
+      "login": "Good day, Commander. What will we be practicing today?",
+      "details": "One, two, one two, Ah... Thank you, Commander. I'm not sure why I just can't keep my balance...",
+      "secretaryIdle1": "What if we had a little tea party after our next practice?",
+      "secretaryIdle2": "When one watches Tashkent and the girls dance so vivaciously, it makes one's heart pound. Hehehe.",
+      "secretaryIdle3": "The theme of my costume is \"the starry cosmos,\" isn't that romantic? How delightful. Hehe.",
+      "secretaryTouch": "Are we practicing for handshake events? All right, thank you very much, Commander.",
+      "secretarySpecialTouch": "Commander, do remember to maintain decorum when touching an idol."
+    }
+  ]
+}

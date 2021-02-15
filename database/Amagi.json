@@ -1,0 +1,49 @@
+{
+  "name": "Amagi",
+  "rarity": "Super Rare",
+  "ID": "367",
+  "faction": "Sakura Empire",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png",
+      "shipDescription": "1st Ship of the Amagi-class Battlecruisers, Amagi",
+      "selfIntroduction": "I am the nameship of the Amagi-class battlecruisers, Amagi. Along with Akagi, I was originally supposed to be converted into an aircraft carrier, but that plan was scrapped after a certain natural disaster. *cough* *cough* ... As you can see, my body is not in a great condition, but please do not worry about me too much.",
+      "acquisition": "*cough* *cough* Battlecruiser Amagi, reporting in. It looks like I should be able to fully utilize my abilities here. Commander, would you please brief me on our enemies?",
+      "login": "Commander, I've left today's combat operation plans on the table. Please take a look.",
+      "details": "Don't let anyone get injured? Commander, that's quite the tall order, but I'm up for the challenge.",
+      "secretaryIdle1": "The road ahead of us is perilous, but I believe that is also what makes the journey worthwhile.",
+      "secretaryIdle2": "Commander, there is no need to fear failure. As long as I am here, all setbacks are but fodder for our victories.",
+      "secretaryIdle3": "Akagi turned out... a bit differently from what I expected.",
+      "secretaryTouch": "Ehehe... Oh, Commander, I was just thinking about what snacks I'd like to eat.",
+      "secretarySpecialTouch": "Oh, Commander... I was contemplating some other things...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/2/25/Amagi_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Amagi_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/bd/Amagi_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/7f/Amagi_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/9/9d/Amagi_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/35/Amagi_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/3/39/Amagi_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/28/Amagi_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/88/Amagi_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Wending Waters, Serene Lotus",
+      "CNClientName": "走水静莲",
+      "JPClientName": "走水静蓮",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c0/AmagiSummerChibi.png",
+      "shipDescription": "Commander, are you here to pay me a visit? ...Ah, there is no need to be concerned about me. I made a promise to both you and Akagi that I would be mindful of my health.",
+      "acquisition": "Commander, are you here to pay me a visit? ...Ah, there is no need to be concerned about me. I made a promise to both you and Akagi that I would be mindful of my health.",
+      "login": "Commander, are you not going to head down to the ocean? There is no need to worry about me, so please enjoy your time with the others.",
+      "details": "Is there anything I would like to tell Akagi? Of course, I have many things I would like to impart with her, but perhaps it would be more appropriate that she hears those words from you, Commander. And perhaps, that would be the more interesting way of doing things... Don't you agree? Hehe~",
+      "secretaryIdle1": "Kaga's younger sister is quite skilled at drawing... As for my sister, well... Akagi has her own charming points~",
+      "secretaryIdle2": "I'm sorry for the trouble I've caused you due to my less than ideal health, but I would like to say... Commander, you have my deepest gratitude for looking after me all this time.",
+      "secretaryIdle3": "Would a light meal be to your liking, Commander? Kaga, Akagi, and I worked together to make this. We chose our dishes assuming that you would also be here to partake in our cooking. Hehe~",
+      "secretaryTouch": "I'm not going anywhere, Commander. That's what you and Akagi wished for, after all.",
+      "secretarySpecialTouch": "Commander, I would advise you to pay closer attention to your surroundings before doing things like this...",
+      "secretaryHeadpat": "Oh my, what's this...?"
+    }
+  ]
+}

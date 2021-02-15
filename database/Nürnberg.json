@@ -1,0 +1,37 @@
+{
+  "name": "Nürnberg",
+  "rarity": "Elite",
+  "ID": "486",
+  "faction": "Iron Blood",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "Leipzig-class light cruiser – Nürnberg.",
+      "selfIntroduction": "Though I received many modifications during the war, I never was able to put any of it to good use... But, there aren't many ships in the Iron Blood with longer service histories than me? I, I can't even believe it myself...",
+      "acquisition": "I am the second ship of the Leipzig-class, Nürnberg. Starting today, I shall serve you to the best of my abilities... Is that acceptable?",
+      "login": "It is time to begin working. C-Commander, please give it your all...!",
+      "details": "Why are you here by yourself, Commander? ...W-were you perhaps waiting for everyone else to leave...?! Oh, you weren't?",
+      "secretaryIdle1": "Commander, do you like br?tchen? I see... Th-then, if work goes well, I... I'll make some for you!",
+      "secretaryIdle2": "I wonder if there's anything that can be done about Leipzig always collapsing... Ph-physical exercises, you say? Commander, are you planning to do something weird to Leipzig?!",
+      "secretaryIdle3": "Am I being too hard on you? What should I do... If I was to make you upset with me... W-well, I'm sure it's fine, since you're probably thinking up all kinds of weird things right now...!",
+      "secretaryTouch": "Are... are you trying to condition me to be less cautious by touching me...?!",
+      "secretarySpecialTouch": "Aaah?! Wh-what are you doing all of a sudden, Commander?!",
+      "secretaryHeadpat": "Eek?! Suddenly touching my head like that... Commander, you're thinking of doing something weird, aren't you...?! Am, am I wrong?"
+    },
+    {
+      "ENClientName": "Spring Wanderer",
+      "CNClientName": "正月的漫游",
+      "JPClientName": "スプリング?ワンダラー",
+      "shipDescription": "Since you so readily accepted my invitation to go on a vacation together, you must be planning to... Ahh, what I meant is, we can leave at any time if you're ready...!",
+      "acquisition": "Since you so readily accepted my invitation to go on a vacation together, you must be planning to... Ahh, what I meant is, we can leave at any time if you're ready...!",
+      "login": "Commander, let's head out if you've already finished getting ready? There are lots of places I'd like to go today.",
+      "details": "Hmm... Commander, can you come help me pick out a good souvenir for everyone back in the Iron Blood?",
+      "secretaryIdle1": "I wish Leipzig was here as well... Well, she's never been good with crowded places though...",
+      "secretaryIdle2": "I never knew the Sakura Empire's food was this delicious... Yeah, I'll have to ask my friends how to make these.",
+      "secretaryIdle3": "The Sakura Empire's traditional outfits are so beautiful... Eek?! Commander?! Where were you staring at just now?!",
+      "secretaryTouch": "Y-you want to hold my hand?! ...Are you sure it's just so we don't get separated...?"
+    }
+  ]
+}

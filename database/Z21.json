@@ -1,0 +1,33 @@
+{
+  "name": "Z21",
+  "rarity": "Normal",
+  "ID": "266",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b3/Z21Chibi.png",
+      "shipDescription": "Type 1936-class destroyer, Z21 Wilheim Heidkamp.",
+      "selfIntroduction": "I am Z21, Iron Blood Navy Z-class 1936-Type destroyer. I was the flagship during Operation Weser¨¹bung, but was sunk by HMS Courageous. I won't lose next time!",
+      "acquisition": "I am Z21, Narvik Z-class destroyer flagship, Wilheim Heidkamp! Since you worked so hard to find me, I suppose I'll have to follow you home.",
+      "login": "Commander, you're back! Eh...? It's... it's not like I actually care!",
+      "details": "Is there something on my face? Stop staring at me!",
+      "secretaryIdle1": "You should be more careful if you want me to be your flagship... Don't misunderstand, I'm not actually worried about you.",
+      "secretaryIdle2": "I'm staying beside you, but only because its my duty as secretary ship!",
+      "secretaryIdle3": "If you're really tired, I suppose you could rest on my lap for a while...",
+      "secretaryTouch": "Didn't we agree that you'd give me a heads up before poking me?",
+      "secretarySpecialTouch": "Ah! What... what are you doing? One more time and I'll really get mad!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/c7/Z21_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/cd/Z21_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/9/9a/Z21_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/0/07/Z21_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/28/Z21_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/37/Z21_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/f/f2/Z21_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/f/fd/Z21_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4d/Z21_Sec2JP.ogg"
+    }
+  ]
+}

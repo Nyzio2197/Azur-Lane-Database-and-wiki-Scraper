@@ -1,0 +1,33 @@
+{
+  "name": "Tennessee",
+  "rarity": "Rare",
+  "ID": "058",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/1b/TennesseeChibi.png",
+      "shipDescription": "Tennessee-class battleship ¨C Tennessee, Hull Number BB-43!",
+      "selfIntroduction": "I am the new type of battleship, Tennessee. In terms of combat, my waterline protection and hull armor have been upgraded, and my fire control systems have improved my fighting capabilities further. Commander, your orders?",
+      "acquisition": "You're the Commander? Hmm... Looks like you have potential. I'm motivated enough to help with your dreams. Ah, that reminds me, I am Tennessee. Got it memorized?",
+      "login": "Commander, it's time to roll!",
+      "details": "You can look all you want. Just don't forget about your job.",
+      "secretaryIdle1": "Commander! If you don't sortie, I'll bring the girls and head to new waters myself!",
+      "secretaryIdle2": "I totally cannot comprehend why you're so easygoing...",
+      "secretaryIdle3": "The secret to getting a better figure?... Cease with such jokes.",
+      "secretaryTouch": "Mm... 'Cute' doesn't quite fit me.",
+      "secretarySpecialTouch": "I'm not a 'Clear' target like in a game!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/91/Tennessee_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/7/7b/Tennessee_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/46/Tennessee_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/89/Tennessee_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/32/Tennessee_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/2c/Tennessee_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/c/ca/Tennessee_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b4/Tennessee_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/e/e1/Tennessee_Sec2JP.ogg"
+    }
+  ]
+}

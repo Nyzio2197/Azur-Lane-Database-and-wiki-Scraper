@@ -1,0 +1,48 @@
+{
+  "name": "Tai Yuan",
+  "rarity": "Elite",
+  "ID": "256",
+  "faction": "Dragon Empery",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f5/Tai_YuanChibi.png",
+      "shipDescription": "An Shan-class destroyer No. 4 - Tai Yuan (104)",
+      "selfIntroduction": "Um... I'm Tai Yuan, fourth ship of the An Shan-class and a first-generation member of the Dragon Empery's \"Four Unbreakables.\" I originally was named \"Ji Lin.\" My sisters and I were the mainstay of the Empery's navy for decades, serving in many operations and helping rebuild the strength of the navy. The \"Nuclear Physics Hypothesis\" is a very interesting book... It would be nice if my sisters liked it too...",
+      "acquisition": "I... I'm Tai Yuan, a destroyer. Commander, have you seen my sisters?",
+      "login": "H-hey, Commander. I was too absorbed in reading that I lost track of the time...",
+      "details": "Fu Shun just asked me to tell her about the Philadelphia Experiment. Commander, would you like me to tell you about it too?",
+      "secretaryIdle1": "F-Frank Knox? I don't want to run into her again...",
+      "secretaryIdle2": "An Shan is so hardworking... When can I be of help to her?",
+      "secretaryIdle3": "What am I reading right now? \"Miscellaneous Morsels from Youyang.\" Chang Chun gave it to me...",
+      "secretaryTouch": "Commander, what kind of books do you like to read?",
+      "secretarySpecialTouch": "W-w-woah... C-commander, please don't do that...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/3/31/Tai_Yuan_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/39/Tai_Yuan_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/f/fb/Tai_Yuan_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/cd/Tai_Yuan_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/25/Tai_Yuan_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/9/90/Tai_Yuan_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/e9/Tai_Yuan_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/63/Tai_Yuan_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/d/df/Tai_Yuan_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "The Golden Dragon's Festivities",
+      "CNClientName": "Ω…ﬂƒ÷¥∫",
+      "JPClientName": "¥∫ÚX§Æ§Œ–˛Åw",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/63/Tai_YuanSpringChibi.png",
+      "shipDescription": "O-on behalf of the An Shan class, we wish a prosperous, happy, and healthy new year to Commander, and to everyone here at port... Umm... even though I made this outfit, I feel a bit embarrassed wearing it... Eh? It looks good on me? Um... th-thank you...",
+      "acquisition": "O-on behalf of the An Shan class, we wish a prosperous, happy, and healthy new year to Commander, and to everyone here at port... Umm... even though I made this outfit, I feel a bit embarrassed wearing it... Eh? It looks good on me? Um... th-thank you...",
+      "login": "Fu Shun gets really excited around the Spring Festival, and will even drag Chang Chun and me around...",
+      "details": "Commander, did you know? The Dragon Empery has an ancient legend about the monster known as the \"Nian.\" During the Spring Festival, every household will hang up couplets and set off firecrackers to ward it off.",
+      "secretaryIdle1": "F-Fu Shun, it... it's dangerous to take apart firecrackers like that... Eh? You're doing an experiment?",
+      "secretaryIdle2": "This year's couplet... Um, Commander, can you help me brainstorm ideas?",
+      "secretaryIdle3": "Chang Chun, it's a once-in-a-year occasion, it's not good to stay inside your room all day...",
+      "secretaryTouch": "I made this outfit myself. My sisters all said it looks good, ehehe...",
+      "secretarySpecialTouch": "C-commander... if you keep messing around, someone's going to get mad!"
+    }
+  ]
+}

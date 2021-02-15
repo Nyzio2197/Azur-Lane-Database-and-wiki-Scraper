@@ -1,0 +1,33 @@
+{
+  "name": "Kinugasa",
+  "rarity": "Normal",
+  "ID": "193",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c0/KinugasaChibi.png",
+      "shipDescription": "Second ship of the Aoba-class heavy cruisers, Kinugasa.",
+      "selfIntroduction": "Good day, I'm Kinugasa! I was in the 6th Fleet with my sister Aoba before it was disbanded. We fought together in many battles, like Wake Island, the Coral Sea, and the Solomon Islands. I'm not as lucky as her though... Anyways, Commander, try not to overwork yourself! Rest is important too!",
+      "acquisition": "Pleased to meet you! I'm Kinugasa. Have you been eating and sleeping well, Commander? Don't be like my big sis... Speaking of which, is she also here by any chance?",
+      "login": "Welcome back, Commander! Did you get enough to eat? If you're still hungry, I can cook something for you!",
+      "details": "Health comes first!",
+      "secretaryIdle1": "Did you rest well, Commander? Health comes first!",
+      "secretaryIdle2": "I'm not sure if Aoba is getting enough rest... Please make sure to check up on her!",
+      "secretaryIdle3": "Work hard, play hard! That's the secret to a happy life!",
+      "secretaryTouch": "Commander, did you also come to wind down with some light stretching?",
+      "secretarySpecialTouch": "Please take a seat, Commander. We're going to discuss fleet discipline.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/0/0b/Kinugasa_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a8/Kinugasa_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/f/f8/Kinugasa_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/3e/Kinugasa_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/29/Kinugasa_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/ae/Kinugasa_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/93/Kinugasa_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/cc/Kinugasa_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/69/Kinugasa_Sec2JP.ogg"
+    }
+  ]
+}

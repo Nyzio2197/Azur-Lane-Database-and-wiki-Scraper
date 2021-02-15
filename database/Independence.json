@@ -1,0 +1,61 @@
+{
+  "name": "Independence",
+  "rarity": "Elite",
+  "ID": "377",
+  "faction": "Eagle Union",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/69/IndependenceChibi.png",
+      "shipDescription": "Independence-class light aircraft carrier – Independence, Hull Number CVL-22.",
+      "selfIntroduction": "I was initially to be the fifth Cleveland-class cruiser, but got remodeled into a light aircraft carrier due to the skyrocketing need for additional carriers. Thanks to the new capabilities this gave me, I flourished in battle and achieved victory together with my allies.",
+      "acquisition": "I'm Independence, light carrier. Don't worry about that \"light\" part, and just hand those missions over to me.",
+      "login": "Today's training and routine missions are progressing smoothly, Commander. You can rest easy.",
+      "details": "I'm prepared to battle at nighttime, if necessary.",
+      "secretaryIdle1": "Should I call Cleveland... \"Cleve\"? Or do I keep it simple?",
+      "secretaryIdle2": "I will take on that task you assigned me with the highest priority, Commander.",
+      "secretaryIdle3": "I'm apparently terrible at reading between the lines... So please, Commander: whenever you have something to say, tell it to me straight.",
+      "secretaryTouch": "Yes? Do you need something?",
+      "secretarySpecialTouch": "Go to the Admiralty and explain yourself. Right now.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/0/0d/Independence_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/ac/Independence_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/f/f0/Independence_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/9/97/Independence_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/5/55/Independence_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/3e/Independence_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/25/Independence_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/28/Independence_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/69/Independence_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Transfer Student From Afar",
+      "CNClientName": "远道而来的转校生",
+      "JPClientName": "此方の学園へ",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f9/IndependenceSchoolChibi.png",
+      "shipDescription": "So this is my new school, huh? Hmm... gotta put my stuff down first before checking in with the teacher.",
+      "acquisition": "So this is my new school, huh? Hmm... gotta put my stuff down first before checking in with the teacher.",
+      "login": "Living in a dorm means I don't have to worry about being late for school.",
+      "details": "Yeah, it should be fine to leave my pet in the dorm... I think?",
+      "secretaryIdle1": "Join a club? Maybe I should... Hmm... Actually, I'm good.",
+      "secretaryIdle2": "Both studies and missions require your full, undivided attention.",
+      "secretaryIdle3": "Ugh... This collar is too tight... Why are you staring, Commander?",
+      "secretaryTouch": "Do you not get what this paragraph means? Let me have a look.",
+      "secretarySpecialTouch": "...Go to the staff room and explain yourself.",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/bb/Independence_IntroSkin1JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/7/7b/Independence_LogSkin1JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a9/Independence_DetailsSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/d/d6/Independence_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/f/fb/Independence_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/0/0e/Independence_SecIdle3Skin1JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/a/a8/Independence_Sec1Skin1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/a/a9/Independence_Sec2Skin1JP.ogg"
+    },
+    {
+      "ENClientName": "The Independent Line",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/75/IndependencePartyChibi.png",
+      "shipDescription": "Hmm... Isn't this one a bit too garish? Mm... What if we pair it with a necklace or some sort of purse? ...Commander, your thoughts? C'mon, don't just stare at me, give me something to work with here..."
+    }
+  ]
+}

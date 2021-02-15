@@ -1,0 +1,40 @@
+{
+  "name": "Nyotengu",
+  "rarity": "Elite",
+  "ID": "10066",
+  "faction": "Venus Vacation",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c8/NyotenguChibi.png",
+      "shipDescription": "Oh? You don't seem to fear me... Who might you be? ...I see, so it is you who rules over this place. Then I shall call you \"Commander.\" I am Nyotengu. You would do best to keep me entertained, hehe.",
+      "selfIntroduction": "I am undoubtedly a tengu. Oh? If you have any doubts, why not confirm it with those eyes and hands? Ah-haha...?",
+      "acquisition": "Oh? You don't seem to fear me... Who might you be? ...I see, so it is you who rules over this place. Then I shall call you \"Commander.\" I am Nyotengu. You would do best to keep me entertained, hehe.",
+      "login": "Just arriving, Commander? Heheh, you will show me around the port, won't you?",
+      "details": "Well, well. What shall I do for amusement now... Have you any good ideas?",
+      "secretaryIdle1": "In order to fly, humans created airplanes... I wonder how the view from within one is?",
+      "secretaryIdle2": "I'd like to drink some tea while snacking on some manjuu... Not those little ones you have here, mind you. Ah-haha.",
+      "secretaryIdle3": "There is a strange presence within the ranks of the Sakura Empire. Hehehe, interesting, how very interesting...",
+      "secretaryTouch": "Are you planning on checking my body yourself? Hehe, how daring.",
+      "secretarySpecialTouch": "Hehe, you shouldn't...?",
+      "secretaryHeadpat": "I-it tickles a bit..."
+    },
+    {
+      "ENClientName": "Scarlet-Tinged Hot Spring Vacation",
+      "CNClientName": "ºì·ãÓëÎÂÈª¼ÙÈÕ",
+      "JPClientName": "¼t¤¯È¾¤Þ¤ëÎÂÈª¥Ð¥«¥ó¥¹",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f4/NyotenguSummerChibi.png",
+      "shipDescription": "Oho! To think there was a place with this much class... Not bad! I shall hereby be enjoying my hot springs vacation right here, hehehe.",
+      "acquisition": "Oho! To think there was a place with this much class... Not bad! I shall hereby be enjoying my hot springs vacation right here, hehehe.",
+      "login": "What are you doing, standing there like a fool? Don't hold back, come closer... to my side.",
+      "details": "Your port is quite fine. With hot springs and beaches, there are plenty a wonderful place to choose... This looks to be quite the auspicious vacation, indeed, ah-haha.",
+      "secretaryIdle1": "More than me, you seem to be the one direly in need of a vacation.",
+      "secretaryIdle2": "Hehehe, Commander, won't you join me for a drink under these beautiful, crimson leaves?",
+      "secretaryIdle3": "What are you looking at? If there's something that interests you... shouldn't you take a closer look? Ah-haha.",
+      "secretaryTouch": "Hehe, I wouldn't mind it if you... came closer.",
+      "secretarySpecialTouch": "Hehehe, what an incorrigible fool...?"
+    }
+  ]
+}

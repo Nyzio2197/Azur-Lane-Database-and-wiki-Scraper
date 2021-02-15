@@ -1,0 +1,62 @@
+{
+  "name": "Wichita",
+  "rarity": "Elite",
+  "ID": "049",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png",
+      "shipDescription": "Wichita-class heavy cruiser – Wichita, Hull Number CA-45! Unlock build after receiving",
+      "selfIntroduction": "I am the one and only fearless general of the seas, Lady Wichita! Even carriers would be crushed beneath my feet, if I wanted to end them myself. That's why, Commander, I'll be expecting much of you.",
+      "acquisition": "You're the commander? Very well. Starting today you will be my adviser. You will devote your time to helping me conquer the seas!",
+      "login": "You've returned. You really kept me waiting. Get ready to depart.",
+      "details": "Relish in the power of a true heavy cruiser!",
+      "secretaryIdle1": "Torpedoes? Far too weak!",
+      "secretaryIdle2": "Look! Our conquest extends to the ends of this blue sea!",
+      "secretaryIdle3": "There exists no problem that a shot from my huge cannons cannot resolve!",
+      "secretaryTouch": "What is it, want to have a go with me?",
+      "secretarySpecialTouch": "Are you trying to get a taste of my whip?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Wichita_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/8/8b/Wichita_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/b9/Wichita_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Wichita_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/2a/Wichita_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/27/Wichita_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/7/79/Wichita_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/99/Wichita_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Wichita_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "The General's Banquet",
+      "CNClientName": "“将军”的晚宴",
+      "JPClientName": "ジェネラル?バンケット",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/77/WichitaPartyChibi.png",
+      "shipDescription": "It's about time you showed up, Commander. Now, show me some spirit! As my lieutenant, don't do anything slovenly that would incur the mockery of others! Very well, let's move out!",
+      "acquisition": "It's about time you showed up, Commander. Now, show me some spirit! As my lieutenant, don't do anything slovenly that would incur the mockery of others! Very well, let's move out!",
+      "login": "What took you so long, Commander?",
+      "details": "Mannerisms, etiquette, dress codes... Hmph. This is all more convoluted than naval battles, that's for sure. Still, I agreed to participate, so I mustn't act like a total simpleton.",
+      "secretaryIdle1": "What are you looking at? You want a drink, huh? Why didn't you just say so right away?",
+      "secretaryIdle2": "Even the world's best warrior would succumb to exhaustion if they never stopped fighting. Everyone needs time off for recreation, you know? So enjoy yourself tonight.",
+      "secretaryIdle3": "Not going to lie, St. Louis's car looked really slick. I'm considering asking for the keys and taking it for a spin later.",
+      "secretaryTouch": "Hey! You nearly put your hand on my shoulder there... Try to avoid doing that in public at the very least."
+    },
+    {
+      "ENClientName": "Domineering Witchita",
+      "CNClientName": "万圣的支配者？",
+      "JPClientName": "ハロウィン?ドミネーター",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a1/WichitaHalloweenChibi.png",
+      "shipDescription": "Tonight I am not a renowned naval general, I am a feared commander of witches! And you... Yes, you're not my lieutenant, you are my arcane familiar!",
+      "acquisition": "Tonight I am not a renowned naval general, I am a feared commander of witches! And you... Yes, you're not my lieutenant, you are my arcane familiar!",
+      "login": "The curtain rises on All Hallows' Eve! Commander, we're leaving!",
+      "details": "Darkness may unnerve people, but you need some well-placed lighting to truly frighten them. So, tell me, Commander: have any ideas for setting up a Halloween scene?",
+      "secretaryIdle1": "Ghosts? Goblins? Hah! On this night, they too are under my control! Hahahaha!",
+      "secretaryIdle2": "Trick-or-treaters? It's your job to deal with those. Wouldn't want to risk petrifying any children with my terrific costume.",
+      "secretaryIdle3": "Raising the brim of my witch hat to reveal my razor-sharp fangs – now that's what I'm talking about!",
+      "secretaryTouch": "Come, familiar. Get up on the pumpkin and take in the Halloween spirit.",
+      "secretarySpecialTouch": "Desperate to once more taste the sting of my whip, are we?"
+    }
+  ]
+}

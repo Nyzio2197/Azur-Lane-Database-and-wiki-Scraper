@@ -1,0 +1,55 @@
+{
+  "name": "Cheshire",
+  "rarity": "Priority",
+  "ID": "Plan013",
+  "faction": "Royal Navy",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2e/CheshireChibi.png",
+      "shipDescription": "Heavy cruiser ®C Cheshire.",
+      "selfIntroduction": "I'm Cheshire, a heavy cruiser from the Royal Navy! Until I met you, I was just a stray in the sea of people's imagination! Which is to say, both my body and soul belong to you, Owner! Squeeeze~?",
+      "acquisition": "Meeeoooow! I haven't slept like that in forever! Hrm? Are you the one who woke me from my sleep? Woohoo, that makes you my owner! \"Why?\" Because I've totally fallen for you, duh!",
+      "login": "Owneeeeer! Glomp! Squeeze! Cuddle! Sniff! What, I'm \"overenthusiastic?\" Well, that's just how excited I get when I see you, Owner~?",
+      "details": "The reason I adore you is because animals take the first person they see to be their lover... Uhh, I mean, their parent! Not that that's got to do with anything! You're my owner just because, and I love you just because! It's as simple as that!",
+      "secretaryIdle1": "Hey, Owner, know any funny stories about the Royal Navy? Or any other faction, that's fine! I wanna learn stuff!",
+      "secretaryIdle2": "I'm not a cat, okay? I might be as cuddly as a kitten, but I'm not an actual cat!",
+      "secretaryIdle3": "Oh, Master, would you care for some tea~? Hehehe, that was my Royal Maid impression! How was it, Owner?",
+      "secretaryTouch": "Ahah~? What is it, Owner? Come on, I know you want something just from looking at your face~",
+      "secretarySpecialTouch": "No more surprise touchies! At least tell me when you're gonna do it!",
+      "secretaryHeadpat": "My kitty ears are a detachable hair accessory! You try 'em on too, Owner! Just for a quick moment, please, c'mon!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/95/Cheshire_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/5/5c/Cheshire_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/7/7b/Cheshire_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/ee/Cheshire_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/5/54/Cheshire_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/8e/Cheshire_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/de/Cheshire_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/0/05/Cheshire_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/23/Cheshire_Sec2JP.ogg",
+      "secretaryHeadpatUrl": "https://azurlane.koumakan.jp/w/images/7/73/Cheshire_HeadpatJP.ogg"
+    },
+    {
+      "ENClientName": "Summery Date!",
+      "CNClientName": "Dating Summer£°",
+      "JPClientName": "•«©`•∆•£•Û•∞•µ•ﬁ©`£°",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e0/CheshireSummerChibi.png",
+      "shipDescription": "Cheer up, Owner! Jeez, why are you so bummed out when we're at the beach... Because it's just a normal playdate instead of a romantic date? What's the difference anyway? C'mon, let's go head down to where the others are~!",
+      "acquisition": "Cheer up, Owner! Jeez, why are you so bummed out when we're at the beach... Because it's just a normal playdate instead of a romantic date? What's the difference anyway? C'mon, let's go head down to where the others are~!",
+      "login": "Are you feeling good, Owner? Yay, then it's time to start our seaside date!",
+      "details": "Don't think I didn't notice you earlier, Owner! You left to play with someone while I wasn't looking, didn't you? Not that I mind, really! But you could've at least let me known first!",
+      "secretaryIdle1": "There's only one reclining chair? So what~ We'll just share it, silly Owner~ I'm pawsitively fine with doing it that way?",
+      "secretaryIdle2": "I'm all thirsty! Time to chuggy-chug a nice, cool drink! ...Mmhh! I feel like a new person!",
+      "secretaryIdle3": "Fishing? Nuh-uh, I don't wanna. Time spent fishing could be time spent playing games with you, Owner!",
+      "secretaryTouch": "Need to lie down, Owner? Okey-dokey! Which headrest do you want: my thighs, or my soft tummy? Hehehe?"
+    },
+    {
+      "ENClientName": "Cait Sith Crooner",
+      "CNClientName": "“Ù¿÷—§¿√CaitSith",
+      "JPClientName": "“ÙòSΩk†Ä•±•√•»•∑©`",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/ce/CheshireSpringChibi.png"
+    }
+  ]
+}

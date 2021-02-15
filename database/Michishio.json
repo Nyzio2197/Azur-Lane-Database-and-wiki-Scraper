@@ -1,0 +1,24 @@
+{
+  "name": "Michishio",
+  "rarity": "Rare",
+  "ID": "333",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/01/MichishioChibi.png",
+      "shipDescription": "Third ship of Asashio class destroyers, Michishio.",
+      "selfIntroduction": "I'm the third ship of the Asashio-class, Michishio. I was part of the 8th and 24th Destroyer Squadrons, until finally I was assigned to the 4th Destroyer Squadron. That's when I joined the Battle of Leyte Gulf... Hmm, even though I'm pretty unlucky, I'm hoping everyone here will still be my friend!",
+      "acquisition": "Petaaals of the saaaakuuuraaa... Oh, hello, Commander. Nice to meet you. I'm Michishio. It's a pleasure.",
+      "login": "Oh, hello. Do we have everything we'll need today? Better make sure.",
+      "details": "Commander? If there's anything you want me to do, please let me know. I love helping out.",
+      "secretaryIdle1": "Laa laa laa ? It's another beautiful day today, Commander!",
+      "secretaryIdle2": "What should I make for the girls today... Any ideas, Commander?",
+      "secretaryIdle3": "It's great seeing all the happy faces here every day. I truly love it here?",
+      "secretaryTouch": "What's wrong, Commander? Are you tired? Thirsty? Hungry? Aaanything you need, I'll take care of it.",
+      "secretarySpecialTouch": "Aie! Commander... You're dirty..."
+    }
+  ]
+}

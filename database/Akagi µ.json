@@ -1,0 +1,32 @@
+{
+  "name": "Akagi ?",
+  "rarity": "Super Rare",
+  "ID": "419",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "With the magicks of the Sakura Empire, changing my form like this is a trifle... Hehehe, Commander? Does this Akagi please you?",
+      "selfIntroduction": "Sakura Empire Aircraft Carrier, Akagi, reporting in with a special equipment refit! Commander, things are a little different this time. I'm trying a little \"idol\" style for you. Won't you please be gentle with me? Hehehehe...",
+      "acquisition": "With the magicks of the Sakura Empire, changing my form like this is a trifle... Hehehe, Commander? Does this Akagi please you?",
+      "login": "Commander, I wonder what's on the schedule for today? Hehehe.",
+      "details": "I would do anything for you, my Commander. Yes, including this \"idol\" business... Hehehe.",
+      "secretaryIdle1": "I would like to know~ which girl you cheer for, Commander... I would really, REALLY like to know...",
+      "secretaryIdle2": "This \"idol\" business is a little different, but it's no matter. Whatever my Commander wishes of me, I can do...",
+      "secretaryIdle3": "Kaga, please cancel all of our lessons for the rest of the day. My time with my Commander is so precious, I refuse to waste a single second.",
+      "secretaryTouch": "Commander, what are you waiting for? I'm ready for you, anytime, anyplace.",
+      "secretarySpecialTouch": "Don't mind the stares of the spectators in the stands. Take me however you please, my Commander... Hehehe?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Akagi_%C2%B5_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/8/85/Akagi_%C2%B5_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Akagi_%C2%B5_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/c1/Akagi_%C2%B5_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/8/80/Akagi_%C2%B5_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/c/cb/Akagi_%C2%B5_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/49/Akagi_%C2%B5_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/67/Akagi_%C2%B5_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/45/Akagi_%C2%B5_Sec2JP.ogg"
+    }
+  ]
+}

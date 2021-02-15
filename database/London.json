@@ -1,0 +1,50 @@
+{
+  "name": "London",
+  "rarity": "Elite",
+  "ID": "119",
+  "faction": "Royal Navy",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png",
+      "shipDescription": "London-class heavy cruiser ¨C London, Hull Number 69!",
+      "selfIntroduction": "I am the lead ship of London class , London. I was a member of the First Cruising Fleet, and fought battles in North Atlantic and Pacific waters. Your Excellency, rest assured and leave the missions to me!",
+      "acquisition": "First ship of the London class, London. Member of the First Cruising Fleet, while also having took part in battles of North Atlantic and Pacific missions. If there's a mission, rest assured and let me handle it!",
+      "login": "Good day to you, your Excellency. I shall accompany you for today as well.",
+      "details": "What's the matter? Your Excellency, what are you looking at so seriously?",
+      "secretaryIdle1": "Your Excellency... have you seen Amethyst? I've been searching for her.",
+      "secretaryIdle2": "The Arctic was very cold. I still feel like i'm getting a cold from there...",
+      "secretaryIdle3": "My, this is a fine day. Erm, well... I thought it's a good time for a conversation...",
+      "secretaryTouch": "Bodily contact is... No, I don't mind. I'm just not used to it.",
+      "secretarySpecialTouch": "Pl... please don't do such an improper thing!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/95/London_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a1/London_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/0f/London_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a0/London_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/6/69/London_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a4/London_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/0/03/London_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/60/London_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/9/9c/London_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/64/LondonKaiChibi.png",
+      "shipDescription": "Um... Your Excellency, could you please stop staring at me like you don't recognise me? I didn't think that I'd get a new look for my retrofit, either... But, don't you think it's rather cute?",
+      "acquisition": "Um... Your Excellency, could you please stop staring at me like you don't recognise me? I didn't think that I'd get a new look for my retrofit, either... But, don't you think it's rather cute?",
+      "details": "I can always change back to my old outfit, but to be frank, I've always looked forward to being able to wear something like this. Your Excellency, would you like me to get changed?",
+      "secretaryIdle1": "I feel like my mood has been changing since I got my new outfit. Your Excellency, would you like to go for some dessert in a little bit?",
+      "secretaryIdle2": "Your Excellency, please do not forget the fact that I am still your secretary ship. Now, please focus and get back to your work!",
+      "secretaryIdle3": "Your Excellency, did you know that Sussex said that this outfit looks really pretty? You don't hear words of praise from her often, hehe~",
+      "secretaryTouch": "What am I going to do with you... Well then, Your Excellency, please rest for a while. I'll prepare the snacks.",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/3c/London_IntroSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/32/London_DetailsSkin9JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/d/d2/London_SecIdle1Skin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/20/London_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/6/6d/London_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/cf/London_Sec1Skin9JP.ogg"
+    }
+  ]
+}

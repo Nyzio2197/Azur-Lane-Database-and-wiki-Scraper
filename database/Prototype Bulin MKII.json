@@ -1,0 +1,33 @@
+{
+  "name": "Prototype Bulin MKII",
+  "rarity": "Super Rare",
+  "ID": "002",
+  "faction": "Universal",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/98/Prototype_Bulin_MKIIChibi.png",
+      "shipDescription": "Prototype Bulin MKII. Can be used to limit break all Super Rare ships.",
+      "selfIntroduction": "Hahaha! It's your lucky day now that you've met me! We can purin together from this day forward! What for? To make everyone stronger, obviously! How do you purin? Like this! Purin~! Purin~!",
+      "acquisition": "Purin~! The herald of good fortune has arrived! Are you ready? Raise your hands and follow me... Purin~ purin~!",
+      "login": "Righty tighty, Lefty loosey, Stay calm and Purin on!",
+      "details": "Staring at me all day won't turn you into an expert!",
+      "secretaryIdle1": "Purin~! It's so big in here! There's so much room to run around!",
+      "secretaryIdle2": "Oh right, it's not my job to just run around, is it? Purin~!",
+      "secretaryIdle3": "Purin~? I'm too loud? Hmph, who cares what you think!",
+      "secretaryTouch": "Purin~ You can't catch me!",
+      "secretarySpecialTouch": "Purin~ purin~! (Prototype Bulin MKII continues to spin faster)",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/71/Prototype_Bulin_MKII_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/13/Prototype_Bulin_MKII_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/c/c6/Prototype_Bulin_MKII_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/c/c2/Prototype_Bulin_MKII_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a5/Prototype_Bulin_MKII_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/3a/Prototype_Bulin_MKII_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/1/14/Prototype_Bulin_MKII_Sec2JP.ogg"
+    }
+  ]
+}

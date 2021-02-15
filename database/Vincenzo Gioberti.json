@@ -1,0 +1,25 @@
+{
+  "name": "Vincenzo Gioberti",
+  "rarity": "Elite",
+  "ID": "490",
+  "faction": "Sardegna Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9c/Vincenzo_GiobertiChibi.png",
+      "shipDescription": "Alfredo Oriani-class destroyer ¨C Vincenzo Gioberti.",
+      "selfIntroduction": "I'm Vincenzo Gioberti, the second Alfredo Oriani-class destroyer. I stood shoulder-to-shoulder with valiant cruisers in many battles across¨C Huh? That's not quite right? Okay, my completion was a bit behind, but I was second to be launched among my siblings, so I do qualify as a bona fide big sister!",
+      "acquisition": "I am Vincenzo Gioberti of Sardegna! ...Eh, my name's hard to remember? ...Hmm, how about just \"GB\" then? That's a bit easier, right?",
+      "login": "It's the start of a lively day! Keep at it, Commander! I-I'd better get ready for work too!",
+      "details": "Anything GB can help you with? I'm the oldest among my siblings and can do absolutely anything! Go on, let's hear it!",
+      "secretaryIdle1": "S-Simoom isn't around here, is she? Ahem! Not to imply I'm afraid of her, my question simply stems from a sincere desire for amity and courtliness.",
+      "secretaryIdle2": "Oh goodness! Seriously, could you not pull weird faces while I'm trying to work?",
+      "secretaryIdle3": "Commander, would you care for a delectable dessert? I personally recommend tiramisu!",
+      "secretaryTouch": "Huh? I've not done anything weird, have I?",
+      "secretarySpecialTouch": "Whuah?! You're a real creep, Commander...",
+      "secretaryHeadpat": "H-hey! I've grown out of headpats! They don't work on me, nuh-uh!"
+    }
+  ]
+}

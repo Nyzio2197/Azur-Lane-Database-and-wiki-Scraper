@@ -1,0 +1,33 @@
+{
+  "name": "Pensacola",
+  "rarity": "Normal",
+  "ID": "039",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/39/PensacolaChibi.png",
+      "shipDescription": "Pensacola-class Heavy Cruiser ¨C Pensacola, Hull Number CA-24!",
+      "selfIntroduction": "OKOK, self-introduction time, right? I'm Pensacola, I have a little sister named Salt Lake City¡­ Uh, what else do I even say when introducing myself? I helped out Hornet and Yorktown, but there's not much to say about that¡­ Oh well, anyway, let me handle everything and it'll be OK!",
+      "acquisition": "Are you the commander of this fleet? Why, I'd say you look pretty reliable! ¡­ OKOK, I'm Pensacola, from now on I'll follow your orders. Nice to meet you!",
+      "login": "Anything you need help with, Commander? I'm OK with helping you out any time!",
+      "details": "Maintenance? OK, tell me if you notice anything weird.",
+      "secretaryIdle1": "I've got the same nickname as Enterprise... Pretty cool, huh?",
+      "secretaryIdle2": "If you're tired, get some rest! Don't push yourself. If you ever want help, don't be shy to ask!",
+      "secretaryIdle3": "Though I may look like this, I've seen quite a few battles. Wanna hear about them? OK, then let's start from the beginning...",
+      "secretaryTouch": "I'm always OK with heading out on a sortie~",
+      "secretarySpecialTouch": "H-hey, that's not at all what this gesture means!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/9d/Pensacola_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/3b/Pensacola_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/9/99/Pensacola_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/2e/Pensacola_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/33/Pensacola_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/f/f3/Pensacola_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/3/33/Pensacola_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/f/ff/Pensacola_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7a/Pensacola_Sec2JP.ogg"
+    }
+  ]
+}

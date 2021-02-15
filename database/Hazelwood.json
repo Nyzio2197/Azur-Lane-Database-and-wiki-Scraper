@@ -1,0 +1,33 @@
+{
+  "name": "Hazelwood",
+  "rarity": "Rare",
+  "ID": "365",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3e/HazelwoodChibi.png",
+      "shipDescription": "Fletcher-class destroyer ¨C Hazelwood, Hull Number DD-531.",
+      "selfIntroduction": "I have a lot of experience on the battlefield, so I guess I'm a bit of a veteran! Oh right, I also served as a \"reserve aviation command ship\" for a while! What's that, you ask? Well, that'd be a ship that helps carriers guide their planes! Something like that~",
+      "acquisition": "Gotcha! Hehe, I'm Hazelwood, from the Fletcher class! Pleased to meet you!",
+      "login": "Right on time~! I just finished warming up~ Let's get going!",
+      "details": "Phew! That feels great! The warm sunshine feels amazing today!",
+      "secretaryIdle1": "These sunburns are battle scars from my active lifestyle!",
+      "secretaryIdle2": "Hey Bush, stop loafing around and come jog with me!",
+      "secretaryIdle3": "If only we could host a port-wide sports meet... I know I'd be the fastest one out of all my sisters!",
+      "secretaryTouch": "How about it? I've got a super healthy tan, right? Commander, show me ours~",
+      "secretarySpecialTouch": "Eek! Don't go peeking under there!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/8/85/Hazelwood_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/2/28/Hazelwood_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/e1/Hazelwood_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/6/68/Hazelwood_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/a/a8/Hazelwood_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a1/Hazelwood_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/92/Hazelwood_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/2e/Hazelwood_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b8/Hazelwood_Sec2JP.ogg"
+    }
+  ]
+}

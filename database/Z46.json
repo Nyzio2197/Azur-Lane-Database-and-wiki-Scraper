@@ -1,0 +1,81 @@
+{
+  "name": "Z46",
+  "rarity": "Super Rare",
+  "ID": "267",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png",
+      "shipDescription": "Type 1936C destroyer, Z46",
+      "selfIntroduction": "Iron Blood Z-class destroyer, 1936-C Type. Four other sister ships were planned for construction, but only Z47 and I were built. I wasn’t even completed by the end of the war, and was scrapped without ever being finished. One day, I hope to be called not as Z46, but by a true name.",
+      "acquisition": "Are you the one who summoned me? I am... unfortunately, still without a name. You may call me Z46 for now though.",
+      "login": "This world is so different that from what I was expecting. How interesting!",
+      "details": "Z46 is but a codename, not my actual name. For a ship, something like a name should be unimportant, but...",
+      "secretaryIdle1": "I have experienced neither failure nor suffering. Consequently, I have accomplished nothing.",
+      "secretaryIdle2": "A name is not merely a label. It is also proof that one exists in this world.",
+      "secretaryIdle3": "The things I have yet to experience and understand are as numerous as the countless stars in the night sky.",
+      "secretaryTouch": "Being able to be touched is proof of one’s existence.",
+      "secretarySpecialTouch": "If your desire is righteous, then why do your hands tremble?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/f/fd/Z46_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/7/7e/Z46_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/6/6d/Z46_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/85/Z46_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/1/1b/Z46_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/4c/Z46_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/3/3e/Z46_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/33/Z46_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/f/fc/Z46_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Her First Summer",
+      "CNClientName": "夏之初体验",
+      "JPClientName": "ファーストサマー",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/36/Z46SummerChibi.png",
+      "shipDescription": "The bustling beach, clamoring with waves of joyfulness... experiencing this kind of summer is a first for me, but I don't dislike it..."
+    },
+    {
+      "ENClientName": "Girls' Relay",
+      "CNClientName": "少女的借物竞赛",
+      "JPClientName": "スカベンジハントレス",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/87/Z46SportChibi.png",
+      "shipDescription": "Through the sweat and tears, striving for your goals. Rejoice in victory, sink within defeat... How fascinating, this \"sports meet\" may be.",
+      "acquisition": "Through the sweat and tears, striving for your goals. Rejoice in victory, sink within defeat... How fascinating, this \"sports meet\" may be.",
+      "details": "I wish to run as fast as a leopard, and fly to great heights like a soaring bird.",
+      "secretaryIdle1": "To compete with others and prove your worth, through different means than fighting battles... To be crowned \"champion,\" 'tis a great feeling.",
+      "secretaryIdle2": "Even in this little academy, there are so many things to do and see...",
+      "secretaryIdle3": "Whether your sweat is falling on the track, or your words are encouraging others, all of this is an unforgettable experience.",
+      "secretaryTouch": "Just a small piece of paper... can create such a profound tie between people... this \"scavenger hunt\" is more interesting than I thought.",
+      "secretarySpecialTouch": "Where are your fingers... Is there really anything worth exploring right there?",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/3c/Z46_IntroSkin2JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Z46_DetailsSkin2JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/4/44/Z46_SecIdle1Skin2JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/db/Z46_SecIdle2Skin2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/6/67/Z46_SecIdle3Skin2JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/13/Z46_Sec1Skin2JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/43/Z46_Sec2Skin2JP.ogg"
+    },
+    {
+      "ENClientName": "Star-Lit★Chocolate",
+      "CNClientName": "未知的闪亮舞台",
+      "JPClientName": "Schokolade★Schicksal",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/bc/Z46IdolChibi.png",
+      "shipDescription": "Dancing beams of light, shimmering on-stage; uplifted voices, joined as one by song... Upon this unknown stage, my heart doth flutter... Yet this sensation, is quite refreshing.",
+      "acquisition": "Dancing beams of light, shimmering on-stage; uplifted voices, joined as one by song... Upon this unknown stage, my heart doth flutter... Yet this sensation, is quite refreshing.",
+      "login": "As long as your eyes are fixed upon me; Upon this stage I shall sing bravely.",
+      "details": "Countless days and nights of hard work congeal into a single flash of brilliance onstage. Like a shooting star, leaving only a fleeting trail of light—",
+      "secretaryIdle1": "The star-lit stage is another world of its own, an ajar door to the unknown that now beckons me...",
+      "secretaryIdle2": "My dear friend, there is no reason to worry about me. All of this was made possible by Z23, Z35, Graf Spee, Admiral Hipper... We are all connected by the bonds of the Iron Blood.",
+      "secretaryIdle3": "Take heed of where the other performers and your audience are looking? ...I see. I understand why such a thing is important, but can you explain to me why it is called the \"Evil Eye?\"",
+      "secretaryTouch": "My singing voice... is proof of my existence."
+    },
+    {
+      "ENClientName": "Jianzhi Fantasia",
+      "CNClientName": "剪纸幻梦",
+      "JPClientName": "切り絵のファンタジア",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b3/Z46SpringChibi.png"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Perseus",
+  "rarity": "Super Rare",
+  "ID": "462",
+  "faction": "Royal Navy",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/47/PerseusChibi.png",
+      "shipDescription": "Colossus-class light aircraft carrier – Perseus (HMS Perseus.)",
+      "selfIntroduction": "I'm Perseus, the Colossus-class light aircraft carrier. Sadly, I didn't enter service until the war had ended. Don't have much in the way of a reputation or experience as a result. Still, I'll try to do a good job. All right, is that good enough? *sigh*...",
+      "acquisition": "I'm Perseus, from the Royal Navy. You can pronounce it \"Per-see-us\" if you want though... Well, whatever. Are we done here? Great. Nice meeting you.",
+      "login": "There's some saying that goes, \"the early bird catches the worm.\" ...If that's true, I guess you'd starve, Commander.",
+      "details": "The big mirror in my room? What about it? If I told you, \"I just like mirrors,\" would that satisfy your curiosity?",
+      "secretaryIdle1": "If you need my help with something, just say it. You do need to try and accomplish it on your own first, though.",
+      "secretaryIdle2": "Work is like food, in a way; leave it sitting for too long and it goes bad. Just so you know.",
+      "secretaryIdle3": "I heard Yuubari and Akashi get up to fun experiments in the lab. I kind of wanna see one. Kind of.",
+      "secretaryTouch": "Maybe try finishing your work before you \"chat me up\" or \"interview me\" or however you wanna sugarcoat it?",
+      "secretarySpecialTouch": "You must really want a seat at the naval jailhouse dinner table, huh?",
+      "secretaryHeadpat": "...Yeah?"
+    },
+    {
+      "ENClientName": "Unfamiliar Duties",
+      "CNClientName": "生疏的执勤时间",
+      "JPClientName": "ナーセリー勤務タイム",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/61/PerseusHospitalChibi.png",
+      "shipDescription": "I'm Perseus, I will be your nurse today. Use this button to call for me if you need anything... Yes? Did you need something?",
+      "acquisition": "I'm Perseus, I will be your nurse today. Use this button to call for me if you need anything... Yes? Did you need something?",
+      "login": "Honestly, I have no idea what sort of face to put on when pretending to be a nurse.",
+      "details": "I'm still learning, but I know how to give injections and stop a haemorrhage in theory. Can I practice my knowledge on you, Commander?",
+      "secretaryIdle1": "It's noble to help those in need, but don't go overboard with it. What I'm trying to say is: unless you NEED my help, just make do on your own, Commander.",
+      "secretaryIdle2": "Now to practice turning a gravely injured person over... You, I'm gonna need you to lie on your back.",
+      "secretaryIdle3": "Nice new med tech. Commander, I want you to be my guinea pig– Excuse me, I mean, experiment assistant.",
+      "secretaryTouch": "You have a healthy look in your eyes, Commander.",
+      "secretarySpecialTouch": "You belong in the bed of a jail cell, not of a hospital."
+    }
+  ]
+}

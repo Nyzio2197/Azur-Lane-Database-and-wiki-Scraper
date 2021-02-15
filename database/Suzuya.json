@@ -1,0 +1,33 @@
+{
+  "name": "Suzuya",
+  "rarity": "Elite",
+  "ID": "382",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2d/SuzuyaChibi.png",
+      "shipDescription": "Mogami-class heavy cruiser number three ¨C Suzuya.",
+      "selfIntroduction": "I am Suzuya, third ship of the Mogami class. During that war, I fought alongside Mogami as a member of CruDiv 7. My last battle left me with a bit of regret... but I've been given a new beginning on this battlefield, and I'll fight alongside my new companions with a fresh outlook. I look forward to working with you.",
+      "acquisition": "I am Suzuya, Mogami-class heavy cruiser. I place myself under your command from this day forward.",
+      "login": "Welcome back, Commander. Which job should we take on first?",
+      "details": "Commander? Oh, I'm just preparing for the next lecture at the auditorium. Please don't worry about me, and continue your work as normal.",
+      "secretaryIdle1": "Commander is looking at... N-nothing, don't worry about it!",
+      "secretaryIdle2": "Kumano, please don't make trouble for Mogami, all right? She's going to get a stomachache again...",
+      "secretaryIdle3": "We're sometimes called the Suzuya class, but I still prefer being called the Mogami class. We all fought together during that war after all..",
+      "secretaryTouch": "Commander... where do you think you're looking? Don't think I wouldn't notice... I could feel your gaze boring into me... Am I right?",
+      "secretarySpecialTouch": "Nnh... So this is what you were after from the very beginning... I knew it all along. I've always known, this entire time... Ehehehe~?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/0/0b/Suzuya_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/6a/Suzuya_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/9/93/Suzuya_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/9/9c/Suzuya_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b2/Suzuya_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/41/Suzuya_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/1d/Suzuya_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b7/Suzuya_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7b/Suzuya_Sec2JP.ogg"
+    }
+  ]
+}

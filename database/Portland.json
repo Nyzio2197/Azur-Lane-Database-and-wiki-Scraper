@@ -1,0 +1,62 @@
+{
+  "name": "Portland",
+  "rarity": "Rare",
+  "ID": "044",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/73/PortlandChibi.png",
+      "shipDescription": "Portland-class Heavy Cruiser – Portland, Hull Number CA-33!",
+      "selfIntroduction": "I'm Portland, Indy's big sister~! Do it again, properly this time? Aww... If only they'd have called us the Indianapolis-class, rather than the Portland-class... I have 16 battle stars and I've participated in a few big operations too, but who cares about me? Why don't we just talk about my little sister instead?",
+      "acquisition": "Nice to meet you, Commander. I'm Portland, Indy's big sister. I've participated in the battles of the Coral Sea, Midway, Guadalcanal and Santa Cruz Islands. Hm? Who's Indy? Why, it's a nickname for my dear little sister, Indianapolis!",
+      "login": "Hey, Commander, please hear me out! My little sister is super cute!",
+      "details": "Hey, Commander, please hear me out! My little sister is super duper cute!",
+      "secretaryIdle1": "Come on, Commander, let's head out already. Indy doesn't like people who slack around!",
+      "secretaryIdle2": "My little sister is just so lovely~",
+      "secretaryIdle3": "Would you like to see my special Indy mags?",
+      "secretaryTouch": "Commander, Commander, please hear me out! Indy's like, sooo soft! Want to touch her together with me?",
+      "secretarySpecialTouch": "Whoa! ... Not even Indy has touched me like that before!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/73/Portland_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/0/0f/Portland_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/5/53/Portland_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/5/58/Portland_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/d/d2/Portland_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/9/9a/Portland_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d7/Portland_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c4/Portland_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/d/de/Portland_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/44/PortlandKaiChibi.png",
+      "shipDescription": "Nice to meet you, I'm Indianaportland! ... Hm? Who's Indy? She's my precious little sister, and my most beloved...",
+      "acquisition": "Nice to meet you, I'm Indianaportland! ... Hm? Who's Indy? She's my precious little sister, and my most beloved...",
+      "details": "Commander, did you know? Indy is thiiiiiiis cute!",
+      "secretaryIdle1": "Commander, you're not getting away anymore! Come here, I'm gonna tell you all about my special Indy mags! Today's the day that I'll fully drill Indy's appeal into your head!",
+      "secretaryIdle2": "I didn't miss any major battles, you say? Well... if I'd have missed any of Indy's cute moments then I'd regret it so much I'd want to cry!",
+      "secretaryIdle3": "...! *Gasp* My Indy Cuteness Sensor is going off! Commander, you'll have to excuse me for a bit!",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/df/Portland_IntroSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/3c/Portland_DetailsSkin9JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/8/82/Portland_SecIdle1Skin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/1/10/Portland_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/5b/Portland_SecIdle3Skin9JP.ogg"
+    },
+    {
+      "ENClientName": "At School With Indy!",
+      "CNClientName": "与印第一起的校园生活",
+      "JPClientName": "学園でインディちゃんと！",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/dd/PortlandSchoolChibi.png",
+      "shipDescription": "Commander, look, look! This is my handmade Indy plushie! Isn't it utterly adorable?! It's the magnum opus of my work in the Arts & Crafts Club!",
+      "acquisition": "Commander, look, look! This is my handmade Indy plushie! Isn't it utterly adorable?! It's the magnum opus of my work in the Arts & Crafts Club!",
+      "login": "Oh, Commander, have you seen Indy? I want to dress her in some super adorable clothes I made~ Guhehehe~",
+      "secretaryIdle1": "Commander, why don't we go for lunch? Of course, my dear Indy will be there too!",
+      "secretaryIdle2": "Whether on the way to school, in class, or heading home, I'm always with Indy... School life is the best thing EVER!",
+      "secretaryIdle3": "I bet you'd make a good teacher, Commander... So, please, take pictures of Indy from every angle during class! Later, I'll trade you for regular pictures of her!",
+      "secretaryTouch": "You think Indy's suuuuper cute too, right? She really is! If you want, I'll let you cuddle with my Indy plushie just a bit!",
+      "secretarySpecialTouch": "Eek?! Be careful, Commander! I nearly pricked myself with my needle!"
+    }
+  ]
+}

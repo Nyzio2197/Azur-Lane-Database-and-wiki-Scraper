@@ -1,0 +1,42 @@
+{
+  "name": "La Galissonni¨¨re",
+  "rarity": "Elite",
+  "ID": "456",
+  "faction": "Vichya Dominion",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "La Galissonni¨¨re-class light cruiser ¨C La Galissonni¨¨re.",
+      "selfIntroduction": "I was assigned to Vichya's \"High Seas Force\" back during the war, I think? Don't think I ever set sail though, due to fuel shortages... Y'know what? You're probably gonna get a quicker rundown if you just ask Dunkerque.",
+      "acquisition": "Vichya, Sardegna, Iron Blood... and now this place? Ah well, doesn't matter to me 'long as I get to have a good time. Anyway, I'm La Galissonni¨¨re from the Vichya Dominion. Nice meetin' you!",
+      "login": "Finally! You're back! I thought I was gonna rust up from boredom while you were gone. Gimme a task, any task, and I'll do it.",
+      "details": "You lookin' to have some fun? You mean with me, or my weapon?",
+      "secretaryIdle1": "Just sitting in the office, boooored out of my mind while the Commander goes ham on a ton of paperwork. *siiigh*...",
+      "secretaryIdle2": "If the goal's to beat the enemy, then what's wrong with me bashing them with my rigging? I swear, you fuss over the strangest stuff, Commander.",
+      "secretaryIdle3": "Can't say I'm keen on planning stuff... It's like, you make a plan, but it always changes, y'know?",
+      "secretaryTouch": "Touch me all you want! As long as you don't mind getting hurt.",
+      "secretarySpecialTouch": "Listen, unlike a certain someone from the Templar Knights, \"dirty work\" is my specialty... Wanna know more?"
+    },
+    {
+      "ENClientName": "Pristine Piscene",
+      "CNClientName": "ÎÞ¹¸µÄPiscine",
+      "JPClientName": "Ÿo¹¸¤Ê¤ëPiscine",
+      "shipDescription": "Summertime means pool time! Oh, hey, Commander. What are you waiting for? Come over and let's have fun!",
+      "acquisition": "Summertime means pool time! Oh, hey, Commander. What are you waiting for? Come over and let's have fun!",
+      "login": "I'm not gonna swim all day, so I'll just skip the warm-ups. Should be no biggie!",
+      "details": "I'll throw the swim ring at you if you get close to drowning. Relax, knowin' you, I'm sure you'll catch it!",
+      "secretaryIdle1": "We don't really NEED to swim just 'cause we've got a pool, do we? Nothing wrong with just dipping our toes, you know.",
+      "secretaryIdle2": "Over here, Commander! Ka-splash! Ahahahah! Feelin' refreshed now?",
+      "secretaryIdle3": "Hmm... Feels a little weird, not having my hands full with something...",
+      "secretaryTouch": "Whoa there, trying to startle me? Sadly for you, I saw that coming from miles away~",
+      "secretarySpecialTouch": "Ahahah. So you wanna practice holding your breath, is that it, Commander?"
+    },
+    {
+      "ENClientName": "Lush Spring Dreams",
+      "CNClientName": "´ºÏþ×íÃÎ",
+      "JPClientName": "¤Û¤í¤è¤¤´ºÊï¤Î‰ô"
+    }
+  ]
+}

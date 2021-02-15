@@ -1,0 +1,52 @@
+{
+  "name": "Craven",
+  "rarity": "Normal",
+  "ID": "008",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b8/CravenChibi.png",
+      "shipDescription": "Gridley-class destroyer - Craven, Hull Number DD-382!",
+      "selfIntroduction": "I'm Craven, second ship of the Gridley-class, at your command. As a high speed torpedo destroyer, I was active in the Pacific theater with my little sisters, mainly tasked with night battle support.",
+      "acquisition": "Second ship of the Gridley-class, Craven, reporting in. Leave the halftime cheering to me!",
+      "login": "Leave today's halftime cheering to me, Commander!",
+      "details": "Ahh~ Commander! D-don't get so close all of a sudden!",
+      "secretaryIdle1": "Even if it's time to rest, we've got to keep fighting and dancing. Never give up!",
+      "secretaryIdle2": "Northampton thinks she can take me down? Hmph!",
+      "secretaryIdle3": "Fight~ Come on~ Eagle Union~ ☆!",
+      "secretaryTouch": "Commander, I can feel your encouragement. I'll work even harder!",
+      "secretarySpecialTouch": "E-even if you're just trying to encourage me, there's... there's this thing called being too passionate!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/b/ba/Craven_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/e/e8/Craven_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/7/7d/Craven_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/7c/Craven_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/c/c4/Craven_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/5c/Craven_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d1/Craven_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1f/Craven_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/79/Craven_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Cheerleader On The Playground",
+      "CNClientName": "操场边的拉拉队长",
+      "JPClientName": "場外のチアリーダー",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6f/CravenSchoolChibi.png",
+      "shipDescription": "I much rather cheer for my Commander than go to class...but no matter where I go, I will definitely give it my all! Commander, wait for me to come back as the top student of this school year.",
+      "acquisition": "I much rather cheer for my Commander than go to class...but no matter where I go, I will definitely give it my all! Commander, wait for me to come back as the top student of this school year.",
+      "secretaryIdle1": "When you are overwhelmed by all this learning, go for a jog to relax yourself!",
+      "secretaryIdle2": "If you're struggling with the material, then find a tutor. If that doesn't work, get special training...nothing can’t be solved through special training!",
+      "secretaryIdle3": "The Commander has always been the best in my heart, so I have to be in his heart, too!",
+      "secretaryTouch": "These courses are too hard...Commander, can you tutor me?",
+      "secretarySpecialTouch": "I'm on fire!",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/13/Craven_IntroSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/0c/Craven_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/46/Craven_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/f/f7/Craven_SecIdle3Skin1JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/ce/Craven_Sec1Skin1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Craven_Sec2Skin1JP.ogg"
+    }
+  ]
+}

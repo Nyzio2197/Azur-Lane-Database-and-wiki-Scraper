@@ -1,0 +1,33 @@
+{
+  "name": "Blanc",
+  "rarity": "Elite",
+  "ID": "Collab003",
+  "faction": "Neptunia",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0f/BlancChibi.png",
+      "shipDescription": "I'm Blanc. Nice to meet you. Maybe you could introduce some intriguing books from this world to me...",
+      "selfIntroduction": "I'm Blanc, the CPU of Lowee. I guess my hobbies are to read and write novels. I'm currently working on a new one.",
+      "acquisition": "I'm Blanc. Nice to meet you. Maybe you could introduce some intriguing books from your world to me...",
+      "login": "Welcome back. Not much happened while you were gone.",
+      "details": "Would you like to read a book too?",
+      "secretaryIdle1": "I could recommend you a book I like. Hm? There's no need for that? I see... That's a shame.",
+      "secretaryIdle2": "It's really windy today... Let's hurry up then, before it dies down...",
+      "secretaryIdle3": "Perhaps I should write about this world and make a book about it when I return to Lowee.",
+      "secretaryTouch": "Hahah... I'm pretty ticklish there...",
+      "secretarySpecialTouch": "What were you hoping for?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Blanc_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/7/73/Blanc_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/6/69/Blanc_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/4/4c/Blanc_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/e/e6/Blanc_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/74/Blanc_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/4a/Blanc_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c5/Blanc_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ea/Blanc_Sec2JP.ogg"
+    }
+  ]
+}

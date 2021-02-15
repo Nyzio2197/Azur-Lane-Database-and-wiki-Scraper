@@ -1,0 +1,33 @@
+{
+  "name": "Lena",
+  "rarity": "Elite",
+  "ID": "390",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/45/LenaChibi.png",
+      "shipDescription": "Brooklyn-class light cruiser ¨C Helena (CL-50)",
+      "selfIntroduction": "I'm the Brooklyn-class light cruiser, Helena. I'm good at anti-air, and I like dressing up. Even though I seem to have come to a weird place, my big sis, St. Louis, taught me that a proper lady must remain calm at all times. You don't seem to be a shady person, so I guess I'll be your care.",
+      "acquisition": "How should I do my hair today~? Huh? Wh-who are you? Why are you in my room? Huh? This isn't my room...? Eh? Ehhhh...?!",
+      "login": "C-Commander... I haven't decided on how to do my hair yet, so please don't come barging in...",
+      "details": "My dream is to one day be as pretty as my sis, St. Louis!",
+      "secretaryIdle1": "Big sis is just like a model, always changing into all kinds of clothes... B-but, if everyone thinks her clothes are cute, it's probably not too bad...",
+      "secretaryIdle2": "Huh? Who's that blonde-haired boy always surrounded by everyone? Um, I... I'm not particularly interested or anything...",
+      "secretaryIdle3": "Commander, do I look cute today?",
+      "secretaryTouch": "Commander, um... look, a bunny~",
+      "secretarySpecialTouch": "Commander, all the girls will hate you if you do stuff like this!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/a/a7/Lena_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/65/Lena_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/bb/Lena_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/d/d1/Lena_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/2c/Lena_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/0/02/Lena_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/9c/Lena_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/e/e9/Lena_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b5/Lena_Sec2JP.ogg"
+    }
+  ]
+}

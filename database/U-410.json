@@ -1,0 +1,39 @@
+{
+  "name": "U-410",
+  "rarity": "Elite",
+  "ID": "492",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d0/U-410Chibi.png",
+      "shipDescription": "Iron Blood Type VIIC submarine ®C U-410.",
+      "selfIntroduction": "For an Iron Blood \"wolf,\" I don't have much to boast about. I went on a few patrols and the odd rescue mission, but that's about it... I just wish my career would've ended out at sea instead of docked at port.",
+      "acquisition": "Formally, I'm the Type VIIC submarine U-410. But you, Commander, can call me whatever resonates with your heart. You heard that right: just let your heart decide. Hehehe~",
+      "login": "Oh, you're back. Ready to start chipping away at this mountain of paperwork?",
+      "details": "I think it's good for a submarine to act a bit more mysterious. Wouldn't you agree, Commander?",
+      "secretaryIdle1": "Sauerkraut juice is a great pick-me-up. Give it a try and see for yourself.",
+      "secretaryIdle2": "Penelope? Oh right, she works here too. Take good care of her, you hear?",
+      "secretaryIdle3": "You can't figure out what that report says? Let me see... What, I'm too close to you? Hmm... Well, my bad~",
+      "secretaryTouch": "Just give me the signal when you wanna slack off. Hehehe~",
+      "secretarySpecialTouch": "Are you saying you find my body \"too good to pass up?\""
+    },
+    {
+      "ENClientName": "Spring Festival Scheme",
+      "CNClientName": "∫Æ√∑”≥¥∫",
+      "JPClientName": "¥∫πù§Œ°∏ ÀíÏ§±°π",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fb/U-410SpringChibi.png",
+      "shipDescription": "Happy Lunar New Year. Have you cooked up a scheme for this year's festival? Hehehe~ I'm of course talking about giving out New Year's gifts and hanging up decorations. I've devised a master plan of my own.",
+      "acquisition": "Happy Lunar New Year. Have you cooked up a scheme for this year's festival? Hehehe~ I'm of course talking about giving out New Year's gifts and hanging up decorations. I've devised a master plan of my own.",
+      "login": "While there's no huge stack of paperwork awaiting you, there's no shortage of other things we need to do.",
+      "details": "Can't think of a good present? Hmm. Might I suggest a handwritten letter? I think that gets your feelings across pretty well.",
+      "secretaryIdle1": "We were playing hide-and-seek earlier, and get this: U-81 hid herself inside a snowman. That girl is on a completely different level.",
+      "secretaryIdle2": "I wonder what Penelope's up to... I might just go and check.",
+      "secretaryIdle3": "It's really hard to hang these up on my own. Would you let me ride your shoulders, Commander?",
+      "secretaryTouch": "Is this your idea of a New Year's gift?",
+      "secretarySpecialTouch": "Whoa there. A little too excited from all the festivities, aren't we?"
+    }
+  ]
+}

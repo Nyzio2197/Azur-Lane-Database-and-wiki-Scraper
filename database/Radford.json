@@ -1,0 +1,40 @@
+{
+  "name": "Radford",
+  "rarity": "Rare",
+  "ID": "299",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/06/RadfordChibi.png",
+      "shipDescription": "Fletcher-class Destroyer - Radford, Hull Number DD-446!",
+      "selfIntroduction": "I'm Radford, DD-446, part of the Fletcher-class! Hmm... and... even though I didn't do that well in the Kula Gulf and Kolombangara, I tried my best! Anyways, the only thing that matters at the end of the day is candy!",
+      "acquisition": "I'm Radford, a Fletcher-class destroyer. Want a lollipop, Commander?",
+      "login": "If my hunch is right, Commander's candy should be... Huh? Hey! There's nothing here!",
+      "details": "Commander, do you appreciate something sweet every now and then? Here, take whatever you like.",
+      "secretaryIdle1": "You really can't take the Sakura Empire's destroyer squadrons lightly!",
+      "secretaryIdle2": "If only everyone had lifetime supplies of candy, there wouldn't ever be another war!",
+      "secretaryIdle3": "Commander, why don't we fire candy at the enemy instead of explosives?",
+      "secretaryTouch": "(Munches)... Hmm, what's up?",
+      "secretarySpecialTouch": "Hmpf! If you keep this up then I won't let you come to my room and eat candy anymore!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/5/54/Radford_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/d1/Radford_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/9/99/Radford_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/7f/Radford_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/f/f7/Radford_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/81/Radford_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/f/f5/Radford_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/3e/Radford_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/5/51/Radford_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Sweet Magic!",
+      "CNClientName": "Candy Magic£¡",
+      "JPClientName": "¥­¥ã¥ó¥Ç¥£¥Þ¥¸¥Ã¥¯£¡",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/07/RadfordHalloweenChibi.png",
+      "shipDescription": "Commander, the sweet magic within my tome lets me turn things into candy! Hehe, that sounds pretty convincing¡ª ...Eh, Commander? Wh-when'd you get here?!"
+    }
+  ]
+}

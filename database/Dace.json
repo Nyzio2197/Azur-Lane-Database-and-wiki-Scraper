@@ -1,0 +1,33 @@
+{
+  "name": "Dace",
+  "rarity": "Elite",
+  "ID": "342",
+  "faction": "Eagle Union",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0f/DaceChibi.png",
+      "shipDescription": "Gato-class submarine - Dace (SS-247)",
+      "selfIntroduction": "The name's Dace! My three favorite things are torpedoes, torpedo launchers, and uh, more torpedoes! My class? Oh right, I'm a Gato-class... If I remember properly, one of my achievements included taking out that Maya fellow... wonder if she's around.",
+      "acquisition": "Hi~ are you my new commander? I'm Dace from the Eagle Union, reporting for duty. I believe in shooting torpedoes first, and asking questions later~",
+      "login": "Ah, Commander, good timing! Mind helping me pick up those torpedoes next to your feet~?",
+      "details": "The gleam of the metal, the coolness to the touch, the distinctive splash, and of course, the explosion... Ahh, Commander, torpedoes are simply the best!",
+      "secretaryIdle1": "\"Dace's Torpedo Circus.\" It's always been a dream of mine to make that happen one day!",
+      "secretaryIdle2": "Commander, I'm going to give you a crash course on torpedoes! Trust me, you'll be fascinated!",
+      "secretaryIdle3": "Commander, wanna have some torpedo chocolate or torpedo bread? Here, have some, I made 'em myself!",
+      "secretaryTouch": "Commander, have you ever seen a dozen torpedoes go off at once? Don't you think it'd make for an awesome light show?",
+      "secretarySpecialTouch": "Torpedo volley! Locked on to Commander~!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/a/ac/Dace_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/16/Dace_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/33/Dace_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Dace_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/4/41/Dace_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/6/68/Dace_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d1/Dace_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4d/Dace_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c8/Dace_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Matchless",
+  "rarity": "Elite",
+  "ID": "325",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/90/MatchlessChibi.png",
+      "shipDescription": "M-class destroyer – Matchless (G52.)",
+      "selfIntroduction": "I'm Matchless, a Royal Navy M-class destroyer! After my escort missions in the Arctic, I was in the Battle of the North Cape, and then I helped escort Queen Mary! My name makes me sound powerful, but in reality, I'm totally helpless!",
+      "acquisition": "We meet at last, Commander! I am Matchless, an M-class Destroyer! Ah, although my name is \"Matchless,\" I'm actually very weak. Ehe~ Commander, will you protect me?",
+      "login": "You look sad, Commander... Let's try this... Hehe~ Feel better?",
+      "details": "Everyone has someone they want to protect... So don't protect just me, okay, Commander?",
+      "secretaryIdle1": "You know flattery won't get you anywhere with me, right?",
+      "secretaryIdle2": "Oh dear, it's getting cold again... Commander, can you lend me your coat when we leave port?",
+      "secretaryIdle3": "I hope I can just stay as your secretary forever... Hm? What? I didn't say anything!",
+      "secretaryTouch": "Can I just stay with you forever, Commander?",
+      "secretarySpecialTouch": "Because of that... I'm subtracting a few points off your record~!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/b/b0/Matchless_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/b6/Matchless_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/a/a4/Matchless_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/34/Matchless_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/2d/Matchless_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/8b/Matchless_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/b/bd/Matchless_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/93/Matchless_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/66/Matchless_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Escort Me Please!",
+      "CNClientName": "护花使者？",
+      "JPClientName": "エスコートしてくださーい！",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d5/MatchlessCasualChibi.png",
+      "shipDescription": "Ah, Commander, over here! Hm, you're going to take care of all the plans for today's date? In that case, I look forward to seeing just how suave you can be! Hehe~"
+    }
+  ]
+}

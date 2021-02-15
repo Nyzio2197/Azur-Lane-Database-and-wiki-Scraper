@@ -1,0 +1,62 @@
+{
+  "name": "Surcouf",
+  "rarity": "Elite",
+  "ID": "350",
+  "faction": "Iris Libre",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e8/SurcoufChibi.png",
+      "shipDescription": "Cruiser submarine ®C Surcouf.",
+      "selfIntroduction": "Submarine Surcouf of Iris Libre, that's who I am. \"Cruiser submarine\"? Ah, are you talking about my gorgeous body which matches that of a cruiser~? Well, my firepower matches that of a cruiser, too! I bump into people quite a lot, but don't worry about that. Hahaha?",
+      "acquisition": "Salut~! I am Surcouf! \"What's a ship with the physique of a cruiser doing with submarine equipment\"? Hey! You've got it all wrong! My looks may be deceiving, but I'm a fully qualified submarine! Anyhoo, it's nice meeting you~",
+      "login": "Salut~ Good morning, Commander~",
+      "details": "Commander, why don't we design a flag for the fleet? Let's make it look like the Iris Libre flag~",
+      "secretaryIdle1": "You appointed me as your secretary because you were so enamored with my gorgeous body, weren't you? Spot on, aren't I~? Don't be so shy, I won't get upset with you~?",
+      "secretaryIdle2": "You sure are hard at work, Commander... I'll join you and help out! Although what am I supposed to help with...",
+      "secretaryIdle3": "Commander, have you seen my darling Passepartout? Ah, that's what I call my floatplane. He's my BFF~",
+      "secretaryTouch": "Eat a lot, sleep a lot, fight a lot! And everything else is your responsibility? I think I can dig this way of life~",
+      "secretarySpecialTouch": "Commander, if you wanna fondle 'em, just say so first~",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/1/1b/Surcouf_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/d8/Surcouf_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/80/Surcouf_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/38/Surcouf_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/4/49/Surcouf_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/e3/Surcouf_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/e6/Surcouf_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c9/Surcouf_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4b/Surcouf_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Shopping Time!",
+      "CNClientName": "π∫ŒÔ ±π‚£°",
+      "JPClientName": "•∑•Á•√•‘•Û•∞•«•§•∫",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/41/SurcoufCasualChibi.png",
+      "shipDescription": "Hmm? Commander, are you shopping as well? If so, why don't you come along and take a look around? ... Huh? Of course you can't climb on. That'd be illegal.",
+      "acquisition": "Hmm? Commander, are you shopping as well? If so, why don't you come along and take a look around? ... Huh? Of course you can't climb on. That'd be illegal.",
+      "login": "Commander, are you ready? Then we're off to the next stop~",
+      "details": "This scooter really is fantastic! A good buy for a good price~ Lucky me?",
+      "secretaryIdle1": "Commander, you can give me puppy-dog eyes all you want, but I won't share my ice cream... F-fine, just one lick, got it?",
+      "secretaryIdle2": "My twin-gun turrets are also on vacation today! Gotta work hard and play hard!",
+      "secretaryIdle3": "Uhh, I don't think I'll bring the puppy with me next time... He's way too jumpy and almost even fell off the scooter once...",
+      "secretaryTouch": "Oh, you finally noticed, Commander! That's right, I put my hair up just for today's ride! This is your only chance to see it like this.",
+      "secretarySpecialTouch": "I can't believe you. You almost made me drop my ice cream!"
+    },
+    {
+      "ENClientName": "Loisirs Baln®¶aires",
+      "CNClientName": "Loisirs baln®¶aires",
+      "JPClientName": "Loisirs baln®¶aires",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/87/SurcoufSummerChibi.png",
+      "shipDescription": "Mmmh~ Bonjour, Commander~ Nothing feels better than the waves lapping at your skin~ Oh, Commander, why don't you come lie down and experience it for yourself?",
+      "acquisition": "Mmmh~ Bonjour, Commander~ Nothing feels better than the waves lapping at your skin~ Oh, Commander, why don't you come lie down and experience it for yourself?",
+      "login": "Hey, Commander, done anything fun lately? I wanna know!",
+      "details": "Sure, I go in the water all the time since I'm a submarine, but it's nice to just relax by the beach every now and then! *yaaaawn*... A girl needs her vacation time, you know~",
+      "secretaryIdle1": "Hey, Commander! Just lie on your back and I'll cover you with sand~",
+      "secretaryIdle2": "Go get the camera, Commander! I wanna take a photo of this.",
+      "secretaryIdle3": "Passepartout, could you get me some sunscreen? Oh, and Commander, would you mind rubbing it on for me?",
+      "secretaryTouch": "You're head over heels for my gorgeous body, aren't you? Heheh, stare all you want, because I don't mind?"
+    }
+  ]
+}

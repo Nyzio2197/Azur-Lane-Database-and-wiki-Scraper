@@ -1,0 +1,48 @@
+{
+  "name": "Hibiki",
+  "rarity": "Elite",
+  "ID": "160",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b6/HibikiChibi.png",
+      "shipDescription": "Type III Akatsuki-class destroyer number two – Hibiki.",
+      "selfIntroduction": "I'm Hibiki, from the 6th DesDiv~? I fought in many battles with my friends, and even saw the end of things. That's good and all, but... having to go in for repairs at that time was a bit awkward... Ahaha...",
+      "acquisition": "Nihihi~ We finally meet at last, Commander! The name's Hibiki! Don't you forget it!",
+      "login": "Commander, did you just pop in~? All righty... Let's both get some good work done today!",
+      "details": "Everyone in the 6th DesDiv is super unique! There's Ikazuchi, Inazuma, and we even have Akatsuki the ninja! I love everyone! Ehehe~",
+      "secretaryIdle1": "Verniy...? It has a nostalgic ring to it...",
+      "secretaryIdle2": "I'm so glad that we can all be together again~?",
+      "secretaryIdle3": "If you don't need me for anything, I'm going to go play with Ikazuchi and Inazuma~",
+      "secretaryTouch": "Yo! Did you call me, Commander?",
+      "secretarySpecialTouch": "Ah~! Commander, I bet you did that on purpose just now!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/3/3f/Hibiki_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/5/5f/Hibiki_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/d/d0/Hibiki_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/6/60/Hibiki_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/01/Hibiki_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/9/90/Hibiki_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/e9/Hibiki_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/69/Hibiki_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/0/06/Hibiki_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "New Year's Little Imp",
+      "CNClientName": "正月小恶魔",
+      "JPClientName": "正月デビル響ちゃん",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/60/HibikiNew_YearChibi.png",
+      "shipDescription": "New Year's finally comes to port! I, Hibiki of the 6th DesDiv, will be marking my new arrival in my New Year's attire! Commander, don't you dare change the channel - you've gotta watch my every move~!",
+      "acquisition": "New Year's finally comes to port! I, Hibiki of the 6th DesDiv, will be marking my new arrival in my New Year's attire! Commander, don't you dare change the channel - you've gotta watch my every move~!",
+      "login": "Commander, you haven't started working yet?",
+      "details": "Well, um, y'see, sorry to keep you all waiting for so long. I do feel kinda bad about it, but since we're all here, let's cheer up and put the past behind us! That's right, look forward! Ehehe~!",
+      "secretaryIdle1": "Akatsuki, you went all the way to the South Pole to look for me?! W-well, I certainly didn't expect that...",
+      "secretaryIdle2": "Just like me, Fubuki seems to also like being the center of attention. But for whatever reason, only she keeps getting herself into weird situations. Why is that?",
+      "secretaryIdle3": "This brisk weather is nothing compared to the cold of the Northern Parliament! Huh? I'm comparing it to the wrong thing?",
+      "secretarySpecialTouch": "You couldn't control yourself because I looked too delicious? Commander, you beast~",
+      "secretaryHeadpat": "Want to know more about oni horn? Or this golden badge here?"
+    }
+  ]
+}

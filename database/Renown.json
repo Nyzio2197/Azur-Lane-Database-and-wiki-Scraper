@@ -1,0 +1,33 @@
+{
+  "name": "Renown",
+  "rarity": "Elite",
+  "ID": "127",
+  "faction": "Royal Navy",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png",
+      "shipDescription": "Renown-class battlecruiser - Renown",
+      "selfIntroduction": "I am Renown, Battlecruiser of the Royal Fleet of the Royal Navy. I have experienced issues in both great wars, and have countless accomplishments for which I am proud. No matter what orders you give me, Commander, it is my duty to carry them out with all of my strength!",
+      "acquisition": "Renown, Battlecruiser of the Royal Fleet of the Royal Navy, at your service. My guns shall aim where your sword points, Commander.",
+      "login": "Commander, please give me your orders.",
+      "details": "All systems functioning properly. Do not worry, Commander.",
+      "secretaryIdle1": "No instructions, Commander? So we're using the, 'wait and see' strategy...?",
+      "secretaryIdle2": "My propeller? Hood bumped into me one day, and before I reacted I received this in apology.",
+      "secretaryIdle3": "What? You think Renown is cute...? Well, on her behalf, I give you my tha... Wait, what?!",
+      "secretaryTouch": "... It's a bit strange... Only you have ever done this to me, Commander...",
+      "secretarySpecialTouch": "...!! Commander! I do not intend to resist... but still...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/a/ad/Renown_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Renown_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/c/c3/Renown_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/b/bb/Renown_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b9/Renown_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/9/90/Renown_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/51/Renown_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/6a/Renown_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4c/Renown_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Rodney",
+  "rarity": "Elite",
+  "ID": "133",
+  "faction": "Royal Navy",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/ca/RodneyChibi.png",
+      "shipDescription": "Nelson-class battleship – Rodney, Hull Number 29!",
+      "selfIntroduction": "I'm Nelson's little sister, Rodney! Um... us sisters are pretty famous right? Erm, you've heard that my fighting style is unbefitting of my appearance? Well well, Commander, such rumors are, of course, false~",
+      "acquisition": "Hello, I'm Rodney. I shall be in your care from this day forward.",
+      "login": "Ah, Commander, you're back! I was just tidying up the documents, please have a look.",
+      "details": "Need me to explain the details?",
+      "secretaryIdle1": "I'm here to help you with anything you need.",
+      "secretaryIdle2": "If the Commander doesn't mind, please allow me to keep you company!",
+      "secretaryIdle3": "Commander, if you keep slacking off, even I will get angry.",
+      "secretaryTouch": "What is it?",
+      "secretarySpecialTouch": "Please don't do this in the command room...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/e/e0/Rodney_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/8/8b/Rodney_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/4/44/Rodney_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/0c/Rodney_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/1/1e/Rodney_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/24/Rodney_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d0/Rodney_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/21/Rodney_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Future Seaside Admiral",
+      "CNClientName": "未来的海滨上将",
+      "JPClientName": "未来の海浜大将",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a8/RodneySummerChibi.png",
+      "shipDescription": "Although it's a gift from the Commander, it's still embarrassing to wear this....Commander, do you think you could teach me how to swim?",
+      "acquisition": "Even if it's the Commander's gift, wearing it is pretty embarrassing. Commander, want to teach me how to swim?",
+      "login": "It's so hot... I can't imagine doing any work! Commander, how about we take a cold shower together??",
+      "details": "Don't be shy, Commander~ Come on, come on over here~ How do you feel? Are my hands too cold?",
+      "secretaryIdle1": "Beach volleyball? But I finally got a chance to be intimate with you...I'll PASS~",
+      "secretaryIdle2": "I'll love whatever gifts you give me!",
+      "secretaryIdle3": "I'm wiped out. So much swimming! Commander... can you carry me home?",
+      "secretaryTouch": "Commander, could you put some sunscreen on my back?",
+      "secretarySpecialTouch": "How's that? The feeling of a bona-fide Big Seven",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/e/e1/Rodney_IntroSkin1JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/a/ac/Rodney_LogSkin1JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a9/Rodney_DetailsSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/5/5d/Rodney_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/f/f4/Rodney_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/4f/Rodney_SecIdle3Skin1JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/be/Rodney_Sec1Skin1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d4/Rodney_Sec2Skin1JP.ogg"
+    },
+    {
+      "CNClientName": "一日见习店员",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0e/RodneyLawsonChibi.png"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Gridley",
+  "rarity": "Rare",
+  "ID": "007",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cb/GridleyChibi.png",
+      "shipDescription": "Gridley-class destroyer - Gridley, Hull Number DD-380!",
+      "selfIntroduction": "I'm the first ship of the Gridley-class, and I was very active in the Pacific theater. But never mind that now, Commander. Want to look at photos of Sara?",
+      "acquisition": "Nice to meet you, Commander! I'm Gridley. I once escorted Saratoga~ She's such a cutie!",
+      "login": "Hey, Commander~ So listen, Sara's just soooo cute!",
+      "details": "Wow, look at that cutie! No, not me! The one over there!",
+      "secretaryIdle1": "I've got plenty of pictures of Sara. 800 bucks a print!",
+      "secretaryIdle2": "Mississippi will bring me back home just fine if I get lost!",
+      "secretaryIdle3": "Commander, have you seen Sara? I want to try my new camera!",
+      "secretaryTouch": "Aaah, that tickles~! I can't keep the camera straight~",
+      "secretarySpecialTouch": "Commander! If you do that again, I'll photograph it and report it to the police~",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/f/f8/Gridley_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/f/f0/Gridley_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/02/Gridley_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/e8/Gridley_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/23/Gridley_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a2/Gridley_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/a/a1/Gridley_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/9b/Gridley_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/1/12/Gridley_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Christmas Photoshoot",
+      "CNClientName": "圣诞摄影会！",
+      "JPClientName": "聖夜撮影会！",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/GridleyChristmasChibi.png",
+      "shipDescription": "Commander, Merry Christmas! Guhehe~ Won't you attend my \"Super Special Sexy Sara (tentative)\" photoshoot event?",
+      "acquisition": "Commander, Merry Christmas! Guhehe~ Won't you attend my \"Super Special Sexy Sara (tentative)\" photoshoot event?",
+      "secretaryIdle1": "Christmas special edition Saratoga photos, one thousand dollars each! Guhehe~ my fangirl power level increases during the holiday season!",
+      "secretaryIdle2": "Commander, can you take some photos of me with Saratoga?",
+      "secretaryIdle3": "Thanks for the waterproof camera, Commander! I'll be sure to take good care of it!",
+      "secretaryTouch": "What's in this bag? Guhehe~ an album of premium Saratoga photos! As long as I have this, she will always be at my side!",
+      "secretarySpecialTouch": "Uwaah! Don't take any pictures!",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/1b/Gridley_IntroSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/9/9a/Gridley_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a6/Gridley_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/dd/Gridley_SecIdle3Skin1JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/7/7e/Gridley_Sec1Skin1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b7/Gridley_Sec2Skin1JP.ogg"
+    }
+  ]
+}

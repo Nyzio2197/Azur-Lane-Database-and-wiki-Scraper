@@ -1,0 +1,47 @@
+{
+  "name": "Kizuna AI",
+  "rarity": "Elite",
+  "ID": "Collab041",
+  "faction": "KizunaAI",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/0f/Kizuna_AIChibi.png",
+      "shipDescription": "HAI DOMO! Kizuna AI here! Are you the commander I've heard rumors about? It's a pleasure to meet and work with you!",
+      "selfIntroduction": "Hello! I'm Kizuna AI! I've somehow ended up in the world of Azur Lane, a game I've been streaming... But, like always, I'll do my best while following the VTuber mindset of \"making a living doing what you like\" here too!",
+      "acquisition": "HAI DOMO! Kizuna AI here! Are you the commander I've heard rumors about? It's a pleasure to meet and work with you!",
+      "login": "Oh, welcome back, Commander! I just uploaded a new video. Check it out while you're at sea!",
+      "details": "Oh, are you here to subscribe to my channel, Commander? Huh? Just here to check on me? Well, while you're here, it's a good idea to subscribe anyway! Right?",
+      "secretaryIdle1": "You're so cute, Laffey! Come here, my little contrarian, I wanna play! Let me give you a big hug!",
+      "secretaryIdle2": "Don't run away, Bulin! Hold on just a sec! I need just a tiny little Limit Break from you!",
+      "secretaryIdle3": "I have this job because I want to connect with people all over the world, but what got you into your job, Commander?",
+      "secretaryTouch": "Commander, I won't say anything mean, so please stop trying to remove my headband. Not even I know what will happen to this place if you do!",
+      "secretarySpecialTouch": "I'm sorry to say, but it's not me you're touching, just the screen.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/4/45/Kizuna_AI_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/c0/Kizuna_AI_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/b4/Kizuna_AI_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/35/Kizuna_AI_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/e/ec/Kizuna_AI_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/51/Kizuna_AI_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/87/Kizuna_AI_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ea/Kizuna_AI_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/8d/Kizuna_AI_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Festive Kizuna AI",
+      "CNClientName": "Sakura Festival",
+      "JPClientName": "Sakura Festival",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7a/Kizuna_AIKizunaChibi.png",
+      "shipDescription": "The clothes from the Sakura Empire are so stylish! Commander, since it's a rare occasion, let's go take a look around! Ah, of course, don't forget to run the reel~?",
+      "acquisition": "The clothes from the Sakura Empire are so stylish! Commander, since it's a rare occasion, let's go take a look around! Ah, of course, don't forget to run the reel~?",
+      "login": "Jeez, Commander~! This isn't just \"sorry I'm late\" levels of tardiness anymore! If you showed up any later, I would've just left without you! Fine, let's head to the festival right away!",
+      "details": "Yukatas are freakin' awesome! Even though I can't even feel the heat because I'm a hologram, I somehow feel breezier just by wearing this!",
+      "secretaryIdle1": "Ahhh~ those candied apples look so good! But, I don't think I'm able to eat... Huh? Wait, if I'm here, then maybe... Ah- Yuudachi-chan already ate them all!?",
+      "secretaryIdle2": "If I'm already wearing a Sakura-style outfit, I also should match it with a set of animal ears! Benson-chan, lend me yoooours~!",
+      "secretaryIdle3": "I have to admit though, it's really hard to move around in a yukata... That's right! Prinz-chan, teach me the secret to fighting in this outfit~!",
+      "secretaryTouch": "If you think you can make a girl happy just by patting her head, you'd be wrong! Don't go around doing this stuff with everyone, got it?"
+    }
+  ]
+}

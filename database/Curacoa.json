@@ -1,0 +1,52 @@
+{
+  "name": "Curacoa",
+  "rarity": "Rare",
+  "ID": "372",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a2/CuracoaChibi.png",
+      "shipDescription": "Ceres-class light cruiser - Curacoa (D41)",
+      "selfIntroduction": "I am Curacoa, light cruiser of the Royal Navy. I've served in several wars, so my combat experience is fairly rich. I hope that I'll be able to train some children to carry on our duty.",
+      "acquisition": "Though this is the first I'm meeting you, I can't help but to feel a sense of familiarity from the bottom of my heart... I am Curacoa - from now on, allow me handle the various affairs around port. Please look forward to it!",
+      "login": "All the preparations are complete, Commander. Please give your orders - I will delegate tasks to ensure that our missions get finished.",
+      "details": "It is said that a woman's charm is greatest when in front of a lens... Commander, I trust that you'll bring out my best side~",
+      "secretaryIdle1": "A fly? Don't worry, they'll disappear after a few moments~",
+      "secretaryIdle2": "To have a junior as exceptional as Belfast... I have to redouble my efforts~",
+      "secretaryIdle3": "I have already cleaned the office, Commander. I would imagine that having a comfortable work environment is of great importance to you.",
+      "secretaryTouch": "If there is anything you need, please call for me right away~",
+      "secretarySpecialTouch": "Are you trying to flirt with me? Perhaps... there might be a better place for that."
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e5/CuracoaKaiChibi.png",
+      "shipDescription": "It is my honour to be of everyone's service. Light cruiser Curacoa takes it upon herself to continue serving you, Master.",
+      "acquisition": "It is my honour to be of everyone's service. Light cruiser Curacoa takes it upon herself to continue serving you, Master.",
+      "login": "If you're still agonizing over today's itinerary, why not have have a cup of tea and reset yourself?",
+      "details": "Curley is always walking around with that stony expression... Maybe she and I have a different understanding of \"how a maid ought to present herself?\"",
+      "secretaryIdle1": "Seeing everyone's growth and maturity... somehow puts my mind at ease.",
+      "secretaryIdle2": "My abilities as an anti-air escort? Why, it's my next best thing, after being a maid of course.",
+      "secretaryIdle3": "Being in a room that has been cleaned properly will also clean your mind of distractions.",
+      "secretaryTouch": "You may give me orders at any time, Master.",
+      "secretarySpecialTouch": "Why don't we save these kinds of things for... after work?"
+    },
+    {
+      "ENClientName": "Eastern Grace",
+      "CNClientName": "¶«»ÍÖ®ÑÅ",
+      "JPClientName": "–|¹ú¤ÎÆF²Ê",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3c/CuracoaSpringChibi.png",
+      "shipDescription": "As I am but a maid, it is a great honor to be able to wear such a gorgeous outfit¡­ How do I look, Commander? \"Not sure where to start feasting your eyes?\" Oh my... Commander...",
+      "acquisition": "As I am but a maid, it is a great honor to be able to wear such a gorgeous outfit¡­ How do I look, Commander? \"Not sure where to start feasting your eyes?\" Oh my... Commander...",
+      "login": "Commander, it's been a long time since you've been able to enjoy a moment of rest, hasn't it?",
+      "details": "This outfit's design is rather bold... I'm more accustomed to my maid uniform...",
+      "secretaryIdle1": "My obligations as a maid do not end when I am not in my uniform. If you need anything, just let me know.",
+      "secretaryIdle2": "Everyone is busy with Spring Festival preparations... but I'd like to take this opportunity to slack off a little~",
+      "secretaryIdle3": "You'd like to know if there are any secrets behind the Dragon Empery's culinary and artistic crafts? Hehe, stay tuned~",
+      "secretaryTouch": "Commander, you want to rest in my lap? If you'd like, go ahead~",
+      "secretarySpecialTouch": "Commander, I see that you've also become quite bold."
+    }
+  ]
+}

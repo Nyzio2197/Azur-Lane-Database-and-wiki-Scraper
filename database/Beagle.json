@@ -1,0 +1,33 @@
+{
+  "name": "Beagle",
+  "rarity": "Normal",
+  "ID": "086",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c2/BeagleChibi.png",
+      "shipDescription": "B-class destroyer ©` Beagle, Hull Number H30!",
+      "selfIntroduction": "Self introduction? Huh... I didn't accomplish much, but I took part in many escort missions, you know? Norway, Atlantic, Operation Torch, and then... Anyway, a lot of those! It will be nice if I can be of help, Commander!",
+      "acquisition": "I finally got a chance to meet you, Commander! I'm B class' Beagle! The best of what I can do are escort missions! If you need my help just let me know! I am quite a worker!",
+      "login": "Welcome back, Commander!",
+      "details": "Commander, want to hang out together?",
+      "secretaryIdle1": "Eh?! Y-You want to catch a rabbit? ...I don't get it, but for you, Commander, I'll give it a try!",
+      "secretaryIdle2": "Commander, what a nice weather today~ Let's take a walk, alright?",
+      "secretaryIdle3": "Hmm? Now that I think about it, I used to go to a lot of different places. ...Ah, Commander, I'll tell you all sorts of things about the places I have been to!",
+      "secretaryTouch": "Ehehe, that tickles, Commander!",
+      "secretarySpecialTouch": "Eeek! Commander, you perv...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/b/b7/Beagle_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/19/Beagle_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/2/25/Beagle_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/21/Beagle_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/73/Beagle_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/21/Beagle_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/29/Beagle_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/a/a4/Beagle_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Beagle_Sec2JP.ogg"
+    }
+  ]
+}

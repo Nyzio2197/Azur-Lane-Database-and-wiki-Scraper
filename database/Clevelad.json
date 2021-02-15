@@ -1,0 +1,33 @@
+{
+  "name": "Clevelad",
+  "rarity": "Elite",
+  "ID": "391",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4f/CleveladChibi.png",
+      "shipDescription": "Cleveland-class light cruiser ¨C Cleveland (CL-55)",
+      "selfIntroduction": "I'm the big sister of the Cleveland-class... but I guess that's obvious from my name alone. I may be a light cruiser, but I can match a heavy cruiser no problem! I am gonna dominate the seas, after all!",
+      "acquisition": "Hello, my name is Cleveland! My dream is to one day join the Solomon Knights! I'm working hard towards that goal every day!",
+      "login": "Morning, Commander! How about a chocolate bar?",
+      "details": "I eat so much every day, but I'm not growing at all... Why...?",
+      "secretaryIdle1": "I've got lots of little sisters, and I love each and every one of 'em! Lemme introduce you someday!",
+      "secretaryIdle2": "Hey, Commander, is there a blue-haired girl in the fleet, about yea big, always staring at herself in the mirror? You mind if I go play with her?",
+      "secretaryIdle3": "Being this small is kind of inconvenient sometimes. ... Like when? Like when I'm trying to help somebody with something...?",
+      "secretaryTouch": "It's important to keep your energy up, Commander! Here, have a chocolate bar!",
+      "secretarySpecialTouch": "Huh? You wanna rub my belly?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/3/3d/Clevelad_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/0/0d/Clevelad_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/2/21/Clevelad_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/b/b2/Clevelad_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/72/Clevelad_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/2b/Clevelad_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/ef/Clevelad_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4a/Clevelad_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/6d/Clevelad_Sec2JP.ogg"
+    }
+  ]
+}

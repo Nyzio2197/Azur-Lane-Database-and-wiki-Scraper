@@ -1,0 +1,38 @@
+{
+  "name": "Bush",
+  "rarity": "Rare",
+  "ID": "355",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4a/BushChibi.png",
+      "shipDescription": "Fletcher-class destroyer ¨C Bush, Hull Number DD-529.",
+      "selfIntroduction": "I'm the Fletcher-class destroyer Bush. Like my sisters, I fought in the Pacific Ocean and took on tons of missions! ... Planes? I-I don't wanna talk about those scary things!",
+      "acquisition": "I'm Bush, from the Fletcher class! I'll be staying here from now on!",
+      "login": "Umm... What are we doing today, again?",
+      "details": "What is it? Do you want something from me?",
+      "secretaryIdle1": "If I stay out of sight, the Commander probably won't notice I'm neglecting my work...",
+      "secretaryIdle2": "Uughh... Following a schedule is so boooring! I say we do stuff when we see it needs doing! ... What? That's not gonna fly?",
+      "secretaryIdle3": "I've got a bunch of sisters, both younger and older than me! I forget their names all the time, though...",
+      "secretaryTouch": "Yep, what is it?",
+      "secretarySpecialTouch": "It's not okay to touch me like that!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/2/28/Bush_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/7/78/Bush_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/4d/Bush_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/0/07/Bush_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/78/Bush_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/0/00/Bush_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/59/Bush_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c3/Bush_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/5/50/Bush_Sec2JP.ogg"
+    },
+    {
+      "CNClientName": "Ð¡Ð¡»­¼Ò",
+      "JPClientName": "¥ê¥È¥ë¥Ú¥¤¥ó¥¿©`",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2f/BushCasualChibi.png"
+    }
+  ]
+}

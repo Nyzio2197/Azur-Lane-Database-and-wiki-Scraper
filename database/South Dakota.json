@@ -1,0 +1,51 @@
+{
+  "name": "South Dakota",
+  "rarity": "Super Rare",
+  "ID": "065",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png",
+      "shipDescription": "South Dakota-class battleship ¨C South Dakota, Hull Number BB-57!",
+      "selfIntroduction": "Battleship of Eagle Union, South Dakota. When it comes to battlefields, I wish for you to not leave my side. I will protect you, Commander. 'The Strongest Shield'? Vain titles are worthless. There's meaning only in being useful.",
+      "acquisition": "I am South Dakota, Commander. I shall become your shield and protect you from all cannon fire.",
+      "login": "Commander, your orders please.",
+      "details": "South Dakota, standing by 24/7, Commander.",
+      "secretaryIdle1": "In the darkness, my will was tempered. I fear nothing.",
+      "secretaryIdle2": "As long as I am of use to Commander, I am fine with handing my credit over to others.",
+      "secretaryIdle3": "Those who stand as Commander's enemies, are enemies all the same.",
+      "secretaryTouch": "I'm ready to move out anytime.",
+      "secretarySpecialTouch": "If this is what you want to do...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/4/4c/South_Dakota_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/9/93/South_Dakota_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/e1/South_Dakota_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/00/South_Dakota_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/38/South_Dakota_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d3/South_Dakota_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d8/South_Dakota_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/5/5a/South_Dakota_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Solo Concert",
+      "CNClientName": "¾ç³¡ÉÏµÄ¶À×à",
+      "JPClientName": "¥½¥í¥³¥ó¥µ©`¥È",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/83/South_DakotaPartyChibi.png",
+      "shipDescription": "Massachusetts suggested I learn something useful that's unrelated to combat, so I started playing the piano... It seemed impossible at first, but after actually trying it, I've developed a pretty good feel for it.",
+      "acquisition": "Massachusetts suggested I learn something useful that's unrelated to combat, so I started playing the piano... It seemed impossible at first, but after actually trying it, I've developed a pretty good feel for it.",
+      "login": "What song should I play for you today...",
+      "details": "Aurora asked me to perform with her... I guess it can't hurt to try.",
+      "secretaryIdle1": "I can't get used to this flimsy dress. I'd rather wear my regular clothes...",
+      "secretaryIdle2": "My cat goes for the keyboard when I'm not playing... Do you want to practice the piano too, kitty?",
+      "secretaryIdle3": "We can express so much through music. I suppose that's fitting for someone bad at expressing their feelings like I am.",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/32/South_Dakota_IntroSkin1JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/43/South_Dakota_LogSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/5/5d/South_Dakota_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/c/c5/South_Dakota_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/a/a4/South_Dakota_SecIdle3Skin1JP.ogg"
+    }
+  ]
+}

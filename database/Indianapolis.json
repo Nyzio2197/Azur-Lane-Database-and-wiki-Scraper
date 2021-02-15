@@ -1,0 +1,56 @@
+{
+  "name": "Indianapolis",
+  "rarity": "Elite",
+  "ID": "045",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png",
+      "shipDescription": "Portland-class Heavy Cruiser – Indianapolis, Hull Number CA-35!",
+      "selfIntroduction": "... I'm Indianapolis, second ship of the Portland-class. I apologize for any trouble my big sister caused... A nuclear bomb? I'm not sure what that is.",
+      "acquisition": "Yeah? ... Commander, I'm Indianapolis. My nickname is Indy. Hm? A nuclear bomb? What's that?",
+      "login": "...?! When did you get here, Commander? You startled me...",
+      "details": "What are you looking at? My skin color has always been light brown, it's not a tan.",
+      "secretaryIdle1": "If I go away, I guess you'll have to rely on New Mexico.",
+      "secretaryIdle2": "I wonder why my sister's always looking at me...",
+      "secretaryIdle3": "To be honest... I can't really have a proper conversation with other people...",
+      "secretaryTouch": "Whew...",
+      "secretarySpecialTouch": "... (Indianapolis fixates her eyes on you.)",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/f/f4/Indianapolis_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/0/04/Indianapolis_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/3e/Indianapolis_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/d/d4/Indianapolis_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/bb/Indianapolis_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/6/61/Indianapolis_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/50/Indianapolis_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/31/Indianapolis_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Indianapolis_Sec2JP.ogg"
+    },
+    {},
+    {
+      "ENClientName": "At School With My Sister...",
+      "CNClientName": "与姐姐一起的校园生活？",
+      "JPClientName": "学園でお姉ちゃんと……",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/81/IndianapolisSchoolChibi.png",
+      "shipDescription": "School life... It's nice as long as you and my sister are here... I think...",
+      "acquisition": "School life... It's nice as long as you and my sister are here... I think...",
+      "login": "Oh, Commander... If my sister asks, could you tell her I'm not going? Please, it would help...",
+      "details": "What are you looking at, Commander? ... It looks good on me? Sounds like what my sister would say...",
+      "secretaryIdle1": "My sister makes great lunch boxes... but she doesn't need to write \"I Love Indy\" on them every single time...",
+      "secretaryIdle2": "I like this plushie Portland gave me... But something about it feels off...",
+      "secretaryIdle3": "I'm definitely better at science than languages... How do I get better at expressing my feelings?",
+      "secretaryTouch": "... What? I'm not sleeping. Haven't I told you that I just have a slower reaction time than others?",
+      "secretaryHeadpat": "Is this... my reward for behaving?"
+    },
+    {
+      "ENClientName": "The Light of Circle City",
+      "CNClientName": "环城之夜",
+      "JPClientName": "サークルシティナイト",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/95/IndianapolisPartyChibi.png",
+      "shipDescription": "Oh. Good evening, Commander. Do you want some steak? It goes great with wine."
+    }
+  ]
+}

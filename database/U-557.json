@@ -1,0 +1,33 @@
+{
+  "name": "U-557",
+  "rarity": "Elite",
+  "ID": "344",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ed/U-557Chibi.png",
+      "shipDescription": "Iron Blood Type VIIC submarine ¨C U-557.",
+      "selfIntroduction": "I'm U-557, Iron Blood Type VIIC submarine... I went on four sorties during the war, sinking six merchant ships plus Galatea. The day after I sank her, an allied ship mistook me for a Royal Navy ship and collided with me... I had a few accidents before that too, so maybe I'm just cursed with bad luck...",
+      "acquisition": "Type VIIC submarine, U-557, reporting in. I'm a bad luck magnet, so feel free to forget about and ignore me... As far as missions go... I'll give them my best shot.",
+      "login": "Commander, nothing bad happened to you before you got here, right?",
+      "details": "Pennies are said to bring good luck, so I saved a bunch in my piggybank... but that didn't seem to do much for me...",
+      "secretaryIdle1": "I've only heard about \"The First Fun Time\" from my predecessors... I wasn't around for it.",
+      "secretaryIdle2": "When you're a bad luck magnet, you probably shouldn't get close to people. That way, you won't cause them trouble...",
+      "secretaryIdle3": "I'll try to be the best secretary I can. It's the one thing... I don't want to fail at...",
+      "secretaryTouch": "What is it, Commander...? Wait, don't tell me... I've messed up again...?",
+      "secretarySpecialTouch": "What... was that... It felt weird...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/8/80/U-557_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/0/07/U-557_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/82/U-557_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/2c/U-557_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/1/1d/U-557_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/70/U-557_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/c/c1/U-557_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1d/U-557_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/68/U-557_Sec2JP.ogg"
+    }
+  ]
+}

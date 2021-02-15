@@ -1,0 +1,33 @@
+{
+  "name": "Hunter",
+  "rarity": "Rare",
+  "ID": "100",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/36/HunterChibi.png",
+      "shipDescription": "H-class destroyer ¨C Hunter (H35)",
+      "selfIntroduction": "Royal Navy H-class destroyer, Hunter. I was taken down by Iron Blood destroyers in the battle of Narvik. It's nothing new for a hunter to end up being eaten by their prey...",
+      "acquisition": "Hello, Commander. I'm Hunter... Was there something else I was supposed to say...?",
+      "login": "Commander. How about we go hunting?",
+      "details": "Commander, I'm pretty proud of my trophies... Would you like to take a look?",
+      "secretaryIdle1": "This guy over here? He's my treasured companion.",
+      "secretaryIdle2": "I don't dislike Hardy. It's just that she tends to be annoying when she's around.",
+      "secretaryIdle3": "These clothes...? Commander, you don't have to copy my dress when we go hunting.",
+      "secretaryTouch": "This isn't a hunting rifle. It's a torpedo tube.",
+      "secretarySpecialTouch": "[New Target: The Commander. Target: Locked-on.]",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/4/4d/Hunter_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/dc/Hunter_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/be/Hunter_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/33/Hunter_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/7b/Hunter_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/9/90/Hunter_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/93/Hunter_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/24/Hunter_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/60/Hunter_Sec2JP.ogg"
+    }
+  ]
+}

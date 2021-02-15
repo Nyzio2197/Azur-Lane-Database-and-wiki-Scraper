@@ -1,0 +1,33 @@
+{
+  "name": "Chicago",
+  "rarity": "Rare",
+  "ID": "042",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/78/ChicagoChibi.png",
+      "shipDescription": "Northampton-class Heavy Cruiser ¨C Chicago, Hull Number CA-29!",
+      "selfIntroduction": "I'm Chicago, fourth ship of the Northampton-class. I've never really done anything noteworthy in battle, and I've never been particularly lucky. But I'll do my best for you, Commander. So be nice to me~ *Kiss*",
+      "acquisition": "So you're the commander? You're looking at me almost like you want me to feel you up. Things will get fun starting tomorrow.",
+      "login": "Don't get too into ignoring me, okay, Commander~?",
+      "details": "Don't just stare at boring numbers all day... how about staring at something with more meat to it for a change?",
+      "secretaryIdle1": "Women can change as quickly as the wind in Chicago, Commander~",
+      "secretaryIdle2": "At this distance, nobody else can hear us~",
+      "secretaryIdle3": "Your shoulders are so stiff. How about a massage to help you relax?",
+      "secretaryTouch": "I'll show you how to have a good time~",
+      "secretarySpecialTouch": "Aahh~ You're a naughty boy, Commander~",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/d/db/Chicago_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/e/e7/Chicago_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/b7/Chicago_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/c5/Chicago_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/6/6d/Chicago_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/6/6e/Chicago_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/89/Chicago_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/8/87/Chicago_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Chicago_Sec2JP.ogg"
+    }
+  ]
+}

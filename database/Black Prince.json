@@ -1,0 +1,63 @@
+{
+  "name": "Black Prince",
+  "rarity": "Elite",
+  "ID": "408",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6d/Black_PrinceChibi.png",
+      "shipDescription": "Bellona-class light cruiser ¨C Black Prince.",
+      "selfIntroduction": "I am a modified Dido-class... rather was it Bellona-class? ... Right then, you could say I'm quite well-travelled. Will you be sending me all over the world too?",
+      "acquisition": "Err, you're... the Commander, yes? You don't know who I am? Ah, right, I've yet to introduce myself... I'm Black Prince of the Royal Navy... Will that suffice?",
+      "login": "Commander, back again same time as always, eh?",
+      "details": "I am the Longbow of Cr¨¦cy, and the Shield of the Realm... By your will, I am at your disposal.",
+      "secretaryIdle1": "A Maid? Me? Certainly not... But I do know how to make some simple dishes, and I suppose I could bring you some tea.",
+      "secretaryIdle2": "I can see the water from here. Commander, do you like the ocean?",
+      "secretaryIdle3": "Commander, are you daydreaming? What say... I join you and we daydream together?",
+      "secretaryTouch": "Commander? Something about my body caught your attention, did it?",
+      "secretarySpecialTouch": "Commander, does that feel nice to... touch?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/b/ba/Black_Prince_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/0/05/Black_Prince_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/84/Black_Prince_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/33/Black_Prince_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/8/85/Black_Prince_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/5b/Black_Prince_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/84/Black_Prince_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Black_Prince_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/be/Black_Prince_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "White Princess",
+      "CNClientName": "White Princess",
+      "JPClientName": "¥Û¥ï¥¤¥È¥×¥ê¥ó¥»¥¹",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/24/Black_PrinceSummerChibi.png",
+      "shipDescription": "Sorry to keep you waiting, Commander. Thank you very much for taking me on vacation. Standing in front of you like this... is a little embarrassing... Nevertheless, what do you think of... my swimsuit?",
+      "acquisition": "Sorry to keep you waiting, Commander. Thank you very much for taking me on vacation. Standing in front of you like this... is a little embarrassing... Nevertheless, what do you think of... my swimsuit?",
+      "login": "I didn't think this swimsuit stood out, so I was surprised when you still found me right away...",
+      "details": "Oh, is it that time already? I've prepared a few simple dishes. Commander, shall we invite the others to join us?",
+      "secretaryIdle1": "The sea is a tempestuous battlefield, and yet the beach is a relaxing Eden. What an incredible duality.",
+      "secretaryIdle2": "Beach volleyball? I've heard it's quite fun. Do you think I could give it a try?",
+      "secretaryIdle3": "The sand is so soft, so fine. It feels so pleasant between my toes...",
+      "secretaryTouch": "Are you tired, Commander?",
+      "secretarySpecialTouch": "Commander, the others are still here.",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/30/Black_Prince_IntroSkin1JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/5/55/Black_Prince_LogSkin1JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/3d/Black_Prince_DetailsSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/f/f1/Black_Prince_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/e2/Black_Prince_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/0/07/Black_Prince_SecIdle3Skin1JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/90/Black_Prince_Sec1Skin1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/62/Black_Prince_Sec2Skin1JP.ogg"
+    },
+    {
+      "ENClientName": "Fair Maid Spring",
+      "CNClientName": "Fairmaid¡¤Spring",
+      "JPClientName": "¥Õ¥§¥¢¥á¥¤¥É?¥¹¥×¥ê¥ó¥°",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ab/Black_PrinceSpringChibi.png",
+      "shipDescription": "A \"qipao,\" is it? This legendary dress from the Dragon Empery... Putting it on and enjoying some nostalgic music, makes me... Ahhh... Commander, might we relax like this a bit longer...?"
+    }
+  ]
+}

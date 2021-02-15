@@ -1,0 +1,48 @@
+{
+  "name": "Massachusetts",
+  "rarity": "Super Rare",
+  "ID": "354",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/46/MassachusettsChibi.png",
+      "shipDescription": "South Dakota-class battleship ¨C Massachusetts, Hull Number BB-59.",
+      "selfIntroduction": "I guess I'm the most normal ship in my class. I earned 11 battle stars, which is less than South Dakota did. \"I hardly suffered any damage\"? That's cause I never fought anyone strong enough... Here's hoping that I'll get to fight as hard as my sister did back then.",
+      "acquisition": "Hm? Ah... my turn to speak. I'm Massachusetts. I'm just a regular old South Dakota-class you can find anywhere... So, yeah, I hope we can... get along.",
+      "login": "For lunch, I'll make... Oh, Commander, are you going for a stroll?",
+      "details": "Tell me when you're done inspecting.",
+      "secretaryIdle1": "... You know, I actually like this hair color. It's like that of a bald eagle, isn't it?",
+      "secretaryIdle2": "You think my jacket is strange? This way I can feel the breeze hit my skin when out at sea, though... I love it.",
+      "secretaryIdle3": "People that impressed me? Umm... when I was in Casablanca, I fought a battleship who held out a long time even with just a single turret... I'd like to fight her again in her finished state.",
+      "secretaryTouch": "You want someone to pamper you? ... You want ME to?",
+      "secretarySpecialTouch": "... If you'd move your body more, you'd have fewer weird thoughts.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/4/4d/Massachusetts_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/92/Massachusetts_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/a/a7/Massachusetts_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a9/Massachusetts_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/6/62/Massachusetts_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/58/Massachusetts_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/0/02/Massachusetts_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/5/50/Massachusetts_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4b/Massachusetts_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Dressed to Impress",
+      "CNClientName": "Ê¢ÑçµÄ×¼±¸",
+      "JPClientName": "¥É¥ì¥Ã¥·©`¥Ó¥å©`¥Æ¥£©`",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/96/MassachusettsPartyChibi.png",
+      "shipDescription": "Hey... Is this outfit that strange to you? Thought it looks just like what my sister's wearing... so what are you staring at? I don't get you at all...",
+      "acquisition": "Hey... Is this outfit that strange to you? Thought it looks just like what my sister's wearing... so what are you staring at? I don't get you at all...",
+      "login": "My... plans for the party? We could go listen to Dakota play the piano.",
+      "details": "Tell me what you think when you're done looking. Else I'm not letting you leave.",
+      "secretaryIdle1": "Where's Jean Bart gone? I wanted to show her how I look.",
+      "secretaryIdle2": "Seems everyone's enjoying the party. Hope Dakota and Alabama are too. Me? I'm having tons of fun.",
+      "secretaryIdle3": "You want something, Commander? I'm gonna go get a drink. I could get one for you too if you want.",
+      "secretaryTouch": "I shouldn't lift this flap? Why not?",
+      "secretarySpecialTouch": "Are you getting more weird thoughts because of my outfit?"
+    }
+  ]
+}

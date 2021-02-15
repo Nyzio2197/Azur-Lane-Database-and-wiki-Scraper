@@ -1,0 +1,33 @@
+{
+  "name": "Z18",
+  "rarity": "Rare",
+  "ID": "346",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Z18Chibi.png",
+      "shipDescription": "Type 1936 destroyer ¨C Z18, Hans L¨¹demann.",
+      "selfIntroduction": "I'm the second Type 1936 destroyer, Z18~! You can call me Hans, although it sounds a little boyish... Hm? I'm really different from other Iron Blood girls? Heheh, a smile makes all the difference~",
+      "acquisition": "Nice to meet you, I'm Z18! I'm the girl whose smile will reach everyone's hearts~",
+      "login": "Welcome back, Commander~ Have you smiled yet today?",
+      "details": "Okay, Commander! Let's see aaaa... SMILE!",
+      "secretaryIdle1": "Everyone from Iron Blood are either obsessed with war or say a bunch of stuff that doesn't make sense... and my mission is to make them all smile!",
+      "secretaryIdle2": "I prescribe a smile to anyone who's feeling afraid~",
+      "secretaryIdle3": "I believe that, deep down, there's a smile in everyone's hearts! Anyone can smile once they know that!",
+      "secretaryTouch": "Do you need anything from me?",
+      "secretarySpecialTouch": "You can't do whatever you want just because I'm smiling! Hmph!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/f/fc/Z18_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/f/f1/Z18_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/a/ab/Z18_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/e0/Z18_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/a/ad/Z18_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/e1/Z18_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/98/Z18_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Z18_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/86/Z18_Sec2JP.ogg"
+    }
+  ]
+}

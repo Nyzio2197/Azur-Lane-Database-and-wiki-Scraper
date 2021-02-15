@@ -1,0 +1,47 @@
+{
+  "name": "Ryuujou",
+  "rarity": "Elite",
+  "ID": "223",
+  "faction": "Sakura Empire",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/62/RyuujouChibi.png",
+      "shipDescription": "Ryuujou-class Light Carrier - Ryuujou",
+      "selfIntroduction": "I am Ryuujou of the Sakura Empire, a seasoned warrior who has served in the First through Fourth Carrier Divisions, and participated in campaigns in the Phillipines, East Indies, Aleutian Islands, and Guadalcanal. I don't look the part...? Th-that must be because of that one incident at Iwate that stunted my growth! Milord, just you wait. I'll show you the extent of my capabilities!",
+      "acquisition": "Milord, I am called Ryuujou, a ranger from the Land of the Rising Sun! I shall lay down my seven lives to mete out justice in your name!",
+      "login": "A day off? Milord, my week only consists of Monday, Monday, Tuesday, Wednesday, Thursday, Friday, and Friday!",
+      "details": "Milord, we cannot survive unless we fight!",
+      "secretaryIdle1": "Odango... these delicacies will cause my heart to waver, so... Um, I suppose I can reward myself a little.... Mmmh! So delicious!",
+      "secretaryIdle2": "When you're stressed out, you should go watch the fish swimming around peacefully in the aquarium. I'm not sure why, but it always calms me down.",
+      "secretaryIdle3": "I fight for a just cause! No matter who stands before me, I swear to give it my all!",
+      "secretaryTouch": "Milord, please be careful. I am just as top-heavy as Illustrious.",
+      "secretarySpecialTouch": "Eek!!! Oh, it wasn't Saratoga after all. However, you seem to be even more mischievous than she is.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/c4/Ryuujou_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/2/2e/Ryuujou_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/d/d3/Ryuujou_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/c4/Ryuujou_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b4/Ryuujou_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/5d/Ryuujou_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/b/b2/Ryuujou_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/6e/Ryuujou_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Ryuujou_Sec2JP.ogg"
+    },
+    {},
+    {
+      "ENClientName": "Slacking Samurai",
+      "CNClientName": "∏…ŒÔŒ‰ ø£ø",
+      "JPClientName": "•“•‚•Œ•µ•‡•È•§",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/64/RyuujouSleepyChibi.png",
+      "shipDescription": "*yawn*... Finally, a good night's rest... Now, to pick up where I left off on that RPG... M-m-m-milord, why are you here?! I wasn't slacking off or anything, I w-w-was just... Ughh....",
+      "acquisition": "*yawn*... Finally, a good night's rest... Now, to pick up where I left off on that RPG... M-m-m-milord, why are you here?! I wasn't slacking off or anything, I w-w-was just... Ughh....",
+      "login": "*yawn*... O-one moment! I'll get myself in order!",
+      "details": "It's good to always be ready for battle, but this isn't... so bad either, wouldn't you agree, Milord?",
+      "secretaryIdle1": "I cannot believe how addictive this technological marvel of a game console can be...! B-but that's not to say it has no merits whatsoever! After all, if we could settle wars through these games, nobody would have to get hurt!",
+      "secretaryIdle3": "C-can we really allow foodstuffs as devilishly tempting as these deep-fried chips of potato to exist in our society?!",
+      "secretaryTouch": "Zzzzz... Milord?! Are we being attacked?! ...I lowered my guard and fell asleep? Forgive me for this shameful display!"
+    }
+  ]
+}

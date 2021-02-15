@@ -1,0 +1,32 @@
+{
+  "name": "Kaga (Battleship)",
+  "rarity": "Super Rare",
+  "ID": "368",
+  "faction": "Sakura Empire",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "Tosa-class battleship number two ¨C Kaga.",
+      "selfIntroduction": "I'm Kaga, second ship of the Tosa-class battleships. Built as an improvement to the Nagato-class, I was to serve as part of the Eight-Eight Fleet Program. Amagi... I would like to fight alongside her someday.",
+      "acquisition": "Hmm... is this the next place for me to flex my might? Very well. I am Kaga - Battleship Kaga. Make no mistake of it.",
+      "login": "Commander, why don't you warm up a bit before starting work?",
+      "details": "Getting stronger isn't a spectator sport. Let me at 'em already!",
+      "secretaryIdle1": "Those puny carrier aircraft are \"strong?\" Nonsense. What's more, isn't it utterly insipid to fight without your own two hands?",
+      "secretaryIdle2": "As a secretary, the most frustrating thing is not having anything to do. Commander, don't you have anything you need me to take care of?",
+      "secretaryIdle3": "Amagi is a worthy rival, and the one who I respect the most. Even if you asked me to be her support, I would have no objections.",
+      "secretaryTouch": "Commander, don't you ever get tired of being in that cramped office all day? Why not come out with me for some fresh air?",
+      "secretarySpecialTouch": "... Let me get a shot in first if you're going to do that!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/8/8e/Kaga_%28Battleship%29_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/13/Kaga_%28Battleship%29_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/1/10/Kaga_%28Battleship%29_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b6/Kaga_%28Battleship%29_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d3/Kaga_%28Battleship%29_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c6/Kaga_%28Battleship%29_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/0/0d/Kaga_%28Battleship%29_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Alabama",
+  "rarity": "Super Rare",
+  "ID": "401",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/25/AlabamaChibi.png",
+      "shipDescription": "South Dakota-class battleship ¨C Alabama, Hull Number BB-60.",
+      "selfIntroduction": "I'm Alabama, fourth ship of the South Dakota-class, also known as Lucky A... What else? Uhh... I received some honors while fighting in Norway, the Marshall Islands, and the Marianas. Then, there was Leyte and the trip to the Sakura Empire... Since then, I've just been taking it easy in the Mobile Bay.",
+      "acquisition": "I'm Alabama. You need somethin'? ... Prepare for duty? Oh, sure. Got nothin' better to do, so might as well. Let's go!",
+      "login": "Oh, it's you, Commander. I almost mistook you for a shady person and sent you flyin'.",
+      "details": "Commander, I'm hungry. Think you could get me a roast turkey?",
+      "secretaryIdle1": "Commander. Com-man-der. Commanderrrr~ Oh, I didn't need anythin'. Just felt like callin' for you.",
+      "secretaryIdle2": "I'd like to have a Turkey Shoot. Makes me wish I could fly...",
+      "secretaryIdle3": "Sure is nice outside. Commander, wanna go lie in the grass under the sun? I could stay like that all day...",
+      "secretaryTouch": "You're interested in my abs? Go ahead and feel 'em.",
+      "secretarySpecialTouch": "Huh......? Commander, the hell are you doing?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/9c/Alabama_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/ba/Alabama_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/e8/Alabama_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/35/Alabama_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/38/Alabama_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/b/ba/Alabama_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/99/Alabama_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/8/80/Alabama_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/74/Alabama_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "U-37",
+  "rarity": "Super Rare",
+  "ID": "484",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ab/U-37Chibi.png",
+      "shipDescription": "Iron Blood Type IXA submarine ¨C U-37.",
+      "selfIntroduction": "Difference between us Type IX's and the Type VII's is that we're bigger and can go farther! We hide where they'll least expect us... then BAM! Torpedo 'em to smithereens! ...The what in Hudson Bay? They just made that up for that movie! The real me was still alive and kickin'!",
+      "acquisition": "I'm the hunter that prances across the open seas, U-37! ...Huh? Is the commander here always this spaced out? Well, I've given you my name already, so catch ya later~!",
+      "login": "Oh, hey! I'm going out, so call if ya need somethin'! Gonna go for a dive!",
+      "details": "My rigging's got bits that'll hurt ya, so watch yourself if ya wanna feel it.",
+      "secretaryIdle1": "Can't I get a free pass if just say the paperwork's up and vanished? No? Figures.",
+      "secretaryIdle2": "They say teamwork makes the dream work! So let's round up some more peeps to do this paperwork!",
+      "secretaryIdle3": "Touch my tail without warning, and I'll whip your ass with the tail end of my rigging! ...Hey, I'm kidding! Hahahahah!",
+      "secretaryTouch": "How d'ya like my glossy, wet skin~?",
+      "secretarySpecialTouch": "You got a kink for submarines or somethin', Commander? Well, well..."
+    },
+    {
+      "ENClientName": "New Year's Nightingale",
+      "CNClientName": "Çáµ¯Ç³³ªÕýÔÂÊ±",
+      "JPClientName": "¤¦¤¿¤«¤¿†h¤¦ÈA¤¤¤í¤Ï",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/57/U-37New_YearChibi.png",
+      "shipDescription": "Now then, please lend your ears to this song I shall offer you... Wait, Commander, are you spacing out again? Even though I went through all this trouble to learn this song from my friends in the Sakura fleet... Please pay attention, okay? I'm starting ov",
+      "acquisition": "Now then, please lend your ears to this song I shall offer you... Wait, Commander, are you spacing out again? Even though I went through all this trouble to learn this song from my friends in the Sakura fleet... Please pay attention, okay? I'm starting over...",
+      "login": "Hey! Happy New Year, Commander! Lessee here... Just tryin' to think of a fitting New Year's song...",
+      "details": "Now then, my dear visitor, I would like to play for you a little song... Heheh, go figure, I'm good at this whole mimicry thing!",
+      "secretaryIdle1": "These clothes keep slippin' off... Annoying for me, but just the way you like it, am I right~? Heheh~",
+      "secretaryIdle2": "My U-boat buds agreed to play this thing called \"hanetsuki\"! U-110 sure seems excited about it... Hang on, can I even play in these tight clothes?",
+      "secretaryIdle3": "An electric guitar would really be more my style, y'know? Would kinda clash with this getup, though. Ahah.",
+      "secretaryTouch": "Hehehe~ I've got pretty slick skin if I do say so myself.",
+      "secretarySpecialTouch": "Whoa there, lost all self-control, have ya, Commander~?"
+    }
+  ]
+}

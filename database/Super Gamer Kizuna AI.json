@@ -1,0 +1,33 @@
+{
+  "name": "Super Gamer Kizuna AI",
+  "rarity": "Super Rare",
+  "ID": "Collab044",
+  "faction": "KizunaAI",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d0/Super_Gamer_Kizuna_AIChibi.png",
+      "shipDescription": "HAI DOMO! Virtual Gamer Kizuna AI here! Don't worry, Commander, I've played AL a whole bunch before! ... Wait, I've become a ship now?!",
+      "selfIntroduction": "My hair? Heheh, I'm virtual so I can change my hair's length whenever I want. How else do you think I look this cool while I'm fraggin' out? I'm the super gamer version of Kizuna AI! Check it!",
+      "acquisition": "HAI DOMO! Virtual Gamer Kizuna AI here! Don't worry, Commander, I've played AL a whole bunch before! ... Wait, I've become a ship now?!",
+      "login": "You haven't forgotten about the monthly check in, right? That'd be a real noob move!",
+      "details": "Are you here to play a game, Commander? I was just about to start streaming one, actually! Would you like to play it with me?",
+      "secretaryIdle1": "Maybe I'll host the Kizuna AI Cup here! Ayanami and Long Island said they'd be down, so why not be our 4th player, Commander?",
+      "secretaryIdle2": "Being a genius but in reality playing like a total noob is suffering...",
+      "secretaryIdle3": "Whoosh! What do you think about this pose I learned from Jamaica? Don't I look cool?",
+      "secretaryTouch": "You wanna play a round with me? Certainly! I accept your challenge! My skill should not be underestimated!",
+      "secretarySpecialTouch": "Commander, do you know what a \"headshot\" is? Mind if I perform one on you?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/6/6c/Super_Gamer_Kizuna_AI_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/7/72/Super_Gamer_Kizuna_AI_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/36/Super_Gamer_Kizuna_AI_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/4/4f/Super_Gamer_Kizuna_AI_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/7f/Super_Gamer_Kizuna_AI_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/e0/Super_Gamer_Kizuna_AI_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/41/Super_Gamer_Kizuna_AI_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d5/Super_Gamer_Kizuna_AI_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/3/3a/Super_Gamer_Kizuna_AI_Sec2JP.ogg"
+    }
+  ]
+}

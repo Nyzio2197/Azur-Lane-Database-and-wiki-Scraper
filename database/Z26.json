@@ -1,0 +1,38 @@
+{
+  "name": "Z26",
+  "rarity": "Elite",
+  "ID": "466",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2a/Z26Chibi.png",
+      "shipDescription": "Type 1936A \"Narvik class\" destroyer – Z26.",
+      "selfIntroduction": "So you want to hear about my history? Absolutely! As the Iron Blood Type 1936A destroyer, Z26, I escorted Hipper and Scheer, and disrupted shipping with Z25 and the others. While doing so, I was defeated... and that's that!",
+      "acquisition": "I'm the Iron Blood destroyer, Z26! I look forward to working with you! ...All right, that should do just fine as an introduction...!",
+      "login": "Sorry, but only authorized personnel are allowed into the office... Oh, I guess you're authorized to enter. Welcome back! Let's give it our all!",
+      "details": "I hate snowstorms. One was the reason I got separated from my allies and captured by the enemy...",
+      "secretaryIdle1": "Commander, slacking off is absolutely prohibited! ...You've already finished your work? I-in that case... Well done!",
+      "secretaryIdle2": "Zed's good at studying, and Lebe's good at sports... so I should aim to... study while playing sports? W-will I manage?",
+      "secretaryIdle3": "I wonder if Z25's Mr. Anchor is actually alive... I mean, she's always talking to it, so...",
+      "secretaryTouch": "If you need assistance, just give me the order! ...Err, I mean, please let me know!",
+      "secretarySpecialTouch": "No lewdness allowed! Ever! Full stop!"
+    },
+    {
+      "ENClientName": "Sharing is Caring",
+      "CNClientName": "友好的分享时间",
+      "JPClientName": "友情シェアタイム",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/Z26CasualChibi.png",
+      "shipDescription": "Commander, welcome to my pad! Ah, give me a sec, let me go grab all the snacks and drinks and games!",
+      "acquisition": "Commander, welcome to my pad! Ah, give me a sec, let me go grab all the snacks and drinks and games!",
+      "login": "Sorry to keep you waiting! These are all my belongings! ...I mean, uhh, these are all my snacks and games!",
+      "details": "Spee really likes these bugle crunches a whole lot. Do you like them too, Commander? Then, open up, I'll chuck a few in for you!",
+      "secretaryIdle1": "U96 pwned me again! Maybe I should practice more with Ryuujou before challenging her... Oh, Commander, I'm talking about a fighting game I've been playing with U96 and the others!",
+      "secretaryIdle2": "If you're tired, you should try hugging Sharky and taking a nap! ...Ah, I meant that Sharky pillow on the bed!",
+      "secretaryIdle3": "My sisters are always telling me not to spend too much time gaming. But since it's my day off, does it reallly matter how much I play?",
+      "secretaryTouch": "Press this button to start a new game! ...Um, Commander, weren't you asking about where the start button is?"
+    }
+  ]
+}

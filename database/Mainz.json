@@ -1,0 +1,33 @@
+{
+  "name": "Mainz",
+  "rarity": "Priority",
+  "ID": "Plan015",
+  "faction": "Iron Blood",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3f/MainzChibi.png",
+      "shipDescription": "Light cruiser ¨C Mainz.",
+      "selfIntroduction": "Light cruiser, Mainz. There were plans for me to succeed the Admiral Hipper class, but due to circumstances, I've incarnated in this form. You get the rest without me telling you, right?",
+      "acquisition": "Light cruiser, Mainz. You'll be my first Commander. Hmph. Don't you dare disappoint me.",
+      "login": "Make sure that the wait was worth my time, Commander.",
+      "details": "Achievements? ...Let's start racking them up today.",
+      "secretaryIdle1": "What do you think you're doing! Adding milk to coffee is nothing short of blasphemy! The same goes for sugar!!!",
+      "secretaryIdle2": "I can't believe it... though this room is so large, it doesn't even have a coffee maker...!",
+      "secretaryIdle3": "If only I were constructed in the Great War instead of being incarnated in this form, I wonder how much I would have been able to do... I guess thinking about it doesn't help.",
+      "secretaryTouch": "What's wrong? Do you want me to comfort you?",
+      "secretarySpecialTouch": "Perfect. I can finish testing my guns by firing them at you.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/b/b6/Mainz_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/4/4e/Mainz_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/7/78/Mainz_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Mainz_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/d/db/Mainz_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/e4/Mainz_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d4/Mainz_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/36/Mainz_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/8d/Mainz_Sec2JP.ogg"
+    }
+  ]
+}

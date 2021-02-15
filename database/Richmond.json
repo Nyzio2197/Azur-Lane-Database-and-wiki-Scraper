@@ -1,0 +1,33 @@
+{
+  "name": "Richmond",
+  "rarity": "Normal",
+  "ID": "303",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a4/RichmondChibi.png",
+      "shipDescription": "Omaha-class light cruiser - Richmond, Hull Number CL-9!",
+      "selfIntroduction": "I'm Richmond of the Omaha-class. Because I'm an old model, I was mainly tasked with things like escorts and transport. Although my performance is nothing to brag about, you can say that I've seen a lot of action! Feel free to ask me anything whenever you have questions~!",
+      "acquisition": "Hi! Are you the commander? That's great~! I'm Richmond. Hit me up whenever you feel like~!",
+      "login": "Commander, did you do anything interesting while you were away for so long? You should bring me along next time~!",
+      "details": "Commander, do you need anything? You can always chat with me if you're free.",
+      "secretaryIdle1": "Commander, you've got something on your lips... Got it!",
+      "secretaryIdle2": "I'd love to be able to see everyone from all over the world~!",
+      "secretaryIdle3": "Lots of my sisters have survived through this war. Impressive, right?",
+      "secretaryTouch": "Do you like getting physical too, Commander?",
+      "secretarySpecialTouch": "Com~man~der~",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/3/3e/Richmond_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/2/26/Richmond_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/5/5c/Richmond_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/f/f9/Richmond_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/8/8e/Richmond_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/9/98/Richmond_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/49/Richmond_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ea/Richmond_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/5/59/Richmond_Sec2JP.ogg"
+    }
+  ]
+}

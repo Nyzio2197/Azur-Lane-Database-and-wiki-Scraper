@@ -1,0 +1,39 @@
+{
+  "name": "Weser",
+  "rarity": "Elite",
+  "ID": "485",
+  "faction": "Iron Blood",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b9/WeserChibi.png",
+      "shipDescription": "Aircraft carrier ¨C Weser.",
+      "selfIntroduction": "Whether as the 4th ship of the Admiral Hipper class, Seydlitz, or as the escort carrier, Weser, I was never completed over the entirety of that war. ...Over here, I should have more than enough time to do everything I've always wanted to do. That way, I'll be able to bury my regrets, one by one.",
+      "acquisition": "Heavy cruiser, Seydlitz... Rather, escort carrier Weser, has arrived. You're wondering why I have two names? Don't be in such a rush... I'll be sure to teach you later, slowly.",
+      "login": "Before you hurry off to do your work, why not first take a seat and enjoy a cup of coffee?",
+      "details": "Commander, are you free? Do you have time to help me practice with my planes?",
+      "secretaryIdle1": "The Iron Blood doesn't have as many aircraft carriers as the other factions, so I can't help but worry that we'll be at a disadvantage during practice exercises.",
+      "secretaryIdle2": "The Unsinkable Battleship...? Oh, I know who you're talking about. I wonder if I'll ever be able to meet my renowned predecessor, Seydlitz, at some point?",
+      "secretaryIdle3": "Hipper, Eugen... I can't believe I'm able to fight by their side like this. It's all thanks to you, Commander.",
+      "secretaryTouch": "If you're tired, just set everything else aside and get some rest. I'll wake you up if somebody comes around.",
+      "secretarySpecialTouch": "Your spirited enthusiasm... You might want to change the way you convey it."
+    },
+    {
+      "ENClientName": "Obsidian Elegance",
+      "CNClientName": "°µ½ðÐåÉ«",
+      "JPClientName": "²Ê¤ê»Í¤á¤¯ü\½ð¤Î½‘",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fd/WeserNew_YearChibi.png",
+      "shipDescription": "I've been waiting for you, Comander. As per my sister's recommendation, I've put on this Sakura Empire kimono. It was very tricky to get into, I might add... That aside, how do I look? ...Good enough, I hope?",
+      "acquisition": "I've been waiting for you, Comander. As per my sister's recommendation, I've put on this Sakura Empire kimono. It was very tricky to get into, I might add... That aside, how do I look? ...Good enough, I hope?",
+      "login": "Have you already decided what we'll do today? If not, take your time. The goddess of time is a patient one.",
+      "details": "Sit down and relax. Have some rich tea, or read a nice book to ease off.",
+      "secretaryIdle1": "The Sakura Empire's New Year's banquet? I'd love to go, but... Eugen, can you promise you won't get drunk out of your mind again?",
+      "secretaryIdle2": "Cozy winter sunsets really make you drowsy... I just take a short nap... Zzz...",
+      "secretaryIdle3": "On New Year's Eve, you're meant to put work on hold, relax, and take in the start of a new year. You should do exactly that, Commander.",
+      "secretaryTouch": "Oh, we're going to a Sakura Empire shrine for New Year's? Heheh. I'm looking forward to the memories we'll make today.",
+      "secretarySpecialTouch": "Okay, you've proven just how tenacious you are. Now, could you stop it already?"
+    }
+  ]
+}

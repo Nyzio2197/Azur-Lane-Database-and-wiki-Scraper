@@ -1,0 +1,32 @@
+{
+  "name": "Cleveland ?",
+  "rarity": "Elite",
+  "ID": "420",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "Light cruiser Cleveland, right here! I'm new to this whole idol biz, but I'll go with the flow and give it my all! Oh, and I'm counting on your support, Commander!",
+      "selfIntroduction": "I'm Cleveland, the light cruiser. My sisters and I took part in the World War and... Well, let's just say we did pretty good for ourselves. This time around I'm wearing this special uniform, and I'm gonna fight with the power of song!",
+      "acquisition": "Light cruiser Cleveland, right here! I'm new to this whole idol biz, but I'll go with the flow and give it my all! Oh, and I'm counting on your support, Commander!",
+      "login": "Hey! You all having a good time? ...All right, that should do it! Oh, hey, Commander! Heheh, I was just doing some practice!",
+      "details": "What's important for concerts is having confidence! If you believe you're a star, then you are! Really! Hey, that actually sounded like a pretty cool one-liner.",
+      "secretaryIdle1": "Hehe~ It's time to break it down! Can you keep up? Just kidding~ Downes is a bit of a class act, isn't she?",
+      "secretaryIdle2": "Well, I'm not nervous at all because I've had a few chances to sing in front of everyone. Also, it helps that I'm not the lead vocalist, hehe.",
+      "secretaryIdle3": "Montpelier, Denver, what the heck are you wearing? That's embarrassing...! And Birmingham, you don't have to go waving that thing around!",
+      "secretaryTouch": "I've gotta train for the handshake meet-and-greet. Think you could \"give me a hand,\" Commander?",
+      "secretarySpecialTouch": "Commander?! I'm trying to get by as an idol here! Th-Think of my image...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/4/4a/Cleveland_%C2%B5_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/4/49/Cleveland_%C2%B5_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/84/Cleveland_%C2%B5_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/4/4e/Cleveland_%C2%B5_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/1/1d/Cleveland_%C2%B5_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/27/Cleveland_%C2%B5_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/99/Cleveland_%C2%B5_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b5/Cleveland_%C2%B5_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/25/Cleveland_%C2%B5_Sec2JP.ogg"
+    }
+  ]
+}

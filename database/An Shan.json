@@ -1,0 +1,37 @@
+{
+  "name": "An Shan",
+  "rarity": "Elite",
+  "ID": "253",
+  "faction": "Dragon Empery",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cc/An_ShanChibi.png",
+      "shipDescription": "An Shan-class destroyer, No. 1 - Anshan (101)",
+      "selfIntroduction": "I am the nameship of the An Shan-class destroyers, and one of the Dragon Empery's first-generation \"Four Unbreakables.\" As the flagship, I participated in many naval exercises, carried out surveillance, and engaged in confrontations, leaving behind lasting achievements that I can be proud of. Though I never participated in live combat, I am the destroyer with the most miles under her belt in the entire world!",
+      "acquisition": "Destroyer, An Shan, reporting for duty! I shall protect my sisters and you, Commander!",
+      "login": "Wow! Today's schedule looks packed. Let's work hard today!",
+      "details": "Commander, what would you like to know?",
+      "secretaryIdle1": "Woah, this is my first time seeing a battleship!",
+      "secretaryIdle2": "Where did Fu Shun run off to? Would it really kill her to do as I say every now and then?",
+      "secretaryIdle3": "My sisters - Fu Shun, Chang Chun, and Tai Yuan - are all my pride and joy!",
+      "secretaryTouch": "Commander... Hehe~ doing this occasionally is not all that bad.",
+      "secretarySpecialTouch": "Hey-! My sisters are going to see us...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/77/An_Shan_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/9d/An_Shan_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/6/60/An_Shan_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/37/An_Shan_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/8/82/An_Shan_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/d6/An_Shan_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/13/An_Shan_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/8/8e/An_Shan_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/83/An_Shan_Sec2JP.ogg"
+    },
+    {
+      "CNClientName": "ºÍÆ½µÄºÅ½Ç",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3c/An_ShanNavyChibi.png"
+    }
+  ]
+}

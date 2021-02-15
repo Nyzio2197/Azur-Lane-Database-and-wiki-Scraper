@@ -1,0 +1,32 @@
+{
+  "name": "Juneau",
+  "rarity": "Rare",
+  "ID": "035",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png",
+      "shipDescription": "Atlanta-class light cruiser ¨C Juneau, Hull Number CL-52!",
+      "selfIntroduction": "I-I'm Juneau, an Atlanta-class anti-aircraft cruiser... Because I have high anti-air capabilities, I was assigned to a Task Force, but I'm actually scared of getting shot... Unfortunately I couldn't make it back home from Espiritu Santo...",
+      "acquisition": "I-I'm Juneau... I'm a cruiser... I'm scared of pain... *Sob* And I'm scared of you, Commander...!",
+      "login": "C-Commander... I'll always be w-waiting for you here...",
+      "details": "The... old injury to my foot? Well... my foot's still a bit stiff, but I won't ever let myself drag everyone else down...!",
+      "secretaryIdle1": "*Eek* Commander?! Y-you scared me...",
+      "secretaryIdle2": "I want to be brave... But it's really hard...",
+      "secretaryIdle3": "Commander, have I annoyed you in any way...?",
+      "secretaryTouch": "Pl... please be gentle... I'm very susceptible to pain...",
+      "secretarySpecialTouch": "Mmh... *Whimper*...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/e/e2/Juneau_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a4/Juneau_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/c/c3/Juneau_LogJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/4/4e/Juneau_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/84/Juneau_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/13/Juneau_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/4/49/Juneau_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/5/5e/Juneau_Sec2JP.ogg"
+    }
+  ]
+}

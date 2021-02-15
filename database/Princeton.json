@@ -1,0 +1,39 @@
+{
+  "name": "Princeton",
+  "rarity": "Elite",
+  "ID": "473",
+  "faction": "Eagle Union",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5e/PrincetonChibi.png",
+      "shipDescription": "Independence-class light aircraft carrier – Princeton (CVL-23.)",
+      "selfIntroduction": "Second ship of the Independence class, Princeton, at your service. I was originally laid down as the seventh ship in the Cleveland class, Tallahassee. I fought a lot alongside Saratoga in the war, and though I was able to learn much from her, I wasn't able to make it through the Battle of Leyte Gulf... It'd be an honor to fight by her side once again.",
+      "acquisition": "I'm Princeton, Independence class. Tallahassee? I don't mind if you want to call me that.",
+      "login": "You're finally here. Did you rest well?",
+      "details": "Did you need something? Oh, it's fine. I wasn't doing anything special, just sorta letting my mind wander.",
+      "secretaryIdle1": "Sara? ...S-Saratoga is someone I admire very much. I wouldn't dare call her by her nickname.",
+      "secretaryIdle2": "Montpelier is a close friend of mine. It's not because we were both members of the Cleveland class, but because we both have someone we really look up to in our lives.",
+      "secretaryIdle3": "Feel free to give me as much work as you need. It's part of a secretary ship's duties, so don't fret it.",
+      "secretaryTouch": "What, do you think I'm too inexpressive? I was wondering if that's why it's like you're always trying to make me laugh.",
+      "secretarySpecialTouch": "Have you never tried a knuckle sandwich before? How about a taste of mine... Hyah!"
+    },
+    {
+      "ENClientName": "Seaside Training",
+      "CNClientName": "浅海的特别训练",
+      "JPClientName": "カヌートレーニング",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3c/PrincetonSummerChibi.png",
+      "shipDescription": "Commander, are you also here to swim? ...Ah, this here? I brought it with me to the ocean to get some practice in.",
+      "acquisition": "Commander, are you also here to swim? ...Ah, this here? I brought it with me to the ocean to get some practice in.",
+      "login": "Have you done your stretches yet? You don't want to get cramps because you rushed into the ocean unprepared.",
+      "details": "I got this collector's edition of \"Saratoga: Beautiful Summer Days\" from Gridley. Looking at Saratoga enjoying the summer with everyone else makes me wish I could join her...",
+      "secretaryIdle1": "Hehehe. With this, I'll be able to improve my sense of balance and my physical strength at the same time. Would you like to give this a try as well?",
+      "secretaryIdle2": "...It really will be a problem if my hair gets all messy from this. Um, Commander... do you think you could tie it down for me?",
+      "secretaryIdle3": "Independence and the others are calling for me? ...All right, I'll go.",
+      "secretaryTouch": "You want to get on? I-it's not that I don't want you to, but...",
+      "secretarySpecialTouch": "W-wait a second! If you move too suddenly, it'll capsize... Wah?!"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Hardy",
+  "rarity": "Elite",
+  "ID": "096",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c3/HardyChibi.png",
+      "shipDescription": "H-class destroyer ¨C Hardy (H87)",
+      "selfIntroduction": "I am Hardy, flotilla leader of the Royal Navy's H-class. At the Battle of Narvik, I led an assault on an Iron Blood port. We were able to land a heavy blow, but the enemy reinforcements... If only I had more time back then...",
+      "acquisition": "It's an honour to meet you, Your Excellency. Hardy, destroyer of the Royal Navy, reporting for duty.",
+      "login": "You seem to be running a little late. Your Excellent, please begin your work soon.",
+      "details": "Nothing can be achieved without repeated practice. Your Excellency, you should know this quite well, yes?",
+      "secretaryIdle1": "There's something relaxing about this office, hmm... W-woah?! I, I'm not nodding off!",
+      "secretaryIdle2": "I may be a flotilla leader, but that's because I've earned the trust of my sister ships. It's not like I have a higher rank than them.",
+      "secretaryIdle3": "Hunter, I bet you ate my cake again! ...Oh, sorry, Your Excellency, did I disturb you?",
+      "secretaryTouch": "Eek?! ...Your Excellency? Please don't suddenly touch me like that!",
+      "secretarySpecialTouch": "This rapier may be decorative, but the business end still hurts!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/d/d0/Hardy_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/60/Hardy_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/45/Hardy_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/9/96/Hardy_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/d/d4/Hardy_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/52/Hardy_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/28/Hardy_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/90/Hardy_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/a/ac/Hardy_Sec2JP.ogg"
+    }
+  ]
+}

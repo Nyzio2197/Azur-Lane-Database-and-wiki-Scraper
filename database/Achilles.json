@@ -1,0 +1,50 @@
+{
+  "name": "Achilles",
+  "rarity": "Rare",
+  "ID": "105",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cc/AchillesChibi.png",
+      "shipDescription": "Leander-class light cruiser ®C Achilles, Hull Number 70!",
+      "selfIntroduction": "I'm the second ship of Leander class ships, Achilles. My name is from the war god Achilles who fought in Troy~ That~ is~ why~, I'm gonna kick my enemies' butts no matter who they are~°Ó",
+      "acquisition": "Leander class light cruiser number 2, A~chil~les~ is here~ Commander, want to buy snacks in New Zealand?",
+      "login": "Commander, Commander, don't pronounce my name wrong again~ I'm Achilles - remember that? Remember that? It's A-chil-les~°Ó",
+      "details": "Eh? Me liking potatoes... does not match with my image?!",
+      "secretaryIdle1": "Com~man~der! What is that delicious looking thing?",
+      "secretaryIdle2": "Al~right~ Then I'm eating the butter~",
+      "secretaryIdle3": "Oww-- I cannot move my head or body anymore~ I don't want to do anything for a month~",
+      "secretaryTouch": "OK, I got it now~ Commander is an idiot!",
+      "secretarySpecialTouch": "Hey, hey, wha~t are you looking for?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/0/0a/Achilles_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/8/8d/Achilles_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/9/94/Achilles_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/4/4b/Achilles_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/a/ae/Achilles_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/de/Achilles_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/51/Achilles_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/25/Achilles_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/6f/Achilles_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/71/AchillesKaiChibi.png",
+      "shipDescription": "The cute and charming Achilles is Super°ÓRetro°ÓFitted! Even my heel won't give me any problems now! Well, not like it really ever did before, ahaha~°Ó",
+      "acquisition": "The cute and charming Achilles is Super°ÓRetro°ÓFitted! Even my heel won't give me any problems now! Well, not like it really ever did before, ahaha~°Ó",
+      "login": "Commander, want some honey? It's heckin' yummy~!",
+      "details": "Look, Commander! There's a gorgeous sheila in the sky! ... Really? You believed that?",
+      "secretaryIdle2": "Being here now, I can chat with anyone whenever! Stoked as a stove, I am!°Ó",
+      "secretaryIdle3": "You trying to hide some good chow from me? C'mon, let me have a taste!°Ó",
+      "secretaryTouch": "Let's go and sail off into the sunset! Strewth, this is what being a teeny's all about, eh~",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/e/e8/Achilles_IntroSkin9JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/c/c0/Achilles_LogSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a0/Achilles_DetailsSkin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/d0/Achilles_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/23/Achilles_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/7/74/Achilles_Sec1Skin9JP.ogg"
+    }
+  ]
+}

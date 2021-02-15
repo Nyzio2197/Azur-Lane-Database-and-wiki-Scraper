@@ -1,0 +1,27 @@
+{
+  "name": "Jersey",
+  "rarity": "Rare",
+  "ID": "307",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/37/JerseyChibi.png",
+      "shipDescription": "J-class destroyer ¨C Jersey (F72.)",
+      "selfIntroduction": "I'm Jersey, of the J class. While I have neither noble blood nor a particularly outstanding combat record, my personality is what it is, so spare me your complaints. What happened in Malta was just a slipup. But, admittedly, mistakes are mistakes. That much I know.",
+      "acquisition": "Are you the Commander? My name is Jersey, and don't you forget it.",
+      "login": "Do you know how long you've kept me waiting, Commander? What's the meaning of this?",
+      "details": "Do you need anything? Or are you just here to chat?",
+      "secretaryIdle1": "I hate it when others underestimate me because of my size!",
+      "secretaryIdle2": "No one knows what's on a person's mind if they don't say it aloud. I do not like people who are roundabout.",
+      "secretaryIdle3": "I wish you would compliment me for being honest, rather than for being \"cute.\" Not that I mind compliments like that.",
+      "secretaryTouch": "What, you want to nuzzle against my lap? You can keep your fantasies in your dreams where they belong.",
+      "secretarySpecialTouch": "C-Commander?! I-I-I appreciate your straightforwardness, but now isn't the time..."
+    },
+    {
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8d/JerseyOriginalChibi.png"
+    }
+  ]
+}

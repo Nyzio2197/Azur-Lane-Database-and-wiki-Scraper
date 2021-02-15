@@ -1,0 +1,53 @@
+{
+  "name": "Mogami",
+  "rarity": "Elite",
+  "ID": "188",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/MogamiChibi.png",
+      "shipDescription": "Mogami-class Heavy Cruiser no. 1 - Mogami",
+      "selfIntroduction": "I am Mogami, nameship of the Mogami-class... on paper, anyway. After what happened to Mikuma and Nachi at Midway, I have no right to call myself that anymore... In any case, feel free to hand me your work, but just don't expect much.",
+      "acquisition": "Mogami, reporting for duty... Don't worry too much about me, just leave me be and I'll find my own place to crash.",
+      "login": "Welcome back. Huh? You want me to say it with more emotion? Sorry, chief. Not sure I can help with that one.",
+      "details": "Not saying anything makes you look cool? Figures... you would believe something like that.",
+      "secretaryIdle1": "I wonder what Mikuma is doing right now... Well, I suppose there's nothing to worry about. She's not like me, after all...",
+      "secretaryIdle2": "Are you sure you want me to be your secretary? Just about anybody else would be better for the job. I'm serious... I'm not just saying that to avoid work.",
+      "secretaryIdle3": "Perhaps I should get Nachi to teach me how to be a little more cheerful... crap, hope nobody heard that...",
+      "secretaryTouch": "You don't have to remind me, I'll get the work done.",
+      "secretarySpecialTouch": "Eek!! Commander, are you seriously interested in someone like me...?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/ca/Mogami_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/9/9d/Mogami_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/6/61/Mogami_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/c/c2/Mogami_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/35/Mogami_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/1e/Mogami_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Mogami_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ee/Mogami_Sec2JP.ogg"
+    },
+    {},
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7b/MogamiKaiChibi.png",
+      "shipDescription": "Are you sure this is a retrofit and not some weird hazing ritual? I look... Well, I suppose I do feel stronger. Guess I'll try to work a bit harder. Wouldn't hurt for you to look forward to it a little.",
+      "acquisition": "Are you sure this is a retrofit and not some weird hazing ritual? I look... Well, I suppose I do feel stronger. Guess I'll try to work a bit harder. Wouldn't hurt for you to look forward to it a little.",
+      "login": "Commander, you're back. Huh? I just happen to remember what your footsteps sound like.",
+      "details": "I look even cooler now when I don't say anything? Whatever... have it your way...",
+      "secretaryIdle1": "Recently, Mikuma has been telling me that I have more self-esteem... Not sure about that one though, I don't think I've really changed...",
+      "secretaryIdle2": "Secretary ship duties? Well, I still think I'm not really cut out for it compared to the others... but if it's what you want, I'll keep doing it.",
+      "secretaryIdle3": "Commander, be honest. What do you think about my new outfit after the retrofit? Um... if you like it, I suppose we can keep it like this...",
+      "secretaryTouch": "Maybe I should go practice using this naginata or something...",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/b/b8/Mogami_IntroSkin9JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/bd/Mogami_LogSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/38/Mogami_DetailsSkin9JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/a/a7/Mogami_SecIdle1Skin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/72/Mogami_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/4f/Mogami_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/12/Mogami_Sec1Skin9JP.ogg"
+    }
+  ]
+}

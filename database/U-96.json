@@ -1,0 +1,31 @@
+{
+  "name": "U-96",
+  "rarity": "Super Rare",
+  "ID": "467",
+  "faction": "Iron Blood",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a9/U-96Chibi.png",
+      "shipDescription": "Iron Blood Type VIIC submarine – U-96.",
+      "selfIntroduction": "The name's U-96, Iron Blood Type VIIC U-boat, part of the 7th U-boat Flotilla. I made some real juicy contributions over my 11 patrols in the war. Never did fare well against aircraft, though... But don't let that worry ya, Commander. I'm still an ace, and I ain't never gonna let ya down.",
+      "acquisition": "Sup. I'm U-96, Type VIIC U-boat and member of the famous Vorw?rts wolfpack. Hehe, I'll have you drowning in reports of my success soon enough.",
+      "login": "Look who's early. Here I was hoping to see you panicking over being late.",
+      "details": "Yeah, what? You fancy how a U-boat in her off time looks?",
+      "secretaryIdle1": "It's not the foes you can see that you should fear, it's the ones you can't see. Like us U-boats, for instance...",
+      "secretaryIdle2": "Step one: dive. Step two: wait. While we U-boats can hold our breaths for ages, sometimes I just like goin' for a leisurely swim.",
+      "secretaryIdle3": "\"The Oak-Leaves Patrol\"... Heheh, that's got a nice ring to it. Still, all we really did was make a pack and go huntin' for targets.",
+      "secretaryTouch": "Did ya need something, or?",
+      "secretarySpecialTouch": "What? You seriously like touching me here?"
+    },
+    {
+      "ENClientName": "Secret Gaming Session",
+      "CNClientName": "秘密的游戏时间",
+      "JPClientName": "秘密の遊戯タイム",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/8e/U-96CasualChibi.png",
+      "shipDescription": "Nice timing. I just finished an intense battle. The result...? Of course I won. What? Did you want to have a match against me?"
+    }
+  ]
+}

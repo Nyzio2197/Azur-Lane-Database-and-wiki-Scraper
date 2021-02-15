@@ -1,0 +1,24 @@
+{
+  "name": "Pola",
+  "rarity": "Super Rare",
+  "ID": "489",
+  "faction": "Sardegna Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/01/PolaChibi.png",
+      "shipDescription": "Zara-class heavy cruiser ¨C Pola.",
+      "selfIntroduction": "I'm the fourth ship of the Zara-class heavy cruisers, Pola. My sisters and I have stronger armor rarely seen on heavy cruisers, which gives us an advantage in artillery battles. In terms of my abilities to serve as flagship... I might be a bit more suitable than Zara?",
+      "acquisition": "I'm Pola, heavy cruiser from Sardegna. And you're the commander of this fleet? I see. Well, don't let me down, okay? Hehe~",
+      "login": "Hehe, you sure took your sweet time. The fleet exercises are about to start without you~",
+      "details": "My Zara is always so gentle and lovely, I just can't take my eyes off her.",
+      "secretaryIdle1": "All these \"conventions\" and \"treaties\"... Things that do not consider the feelings of actual people should disappear from this world.",
+      "secretaryIdle2": "A true fighter does not fear any danger. I won't back down even in the face of a heavy storm.",
+      "secretaryIdle3": "The feeling of being enveloped by a searchlight... makes me a bit uneasy.",
+      "secretaryTouch": "My rapier is not simply for show, you know.",
+      "secretarySpecialTouch": "You surely didn't do the same kind of stuff to Zara, right?"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Chiyoda",
+  "rarity": "Elite",
+  "ID": "471",
+  "faction": "Sakura Empire",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/48/ChiyodaChibi.png",
+      "shipDescription": "Zuihou-class aircraft carrier ®C Chiyoda.",
+      "selfIntroduction": "Even though Chitose and I were seaplane tenders, after a loss in a certain battle, we were both remodeled into aircraft carriers. ...Even so, neither of us were able to be of much use until the end... Ahahaha....",
+      "acquisition": "Hehe, looks like I've kept you waiting! I am the renowned seaplane carrier®C err, I mean, aircraft carrier, Chiyoda! In any case, I'll be staying here! Right, right, is my sister Chitose here as well?",
+      "login": "Today's another great day to show off my amazing prowess! Commander, let's get pumped!",
+      "details": "I help Chitose out with her Shinto duties sometimes. You know, as a shrine maiden. ...Huh? You think I'd be more of a hindrance...?",
+      "secretaryIdle1": "Taaake that! ...Hmm? No reaction... Commander, sometimes you're so much like Chitose, it's honestly quite a letdown...",
+      "secretaryIdle2": "Doesn't Chitose have really silky hair that smells just divine? Actually, I'm the one who takes care of it everyday.",
+      "secretaryIdle3": "Whenever we rehearse the dance with Yamashiro and Fusou, some kind of trouble always occurs... Like something falling, or flying off somewhere. But really? I find it all to be pretty funny!",
+      "secretaryTouch": "Am I so beautiful that I caught your eye? I'm flattered, but you should focus on your work for now~",
+      "secretarySpecialTouch": "Yikes?! If you had done this to Chitose instead, she'd have turned bright red from embarrassment!",
+      "secretaryHeadpat": "Hehehe~ Commander, do you prefer them long or short?"
+    },
+    {
+      "ENClientName": "Shimmering Surf",
+      "CNClientName": "±Ã≤®≤”¿√÷Æ»’",
+      "JPClientName": "Ω≤®†N°©«ß¥˙ÃÔ",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cc/ChiyodaSummerChibi.png",
+      "shipDescription": "Hehe~ If you don't have any other plans, then your only task... is to enjoy a holiday by the sea! Commander, have you switched into vacation mode yet?",
+      "acquisition": "Hehe~ If you don't have any other plans, then your only task... is to enjoy a holiday by the sea! Commander, have you switched into vacation mode yet?",
+      "login": "Since we're here anyway, we've gotta enjoy the day to the fullest! We can start by playing with some balls. Catch, Commander!",
+      "details": "Heehee... Commander, take this! A direct hit from my water gun! Oh, you got some saltwater in your mouth? I'm terribly sorry... So, Commander... tell me, how did it taste? Hahaha~",
+      "secretaryIdle1": "Hmm, beach volleyball? ... I'll use my powers to turn Saratoga into a holey woman! Ain't that right, Chitose?",
+      "secretaryIdle2": "The summer sun, the sparkling sea... Stop lazing around and come play with me already, Chitose~",
+      "secretaryIdle3": "Oh, Yamashiro and her sister came too. Wouldn't it be a good idea to team up with them? Well?",
+      "secretaryTouch": "The glamorous Chiyoda in a swimsuit~! No matter how breathtaking I might look, don't just stand there and stare like an idiot. C'mon, let's go and play~",
+      "secretarySpecialTouch": "If you're looking for something nice and round, I can throw this ball at your face, you know...?"
+    }
+  ]
+}

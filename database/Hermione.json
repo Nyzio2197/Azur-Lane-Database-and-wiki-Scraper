@@ -1,0 +1,53 @@
+{
+  "name": "Hermione",
+  "rarity": "Super Rare",
+  "ID": "463",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/80/HermioneChibi.png",
+      "shipDescription": "Dido-class light cruiser ¨C Hermione (HMS Hermione.)",
+      "selfIntroduction": "I'm Hermione, a Dido-class ship belonging to the Royal Navy. In the past... I chased after Bismarck and participated in anti-submarine warfare in Sardegna... Besides that, there's nothing worth mentioning. Commander, do you have any questions?",
+      "acquisition": "Good day. I am Hermione, from the Royal Maids. I'm delighted to make your acquaintance, Commander.",
+      "login": "Good morning, Commander. Did you sleep well?",
+      "details": "I really admire the head of the Royal Maid, Miss Belfast... She can do anything and has a strong will to boot... I hope I can become like her one day.",
+      "secretaryIdle1": "It's not good to strain yourself by overworking. How about splashing some water on your face to refresh yourself?",
+      "secretaryIdle2": "It seems like the price for this ingredient has gone up... Commander, from now on, we'll have fewer dishes that use this.",
+      "secretaryIdle3": "Commander, watching you easily handle your work makes me feel happy... I wonder why?",
+      "secretaryTouch": "A fizzy drink? ...What am I going to do with you? I suppose you can have just one bottle, all right?",
+      "secretarySpecialTouch": "Commander, it's good to pay attention to the time and place when doing something like this, you know?"
+    },
+    {
+      "ENClientName": "Pure White Angel",
+      "CNClientName": "ÎÂÈáµÄ´¿°×ÌìÊ¹",
+      "JPClientName": "¥Ô¥å¥¢¥Û¥ï¥¤¥È¥¨¥ó¥¸¥§¥ë",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/ce/HermioneHospitalChibi.png",
+      "shipDescription": "My, what brings you here, Commander? Are you feeling unwell? That's no good... Why don't you come sit over here first? I'll start by taking your temperature...",
+      "acquisition": "My, what brings you here, Commander? Are you feeling unwell? That's no good... Why don't you come sit over here first? I'll start by taking your temperature...",
+      "login": "Hm? Commander, what brings you back here...? Umm, are you here to be... inspected?",
+      "details": "Commander... Even ships can get sick. Please, make sure to take care of yourself, alright?",
+      "secretaryIdle1": "Gosh, Commander... If you pretend to be sick, even I'm going to get mad at you!",
+      "secretaryIdle2": "Commander, don't you think this dress is a bit too small for me...? Um... I just feel like it doesn't fit me...",
+      "secretaryIdle3": "Commander, please make sure that you pay attention to your own health. After all, I can't attend to you around the clock.",
+      "secretaryTouch": "Commander, let me perform an examination on you. Please come here and lie down on your side.",
+      "secretarySpecialTouch": "Are we... playing doctor?"
+    },
+    {
+      "ENClientName": "Pure White Holiday",
+      "CNClientName": "´¿°×µÄÓÆÏÐ¼ÙÈÕ",
+      "JPClientName": "¥Ô¥å¥¢¥Û¥ï¥¤¥È¥Û¥ê¥Ç©`",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b3/HermioneSummerChibi.png",
+      "shipDescription": "Commander, I've brought the chair. If you don't want to get in the water, feel free to sit here. ...Hm, me? Of course, I will remain by your side.",
+      "acquisition": "Commander, I've brought the chair. If you don't want to get in the water, feel free to sit here. ...Hm, me? Of course, I will remain by your side.",
+      "login": "Commander, please leave work at the office, and relax to your heart's content today.",
+      "details": "Actually... I bought this swimsuit back when it was on sale. I'm relieved that you like it...",
+      "secretaryIdle1": "These waves feel so nice~ Why don't you dip your feet in too, Commander? ...Hm? A big wave is... Eek!",
+      "secretaryIdle2": "Overexposure to the sun isn't good for your skin. Why don't we move somewhere else in a little bit?",
+      "secretaryIdle3": "A nap? Y-yes! Please take your time and relax to your heart's content. If something happens, hm... don't worry, I'll make sure you wake up when that happens.",
+      "secretaryTouch": "Wow, the sea is so pretty~ ...Hmm? I'm even prettier than the sea...? Jeez, Commander... Don't get all sappy on me now."
+    }
+  ]
+}

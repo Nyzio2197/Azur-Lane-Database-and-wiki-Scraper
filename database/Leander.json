@@ -1,0 +1,50 @@
+{
+  "name": "Leander",
+  "rarity": "Normal",
+  "ID": "104",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/65/LeanderChibi.png",
+      "shipDescription": "Leander-class light cruiser ¨C Leander, Hull Number 75!",
+      "selfIntroduction": "I am the Leander class light cruiser, Leander. Me and my sister Achilles had worked hard around different countries. Please tell me about the things that I need to improve on. I'll do my best.",
+      "acquisition": "Good day to you. I am Leander class' light cruiser, Leander. Actually, I have some differences from my sisters. Do you want to know what they are?",
+      "login": "Oh my, Commander. Please take care of me today as well.",
+      "details": "Mmm. I'll leave it to you then, Commander.",
+      "secretaryIdle1": "Commander, are you tired? Do you want to lay on my thighs?",
+      "secretaryIdle2": "The place I used to live in was very warm",
+      "secretaryIdle3": "Aiiiiiiiiieeei!!!... Oh my... it's you, Commander-- Geez, you surprised me...",
+      "secretaryTouch": "Hmm? Is there anything I can do for you, Commander?",
+      "secretarySpecialTouch": "Sometimes... I have to endure things I don't like, huh...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/f/fc/Leander_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/ac/Leander_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/3a/Leander_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/6/66/Leander_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/36/Leander_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/3/3f/Leander_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/f/ff/Leander_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/8/83/Leander_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/7/70/Leander_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png",
+      "shipDescription": "Greetings, Commander. I hope I can ask for your continued guidance. ... Hm? Oh dear... I'm Leander, don't you recognise me?",
+      "acquisition": "Greetings, Commander. I hope I can ask for your continued guidance. ... Hm? Oh dear... I'm Leander, don't you recognise me?",
+      "details": "Mhm, Commander, it's fine to ask things of me every once in a while.",
+      "secretaryIdle2": "Though I miss the place where I used to live, the presence of the four seasons here makes it feel like home.",
+      "secretaryIdle3": "Compared to me, my sisters have much more colourful personalities... *Sigh*...",
+      "secretaryTouch": "Commander?! Have I made some sort of mistake?!",
+      "secretarySpecialTouch": "Commander~! This is inappropriate behaviour!",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Leander_IntroSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/f/fe/Leander_DetailsSkin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/26/Leander_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/a/ac/Leander_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/f/f3/Leander_Sec1Skin9JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/87/Leander_Sec2Skin9JP.ogg"
+    }
+  ]
+}

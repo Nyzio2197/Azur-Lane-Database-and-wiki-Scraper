@@ -1,0 +1,34 @@
+{
+  "name": "Z36",
+  "rarity": "Elite",
+  "ID": "388",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9e/Z36Chibi.png",
+      "shipDescription": "Type 1936B destroyer - Z36",
+      "selfIntroduction": "I am the Bremen-born destroyer Z36, known by many as the Devilish Idol! My friends and I travelled throughout the Baltic Sea, but eventually I was dragged into that deep, black abyss... Hmph. In any case, I'll bring you victory with my powers of bewitchment!",
+      "acquisition": "Hm hm~ so you're my Commander? Our meeting must have been ordained by the Fates. By the Iron Blood coursing through my veins, the Devilish Idol Z36 binds herself to your service! Shazam!",
+      "login": "Ohh, you came at just the right time! Hm, want to listen to my brand new song? It's called \"Devilish Overture!\"",
+      "details": "Hmhmm~ what do you think about my bewitching heterochromatic eyes? H-hey! They're not contacts!",
+      "secretaryIdle1": "Commander, have you seen F¨¹nf? I granted her some of my devilish powers, but then suddenly lost the ability to detect her with my bewitching eyes... Huh? Oh, she's right there?",
+      "secretaryIdle2": "Nobody can resist the bewitching songs of the Devilish Idol!",
+      "secretaryIdle3": "Whether it's on the battlefield or on the stage, once I release my sealed powers, nothing can get in my way~!",
+      "secretaryTouch": "W-wait! Even if it's you, Commander, I won't let you unwrap- I mean, unseal my powers! No way! Nuu~!",
+      "secretarySpecialTouch": "You'll get hexed for casually touching the Devilish Idol's body!",
+      "secretaryHeadpat": "Bear witness to my devilish procession! Wh-what... Commander, I won't grow any taller if you keep patting me like that!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/7a/Z36_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/98/Z36_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/88/Z36_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/1/14/Z36_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/06/Z36_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/b/bb/Z36_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/b/bb/Z36_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/3d/Z36_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/4/4b/Z36_Sec2JP.ogg"
+    }
+  ]
+}

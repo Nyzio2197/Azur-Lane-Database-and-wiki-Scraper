@@ -1,0 +1,48 @@
+{
+  "name": "Abukuma",
+  "rarity": "Normal",
+  "ID": "187",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/08/AbukumaChibi.png",
+      "shipDescription": "Sixth ship of the Nagara-class light cruisers, Abukuma.",
+      "selfIntroduction": "Nagara-class light cruiser, Abukuma. I've spent most of my time in the First Torpedo Squadron. Although I look aggressive, I actually prefer other things like fishing and just cruising around... just like when I was at Kiska. Perhaps protecting others is a more suitable job for me.",
+      "acquisition": "Hi, Commander... I'm Abukuma. What are you looking at? My horns? Don't mistake me for Kitakami or Oi...",
+      "login": "Welcome back. Want to try some fresh torpedoes?",
+      "details": "Don't push yourself too much, Commander!",
+      "secretaryIdle1": "Commander, shall we go fishing? How about a game of chess?",
+      "secretaryIdle2": "My name seems a bit complicated, but it's actually easy to read. Why don't you try it?",
+      "secretaryIdle3": "Dress up? Oh... these socks are actually pretty easy to take off. Want to try yourself?",
+      "secretaryTouch": "Be quiet, Commander.",
+      "secretarySpecialTouch": "Want to have a taste of my torpedoes, Commander?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/94/Abukuma_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/5/5e/Abukuma_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/03/Abukuma_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/6/6d/Abukuma_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/5/5f/Abukuma_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/72/Abukuma_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/58/Abukuma_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/15/Abukuma_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/0/06/Abukuma_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png",
+      "shipDescription": "Combat retrofit complete! First Torpedo Squadron flagship, Abukuma, ready to sortie any time!",
+      "acquisition": "Combat retrofit complete! First Torpedo Squadron flagship, Abukuma, ready to sortie any time!",
+      "secretaryIdle2": "Have you finally memorized my name? Just read it out. You can give it a few tries~",
+      "secretaryIdle3": "My expression seems a bit softer now? It's because I like the fleet and the Commander more than I did before~!",
+      "secretaryTouch": "Commander, did you call for me?",
+      "secretarySpecialTouch": "Hey! Commander, you're going to be eating torpedoes if you keep this up!",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/0/06/Abukuma_IntroSkin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/7d/Abukuma_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/5f/Abukuma_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/e/e7/Abukuma_Sec1Skin9JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/9/90/Abukuma_Sec2Skin9JP.ogg"
+    }
+  ]
+}

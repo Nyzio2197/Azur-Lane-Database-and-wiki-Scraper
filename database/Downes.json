@@ -1,0 +1,44 @@
+{
+  "name": "Downes",
+  "rarity": "Normal",
+  "ID": "006",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png",
+      "shipDescription": "Mahan-class destroyer - Downes, Hull Number DD-375!",
+      "selfIntroduction": "Yahoo! I'm the Mahan-class destroyer Downes! I've had to undergo some pretty serious repairs, and have had to replace half my body! I'm stronger than I ever was now! I promise, you won't be disappointed!",
+      "acquisition": "Hey! Are you the commander? I'm Downes. Nice meeting you!",
+      "login": "Yo~! Commander, the wind is nice today. Want to go with me and feed our enemies some torpedoes?",
+      "details": "Oh? Do you fancy girls with a bit of muscle? Girls like me?",
+      "secretaryIdle1": "Tsk! I'm so bored~ I wanna blow something up!",
+      "secretaryIdle2": "My magazine's too easy to hit? It's fine, one day or another it'll blow up anyway!",
+      "secretaryIdle3": "Oh, Commander, what do you think of the phrase, \"I'm only half the person I used to be\"? Sounds kinda philosophical, doesn't it?",
+      "secretaryTouch": "Ah, that's the spot, right there~",
+      "secretarySpecialTouch": "You looking to get bitten?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/9c/Downes_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/9c/Downes_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/8b/Downes_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/81/Downes_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/30/Downes_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/ed/Downes_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/98/Downes_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/6b/Downes_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/2e/Downes_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png",
+      "shipDescription": "Roar! I'm the tiger, Downes! Hehe, Commander, how do you like me now? I feel super fired up right now, so hurry up and let me at 'em!",
+      "acquisition": "Roar! I'm the tiger, Downes! Hehe, Commander, how do you like me now? I feel super fired up right now, so hurry up and let me at 'em!",
+      "login": "Yo! Commander, let's work hard today as well! If you get tired, I'll raise your spirits with a bang!",
+      "secretaryIdle1": "Shall we go light things up on the seas? Well, just when you're free, Commander. I'm not that bored yet~",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/64/Downes_IntroSkin9JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/46/Downes_LogSkin9JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/9/93/Downes_SecIdle1Skin9JP.ogg"
+    }
+  ]
+}

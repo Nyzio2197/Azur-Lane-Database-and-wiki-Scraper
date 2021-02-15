@@ -1,0 +1,49 @@
+{
+  "name": "Kako",
+  "rarity": "Normal",
+  "ID": "191",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a8/KakoChibi.png",
+      "shipDescription": "Second ship of Furutaka-class heavy cruisers, Kako.",
+      "selfIntroduction": "Second ship of the Furutaka-class heavy cruisers, Kako! I was perhaps the first real heavy cruiser made for my country. Despite contributing to the first Battle of the Solomon Sea, I took too many risks and ended up being sunk by a submarine... My personality? I'm only like this when I'm around you. Open your eyes and learn the advantages of a real heavy cruiser!",
+      "acquisition": "Second ship of the Furutaka-class, Kako, ready for orders. Why don't you show me whether you're worthy or not.",
+      "login": "Good timing, I just finished sorting your documents. Can you actually finish these?",
+      "details": "If you want to say something, just give it to me straight!",
+      "secretaryIdle1": "This fleet is quite impressive, except for their commander.",
+      "secretaryIdle2": "You made a mistake here. And here. Do I have to tell you how to do everything?",
+      "secretaryIdle3": "I wonder how Aoba is doing right now...",
+      "secretaryTouch": "Are you an idiot?",
+      "secretarySpecialTouch": "Why you little... Hello? Could I speak with the Military Police?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/f/f1/Kako_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/65/Kako_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/8d/Kako_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a9/Kako_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/07/Kako_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/e3/Kako_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/e3/Kako_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/e/e4/Kako_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/ba/Kako_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png",
+      "shipDescription": "Performance upgraded, improvements complete. This way I can finally... *cough* Oh, it's nothing, Commander. I must simply be more strict with you in the future. Are you ready for your psychological examination?",
+      "acquisition": "Performance upgraded, improvements complete. This way I can finally... *cough* Oh, it's nothing, Commander. I must simply be more strict with you in the future. Are you ready for your psychological examination?",
+      "login": "You're five minutes late, Commander!",
+      "details": "What do you want? Surely you didn't come to get lectured.",
+      "secretaryIdle1": "This is a step up from before, but you still messed up here. Are you doing this on purpose to get me angry?",
+      "secretaryIdle2": "What am I writing? Your agenda, of course. Without it, you'd just slide right back to your old habits.",
+      "secretaryTouch": "I'll be here any time you have questions.",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/5/55/Kako_IntroSkin9JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/f/f4/Kako_LogSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/e8/Kako_DetailsSkin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/9/9d/Kako_SecIdle2Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/69/Kako_Sec1Skin9JP.ogg"
+    }
+  ]
+}

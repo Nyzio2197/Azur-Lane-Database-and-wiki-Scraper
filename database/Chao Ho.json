@@ -1,0 +1,40 @@
+{
+  "name": "Chao Ho",
+  "rarity": "Elite",
+  "ID": "494",
+  "faction": "Dragon Empery",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4f/Chao_HoChibi.png",
+      "shipDescription": "Chao Ho-class protected cruiser ®C Chao Ho.",
+      "selfIntroduction": "I'm the name ship of the Chao Ho-class protected cruisers, Chao Ho! As for my history... who the heck knows! Specs? Dunno about that either! Stop asking about this stuff already!",
+      "acquisition": "I'm Chao Ho, lead ship of the Chao Ho-class cruisers! Don't you forget it! Oh, and no matter what Ying Swei says, don't let her trick you into thinking I'm the little sister!",
+      "login": "H-hey, you're late! I was worried about you, darn it!",
+      "details": "Why do people think Ying Swei is the big sister?! ...Am I that immature in comparison?! Commander, what's your take on this?",
+      "secretaryIdle1": "Let Ying Swei handle the public side of things! I, uh, I'll support her from the sidelines! ...Wait, wouldn't that make me seem like the little sister then?!",
+      "secretaryIdle2": "H-how long are you going to keep dawdling around in front of me? Can you just sit down and get your work done?! Eh? ...What the heck are you saying?! It's not like I really care what you're doing or anything...!",
+      "secretaryIdle3": "Only through perseverance can we reach our desired outcome! ...Th-those are Ying Swei's words, not mine!",
+      "secretaryTouch": "...What are you trying to do?!",
+      "secretarySpecialTouch": "Eeek?! Y-y-y-y-you pervert! Degenerate!",
+      "secretaryHeadpat": "Ahhhh!! You're gonna mess it up, so stop touching already!"
+    },
+    {
+      "ENClientName": "Plum Blossom's Illumination",
+      "CNClientName": "ª®÷¶”≥√∑",
+      "JPClientName": "√∑’’¥∫÷¶",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6b/Chao_HoSpringChibi.png",
+      "shipDescription": "Happy New Year, Commander! This red envelope is my gift to you... after all, that's my responsibility as a big sister! Anyway, hurry up and take it!",
+      "acquisition": "Happy New Year, Commander! This red envelope is my gift to you... after all, that's my responsibility as a big sister! Anyway, hurry up and take it!",
+      "login": "You're late, Commander! Jeez, we're all supposed to get together for the New Year, so stop running around!",
+      "details": "That Ying Swei... Even though she knows I'm not good with the literary stuff, she still made me think up spring couplets... If it wasn't for her sake... Commander, come here and help me think of lines as well!",
+      "secretaryIdle1": "My performance for the Spring Festival banquet? ...I-i-it's not like I'm nervous or anything! I've practiced over and over!",
+      "secretaryIdle2": "I wish my sister was as demure and well-behaved as Tai Yuan... Yeah, Ying Swei, I'm talking about you! Stop laughing!",
+      "secretaryIdle3": "ICommander, it's really cold tonight around the time of the banquet. If you catch a cold, um, I'm going to have to take care of you, and that would be a hassle... So, um, yeah!",
+      "secretaryTouch": "...D-don't scare me like that!",
+      "secretarySpecialTouch": "Y-you're gonna get eaten up by the Nian beast!"
+    }
+  ]
+}

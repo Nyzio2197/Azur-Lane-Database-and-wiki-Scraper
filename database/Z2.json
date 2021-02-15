@@ -1,0 +1,37 @@
+{
+  "name": "Z2",
+  "rarity": "Elite",
+  "ID": "379",
+  "faction": "Iron Blood",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/20/Z2Chibi.png",
+      "shipDescription": "Type 1934-class destroyer – Z2 Georg Thiele.",
+      "selfIntroduction": "I am Georg Thiele, otherwise known as Z2, a Type 1934 destroyer built as an experiment. I was to make quick work of adversaries using my excellent mobility, or at least that was the plan... I'd rather not elaborate. Please forget I said that.",
+      "acquisition": "I am Z2, Georg Thiele, awaiting your orders. However, if your orders are flawed, please allow me to reconsider them. May our relationship be productive.",
+      "login": "Commander, I have a question: why do you always arrive later than me?",
+      "details": "Commander, I have a question, do you have a thing for making others dress up in fancy clothes?",
+      "secretaryIdle1": "Commander, please try not to be as reckless as Lebe. It would be annoying to have to knock you out, and I don't particularly like getting physical with a superior officer.",
+      "secretaryIdle2": "I'll bring you a fresh batch of paperwork if you have nothing better to do. I hope you're ready.",
+      "secretaryIdle3": "This little one is Lebe. Yes, you heard that correctly; this is Lebe. Isn't she cute?",
+      "secretaryTouch": "Oh, absolutely, I agree wholeheartedly. Now, what's our next task?",
+      "secretarySpecialTouch": "Among all actions that take bravery, this would, in my honest opinion, be the worst kind.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/ca/Z2_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/92/Z2_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Z2_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/35/Z2_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/bb/Z2_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/74/Z2_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/0/08/Z2_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/6/6e/Z2_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b6/Z2_Sec2JP.ogg"
+    },
+    {
+      "CNClientName": "异色的日常风景",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3b/Z2CasualChibi.png"
+    }
+  ]
+}

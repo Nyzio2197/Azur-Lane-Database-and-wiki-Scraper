@@ -1,0 +1,40 @@
+{
+  "name": "Penelope",
+  "rarity": "Elite",
+  "ID": "495",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cf/PenelopeChibi.png",
+      "shipDescription": "Arethusa-class light cruiser ®C Penelope.",
+      "selfIntroduction": "I am Penelope of the Royal Navy, Arethusa-class light cruiser. I participated in a transport mission with Aurora and her companions in the K Fleet. There were difficult times, but I managed to pull through. If only I had noticed her back then...",
+      "acquisition": "Arethusa-class light cruiser... Penelope, is my name. From now on, I will be your subordinate. I hope that you... can at least remember my name.",
+      "login": "Commander, are you going on a sortie? I shall stay here and await your return.",
+      "details": "Hmm... You're staring at me so much... Did you happen to want these gloves?",
+      "secretaryIdle1": "Paperwork, paperwork... Where did I put it again? On that shelf? I can't seem to remember...",
+      "secretaryIdle2": "Pepperpot? ...Why yes, I do think that food generally tastes better with a healthy pinch of pepper.",
+      "secretaryIdle3": "I want to get along with U-410. ...Mm, with you here, Commander, I'm sure it will be fine.",
+      "secretaryTouch": "...Hm? Is something amiss? I do believe I've been doing everything to your specifications...",
+      "secretarySpecialTouch": "Hm...? Commander, what are you doing?",
+      "secretaryHeadpat": "Nnh... Are you treating me like a child?"
+    },
+    {
+      "ENClientName": "Ruby-Red Boudoir",
+      "CNClientName": "ÊÃ∫Ï…ÓπÎ",
+      "JPClientName": "•“©`•Í•Û•∞•Ï•√•…",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d8/PenelopeSpringChibi.png",
+      "shipDescription": "Aurora chose this outfit for me because... the Spring Festival represents a time of celebration in the Dragon Empery, and red is the color that best symbolizes that. What do you think? Does this outfit... make you feel more festive?",
+      "acquisition": "Aurora chose this outfit for me because... the Spring Festival represents a time of celebration in the Dragon Empery, and red is the color that best symbolizes that. What do you think? Does this outfit... make you feel more festive?",
+      "login": "Happy Lunar New Year. I'm glad I can see you today.",
+      "details": "Aurora also gave me this incense burner. It's supposed to be good for recovering from fatigue, so shall we give it a try together?",
+      "secretaryIdle1": "Haah... Commander, I'm sorry... At this rate, this incense... is going to make me fall asleep... Zzzzz",
+      "secretaryIdle2": "The broth in the hotpot was as red as my clothes... It was a bit scary at first, but the food ended up being really delicious.",
+      "secretaryIdle3": "The pattern on this fan was embroidered. I learned how to do it from Yat Sen and the others a while back, but my hands were trembling so much I made a mess of things... Ugh, I wonder how everyone does this so well.",
+      "secretaryTouch": "...Hm? Already tired? You can lie down here if you'd like.",
+      "secretarySpecialTouch": "...Um, Commander, I don't think... this is any way to conduct yourself."
+    }
+  ]
+}

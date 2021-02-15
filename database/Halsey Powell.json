@@ -1,0 +1,39 @@
+{
+  "name": "Halsey Powell",
+  "rarity": "Rare",
+  "ID": "427",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/02/Halsey_PowellChibi.png",
+      "shipDescription": "Fletcher-class destroyer ¨C Halsey Powell, Hull Number DD-686.",
+      "selfIntroduction": "There are a lot of us Fletchers, but nobody's done a better job of supporting than Halsey Powell! Whether it's anti-air or anti-sub, nobody out there can match me!",
+      "acquisition": "There you are, Commander! Ehehe~ Huh? You've never heard of me? Jeez, I'm Halsey Powell! Don't you forget it!",
+      "login": "Staaaaaare... Commander doesn't look any different today!",
+      "details": "Ehehe~ See, Commander, you're totally into me after all, aren't you~?",
+      "secretaryIdle1": "Bad little submarines, come out, come out, wherever you are~",
+      "secretaryIdle2": "I'm a bit jealous of the Little Beavers... If only I had the same legendary feats as them...",
+      "secretaryIdle3": "Jeez, Commander, you have such a cute and capable Destroyer right next to you, but you're so absorbed in your work!",
+      "secretaryTouch": "Commander, are you in a pickle? Do you need my help? Hehe, I'd be glad to give you a hand, but the cute little Halsey Powell won't work for free... Hmm, if you treat me to lots of tasty snacks, we have a deal!",
+      "secretarySpecialTouch": "Y-You can't do that...!"
+    },
+    {
+      "ENClientName": "Spring's Lucky Star",
+      "CNClientName": "´º½ÚÐ¡¸£ÐÇ£¡",
+      "JPClientName": "ÐÂ´º¤Î¥é¥Ã¥­©`¥¹¥¿©`£¡",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/62/Halsey_PowellSpringChibi.png",
+      "shipDescription": "Halsey Powell is making her debut as your lucky star for the Spring Festival! Commander, if you show me a fun time, you'll be blessed with good luck this year!",
+      "acquisition": "Halsey Powell is making her debut as your lucky star for the Spring Festival! Commander, if you show me a fun time, you'll be blessed with good luck this year!",
+      "login": "Commander, Happy Spring Festival! Um, hey, where's my red envelope?",
+      "details": "The Dragon Empery's lucky star is an old geezer? I see... W-wait! I don't want to be the lucky star anymore!",
+      "secretaryIdle1": "I want to eat something sweet and fluffy...",
+      "secretaryIdle2": "The Zodiac is really neat! But... why is there a dog and a rat on there but no cat?",
+      "secretaryIdle3": "Commander, why don't we make a huge paper lantern? One that stands out from the rest!",
+      "secretaryTouch": "If you're ever in trouble, just leave it to your lucky star, Halsey Powell!",
+      "secretarySpecialTouch": "Commander, bad luck unto you!"
+    }
+  ]
+}

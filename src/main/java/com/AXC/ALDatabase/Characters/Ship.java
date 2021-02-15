@@ -19,7 +19,7 @@ public class Ship {
     }
 
     // basic data
-    private final String name;
+    private String name;
     private String rarity;
     private String ID;
     private String faction;
@@ -41,6 +41,10 @@ public class Ship {
 
     public String getName() {
         return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getRarity() {

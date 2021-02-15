@@ -1,0 +1,39 @@
+{
+  "name": "Green Heart",
+  "rarity": "Super Rare",
+  "ID": "Collab008",
+  "faction": "Neptunia",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/89/Green_HeartChibi.png",
+      "shipDescription": "I am the CPU of Leanbox, Green Heart. No matter who the enemy is, I will not hold back. Are you ready?",
+      "selfIntroduction": "I am the CPU of Leanbox, Green Heart. I have come from the world of Gamindustri. There's no need to be shy, you can come as close as you'd like.",
+      "acquisition": "I am the CPU of Leanbox, Green Heart. No matter who the enemy is, I will not hold back. Are you ready?",
+      "login": "You sure took your time. Black tea is best enjoyed hot, you know?",
+      "details": "It seems like someone has been captivated by my beauty.",
+      "secretaryIdle1": "Size is justice, don't you agree?",
+      "secretaryIdle2": "... Oh dear, my apologies. I was just thinking about the next guild battle.",
+      "secretaryIdle3": "Shall we have some tea?",
+      "secretaryTouch": "This processing unit can't be taken off, you know. Ehehe, just kidding.",
+      "secretarySpecialTouch": "It's not a good idea to keep playing these distasteful pranks.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/95/Green_Heart_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/cc/Green_Heart_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/4a/Green_Heart_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/e1/Green_Heart_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/7d/Green_Heart_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/83/Green_Heart_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/a/a8/Green_Heart_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/5/55/Green_Heart_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/a/aa/Green_Heart_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Goddesses' Moment",
+      "CNClientName": "女神的一刻",
+      "JPClientName": "女神とのひと時",
+      "shipDescription": "Commander, are you having a good time? Ehehe, I certainly am. It's not often that we get to relax like this. Why don't we head out and enjoy the breeze?"
+    }
+  ]
+}

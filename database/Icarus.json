@@ -1,0 +1,54 @@
+{
+  "name": "Icarus",
+  "rarity": "Elite",
+  "ID": "465",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/ae/IcarusChibi.png",
+      "shipDescription": "I-class destroyer – Icarus.",
+      "selfIntroduction": "My history as a ship...? I escorted Hood and Warspite, and also participated in anti-submarine missions... Basically, I've been here and there and done this and that. I guess you could say I have quite a bit of experience? That being the case, feel free to call upon me, whether in battle or otherwise!",
+      "acquisition": "Well met, Commander. I am Icarus, I-class destroyer from the Royal Navy. I specialize in escort and anti-submarine operations. I look forward to working with you.",
+      "login": "Commander, did you just arrive? Hehe. There are documents on your desk. I'll have your tea ready in just a moment, so please get started on your work.",
+      "details": "A change of clothes for the commander, the menus for tomorrow's meals... Oh, Commander. When did you get here? ...Don't mind me, I'm just doing some daily preparations~?",
+      "secretaryIdle1": "Commander, please let me know when you head out! Whether it's an umbrella or a coat, I'll be sure to have it ready for you.",
+      "secretaryIdle2": "Eskimo looks like she wants some attention... Commander, I'll do something about her, so please focus on your work. ...That's right, I can call Abercrombie over!",
+      "secretaryIdle3": "I guess destroyers really have their limits... If only I had bigger guns or torpedoes... Oh, I was just talking to myself. Please don't mind me!",
+      "secretaryTouch": "Was there something you wanted me to do?",
+      "secretarySpecialTouch": "I-I'm not sure if we should be doing this...",
+      "secretaryHeadpat": "Hehehe. You know, this feels kind of nice."
+    },
+    {
+      "ENClientName": "One-Week Medical Experience?",
+      "CNClientName": "港区医院体验周?",
+      "JPClientName": "医療施設体験週？",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/ba/IcarusHospitalChibi.png",
+      "shipDescription": "This is a special exercise for our on-site medical facilities! Well, that's what they said anyway, but isn't this kind of weird...? I feel like I'd rather be taking care of others, not the other way around...",
+      "acquisition": "This is a special exercise for our on-site medical facilities! Well, that's what they said anyway, but isn't this kind of weird...? I feel like I'd rather be taking care of others, not the other way around...",
+      "login": "Commander, did you come by to check up on me? Though I might look like a patient, I'm actually perfectly fine~",
+      "details": "I've already prepared your changes of clothing and daily necessities in advance. Make sure you don't neglect your health while I'm away participating in this exercise, alright?",
+      "secretaryIdle1": "Looking out the window of this hospital room at the scenery is making me oddly emotional...",
+      "secretaryIdle2": "These bandages and this IV are just here for practice. They're not the real deal, you know?",
+      "secretaryIdle3": "It's hard to move around properly in this... I'm sure there will be an impact on my firepower, too...",
+      "secretaryTouch": "Even in this situation, I'm sure there is something that I can do for you, Commander.",
+      "secretarySpecialTouch": "C-Commander? We're in the medical facility, you know..."
+    },
+    {
+      "ENClientName": "Nereid's Discovery",
+      "CNClientName": "海底探险摄影会",
+      "JPClientName": "ネレウス?デスカバリー",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9a/IcarusSummerChibi.png",
+      "shipDescription": "\"Let's go explore the ocean together! What special things will we be able to find today~?\" Hehe, how's that, Commander?",
+      "acquisition": "\"Let's go explore the ocean together! What special things will we be able to find today~?\" Hehe, how's that, Commander?",
+      "login": "The manjuus and I are all ready to go! You can start taking pictures whenever you're ready.",
+      "details": "No matter how many times I see it, it never gets old... It's simply amazing that we're able to create amazing sets like this at the Port.",
+      "secretaryIdle1": "So this is what the submarine girls see while they battle... Hehe, the scenery down here is amazing.",
+      "secretaryIdle2": "This swimsuit fits me nice and tight. It's so easy to move around in it!",
+      "secretaryIdle3": "Oh, I caught you spacing out, Commander. I had the manjuus take a picture as proof, too. Why don't you take a look? Heehee~",
+      "secretarySpecialTouch": "W-We're still in the middle of the shoot, Commander!"
+    }
+  ]
+}

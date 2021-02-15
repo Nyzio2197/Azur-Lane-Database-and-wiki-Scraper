@@ -1,0 +1,52 @@
+{
+  "name": "K?ln",
+  "rarity": "Normal",
+  "ID": "240",
+  "faction": "Iron Blood",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "K?nigsberg-class light cruiser, K?ln.",
+      "selfIntroduction": "I'm the third ship of the K?nigsberg-class light cruisers, K?ln. Our slender bodies are something that we're all very proud of. I once circumnavigated the world, and participated in operations in the Baltic Sea and North Sea. You can count on me for any type of operations, defense or assault!",
+      "acquisition": "You seem like a wise Commander. I'm K?ln. Please rest assured and let me take care of your work.",
+      "login": "Welcome back, Commander. Here is today's schedule. Please look it over.",
+      "details": "Commander, what kind of data are you looking for?",
+      "secretaryIdle1": "Ah... We went over budget again this month...",
+      "secretaryIdle2": "K?nigsberg, stop teasing the Commander! Be careful or you might just awaken some weird fetish of his...",
+      "secretaryIdle3": "Karlsruhe, Commander is very busy right now. Can't you stop bothering him and just play by yourself?",
+      "secretaryTouch": "Eh? New instructions, Commander?",
+      "secretarySpecialTouch": "Commander... You realize that harrassing one's subordinates is despicable, right?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/5/55/K%C3%B6ln_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/4/48/K%C3%B6ln_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/08/K%C3%B6ln_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/88/K%C3%B6ln_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/08/K%C3%B6ln_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/a/a9/K%C3%B6ln_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/2a/K%C3%B6ln_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b7/K%C3%B6ln_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b1/K%C3%B6ln_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "shipDescription": "Hmm... I feel like I can work even more efficiently than before. Commander, please rest assured, I will never betray your expectations.",
+      "acquisition": "Hmm... I feel like I can work even more efficiently than before. Commander, please rest assured, I will never betray your expectations.",
+      "login": "Today's task list. I've taken the liberty of sorting them in order of priority. Please review them.",
+      "details": "Data aside, if there's anything else you'd like to know, please don't hesitate to ask.",
+      "secretaryIdle1": "Detailed planning ensured the efficient completion of one's work. Commander, next on the list is¨D¨D",
+      "secretaryIdle2": "Such desk work demands a quiet and peaceful atmosphere. Well, I suppose that means I should hope my sisters don't come barging in...",
+      "secretaryIdle3": "Commander, what would you say to coming by the Tactical Classroom to observe some lessons in your free time?",
+      "secretaryTouch": "Don't you have more important things to be doing than staring at me or chatting with me?",
+      "secretarySpecialTouch": "...From time to time, one should consider the rumors spreading around the port about oneself, Commander...",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/cc/K%C3%B6ln_IntroSkin9JP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/7/7f/K%C3%B6ln_LogSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/f/f6/K%C3%B6ln_DetailsSkin9JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/f/f9/K%C3%B6ln_SecIdle1Skin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/85/K%C3%B6ln_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/24/K%C3%B6ln_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/34/K%C3%B6ln_Sec1Skin9JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/f/f7/K%C3%B6ln_Sec2Skin9JP.ogg"
+    }
+  ]
+}

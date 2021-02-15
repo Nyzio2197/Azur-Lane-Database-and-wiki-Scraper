@@ -1,0 +1,38 @@
+{
+  "name": "Kumano",
+  "rarity": "Elite",
+  "ID": "469",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/73/KumanoChibi.png",
+      "shipDescription": "Mogami-class heavy cruiser number four 每 Kumano.",
+      "selfIntroduction": "Name's Kumano, Mogami-class heavy cruiser! Back in the war, I was Cruiser Division 7, workin' my ass off! Shame about what happened at the island in you-know-where, though... Welp, no point crying over spilt milk. Just gotta do better this time.",
+      "acquisition": "Bam! Heavy cruiser, Kumano, ready for action~! Commander, pleased to meetcha~!",
+      "login": "There you are, Commander! Nice, nice! So, what's up today? We hangin' out together? Just work? Figures...",
+      "details": "Yo, Commander! Hang out with me, now! Oh, is that a lollipop for me? 'Kay, some other time then! Nom!",
+      "secretaryIdle1": "Huh? Me takin' the battle seriously surprised you? Well, yeah, I get serious when the situation demands it.",
+      "secretaryIdle2": "So, Commander, what kinda girls do ya like? Wait, lemme guess, I'm your type, aren't I? Ahah!",
+      "secretaryIdle3": "Soooo bored... Hey, could ya get Suzuya up in this place? I wanna chat with her about my next shopping trip.",
+      "secretaryTouch": "Well, well! Caught you admirin', Commander! Hehehe, you don't gotta act innocent. If you wanna stare, stare all ya want!",
+      "secretarySpecialTouch": "Weeeell, someone's feeling frisky, huh? Totes fine with me. Go on, touch me 'till you're content~?"
+    },
+    {
+      "ENClientName": "Fancy Waves",
+      "CNClientName": "Fancy Wave",
+      "JPClientName": "白央件扑奈它尼奈皮",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/aa/KumanoSummerChibi.png",
+      "shipDescription": "It's time for Kumano's sexy swimsuit debut~! Just kidding~∵ Hey Commander, just where~ are~ you~ staring~? Ahaha~?",
+      "acquisition": "It's time for Kumano's sexy swimsuit debut~! Just kidding~∵ Hey Commander, just where~ are~ you~ staring~? Ahaha~?",
+      "details": "This is too revealing? Meh, not really~? I've seen submarines wearing more risqu谷 stuff than this.",
+      "secretaryIdle1": "Commandeeeer, what're you up to? Get over here already, c'mooon!",
+      "secretaryIdle2": "I wanna see Mogami in a bikini! Don't you? I do, at least! And you? Same, right?",
+      "secretaryIdle3": "Phew, I'm tired! Commandeeeer, massage my feet and shoulders! ...Err, I didn't ask you to massage THOSE!",
+      "secretaryTouch": "Candy? Nuh-uh, this is mine, and I ain't givin' it away! Hahahah!",
+      "secretarySpecialTouch": "Hah, I knew this would catch your eye! You're like a little kid~"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Shinano",
+  "rarity": "Ultra Rare",
+  "ID": "231",
+  "faction": "Sakura Empire",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/5f/ShinanoChibi.png",
+      "shipDescription": "Yamato-class ship number three ¨C Shinano.",
+      "selfIntroduction": "I am called Shinano, aircraft carrier of the Sakura Empire. I was to stand beside Yamato during that war, yet in the end... Alas, there is impermanence in all things, and nothing became of this one's life... May your guidance lead my fate to a different outcome...",
+      "acquisition": "This sensation... is that of reality... Was it you who awoke this one from her long slumber? Such is the inevitability of fate... Please allow Shinano, third ship of the Yamato-class, to guide you forward upon the right path.",
+      "login": "Nnnh... You have returned. Long, eternal, has this one's wait been...",
+      "details": "Mmh... True strength can shatter the chains of fate... or is this but the moon's reflection within the water... Mm...",
+      "secretaryIdle1": "Even the most beautiful flower is transient, to be scattered into the wind... But, 'tis better to bloom for but a moment than to wither eternally upon the vine.",
+      "secretaryIdle2": "Do you wish to rest within this one's bosom? ...Yes, just as the little destroyers do...",
+      "secretaryIdle3": "I would like to experience all this port has to offer... should it be possible...",
+      "secretaryIdle4": "I have left the report here... Hmm... There are many errors? ...'twould seem that hasty deadlines are not this one's strong suit...",
+      "secretaryIdle5": "Vrooom... Zzzzzz... Oh... Did I hit you by mistake? ...Sincerest apologies...",
+      "secretaryTouch": "Mmmm... Hm? ...I dozed off again? ...Sincerest apologies...",
+      "secretarySpecialTouch": "You musn't... Not there... Nnh...",
+      "secretaryHeadpat": "Aah... My ears are sensitive...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/a/a7/Shinano_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/2/21/Shinano_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/02/Shinano_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/5/56/Shinano_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/9/99/Shinano_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/2b/Shinano_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle3JP.ogg",
+      "secretaryIdle4Url": "https://azurlane.koumakan.jp/w/images/0/00/Shinano_SecIdle4JP.ogg",
+      "secretaryIdle5Url": "https://azurlane.koumakan.jp/w/images/d/d3/Shinano_SecIdle5JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/23/Shinano_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1a/Shinano_Sec2JP.ogg",
+      "secretaryHeadpatUrl": "https://azurlane.koumakan.jp/w/images/c/ce/Shinano_HeadpatJP.ogg"
+    },
+    {
+      "ENClientName": "Dreams of the Hazy Moon",
+      "CNClientName": "ëÊÔÂÊ®Ò¹",
+      "JPClientName": "œº¤ÁÇ·¤±¤ë–VÔÂ",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/04/ShinanoPartyChibi.png",
+      "shipDescription": "The moonlight dims beneath hazy clouds, and the lights of the night sky begin to shine... The moon, and this sake, are both intoxicating... Will you not enjoy this fine evening with me...?",
+      "acquisition": "The moonlight dims beneath hazy clouds, and the lights of the night sky begin to shine... The moon, and this sake, are both intoxicating... Will you not enjoy this fine evening with me...?",
+      "login": "The shimmering of the countless stars, the dancing lights of the banquet... This night... has only just begin... Zzzzz...",
+      "details": "Through the sojourn of the stars through the sky, through the waxing and waning of moons, fate remains immutable... In contrast, mortal dreams and realities alike seem like fleeting illusions...",
+      "secretaryIdle1": "Being able to enjoy tonight's banquet thusly... fills one with apprehension that this... may be yet another dream...",
+      "secretaryIdle2": "Though I have long been the plaything of fate, it still allowed me to meet you... How strange and whimsical a thing it must be...",
+      "secretaryIdle3": "Western spirits are a new experience for this one... Even this trifling amount... has already... gone to my head...",
+      "secretaryTouch": "Beauteous is the moon tonight... Are you in agreement...?"
+    }
+  ]
+}

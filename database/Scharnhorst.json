@@ -1,0 +1,40 @@
+{
+  "name": "Scharnhorst",
+  "rarity": "Elite",
+  "ID": "248",
+  "faction": "Iron Blood",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png",
+      "shipDescription": "Scharnhorst-class battlecruiser, Scharnhorst.",
+      "selfIntroduction": "I¡¯m Scharnhorst. I will stand until the last moment of any battle. This is my determination, as well as my pride. Leave all the fighting to me!",
+      "acquisition": "In Scharnhorst's dictionary, the word \"retreat\" simply doesn't exist! You're the Commander? Let me see what you've got.",
+      "login": "You're back? Good timing. I'm just about to test my guns.",
+      "details": "Only those who have not been scarred would laugh at someone else's.",
+      "secretaryIdle1": "Those lightweight aircraft carriers simply can't match our combat abilities!",
+      "secretaryIdle2": "Do me a favor and remind our friends not to sail directly in front of me... I might not be able to resist firing at them...",
+      "secretaryIdle3": "\"The Ugly Sisters\"? Hmph, it's not a bad name... Sounds like a good name for this war, too...",
+      "secretaryTouch": "I'll never back down!",
+      "secretarySpecialTouch": "Stand right there, Commander. If you can take a shot from me, I'll forgive you...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/a/a0/Scharnhorst_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/f/f4/Scharnhorst_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/c/c1/Scharnhorst_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/f/f6/Scharnhorst_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/1/17/Scharnhorst_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/1/12/Scharnhorst_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/19/Scharnhorst_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ec/Scharnhorst_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/87/Scharnhorst_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Panther und Pflaume",
+      "CNClientName": "Ñ©±ªÓë°×Ã·",
+      "JPClientName": "¥Ñ¥ó¥Ä¥¡©`¥×¥Õ¥é¥ª¥á",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/04/ScharnhorstSpringChibi.png",
+      "shipDescription": "A festival, huh? Going for days without fighting is boring, not to mention not my style. C'mon, Commander, isn't there *something* exciting I can do during this \"Lunar New Year\" festival?"
+    }
+  ]
+}

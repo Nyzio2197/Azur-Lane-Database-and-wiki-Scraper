@@ -1,0 +1,49 @@
+{
+  "name": "Curlew",
+  "rarity": "Rare",
+  "ID": "373",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/95/CurlewChibi.png",
+      "shipDescription": "Ceres-class light cruiser - Curlew (D42)",
+      "selfIntroduction": "I am Curlew, one of the Royal Navy's Ceres-class light cruisers. C-class light cruiser? N-no, that's not the correct classification, please don't use that term anymore...",
+      "acquisition": "Greetings, I am your Royal maid, Curlew. The responsibility of supervising the master’s daily routine falls on the maid. I will help you become a Royal gentleman through and through, so please pay attention and work hard.",
+      "login": "Welcome back, Commander. Your tie is crooked... let me fix it for you. Your otherwise refined attire cannot be taken seriously with such a flaw.",
+      "details": "No matter the time or place, as a maid or as a soldier, one must always remember to observe proper etiquette.",
+      "secretaryIdle1": "Royal etiquette is steeped in social and life philosophy. Please keep that in mind at all times.",
+      "secretaryIdle2": "I already am a perfect maid? Surely you jest... have you not met my elder sister yet?",
+      "secretaryIdle3": "Lately, your etiquette has improved greatly. However, don't get too proud, Commander.",
+      "secretaryTouch": "Please be mindful of your posture. Be confident and stand tall so that you can earn the respect of others.",
+      "secretarySpecialTouch": "C-Commander... what is the meaning of this..."
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/29/CurlewKaiChibi.png",
+      "shipDescription": "I am now more capable than ever of demonstrating the Royal Maids' style. Though I am not as talented as my sister Curacoa, I sincerely hope you will find my service satisfactory. It is a great honour to work for you.",
+      "acquisition": "I am now more capable than ever of demonstrating the Royal Maids' style. Though I am not as talented as my sister, Curacoa, I sincerely hope you will find my service satisfactory. It is a great honour to work for you.",
+      "details": "You've noticed my new fittings? Don't worry, they will not impact the execution of my duties as a maid.",
+      "secretaryIdle1": "\"To improve is to change. To be perfect is to change often...\" One should bear this quotation in mind.",
+      "secretaryIdle2": "Maintaining this new equipment takes significantly more time. I suppose that's the price of strength.",
+      "secretaryIdle3": "To study etiquette is to pursue knowledge. \"Only in properly managing oneself is one fit to lead others...\" Let's move forward together, Master.",
+      "secretaryTouch": "I've made some adjustments to my outfit as suggested by the others. What do you think, Master?",
+      "secretarySpecialTouch": "M- Master, what are you... Aie?!"
+    },
+    {
+      "ENClientName": "Rhythm of the Dragon Empery",
+      "CNClientName": "东煌之韵",
+      "JPClientName": "東国の清麗",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/5/58/CurlewSpringChibi.png",
+      "shipDescription": "You can feel the profound heritage and culture of the Dragon Empery from all these customs and outfits for the Lunar New Year's Festival… It seems to be ever more necessary to study the traditions and etiquette of this wondrous culture.",
+      "acquisition": "You can feel the profound heritage and culture of the Dragon Empery from all these customs and outfits for the Lunar New Year's Festival… It seems to be ever more necessary to study the traditions and etiquette of this wondrous culture.",
+      "login": "Welcome back, Commander. Today, I'll be visiting the girls from the Dragon Empery to learn a bit more about their customs. Would you like to come with me?",
+      "secretaryIdle1": "Commander, even if you're just eating a pork bun, please make sure to use a serviette.",
+      "secretaryIdle2": "Etiquette is closely linked to culture, so it's no surprise that there are many differences between the Royal Navy and the Dragon Empery.",
+      "secretaryIdle3": "The girls from the Empery said that they'd be willing to teach me a few New Year's greetings. Once I've learned them, I'll be able to give you some blessings!",
+      "secretaryTouch": "For a Royal maid like myself to don the attire of the Dragon Empery... isn't this what cultural exchange is all about?"
+    }
+  ]
+}

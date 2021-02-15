@@ -1,0 +1,47 @@
+{
+  "name": "Nagara",
+  "rarity": "Normal",
+  "ID": "182",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cd/NagaraChibi.png",
+      "shipDescription": "First ship of the Nagara-class light cruisers, Nagara.",
+      "selfIntroduction": "I'm the first ship of the Nagara-class light cruisers from the Sakura Empire. I took part in various battles in the Solomon Seas and in the center Pacific. During Midway, I took over Akagi's role as flagship after she sank and then coordinated our retreat. In the end, though, I too met the fate of being sunk by a submarine...",
+      "acquisition": "Eheh, I'm Nagara. Commader, have you been anticipating my arrival?",
+      "login": "Hey, hey~ Commander, were you daydreaming again?",
+      "details": "What kind of girl do you like, Commander? Hehe. Oh yeah?",
+      "secretaryIdle1": "You need to change clothes after getting soaked... Hey, do you want to borrow mine?",
+      "secretaryIdle2": "It's great that Abukuma is finally making friends, but...",
+      "secretaryIdle3": "Commander~ Your face is so~ cute~!",
+      "secretaryTouch": "Have you run into any trouble, Commander?",
+      "secretarySpecialTouch": "Sometimes I really don't understand what you're trying to do, Commander...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/8/81/Nagara_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/97/Nagara_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/8d/Nagara_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/6/6e/Nagara_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/2f/Nagara_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/40/Nagara_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/2/2d/Nagara_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/96/Nagara_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/3/3c/Nagara_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Spring Breeze Leisure",
+      "CNClientName": "”∆œ–¥∫»’",
+      "JPClientName": "¥∫ÔL§Ê§È§Í",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b0/NagaraSpringChibi.png",
+      "shipDescription": "Good evening, Commander. This room...? Ah, it's a special Dragon Empery-themed set I bought from Akashi's. It looked pretty snazzy and was on sale, so I picked it up. Ehehe~",
+      "acquisition": "Good evening, Commander. This room...? Ah, it's a special Dragon Empery-themed set I bought from Akashi's. It looked pretty snazzy and was on sale, so I picked it up. Ehehe~",
+      "login": "Commander, want some tea£ø",
+      "details": "Commander, how do you plan on spending your Spring Festival? Me? ...Well, chilling in my room with a cup of tea sounds pretty good, or reading a book, or rolling around. Ehehe~",
+      "secretaryIdle1": "Commander, have you seen Kinu? I told her I'd clean her ears, but she bailed quick... Seriously, what's wrong with cleaning your sister's ears...?",
+      "secretaryIdle2": "Commander, you know, Abukuma started having tea with me, and will even let me clean her ears! Ehehe, th",
+      "secretaryTouch": "Commander, want me to clean your ears too? Sure, come here then~ *pat* *pat*",
+      "secretarySpecialTouch": "Jeez, Commander, don't blame me if I poke a hole in your eardrum~"
+    }
+  ]
+}

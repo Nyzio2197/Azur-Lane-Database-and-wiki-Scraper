@@ -1,0 +1,33 @@
+{
+  "name": "Choukai",
+  "rarity": "Super Rare",
+  "ID": "203",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cb/ChoukaiChibi.png",
+      "shipDescription": "Takao-class heavy cruiser number four ¨C Choukai.",
+      "selfIntroduction": "I am the fourth ship of the Takao-class heavy cruisers, Choukai. As the former flagship of the 8th Fleet, I took part in many campaigns. Commander, you can entrust any task to me!",
+      "acquisition": "I'm Maya's sister, Choukai. I'm so glad to meet you. Um, by the way, we seem to have met before somewhere...",
+      "login": "Welcome back, Commander. I've taken the liberties of preparing your documents. Um... would you also like to have some refreshments?",
+      "details": "Um, do I ever get bored...? Not particularly. Even if I'm not really doing anything, I enjoy getting to spend time with you, Commander.",
+      "secretaryIdle1": "Commander, you're truly a kind person...",
+      "secretaryIdle2": "Commander, you should pick a day when you're not too busy to come look at the dandelions with me.",
+      "secretaryIdle3": "Commander, are you not well rested? As a matter of fact, I've actually been hard at work learning how to give massages, just to prepare for this moment! Here, don't be shy~",
+      "secretaryTouch": "Shall we go for a stroll before the sun goes down?",
+      "secretarySpecialTouch": "C-Commander, if that is what you so desire, then...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/e/e7/Choukai_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/3c/Choukai_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/87/Choukai_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/9/99/Choukai_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/2f/Choukai_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/45/Choukai_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/83/Choukai_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d4/Choukai_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/3/3d/Choukai_Sec2JP.ogg"
+    }
+  ]
+}

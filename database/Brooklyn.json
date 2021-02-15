@@ -1,0 +1,33 @@
+{
+  "name": "Brooklyn",
+  "rarity": "Rare",
+  "ID": "031",
+  "faction": "Eagle Union",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png",
+      "shipDescription": "Brooklyn-class Light Cruiser ¨C Brooklyn, Hull Number CL-40!",
+      "selfIntroduction": "As the representative of the then newly constructed pre-war cruisers, I was put in charge of foreign diplomacy. That said, my firepower is never to be underestimated, so please put your mind at ease.",
+      "acquisition": "I am Brooklyn. I am an elite cruiser, so you may let me handle all foreign diplomacy matters.",
+      "login": "You came just in time. A few files need your signature.",
+      "details": "This information is confidential, so please keep it a closely guarded secret.",
+      "secretaryIdle1": "It's important to communicate with other nations.",
+      "secretaryIdle2": "Please don't stare at me in such a weird way.",
+      "secretaryIdle3": "I may be a diplomat, but don't even think about underestimating my power.",
+      "secretaryTouch": "Are you interested in my tanned skin, Commander?",
+      "secretarySpecialTouch": "A diplomat is not the same thing as a secretary... Please, restrain yourself, Commander!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/6/65/Brooklyn_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/2/23/Brooklyn_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/2/2b/Brooklyn_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/b/bc/Brooklyn_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/6/6d/Brooklyn_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/c/c8/Brooklyn_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/e8/Brooklyn_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/0/08/Brooklyn_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/e/e9/Brooklyn_Sec2JP.ogg"
+    }
+  ]
+}

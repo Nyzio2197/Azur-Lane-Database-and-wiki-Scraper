@@ -1,0 +1,33 @@
+{
+  "name": "Aulick",
+  "rarity": "Normal",
+  "ID": "015",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/fa/AulickChibi.png",
+      "shipDescription": "Fletcher-class destroyer - Aulick, Hull Number DD-569!",
+      "selfIntroduction": "I'm Aulick of the Little Beavers! I was mainly tasked with air rescues. I'm not as strong as the captain, but I'll be more than satisfied as long as you let me fight till the end!",
+      "acquisition": "Yaaay! It's so great to meet you, Commander! Just call me Aulick! ... What was that? I said Aulick! My name is Aulick!",
+      "login": "Yaaay! Welcome back, Commander!",
+      "details": "Don't forget to keep your gear in working order, Commander!",
+      "secretaryIdle1": "Commander, won't you take Aulick out to play~?",
+      "secretaryIdle2": "Aulick loves hanging out with all the other Little Beavers!",
+      "secretaryIdle3": "Ah, Aulick likes the Commander too, of course!",
+      "secretaryTouch": "Aren't I so soft and squishy?",
+      "secretarySpecialTouch": "C-Commander...! You're naughty!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/4/4e/Aulick_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/5/5b/Aulick_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/b/b2/Aulick_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/ee/Aulick_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/6/69/Aulick_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/5/59/Aulick_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/6/65/Aulick_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Aulick_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Aulick_Sec2JP.ogg"
+    }
+  ]
+}

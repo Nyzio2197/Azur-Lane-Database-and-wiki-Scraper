@@ -1,0 +1,33 @@
+{
+  "name": "North Carolina",
+  "rarity": "Super Rare",
+  "ID": "063",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cd/North_CarolinaChibi.png",
+      "shipDescription": "North Carolina class battleship¡ª North Carolina, hull number BB-55.",
+      "selfIntroduction": "I am North Carolina class ship no.1. I can be considered the big sister battleship of the Eagle Union~ I don¡¯t particularly like or dislike anything, so to speak. Even though I have fought in all kinds of engagements, I have not gained any fame... I am a little bit troubled by this.",
+      "acquisition": "North Carolina here, awaiting your dispatch. Although I may seem to have a bland personality compared to my sisters. But as the saying goes, no personality is still a personality, hehe. Anyways, awaiting your orders, sir.",
+      "login": "Welcome back~",
+      "details": "Being stared like that makes a bit shy...",
+      "secretaryIdle1": "What do I wear inside? It's not something that¡¯s so significant",
+      "secretaryIdle2": "If I think about it, I certainly have been to many places... seen many landscapes, and also parted ways with many people.",
+      "secretaryIdle3": "Sometimes I get so envious of my younger sister Washington and how she¡¯s so energetic all the time.",
+      "secretaryTouch": "Do you need help with something?",
+      "secretarySpecialTouch": "Not good...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/4/46/North_Carolina_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/f/fe/North_Carolina_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/c/cf/North_Carolina_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/38/North_Carolina_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/b8/North_Carolina_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/d5/North_Carolina_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/5/54/North_Carolina_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c3/North_Carolina_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/86/North_Carolina_Sec2JP.ogg"
+    }
+  ]
+}

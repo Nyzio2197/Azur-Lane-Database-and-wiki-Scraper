@@ -1,5 +1,6 @@
 package com.AXC.ALDatabase;
 
+import com.AXC.ALDatabase.Characters.Ship;
 import com.AXC.ALDatabase.Scraper.AzurLaneScraper;
 
 /**
@@ -9,7 +10,10 @@ import com.AXC.ALDatabase.Scraper.AzurLaneScraper;
 public class Main {
 
     public static void main(String[] args) {
-        AzurLaneScraper.scrape();
+        // AzurLaneScraper.scrape();
+        Ship s = new Ship("Princeton");
+        AzurLaneScraper.addSkins(s);
+        System.out.println(s);
     }
 
 }

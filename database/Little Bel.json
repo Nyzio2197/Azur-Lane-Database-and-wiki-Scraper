@@ -1,0 +1,33 @@
+{
+  "name": "Little Bel",
+  "rarity": "Elite",
+  "ID": "335",
+  "faction": "Royal Navy",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e4/Little_BelChibi.png",
+      "shipDescription": "Edinburgh-class light cruiser ¨C Belfast.",
+      "selfIntroduction": "I am Belfast, born in Harland and Wolff. Yes, the same place as the Titanic. I actually have an older sister. She hasn't taken care of me very much, however... Umm, that's all I was going to say. Master, what type of person are you?",
+      "acquisition": "My Master is also a commander... Umm, so the commander is a captain of a ship? I don't quite understand, but... I will stay here for a while if you don't mind. I am Belfast, maid-in-training. It is a pleasure to serve you.",
+      "login": "Master, would you like some tea?",
+      "details": "To perform a curtsy, a lady puts her feet across each other like¡ª Forgive me, I failed to do it...",
+      "secretaryIdle1": "You'd like whiskey and coffee... Umm, d-do you not drink tea...?",
+      "secretaryIdle2": "Master, is there anything you would like me to do?",
+      "secretaryIdle3": "Master, neglecting your commander duties is a big no-no!",
+      "secretaryTouch": "Master, you'll end up a failure if you rely on others too often. Sometimes, you must¡ª Mmh, you leave me no choice. I-I won't help you next time, okay...?",
+      "secretarySpecialTouch": "Don't worry, Master. Even if you go to prison, I will still bring you your meals.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/0/01/Little_Bel_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/0/0e/Little_Bel_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/47/Little_Bel_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Little_Bel_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/e/e4/Little_Bel_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/e/ee/Little_Bel_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/10/Little_Bel_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/92/Little_Bel_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/a/ae/Little_Bel_Sec2JP.ogg"
+    }
+  ]
+}

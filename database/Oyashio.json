@@ -1,0 +1,33 @@
+{
+  "name": "Oyashio",
+  "rarity": "Rare",
+  "ID": "178",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cb/OyashioChibi.png",
+      "shipDescription": "Kagerou-class destroyer number four ¨C Oyashio.",
+      "selfIntroduction": "I'm the fourth ship of the Kagerou-class, Oyashio. I've always been close with Kuroshio. She can tell you everything you need to know, so just ask her~? Oh, unless...? You'd rather I act it out for you?",
+      "acquisition": "My big sister is a ninja, and I'm a puppeteer. Isn't it amazing how diverse our world is~? I'm the fourth ship of the Kagerou-class, Oyashio. And with my puppet Kuro, I will dazzle you, Commander.",
+      "login": "Commander, how are you today? Would you care to enjoy one of my famous puppet shows? Come on! How about it?",
+      "details": "Commander, don't I look ninja-like when I do this with my hands? Ehehe, that's because Kuro taught me~",
+      "secretaryIdle1": "Commander, will you come to watch my show when you have free time?",
+      "secretaryIdle2": "Kuro is my dear friend! Her namesake is obvious, isn't it? My oh so serious big sister!",
+      "secretaryIdle3": "Of course the strings are a puppetry thing. So why do I put torpedoes on them? Ahaha... Let's call it an old trade secret.",
+      "secretaryTouch": "Commander, isn't it amazing how nurturing Oyashio is? ... Er! I'm talking about the ocean current!",
+      "secretarySpecialTouch": "Huh?! Grraagh! ... Oh, Commander, I'm sorry... that's just how we've been trained in this line of work...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/9/9e/Oyashio_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/33/Oyashio_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/45/Oyashio_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/7d/Oyashio_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/70/Oyashio_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/2a/Oyashio_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/7/7e/Oyashio_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/c/c5/Oyashio_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Oyashio_Sec2JP.ogg"
+    }
+  ]
+}

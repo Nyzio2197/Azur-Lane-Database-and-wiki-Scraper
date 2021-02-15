@@ -1,0 +1,33 @@
+{
+  "name": "Noire",
+  "rarity": "Elite",
+  "ID": "Collab002",
+  "faction": "Neptunia",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c4/NoireChibi.png",
+      "shipDescription": "Are you the commander? Hmm... Very well. I'm Noire. The CPU of Lastation. You can put your mind at ease now that I'm here.",
+      "selfIntroduction": "I'm Noire, the CPU of Lastation. I wonder if I'll be able to make many friends in this new world... B-but more importantly! Give me a report on the current state of the war.",
+      "acquisition": "Are you the commander? Hmm. Very well. I'm Noire. The CPU of Lastation. You can put your mind at ease now that I'm here.",
+      "login": "You're fashionably late, I see. We have much to do today, so get ready.",
+      "details": "H-hey! What're you looking at?!",
+      "secretaryIdle1": "You're not neglecting my maintenance are you? Of course equipment is important, but our motivation also affects our performance, so pay attention to it.",
+      "secretaryIdle2": "The dresses these girls wear are quite cute. A-and I'm not just saying that because I want to try them out or anything.",
+      "secretaryIdle3": "Hmhhmhmmn? Hmmhm?... Huh? Since when did you get here...?",
+      "secretaryTouch": "Noir...! Keep your hands off me!",
+      "secretarySpecialTouch": "L-listen here... If you don't stop it right now then I will get angry.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/e/e5/Noire_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/ac/Noire_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/6/6a/Noire_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/2/26/Noire_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/1/1b/Noire_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/0/0b/Noire_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/13/Noire_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1d/Noire_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Noire_Sec2JP.ogg"
+    }
+  ]
+}

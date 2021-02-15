@@ -1,0 +1,33 @@
+{
+  "name": "Kent",
+  "rarity": "Rare",
+  "ID": "121",
+  "faction": "Royal Navy",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/85/KentChibi.png",
+      "shipDescription": "Kent-class heavy cruiser - Kent, Hull Number 54!",
+      "selfIntroduction": "I'm both one of the first County-class cruisers and the first ship of the Kent-class. Pretty impressive, right? Stuff like Armour can be made up with good motivation and a fighting spirit! Right?",
+      "acquisition": "Hey Commander! I'm Kent! How do you do? Good? Bad? Doesn't matter. Things will be better now that I'm here!",
+      "login": "Yo, Commander, let's go do something together!",
+      "details": "Errr, Graciously overlook my poor armour and firepower, please!",
+      "secretaryIdle1": "I forgot that Tigre isn't around...",
+      "secretaryIdle2": "Commander, do you wanna race against me?",
+      "secretaryIdle3": "I think I've seen ships from the Far East before... They look really strong!",
+      "secretaryTouch": "Yoohoo~ Want to play, Commander?",
+      "secretarySpecialTouch": "Oh... Commander... You big pervert...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/75/Kent_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/e/eb/Kent_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/d/d8/Kent_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/e/e2/Kent_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/3/3f/Kent_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/7/7a/Kent_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/88/Kent_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1a/Kent_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/e/ea/Kent_Sec2JP.ogg"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "West Virginia",
+  "rarity": "Elite",
+  "ID": "062",
+  "faction": "Eagle Union",
+  "classification": "Battleship (BB)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c1/West_VirginiaChibi.png",
+      "shipDescription": "Colorado class battleship¡ª West Virginia, hull number BB-48.",
+      "selfIntroduction": "During a \"Naval Holiday\", my sisters and I were honored amongst the world's strongest battleships. We were granted the high-profile title of - BIG SEVEN. Although times are changing, the three of us still have the strength to fight any enemy fleet in a decisive battle, please don't forget that.",
+      "acquisition": "It¡¯s finally my time to show my strength... Under the guidance of fate, the third ship of Colorado class, West Virginia, reporting in.",
+      "login": "You¡¯re late... the exercise has already begun, hurry!",
+      "details": "Do not doubt my combat performance, Commander.",
+      "secretaryIdle1": "The combat exercise didn¡¯t go well¡­ Is the Commander being lazy again?",
+      "secretaryIdle2": "I will never forget the humiliation I suffered on that day.",
+      "secretaryIdle3": "On the night of the Surigao Strait, I witnessed the last moments of the Sakura Empire fleet... They truly are a worthy opponent...",
+      "secretaryTouch": "This should be... a friendly gesture I suppose.",
+      "secretarySpecialTouch": "Commander, it seems you¡¯re rather close to getting lectured by me.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/a/a5/West_Virginia_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/cf/West_Virginia_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/46/West_Virginia_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/6/66/West_Virginia_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/2b/West_Virginia_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/d5/West_Virginia_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/10/West_Virginia_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/5/59/West_Virginia_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/a/ad/West_Virginia_Sec2JP.ogg"
+    },
+    {
+      "CNClientName": "Î÷¸¥¼ªÄáÑÇ",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/13/West_VirginiaOriginalChibi.png"
+    }
+  ]
+}

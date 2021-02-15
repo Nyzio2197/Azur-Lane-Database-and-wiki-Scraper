@@ -1,0 +1,39 @@
+{
+  "name": "Black Heart",
+  "rarity": "Super Rare",
+  "ID": "Collab006",
+  "faction": "Neptunia",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/7d/Black_HeartChibi.png",
+      "shipDescription": "I'm the CPU of Lastation, Black Heart. I've rushed here all the way from Gamindustri to lend you my aid. Be grateful.",
+      "selfIntroduction": "I am Black Heart, the CPU and guardian of Lastation. Be sure to properly learn from my refined combat techniques.",
+      "acquisition": "I'm the CPU of Lastation, Black Heart. I've rushed here all the way from Gamindustri to lend you my aid. Be grateful.",
+      "login": "I'll show you how a CPU fights! I'm ready whenever you are.",
+      "details": "Hey... Don't you think you're a bit too close?",
+      "secretaryIdle1": "Commander, isn't that enough training? From now on, let me prove my worth in actual combat.",
+      "secretaryIdle2": "I was just thinking... the ocean sure is beautiful, isn't it? Why don't we go for a swim to clear our minds?",
+      "secretaryIdle3": "You sure are spaced out. I wouldn't be opposed to helping lift your spirits, you know.",
+      "secretaryTouch": "W-wait... suddenly touching me like that... of course I'd be shocked!",
+      "secretarySpecialTouch": "Even if you're the commander... I won't allow you to go any further.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/6/63/Black_Heart_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/6/65/Black_Heart_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/0b/Black_Heart_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/8/87/Black_Heart_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/0/0c/Black_Heart_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/2/21/Black_Heart_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/1e/Black_Heart_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/94/Black_Heart_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/6/65/Black_Heart_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Goddesses' Smile",
+      "CNClientName": "女神的微笑",
+      "JPClientName": "女神の微笑み",
+      "shipDescription": "It's good to take it easy and celebrate once in a while, but especially in moments like these, you can't afford to let your guard down. Commander, why don't we spar for a bit? Don't even think about holding back - come at me!"
+    }
+  ]
+}

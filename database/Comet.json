@@ -1,0 +1,45 @@
+{
+  "name": "Comet",
+  "rarity": "Normal",
+  "ID": "088",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d0/CometChibi.png",
+      "shipDescription": "C-class destroyer ©` Comet, Hull Number H00!",
+      "selfIntroduction": "I am Comet of C class. My first assignment was at the Far East, and then I got transferred to The Home Fleet to be equipped with water mine rails. Actually, I'm a little worried about rumors of something happening to the homeland...",
+      "acquisition": "I'm Comet of the C-class destroyers! I'm happy that I have your support, Commander!",
+      "login": "?Lalala?~ Is my song a good one?",
+      "details": "Commander~ Is Comet dazzling and shining~? Nnngh... This is so embarrassing...",
+      "secretaryIdle1": "Commander, why are you not giving me attention?",
+      "secretaryIdle2": "I'm a little homesick... Just a little!",
+      "secretaryIdle3": "I, er-hm! I'm everyone's idol, Comet! Should I change my pose a little?",
+      "secretaryTouch": "If I become an idol, I'll let you shake my hand too, Commander",
+      "secretarySpecialTouch": "Wha! If someone see this, I won't be able to become an idol~!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/3/39/Comet_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/1/13/Comet_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/d/dc/Comet_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/b/b9/Comet_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/7f/Comet_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/0/0e/Comet_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/c/c5/Comet_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b9/Comet_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b2/Comet_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png",
+      "shipDescription": "Do ya reckon... I you think I've become more idol-like? Mhm! As a new idol, I'll show y'all... I'll show you how hard I work as a new idol!",
+      "acquisition": "Do ya reckon... I you think I've become more idol-like? Mhm! As a new idol, I'll show y'all... I'll show you how hard I work as a new idol!",
+      "details": "Although the long hours I spent practicing by myself were lonely, being able to see everyone's smiling faces while I was on stage made me really happy!",
+      "secretaryIdle1": "Commander, wanna help me come up with a signature pose?",
+      "secretaryIdle2": "Ugh... I wanna be able to snack all day like Cygnet, but my figure...",
+      "secretaryIdle3": "I am everyone's idol, Comet~ Hmm... whaddya think about this pose, Commander?",
+      "secretaryTouch": "Even if I manage to become an actual idol, I won't leave your side, Commander!",
+      "secretarySpecialTouch": "Eek! Cut that out... I-I'm an idol after all!"
+    }
+  ]
+}

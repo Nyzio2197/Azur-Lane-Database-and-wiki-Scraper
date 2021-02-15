@@ -1,0 +1,50 @@
+{
+  "name": "Langley",
+  "rarity": "Normal",
+  "ID": "072",
+  "faction": "Eagle Union",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/00/LangleyChibi.png",
+      "shipDescription": "Langley-class aicraft carrier ©` Langley, Hull Number CV-1!",
+      "selfIntroduction": "Ahem! I am the Eagle Union's first, I repeat, the first aircraft carrier, Langley! I do not think highly of my own fighting ability, but I've put out numerous outstanding pilots! The Eagle Union's aircraft carrier begins with me, I say!",
+      "acquisition": "I've been newly assigned to assist you. Name's Langley. You listening? I am going to fix what's wrong with you, and put you on the right track to running a fleet.",
+      "login": "Commander, I'll assist you with your work the best I can!",
+      "details": "Commander, you're staring at me... Are you ready to answer my questions?",
+      "secretaryIdle1": "Commander! ~Hey, you could've done better than this. Why are you not serious about this...?",
+      "secretaryIdle2": "At this rate nothing about the fleet will change! Get yourself together, Commander!",
+      "secretaryIdle3": "Commander? Are you listening? I'm gonna throw the chalk at you~! I hate people who don't listen to me! Hmph!",
+      "secretaryTouch": "Please do not treat me like a child~! I am a teacher! TEA-CHER!",
+      "secretarySpecialTouch": "*phone call* Hello, is this the military police? Yes, it's the same place and the same person...",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/d/db/Langley_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/2/21/Langley_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/0/0a/Langley_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/0/0e/Langley_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/4/40/Langley_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/0/07/Langley_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/ee/Langley_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Langley_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/a/ab/Langley_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png",
+      "shipDescription": "Listen carefully or I'll step on you!",
+      "acquisition": "Listen to what I say, or I'll have to step on you!",
+      "details": "Commander, if you run into a mental problem, you have to solve it on your own. Staring at me won't help you.",
+      "secretaryIdle1": "If we make a little progress each day, we'll be sure to achieve great results one day",
+      "secretaryIdle2": "This fleet feels different from when I first came. With your hard work, Commander, we can do anything.",
+      "secretaryIdle3": "We have to punish naughty children. Don't you agree, Commander?",
+      "secretaryTouch": "I will answer any question you have for me. However, is that really alright for you, Commander?",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Langley_IntroSkin9JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/5/56/Langley_DetailsSkin9JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/9/90/Langley_SecIdle1Skin9JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/d/db/Langley_SecIdle2Skin9JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/c/c1/Langley_SecIdle3Skin9JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/33/Langley_Sec1Skin9JP.ogg"
+    }
+  ]
+}

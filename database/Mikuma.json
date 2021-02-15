@@ -1,0 +1,34 @@
+{
+  "name": "Mikuma",
+  "rarity": "Elite",
+  "ID": "189",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/4a/MikumaChibi.png",
+      "shipDescription": "Mogami-class heavy cruiser number two ¨C Mikuma.",
+      "selfIntroduction": "I am Mikuma, the second ship of the Mogami-class. I collided with my sister in Midway, but I don't resent her for it. On the contrary: she... Ah, forgive me for changing the topic so suddenly... I shall do everything I can for the fleet, so please give me your orders.",
+      "acquisition": "My name is Mikuma. I'm Mogami's little sister. If... if you don't mind, could you please look after her? She has a bit of an unusual personality, you see...",
+      "login": "Welcome back. Let's try to get a lot of work done today.",
+      "details": "My... horn? If it makes people remember me, then I believe it's not all that bad.",
+      "secretaryIdle1": "My sister is... probably sitting somewhere, alone, lamenting the past again. Commander, would you please excuse me for a moment?",
+      "secretaryIdle2": "A secretary should be the Commander's right hand. Please don't hesitate to give me orders.",
+      "secretaryIdle3": "I was the first heavy cruiser to sink in the war... Oh, never mind, it was nothing important.",
+      "secretaryTouch": "I'm standing by. Please give me your orders.",
+      "secretarySpecialTouch": "... Commander, please be wary of accidental discharges from my cannons.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/c1/Mikuma_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/4/4d/Mikuma_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/7/74/Mikuma_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/3e/Mikuma_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/5/5d/Mikuma_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/6/69/Mikuma_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/1/1f/Mikuma_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/3/35/Mikuma_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/9/93/Mikuma_Sec2JP.ogg"
+    },
+    {}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Musketeer",
+  "rarity": "Elite",
+  "ID": "326",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/f/f1/MusketeerChibi.png",
+      "shipDescription": "M-class destroyer ¨C Musketeer (G86.)",
+      "selfIntroduction": "I'm the Royal Navy M-class destroyer Musketeer! I was in the Battle of the North Cape! Commander, little Musketeer is gonna shoot straight through your dreary heart with a bang bang!",
+      "acquisition": "I am the M-class Destroyer, Musketeer! Hehe... I knew something good was going to happen today~ Commander, can you point me to where the port is? Here? Or over here?!",
+      "login": "Morning, Commander! Nice weather today! Click, click... bang! I'm not sure why, but I'm always brimming with energy!",
+      "details": "Is it fun to hang out with me, Commander? ...Ah, sorry, never mind that.",
+      "secretaryIdle1": "Something nice is gonna happen today~ That's what I'm feeling!",
+      "secretaryIdle2": "Why am I always smiling? Hehehe, because I've been having so much fun ever since I came here!",
+      "secretaryIdle3": "The injuries I've sustained from combat? Hehehe, they don't hurt at all.",
+      "secretaryTouch": "Hehehe~! You've reloaded me with energy!",
+      "secretarySpecialTouch": "It's not like I *dislike* it, but... Yeah, I actually don't dislike it!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/d/db/Musketeer_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/3/30/Musketeer_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/e/e6/Musketeer_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/7d/Musketeer_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/9/94/Musketeer_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/83/Musketeer_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/9/90/Musketeer_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/0/0f/Musketeer_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/8/87/Musketeer_Sec2JP.ogg"
+    }
+  ]
+}

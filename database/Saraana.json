@@ -1,0 +1,19 @@
+{
+  "name": "Saraana",
+  "rarity": "Elite",
+  "ID": "Collab035",
+  "faction": "Utawarerumono",
+  "classification": "Light aircraft carrier (CVL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e5/SaraanaChibi.png"
+    },
+    {
+      "CNClientName": "萨拉娜(传颂之物)",
+      "JPClientName": "サラァナ(うたわれるもの)",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/67/SaraanaCollabChibi.png"
+    }
+  ]
+}

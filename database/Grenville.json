@@ -1,0 +1,33 @@
+{
+  "name": "Grenville",
+  "rarity": "Elite",
+  "ID": "093",
+  "faction": "Royal Navy",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cc/GrenvilleChibi.png",
+      "shipDescription": "G-class Destroyer - Grenville (H03)",
+      "selfIntroduction": "I'm Grenville, Royal G-class Destroyer. I served as the lead ship and flagship of a destroyer squadron! However, it's a darn shame that I didn't leave behind much of a legacy because of my short service. If there's anything special I'd like you to know, um, I'm not fond of naval mines...",
+      "acquisition": "Heyyo~ Good morning, Commander! G-class Destroyer, Grenville, reporting for duty! Now that I'm here, you can leave everything to me and take a nap! Hehe, just kidding~ Let's get along well, all right?",
+      "login": "Commander, welcome back! Did you sleep well? If so, let's get started with today's work!",
+      "details": "Commander, I steeped tea according to Miss Hood's instructions. Care to try? Huh...? It's too sweet...? Ahaha... I suppose that big ol' scoop of honey was a bit overkill...",
+      "secretaryIdle1": "Hehe, Commander, would you like to study etiquette with me~? For example, take this fine lady's hand gracefully like this~",
+      "secretaryIdle2": "As a lead ship, it's only right that I become a pillar of strength! Hehe~ Because of that, I'll continue to work hard!",
+      "secretaryIdle3": "Even though I may be inexperienced, I have nothing to fear! What matters is the ability to overcome any adversity in the future... Hehe, sounds like I'm beginning to boast~",
+      "secretaryTouch": "Ahh... If only I could become an elegant lady like Miss Hood~",
+      "secretarySpecialTouch": "Woah?! Gosh... I'm going to get angry! Commander, you have to conduct yourself appropriately!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/d/d9/Grenville_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/9b/Grenville_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/31/Grenville_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/32/Grenville_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/2/21/Grenville_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/4b/Grenville_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/89/Grenville_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Grenville_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/9/96/Grenville_Sec2JP.ogg"
+    }
+  ]
+}

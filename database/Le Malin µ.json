@@ -1,0 +1,24 @@
+{
+  "name": "Le Malin ?",
+  "rarity": "Super Rare",
+  "ID": "481",
+  "faction": "Vichya Dominion",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "I am the Iris's shining sword, Le Malin. As the shimmering idol who chases the waves, may your souls be healed by my songs of prayer.",
+      "selfIntroduction": "I am the Le Fantasque-class destroyer, Le Malin, reporting for duty. Heheh... Just watch, I'll do an amazing job on this idol mission. J-just to be clear, it's not like I was looking forward to this!",
+      "acquisition": "I am the Iris's shining sword, Le Malin. As the shimmering idol who chases the waves, may your souls be healed by my songs of prayer.",
+      "login": "Good morning. What will today's lesson be?",
+      "details": "I didn't really want to do this, but I'll see this idol mission through. I will bring the elegance of the Iris to the world stage.",
+      "secretaryIdle1": "An \"idol\" is something that people worship and exalt. As the word suggests, we mustn't do anything that would shorten that distance.",
+      "secretaryIdle2": "Jean Bart told me to just enjoy myself, but... the expectant gazes of Le Triomphant and Richelieu... it burns!",
+      "secretaryIdle3": "That little girl from the Royal Navy.. . Not only does she act all innocent, she also sings about \"prayer.\" Hehe, as if I'd let her steal my thunder~",
+      "secretaryTouch": "Thanks for always cheering me on~",
+      "secretarySpecialTouch": "Hwuh?! Wh-what are you doing?!",
+      "secretaryHeadpat": "Huh...? What is it?"
+    }
+  ]
+}

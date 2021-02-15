@@ -1,0 +1,38 @@
+{
+  "name": "Kamikaze",
+  "rarity": "Rare",
+  "ID": "269",
+  "faction": "Sakura Empire",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/9c/KamikazeChibi.png",
+      "shipDescription": "Kamikaze-class destroyer number one ¨C Kamikaze.",
+      "selfIntroduction": "I'm Kamikaze, Kamikaze-class destroyer number one. I was a part of the First Destroyer Division. My name's got a mighty ring to it, don'tcha think? Hoho~! I fought in numerous battles in the Pacific Islands since the start of the World War, so me being a fleet veteran ain't just for show or me being whimsical. I may not look it, but ASW is my forte. Every time I think about my battle with that wolf pack my blood starts to boil~",
+      "acquisition": "Kamikaze, First Destroyer Division ship number one, has arrived. Are you certain you're the commander? Then things are gonna get interesting from now on. *Giggle* Enjoy watching me do my work~",
+      "login": "Aha, you've finally showed up~! Will we be doin' anything interesting today?",
+      "details": "Hoho~ What about me's gotten you so interested?",
+      "secretaryIdle1": "Winners are those who hold out 'till the very end!",
+      "secretaryIdle2": "Hawksbill! That girl couldn't beat me, but she put up a real good fight.",
+      "secretaryIdle3": "Those Fifth Carrier Division folks... they're pretty nice...",
+      "secretaryTouch": "Oh? You need somethin'?",
+      "secretarySpecialTouch": "Well well, looks like your naughty desires are starting to show themselves. How about an exorcism for ya?",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/7d/Kamikaze_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/4/47/Kamikaze_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/4/4b/Kamikaze_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/c9/Kamikaze_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/c/c7/Kamikaze_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/b/bf/Kamikaze_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/e/e6/Kamikaze_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/2/2d/Kamikaze_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/29/Kamikaze_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6e/KamikazeKaiChibi.png",
+      "shipDescription": "Ohohoho, you must have a sharp eye if you've decided to retrofit me~ Now that I've been chosen, I cannot afford to embarrass you. Now, take a good and thorough look at this veteran's aspirations~"
+    }
+  ]
+}

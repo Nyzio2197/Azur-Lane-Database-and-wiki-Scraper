@@ -1,0 +1,33 @@
+{
+  "name": "Maya",
+  "rarity": "Super Rare",
+  "ID": "202",
+  "faction": "Sakura Empire",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png",
+      "shipDescription": "Third ship of the Takao-class heavy cruisers, Maya.",
+      "selfIntroduction": "Maya, third ship of the Takao-class. My little sister and I are twins, but we're a good bit younger than our older sisters... Feel free to leave both the enemies in the sky and on the sea to me. You'll need to deal with those underwater yourself. And one final reminder: don't get too close to me or you might get hurt!",
+      "acquisition": "I'm Maya, the one who will tear open the sky. You're the Commander...? Don't get too close... You might get hurt!",
+      "login": "Commander, you want someone like me to keep you company today as well? What a strange person...",
+      "details": "Would you stop staring at me like that? I can't promise my sword won't come your way...",
+      "secretaryIdle1": "We were doomed to stray from the path of righteousness the moment we took up arms. Commander, we can never become heroes.",
+      "secretaryIdle2": "The South, Solomon Island, Leyte Gulf, and now this sea... Nothing ever changes...",
+      "secretaryIdle3": "Being by Yamato is like a warm embrace that melts away my worries... I sometimes long for that feeling... N-no, it¡¯s not Iike that! I may have said that but, not in that way! But if I put it that way...",
+      "secretaryTouch": "Commander, you¡¯re getting on my nerves.",
+      "secretarySpecialTouch": "Stand still over there. I want to practice my swordsmanship.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Maya_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/94/Maya_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/1/19/Maya_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/75/Maya_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/5/57/Maya_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/80/Maya_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/f/fa/Maya_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/9/90/Maya_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/2/2d/Maya_Sec2JP.ogg"
+    }
+  ]
+}

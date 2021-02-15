@@ -1,0 +1,39 @@
+{
+  "name": "Peter Strasser",
+  "rarity": "Super Rare",
+  "ID": "482",
+  "faction": "Iron Blood",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/73/Peter_StrasserChibi.png",
+      "shipDescription": "Graf Zeppelin-class aircraft carrier ¨C Peter Strasser.",
+      "selfIntroduction": "I am Aircraft Carrier B, one of the Graf Zeppelin-class carriers that suffered an unfortunate fate, having had my construction halted without ever getting to set sail. But... doesn't the name \"Peter Strasser\" have a much nicer ring to it than \"Aircraft Carrier B\"...?",
+      "acquisition": "It is I, the never-completed Graf Zeppelin-class \"Aircraft Carrier B,\" otherwise known as Peter Strasser. There is much for us to do and little time to do it... No time to waste. Let's begin.",
+      "login": "Did you just get here? Heheh. Make sure you work efficiently on your duties today, as always.",
+      "details": "The expression of the passage of time as the hands of a clock ticking¡ªdon't you think it's just fascinating?",
+      "secretaryIdle1": "The more precise your plan is, the less time you'll have to waste hesitating on what you need to do. Why not give it a try, Officer?",
+      "secretaryIdle2": "Heinrich, your documents for your training program are here. Make sure not to forget them next time.",
+      "secretaryIdle3": "It's so nice to see all of the tasks be completed, just as planned. Hehehe.",
+      "secretaryTouch": "What is it? You've still got time left until your break ends.",
+      "secretarySpecialTouch": "Officer, if this helps raise your efficiency, I don't consider it time wasted."
+    },
+    {
+      "ENClientName": "Chronos's Kalendae",
+      "CNClientName": "½ÚÇìµÄChronos",
+      "JPClientName": "¥·¥å¥ô¥¡¥ë¥Ä?¥¯¥í¥Î¥·¥¢",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/6d/Peter_StrasserNew_YearChibi.png",
+      "shipDescription": "Eugen, you said that this was is a ceremonial outfit from the Sakura Empire? Surprisingly, it does seem to suit me rather well. Oh, I'm supposed to offer my well-wishes for the New Year at this time, yes?",
+      "acquisition": "Eugen, you said that this was is a ceremonial outfit from the Sakura Empire? Surprisingly, it does seem to suit me rather well. Oh, I'm supposed to offer my well-wishes for the New Year at this time, yes?",
+      "login": "So you're working over the holidays. How commendable of you.",
+      "details": "The sands of time pile up to become a mountain; The passing of time eventually becomes history. Hehehe, how interesting.",
+      "secretaryIdle1": "I hear this is the time of year when New Year's gifts are handed out. Officer, would you rather be the one handing out the gifts or receiving them?",
+      "secretaryIdle2": "Eugen, Heinrich, there's a limit to how much rucku... teasing you should do.",
+      "secretaryIdle3": "Graf Zeppelin, why don't you try studying the Sakura Empire's shrines? Even if you don't pay your respects to their gods, the Sakura Empire's amazake seems quite interesting.",
+      "secretaryTouch": "The plan already takes the holidays into account. There won't be a problem even if you take some time off to rest, Officer.",
+      "secretarySpecialTouch": "Officer, are you telling me that this much is enough for you to not be able to hold back?"
+    }
+  ]
+}

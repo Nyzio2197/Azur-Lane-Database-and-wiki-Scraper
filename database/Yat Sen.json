@@ -1,0 +1,48 @@
+{
+  "name": "Yat Sen",
+  "rarity": "Elite",
+  "ID": "257",
+  "faction": "Dragon Empery",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/ed/Yat_SenChibi.png",
+      "shipDescription": "Cruiser, Yat Sen.",
+      "selfIntroduction": "Yat Sen of the First Fleet of the Dragon Empery, reporting in. I heard that my sisters have already arrived. This time, I promise that I will not leave your side.",
+      "acquisition": "This is the moment I have long waited for... I am Yat Sen, from the First Fleet of the Dragon Empery. Please allow me to be at your service once more.",
+      "login": "We meet again, Commander. Do not worry, I shall stay by your side as promised.",
+      "details": "Is there anything else you would like to know about me, Commander?",
+      "secretaryIdle1": "Ning Hai's steamed buns? Mm... they still have the same nostalgic flavor.",
+      "secretaryIdle2": "Only by remembering the lessons of the past can we move towards a brighter future.",
+      "secretaryIdle3": "Sometimes, I miss those days when I used to train together with all my sisters...",
+      "secretaryTouch": "What's wrong? Please don't have any strange expectations of me.",
+      "secretarySpecialTouch": "To do such a thing to a woman... Surely Commander is prepared to suffer the consequences.",
+      "secretaryHeadpat": "I am no longer the crybaby that I once was.",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/6/6a/Yat_Sen_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/ab/Yat_Sen_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/7/77/Yat_Sen_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Yat_Sen_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/8/83/Yat_Sen_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/4c/Yat_Sen_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/d/d0/Yat_Sen_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/8/81/Yat_Sen_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/b/b6/Yat_Sen_Sec2JP.ogg",
+      "secretaryHeadpatUrl": "https://azurlane.koumakan.jp/w/images/0/03/Yat_Sen_HeadpatJP.ogg"
+    },
+    {
+      "ENClientName": "Coronal Afterglow",
+      "CNClientName": "·ï¹ÚÏ¼àú",
+      "JPClientName": "øP¹ÚÏ¼àú",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a5/Yat_SenWeddingChibi.png",
+      "shipDescription": "Commander, thank you for waiting for me. Though I am unworthy of this honor, thank you so much...",
+      "acquisition": "Commander, thank you for waiting for me. Though I am unworthy of this honor, thank you so much...",
+      "secretaryIdle1": "For us to walk hand in hand until we become old... is my greatest wish.",
+      "secretaryIdle2": "I am now able to move forward without doubts... and it's all thanks to you, dear.",
+      "secretaryIdle3": "I never realized it before, but being by your side like this, watching Ping Hai and Ning Hai grow, and seeing the merriment of the other Dragon Empery children... makes me see that I am truly blessed.",
+      "secretaryTouch": "Is something the matter, dear? Yat Sen is always there for you. Yes, no matter what.",
+      "secretarySpecialTouch": "P-Please don't be so hasty, dear... at least, wait until we get back to our room..."
+    }
+  ]
+}

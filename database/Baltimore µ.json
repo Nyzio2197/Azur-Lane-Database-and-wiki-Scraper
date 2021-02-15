@@ -1,0 +1,23 @@
+{
+  "name": "Baltimore ?",
+  "rarity": "Elite",
+  "ID": "478",
+  "faction": "Eagle Union",
+  "classification": "Heavy cruiser (CA)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "shipDescription": "The name's Baltimore, Eagle Union heavy cruiser. Whoops, right, I'm not just a soldier anymore, but an idol as well. I agreed to do it, and I'm gonna do it as best I can. We'll be counting on your support, Commander.",
+      "selfIntroduction": "Heavy cruiser Baltimore, currently serving as an idol to test the Muse System. I'm giving it my all to put on the best performance you'll ever see.",
+      "acquisition": "The name's Baltimore, Eagle Union heavy cruiser. Whoops, right, I'm not just a soldier anymore, but an idol as well. I agreed to do it, and I'm gonna do it as best I can. We'll be counting on your support, Commander.",
+      "login": "What's on our schedule today, Commander? Same as always, I'm counting on you.",
+      "details": "A spin there... backstep there! Whew... Yeah, I'm just working out the choreography for our new single. Gotta come up with something everyone in the troop can dance, not just me.",
+      "secretaryIdle1": "There's tons of idol business to tend to, so I've not had much time to help people. Think you pick up the mantle for a while, Commander? Thanks, you're a hero! Hahahah!",
+      "secretaryIdle2": "These moves might be too hard for the Royal Navy girls... What do you think, Commander?",
+      "secretaryIdle3": "Th-this whole \"cute\" thing isn't exactly my thing... N-not that I hate it, and YOU seem to like it, I guess... Ughh...",
+      "secretaryTouch": "How's this for a signature pose? Good?",
+      "secretarySpecialTouch": "Eep! What was that for?!"
+    }
+  ]
+}

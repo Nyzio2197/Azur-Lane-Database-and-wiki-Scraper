@@ -1,0 +1,40 @@
+{
+  "name": "Benson",
+  "rarity": "Rare",
+  "ID": "018",
+  "faction": "Eagle Union",
+  "classification": "Destroyer (DD)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/70/BensonChibi.png",
+      "shipDescription": "Benson-class Destroyer - Benson, Hull Number DD-421!",
+      "selfIntroduction": "Here comes Benson! I'm way cooler than Anderson. I'm a capital destroyer, and can move at speeds up to 35 knots! My anti-air defenses are just as impressive. I can't wait for you to see me in battle!",
+      "acquisition": "Yahoo! Commander! Aren't you charmed by how cute and risqué I am? Huh? W-who am I? ... Hahaha... My name is Benson... It's a pleasure to meet you...",
+      "login": "Let's hear your excuse for making the strongest and cutest cutie in the world wait for so long, Commander!",
+      "details": "Stop touching my ears! I told you already, they're real! I-I'll bite you!",
+      "secretaryIdle1": "I'm so cute! The cutest in the universe!",
+      "secretaryIdle2": "I'm telling you, Commander, Fletcher's house next door is full of people! Us girls need to help her out every now and then~.",
+      "secretaryIdle3": "If you don't talk to me enough then I'll stop being a bunny! Woof woof!",
+      "secretaryTouch": "Whoa! I actually fell asleep! Could this be because of that fabled super hypnosis thing?!",
+      "secretarySpecialTouch": "Ah, I feel so hot... I'm burning inside!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/8/80/Benson_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/9/9a/Benson_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/a/ad/Benson_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/a/a2/Benson_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/b/be/Benson_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/4/43/Benson_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/4/40/Benson_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/8/85/Benson_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/3/37/Benson_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Cutie Pumpkin Pie",
+      "CNClientName": "万圣兔兔美少女！",
+      "JPClientName": "ウサウサ美少女☆HALLOWEEN",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/91/BensonHalloweenChibi.png",
+      "shipDescription": "Fighting for love and peace this Halloween night, it's none other than the pumpkin-style Planet Bunny cutie pie, Benson!"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "I-168",
+  "rarity": "Super Rare",
+  "ID": "398",
+  "faction": "Sakura Empire",
+  "classification": "Submarine (SS)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/67/I-168Chibi.png",
+      "shipDescription": "Kaidai Type VIa submarine – I-168.",
+      "selfIntroduction": "I am the submarine I-168. In the war, I avenged Hiryuu by taking out Yorktown and Hammann. Besides that... well... I really tried... but wasn't able to sink any other ships...",
+      "acquisition": "I'm I-168, but do call me Iroha. I expect you to know how to handle an extraordinary and decorated vessel such as myself!",
+      "login": "You're very late! ... A submarine such as myself is extremely patient, but that doesn't mean you can keep me waiting for this long...",
+      "details": "You want something from me, don't you? ... Well, even if you don't...",
+      "secretaryIdle1": "I'm bored... Entertain me, Commander!",
+      "secretaryIdle2": "I'm tired... I like it better in the ocean...",
+      "secretaryIdle3": "Hammann? If she wants to berate me then she can go ahead and try! I'll turn the tables on her!",
+      "secretaryTouch": "Don't touch me for no reason! ... It's a massage? O-okay... Continue...",
+      "secretarySpecialTouch": "Eeek?! W-what do you want?!",
+      "secretaryHeadpat": "W-what the hell?!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/7/7e/I-168_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a3/I-168_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/8/88/I-168_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/3/30/I-168_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/7/70/I-168_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/87/I-168_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/b/b0/I-168_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/b/bd/I-168_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/1/1c/I-168_Sec2JP.ogg",
+      "secretaryHeadpatUrl": "https://azurlane.koumakan.jp/w/images/a/ab/I-168_HeadpatJP.ogg"
+    },
+    {
+      "ENClientName": "Festive Mood!",
+      "CNClientName": "祭典之日！",
+      "JPClientName": "今日はお祭り気分！",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d4/I-168FestivalChibi.png",
+      "shipDescription": "I look different from usual? That's obvious, isn't it... All right, all right, I was just giving you a hard time. We're at a festival, so we might as well enjoy ourselves!",
+      "acquisition": "I look different from usual? That's obvious, isn't it... All right, all right, I was just giving you a hard time. We're at a festival, so we might as well enjoy ourselves!",
+      "details": "Fried squid! Dango! Candied apples! Om nom nom... *Cough cough*! N-need water...!",
+      "secretaryIdle1": "I just love festivals! You have my permission to take a break today? ... It's the other way around?",
+      "secretaryIdle2": "G-going around town every now and then isn't so bad, I guess...",
+      "secretaryIdle3": "Hammann can't tie her yukata's sash on her own either... W-what's so funny?! Hardly anyone can tie that thing on their own!",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/a/a5/I-168_IntroSkin1JP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/7f/I-168_DetailsSkin1JP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/c/c3/I-168_SecIdle1Skin1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/8/83/I-168_SecIdle2Skin1JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/8/8a/I-168_SecIdle3Skin1JP.ogg"
+    }
+  ]
+}

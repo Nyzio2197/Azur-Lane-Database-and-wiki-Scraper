@@ -1,0 +1,19 @@
+{
+  "name": "Fumiruiru",
+  "rarity": "Elite",
+  "ID": "Collab036",
+  "faction": "Utawarerumono",
+  "classification": "Aircraft carrier (CV)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/ba/FumiruiruChibi.png"
+    },
+    {
+      "CNClientName": "芙米露露(传颂之物)",
+      "JPClientName": "フミルィル(うたわれるもの)",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/e/e7/FumiruiruCollabChibi.png"
+    }
+  ]
+}

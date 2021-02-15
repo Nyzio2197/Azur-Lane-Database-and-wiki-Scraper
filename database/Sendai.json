@@ -1,0 +1,45 @@
+{
+  "name": "Sendai",
+  "rarity": "Rare",
+  "ID": "308",
+  "faction": "Sakura Empire",
+  "classification": "Light cruiser (CL)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/SendaiChibi.png",
+      "shipDescription": "Sendai-class light cruiser number one ¨C Sendai.",
+      "selfIntroduction": "I'm Sendai, the first ship of the Sendai-class. Although my service record isn't as impressive as my little sisters', I served as the flagship of Destroyer Squadron 3 and fought in tons of battles. I bit the dust at Bougainville, but I did so as a warrior with no regrets.",
+      "acquisition": "You're a commander? I don't need one... But maybe we were fated to meet, or something. Guess you've got me to look after too, now. The name's Sendai. Don't forget it.",
+      "login": "I'm done warmin' up. Time to sortie, or what?",
+      "details": "These bandages? They're not for when I get hurt, they're for wrapping around my fists... You'll struggle to find anyone who can actually injure me.",
+      "secretaryIdle1": "I dream of justice, justice for... Never mind. Let's write off that one as a joke.",
+      "secretaryIdle2": "All I have are my principles and my fists. Even so, I'll always keep moving forward.",
+      "secretaryIdle3": "Commander, who do you think is our worst enemy? The Sirens? I think it's our own minds.",
+      "secretaryTouch": "Commander, you'll end up gettin' hurt if you approach me without warning.",
+      "secretarySpecialTouch": "You got a damn death wish? You askin' me to knock some sense into that skull of yours? Izzat it, huh?!",
+      "selfIntroductionUrl": "https://azurlane.koumakan.jp/w/images/6/64/Sendai_SelfIntroJP.ogg",
+      "acquisitionUrl": "https://azurlane.koumakan.jp/w/images/e/e0/Sendai_IntroJP.ogg",
+      "loginUrl": "https://azurlane.koumakan.jp/w/images/3/3d/Sendai_LogJP.ogg",
+      "detailsUrl": "https://azurlane.koumakan.jp/w/images/7/72/Sendai_DetailsJP.ogg",
+      "secretaryIdle1Url": "https://azurlane.koumakan.jp/w/images/c/cc/Sendai_SecIdle1JP.ogg",
+      "secretaryIdle2Url": "https://azurlane.koumakan.jp/w/images/f/f6/Sendai_SecIdle2JP.ogg",
+      "secretaryIdle3Url": "https://azurlane.koumakan.jp/w/images/3/33/Sendai_SecIdle3JP.ogg",
+      "secretaryTouchUrl": "https://azurlane.koumakan.jp/w/images/d/d4/Sendai_Sec1JP.ogg",
+      "secretarySpecialTouchUrl": "https://azurlane.koumakan.jp/w/images/9/96/Sendai_Sec2JP.ogg"
+    },
+    {
+      "ENClientName": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/37/SendaiKaiChibi.png",
+      "shipDescription": "Hmh. Guess I won't be needin' these bandages anymore. Commander, how about we find out how strong I've gotten... by having you take one of my punches?",
+      "acquisition": "Hmh. Guess I won't be needin' these bandages anymore. Commander, how about we find out how strong I've gotten... by having you take one of my punches?",
+      "login": "You're back, huh? Focus on your work. Gimme a shout when it's time to sortie.",
+      "details": "Yeah? Oh, I'm working on my sortie pose. When goin' to war, you need a war pose, y'know?",
+      "secretaryIdle1": "Violence is the only solution I know of for my problems. That's why I envy you and Jintsuu sometimes.",
+      "secretaryIdle2": "Whenever I try to be like Jintsuu and use logic to solve problems, I usually end up using my fists anyway. I dunno why, either...",
+      "secretaryIdle3": "Hardships don't get under my skin, but I'm scared that I'll one day lose my way...",
+      "secretarySpecialTouch": "Hold still, Commander. We're pals, so I'll only hit you with 80% of my full strength!"
+    }
+  ]
+}

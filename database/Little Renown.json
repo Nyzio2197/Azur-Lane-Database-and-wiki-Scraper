@@ -1,0 +1,25 @@
+{
+  "name": "Little Renown",
+  "rarity": "Elite",
+  "ID": "451",
+  "faction": "Royal Navy",
+  "classification": "Battlecruiser (BC)",
+  "retrofit": false,
+  "skins": [
+    {
+      "ENClientName": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/db/Little_RenownChibi.png",
+      "shipDescription": "Renown-Class Battlecruiser - HMS Renown",
+      "selfIntroduction": "I am the battlecruiser Renown, and I was training in Govan before coming here! Being able to weigh anchor ahead of schedule is a testament to my strength... Indeed! I will do my utmost to live up to everyone's expectations!",
+      "acquisition": "The Renown-class battlecruiser Renown has come to join your ranks! My stature may be small, but my desire to succeed is great!",
+      "login": "Commander, Renown is awaiting your orders! Please issue today's commands!",
+      "details": "There are many things that I do not understand in the Codex of the Royal Knights! Commander, can you offer me any guidance?",
+      "secretaryIdle1": "As long as Renown is here, no harm shall befall you, Commander!",
+      "secretaryIdle2": "The serious and dedicated Little Renown is cute? I see, I'll be sure to pass on the message to... wait, what?",
+      "secretaryIdle3": "It's not just you. Everyone here at port is truly amazing... I must redouble my efforts...!",
+      "secretaryTouch": "Candy? I'll have you know, Commander... Renown has no use for such things!",
+      "secretarySpecialTouch": "Commander! That's in violation of Royal etiquette!",
+      "secretaryHeadpat": "Myahh?! Wh-what are you doing?!"
+    }
+  ]
+}
