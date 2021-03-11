@@ -2,7 +2,8 @@ package als.datatypes;
 
 public class Data {
 
-    // voice transcriptions: CN, JP, EN order
+    private String name;
+
     private String shipDescription;
     private String selfIntroduction;
     private String acquisition;
@@ -18,6 +19,14 @@ public class Data {
     private String secretarySpecialTouch;
     private String secretaryHeadpat;
     private String mail;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public String getShipDescription() {
         return shipDescription;

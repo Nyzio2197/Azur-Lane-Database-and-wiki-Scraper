@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
         File dir = new File("database");
-        String path = "C:/Users/Alan X/Documents/GitHub/ALS Data/data/";
+        String path = "/home/ubuntu/data";
         assert dir.isDirectory();
         Gson gson = new GsonBuilder()
                 .setPrettyPrinting()
@@ -32,17 +32,19 @@ public class Main {
                 details.setRarity(s.getRarity());
                 details.setClassification(s.getClassification());
                 details.setRetrofit(s.isRetrofit());
-                s.setName(s.getName().replace("µ", "(muse)").replaceAll("[^a-zA-Z0-9À-ȕ '!?:]", ""));
+                details.setName(s.getName());
+                s.setName(s.getName().replace("µ", "(muse)").replaceAll("[^a-zA-Z0-9()]", ""));
                 new File(path + s.getName()).mkdir();
                 System.out.println(s.getName());
                 FileWriter fileWriter = new FileWriter(path + s.getName() + "/details.json", false);
                 fileWriter.write(gson.toJson(details));
                 fileWriter.close();
                 for (Skin skin : s.getSkins()) {
-                    skin.setENClientName(skin.getName().replaceAll("[^a-zA-Z0-9À-ȕ '!?:@*]", ""));
+                    Data data = new Data();
+                    data.setName(skin.getName());
+                    skin.setENClientName(skin.getName().replaceAll("[^a-zA-Z]", ""));
                     System.out.println(skin.getName());
                     System.out.println(new File(path + s.getName() + "/" + skin.getName()).mkdir());
-                    Data data = new Data();
                     data.setShipDescription(skin.getShipDescription());
                     data.setSelfIntroduction(skin.getSelfIntroduction());
                     data.setAcquisition(skin.getAcquisition());

@@ -2,12 +2,21 @@ package als.datatypes;
 
 public class Details {
 
+    private String name;
     private String rarity;
     private String ID;
     private String faction;
     private String classification;
 
     private boolean retrofit;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public String getRarity() {
         return rarity;

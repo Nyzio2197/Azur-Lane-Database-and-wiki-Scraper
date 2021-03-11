@@ -1,6 +1,10 @@
 plugins {
     id 'java'
+    id 'application'
+    id 'com.github.johnrengelman.shadow' version '5.2.0'
 }
+
+mainClassName = 'als.Main'
 
 group 'org.example'
 version '1.0-SNAPSHOT'
