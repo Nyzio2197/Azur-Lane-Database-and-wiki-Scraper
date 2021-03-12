@@ -15,7 +15,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-        File dir = new File("database");
+        File dir = new File("/home/ubuntu/programs/database");
         String path = "/home/ubuntu/data";
         assert dir.isDirectory();
         Gson gson = new GsonBuilder()
